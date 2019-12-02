@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed152.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed151.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed153.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed152.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/300</id>
+    <title>Sun to join web services group</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "SUN Microsystems looks set to take a seat on the Web Services Interoperability forum, after almost two years of argy-bargy with founding members Microsoft and IBM." The more folks involved in making web services work, the better I like it. Wahoo!</summary>
+    <content type="html">&lt;h1>Sun to join web services group&lt;/h1>
+&lt;a href="http://australianit.news.com.au/articles/0,7204,5374081%5E15344%5E%5Enbv%5E15306-15321,00.html">Here&lt;/a>. "SUN Microsystems looks set to take a seat on the Web Services Interoperability forum, after almost two years of argy-bargy with founding members Microsoft and IBM."
+
+The more folks involved in making web services work, the better I like it. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/297</id>
+    <title>Creating Non-Rectangular Windows</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "It's possible to change the shape of the form by making parts completely transparent. One way to do this is with the TransparencyKey property, which designates a color to use to mark transparent pixels. When a pixel on the form is supposed to be drawn with the transparent key color, that pixel will instead be removed from the form, both in the sense that the pixel will not be drawn over whatever is behind it and that clicking on that spot on the form will actually cause the click to happen on what's ...</summary>
+    <content type="html">&lt;h1>Creating Non-Rectangular Windows&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7535/win1034118484572/1003cso.html">Here&lt;/a>. "It's possible to change the shape of the form by making parts completely transparent. One way to do this is with the TransparencyKey property, which designates a color to use to mark transparent pixels. When a pixel on the form is supposed to be drawn with the transparent key color, that pixel will instead be removed from the form, both in the sense that the pixel will not be drawn over whatever is behind it and that clicking on that spot on the form will actually cause the click to happen on what's underneath."
+
+This is a little exerpt from the book about using WinForms to do non-rectangular forms and hit-testing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/296</id>
+    <title>Visual Studio .NET Info Center</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. If you've got a VS.NET question, I'm now the official SearchVB site's VS.NET "expert", which seems strange on a site with "VB" in the title, but.NET is about language-neutrality, after all. : )</summary>
+    <content type="html">&lt;h1>Visual Studio .NET Info Center &lt;/h1>
+&lt;a href="http://searchvb.techtarget.com/vsnetHome/0,293828,sid8,00.html">Here&lt;/a>. If you've got a VS.NET question, I'm now the official SearchVB site's VS.NET "expert", which seems strange on a site with "VB" in the title, but .NET is about language-neutrality, after all. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/294</id>
+    <title>Using ATL Server to Build Web Services</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "[W]here is the unmanaged programmer to turn [for building web services]? The answer is ATL Server. Developers familiar with conventional COM programming using Visual Studio® 6.0 and ATL 3.0 will find an extraordinarily empowering suite of tools and classes in the new ATL 7.0 library that comes with Visual Studio.NET. The classes that support such Web application development as building XML Web Services are collectively termed ATL Server. This article will explain how the C++ programmer can use the fa...</summary>
+    <content type="html">&lt;h1>Using ATL Server to Build Web Services&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/12/ATLServer/default.aspx">Here&lt;/a>. "[W]here is the unmanaged programmer to turn [for building web services]? The answer is ATL Server. Developers familiar with conventional COM programming using Visual Studio® 6.0 and ATL 3.0 will find an extraordinarily empowering suite of tools and classes in the new ATL 7.0 library that comes with Visual Studio .NET. The classes that support such Web application development as building XML Web Services are collectively termed ATL Server. This article will explain how the C++ programmer can use the facilities available in ATL Server to develop high-performance Web Services quickly."
+
+This is really Kirk's baby, I just helped get it dressed for public display. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12571</id>
+    <title>A Giant Sucking Sound</title>
+    <updated>2002-10-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-10-26T07:00:00.000Z</published>
+    <summary>Sat, October 26, 2002 While I'm in favor of NAFTA, and free trade over all, it's certainly not helping US workers. Instead, it favors US corporations as they made use of cheaper labor. Of course, it's the corporations that also seem to make out on these deals, doesn't it? Similarly, the other &amp;quot;giant sucking sound&amp;quot; I've heard lately are my friends moving to Redmond to work for Microsoft. MS is using the recession to cherry pick the best and the brightest in the industry. I can think of almost ten p...</summary>
+    <content type="html">&lt;h1>A Giant Sucking Sound&lt;/h1>
+&lt;p>&lt;i>Sat, &lt;span class="created">October 26, 2002&lt;/span>&lt;/i>&lt;/p>
+        &lt;p>While I'm in favor of NAFTA, and free trade over all, it's certainly 
+        not helping US workers. Instead, it favors US corporations as they made 
+        use of cheaper labor. Of course, it's the corporations that also seem to 
+        make out on these deals, doesn't it? Similarly, the other &amp;quot;giant sucking 
+        sound&amp;quot; I've heard lately are my friends moving to Redmond to work for 
+        Microsoft. MS is using the recession to cherry pick the best and the 
+        brightest in the industry. I can think of almost ten people I know 
+        personally that have gone to Microsoft in the last six months. And these 
+        aren't folks that were laid off and had to go, either (even though 
+        everyone but Microsoft is laying off). These are good folks that had 
+        good jobs, either as employees or as independents. One even owned half 
+        of what was my favorite company in the whole world! So why are they 
+        doing it? Why are they giving up their old lives to work at MS, often 
+        moving to Redmond in the process?&lt;/p>
+        &lt;p>I think they're going for a variety of reasons. One is definitely the 
+        safe harbor aspect. As an independent in the current economy, I have to 
+        work my butt off to attract funding using self-promotion techniques that 
+        I didn't have to use during the Internet boom. I'm successful and I love 
+        the work and the life, but it's still a lot of work that I know others 
+        are not willing to do. Another reason related to the &amp;quot;really hard work&amp;quot; 
+        problem is that Microsoft, for the caliber of my friends, is allowed to 
+        offer what used to be a laughable salary, but is now looking pretty good 
+        against what's generally available. If you can get 75% of what you used 
+        to make as an independent, great benefits and stock options that may do 
+        something someday, that's pretty compelling. And the stock price is 
+        pretty attractive right now. It's my belief that, as a 
+        government-sponsored monopoly, Microsoft is fundamentally sound, and the 
+        stock price is artificially low. If you were going to go to Microsoft 
+        any time in the last five years, now is the time. The stock is only 
+        going to go up.&lt;/p>
+        &lt;p>But the big reason that makes people go, and this is the one that 
+        might tip me some day, is the raw, visceral experience. For better or 
+        worse, Microsoft is the mother ship from which everything we know now 
+        has sprung. And they're still setting the tone. I know I dream of moving 
+        to Redmond to work on the next technology that's going to kick ass in 
+        2-3 years, like Don and Martin and Yasser did. I'd also love to live 
+        where I am now, commuting to Redmond a week/month to work with developer 
+        education, focusing on research and writing, like Tim did. Sometimes I 
+        want to just chuck the extra effort it takes to stay &amp;quot;outside,&amp;quot; throw up 
+        my hands and let the assimilation process begin.&lt;/p>
+        &lt;p>So, why haven't I thrown in the towel? I'm waiting. I'm waiting for 
+        the perfect balance of quality of life where I get to spend every day 
+        doing exactly what I want, working with a team on a long-term project 
+        that I really believe in, but without the politics or the management 
+        responsibilities that I deplore and without giving up my family or 
+        dropping significantly in income. Right now I've got that all nailed 
+        except for the team and the long-term project, so I've got it damn good, 
+        but I'm still looking. Who knows? Maybe I'll get caught in the mass geek 
+        migration to Redmond some day, but not yet...&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12356</id>
+    <title>Doonesbury on Blogs</title>
+    <updated>2002-10-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-10-25T07:00:00.000Z</published>
+    <summary>Starts on October 21st and runs for several days. Hits home. </summary>
+    <content type="html">&lt;h1>Doonesbury on Blogs&lt;/h1>
+&lt;p>&lt;a href="http://www.doonesbury.com/strip/dailydose/index.cfm?uc_full_date=20021021&amp;uc_daction=X">Starts on October 21st and runs for several days&lt;/a>. Hits home.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12572</id>
+    <title>Type Safety in a Loosely Coupled World</title>
+    <updated>2002-10-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-10-17T07:00:00.000Z</published>
+    <summary>Tim Ewald gave a very rousing keynote address at the WinDev conference in Boston yesterday. During his talk, he did something I've never really heard anyone do convincingly before -- he defended the typeless recordset/rowset/dataset style of programming. His justification was that you don't always need type-safe object models and, when getting a subset of data, they're often more trouble than they're worth (do you really want a set of types for every query in your app?). My standard objection to the &amp;quot;j...</summary>
+    <content type="html">&lt;h1>Type Safety in a Loosely Coupled World&lt;/h1>
+
+        &lt;p>Tim Ewald gave a very rousing keynote address at the WinDev 
+        conference in Boston yesterday. During his talk, he did something I've 
+        never really heard anyone do convincingly before -- he defended the 
+        typeless recordset/rowset/dataset style of programming. His 
+        justification was that you don't always need type-safe object models 
+        and, when getting a subset of data, they're often more trouble than 
+        they're worth (do you really want a set of types for every query in your 
+        app?).&lt;/p>
+        &lt;p>My standard objection to the &amp;quot;just the data, ma'am&amp;quot; style of 
+        programming is that I don't get compile-time type checking. Of course, I 
+        can write the code to check all the data I get at runtime, but I don't 
+        like to do that. Instead, I like things like the type safe dataset 
+        generator built into VS.NET. However, that damn tool fooled me. I looked 
+        at those type safe wrappers and considered that compile-time type 
+        checking. Of course, it's not. Instead, it's a hunk of code that 
+        pretends to offer compile-time type checking, but only really offers 
+        run-time type checking, because the data still needs to be coerced at 
+        *runtime*.&lt;/p>
+        &lt;p>I have always turned up my nose at run-time type checking until I 
+        realized (and this is the insight I got from Tim's talk) that *all* 
+        marshaling-based type checking is done at run-time. Even the 
+        type-checking done in COM between apartments needs to coerce the data to 
+        and from a serialized format, which means that it's possible for the 
+        data to be mismatched between two endpoints, causing a type exception at 
+        runtime. Since I'm not willing to give up the loose coupling involved 
+        with components talking to each other across 
+        apartment/thread/process/machine/context/appdomain/whatever boundaries, 
+        I need to accept the fact that type checking needs to happen at run-time 
+        as well as at compile-time. As far as type checking is concerned, 
+        unmarshaling an RPC call stack is really no different than 
+        coercing/converting dataset columns or applying an XSD to an XML 
+        document.&lt;/p>
+        &lt;p>Once I've accepted run-time type checking, I can take Don's advice to 
+        &amp;quot;free your mind&amp;quot; (he's moved on to other parts of The Matrix not 
+        involving medication) and embrace things like structural typing, which 
+        is much more flexible than the nominal typing that OO languages rely on. 
+        I told you that &amp;quot;nobody makes it the first time,&amp;quot; Don, but I think I've 
+        finally made it across. : )&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12420</id>
+    <title>Scancode Mapper</title>
+    <updated>2002-10-13T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/ScancodeMapper.JPG"/>
+    <category term="tools" label="Tools"/>
+    <published>2002-10-13T07:00:00.000Z</published>
+    <summary>Scancode Mapper is a GUI tool for setting the Scan Code Mapper for Windows Registry settings for Win2K+: As an example of what this tool does to the Registry, this.reg file turns off the CapsLock key. Of course, changing scancode mappings is a risky business, so be sure of what you're doing before committing the changes and restarting Windows. No warranties extended. Use at your own risk. Enjoy. : ) </summary>
+    <content type="html">&lt;h1>Scancode Mapper&lt;/h1>
+
+&lt;p>&lt;a href="/public/tools/scancodeMapper.zip">Scancode 
+Mapper&lt;/a> is
+&lt;a href="http://www.microsoft.com/hwdev/tech/input/w2kscan-map.asp">
+a GUI tool for setting the Scan Code Mapper for Windows Registry settings&lt;/a> 
+for Win2K+:&lt;/p>
+&lt;p>&lt;img border="0" src="/public/tools/ScancodeMapper.JPG" width="464" height="156">&lt;/p>
+    &lt;p align="left">As an example of what this tool does to the Registry,
+    &lt;a href="/public/tools/caps-off.reg">this .reg file turns off the CapsLock key&lt;/a>. Of course, changing scancode mappings is a risky business, 
+    so be sure of what you're doing before committing the changes and restarting 
+    Windows. No warranties extended. Use at your own risk. Enjoy. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/284</id>
+    <title>Scancode Mapper</title>
+    <updated>2002-10-13T07:00:00.000Z</updated>
+    <published>2002-10-13T07:00:00.000Z</published>
+    <summary>Here. Scancode Mapper is a GUI tool for setting the Scan Code Mapper for Windows Registry settings for Win2K+, e.g. disabling the Caps Lock Key.</summary>
+    <content type="html">&lt;h1>Scancode Mapper&lt;/h1>
+&lt;a href="/12420">Here&lt;/a>. Scancode Mapper is a GUI tool for setting the Scan Code Mapper for Windows Registry settings for Win2K+, e.g. disabling the Caps Lock Key.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/285</id>
+    <title>The .NET Show: The Developer Roadmap</title>
+    <updated>2002-10-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-13T07:00:00.000Z</published>
+    <summary>Here. "In today's episode, we talk with Thomas O'Grady and Kerry Carnahan about the.NET Developer Roadmap that they have developed to help Enterprise developers understand the best ways for them to properly acquire the skills they need for developing applications using.NET." I haven't seen this episode yet, but I generally watch all episodes of The.NET Show and enjoy them.</summary>
+    <content type="html">&lt;h1>The .NET Show: The Developer Roadmap&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/theshow/Episode028/default.asp">Here&lt;/a>. "In today's episode, we talk with Thomas O'Grady and Kerry Carnahan about the .NET Developer Roadmap that they have developed to help Enterprise developers understand the best ways for them to properly acquire the skills they need for developing applications using .NET."
+
+I haven't seen this episode yet, but I generally watch all episodes of The .NET Show and enjoy them.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/283</id>
+    <title>ISO close to approving C#, CLI as standards</title>
+    <updated>2002-10-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-12T07:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: The programming language C#, as well as the CLI (Common Language Infrastructure), have passed through a working group within the ISO (International Organization for Standardization) and will likely be approved by January, said John Montgomery, group product manager with Microsoft's.Net developer platform group.</summary>
+    <content type="html">&lt;h1>ISO close to approving C#, CLI as standards&lt;/h1>
+&lt;a href="http://www.infoworld.com/articles/hn/xml/02/10/11/021011hncsharp.xml?s=rss&amp;t=news&amp;slot=2">Here&lt;/a>. From Husein Choroomi: The programming language C#, as well as the CLI (Common Language Infrastructure), have passed through a working group within the ISO (International Organization for Standardization) and will likely be approved by January, said John Montgomery, group product manager with Microsoft's .Net developer platform group.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/281</id>
+    <title>SQL Server Centric .NET Code Generator</title>
+    <updated>2002-10-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-11T07:00:00.000Z</published>
+    <summary>Here. "SQL Server Centric.NET Code Generator (code named OlyMars) is both a flexible and powerful code generator based on database modeling. It allows instant generation of both SQL and.Net code providing a complete library of stored procedures,.NET classes and ready-to-use Windows/Web form controls (including associated documentation). SQL Server Centric.NET Code Generator is also fully extensible to use one's own custom templates and consequently can be adjusted to generate any custom code respecting a ho...</summary>
+    <content type="html">&lt;h1>SQL Server Centric .NET Code Generator&lt;/h1>
+&lt;a href="http://www.microsoft.fr/olymars/webupdate.xml">Here&lt;/a>. "SQL Server Centric .NET Code Generator (code named OlyMars) is both a flexible and powerful code generator based on database modeling. It allows instant generation of both SQL and .Net code providing a complete library of stored procedures, .NET classes and ready-to-use Windows/Web form controls (including associated documentation). SQL Server Centric .NET Code Generator is also fully extensible to use one's own custom templates and consequently can be adjusted to generate any custom code respecting a homogeneous implementation scheme within the company (can be written either in VB .NET or C# .NET)."
+
+This isn't particularly new, but it's new to me and it's from Microsoft France. I also saw that Justin Rudd has used it. Can anyone contribute any comments about OlyMars?
+
+[pinetree-tech.com/weblog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/282</id>
+    <title>Microsoft's singing in C#</title>
+    <updated>2002-10-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-11T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger: Microsoft and its allies have quietly expanded an effort to gain acceptance for C#, the software giant's competitor to Java and a foundation for its next-generation Internet services.</summary>
+    <content type="html">&lt;h1>Microsoft's singing in C#&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1104-961737.html">Here&lt;/a>. From Keith Wedinger: Microsoft and its allies have quietly expanded an effort to gain acceptance for C#, the software giant's competitor to Java and a foundation for its next-generation Internet services.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/280</id>
+    <title>Brian Jepson Blogs the DevCon</title>
+    <updated>2002-10-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-10-11T07:00:00.000Z</published>
+    <summary>Here. Can't be at the DevCon? Check out Brian Jepson's talk-by-talk coverage on his blog. I'm sorry if you can't be there, though. We're having a blast!</summary>
+    <content type="html">&lt;h1>Brian Jepson Blogs the DevCon&lt;/h1>
+&lt;a href="http://www.jepstone.net/radio/">Here&lt;/a>. Can't be at the DevCon? Check out Brian Jepson's talk-by-talk coverage on his blog. I'm sorry if you can't be there, though. We're having a blast!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12357</id>
+    <title>Top 10 Reasons You Know Youve Been Hacking Too Many Web Services...</title>
+    <updated>2002-10-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-10-10T07:00:00.000Z</published>
+    <summary>You start using URIs to address real envelopes while paying the bills You use XPath to refer to family members You can't understand why nobody thinks that SOAP is &amp;quot;simple&amp;quot; anymore You try to determine what portTypes your spouse exposes You don't have any trouble expanding BPL4WS You prefer to write code to find something on Google You ask for vanilla instead of doc/lit You purchase the &amp;quot;Infoset&amp;quot; license plate for your car You challenge people to say &amp;quot;UDDI's UUIDs&amp;quot; 10 times fast...</summary>
+    <content type="html">&lt;h1>Top 10 Reasons You Know Youve Been Hacking Too Many Web Services...&lt;/h1>
+&lt;ol>&lt;li value="10">You start using URIs to address real envelopes while paying the bills&lt;/li>&lt;li value="9">You use XPath to refer to family members&lt;/li>&lt;li value="8">You can't understand why nobody thinks that SOAP is &amp;quot;simple&amp;quot; anymore&lt;/li>&lt;li value="7">You try to determine what portTypes your spouse exposes&lt;/li>&lt;li value="6">You don't have any trouble expanding BPL4WS&lt;/li>&lt;li value="5">You prefer to write code to find something on Google&lt;/li>&lt;li value="4">You ask for vanilla instead of doc/lit&lt;/li>&lt;li value="3">You purchase the &amp;quot;Infoset&amp;quot; license plate for your car&lt;/li>&lt;li value="2">You challenge people to say &amp;quot;UDDI's UUIDs&amp;quot; 10 times fast&lt;/li>&lt;li value="1">You no longer see the angle brackets, &amp;quot;just blond, brunette, redhead&amp;quot;&lt;/li>&lt;/ol>&lt;p>&lt;i>Reasons from Aaron Skonnard, Tim Ewald and Chris Sells&lt;br>Presented at the Web Services DevCon East&lt;br>Thu &lt;span class="created">10/10/2002, 8:55am&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+</feed>

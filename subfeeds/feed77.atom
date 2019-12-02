@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed77.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed76.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed78.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed77.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1332</id>
+    <title>What Happens When You Surf to WinFX.com?</title>
+    <updated>2004-05-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-11T07:00:00.000Z</published>
+    <summary>The right thing happens, imo, but I'm hardly unbiased. : )</summary>
+    <content type="html">&lt;h1>What Happens When You Surf to WinFX.com?&lt;/h1>
+&lt;A href="http://www.winfx.com">The right thing happens&lt;/A>, imo, but I'm hardly unbiased. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1331</id>
+    <title>"Down-to-Earth Marketing"</title>
+    <updated>2004-05-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-08T07:00:00.000Z</published>
+    <summary>In a recent post, Brendan Tompkins describes one of my recent Channel9 videos as "down-to-earth marketing." On the one hand, I find that&amp;nbsp;ironic, as that particular video is me talking about the chaos that is MS culture and wondering how we get anything done at all, so if that makes you want to come then you belong here, Brendan. : ) On the other hand, at MSDN we realize that we're all in marketing. In fact, any individial or organization whose job it is to talk with customers is in marketing. The parti...</summary>
+    <content type="html">&lt;h1>"Down-to-Earth Marketing"&lt;/h1>
+&lt;P>In &lt;A href="http://dotnetjunkies.net/WebLog/BsBlog/archive/2004/05/07/13066.aspx">a recent post&lt;/A>, Brendan Tompkins describes &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=5219#5219">one of my recent Channel9 videos&lt;/A> as "down-to-earth marketing." On the one hand, I find that&amp;nbsp;ironic, as that particular video is me talking about the chaos that is MS culture and wondering how we get anything done at all, so if that makes you want to come then you belong here, Brendan. : )&lt;/P>
+&lt;P>On the other hand, at MSDN we realize that &lt;EM>we're all in marketing&lt;/EM>. In fact, any individial or organization whose job it is to talk with customers is in marketing. The particular brand of marketing we use at MSDN is "not marketing," i.e. we package up the most technical, straight-forward information we can and get it into the hands of developers so that they can be successful using our platforms. Of course, the desired result is that more developers build most stuff on our platforms that causes more folks to purchase our platforms, which is why it's a marketing function.&lt;/P>
+&lt;P>Thinking of it as marketing is helpful, as it focuses me on what I've determined as job #1 in marketing: never say anything bad about your products that doesn't have a solution. For example, recently I was giving a talk at &lt;A href="http://www.corillian.com/">Corillian&lt;/A>&amp;nbsp;(&lt;A href="http://www.hanselman.com/">Scott Hanselman&lt;/A>'s day job) and I was very free with the problems in Windows XP (which is really just a keep trick to get the audience to like me), &lt;EM>but only because I was pitching Longhorn as the solution to all of those problems&lt;/EM> (and, of course, the cause of no new problems : ). On the other hand, if I had focused on the problems of Windows XP without being right there with a proposed solution to this problems, not only would my talk have tanked (who likes to hear problems w/ no solutions?), but it would have been counter to the purpose of my job: driving customers to our products.&lt;/P>
+&lt;P>So, am I a technologist? I like to think so. Am I engaged in the down-to-earth marketing that Brendan prefers? Absolutely. And good eye, Brandan!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1329</id>
+    <title>I'm loving the WinHEC build of Longhorn</title>
+    <updated>2004-05-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-07T07:00:00.000Z</published>
+    <summary>The WinHEC build of Longhorn just seems so much more stable than the PDC build of Longhorn, that I find it a pleasure to use. If you're an MSDN subscriber into Longhorn, I recommend it.</summary>
+    <content type="html">&lt;h1>I'm loving the WinHEC build of Longhorn&lt;/h1>
+The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than the PDC build of Longhorn, that I find it a pleasure to use. &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.aspx">If you're an MSDN subscriber into Longhorn, I recommend it&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1330</id>
+    <title>The WinFS Team on the Status of WinFS</title>
+    <updated>2004-05-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-07T07:00:00.000Z</published>
+    <summary>Here. After Business Week reported the death of WinFS, some folks have been justifiably worried that such a cool feature would, in fact, be missing when their copy of Longhorn showed up at their door. Today Toby Whitney, the Group Program Manager of the WinFS team, stepped in to report that WinFS was alive and well : "WinFS is in good shape and hasn't been cut from Longhorn.&amp;nbsp; We're going to ship it :-).&amp;nbsp; What we need is your feedback on whether we're building the right thing.&amp;nbsp; It'd be great i...</summary>
+    <content type="html">&lt;h1>The WinFS Team on the Status of WinFS&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.winfs&amp;mid=600906c5-1d85-4309-84b8-42e28fa29635">Here&lt;/a>. &lt;P>After &lt;A href="http://yahoo.businessweek.com/magazine/content/04_16/b3879009_mz001.htm">Business Week reported the death of WinFS&lt;/A>, some folks have been justifiably worried that such a cool feature would, in fact, be missing when their copy of Longhorn showed up at their door. Today &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.winfs&amp;amp;mid=600906c5-1d85-4309-84b8-42e28fa29635">Toby Whitney, the Group Program Manager of the WinFS team, stepped in to report that WinFS was alive and well&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>"WinFS is in good shape and hasn't been cut from Longhorn.&amp;nbsp; We're going to ship it :-).&amp;nbsp; What we need is your feedback on whether we're building the right thing.&amp;nbsp; It'd be great if you went to MSDN and downloaded the newest bits.&amp;nbsp; They're much more stable and represent a big evolution of what we're doing."&lt;/BLOCKQUOTE>
+&lt;P>To provide the feedback that Toby is looking for, &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.aspx">download Longhorn and the Longhorn SDK from the MSDN Subscriber Downloads section&lt;/A> and &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.winfs">post your feedback on the WinFS newsgroup&lt;/A>, where Toby posted his response and the WinFS team is hangs out waiting for you.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1327</id>
+    <title>More Free WIndows Forms Controls:vbAccelerator</title>
+    <updated>2004-05-07T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-07T07:00:00.000Z</published>
+    <summary>After posting a few sets of free Windows Forms controls, now I'm a magnet for the "but you forgot my favorite free controls site" emails, which I feel compelled to share with you. This time, it's the vbAccelerator site, which is a mix of VB6 and.NET controls, code and tools. The.NET stuff is here. Enjoy. </summary>
+    <content type="html">&lt;h1>More Free WIndows Forms Controls:vbAccelerator&lt;/h1>
+&lt;P>After posting a few sets of free Windows Forms controls, now I'm a magnet for the "but you forgot my favorite free controls site" emails, which I feel compelled to share with you. This time, it's the vbAccelerator site, which is a mix of VB6 and .NET controls, code and tools. &lt;A href="http://www.vbaccelerator.com/home/NET/index.asp">The .NET stuff is here&lt;/A>. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1328</id>
+    <title>What's New in Avalon 4074</title>
+    <updated>2004-05-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-07T07:00:00.000Z</published>
+    <summary>Nathan Dunlap takes us on a tour of his favorite new things in Avalon in the WinHEC build of Longhorn (4074), including a sneak peak an updated GelButton, his love affair with the&amp;nbsp; new Grid panel, his lust for real 3D and more. You gotta love that enthusiasm. : )</summary>
+    <content type="html">&lt;h1>What's New in Avalon 4074&lt;/h1>
+&lt;A href="http://www.longhornblogs.com/ndunlap/archive/2004/05/07/3413.aspx">Nathan Dunlap takes us on a tour of his favorite new things in Avalon in the WinHEC build of Longhorn&lt;/A> (4074), including a sneak peak an updated GelButton, his love affair with the&amp;nbsp; new Grid panel, his lust for real 3D and more. You gotta love that enthusiasm. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1326</id>
+    <title>A Huge Variety of Declarative UIs</title>
+    <updated>2004-05-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-07T07:00:00.000Z</published>
+    <summary>I had no idea that there were so many declarative platforms for UI. The XUL Grand Coding Challenge 2004 shows off 10 and the XAML app ain't even posted yet (but it's coming ).</summary>
+    <content type="html">&lt;h1>A Huge Variety of Declarative UIs&lt;/h1>
+I had no idea that there were so many declarative platforms for UI. &lt;A href="http://xul.sourceforge.net/counter.html">The XUL Grand Coding Challenge 2004 shows off 10&lt;/A> and the XAML app ain't even posted yet (but &lt;A href="http://www.longhornblogs.com/akinney/archive/2004/05/06/3371.aspx">it's coming&lt;/A>).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1324</id>
+    <title>Conference In A Box: WinHEC Longhorn Materials</title>
+    <updated>2004-05-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-06T07:00:00.000Z</published>
+    <summary>Dave Massy has amassed some information about the new WinHEC Longhorn build (4074) and it's available on the Longhorn Developer Center in the " Conference In A Box." The idea is to bundle the set of conference-related materials together into a kind of "virtual event" so that even folks that didn't get to go to WinHEC can get the Longhorn information that was provided there. The plan is to gather this same kind of material for future Longhorn community technology preview drops.</summary>
+    <content type="html">&lt;h1>Conference In A Box: WinHEC Longhorn Materials&lt;/h1>
+Dave Massy has amassed some information about the new WinHEC Longhorn build (4074) and it's available on the Longhorn Developer Center in the "&lt;A href="http://msdn.microsoft.com/Longhorn/ciab/default.aspx">Conference In A Box&lt;/A>." The idea is to bundle the set of conference-related materials together into a kind of "virtual event" so that even folks that didn't get to go to WinHEC can get the Longhorn information that was provided there. The plan is to gather this same kind of material for future Longhorn community technology preview drops.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1325</id>
+    <title>Kent Sums Sums Up the P/Invoke Add-In Nicely: Whoa</title>
+    <updated>2004-05-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-06T07:00:00.000Z</published>
+    <summary>Adam Nathan has taken the information from his extremely popular P/Invoke Wiki &amp;nbsp;site and built an add-in to pull and drop P/Invoke signatures directly into VS.NET. Whoa, indeed.</summary>
+    <content type="html">&lt;h1>Kent Sums Sums Up the P/Invoke Add-In Nicely: Whoa&lt;/h1>
+Adam Nathan has taken the information from his extremely popular &lt;A href="http://www.pinvoke.net/">P/Invoke Wiki&lt;/A>&amp;nbsp;site and built &lt;A href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=75122f62-5459-4364-b9ba-7b5e6a4754fe">an add-in to pull and drop P/Invoke signatures directly into VS.NET&lt;/A>. &lt;A href="http://weblogs.asp.net/ksharkey/archive/2004/05/05/126880.aspx">Whoa&lt;/A>, indeed.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1322</id>
+    <title>Sells Brothers T-Shirts confer special powers</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>I got this email from Brian Jepson, one of my favorite DevCon speakers (he ran his PowerPoint slides by clicking on his cell phone!), and I just had to share it: "My stepson got a 99 on his driving test today--I think the blue Sells Brothers t-shirt that he's so fond of (the one I got at the XML SellsCon that he immediately swiped from me) gave him that extra boost of skillz and confidence..." The conference t-shirt should also help him on his SATs and with his college entrance essay, but the downside is th...</summary>
+    <content type="html">&lt;h1>Sells Brothers T-Shirts confer special powers&lt;/h1>
+&lt;P>I got this email from Brian Jepson, one of my favorite DevCon speakers (he ran his PowerPoint slides by clicking on his cell phone!), and I just had to share it:&lt;/P>
+&lt;BLOCKQUOTE>"My stepson got a 99 on his driving test today--I think the blue Sells Brothers t-shirt that he's so fond of (the one I got at the XML SellsCon that he immediately swiped from me) gave him that extra boost of skillz and confidence..."&lt;/BLOCKQUOTE>
+&lt;P>The conference t-shirt should also help him on his SATs and with his college entrance essay, but the downside is that it repels women. Sorry! : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1319</id>
+    <title>FileDisassembler Add-In for Reflector 4.0</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>It turns out that the add-in model for Reflector 4.0 is so powerful that it enabled Denis Bauer to build an add-in that leverages the built-in R4 disassembler to disassembly an entire assembly into source code files. Very handy for curling up on a sunny afternoon with a chunk of source from your favorite assembly, a cigar and a single malt Scotch.</summary>
+    <content type="html">&lt;h1>FileDisassembler Add-In for Reflector 4.0&lt;/h1>
+It turns out that the add-in model for Reflector 4.0 is so powerful that it enabled Denis Bauer to build an add-in that leverages the built-in R4 disassembler to &lt;A href="http://www.denisbauer.com/weblog/PermaLink,guid,d8da2708-8e5f-47a1-84ad-2cd81589d3fa.aspx">disassembly an entire assembly into source code files&lt;/A>. Very handy for curling up on a sunny afternoon with a chunk of source from your favorite assembly, a cigar and a single malt Scotch.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1321</id>
+    <title>Transcript of Jim Allchin's WinHEC Keynote</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>Jim Allchin's WinHEC keynote was entitled, "Beyond Better, Stronger, Faster: Innovating around Experiences," and in it, he talks about the experience that Longhorn is going to enable and how the technology supports that experience.</summary>
+    <content type="html">&lt;h1>Transcript of Jim Allchin's WinHEC Keynote&lt;/h1>
+Jim Allchin's WinHEC keynote was entitled, &lt;A href="http://www.microsoft.com/presspass/exec/Jim/05-04winhec2004.asp">"Beyond Better, Stronger, Faster: Innovating around Experiences,"&lt;/A> and in it, he talks about the experience that Longhorn is going to enable and how the technology supports that experience.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1323</id>
+    <title>The Virtual WinHEC</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>If you can't be at WinHEC to check out the latest Longhorn information, Paul Thurott's got you covered with his WinHEC 2004 Show Report and Photo Gallery.</summary>
+    <content type="html">&lt;h1>The Virtual WinHEC&lt;/h1>
+If you can't be at WinHEC to check out the latest Longhorn information, Paul Thurott's got you covered with his &lt;A href="http://www.winsupersite.com/reviews/winhec_2004.asp">WinHEC 2004 Show Report and Photo Gallery&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1320</id>
+    <title>Transcript of BillG's WinHEC Keynote</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>BillG's keynote @ WinHEC this year was entitled "Seamless Computing: Hardware Advances for a New Generation of Software," and is available in transcript form for your enjoyment. </summary>
+    <content type="html">&lt;h1>Transcript of BillG's WinHEC Keynote&lt;/h1>
+&lt;P>BillG's keynote @ WinHEC this year was entitled &lt;A href="http://www.microsoft.com/billgates/speeches/2004/05-04winhec.asp">"Seamless Computing: Hardware Advances for a New Generation of Software,"&lt;/A> and is available in transcript form for your enjoyment.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1318</id>
+    <title>Longhorn M7.2 Bits Coming to MSDN Subscribers</title>
+    <updated>2004-05-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-05T07:00:00.000Z</published>
+    <summary>Here. In case you've heard the rumors about a new drop of Longhorn coming to WinHEC attendees, you've heard right. The Milestone 7.2 (M7.2) drop of Longhorn will be given to WinHEC attendees this week and will be available to MSDN Subscribers for download RSN*. The plan is to provide regular LH Milestone drops to the community as we have them, regardless of whether they really provide more functionality/stability or not. That way, we keep you guys in synch with what we're doing and you can give us more rele...</summary>
+    <content type="html">&lt;h1>Longhorn M7.2 Bits Coming to MSDN Subscribers&lt;/h1>
+&lt;a href="http://msdn.com/longhorn">Here&lt;/a>. &lt;P>In case you've heard the rumors about a new drop of Longhorn coming to WinHEC attendees, you've heard right. The Milestone 7.2 (M7.2) drop of Longhorn will be given to WinHEC attendees this week and will be available to MSDN Subscribers for download RSN*. The plan is to provide regular LH Milestone drops to the community as we have them, regardless of whether they really provide more functionality/stability or not. That way, we keep you guys in synch with what we're doing and &lt;A href="http://msdn.microsoft.com/Longhorn/community/newsgroups/default.aspx">you can give us more relevant feedback&lt;/A>.&lt;/P>
+&lt;P>In M7.2, the big deal is the addition of 3D support in Avalon, including declarative support in XAML. There are better things coming in 3D (as there are in the whole of Longhorn), but this is the initial set of functionality and &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.avalon">we'd love to know what you think&lt;/A>.&lt;/P>
+&lt;P>To set your expectations properly, WinHEC attendees and MSDN Subscribers will have access to the M7.2 OS and SDK bits, but will not have access to any matching Visual Studio bits. &lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>Neither the PDC Visual Studio installation nor the latest Visual Studio 2005 community drop nor even the upcoming Visual Studio 2005 beta will install or run properly on M7.2 Longhorn.&lt;/FONT>&lt;/EM>&lt;/STRONG> We're hoping for future LH Milestone drops to include the matching Visual Studio bits, but this one doesn't. Luckily, MSBuild is included along with the compilers, so you can still build LH code under M7.2 like the pioneers did when they were blazing the Oregon Trail. It'll put hair on your chest and build strong bones and teeth.&lt;/P>
+&lt;P>* RSN == Real Soon Now&lt;/P></content>
+  </entry>
+</feed>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed145.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed144.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed146.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed145.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/394</id>
+    <title>Thanks, Chris</title>
+    <updated>2003-01-15T08:00:00.000Z</updated>
+    <published>2003-01-15T08:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: To Chris!
+Thank you very very much. To WinDevelopers &amp;.NETters!
+I recommend the experience to anyone that wants to know professional technique and esoteric possibilities of.NET!</summary>
+    <content type="html">&lt;h1>Thanks, Chris&lt;/h1>
+&lt;a href="http://www26.brinkster.com/hch946cn/writing/thankschris.html">Here&lt;/a>. From Husein Choroomi: To Chris!
+Thank you very very much. 
+
+To WinDevelopers &amp; .NETters!
+I recommend the experience to anyone that wants to know professional technique and esoteric possibilities of .NET!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/393</id>
+    <title>nogoop ActiveX/COM Inspector 1.1.10 released</title>
+    <updated>2003-01-13T08:00:00.000Z</updated>
+    <published>2003-01-13T08:00:00.000Z</published>
+    <summary>Here. From Francis Upton: The ActiveX/COM Inspector allows you to inspect and execute any ActiveX control. It works with controls and typelibs, automatically showing the documentation associated with classes and members. Quickly find out how a control behaves using event logging, a visual design surface, method execution and property inspection. Use it to help understand Automation interfaces (for example MS Office), and to help with developing Addins.</summary>
+    <content type="html">&lt;h1>nogoop ActiveX/COM Inspector 1.1.10 released&lt;/h1>
+&lt;a href="http://www.nogoop.com">Here&lt;/a>. From Francis Upton: The ActiveX/COM Inspector allows you to inspect and execute any ActiveX control.  It works with controls and typelibs, automatically showing the documentation associated with classes and members.  Quickly find out how a control behaves using event logging, a visual design surface, method execution and property inspection.  Use it to help understand Automation interfaces (for example MS Office), and to help with developing Addins.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/392</id>
+    <title>.NET Rocks Interview: .NET Success Stories</title>
+    <updated>2003-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-13T08:00:00.000Z</published>
+    <summary>Here. "This is the first of a series of shows we are going to do this year highlighting.NET Success Stories; companies that have implemented.NET applications successfully as either pilot projects or production projects. In this show we hear from two different companies." It's stories like this that are going to finally turn the masses away from the unmanaged world to the managed world. And they'll never, ever want to go back...</summary>
+    <content type="html">&lt;h1>.NET Rocks Interview: .NET Success Stories&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. "This is the first of a series of shows we are going to do this year highlighting .NET Success Stories; companies that have implemented .NET applications successfully as either pilot projects or production projects. In this show we hear from two different companies."
+
+It's stories like this that are going to finally turn the masses away from the unmanaged world to the managed world. And they'll never, ever want to go back...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/391</id>
+    <title>ASP.NET: Blackbelt Web Form Programming</title>
+    <updated>2003-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-13T08:00:00.000Z</published>
+    <summary>Here. From Vaclav Novak: Push your ASP.NET Web Forms to the extreme. This session focuses on advanced tips and tricks for ASP.NET page development, including UI that morphs based on the data it displays, dynamic templates, passing values from page to page, adding client events to server controls, and more. Assumes a basic understanding of ASP.NET pages and controls. </summary>
+    <content type="html">&lt;h1>ASP.NET: Blackbelt Web Form Programming &lt;/h1>
+&lt;a href="http://www.only4gurus.com/Library/ShowCat.asp?Cat=ASP.Net">Here&lt;/a>. From Vaclav Novak: Push your ASP.NET Web Forms to the extreme. This session focuses on advanced tips and tricks for ASP.NET page development, including UI that morphs based on the data it displays, dynamic templates, passing values from page to page, adding client events to server controls, and more. Assumes a basic understanding of ASP.NET pages and controls. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/389</id>
+    <title>Aspect-Oriented Programming with C# and .NET</title>
+    <updated>2003-01-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-12T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: A research paper from two German scholars, part of the abstract: "Within this paper, we discuss the usage of aspectoriented programming techniques in context of the.NET framework. We focus on the fault-tolerance aspect and discuss the expression of non-functional component properties (aspects) as C# custom attributes. Our approach uses reflection to generate replicated objects based on settings of a special “fault-tolerance” attribute for C# components."
+</summary>
+    <content type="html">&lt;h1>Aspect-Oriented Programming with C# and .NET&lt;/h1>
+&lt;a href="http://www.dcl.hpi.uni-potsdam.de/dcl/papers/isorc2002.pdf">Here&lt;/a>. From Hun Boon Teo: A research paper from two German scholars, part of the abstract: "Within this paper, we discuss the usage of aspectoriented programming techniques in context of the .NET framework. We focus on the fault-tolerance aspect and discuss the expression of non-functional component properties (aspects) as C# custom attributes. Our approach uses reflection to generate replicated objects based on settings of a special “fault-tolerance” attribute for C# components."
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/390</id>
+    <title>Dynamic Aspect-Weaving with .NET</title>
+    <updated>2003-01-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-12T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: Another research paper from Wolfgang Schult and Andreas Polze, part of abstract: "Within this paper, we focus on dynamic management of aspect information during program runtime. We introduce a new approach called "dynamic aspect weaving" to interconnect aspect code and functional code. Using our approach, it is possible to decide at runtime whether objects living inside a compoent should be instantiated with support for a particular aspect or not. We have implemented our approach in...</summary>
+    <content type="html">&lt;h1>Dynamic Aspect-Weaving with .NET&lt;/h1>
+&lt;a href="http://www.dcl.hpi.uni-potsdam.de/dcl/papers/GI2002.ps">Here&lt;/a>. From Hun Boon Teo: Another research paper from Wolfgang Schult and Andreas Polze, part of abstract: "Within this paper, we focus on dynamic management of aspect information during program runtime. We introduce a new approach called "dynamic aspect weaving" to interconnect aspect code and functional code. Using our approach, it is possible to decide at runtime whether objects living inside a compoent should be instantiated with support for a particular aspect or not. We have implemented our approach in contect of the langauge C# and the Microsoft .NET environment."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/386</id>
+    <title>What's New in VS.NET 2003</title>
+    <updated>2003-01-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-11T08:00:00.000Z</published>
+    <summary>Here. A somewhat wordy list of what's new in VS.NET 2003. It figures that just after I'd learned to use the Designer for event handling that MS would add C# "code spitting" for the override keyword and the delegate += operator...</summary>
+    <content type="html">&lt;h1>What's New in VS.NET 2003&lt;/h1>
+&lt;a href="http://www.3leaf.com/default/articles/ea/WhatsNewWithVS2003.aspx">Here&lt;/a>. A somewhat wordy list of what's new in VS.NET 2003. It figures that just after I'd learned to use the Designer for event handling that MS would add C# "code spitting" for the override keyword and the delegate += operator...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/385</id>
+    <title>.NET ResourceExplorer</title>
+    <updated>2003-01-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-11T08:00:00.000Z</published>
+    <summary>Here. In writing the resources chapter of my WinForms book, I found that there was no single utility for displaying the resource contents of assemblies,.resx files and.resource files (even embedded.resources files) in a way that made sense to me. So, I built one. Enjoy.</summary>
+    <content type="html">&lt;h1>.NET ResourceExplorer&lt;/h1>
+&lt;a href="/12419">Here&lt;/a>. In writing the resources chapter of my WinForms book, I found that there was no single utility for displaying the resource contents of assemblies, .resx files and .resource files (even embedded .resources files) in a way that made sense to me. So, I built one. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/387</id>
+    <title>25 pathetic attempts to make .NET look bad</title>
+    <updated>2003-01-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-11T08:00:00.000Z</published>
+    <summary>Here. I just like to read JasonW, but this one was particularly nice. He refutes some pretty wild claims from one member of the Java community. Along these same lines, I spent a day of onsite consulting having a.NET vs. Java debate. I was the outsider.NET guy and the company already had three Java guys already on staff (one was the VP of Engineering). Needless to say,.NET won. : ) It boiled down to what to do with the existing ATL/COM/C++ code base and the.NET interop story wins there hands down.</summary>
+    <content type="html">&lt;h1>25 pathetic attempts to make .NET look bad&lt;/h1>
+&lt;a href="http://staff.develop.com/jasonw/weblog/2003/01/11.html">Here&lt;/a>. I just like to read JasonW, but this one was particularly nice. He refutes some pretty wild claims from one member of the Java community.
+
+Along these same lines, I spent a day of onsite consulting having a .NET vs. Java debate. I was the outsider .NET guy and the company already had three Java guys already on staff (one was the VP of Engineering). Needless to say, .NET won. : )  It boiled down to what to do with the existing ATL/COM/C++ code base and the .NET interop story wins there hands down.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/388</id>
+    <title>An entire site dedicated to connection strings!</title>
+    <updated>2003-01-11T08:00:00.000Z</updated>
+    <published>2003-01-11T08:00:00.000Z</published>
+    <summary>Here. "The idea of connectionstrings.com is to provide an easy reference for connectionstrings. All connection string and enumeration info are collected from other internet sites, books, helpfiles, Microsoft msdn, etc." Holy cow! An entire site of just connection string examples! Cool! [John Bristowe: radio.weblogs.com/0112381]</summary>
+    <content type="html">&lt;h1>An entire site dedicated to connection strings!&lt;/h1>
+&lt;a href="http://www.connectionstrings.com/">Here&lt;/a>. "The idea of connectionstrings.com is to provide an easy reference for connectionstrings. All connection string and enumeration info are collected from other internet sites, books, helpfiles, Microsoft msdn, etc."
+
+Holy cow! An entire site of just connection string examples! Cool!
+
+[John Bristowe: radio.weblogs.com/0112381]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/384</id>
+    <title>Jeff Key's .NET Samples</title>
+    <updated>2003-01-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-10T08:00:00.000Z</published>
+    <summary>Here. I just stumpled onto a set of very cool.NET samples from Jeff Key and *had* to share them. There are too many cool things to pick a favorite.</summary>
+    <content type="html">&lt;h1>Jeff Key's .NET Samples&lt;/h1>
+&lt;a href="http://www.sliver.com/dotnet/index.aspx">Here&lt;/a>. I just stumpled onto a set of very cool .NET samples from Jeff Key and *had* to share them. There are too many cool things to pick a favorite.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12419</id>
+    <title>.NET ResourceExplorer</title>
+    <updated>2003-01-10T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/img.2.jpg"/>
+    <category term="tools" label="Tools"/>
+    <published>2003-01-10T08:00:00.000Z</published>
+    <summary>In writing the resources chapter of my WinForms book, I found that there was no single utility for displaying the resource contents of assemblies,.resx files and.resource files (even embedded.resources files) in a way that made sense to me. So, I built one and called it ResourceExplorer. ResourceExplorer is very simple and could stand some extension to show specific resources at images, text, data, etc, but it certainly served my needs, especially when it came to understanding the usage and limitations of t...</summary>
+    <content type="html">&lt;h1>.NET ResourceExplorer&lt;/h1>
+
+    &lt;p align="left">In writing the resources chapter of my WinForms book, I 
+    found that there was no single utility for displaying the resource contents of 
+    assemblies, .resx files and .resource files (even embedded .resources files) 
+    in a way that made sense to me. &lt;a href="/public/tools/ResourceExplorer.zip">So, I built 
+    one and called it ResourceExplorer.&lt;/a>&lt;/p>
+    &lt;p align="left">&lt;img border="0" src="/public/tools/img.2.jpg" width="328" height="184">&lt;/p>
+    &lt;p align="left">ResourceExplorer is very simple and could stand some 
+    extension to show specific resources at images, text, data, etc, but it 
+    certainly served my needs, especially when it came to understanding the 
+    usage and limitations of the ResourceReader (for reading .resources files) 
+    and the ResXResourceReader (for reading .resx files). Enjoy.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/382</id>
+    <title>Looking for whitepapers, presentations &amp; webcasts?</title>
+    <updated>2003-01-09T08:00:00.000Z</updated>
+    <published>2003-01-09T08:00:00.000Z</published>
+    <summary>Here. From David Briggs: My friend and author of only4gurus.com has enhanced the site with more that one thousand and five hundred whitepapers, presentations and webcasts for IT professionals. This site is extremely usefully for consultants and field support professionals. Ramon says that contributions are welcome. David</summary>
+    <content type="html">&lt;h1>Looking for whitepapers, presentations &amp; webcasts?&lt;/h1>
+&lt;a href="http://www.only4gurus.com">Here&lt;/a>. From David Briggs: My friend and author of only4gurus.com has enhanced the site with more that one thousand and five hundred whitepapers, presentations and webcasts for IT professionals.
+
+This site is extremely usefully for consultants and field support professionals.
+
+Ramon says that contributions are welcome.
+
+David</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/381</id>
+    <title>Developer</title>
+    <updated>2003-01-09T08:00:00.000Z</updated>
+    <published>2003-01-09T08:00:00.000Z</published>
+    <summary>From Jeff Richard: Hello: I am in the process of constructing an application using Microsoft's smart client architecture (no-touch deployment), leveraging dynamic assembly loading to prevent installation on the client PC. I have run into a situation where I need a browser control to display content from an existing web site (help, reports). The problem is that the IE COM control cannot be consumed from a smart client application due to a security violation. I found a workaround, not he best solution since t...</summary>
+    <content type="html">&lt;h1>Developer&lt;/h1>
+From Jeff Richard: Hello:
+
+I am in the process of constructing an application using Microsoft's smart client architecture (no-touch deployment), leveraging dynamic assembly loading to prevent installation on the client PC.  I have run into a situation where I need a browser control to display content from an existing web site (help, reports).  The problem is that the IE COM control cannot be consumed from a smart client application due to a security violation.  I found a workaround, not he best solution since the path to IEXPLORE.EXE must be known, using the Win32 CreateProcess() API call to launch an instance of IE in a separate process.  Security is handled by granting the application the ability to execute unmanaged assemblies.
+
+Has anyone found a "pure" .NET browser control that supports similar rendering capabilities as the IE COM control?
+
+Jeff.
+jtrichard@sotasw.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/383</id>
+    <title>TeeGofer</title>
+    <updated>2003-01-09T08:00:00.000Z</updated>
+    <published>2003-01-09T08:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: "TeeGofer is a tool designed specifically for the.NET Component writer. Written in 100% native C# code, it works by reflection to read in metadata from.NET Assemblies (.DLLs or.EXEs) to create first class quality online help documentation. The Tool is extremely easy to work with, presenting a tree navigator of the entire structure of any Assemblies selected for the Help Project." Really Cool!</summary>
+    <content type="html">&lt;h1>TeeGofer&lt;/h1>
+&lt;a href="http://www.steema.com/products/teegofer/index.htm">Here&lt;/a>. From Husein Choroomi: "TeeGofer is a tool designed specifically for the .NET Component writer. Written in 100% native C# code, it works by reflection to read in metadata from .NET Assemblies (.DLLs or .EXEs) to create first class quality online help documentation. The Tool is extremely easy to work with, presenting a tree navigator of the entire structure of any Assemblies selected for the Help Project."
+
+Really Cool!</content>
+  </entry>
+</feed>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed42.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed41.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed43.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed42.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1819</id>
+    <title>Taking a break from writing on Saturday to see FF</title>
+    <updated>2005-07-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-07-05T07:00:00.000Z</published>
+    <summary>Rich is tired of me blowing off the local nerd events, so he set up something he knows I can't stay away from: an afternoon showing of Fantastic Four. I'm an FF fan from way back (every time Don signs his emails " 'nuf said " I get a little tingle of nostalgia). I'm been loving the Ultimate Fantastic Four trade paperbacks (that's what adults call comic books that have been collected into a bigger, more expensive book). I don't have much hope that this movie will be any good, but the Brothers Sells and I can...</summary>
+    <content type="html">&lt;h1>Taking a break from writing on Saturday to see FF&lt;/h1>
+&lt;P>Rich is tired of me blowing off the local nerd events, so he set up something he knows I can't stay away from: &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/07/05/3855.aspx">an afternoon showing of Fantastic Four&lt;/A>. I'm an FF fan from way back (every time Don signs his emails " 'nuf said " I get a little tingle of nostalgia). I'm been loving the Ultimate Fantastic Four trade paperbacks (that's what adults call comic books that have been collected into a bigger, more expensive book).&lt;/P>
+&lt;P>I don't have much hope that this movie will be any good, but the Brothers Sells and I can't not go. Feel free to join us! Rich has picked &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/07/05/3855.aspx">the 12:25pm showing on Saturday, July 9th, at the new Century 16 Cedar Hill Crossing theater&lt;/A> that I love, just to make sure there would be no way I could say "no." Plus, I'll be deep in the throes of finalizing the Avalon book chapters that day (along with every other day this week -- what a way to burn vacation days), so any excuse to avoid the writing will be good. Come one, come all!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1815</id>
+    <title>Portland Code Camp, July 23-24, Reed College</title>
+    <updated>2005-06-28T07:00:00.000Z</updated>
+    <published>2005-06-28T07:00:00.000Z</published>
+    <summary>I'm going to be spending my July 23-24 weekend at Reed College attending (and hopefully participating in) the Portland Code Camp. The manifesto speaks to me: "Code Camps are (1) by and for the developer community; (2) always free; (3) community developed material; (4) no fluff &amp;#8211; only code; (5) community ownership; and (6) never occur during working hours." Code Camp is looking for speakers and attendees. Come one, come all! </summary>
+    <content type="html">&lt;h1>Portland Code Camp, July 23-24, Reed College&lt;/h1>
+&lt;P>I'm going to be spending my July 23-24 weekend at Reed College attending (and hopefully participating in) &lt;A href="http://www.pacwest.ms/codecamp/pdx/1/">the Portland Code Camp&lt;/A>. The manifesto speaks to me:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Code Camps are (1) by and for the developer community; (2) always free; (3) community developed material; (4) no fluff &amp;#8211; only code; (5) community ownership; and (6) never occur during working hours."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Code Camp is looking for speakers and attendees. &lt;A href="http://www.pacwest.ms/codecamp/pdx/1/">Come one, come all!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1816</id>
+    <title>Avalon and ASP.NET, Together At Last</title>
+    <updated>2005-06-28T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-06-28T07:00:00.000Z</published>
+    <summary>Scott Guthrie says : "What we&amp;#8217;ve set out to do is to make it dramatically easier for anyone to build AJAX-style web applications that deliver rich, interactive, and personalized experiences. Developers should be able to build these applications without great expertise in client scripting; they should be able to integrate their browser UI seamlessly with the rest of their applications; and they should be able to develop and debug these applications with ease. "For this work, we&amp;#8217;ve been working on...</summary>
+    <content type="html">&lt;h1>Avalon and ASP.NET, Together At Last&lt;/h1>
+&lt;P>&lt;A href="http://weblogs.asp.net/scottgu/archive/2005/06/28/416185.aspx">Scott Guthrie says&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"What we&amp;#8217;ve set out to do is to make it dramatically easier for anyone to build AJAX-style web applications that deliver rich, interactive, and personalized experiences. Developers should be able to build these applications without great expertise in client scripting; they should be able to integrate their browser UI seamlessly with the rest of their applications; and they should be able to develop and debug these applications with ease.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"For this work, we&amp;#8217;ve been working on a new project on our team, codenamed 'Atlas.' Our goal is to produce a developer preview release on top of ASP.NET 2.0 for the PDC this September, and then have a website where we can keep updating the core bits, publishing samples, and building an active community around it.&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Then Scott says:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"We see Atlas as the best way to write a whole new generation of richer, more interactive, more personalized experiences in browser applications.&amp;nbsp; Avalon is the next generation presentation model for Microsoft, and will let you build the richest user experiences on the Windows platform. Avalon will deliver phenomenal graphical experiences that use the latest in media integration and hardware acceleration. And Avalon will also let you provide persistent, immersive experiences that go beyond the browser.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Of course, when you&amp;#8217;re building Avalon applications, you can reuse the programming model investments you make today with ASP.NET and Atlas. For example, the ASP.Net Building Block Services and Client Building Block Services will also be accessible from any Avalon client. This model gives you a smooth path to the next generation of applications."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>And then I say:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Cool!"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1813</id>
+    <title>New Monad Build Available</title>
+    <updated>2005-06-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-06-27T07:00:00.000Z</published>
+    <summary>You have to stand on one foot, wait for 48 hours and wave a dead chicken over your monitor, but assuming you have the foot and the dead chicken, it don't cost nothin' to download the latest beta of Monad. Enjoy.</summary>
+    <content type="html">&lt;h1>New Monad Build Available&lt;/h1>
+You have to stand on one foot, wait for 48 hours and wave a dead chicken over your monitor, but assuming you have the foot and the dead chicken, it don't cost nothin' to &lt;A href="http://www.proudlyserving.com/archives/2005/06/new_monad_build.html">download the latest beta of Monad&lt;/A>. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1814</id>
+    <title>The scientists never survive this kind of thing...</title>
+    <updated>2005-06-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-27T07:00:00.000Z</published>
+    <summary>I can't believe nobody* blogged about this today! Isn't this the beginning of most sci-fi horror movies?!? By the end of the movie, all of the scientists die and only one good-looking&amp;nbsp;male/female pair&amp;nbsp;are left, having barely averted the Apocalypse (no one every expects the Apocalypse...). Since I identify with the scientists and barely know anyone good looking enough to survive, I'm not so sure reincarnating dogs into zombies is such a good idea... *by "nobody" I mean "nobody" I read, of course --...</summary>
+    <content type="html">&lt;h1>The scientists never survive this kind of thing...&lt;/h1>
+&lt;P>I can't believe nobody* blogged about &lt;A href="http://www.news.com.au/story/0,10117,15739502-13762,00.html">this&lt;/A> today! Isn't &lt;A href="http://www.news.com.au/story/0,10117,15739502-13762,00.html">this&lt;/A> the beginning of most sci-fi horror movies?!? By the end of the movie, all of the scientists die and only one good-looking&amp;nbsp;male/female pair&amp;nbsp;are left, having barely averted the Apocalypse (no one every expects the Apocalypse...). Since I identify with the scientists and barely know anyone good looking enough to survive, I'm not so sure &lt;A href="http://www.news.com.au/story/0,10117,15739502-13762,00.html">reincarnating dogs into zombies&lt;/A> is such a good idea...&lt;/P>
+&lt;P>*by "nobody" I mean "nobody" I read, of course -- I sure it was all the news amongst the "dear diary" set : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1812</id>
+    <title>My Worst Job</title>
+    <updated>2005-06-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-23T07:00:00.000Z</published>
+    <summary>Following Rory's example, my worst job was where I spent two weeks with a friend working for his dad where the best of our two duties was to mow the doll factory's lawn (we used to fight over who's turn it was). The worst of the two duties was to sort leather remnants from the manufacture of furniture and car upholstery by color and texture into giant boxes, from which the underpaid immigrant women would construct dolls. Talk about mind numbing... It drove home just how important it was to have a college de...</summary>
+    <content type="html">&lt;h1>My Worst Job&lt;/h1>
+&lt;P>Following &lt;A href="http://neopoleon.com/blog/posts/14928.aspx">Rory's example&lt;/A>, my worst job was where I spent two weeks with a friend working for his dad where the best of our two duties was to mow the doll factory's lawn (we used to fight over who's turn it was). The worst of the two duties was to sort leather remnants from the manufacture of furniture and car upholstery by color and texture into giant boxes, from which the underpaid immigrant women would construct dolls.&lt;/P>
+&lt;P>Talk about mind numbing... It drove home just how important it was to have a college degree.&lt;/P>
+&lt;P>I quit after two weeks because the amount of money I got for labor of that kind was nowhere near the degree of pain and suffering I endured, especially when I could just hang out at home for the summer. My friend, however, didn't get that choice. Poor bastard...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1811</id>
+    <title>On the road to the PDC via Twin Peaks</title>
+    <updated>2005-06-21T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-21T07:00:00.000Z</published>
+    <summary>The channel 9 guy starts on the road to the PDC. Random fun (1 of 3). </summary>
+    <content type="html">&lt;h1>On the road to the PDC via Twin Peaks&lt;/h1>
+&lt;P>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=79591">The channel 9 guy starts on the road to the PDC.&lt;/A> Random fun (1 of 3).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1810</id>
+    <title>Theoretical Computer Science</title>
+    <updated>2005-06-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-20T07:00:00.000Z</published>
+    <summary>accounting is to mathematics as engineering is to computer science. I'm an accountant sitting in a meeting run by mathematicians. Unless I can use the math to do my double-entry book-keeping, I just don't care. A mathematician cares only for the power of ideas and never needs to see the numbers. As an accountant, I've read papers written by mathematicians and applied their ideas sparingly, but I've never seen a quorum of them discuss things before. Fun. : ) </summary>
+    <content type="html">&lt;h1>Theoretical Computer Science&lt;/h1>
+&lt;P>accounting is to mathematics as engineering is to computer science.&lt;/P>
+&lt;P>I'm an accountant sitting in a meeting run by mathematicians. Unless I can use the math to do my double-entry book-keeping, I just don't care. A mathematician cares only for the power of ideas and never needs to see the numbers.&lt;/P>
+&lt;P>As an accountant, I've read papers written by mathematicians and applied their ideas sparingly, but I've never seen a quorum of them discuss things before.&lt;/P>
+&lt;P>Fun. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1809</id>
+    <title>My Weekend</title>
+    <updated>2005-06-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-20T07:00:00.000Z</published>
+    <summary>Dear Diary, this is how I spent my Father's Day weekend: Friday, 7:30am, dropped my family off at the airport so that they could visit relatives in MN Saturday, 1am, sent around the check-in notice for my day job and went to bed Saturday, 11am, woke up in book avoidance mode Saturday, 3pm, started porting styles chapter to Avalon b1 Sunday, 4:30am, heard birds chirping, thought it would be a good idea to go to bed, still not done porting styles chapter and my butt hurts from sitting, plan to bring in a butt...</summary>
+    <content type="html">&lt;h1>My Weekend&lt;/h1>
+&lt;P>Dear Diary, this is how I spent my Father's Day weekend:&lt;/P>
+&lt;UL>
+&lt;LI>Friday, 7:30am, dropped my family off at the airport so that they could visit relatives in MN&lt;/LI>
+&lt;LI>Saturday, 1am, sent around the check-in notice for my day job and went to bed&lt;/LI>
+&lt;LI>Saturday, 11am, woke up in book avoidance mode&lt;/LI>
+&lt;LI>Saturday, 3pm, started porting styles chapter to Avalon b1&lt;/LI>
+&lt;LI>Sunday, 4:30am, heard birds chirping, thought it would be a good idea to go to bed, still not done porting styles chapter and my butt hurts from sitting, plan to bring in a butt pillow tomorrow&lt;/LI>
+&lt;LI>Sunday, 4:31am, reflected on why I'm working so hard on a book when &lt;A href="/1806">my readers feel the need to compare me unfavorably to certain rotund movie characters&lt;/A>, resolve to stop writing books so I can have a life back that includes exercise (and doesn't include reviewer feedback)&lt;/LI>
+&lt;LI>Sunday, 9:30am, woke up, called my Dad to wish him a happy father's day, called my kids to hear them do the same for me&lt;/LI>
+&lt;LI>Sunday, 10:30am, back at it porting styles chapter (butt pillow in place)&lt;/LI>
+&lt;LI>Sunday, 1:30pm, finished porting styles chapter, started applying reviewer feedback&lt;/LI>
+&lt;LI>Sunday, 3:30pm, shipped out 2nd draft of styles chapter for 48-hour quick-turn review, started reading data binding chapter reviews&lt;/LI>
+&lt;LI>Sunday, 10:30pm, went to bed with data binding chapter only 1/3rd finalized&lt;/LI>
+&lt;LI>Monday, 5:30am, got up to make the trip to Redmond, didn't finalize both chapters as per this weekend's plan, but I'm so happy to not be applying reviewer feedback right now that I have a hard time caring&lt;/LI>
+&lt;LI>Monday, 1:33pm, composed this silly entry and working happily at my day job where reviewer feedback is not currently a part of my life&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1808</id>
+    <title>The logicial conclusion of spam</title>
+    <updated>2005-06-16T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-16T07:00:00.000Z</published>
+    <summary>This one made me laugh out loud: </summary>
+    <content type="html">&lt;h1>The logicial conclusion of spam&lt;/h1>
+&lt;P>This one made me laugh out loud:&lt;/P>
+&lt;P>&lt;IMG src="http://www.ibiblio.org/Dave/Dr-Fun/df200506/df20050616.jpg">&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1807</id>
+    <title>The End of an Era</title>
+    <updated>2005-06-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-14T07:00:00.000Z</published>
+    <summary>Today is Sara Williams's last day. Sara was the first Microsoft employee that I met. In fact, she was the first MS employee that a lot of people met. She's been at Microsoft for 14 years, which was long before it was cool for employees to talk to the outside world. She was a key part of MS's Developer Relations Group, whose job it was to do the outside world stuff while the rest of MS stayed inside and slid flat food under the door to each other. Eventually, like others, Sara grew tired of Microsoft's insul...</summary>
+    <content type="html">&lt;h1>The End of an Era&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/saraw/archive/2005/06/13/428675.aspx">Today is Sara Williams's last day.&lt;/A> Sara was the first Microsoft employee that I met. In fact, she was the first MS employee that a lot of people met. She's been at Microsoft for 14 years, which was &lt;EM>long&lt;/EM> before it was cool for employees to talk to the outside world. She was a key part of MS's Developer Relations Group, whose job it was to do the outside world stuff while the rest of MS stayed inside and slid flat food under the door to each other.&lt;/P>
+&lt;P>Eventually, like others, Sara grew tired of Microsoft's insular-ism and specifically our developer network's unwillingness to embrace the community, so she launched GotDotNet which, inevitably, lead to her taking over MSDN altogether, which she developed Developer Centers and pushed a whole new way for Microsoft to embrace 3rd parties.&lt;/P>
+&lt;P>However, by far her most benevolent act was to hire me, a guy that refused to buckle to the pressure to move to Redmond and then she let me run roughshod over my colleagues putting up the Longhorn DevCenter and re-launching the Smart Client DevCenter. This set the stage for me proving myself in a remote-hostile environment and allowed me to eventually get myself onto an honest to gosh product team. It was all her.&lt;/P>
+&lt;P>Her departure from MSDN will leave an indelible mark on that organization and I can't say that it didn't play a factor my own decision to leave. Her departure from Microsoft is unbelievably sad. In many ways, Sara &lt;EM>is&lt;/EM> Microsoft to me. She embodies each employee's personal&amp;nbsp;responsibility to our customers. She's certainly not alone in her thinking at Microsoft, but that makes me no less sad to see her go.&lt;/P>
+&lt;P>Thanks very much, Sara. You made quite an impact on me. I wish you all the best and my undying adoration.&lt;/P>
+&lt;P>XXOO,&lt;BR>Chris&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1806</id>
+    <title>Me and the Star Wars Gang</title>
+    <updated>2005-06-13T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-13T07:00:00.000Z</published>
+    <summary>The boys and I went to ROTS on the 2nd night and our local theater had some auspicious guests that I made stand around while my son took the picture (neither of them asked to be in a similar picture, btw : ). I was at Episode IV in 1977 when I was 8 years old, so this has been quite the journey. You'd think I'd be bored, but I've actually been following threads on the web lately like the "3 more episodes" rumors and The Sith Explained on howstuffworks.com. </summary>
+    <content type="html">&lt;h1>Me and the Star Wars Gang&lt;/h1>
+&lt;P>The boys and I went to ROTS on the 2nd night and our local theater had some auspicious guests that I made stand around while my son took the picture (neither of them asked to be in a similar picture, btw : ).&lt;/P>&lt;IMG height=240 src="/public/fun/RotsPose.jpg" width=320> 
+&lt;P>I was at Episode IV in 1977 when I was 8 years old, so this has been quite the journey. You'd think I'd be bored, but I've actually been following threads on the web lately like the "3 more episodes" rumors and &lt;A href="http://stuffo.howstuffworks.com/sith.htm">The Sith Explained&lt;/A> on howstuffworks.com.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1805</id>
+    <title>Love Reviewers; Hate Reviews</title>
+    <updated>2005-06-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-06-13T07:00:00.000Z</published>
+    <summary>I took a quick glance at some reviewer feedback for the Avalon book and already I'm trying hard not to hate the folks that send it in. Mean, hateful things like "who is this guy?!?" and "well, he's never written a book" spring immediately to mind. The thing is, reviewer feedback, especially harsh, blunt, spit-in-your-face reviewer feedback, is an extremely critical part of the book writing process (although, ironically, I most hate the reviews that sound like stuff I would write when I review...). Without r...</summary>
+    <content type="html">&lt;h1>Love Reviewers; Hate Reviews&lt;/h1>
+&lt;P>I took a quick glance at some reviewer feedback for the Avalon book and already I'm trying hard not to hate the folks that send it in. Mean, hateful things like "who is this guy?!?" and "well, &lt;EM>he's&lt;/EM> never written a book" spring immediately to mind.&lt;/P>
+&lt;P>The thing is, reviewer feedback, especially harsh, blunt, spit-in-your-face reviewer feedback, is an extremely critical part of the book writing process (although, ironically, I most hate the reviews that sound like stuff I would write when I review...). Without reviews, authors don't have any idea how their writing will be received 'til it's published and we're bound to do all kinds of stuff that's reader or subject hostile that need correcting. Please, feel free to hit me with both barrels when you're reviewing my stuff; I won't promise to act on all the feedback, but I promise to consider all of it seriously.&lt;/P>
+&lt;P>I do have one request, however. This is something I try to do when I'm reviewing (and I've been known to make grown men cry): please start with something nice. This does two things:&lt;/P>
+&lt;OL>
+&lt;LI>Gives the author a little ego boost before you chop his legs out from under him.&lt;/LI>
+&lt;LI>Establishes your credibility as a reviewer. If you say something nice, especially if it's insightful, e.g. "Avalon data binding is a large topic, but I really love how this chapter presents practically all of it in an easy to follow manner," then I'm much more willing to take feedback like, "don't let the sample app drive the chapter, make the technology coverage drive the sample" (not to pick on anyone in particular : ).&lt;/LI>&lt;/OL>
+&lt;P>Of the two things, establishing your credibility as a reviewer is by far the most important because w/o it, there's a good chance that the careful thought you put into your reviewer comments will not be fully considered (who wants to listen to a curmudgeon?).&lt;/P>
+&lt;P>Anyway, if you encounter me in the next month and I'm grumpty, it's 'cuz I'm spending my weekends dealing with reviews. I might be crabby and violent, but at least I'm slow and easy to see coming. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1804</id>
+    <title>Ajax.NET</title>
+    <updated>2005-06-11T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-06-11T07:00:00.000Z</published>
+    <summary>If I were doing AJAX work in ASP.NET, Ajax.NET is the kind of thing I'd want to use.</summary>
+    <content type="html">&lt;h1>Ajax.NET&lt;/h1>
+If I were doing &lt;A href="http://en.wikipedia.org/wiki/AJAX">AJAX&lt;/A> work in ASP.NET, &lt;A href="http://ajax.schwarz-interactive.de/csharpsample/default.aspx">Ajax.NET&lt;/A> is the kind of thing I'd want to use.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1803</id>
+    <title>Never Give Up, Never Surrender</title>
+    <updated>2005-06-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-09T07:00:00.000Z</published>
+    <summary>I was reminiscing today that I've been turned away from most decent places in my career: I went to a stupid high school that raised my grades a full letter when I moved there from a decent school system, leaving me ill-prepared for college I was turned away from MIT, CalTech and Stanford out of high school, settling for the U of MN instead I didn't even qualify for a phone screen from either Apple or Microsoft during or after college I flunked most of my on-campus interviews and instead settled for a full-t...</summary>
+    <content type="html">&lt;h1>Never Give Up, Never Surrender&lt;/h1>
+&lt;P>I was reminiscing today that I've been turned away from most decent places in my career:&lt;/P>
+&lt;UL>
+&lt;LI>I went to a stupid high school that raised my grades a full letter when I moved there from a decent school system, leaving me ill-prepared for college&lt;/LI>
+&lt;LI>I was turned away from MIT, CalTech and Stanford out of high school, settling for the U of MN instead&lt;/LI>
+&lt;LI>I didn't even qualify for a phone screen from either Apple or Microsoft during or after college&lt;/LI>
+&lt;LI>I flunked most of my on-campus interviews and instead settled for a full-time position at the start-up where I'd worked during college (I was originally been hired there because it was run by alumni of my fraternity and I worked for beer money)&lt;/LI>&lt;/UL>
+&lt;P>And yet, I got all I could out of every opportunity, performed all of the jobs I did manage to get with gusto, learned as much as possible and moved on to learn new things when it was time. Eventually, I found my "way" and I think I did all right, but only because I didn't let the door slams stop me. You shouldn't either.&lt;/P></content>
+  </entry>
+</feed>

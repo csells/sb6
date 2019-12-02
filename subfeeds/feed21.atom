@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed21.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed20.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed22.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed21.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2117</id>
+    <title>eWeek: Microsoft Moves Ahead w/ Software Modeling</title>
+    <updated>2007-08-02T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2007-08-02T07:00:00.000Z</published>
+    <summary>I work on the same team as Don and Chris to which this article refers. There's few actual facts in this piece and some of those are wrong (love Chris like a brother, but he wasn't on the WCF team : ), but it's interesting that my little group is making its way into the news. BTW, as a matter of context, I'm not a big codegen fan (in spite of my previous dealings : ) and it would be a mistake to think of "modeling" as "fancy codegen," in spite of what this article implies. </summary>
+    <content type="html">&lt;h1>eWeek: Microsoft Moves Ahead w/ Software Modeling&lt;/h1>
+&lt;P>I work on the same team as Don and Chris to which &lt;A href="http://www.eweek.com/article2/0,1895,2164677,00.asp">this article&lt;/A> refers. There's few actual facts in this piece and some of those are wrong (love Chris like a brother, but he wasn't on the WCF team : ), but it's interesting that my little group is making its way into the news.&lt;/P>
+&lt;P>BTW, as a matter of context, I'm not a big codegen fan (in spite of &lt;A href="http://msdn.microsoft.com/msdnmag/issues/01/12/GenProg/">my previous dealings&lt;/A> : ) and it would be a mistake to think of "modeling" as "fancy codegen," in spite of what this article implies.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2116</id>
+    <title>Take the Silverlight Tour</title>
+    <updated>2007-07-31T07:00:00.000Z</updated>
+    <published>2007-07-31T07:00:00.000Z</published>
+    <summary>Shawn Wildermuth, author of the Silverlight appendix in Programming WPF, has put together a comprehensive 3-day shortcourse on Silverlight and is taking it on road to Atlanta, Boston, Chicago, San Fran, Dallas, Seattle and DC. Sign up today! </summary>
+    <content type="html">&lt;h1>Take the Silverlight Tour&lt;/h1>
+Shawn Wildermuth, author of the Silverlight appendix in &lt;A href="http://www.amazon.com/Programming-WPF-None-Chris-Sells/dp/0596510373/">Programming WPF&lt;/A>, has put together &lt;A href="http://www.silverlight-tour.com/st/">a comprehensive 3-day shortcourse on Silverlight&lt;/A> and is taking it on road to Atlanta, Boston, Chicago, San Fran, Dallas, Seattle and DC. &lt;A href="http://www.silverlight-tour.com/st/signup.aspx">Sign up today!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2115</id>
+    <title>Another One Bites the Dust!</title>
+    <updated>2007-07-21T07:00:00.000Z</updated>
+    <published>2007-07-21T07:00:00.000Z</published>
+    <summary>Welcome to Microsoft, Scott Hanselman!</summary>
+    <content type="html">&lt;h1>Another One Bites the Dust!&lt;/h1>
+&lt;A href="http://www.hanselman.com/blog/BlueBadge.aspx">Welcome to Microsoft, Scott Hanselman&lt;/A>!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2114</id>
+    <title>Programming WPF, 2e (RTM Edition) on Amazon!</title>
+    <updated>2007-07-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2007-07-17T07:00:00.000Z</published>
+    <summary>Buy your copy today! : ) P.S. I read the QC1 (Quality Check 1), all 859 pages of it, in two solid days this weekend. I found a bunch of nits, all of which will be fixed before you see it in August. Wahoo! </summary>
+    <content type="html">&lt;h1>Programming WPF, 2e (RTM Edition) on Amazon!&lt;/h1>
+&lt;P>&lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Buy your copy today!&lt;/A> : )&lt;/P>
+&lt;P>P.S. I read the QC1 (Quality Check 1), all 859 pages of it, in two solid days this weekend. I found a bunch of nits, all of which will be fixed before you see it in August. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2113</id>
+    <title>Windows Home Server RTM Shipped!</title>
+    <updated>2007-07-16T07:00:00.000Z</updated>
+    <published>2007-07-16T07:00:00.000Z</published>
+    <summary>I knew something was up when the Home Server team climbed onto a bus Friday afternoon outside of building 42. They were obviously celebrating something. This morning, I found out what it was -- Windows Home Service RTM shipped! Congrats, guys! I can't wait for the RTM bits to be available internally so I can install it. I've got a machine all picked out. : )</summary>
+    <content type="html">&lt;h1>Windows Home Server RTM Shipped!&lt;/h1>
+I knew something was up when the Home Server team climbed onto a bus Friday afternoon outside of building 42. They were obviously celebrating something. This morning, I found out what it was -- &lt;A href="http://blogs.technet.com/homeserver/archive/2007/07/16/ship-it.aspx">Windows Home Service RTM shipped&lt;/A>! Congrats, guys! I can't wait for the RTM bits to be available internally so I can install it. I've got a machine all picked out. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2112</id>
+    <title>Unpublished Microsoft Interviewing Tips</title>
+    <updated>2007-07-14T07:00:00.000Z</updated>
+    <published>2007-07-14T07:00:00.000Z</published>
+    <summary>A friend of mine is going for an Microsoft interview next week and he IM'd me asking for any "unpublished tips" for interviewing at MS (apparently he'd already read all my published tips ). Frankly, I don't know if these are published or unpublished, but these were the ones that I thought were most important: Your interviewer cares most about 1) how you think and 2) what you feel, so be vocal about both. You might not get the job, but if you do, it'll be a better fit than if you'd have kept your mouth shut....</summary>
+    <content type="html">&lt;h1>Unpublished Microsoft Interviewing Tips&lt;/h1>
+&lt;P>A friend of mine is going for an Microsoft interview next week and he IM'd me asking for any "unpublished tips" for interviewing at MS (apparently he'd already read all &lt;a href="/tagged/interview">my published tips&lt;/A>). Frankly, I don't know if these are published or unpublished, but these were the ones that I thought were most important:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>Your interviewer cares most about 1) how you think and 2) what you feel, so be vocal about both. &lt;/STRONG>You might not get the job, but if you do, it'll be a better fit than if you'd have kept your mouth shut.&lt;BR>&lt;/LI>
+&lt;LI>&lt;STRONG>Don't be afraid to ask clarifying questions. &lt;/STRONG>This is more detail on the "let 'em know what you're thinking" point above. If you don't understand the problem fully, don't jump in to solve it before you do. Or, if they ask you something potentially scope-less, e.g. "Tell me about yourself," feel free to ask for a scope, e.g. "I'm 38 years old and a lot of stuff has happened. : )&amp;nbsp; Would you like to narrow that question down a bit for me?" (or something less smart-ass-like if you're not able to carry off smart-ass-ness with a smile).&lt;BR>&lt;/LI>
+&lt;LI>&lt;STRONG>Let the interviewer know how you feel about the job. &lt;/STRONG>At Microsoft, you'll have quite a bit of latitude in how you do your job, so they want to know that you care about the same things they care about so they can set you loose and know good things are going to happen.&lt;BR>&lt;BR>Think about the job before you show up so that you have an agenda. It often helps if you can list a bunch of reasons Microsoft is currently screwing the pooch in your area. I can't tell you how many times I've heard about someone railing against Microsoft because of something we're not doing right and that person gets a job offer to go fix the thing they were complaining about ("Put up or shut up" is a big part of the Microsoft culture).&lt;BR>&lt;BR>One thing to watch out for: if you do have an agenda, make sure it's something in your proposed job scope. If you're hiring as a mid-level Program Manager, you're not likely to have much impact on how MS builds software all up, but you can definitely work to fix how your group-to-be is doing it.&lt;BR>&lt;/LI>
+&lt;LI>&lt;STRONG>Answer questions from your own experiences. &lt;/STRONG>If someone asks, "How do you deal with conflict," don't give them the stock, pat answer. Instead, reach into your experiences and pull out a specific example. This will give your answer more credibility. This technique runs the risk of the interviewer not liking how you handled the issue, but again, do you really want a job where you're not a good fit, but nobody knows 'til you've sold your house and put the kids into a new school?&lt;BR>&lt;/LI>
+&lt;LI>&lt;STRONG>You have to like us, too. &lt;/STRONG>When Microsoft is interviewing you, remember that you're interviewing them, too. Make sure you're going to like the work you'll be asked to do and the people you'll be asked to work with. It's not good for *anybody* if you show up for work and don't fit in because you didn't ask questions. Plus, when the interviewer says "Do you have questions for me?" you better have some, or you're not going to come across as someone that actually cares about the position.&lt;BR>&lt;/LI>
+&lt;LI>&lt;STRONG>Don't talk about money during the interview. &lt;/STRONG>There'll be a short window between the time they offer you the job and the time when you accept it that you'll be able to discuss compensation frankly. If you do it at the interview, you'll look like you're after the job for the money and not because you have a burning desire to fix something Microsoft is currently doing wrong or not doing at all.&lt;/LI>&lt;/UL>
+&lt;P>&lt;STRONG>Bottom line: &lt;/STRONG>your interviewer wants make sure you're a fit for Microsoft, a fit for their team, that you're smart and that you've got passion to do the work that they want you to do.&lt;/P>
+&lt;P>Good luck!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2111</id>
+    <title>Genghis moved to CodePlex</title>
+    <updated>2007-06-17T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-06-17T07:00:00.000Z</published>
+    <summary>Shawn Wildermuth has moved Genghis to CodePlex because GotDotNet Workspaces is going away. I actually really like CodePlex, but not the state those pesky contractors left the Genghis bits in, so we'll be following up with another release in early July to bring sanity back. Thanks, Shawn!</summary>
+    <content type="html">&lt;h1>Genghis moved to CodePlex&lt;/h1>
+&lt;A href="http://adoguy.com">Shawn Wildermuth&lt;/A> has moved &lt;A href="http://codeplex.com/genghis/">Genghis to CodePlex&lt;/A> because GotDotNet Workspaces is going away. I actually really like CodePlex, but not the state those pesky contractors left the Genghis bits in, so we'll be following up with another release in early July to bring sanity back. Thanks, Shawn!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2109</id>
+    <title>The T-Mobile Wing rocks! 'til the battery dies...</title>
+    <updated>2007-06-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-06-14T07:00:00.000Z</published>
+    <summary>I was really loving my T-Mobile Wing &amp;nbsp;with WM6, Pocket Office, external micro-SD slot, slamming keyboard, beautiful ClearType display,&amp;nbsp;one-handed usage (even though it is a PocketPC, I almost never needed to pull out the stylus), blue tooth (very high quality!), wi-fi, Edge and a slamming keyboard! (yes -- it was that slamming.). Unfortunately, I couldn't keep it. After four days of the battery going dead after 12 short hours of my normal usage, e.g. email, texting, surfing, etc, it was dead. I tu...</summary>
+    <content type="html">&lt;h1>The T-Mobile Wing rocks! 'til the battery dies...&lt;/h1>
+&lt;P>I was really loving my &lt;A href="http://www.t-mobile.com/shop/phones/Detail.aspx?device=acc8102d-4506-4eaa-bc2f-9c7b8ec1b1e0">T-Mobile Wing&lt;/A>&amp;nbsp;with WM6, Pocket Office, external micro-SD slot, slamming keyboard, beautiful ClearType display,&amp;nbsp;one-handed usage (even though it is a PocketPC, I almost never needed to pull out the stylus), blue tooth (very high quality!), wi-fi, Edge and a slamming keyboard! (yes -- it was that slamming.).&lt;/P>
+&lt;P>Unfortunately, I couldn't keep it. After four days of the battery going dead after 12 short hours of my normal usage, e.g. email, texting, surfing, etc, it was dead. I turned off wi-fi, blue tooth and DirectPush to no avail. The T-Mobile Wing is just too cool for the battery and T-Mobile didn't have a bigger one to give me.&lt;/P>
+&lt;P>So it's back to my i-mate smartflip (hurray for data sync!). I was *so* loving that slamming keyboard...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2110</id>
+    <title>Hands on the Microsoft Surface</title>
+    <updated>2007-06-14T07:00:00.000Z</updated>
+    <published>2007-06-14T07:00:00.000Z</published>
+    <summary>After raving about Microsoft Surface, I get a personal invitation from Robert Levy, a PM on the Surface SDK team to come take a look.&amp;nbsp; Robert's job is to make sure it's possible for the partners that want to put a Surface into their hotels, stores and theme parks to build apps to help sell whatever they're selling. There're currently no plans to enable just normal humans to program it, unfortunately, or even to sell the things except to corp partners. This is too bad, 'cuz I definitely want one for my ...</summary>
+    <content type="html">&lt;h1>Hands on the Microsoft Surface&lt;/h1>
+&lt;P>After raving about &lt;A href="/2104">Microsoft Surface&lt;/A>, I get a personal invitation from Robert Levy, a PM on the Surface SDK team to come take a look.&amp;nbsp; Robert's job is to make sure it's possible for the partners that want to put a Surface into their hotels, stores and theme parks to build apps to help sell whatever they're selling.&lt;/P>
+&lt;P>There're currently no plans to enable just normal humans to program it, unfortunately, or even to sell the things except to corp partners. This is too bad, 'cuz I definitely want one for my family room. Man, talk about a conversation starter!&lt;/P>
+&lt;P>The demo apps were very cool. Of course, there were the apps that are shown on the surface web site and they really work. The ones that I thought were best were when you used physical devices to control what happens on the surface, e.g. turning a knob you drop onto the surface to adjust settings, putting a camera on the surface to get the pictures, putting a credit card on the surface to pay for your drinks, etc. Of course, just using your fingers to paint or drag stuff around was fun, too.&lt;/P>
+&lt;P>I can definitely see these things attracting a crowd at the zoo or the local phone store. It's a thing.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2108</id>
+    <title>Big Screen + Keyboard for my Cell Love? Love it!</title>
+    <updated>2007-06-07T07:00:00.000Z</updated>
+    <published>2007-06-07T07:00:00.000Z</published>
+    <summary>I love the idea of the new Palm Foleo, i.e. my life fits on my cell phone in my pocket and my "laptop" is just a bigger display and full-sized keyboard. Of course, this presupposes the storage capacity to store my life on my cell phone (like I do currently on my laptop), which we're a ways from. Unfortunately, this means that the Foleo is likely ahead of its time and will therefore suffer, but it's another step down a good road (remember the "brick" computer that could plug into any keyboard/mouse?).</summary>
+    <content type="html">&lt;h1>Big Screen + Keyboard for my Cell Love? Love it!&lt;/h1>
+I love the idea of &lt;A href="http://www.palm.com/us/products/mobilecompanion/">the new Palm Foleo&lt;/A>, i.e. my life fits on my cell phone in my pocket and my "laptop" is just a bigger display and full-sized keyboard. Of course, this presupposes the storage capacity to store my life on my cell phone (like I do currently on my laptop), which we're a ways from. Unfortunately, this means that the Foleo is likely ahead of its time and will therefore suffer, but it's another step down a good road (remember the "brick" computer that could plug into any keyboard/mouse?).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2107</id>
+    <title>What's your programmer personality type?</title>
+    <updated>2007-06-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-06-05T07:00:00.000Z</published>
+    <summary>Your programmer personality type is: DHSB You're a D oer. You are very quick at getting tasks done. You believe the outcome is the most important part of a task and the faster you can reach that outcome the better. After all, time is money. You like coding at a H igh level. The world is made up of objects and components, you should create your programs in the same way. You work best in a S olo situation. The best way to program is by yourself. There's no communication problems, you know every part of the co...</summary>
+    <content type="html">&lt;h1>What's your programmer personality type?&lt;/h1>
+Your &lt;A href="http://www.doolwind.com/index.php?page=11">programmer personality type&lt;/A> is:&lt;BR>&lt;BR>&lt;B>&lt;FONT size=5>DHSB&lt;/FONT>&lt;/B>&lt;BR>
+&lt;P>&lt;B>You're a &lt;FONT size=5>D&lt;/FONT>oer.&lt;/B>&lt;BR>You are very quick at getting tasks done. You believe the outcome is the most important part of a task and the faster you can reach that outcome the better. After all, time is money.&lt;BR>&lt;BR>&lt;B>You like coding at a &lt;FONT size=5>H&lt;/FONT>igh level.&lt;/B>&lt;BR>The world is made up of objects and components, you should create your programs in the same way.&lt;BR>&lt;BR>&lt;B>You work best in a &lt;FONT size=5>S&lt;/FONT>olo situation.&lt;/B>&lt;BR>The best way to program is by yourself. There's no communication problems, you know every part of the code allowing you to write the best programs possible.&lt;BR>&lt;BR>&lt;B>You are a li&lt;FONT size=5>B&lt;/FONT>eral programmer.&lt;/B>&lt;BR>Programming is a complex task and you should use white space and comments as freely as possible to help simplify the task. We're not writing on paper anymore so we can take up as much room as we need.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2106</id>
+    <title>LoadWithPartialName, I miss you...</title>
+    <updated>2007-06-05T07:00:00.000Z</updated>
+    <published>2007-06-05T07:00:00.000Z</published>
+    <summary>When you make a call to LoadWithPartialName in.NET 2.0, you get the standard compiler error that you're using an obsolete function: foo.cs(5,24): warning CS0618: 'System.Reflection.Assembly.LoadWithPartialName(string)' is obsolete: 'This method has been deprecated. Please use Assembly.Load() instead. http://go.microsoft.com/fwlink/?linkid=14202 ' The problem is, unlike more obsolete function warnings, there's no good way I know of to reform the arguments from the obsolete function to the recommended replace...</summary>
+    <content type="html">&lt;h1>LoadWithPartialName, I miss you...&lt;/h1>
+&lt;P>When you make a call to LoadWithPartialName in .NET 2.0, you get the standard compiler error that you're using an obsolete function:&lt;/P>&lt;PRE>foo.cs(5,24): warning CS0618:&lt;BR>  'System.Reflection.Assembly.LoadWithPartialName(string)' is obsolete:&lt;BR>  'This method has been deprecated. Please use Assembly.Load() instead.&lt;BR>  &lt;A href="http://go.microsoft.com/fwlink/?linkid=14202">http://go.microsoft.com/fwlink/?linkid=14202&lt;/A> '&lt;/PRE>
+&lt;P>The problem is, unlike more obsolete function warnings, there's no good way I know of to reform the arguments from the obsolete function to the recommended replacement, i.e. Assembly.Load doesn't work if you give it a partial assembly name. Because of this, instead of code filled with Assembly.Load calls, I see this all over the place in production .NET 2.0 code:&lt;/P>&lt;PRE>#pragma warning disable 618&lt;BR>Assembly.LoadWithPartialName("foo");&lt;BR>#pragma warning restore 618&lt;/PRE>
+&lt;P>Maybe in .NET 3.5, we can get a helper function that wraps the #pragmas for us... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2105</id>
+    <title>A really bad optimization</title>
+    <updated>2007-06-04T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-06-04T07:00:00.000Z</published>
+    <summary>I always knew that the scientists would optimize away sending the matter when all they need is to send the state : "A team of physicists has teleported data over a distance of 89 miles from the Canary Island of La Palma to the neighbouring island of Tenerife, which is 10 times further than the previous attempt at teleportation through free space. The scientists did it by exploiting the "spooky" and virtually unfathomable field of quantum entanglement - when the state of matter rather than matter itself is s...</summary>
+    <content type="html">&lt;h1>A really bad optimization&lt;/h1>
+&lt;P>I always knew that the scientists would &lt;a href="http://science.slashdot.org/science/07/06/04/2022212.shtml">optimize away sending the matter when all they need is to send the state&lt;/a>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"A team of physicists has teleported data over a distance of 89 miles from the Canary Island of La Palma to the neighbouring island of Tenerife, which is 10 times further than the previous attempt at teleportation through free space. The scientists did it by exploiting the "spooky" and virtually unfathomable field of quantum entanglement - when &lt;STRONG>the state of matter rather than matter itself is sent from one place to another&lt;/STRONG>." &lt;/EM>[ed: emphasis mine]&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Sure. And what do they do with the matter at the original end? Do they leave it alive work another job, but only pay one set of taxes? I don't think so...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2104</id>
+    <title>Microsoft Surface</title>
+    <updated>2007-05-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-05-30T07:00:00.000Z</published>
+    <summary>I sent the boys to the Microsoft Surface web site last night while I was in another room. I don't believe I've ever heard that many "wows" and "cools" and "I want its!" out of the two of them. And after getting my butt out of my chair, I have to agree -- I want one.</summary>
+    <content type="html">&lt;h1>Microsoft Surface&lt;/h1>
+I sent the boys to &lt;A href="http://www.microsoft.com/surface/">the Microsoft Surface web site&lt;/A> last night while I was in another room. I don't believe I've ever heard that many "wows" and "cools" and "I want its!" out of the two of them. And after getting my butt out of my chair, I have to agree -- I want one.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2103</id>
+    <title>Why do we pick on journalism majors, so?</title>
+    <updated>2007-05-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2007-05-28T07:00:00.000Z</published>
+    <summary>Here's another one: For example, if we had had a background in journalism, we might have used one-based indexing instead of zero-based indexing to... That Ian didn't like,&amp;nbsp;but it still makes me smile (and if you're not a smiling author, why be an author at all?!?). </summary>
+    <content type="html">&lt;h1>Why do we pick on journalism majors, so?&lt;/h1>
+&lt;P>Here's another one:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>For example, if we had had a background in journalism, we might have used one-based indexing instead of zero-based indexing to...&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>That Ian didn't like,&amp;nbsp;but it still makes me smile (and if you're not a smiling author, why be an author at all?!?).&lt;/P></content>
+  </entry>
+</feed>

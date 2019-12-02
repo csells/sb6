@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed172.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed171.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed173.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed172.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12661</id>
+    <title>Welcome to Wahoo!</title>
+    <updated>2002-01-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/wahoo/wahoo.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-01-15T08:00:00.000Z</published>
+    <summary>This page is dedicated to the game of Wahoo! -- a.NET application meant to be invoked from a.NET client across the internet. If you'd like the ClickOnce version (for.NET 2.0), click here and (after clicking a few more times), an application that looks like the picture on the right will appear. To invoke the No-Touch Version version (for.NET 1.x), click here and wait a little while. In a few seconds, an application that looks like the picture on the right will appear. You should note that No-Touch Deployed a...</summary>
+    <content type="html">&lt;h1>Welcome to Wahoo!&lt;/h1>
+&lt;p>&lt;a href="/public/wahoo2/Wahoo.application">
+&lt;img border="0" src="/public/wahoo/wahoo.JPG" align="right" hspace="10" width="281" height="590">&lt;/a>This page is dedicated to the game of Wahoo! 
+-- a .NET application meant to be 
+invoked from a .NET client across the internet. &lt;/p>
+&lt;p>If you'd like the ClickOnce version (for .NET 2.0),
+&lt;a href="/public/wahoo2/Wahoo.application">click here&lt;/a> and (after clicking a few 
+more times), an application that looks like the picture on the right will 
+appear.&lt;/p>
+&lt;p>To invoke the No-Touch Version version (for .NET 1.x),
+&lt;a href="/public/wahoo/wahoo.exe">click here&lt;/a> and wait a little while. In a few seconds, 
+an application that looks like the picture on the right will appear. &lt;i>You 
+should note that No-Touch Deployed applications deployed across the Internet are 
+disabled by default when .NET 2.0 is installed on the client machine.&lt;/i>&lt;/p>
+&lt;p>If you find that Wahoo! doesn't have permission to run on your .NET 1.x computer, you 
+can &lt;a href="/public/wahoo/WahooPermissionsSetup.msi">grant Wahoo! Internet permissions using 
+this MSI setup file&lt;/a> (Keith Brown helped me fix my SP1 permissions problem!). Even the new permissions are pretty strict, e.g. they do not 
+even allow writing to the file system. If you'd like to increase the permissions 
+allows for Wahoo! so that it can cache high scores to the file system, you can 
+do so via the Trust Assembly Wizard available in Start-&amp;gt;Settings-&amp;gt;Control 
+Panel-&amp;gt;Administration Tools-&amp;gt;Microsoft .NET Framework Wizards.&lt;/p>
+&lt;p>&lt;font color="#FF0000">&lt;b>Keith Brown has asked me to remind all of you that 
+even though Wahoo! is managed and executes in the .NET security sandbox, the 
+code in the MSI to grant permissions for the .NET 1.0x version is running with FullTrust permissions, meaning that it could do 
+bad things, where &amp;quot;bad things&amp;quot; is defined as: trash the registry, delete files, 
+send email from your account, spread viruses, reformat disks, change arbitrary 
+spreadsheet values or formulae, remove single columns from database tables, 
+invert the buttons on your mouse, reset your MineSweeper high scores, send lists 
+of installed software to Microsoft, and generally misbehave (thanks Tim Ewald 
+for the exhaustive list : ). Of course, this applies to any MSI file, setup 
+program or any other code that you download onto your machine and run outside of 
+the .NET or Win32 security sandboxes. Keith would like everyone to promise to 
+stop installing new code of any kind on their machines and let software migrate 
+there instead, either via No-Touch Deployment/mobile code-style install-on-demand or via 
+administrator-approved means. Keith believes that installing code on your 
+machine can only cause trouble and I agree -- unless there is code on your 
+machine, nothing bad can happen. Nothing good can happen, either, but &amp;quot;Hey, 
+let's be careful out there!&amp;quot;&lt;/b>&lt;/font>&lt;/p>
+&lt;p> 
+&lt;a href="/public/writing/wfbook">The full source code to the .NET 2.0 version is 
+available here&lt;/a>. 
+&lt;a href="/public/wahoo/Wahoo.zip">The full source code to the .NET 1.x version (including the MSI file) is available here&lt;/a>. The
+&lt;a href="/public/wahoo/html/index.htm">original HTML version&lt;/a> is available, as well.&lt;/p>
+&lt;p>Wahoo! was awarded 
+&lt;a href="http://www.gotdotnet.com/team/windowsforms/WindowsFormsCodingHero2_12_02.aspx">the Windows Forms Coding Heroes Award&lt;/a> on 2/12/02 
+by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;/p>
+
+&lt;p>If you like this game, you might also like
+&lt;a href="http://www.valuediscovery.com/snake.exe">Snake&lt;/a>, by
+&lt;a href="mailto:tomasg@SPSS.COM">Tomas Gudmundsson&lt;/a>. I know I do.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12366</id>
+    <title>The Game of Wahoo!</title>
+    <updated>2002-01-15T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-01-15T08:00:00.000Z</published>
+    <summary>If you like Tetris and you've got.NET installed, check out Wahoo. </summary>
+    <content type="html">&lt;h1>The Game of Wahoo!&lt;/h1>
+&lt;p>If you like Tetris and you've got &lt;a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/MSDN-FILES/027/001/829/msdncompositedoc.xml">.NET installed&lt;/a>, check out &lt;a href="/public/wahoo/">Wahoo&lt;/a>.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12429</id>
+    <title>VS.NET Fun Facts</title>
+    <updated>2002-01-06T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-01-06T08:00:00.000Z</published>
+    <summary>If you haven't seen it yet, check out the VS.NET Fun Facts piece that started as praise and bitching about VS.NET, but turned into something pretty useful if you'd like to get the most out of VS.NET. </summary>
+    <content type="html">&lt;h1>VS.NET Fun Facts&lt;/h1>
+
+    &lt;p>If you haven't seen it yet, check out the
+    &lt;a href="/12594">VS.NET Fun Facts piece&lt;/a> that started 
+    as praise and bitching about VS.NET, but turned into something pretty useful 
+    if you'd like to get the most out of VS.NET.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12594</id>
+    <title>VS.NET Fun Facts</title>
+    <updated>2002-01-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-01-06T08:00:00.000Z</published>
+    <summary>After about a month of banging my head on it, Visual Studio.NET has become my favorite IDE of all time. To save you the bruising, I thought I'd post some productivity tricks and traps I've learned [1] that make VS.NET useful. If you've got your own, send them to me and I'll post the good ones. DISCLAIMER: I always leave the standard VS.NET key bindings, i.e. I don't set it to VC6 style. In general, I just learn the default keystrokes for things instead of changing them. Saves me time when repaving my machin...</summary>
+    <content type="html">&lt;h1>VS.NET Fun Facts&lt;/h1>
+        &lt;p>After about a month of banging my head on it, Visual Studio.NET has 
+        become my favorite IDE of all time. To save you the bruising, I 
+        thought I'd post some productivity tricks and traps I've learned [1] that 
+        make VS.NET useful. If you've got your own,
+        &lt;a href="mailto:csells@sellsbrothers.com?subject=Here's a VS.NET Fun Fact for you!">
+        send them to me&lt;/a> and I'll post the good ones.&lt;/p>
+        &lt;p>&lt;b>DISCLAIMER: &lt;/b>I always leave the standard VS.NET key bindings, i.e. I 
+        don't set it to VC6 style. In general, I just learn the default 
+        keystrokes for things instead of changing them. Saves me time when 
+        repaving my machines or sitting down at strange machines. If you've 
+        changed key bindings in your VS.NET, these keystrokes aren't likely to 
+        work, but the tricks will still be useful if you can figure out what the 
+        key bindings are.&lt;/p>
+        &lt;h2>Download&lt;/h2>
+        &lt;p>If you don't already have VS.NET, run, don't walk, to MSDN to 
+        download a
+        &lt;a href="http://msdn.microsoft.com/vstudio/productinfo/trial.asp">
+        60-day evaluation of VS.NET Professional&lt;/a>.&lt;/p>
+        &lt;h2>Tricks&lt;/h2>
+        &lt;ul>
+          &lt;li>The most important thing I've done to make VS.NET useful for me is 
+          to &lt;b>unpin all of the windows&lt;/b>. This gives me tons of room for the source 
+          or design view. This, combined with the keystrokes to pull out 
+          the windows (below) as I need them, is probably my favorite feature of VS.NET.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>The 2nd most important thing to know is that VS.NET can be invoked 
+          from Start-&amp;gt;Run using its name &amp;quot;devenv&amp;quot; (no quotes). Therefore, 
+          &lt;b>to 
+          start VS.NET, type Ctrl-Esc, R, devenv, Enter&lt;/b>. Much better than 
+          digging into the deep Programs menu.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Make sure to &lt;b>move the &amp;quot;Visual Studio .NET Command Prompt&amp;quot;&lt;/b> that's 
+          buried deep inside of Start-&amp;gt;Programs-&amp;gt;Microsoft Visual Studio 
+          .NET-&amp;gt;Visual Studio .NET Tools to somewhere more handy, e.g. the Quick 
+          Launch toolbar, so that you can get to it easily. You'll be using the 
+          command shell often in your .NET development.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>Let the IDE implement the stubs of an interface function in a 
+          class&lt;/b> (not a struct):&lt;ol>
+            &lt;li>Type the name of the interface after the name of the class, e.g. 
+            &amp;quot;class Foo : IDisposable&amp;quot;.&lt;/li>
+            &lt;li>In the Class View (Ctrl-Shift-C), navigate to the class, e.g. 
+            Foo, and choose the interface you'd like stubs for under Bases and 
+            Interfaces for that class.&lt;/li>
+            &lt;li>In the context menu (Shift-F10), choose Add-&amp;gt;Implement 
+            Interface.&lt;/li>
+            &lt;li>Bask in the glory of
+            &lt;a href="http://www.donbox.com/">Don Box&lt;/a> (who 
+            showed me this trick).&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+          &lt;li>&lt;b>Let the IDE implement the stub of an virtual function override&lt;/b>:&lt;ol>
+            &lt;li>In the Class View (Ctrl-Shift-C), navigate to the class, e.g. 
+            Foo, and choose the method on the base class you'd like to override 
+            under Bases and 
+            Interfaces for that class.&lt;/li>
+            &lt;li>In the context menu (Shift-F10), choose Add-&amp;gt;Override.&lt;/li>
+            &lt;li>Bask in the glory of me, who found this all by myself. I found 
+            this digging through the .VSZ files on my system. It looks like you 
+            can add your own context items to the menus, which sounds like 
+            fun...&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+          &lt;li>If you'd like some samples of VS.NET Add-Ins,
+          &lt;a href="http://msdn.microsoft.com/vstudio/nextgen/automation.asp">
+          MS provides some&lt;/a>. MSDN Magazine provides
+          &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/02/VSIDE/VSIDE.asp">
+          an add-in article&lt;/a> that you may find useful.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Likewise, &lt;span class="pd">&lt;a href="mailto:leon@exmsft.com">Leo A. 
+          Notenboom&lt;/a> has written
+          &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/02/VSIDE/VSIDE.asp">
+          a thorough article about how to write an add-in to VS.NET&lt;/a>.&lt;br>
+&amp;nbsp;&lt;/span>&lt;/li>
+          &lt;li>&lt;span class="pd">Also, in &lt;/span>
+            &lt;a href="http://www.codeproject.com/netcomponents/propertytree.asp">A Designable 
+                PropertyTree for VS.NET&lt;/a>: &lt;a href="mailto:rmorris@cc.gatech.edu">Russell 
+                Morris&lt;/a>
+        has built an implementation of the PropertyTree control that you see in 
+        VS.NET's Project Properties dialog. What makes this really cool is that 
+        Russell's control is a great example of what to do to integrate with the VS.NET 
+        Forms Designer. &lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>If you'd like to &lt;b>add to the Solution, Project, Project Item or 
+          Context Menu wizards&lt;/b> for VC++, VC# or VB.NET, you can. Here's
+          &lt;a href="/public/writing/projectItemTemplates.htm">
+          an example of a project item wizard that produces a custom aspx file 
+          and a custom code behind file to go with it&lt;/a>.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>While ildasm.exe is very thorough, if you'd like to have &lt;b>a 
+          prettier view of the types in an assembly, you can load it into the 
+          VS.NET Object Browser&lt;/b>. Using the file open dialog, click the 
+          drop-down and choose Open With and select the Object Browser. Once 
+          it's loaded, you can unload it by choosing the Remove item from the 
+          context menu of the assembly in the Object Browser.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>This isn't a tip so much as an observation. If you use an #if with 
+          a compilation symbol, e.g. DEBUG or TRACE, notice that as you move 
+          from configuration to configuration that the editor will gray out the 
+          code path that won't be taken. Is that cool, or what?!?&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>Read the online documentation. &lt;/b>It's *so* much more useful than the 
+          online documentation of old.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li> &lt;a href="mailto:ballen@DEVELOP.COM">Brock Allen&lt;/a> showed me &lt;b>the 
+          3rd tab (Projects) in the Add References dialog&lt;/b> for adding references 
+          from one project to the target of another. This works *so* much better 
+          than hard-coding .NET references to a specific output folder.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;a href="mailto:elstegman@home.com">Ed Stegman&lt;/a> pointed out 
+          that &lt;b>the Toolbox can be used to store snippets of code&lt;/b>. Simply select 
+          some and drag-n-drop it on the Toolbox. To paste, drag-n-drop from the 
+          Toolbox to your editor. Of course, this is great for duplicating bugs 
+          as well. : )&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Ed really likes &lt;b>regions&lt;/b>, marked using #region/#endregion compiler 
+          directives, too. Now that's he's clued me into the keystrokes (below) 
+          for expanding and collapsing them, I really like them, too. : )&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Ed also reminded me of &lt;b>the Task List&lt;/b> and how anything marked with TODO, HACK or UNDONE will be included in your list of tasks.
+          &lt;a href="mailto:Astopford@beta.dabs.com">Andrew Stopford&lt;/a> reminded 
+          me that you can set up your own keywords via Tools -&amp;gt; Options -&amp;gt; 
+          Environment.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>If, on the other hand, you &lt;b>hate the Task List&lt;/b>,
+          &lt;a href="mailto:kperry@microsoft.com">Kevin Perry&lt;/a> suggested the 
+          followings steps to turn if off after a build:&lt;ol>
+            &lt;li>Go to Tools -&amp;gt; Options -&amp;gt; Environment -&amp;gt; Project and Solutions.&lt;/li>
+            &lt;li>Uncheck the &amp;quot;Show task list window if build finishes with 
+            errors&amp;quot; option.&lt;/li>
+            &lt;li>Make sure the &amp;quot;Show output window when build starts&amp;quot; option is 
+            checked.&lt;/li>
+            &lt;li>Now go and close the task list window and it's gone for good!&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+          &lt;li>Several folks have sent along &lt;b>macros that are life savers&lt;/b> to them.
+          &lt;a href="mailto:csells@sellsbrothers.com?subject=A VS.NET Macro To Die For!">
+          If you'd like to do that&lt;/a>, I'm happy to post them here along with 
+          your name and a brief description. Please send attached files instead 
+          of inline text, however. Thanks!&lt;ul>
+          &lt;li>&lt;a href="mailto:richard.broida@datatraknet.com">Richard Broida&lt;/a> 
+          sent along &lt;b> &lt;a href="/public/spout/KeyboardShortcuts.zip">a macro that inserts curly 
+          braces&lt;/a>&lt;/b> and moves insertion point to first line inside, following 
+          K&amp;amp;R or MS style, depending on indentation option.&lt;/li>
+          &lt;li>&lt;a href="mailto:jcauble@caublestoneink.com">Joshua Cauble&lt;/a> sent 
+          along &lt;b> &lt;a href="/public/spout/IDEEnhancements.zip">a macro to sort declarations in a 
+          VB.NET&lt;/a>&lt;/b> class to get the items in the wizard bar sorted.&lt;/li>
+          &lt;li>Don Box sent along a &lt;b>&lt;a href="/public/spout/emacsCompileMacro.txt">macro to achieve emacs-like M-x compile functionality&lt;/a>&lt;/b>.&lt;/li>
+          &lt;li>&lt;a href="mailto:pan@interse.com">Peter Andersen&lt;/a> sent in &lt;b>
+          &lt;a href="/public/spout/PanModule.zip">a macro that creates a C# string from an 
+          arbitrary mark&lt;/a>&lt;/b>, e.g.. if you select the following lines:&lt;br>
+          &lt;br>
+          &amp;lt;xml&amp;gt;&lt;br>
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;hithere&amp;gt;mom&amp;lt;/hithere&amp;gt;&lt;br>
+          &amp;lt;/xml&amp;gt;&lt;br>
+          &lt;br>
+          running the macro produces the following output in the editor:&lt;br>
+          &lt;br>
+          &amp;quot;&amp;lt;xml&amp;gt;&amp;quot; +&lt;br>
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;quot;&amp;lt;hithere&amp;gt;mom&amp;lt;/hithere&amp;gt;&amp;quot;+&lt;br>
+          &amp;quot;&amp;lt;/xml&amp;gt;&amp;quot;;&lt;br>
+&amp;nbsp;&lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:drub0y@hotmail.com">Drew Marsh&lt;/a> 
+          pointed out that &lt;b>Ctrl-S works in any of the output windows&lt;/b>, 
+          e.g. build, debug, etc, to save the contents to a file.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">It's cool to have MS folk reading this list.
+          &lt;a href="mailto:kperry@microsoft.com">Kevin Perry&lt;/a> sent me to 
+          procedure to bypass the &amp;quot;Attach to Process&amp;quot; dialog that asks what kind 
+          of debugger you'd like to pick, i.e. CLR, T-SQL, Native and/or Script, 
+          when you click on the Attach... button in the Debug Processes dialog. 
+          &lt;b>Ctrl-clicking on Attach... will give you the Native debugger without 
+          asking.&lt;br>
+&amp;nbsp;&lt;/b>&lt;/li>
+          &lt;li>
+          &lt;p align="left">My good friend &lt;a href="mailto:tewald@obelisk-llc.com">
+          Tim Ewald&lt;/a> reminded me that one of the coolest features of VS.NET 
+          is that the solution explorer is really just a view of your actual 
+          project folders in the shell. This is especially useful if you choose 
+          Show All Files, so that you can add files to your project that are 
+          already in your project directory simply by using the context menu. If 
+          you'd like &lt;b>to add a file that isn't in your project, you can do so 
+          by opening the file and choosing &amp;quot;Move &amp;lt;file&amp;gt; into Project&amp;quot; from the 
+          context menu&lt;/b>. This is a poorly named item, however, as it actually 
+          links to the existing file outside the project instead of moving it in 
+          the file system (although the linking is the correct behavior).&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">To &lt;b>speed the IDE start-up time&lt;/b>, you want to 
+          avoid the browser being loaded. To do that, from the Start Page, 
+          choose My Profile and set At Startup to Show empty environment. Also, 
+          close the Dynamic Help window and the Start Page. Now IE will only be 
+          loaded on demand.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">If you like the tabs showing the various files you 
+          have open, but miss &lt;b>the ability to show multiple files at the same 
+          time&lt;/b>, right-click on one of the tabs and choose New 
+          Horizontal/Vertical Tab Group. Both tab groups will show 
+          simultaneously and you can move tabs (and therefore the window that 
+          the tab represents) between tab groups by right-clicking on the tab.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:m_cabreu@hotmail.com">Maria Abreu&lt;/a> 
+          points out that VS.NET, by default, neglects to colorize strings (an 
+          omission, IMO). You can colorize them via Tools-&amp;gt;Options-&amp;gt;Fonts and 
+          Colors and it really helps. Thanks, Maria.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;span id="MSGHDR-PRE">&lt;span id="MSGHDR-FROM-PRE">
+          &lt;a href="mailto:graeme.foster@ASTON.TV">Graeme Foster&lt;/a> posted
+          &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0201B&amp;L=DOTNET&amp;P=R27347">
+          this tip on the DOTNET mailing list&lt;/a> for &lt;/span>
+          &lt;span id="MSGHDR-SUBJECT-PRE">&lt;b>getting VS.NET to copy the 
+          application .config file during the build&lt;/b>: simply name the file 
+          app.config and put it in the main project directory. At build time, 
+          VS.NET will copy the file into the output directory with the build 
+          output.&lt;br>
+&amp;nbsp;&lt;/span>&lt;/span>&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:db@die-lounge.com">Dominick Baier&lt;/a> 
+          reminded me that by &lt;b>typing &amp;quot;///&amp;quot; (no quotes) above the declaration 
+          of a method or property, the C# editor will give you the template for 
+          the C# XML documentation tags&lt;/b> with all parameters and return 
+          value. The IDE will compose these comments into (fairly ugly) 
+          HTML-based documentation for your classes using the Tools-&amp;gt;Build 
+          Comment Web Pages menu item. A much nicer set of documentation from 
+          these comments can be generated by
+          &lt;a href="http://ndoc.sourceforge.net/">NDoc&lt;/a>.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:studyonnet@hotmail.com">Kunal Cheda&lt;/a> 
+          pointed out that if you've got multiple things you'd like to start 
+          when running or debugging a solution, you can do so at Solution 
+          Explorer-&amp;gt;Solution Properties-&amp;gt;Startup Project-&amp;gt;Multiple Startup 
+          Projects. *Very* handy for client-server testing.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:nickhod@microsoft.com">Nick Hodapp&lt;/a> 
+          passed along this tip on how to &lt;b>exclude included files that don't 
+          change from VC++ dependency checking:&lt;/b>&lt;br>
+&amp;nbsp;&lt;ol>
+            &lt;li>
+          &lt;p align="left">Add header file directory names (using full, absolute 
+          paths) one per line, to SYSINCL.dat.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Exit the development environment.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Restart the development environment.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Click Rebuild for changes to take effect, noticing a 
+          reduction in build times.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:shawnv@arithex.com">Shawn Van Ness&lt;/a> 
+          thinks that &lt;b>the clipboard ring &amp;quot;is so cool, it should be 
+          back-propped into all of Windows&amp;quot;&lt;/b>: Using Ctrl+Shift+V as an 
+          alternative to the usual Ctrl+V paste command, will &amp;quot;cycle&amp;quot; through 
+          the last dozen or so bits of text you've copied onto the clipboard. 
+          This simple user scenario demonstrates:&lt;br>
+&amp;nbsp;&lt;ol>
+            &lt;li>
+          &lt;p align="left">Copy &amp;quot;#if DEBUG&amp;quot; onto the clipboard.&lt;/li>
+            &lt;li>
+          &lt;p align="left">A few lines below, copy &amp;quot;#else&amp;quot; onto the clipboard.&lt;/li>
+            &lt;li>
+          &lt;p align="left">A few lines further below, copy &amp;quot;#endif&amp;quot; onto the 
+          clipboard.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Scroll down many hundreds of lines... or open a 
+          different file, etc.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Ctrl+Shift+V to paste &amp;quot;#endif&amp;quot;.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Ctrl+Shift+V, Ctrl+Shift+V to paste &amp;quot;#else&amp;quot;.&lt;/li>
+            &lt;li>
+          &lt;p align="left">Ctrl+Shift+V, Ctrl+Shift+V, Ctrl+Shift+V to paste &amp;quot;#if 
+          DEBUG&amp;quot;.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:Scott@Corillian.com">Scott Hanselman&lt;/a> 
+          pointed out that you can set the font size to VS.NET from the command 
+          line using the /fs argument, e.g. &amp;quot;devenv.exe /fs 14&amp;quot;. This is great 
+          for presenters!&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">For &lt;b>the complete list of key bindings&lt;/b>, MS 
+          provides
+          &lt;a href="http://msdn.microsoft.com/code/default.asp?URL=/code/sample.asp?url=/msdn-files/026/002/527/msdncompositedoc.xml">
+          a Keybindings Table Add-In&lt;/a>. &lt;a href="/public/spout/KeyMap.zip">Here it is 
+          already compiled&lt;/a>. Just drop it anywhere, register it as a COM 
+          server and the next time you start VS, you'll have a KeyMap command in 
+          the Help menu.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:russell@synthesystems.com">Russell 
+          Sinclair&lt;/a> has provided &lt;a href="/public/spout/rsvskeys.xls">his favorite key 
+          bindings in an Excel spreadsheet&lt;/a> that prints and folds nicely for 
+          keeping it handy.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Here are &lt;b>my favorite key bindings&lt;/b>:&lt;br>
+&amp;nbsp;&lt;table border="1" cellpadding="0" cellspacing="0" id="AutoNumber1" style="border-left-style: none; border-right-style: none; border-top: 1.5pt solid black; border-bottom: 1.5pt solid black; background-color: white" fpstyle="26,111111000">
+            &lt;tr>
+              &lt;td style="font-weight: bold; color: navy; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: 1.5pt solid black; background-color: white" align="left" valign="top">
+              Keys&lt;/td>
+              &lt;td style="font-weight: bold; color: navy; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: 1.5pt solid black; background-color: white" align="left" valign="top">
+              Binding&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              F8/Shift-F8&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Navigate compilation errors&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-D&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Move to mini-buffer&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Shift-G in mini-buffer or&lt;br>
+              Ctrl-O in mini-buffer&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open file name in mini-buffer (Ctrl-O seems to open stuff 
+              Ctrl-Shift-G does not)&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              &amp;quot;&amp;gt; command&amp;quot; in mini-buffer&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Execute command&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl+/&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Move to mini-buffer, typing the leading &amp;gt; for you&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Alt-A&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open the command window&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-PageUp in HTML Design View&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open source view&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">Ctrl-PageDown 
+              in HTML Source View&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open design view&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              F7 in Form Design View&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open source view&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Shift-F7 in Form Source View&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Open design view&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Alt-L&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Solution Explorer&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">F4 
+              or Alt-Enter&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Properties of selected item&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Shift-B&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Build&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              F5&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Debug&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-F5&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Run, but not debug&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Alt-J&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Object Browser&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Shift-C&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Class View&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Space when typing a symbol&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Complete the symbol you're currently typing or give you a choice 
+              of possibilities&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Space when entering arguments&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Show the function prototype&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              &amp;quot;-&amp;quot; (no quotes) as the name of a menu item&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Menu item becomes a separator&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-K Ctrl-F&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Reformat selection&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              }&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Reformat scope being closed&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-K Ctrl-C&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Comment out selected lines&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-K Ctrl-U&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Uncomment selected lines&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-}&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Match braces, brackets or compiler directives&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Shift-Ctrl-}&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Select match between braces, brackets or compiler directives&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-L or Shift-Del or&lt;br>
+              Ctrl-X w/ no selection&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Delete entire line&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Del&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Delete next &amp;quot;word&amp;quot;&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Alt-F6&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Next visible pane (not for use with all windows unpinned)&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-Shift-F12&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Jumps to next *whatever*, depending on what's active, e.g. next 
+              find result, next task, next error, etc.&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-&amp;quot;-&amp;quot;/Ctrl-Shift-&amp;quot;-&amp;quot; (no quotes)&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Jumps to last/next place you worked&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-C in the Class View&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Copies fully qualified name to the Clipboard&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-M Ctrl-M&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Collapse or expand a region or outlined block (as marked by the 
+              [+] and [-] on the left hand side of the editor).&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-M Ctrl-O&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Collapse everything in the current file&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-M Ctrl-L&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Expand everything in the current file&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              F12&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Jump to the current symbol's declaration&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-G, line #, Enter or&lt;br>
+              Ctrl-D, line #, Ctrl-G&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Jump to line&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-I/Ctrl-Shift-I + string&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Incremental search for string&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl-R+Ctrl-R&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Turn on/off word wrap&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Ctrl+Up/Down Arrow&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Scroll window up/down without moving the cursor away from the 
+              current line&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Shift+Alt+Arrows&lt;br>
+              (Alt+Mouse works, too)&lt;/td>
+              &lt;td style="font-weight: normal; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black; background-color: white" align="left" valign="top">
+              Column selection (include of line selection)&lt;/td>
+            &lt;/tr>
+          &lt;/table>
+          &lt;/li>
+        &lt;/ul>
+        &lt;h2>Traps&lt;/h2>
+        &lt;ul>
+          &lt;li>VS.NET's Copy Project uses FrontPage Extensions to publish a web 
+          site from a local testing machine to the deployment machine. This is 
+          virtually important if you don't want to hack on your live web sites. However, 
+          &lt;b>Copy Project sends everything every time instead of sending the deltas&lt;/b>, so it's 
+          pretty worthless as far as I can tell. Instead,
+          &lt;a href="http://www.quality.nu/">Brad Wilson&lt;/a> clued 
+          me into the FrontPage Publish Web command, which only publishes 
+          deltas.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>The command window (or &amp;gt; in the mini-buffer) seems really cool&lt;/b>, 
+          but I don't know any good commands to type.
+          &lt;a href="mailto:csells@sellsbrothers.com?subject=Here's a cool VS.NET command!">
+          Do you?&lt;/a>&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>&lt;a href="mailto:Joe.Bauer@PRICESystems.com">Joe Bauer&lt;/a> points 
+          out that you can, of course, use the command window to print fields or 
+          call methods using the ?, e.g. &amp;quot;&amp;gt; ? objMyClass.GetCount()&amp;quot;.&lt;/li>
+          &lt;li>&lt;a href="mailto:rbirkby@thundermain.com">Richard Birkby&lt;/a> 
+          pointed out the &amp;quot;shell&amp;quot; command, which seems a bit unwieldy for me, 
+          but you may like it. &amp;quot;&amp;gt;shell /?&amp;quot; in the mini-buffer will show usage 
+          (now that's cool!).&lt;/li>
+          &lt;li>&lt;a href="mailto:dmarsh@mimeo.com">Drew Marsh&lt;/a> points out that 
+          the command window (or the mini-buffer with a &amp;gt; prefix) allows you to 
+          execute any command provided by the shell, add-ins, or macros. 
+          Anything you don't bind to a key combination or toolbar button, you 
+          can go into the command window to execute. Also, it supports 
+          auto-completion for those of us with poor memories.&lt;/li>
+          &lt;li>&lt;a href="mailto:richard.broida@datatraknet.com">Richard Broida&lt;/a> 
+          pointed out the use of the &amp;quot;?&amp;quot; command to print variables at debug 
+          time.&lt;/li>
+          &lt;li>&lt;a href="mailto:jlam@IUNKNOWN.COM">John Lam&lt;/a> showed me where
+          &lt;a href="ms-help://MS.VSCC/MS.MSDNVS/vsintro7/html/vxgrfpredefinedcommandlinealiases.htm">
+          the docs are for the pre-defined command aliases&lt;/a>. He also points 
+          out that you can create your own aliases, but you need cool commands 
+          first before you can do that. : )&lt;/li>
+          &lt;li>
+          &lt;p align="left">&lt;a href="mailto:ramakrishnavavilala@3csoftware.com">
+          Ramakrishna Vavilala&lt;/a> recommends a cool alias &amp;quot;&amp;gt;alias ! shell 
+          /command cmd /c&amp;quot; which reduces the syntax of the shell command 
+          considerably and sends the command output to the Command window.&lt;/li>
+          &lt;li>
+          &lt;p align="left">Don Box pointed me at two commands that forces me to 
+          learn the keyboard shortcut to put focus in the command window 
+          (Ctrl-Alt-A):&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>
+          &lt;p align="left">&amp;quot;&amp;gt;open &amp;lt;partial path&amp;gt;&amp;quot; will give Intellisense on the 
+          file system, e.g. &amp;quot;&amp;gt;open c:\&amp;quot;.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>
+          &lt;p align="left">&amp;quot;&amp;gt;File.NewFile &amp;lt;file name&amp;gt;&amp;quot; will open a new file with 
+          the appropriate name and syntax highlighting, e.g. &amp;quot;&amp;gt;open foo.cs&amp;quot;. 
+          This is even handier when you alias &amp;quot;new&amp;quot; to File.NewFile, e.g. 
+          &amp;quot;&amp;gt;alias new File.NewFile&amp;quot;, because you can just do this &amp;quot;&amp;gt;new foo.cs&amp;quot;.&lt;br>
+&amp;nbsp;&lt;/li>
+        &lt;/ul>
+          &lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>As far as I can tell, &lt;b>there is no way in a C# project to run 
+          custom pre or post-build commands&lt;/b>, either on a project or a file 
+          level. If the VC++ wizards still had a Utility project, that could be 
+          used, but the closest I've seen in VS.NET is a Makefile project. 
+          Anyone have ideas on this one?&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>Several folks have recommended
+          &lt;a href="http://msdn.microsoft.com/code/default.asp?URL=/code/sample.asp?url=/msdn-files/026/002/526/msdncompositedoc.xml">
+          a VS.NET Add-In Sample that is supposed to provide this capability&lt;/a>.&lt;/li>
+          &lt;li>&lt;a href="mailto:kperry@microsoft.com">Kevin Perry&lt;/a> showed me 
+          where the UI scrambler put the Utility project in this version of the 
+          IDE:&lt;ol>
+            &lt;li>Run the makefile appwizard to create a makefile project.&lt;/li>
+            &lt;li>Bring up the project properties for the project and look at the 
+            general page&lt;/li>
+            &lt;li>Select “Utility” in the “Configuration Type” property drop down.&lt;/li>
+            &lt;li>Click Apply.&lt;br>
+            POOF! Instant Utility project.&lt;br>
+            BTW: C++ Static Library projects can also double as utility projects 
+            in a pinch.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;/ol>
+          &lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>As cute as the Add Reference menu item is on a project's context 
+          menu, your going to have to &lt;b>avoid Add Reference for COM servers&lt;/b> and build the 
+          references by hand if you sign your assemblies (which you should 
+          always do). Apparently a signed assembly is not allowed to reference 
+          an assembly that's not signed and the Add Reference menu item doesn't 
+          sign the generated assembly. All Add Reference does is the moral 
+          equivalent of the tlbimp command line tool anyway, so get used to 
+          calling it yourself using the /keyfile command line argument. If you 
+          import COM Controls, e.g. the WebBrowser control, you'll 
+          need to use aximp instead of tlbimp, but the /keyfile argument is the 
+          same.&lt;br>
+          &lt;br>
+          However, &lt;a href="mailto:jerry@dennany.org">Jerry Dennany&lt;/a> points 
+          out that you can have VS.NET itself sign your interop assemblies by 
+          going to the Project Properties, and under Common Properties / General 
+          there will be a section for &amp;quot;wrapper Assembly for ActiveX / COM 
+          Objects.&amp;quot; You may place your path to the Key File here, and everything 
+          still works from the IDE.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>There are no wizards for standard SDI, MDI or Explorer-style 
+          applications in WinForms&lt;/b> as there were in VC++ for MFC applications. 
+          However, the wizard stuff is there, although it's obscure, so maybe I'll build one. 
+          I've certainly done my share of that kind of 
+          work...&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Likewise, there is no built in support for MFC-style document 
+          handling, separation of data and view, command line processing or 
+          command UI handling. I've done my share of &lt;a href="/12652">
+          that kind of work&lt;/a>, too, and I *will* be building that stuff. 
+          Anyone want to
+          &lt;a href="mailto:csells@sellsbrothers.com?subject=I'd love to help add MFC-style functionality to .NET!">
+          volunteer to help&lt;/a>?&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>I don't seem to be able to &lt;b>get a custom control on the toolbox&lt;/b> 
+          unless it's part of a separate assembly. What if I have a custom 
+          control in my application? Can I make it show up on the toolbox 
+          somehow?&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>&lt;a href="mailto:bobb@develop.com">Bob Beauchemin&lt;/a> pointed out 
+          that I can customize the toolbox and point it at a built version of my 
+          EXE, which sounds kind of awkward, but works.&lt;br>
+&amp;nbsp;&lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>I can't tell. &lt;b>Is everything being recompiled every time I build&lt;/b>, 
+          regardless of whether the source has changed or not?&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>Drew Marsh pointed out that the Incremental Build option in a C# 
+          project will decide whether you rebuild only if it is changed or not.&lt;br>
+&amp;nbsp;&lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>If a file is &amp;quot;thought of&amp;quot; internally by the IDE as one text, e.g. 
+          Text, and you try to save it as another type, e.g. XML, &lt;b>if you're not 
+          very careful the save 
+          dialog will append the extension of the type it thinks it is&lt;/b>, e.g. 
+          .txt. To enforce the extension you want, put double quotes around the file 
+          name, e.g. &amp;quot;foo.xml&amp;quot;.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>Neither BeginInvoke nor EndInvoke is shown when calling methods on 
+          a delegate in C#&lt;/b>, even though they do in VB.NET. This just seems 
+          wrong...&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Docs on the built-in VsWizardEngine that VS.NET provides would be 
+          nice.&lt;br>
+&amp;nbsp;&lt;ul>
+          &lt;li>&lt;a href="mailto:jfland@develop.com">Jon Flanders&lt;/a> says that 
+          they're documented as part of Enterprise Templates.&lt;br>
+&amp;nbsp;&lt;/li>
+        &lt;/ul>
+          &lt;/li>
+          &lt;li>By default, &lt;b>adding a new project to an existing solution wants to 
+          put the new project in a peer directory instead of in a sub-directory&lt;/b>. 
+          This seems strange if you're trying to keep these things together 
+          (which, presumably, you are if you're grouping multiple projects into 
+          a single solution). Certainly, I've seen users dig through several 
+          peer directories looking for the solution file. I put sub-projects 
+          into sub-directories by hand, but it would be nice if the IDE did this 
+          automatically.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>Cleaning a project of it's output files doesn't actually work for 
+          C# or VB.NET projects&lt;/b> (although the UI shows it as an option, as does 
+          the command line). &lt;a href="mailto:tomasr@mvps.org">Tomas Restrepo&lt;/a> 
+          has provided &lt;b>
+          &lt;a href="http://www.mvps.org/windev/dotnet/ProjectCleaner.html">
+          an add-in that provides the missing Clean functionality&lt;/a>&lt;/b>, along 
+          with a rant on what problems he had building the add-in.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>In spite of CodeWright and every other 3rd party editor supporting 
+          it for years, &lt;b>VS still doesn't support keyword expansion&lt;/b>, e.g. 
+          expanding &amp;quot;if( &amp;quot; into &amp;quot;if( | )\n{\n}&amp;quot;, so I use
+          &lt;a href="http://www.nilgirihouse.com/">Dexter, from 
+          NilgiriHouse&lt;/a>. I don't have to change my typing habits at all, but 
+          I get tons o' text for free.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>&lt;b>The macro recorder is pretty stunted&lt;/b>. For example, if I 
+          want a macro to switch between some editor settings, e.g. my normal 
+          code formatting style and my prose code formatting style, and I record 
+          a macro to watch me change the settings, all the recorded macro does 
+          is record that the dialog was shown, not what settings I changed. What 
+          a let down...&lt;/li>
+        &lt;/ul>
+        &lt;p>&lt;i>[1] I've learned a ton of these tricks and traps from my fellow 
+        DevelopMentor instructors, my students and the
+        &lt;a href="http://discuss.develop.com/">.NET mailing list&lt;/a>, 
+        all of which I can heartily recommend.&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12367</id>
+    <title>My Family Heritage</title>
+    <updated>2001-12-31T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/animal.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2001-12-31T08:00:00.000Z</published>
+    <summary>Grandma says that all US Sells are related from the original Sells that came across on the boat after the May Flower. My father pointed out that my boys are not, in fact, the original Sells Brothers (and that we must be related, as the originals have his haircut). </summary>
+    <content type="html">&lt;h1>My Family Heritage&lt;/h1>
+&lt;p>Grandma says that all US Sells are related from the original Sells that came across on the boat after the May Flower.&lt;/p>&lt;p align="center">&lt;img border="0" src="/public/fun/animal.jpg" width="500" height="643">&lt;/p>&lt;p>My father pointed out that my boys are not, in fact, the original Sells Brothers (and that we must be related, as the originals have his haircut).&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12615</id>
+    <title>Elvish in the New Age</title>
+    <updated>2001-12-29T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-12-29T08:00:00.000Z</published>
+    <summary>TimT said: od oy dp,ryjomh;olr yjodz [d. dpttu. gomhrtd pm yjr etpmh lrud //yo, SerdarK said: Is that Elfish? ShawnV said: I think it *is* elvish... let me put my laptop in the fire. Ah yes, I can read it clearly now: One Desktop to rule them all, One Desktop to find them One Desktop to bring them all, and in the darkness bind them in the land of Redmond, where the shadows lie Off Topic mailing list </summary>
+    <content type="html">&lt;h1>Elvish in the New Age&lt;/h1>
+&lt;H2>TimT said: &lt;/H2>
+&lt;P>od oy dp,ryjomh ;olr yjodz&lt;BR>[d. dpttu. gomhrtd pm yjr etpmh lrud&lt;BR>//yo,&lt;/P>
+&lt;H2>SerdarK said:&lt;/H2>
+&lt;P>Is that Elfish?&lt;/P>
+&lt;H2>ShawnV said:&lt;/H2>
+&lt;P>I think it *is* elvish... let me put my laptop in the fire. Ah yes, I can read it clearly now:&lt;/P>
+&lt;P>&lt;B>One Desktop to rule them all, One Desktop to find them&lt;BR>One Desktop to bring them all, and in the darkness bind them&lt;BR>in the land of Redmond, where the shadows lie&lt;/B>&lt;/P>
+&lt;P>&lt;I>Off Topic mailing list&lt;/I>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12368</id>
+    <title>1970s "wocka-wocka" porno guitar</title>
+    <updated>2001-12-19T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-12-19T08:00:00.000Z</published>
+    <summary>Sung to &amp;quot;Shaft&amp;quot; by Isaac Hayes &amp;lt; http://www.shaft-themovie.com/soundtrack/track01.mp3 &amp;gt; Who's the man with tongue-in-cheek that's a code machine to all the geeks? (Box!) You're damn right. Who is the man that would replace COM for its brother runtime? (Box!) Can ya dig it? Who's the cat that won't cop out when there's IDispatch all about (Box!) Right on You see this cat Box is a bad mother-- (Shut your mouth) But I'm talkin' about Box (Then we can dig it) He's a complicated man but no one un...</summary>
+    <content type="html">&lt;h1>1970s "wocka-wocka" porno guitar&lt;/h1>
+&lt;p>&lt;b>&lt;i>Sung to &amp;quot;Shaft&amp;quot; by Isaac Hayes &amp;lt;&lt;a HREF="http://www.shaft-themovie.com/soundtrack/track01.mp3">&lt;font COLOR="#0000ff">&lt;u>http://www.shaft-themovie.com/soundtrack/track01.mp3&lt;/u>&lt;/font>&lt;/a>&amp;gt;&lt;/i>&lt;/b>&lt;/p>&lt;p>Who's the man with tongue-in-cheek&lt;br>that's a code machine to all the geeks?&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>You're damn right.&lt;br>Who is the man&lt;br>that would replace COM for its brother runtime?&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>Can ya dig it?&lt;br>Who's the cat that won't cop out&lt;br>when there's IDispatch all about&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>Right on&lt;br>You see this cat Box is a bad mother--&lt;/p>&lt;p>(Shut your mouth)&lt;/p>&lt;p>But I'm talkin' about Box&lt;/p>&lt;p>(Then we can dig it)&lt;/p>&lt;p>He's a complicated man&lt;br>but no one understands him but his pointers&lt;/p>&lt;p>(Don Box)&lt;/p>&lt;p>&lt;i>John Bristowe&lt;br>Wed &lt;span class="created">12/19/2001 2:02 PM&lt;/span>&lt;br>dotnet discussion &lt;a href="mailto:[DOTNET@DISCUSS.DEVELOP.COM">[DOTNET@DISCUSS.DEVELOP.COM&lt;/a>]&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12595</id>
+    <title>Too Many Secrets</title>
+    <updated>2001-12-18T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-12-18T08:00:00.000Z</published>
+    <summary>Tue, 12/18/01 During my three years as director of a software project, I learned a lot about people. In fact, I have a little text file entitled "My life as a dog" that may find a home on this site one day. However, because of a thread on the Windows Technical Off Topic list, one of the things I learned came roaring back like a bad acid trip. The #1 problem with any organization is always communication. You can do postmortems on projects all day long and only #2 and above will be a surprise. The problem is ...</summary>
+    <content type="html">&lt;h1>Too Many Secrets&lt;/h1>
+&lt;P>
+            &lt;EM>Tue, &lt;span class="created">12/18/01&lt;/span>&lt;/EM>
+        &lt;/P>
+        &lt;P>
+            During my three years as director of a software project, I learned a lot about 
+            people. In fact, I have a little text file entitled "My life as a dog" that may 
+            find a home on this site one day. However, because of a thread on the &lt;A href="http://groups.yahoo.com/group/win_tech_off_topic/message/1718">
+                Windows Technical Off Topic&lt;/A> list, one of the things I learned came 
+            roaring back like a bad acid trip.
+        &lt;/P>
+        &lt;P>
+            The #1 problem with any organization is always communication. You can do 
+            postmortems on projects all day long and only #2 and above will be a surprise. 
+            The problem is that to build anything of any size, you need a team. As soon as 
+            you have to communicate what's in your head to some number of other people, 
+            it's going to happen imperfectly. The best way that we've been able to come up 
+            with to deal with this issue is hierarchical structures to practice selective 
+            information hiding, i.e. exactly the way we build software.
+        &lt;/P>
+        &lt;P>
+            However, unlike software, humans have feelings and as soon as they perceive 
+            that somebody is hiding something from them, they resent it. Again and again, 
+            when I see information withheld to hide "bad" news, those being hidden from 
+            know something is up and they get upset. And when they're upset, they send 
+            emails and IMs and phone calls around the company looking for every scrap of 
+            information they can find, all the while ignoring the work that suddenly seems 
+            a waste of time in the face of impending doom. The surprising thing is that 
+            when folks are given the truth openly and honestly, no matter how bad it is, 
+            they almost always dig in and deal with it. Just knowing that they're trusted 
+            with the secrets of the company seems to boost morale.
+        &lt;/P>
+        &lt;P>
+            I'm not saying that everyone needs to post their daily activities for everyone 
+            to see -- that's too much information. But I am saying that everyone from the 
+            CEO on down should be open about the issues they face, including being open to 
+            scrutiny and suggestions. I find that after doing that long enough, folks 
+            working for me tend to trust me to make the right decisions, leaving them to 
+            focus on their own work.
+        &lt;/P>
+        &lt;P>
+            The key is that, unlike software systems where components have information 
+            hidden from them by their clients, humans can only be effective if they know 
+            that the information is available when they want it. Information hiding still 
+            needs to happen, but &lt;EM>it's humans that need to choose to hide information from 
+                themselves.&lt;/EM> It whole thing falls apart if the managers do the hiding.
+        &lt;/P>
+        &lt;P>
+            </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12596</id>
+    <title>Effective C# Available Today</title>
+    <updated>2001-12-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-12-01T08:00:00.000Z</published>
+    <summary>Sat, 12/1/01 Effective C# is available now from Addison-Wesley. Of course, it's called Effective Java, but *wow* the overlap is amazing. Some of his items I don't agree with, e.g. return zero-length arrays instead of null (although I see his side) and others have been "fixed" due to advances in C#, e.g. override clone judiciously, but so much of it makes sense in C# (and.NET in general) that it's scary. I feel like asking AW for the text so that I can port it to C# over the weekend. : ) </summary>
+    <content type="html">&lt;h1>Effective C# Available Today&lt;/h1>
+&lt;P>
+        &lt;/P>
+        &lt;p>
+            &lt;i>&lt;span class="created">Sat, 12/1/01&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p class="MsoPlainText">
+            &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201310058">Effective 
+                C# is available now from Addison-Wesley&lt;/a>. Of course, it's called 
+            Effective Java, but *wow* the overlap is amazing. Some of his items I don't 
+            agree with, e.g. return zero-length arrays instead of null (although I see his 
+            side) and others have been "fixed" due to advances in C#, e.g. override clone 
+            judiciously, but so much of it makes sense in C# (and .NET in general) that 
+            it's scary. I feel like asking AW for the text so that I can port it to C# over 
+            the weekend. : )
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12369</id>
+    <title>I am not making this up...</title>
+    <updated>2001-11-27T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-11-27T08:00:00.000Z</published>
+    <summary>A friend of mine stumbled over this in the Microsoft source code: // Function: RunCommandEx
+// Synopsis: runs the given command in the current session, more robust
+// than RunCommand
+// Arguments: none
+// Returns: S_OK if success
+// History: October 3, 2000 - created [ name withheld to protect the guilty ]
+HRESULT RunCommandEx(LPCWSTR szCmdLine) { DWORD dwTry = 0; HRESULT hResult = S_OK; // try run command 3 times at most while (dwTry That's not quite my definition of robust, but oh well... Tue 11/27/2001 3...</summary>
+    <content type="html">&lt;h1>I am not making this up...&lt;/h1>
+&lt;p>A friend of mine stumbled over this in the Microsoft source code:&lt;/p>
+&lt;pre>//  Function:   RunCommandEx
+//  Synopsis:   runs the given command in the current session, more robust
+//				than RunCommand
+//  Arguments:  none
+//  Returns:    S_OK if success
+//  History:    October 3, 2000 - created [&lt;i>name withheld to protect the guilty&lt;/i>]
+HRESULT RunCommandEx(LPCWSTR szCmdLine) {
+	DWORD dwTry = 0;
+	HRESULT hResult = S_OK;
+
+	// try run command 3 times at most
+	while (dwTry&lt;4) {
+		hResult = RunCommand(szCmdLine);
+		if (hResult!=E_FAIL) {
+			// we succeeded
+			break;
+		}
+		dwTry++;
+	}
+	if (dwTry==4) {
+		ATLTRACE(L"COuld start the command even we tried 4 times\n");
+		ASSERT(FALSE);
+	}
+	return hResult;
+}&lt;/pre>&lt;p>That's not &lt;i>quite&lt;/i> my definition of robust, but oh well...&lt;/p>&lt;p>&lt;i>Tue &lt;span class="created">11/27/2001 3:52 PM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12370</id>
+    <title>.NET edition of Truckin' (Grateful Dead)</title>
+    <updated>2001-11-27T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-11-27T08:00:00.000Z</published>
+    <summary>&amp;quot;Steal this song right off my page.&amp;quot; You can find it at http://www.ferncrk.com/jittin.html. Use only in well ventilated area. Do not expose to open flame. Stuart Celarier Tue 11/27/2001 3:41 PM </summary>
+    <content type="html">&lt;h1>.NET edition of Truckin' (Grateful Dead)&lt;/h1>
+&lt;p>&amp;quot;Steal this song right off my page.&amp;quot; You can find it at &lt;font COLOR="#0000ff">&lt;a href="http://www.ferncrk.com/jittin.html">&lt;u>http://www.ferncrk.com/jittin.html&lt;/u>&lt;/a>&lt;/font>. Use only in well ventilated area. Do not expose to open flame.&lt;/p>&lt;p>&lt;i>Stuart Celarier&lt;br>
+Tue &lt;span class="created">11/27/2001 3:41 PM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12597</id>
+    <title>Thank You, Don Box</title>
+    <updated>2001-11-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-11-16T08:00:00.000Z</published>
+    <summary>Friday, 11/16/01 Last night, in the middle of.NET Band on the Runtime set, Don announced his retirement from DevelopMentor and training. He's sorry to be leaving us, of course, as we are to lose him, but he's excited about doing new things. Running a company gets more consuming as a company gets more successful and Don certainly brought DevelopMentor a great deal of success. And not only did he run his part of the company, but he also brought a amount of rigor and insight to an amazing range of technology t...</summary>
+    <content type="html">&lt;h1>Thank You, Don Box&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">Friday, 11/16/01&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            Last night, in the middle of .NET Band on the Runtime set, Don announced his 
+            retirement from DevelopMentor and training. He's sorry to be leaving us, of 
+            course, as we are to lose him, but he's excited about doing new things. Running 
+            a company gets more consuming as a company gets more successful and Don 
+            certainly brought DevelopMentor a great deal of success. And not only did he 
+            run his part of the company, but he also brought a amount of rigor and insight 
+            to an amazing range of technology topics, including C++, COM, DCOM, RPC, XML, 
+            Java and .NET, heretofore unprecedented in the training industry. He turned the 
+            phrase "them that can't; teach" on its ear. But these are things that are 
+            well-known of Don.
+        &lt;/p>
+        &lt;p>
+            What is perhaps not so well known is the care and dedication that he had for 
+            his friends and colleagues. He worked hard to turn his personal success into 
+            opportunities for the other technical staff members at DevelopMentor. And he 
+            succeeded. He paved the way for people like Ted Pattison, Keith Brown, Tim 
+            Ewald, Aaron Skonnard, Martin Gudgin and a host of others who's made a name for 
+            themselves in this industry. Of course, I'm also on this list. If you look at 
+            the things that I've got listed on this site, i.e. books, articles, courses, 
+            conference talks, etc, a staggering amount of it was enabled either directly or 
+            indirectly by Don Box. He's an amazing man and it's been an honor and a 
+            privilege to work with him these last six years. They're been the richest of my 
+            career and of my life. And for that, I'd like to thank him.
+        &lt;/p>
+        &lt;p>
+            Before we get too blubbery, Don has assured the world that he will continue to 
+            pursue technology and to communicate it to an eager audience. I, for one, look 
+            forward to what he decides to do next. Whatever it is, I'm sure it will be 
+            uniquely Don.
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12598</id>
+    <title>If you knew .NET like I know .NET...</title>
+    <updated>2001-11-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-11-11T08:00:00.000Z</published>
+    <summary>Sun, 11/11/01 Many years ago when Java was new, I dove in. My first program I wrote like a C++ programmer and I didn't get it. Then I rewrote the program as a Java program and it was much nicer, but I still didn't get it. Then I discovered the lack of deterministic finalization and that's all she wrote; my C++ thinking turned me away (the fact that Java was ashamed of my favorite platform and, in fact, all platforms didn't help). Now I've spent the last year doing.NET programming, mostly focused on Managed ...</summary>
+    <content type="html">&lt;h1>If you knew .NET like I know .NET...&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">Sun, 11/11/01&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            Many years ago when Java was new, I dove in. My first program I wrote like a 
+            C++ programmer and I didn't get it. Then I rewrote the program as a Java 
+            program and it was much nicer, but I still didn't get it. Then I discovered the 
+            lack of deterministic finalization and that's all she wrote; my C++ thinking 
+            turned me away (the fact that Java was ashamed of my favorite platform and, in 
+            fact, all platforms didn't help).
+        &lt;/p>
+        &lt;p>
+            Now I've spent the last year doing .NET programming, mostly focused on Managed 
+            C++ and I didn't get it. I've participated in DevelopMentor's
+                ASP.NET and
+                Guerrilla .NET and loved both of them, but still didn't get it. I 
+            rewrote (with my good friend Jon's help) my entire web site in ASP.NET and 
+            didn't get it. And I spent most of last week preparing for my teach of the 
+            latest version of DevelopMentor's
+                Essential .NET and I *still* didn't get it. Until today. Today I 
+            finally got it. The major power of Java wasn't that it was platform 
+            independent, as Sun so often touts. The power of Java (and therefore the power 
+            of .NET) is that it provides a major productivity boost for the programmer. I 
+            realized this today for the first time.
+        &lt;/p>
+        &lt;p>
+            It started yesterday. Yesterday I ported a tiny little application (&lt;a href="/public/samples/timecli.zip">a 
+                time client&lt;/a>) from MFC and C++ to .NET and C#. The first time I ported 
+            it, I ported it like it was still C++ and the result was ugly (I was trying to 
+            do the standard library trick of representing time as a the number of seconds 
+            since some marker time and then translating it into a formatted string at the 
+            last moment). In fact, I couldn't even do the nice formatting of the current 
+            time since .NET didn't support that means of conversion. But then I remembered 
+            that, unlike C++, .NET has proper date, time and span classes. Once I rewrote 
+            it in .NET style, it was a thing of beauty. With knowledge of only the name of 
+            the sockets namespace (System.Net), I was able to learn .NET and build a time 
+            client in under an hour. To paraphrase the closing sentence of &lt;a href="/public/writing/#extapps">
+                one of my first articles&lt;/a>, &lt;i>it just makes you want to grab the back the of 
+                computer monitor and feel the power of .NET&lt;/i>.
+        &lt;/p>
+        &lt;p>
+            Encouraged by my success and armed with the courage of my convictions (and a 
+            couple of &lt;a href="http://www.tlsecurity.net/Textware/Misc/draft-movva-msn-messenger-protocol-00.txt">
+                web&lt;/a> &lt;a href="http://www.venkydude.com/articles/msn2.htm">sites&lt;/a>
+            given me by &lt;a href="http://staff.develop.com/jasonw/">Jason&lt;/a>
+            and &lt;a href="http://www.razorsoft.net/">Peter&lt;/a>), I sat down 
+            to write a MSN Instant Messenger application. Those of you unlucky enough to 
+            have me as an IM contact saw me log in and log out about a hundred times 
+            yesterday (sorry : ). This was because every step of the way, I'd run my client 
+            and every step of the way, I'd make more progress. 90% of my code was reading 
+            and writing from the sockets and parsing strings. For the former, I used the 
+            StreamReader and StreamWriter and for the latter, I used the Regex class. Both 
+            did a ton of heavy lifting so I didn't have to. It was amazing.
+        &lt;/p>
+        &lt;p>
+            But yesterday, I still didn't get it. I was so focused on getting my IM client 
+            working (about a half day's work) that I completely missed the magnitude of 
+            what I was doing. I was implementing an async notification-based socket 
+            protocol after reading an example doc, skimming a spec and digging in. And the 
+            code I ended up with wasn't spaghetti. It wasn't production ready yet (my error 
+            handling, while present, was rudimentary) and I didn't implement the entire 
+            spec, but I had refactored along the way and now I have the beginnings of a 
+            nice little namespace for doing IM work. And all of this happened the same day 
+            that I first discovered the existence of the System.Net namespace. It's only 
+            after reflection (and a good night's sleep) that I finally get it. The power of 
+            .NET is the &lt;i>programmer productivity&lt;/i>.
+        &lt;/p>
+        &lt;p>
+            This productivity comes from a combination of ease of use and flexibility 
+            that's going to attract almost everyone. It will attract the VB programmers 
+            because of the continued ease of use and the new functionality of the .NET 
+            Foundation Classes. It's also going to attract the C++ and the Java programmers 
+            for the same reason, but they won't admit that's why they like it. They'll 
+            claim to love .NET because of the power and flexibility. Not only are the .NET 
+            languages themselves allowed to be fully-featured, but the framework itself has 
+            tons of amazing functionality built right in. So much so that it's easy to miss 
+            some of it. When I needed to calculate an MD5 hash in my IM client, I went to 
+            the net, downloaded some C++ code and built myself a COM object (although I 
+            could have easily built a MC++ component, too) and then brought it into my app 
+            via interop (see what not being ashamed of the platform can do? : ). That was 
+            great, but this morning Peter asked me why I hadn't just used the MD5 
+            functionality built into .NET. There's so much stuff in there that I missed it. 
+            As a community, we'll be digging into it for a long time to come.
+        &lt;/p>
+        &lt;p>
+            In the past, I had scoffed at the value of programmer productive over user 
+            productivity. My argument was that programmers are soldiers on the field of 
+            combat taking bullets and protecting the users at home. This was how I 
+            justified the complexity of C++, but measured it against the flexibility of the 
+            language and the performance of the produced code, and therefore the pleasure 
+            of the user. Don't get me wrong. We're still going to be using C++ for 
+            high-performance, shrink-wrap software for some time to come. Windows and 
+            Office XQ (or whatever they're going to call them) will still be implemented in 
+            C++. Client applications that cannot dictate their deployment environment, i.e. 
+            can't dictate the presence of the .NET runtime, will still be implemented in 
+            C++ or VB6. Most of the rest is going to be built in .NET without 12-24 months. 
+            Stand-alone corporate applications can dictate the presence of the runtime, as 
+            can server-side n-tier applications. Web-based applications can take advantage 
+            of the compiled and caching performance gains using ASP-style programming, will 
+            still enjoying the flexibility and power of ISAPI-style programming via .NET 
+            modules and handlers. Everyone in these spaces that works under Windows is 
+            going to be moving to .NET, especially the Windows Java programmers who already 
+            know the power of such a platform, but want easy access to their DLLs and their 
+            COM servers. The reason that people in these environments can now afford to 
+            move is that continued research in virtual machine-style environments and 
+            increase in machine power has brought about the first platform where &lt;i>ease of use 
+                for the programmer does not mean that the user has to suffer&lt;/i>. 
+            Applications built with .NET are going to be &lt;i>fast enough&lt;/i> and when it 
+            comes to ASP, they're going to be much faster than what we've had in the past.
+        &lt;/p>
+        &lt;p>
+            The combination of ease of use for the home-by-5 style programmer and the 
+            flexibility for the computers-are-my-life style programmer was so great in Java 
+            that tens of thousands flooded the Java conferences from the first year. Mix in 
+            a user experience that doesn't have to suffer from the programmers' choice of 
+            .NET and I finally get it.
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12599</id>
+    <title>Be Your Own Teddy Bear</title>
+    <updated>2001-10-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-10-17T07:00:00.000Z</published>
+    <summary>Wednesday, 10/17/01 According to legend, the TA office next to the Stanford computer science lab is guarded by a teddy bear. Before a student is allowed to consume valuable time asking a question of the TA, they must first explain it to the teddy bear. Apparently the bear is able to answer 80% of the questions that students ask, saving time for the TAs to play Unreal Tournament. I often feel like I act as the teddy bear for the COM community. I get several email messages a day from folks that consider the m...</summary>
+    <content type="html">&lt;h1>Be Your Own Teddy Bear&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">Wednesday, 10/17/01&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            According to legend, the TA office next to the Stanford computer science lab is 
+            guarded by a teddy bear. Before a student is allowed to consume valuable time 
+            asking a question of the TA, they must first explain it to the teddy bear. 
+            Apparently the bear is able to answer 80% of the questions that students ask, 
+            saving time for the TAs to play Unreal Tournament.
+        &lt;/p>
+        &lt;p>
+            I often feel like I act as the teddy bear for the COM community. I get several 
+            email messages a day from folks that consider the &lt;a href="http://discuss.microsoft.com/">
+                mailings&lt;/a> &lt;a href="http://discuss.develop.com/">lists&lt;/a>
+            (resources set up to answer just these kinds of questions) to be too slow, so 
+            they ask me directly. If I don't know the answer off of the top of my head, I 
+            often respond with the following phrase:
+        &lt;/p>
+        &lt;p>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp; "Can you send me a tiny, tiny project that reproduces the 
+            problem? --Chris"
+        &lt;/p>
+        &lt;p>
+            This, of course, implies that I will actually build and debug the project. And 
+            20% of the time, I do. The other 80% of the time, by the time folks have 
+            reduced the problem enough to demonstrate it for me, they've already solved it, 
+            saving me the time (thank goodness).
+        &lt;/p>
+        &lt;p>
+            Knowing that this is the case, I recommend that you become your own teddy bear. 
+            A whiteboard is handy for explaining the problem to yourself and Microsoft 
+            development tools are now so handy that you can typically whip out a small 
+            reproduction project very quickly. These very activities will often solve the 
+            problem, but even if they don't, you've got a concise description of the 
+            problem and a small repro case to send to your friends or to post to the list.
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12371</id>
+    <title>The F-Key Diet</title>
+    <updated>2001-10-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-10-15T07:00:00.000Z</published>
+    <summary>Made you look! (if you don't know what I'm talking about, check here ) </summary>
+    <content type="html">&lt;h1>The F-Key Diet&lt;/h1>
+&lt;p>&lt;b>&lt;i>Made you look!&lt;/i> 
+&lt;/b> &lt;/p>&lt;p>(if you don't know what I'm talking about, &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0111b&amp;L=dotnet&amp;F=&amp;S=&amp;P=7560">check here&lt;/a>) &lt;/p>
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed69.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed68.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed70.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed69.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1440</id>
+    <title>Carnegie Mellon's Open Learning Initiative</title>
+    <updated>2004-07-10T07:00:00.000Z</updated>
+    <published>2004-07-10T07:00:00.000Z</published>
+    <summary>Carnegie Mellon's Open Learning Initiative is a set of 5 online courses, including Causal Reasoning (I read that 3 times before I realized this wasn't "Casual Reasoning" which I think would be very popular), Chemistry, Economics, Logic and Statistics. Unlike the MIT OpenCourseWare, apparently these courses are much more interactive and community enabled. Since the MIT courses really suffer from the lack of even a per-course mailing list, I think these features are important. Plus, I love the idea of hosting...</summary>
+    <content type="html">&lt;h1>Carnegie Mellon's Open Learning Initiative&lt;/h1>
+&lt;A href="http://www.cmu.edu/oli/">Carnegie Mellon's Open Learning Initiative&lt;/A> is a set of 5 online courses, including Causal Reasoning (I read that 3 times before I realized this wasn't "Casual Reasoning" which I think would be very popular), Chemistry, Economics, Logic and Statistics. Unlike &lt;A href="http://ocw.mit.edu/index.html">the MIT OpenCourseWare&lt;/A>, apparently these courses are much more interactive and community enabled. Since the MIT courses really suffer from the lack of even a per-course mailing list, I think these features are important. Plus, I love the idea of hosting the courseware in a smart client...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1438</id>
+    <title>Feedster Longhorn Buzz Feed</title>
+    <updated>2004-07-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-09T07:00:00.000Z</published>
+    <summary>Suddenly, after having been worthless/dormant since its inception, the Feedster Windows Longhorn Buzz Feed has begun spouting useful information. Subscribed.</summary>
+    <content type="html">&lt;h1>Feedster Longhorn Buzz Feed&lt;/h1>
+Suddenly, after having been worthless/dormant since its inception, &lt;A href="http://now.feedster.com/longhorn">the Feedster Windows Longhorn Buzz Feed&lt;/A> has begun spouting useful information. &lt;A href="http://feedster.com/feedpapercache/longhorn/rss.xml">Subscribed&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1437</id>
+    <title>Matt Pietrek, My Hero, Starts A Blog</title>
+    <updated>2004-07-09T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-09T07:00:00.000Z</published>
+    <summary>When I was but a wee Windows lad, my heroes were Charles Petzold and Matt Pietrek. I learned Windows 3.1 programming from Petzold (along with everyone else) and learned to love what was going on underneath from Matt. Plus, not only did Matt write Windows Internals (the title and style of which would inspire my own Internals book ), but he also wrote a monthly column for the Microsoft Systems Journal, which I would lovingly read cover-to-cover every month. So, when I went to speak at my first conference and ...</summary>
+    <content type="html">&lt;h1>Matt Pietrek, My Hero, Starts A Blog&lt;/h1>
+&lt;P>When I was but a wee Windows lad, my heroes were Charles Petzold and Matt Pietrek. I learned Windows 3.1 programming from Petzold (along with everyone else) and learned to love what was going on underneath from Matt. Plus, not only did Matt write &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201622173/chrissells">Windows Internals&lt;/A> (the title and style of which would inspire &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201695898/chrissells">my own Internals book&lt;/A>), but he also wrote a monthly column for &lt;A href="http://www.microsoft.com/msj/default.aspx">the Microsoft Systems Journal&lt;/A>, which I would lovingly read cover-to-cover every month.&lt;/P>
+&lt;P>So, when I went to speak at my first conference and Matt wanted to talk to me about something, I was on cloud 9 (not to be confused with &lt;A href="http://channel9.msdn.com/">Channel9&lt;/A>). I wondered what obscure technology that I'd most recently written about on &lt;A href="http://discuss.microsoft.com/archives/dcom.html">the DCOM mailing list&lt;/A> that had caught Matt's eye. What deep COM or ATL issue did he want to take up with me? I had arrived!&lt;/P>
+&lt;P>The topic of Matt's conversation? The x86 Prayer that he had posted on his site had moved and he wanted to know why all of the 404s were originating from my site (I was linking to it on &lt;a href="/public/fun/">my Fun page&lt;/A>). I had not arrived... : )&lt;/P>
+&lt;P>&lt;A href="http://www.wheaty.net/photos.htm">We've become closer since then&lt;/A> and now &lt;A href="http://weblogs.asp.net/matt_pietrek/Rss.aspx">Matt's got a blog&lt;/A>. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1436</id>
+    <title>Richard Turner Answers Common Indigo Questions</title>
+    <updated>2004-07-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-08T07:00:00.000Z</published>
+    <summary>Richard Turner, a PM on the Indigo team, answers some of the Indigo questions that came up as a result of his recent Channel9 interview, including: Will.NET Remoting go away any time soon? (no) Will Indigo Services require IIS? (no) We need to&amp;nbsp;support Windows 2000 and XP. Can Indigo Services be hosted on these OSs? (it's not supported) Will applications running on these OSs be able to act as clients to Indigo Services? (absolutely) We expose some of our remoting assemblies via HTTP and host at least on...</summary>
+    <content type="html">&lt;h1>Richard Turner Answers Common Indigo Questions&lt;/h1>
+&lt;P>Richard Turner, a PM on the Indigo team, &lt;A href="http://weblogs.asp.net/richturner666/archive/2004/07/06/174547.aspx">answers some of the Indigo questions&lt;/A> that came up as a result of &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=9990">his recent Channel9 interview&lt;/A>, including:&lt;/P>
+&lt;UL>
+&lt;LI>Will .NET Remoting go away any time soon? (no)&lt;/LI>
+&lt;LI>Will Indigo Services require IIS? (no)&lt;/LI>
+&lt;LI>We need to&amp;nbsp;support Windows 2000 and XP. Can Indigo Services be hosted on these OSs? (it's not supported) Will applications running on these OSs be able to act as clients to Indigo Services? (absolutely)&lt;/LI>
+&lt;LI>We expose some of our remoting assemblies via HTTP and host at least one in IIS.&amp;nbsp; Will Indigo Services offer interoperability with these configurations? (yes) Will we be able to write an Indigo wrapper around a remoting DLL? (yes)&lt;/LI>&lt;/UL>
+&lt;P>I've just realized that Richard has turned into &lt;A href="http://weblogs.asp.net/richturner666/">my most favorite Indigo blogger&lt;/A>. He straddles the fence nicely between what is available today and what's going to be available tomorrow. Thanks, Richard. We need you. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12385</id>
+    <title>What do job interviews really tell us?</title>
+    <updated>2004-07-06T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-07-06T07:00:00.000Z</published>
+    <summary>For the New Yorker, Malcolm Gladwell discusses various indicators of how well interviews actually work for screening job candidates (in a phrase: not very well). The discussion of how we make our decision about someone in the first 2 seconds after seeing them and then use our future interactions with them to either reinforce our initial reaction or forgive as an aberration is particularly telling. </summary>
+    <content type="html">&lt;h1>What do job interviews really tell us?&lt;/h1>
+
+&lt;p>&lt;span class="blurb">For the New Yorker, Malcolm Gladwell discusses various 
+indicators of
+&lt;a href="http://gladwell.com/2000/2000_05_29_a_interview.htm">
+how well interviews actually work&lt;/a> for screening job candidates (in a phrase: 
+not very well). The discussion of how we make our decision about someone in the 
+first 2 seconds after seeing them and then use our future interactions with them 
+to either reinforce our initial reaction or forgive as an aberration is 
+particularly telling.&lt;/span>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12386</id>
+    <title>"Interviews are practically worthless for screening candidates."</title>
+    <updated>2004-07-06T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-07-06T07:00:00.000Z</published>
+    <summary>Bram Cohen, the inventor of BitTorrent, discusses his thoughts on interviewing, include: &amp;quot;In an interview you can tell if a person is a pleasant conversationalist, and you can give some technical questions to rule out the truly inept, but beyond that you might as well be rolling dice.&amp;quot; &amp;quot;I'd like to note that in an all-male work environment hiring an attractive female is probably good for morale.&amp;quot; &amp;quot;Even though work history doesn't correlate with job performance, being a lying sack of...</summary>
+    <content type="html">&lt;h1>"Interviews are practically worthless for screening candidates."&lt;/h1>
+
+&lt;p>Bram Cohen, the inventor of BitTorrent, discusses
+&lt;a href="http://www.advogato.org/person/Bram/diary.html?start=111">
+his thoughts on interviewing&lt;/a>, include:&lt;/p>
+&lt;ul>
+	&lt;li>&amp;quot;In an interview you can tell if a person is a pleasant 
+	conversationalist, and you can give some technical questions to rule out the 
+	truly inept, but beyond that you might as well be rolling dice.&amp;quot;&lt;/li>
+	&lt;li>&amp;quot;I'd like to note that in an all-male work environment hiring an 
+	attractive female is probably good for morale.&amp;quot;&lt;/li>
+	&lt;li>&amp;quot;Even though work history doesn't correlate with job performance, being 
+	a lying sack of shit almost certainly does.&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;p>Fun. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1435</id>
+    <title>Raymond Chen on The Shell's Fake OLE Story</title>
+    <updated>2004-07-05T07:00:00.000Z</updated>
+    <published>2004-07-05T07:00:00.000Z</published>
+    <summary>Kids these days have it so easy. They expect to do a quick search and bam! the solution is revealed. Like this post from Raymond Chen where he describes the various memory allocators exposed by the shell and COM and how they're related. When I was a boy, we had to figure these kinds of things out! And we liked it! : ) P.S. I really did used to walk to school in 3 feet of snow up hill, both ways. I didn't like that at all... </summary>
+    <content type="html">&lt;h1>Raymond Chen on The Shell's Fake OLE Story&lt;/h1>
+&lt;P>Kids these days have it so easy. They expect to do a quick search and bam! the solution is revealed. Like this post from Raymond Chen where he describes &lt;A href="http://blogs.msdn.com/oldnewthing/archive/2004/07/05/173226.aspx">the various memory allocators exposed by the shell and COM and how they're related&lt;/A>. When I was a boy, we had to figure these kinds of things out! And we liked it! : )&lt;/P>
+&lt;P>P.S. I really did used to walk to school in &lt;A href="http://www.duluth.com/">3 feet of snow up hill, both ways&lt;/A>. I didn't like that at all...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1434</id>
+    <title>Ashvil DCosta on How Longhorn Transforms Apps</title>
+    <updated>2004-07-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-03T07:00:00.000Z</published>
+    <summary>Ashvil DCosta, a software professional in Bangalore writing a book on outsourcing software product development, posts his ideas about how Longhorn, particularly WinFS, will change the way we think about and develop applications.</summary>
+    <content type="html">&lt;h1>Ashvil DCosta on How Longhorn Transforms Apps&lt;/h1>
+&lt;A href="http://ashvil.net/">Ashvil DCosta&lt;/A>, a software professional in Bangalore writing a book on outsourcing software product development, posts his ideas about &lt;A href="http://www.codeproject.com/useritems/winfslonghorn.asp">how Longhorn, particularly WinFS, will change the way we think about and develop applications&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1433</id>
+    <title>Jason Nadal on the Longhorn Speech API</title>
+    <updated>2004-07-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-03T07:00:00.000Z</published>
+    <summary>"The Longhorn speech API offers baked-in functionality for voice commands inside the operating system (OS). This is a giant leap forward in the functionality provided by an OS. With the addition of an alternate user interface, products in the future may have a much different mode of interaction than currently used. Through the course of this article, the basics of voice input and output will be shown, as well as the construction of grammar, and how to act on recognition." [ via Paul Lamere] </summary>
+    <content type="html">&lt;h1>Jason Nadal on the Longhorn Speech API&lt;/h1>
+&lt;P>"The Longhorn speech API offers baked-in functionality for voice commands inside the operating system (OS). This is a giant leap forward in the functionality provided by an OS. With the addition of an alternate user interface, products in the future may have a much different mode of interaction than currently used. Through the course of &lt;A href="http://www.developer.com/voice/article.php/3345251">this article&lt;/A>, the basics of voice input and output will be shown, as well as the construction of grammar, and how to act on recognition."&lt;/P>
+&lt;p>[&lt;a href="http://blogs.sun.com/roller/page/plamere/20040703#longhorn_speech_api">via Paul Lamere]&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1432</id>
+    <title>Rob Chandler On Longhorn User Assistance Direction</title>
+    <updated>2004-07-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-01T07:00:00.000Z</published>
+    <summary>Rob Chandler, a Microsoft Help MVP, has posted a look at where he sees User Assistance heading in Longhorn, both in the UI and in the new help system. I see Longhorn as an opportunity to crank user experience up a notch in every way and user assistance is an important part of that.</summary>
+    <content type="html">&lt;h1>Rob Chandler On Longhorn User Assistance Direction&lt;/h1>
+Rob Chandler, a Microsoft Help MVP, has posted &lt;A href="http://www.codeproject.com/dotnet/LHChangesUA1.asp">a look at where he sees User Assistance heading in Longhorn&lt;/A>, both in the UI and in the new help system. I see Longhorn as an opportunity to crank user experience up a notch in every way and user assistance is an important part of that.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1431</id>
+    <title>All About MSH:The Microsoft Shell (Codename Monad)</title>
+    <updated>2004-06-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-30T07:00:00.000Z</published>
+    <summary>I'm a big cmd.exe user and was a big Korn Shell user before that, so command shells are an important part of my life and thus, I'm skeptical of new ones. However, I've been drooling over MSH (the Microsoft Shell -- codename Monad) ever since I first saw it. In fact, when I saw Karsten's post on getting the Monad bits for Windows XP and 2003, I was much excited. Then, I saw the Fundamentals Pillar topic on The.NET Show, which featured Jeffrey Snover (The Father of Monad) in the back half of the show and I wa...</summary>
+    <content type="html">&lt;h1>All About MSH:The Microsoft Shell (Codename Monad)&lt;/h1>
+&lt;P>I'm a big cmd.exe user and was a big Korn Shell user before that, so command shells are an important part of my life and thus, I'm skeptical of new ones. However, I've been drooling over MSH (the Microsoft Shell -- codename Monad) ever since I first saw it. In fact, when I saw &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/06/25/166334.aspx">Karsten's post on getting the Monad bits for Windows XP and 2003&lt;/A>, I was much excited. Then, I saw &lt;A href="http://msdn.microsoft.com/theshow/episode043/default.asp">the Fundamentals Pillar topic on The .NET Show&lt;/A>, which featured Jeffrey Snover (The Father of Monad) in the back half of the show and I was hooked. The way he told the Monad story motivated me to &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/06/25/166334.aspx">register for the public beta of Monad via Karsten's instructions&lt;/A> and wait impatiently over the weekend to be awarded permissions to download the bits.&lt;/P>
+&lt;P>Which I promptly installed on the WinHEC build of Longhorn (build 4074), even though it's only supported for Windows XP and Windows 2003.&lt;/P>
+&lt;P>As it turns out, Longhorn comes with an earlier preview of Monad, but it's much older than the latest Monad drop. So, I installed the latest Monad on the latest Longhorn, hoping that it would work and that I could follow along with my new hero Jeffrey.&lt;/P>
+&lt;P>And follow along I did, because not only did the latest Monad bits install and run just peachy under Longhorn, but the included Getting Started docs gave me hours of fun! With the functionality that Monad provides, I'm going to have a hard time going back to anything else.&lt;/P>
+&lt;P>If you're a command-line person, &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/06/25/166334.aspx">I recommend getting on the Monad beta&lt;/A>, taking it for a spin and letting those guys if there's anything you don't like (for example, I miss the "start" command, but I think I'll go build it...).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1430</id>
+    <title>"If I Could Thunk Once A Day, I'd Be Happy"</title>
+    <updated>2004-06-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-30T07:00:00.000Z</published>
+    <summary>Carl Franklin posts a fun segment from Michael Feldman's Whad'ya Know? radio program where 32-bit to 16-bit thunking is discussed.</summary>
+    <content type="html">&lt;h1>"If I Could Thunk Once A Day, I'd Be Happy"&lt;/h1>
+Carl Franklin posts a fun segment from Michael Feldman's Whad'ya Know? radio program where &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/06/30/170245.aspx">32-bit to 16-bit thunking is discussed&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1429</id>
+    <title>#1 Windows Forms Book</title>
+    <updated>2004-06-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-06-30T07:00:00.000Z</published>
+    <summary>Here. The one where I toot my own horn much less subtly than usual (and I'm not known for subtlety : ).</summary>
+    <content type="html">&lt;h1>#1 Windows Forms Book&lt;/h1>
+&lt;a href="/12487">Here&lt;/a>. The one where &lt;a href="/12487">I toot my own horn much less subtly than usual&lt;/A> (and I'm not known for subtlety : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12487</id>
+    <title>#1 Windows Forms Book</title>
+    <updated>2004-06-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-30T07:00:00.000Z</published>
+    <summary>Wednesday, June 30th, 2004 I just got word from my publisher that, according to the industry-wide metrics they use, Windows Forms Programming in C# is the #1 seller in it's category week-to-week by a wide margin over everyone but Petzold (who I'm still beating, but by a smaller margin). And while Petzold has sold more copies overall, he had a 2-year head start on me and I'm gaining. Further, earlier today, Amazon.com had the book listed as the #5 best selling computer book (although it's at #10 right now wi...</summary>
+    <content type="html">&lt;h1>#1 Windows Forms Book&lt;/h1>
+&lt;p align="left">&lt;i>Wednesday, &lt;span class="created">June 30th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+I just got word from my publisher that, according to the industry-wide metrics 
+they use, &lt;a href="/public/writing/wfbook">Windows Forms Programming in C#&lt;/a> is the 
+#1 seller in it's category week-to-week by a wide margin over everyone but 
+Petzold (who I'm still beating, but by a smaller margin). And while Petzold has 
+sold more copies overall, he had a 2-year head start on me and I'm gaining. 
+Further, earlier today, &lt;a href="http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/books/5/books/2/ref=pd_hn_ts_b/">
+Amazon.com had the book listed as the #5 best selling computer book&lt;/a> 
+(although it's at #10 right now with &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/ref=pd_ts_b_10/chrissells/">
+a sales rank of 459 and a ranking of 5 out of 5 with 52 reviews&lt;/a>).&lt;/p>&lt;p align="left">
+I normally try to toot my own horn a little more subtly than this, but the idea 
+that I could learn Windows programming from the best-selling Windows book author 
+of all time and then, 10 years later, beat his sales numbers makes me damn 
+proud. Thanks to all the reviewers and folks that gave me feedback on the 
+materials in my articles, to Shawn Wildermuth and Mike Weinhardt, who actually 
+contributed material to the book and to Addison-Wesley for printing it (and then 
+re-printing it, and then re-printing it... : ).&lt;/p>&lt;p align="left">&lt;a href="/1429">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1428</id>
+    <title>Lots of Fun Visual Studio 2005 Beta 1 Stuff</title>
+    <updated>2004-06-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-06-29T07:00:00.000Z</published>
+    <summary>MSDN shipped their part of Visual Studio 2005 Beta 1 at about 12:30am on Tuesday morning. Sara has a nice summary of the new MSDN Product Feedback Center that I think folks will find particularly satisfying: "At the MSDN Product Feedback Center, you can submit bugs and suggestions. You can search through other people&amp;#8217;s submitted bugs and suggestions. You can vote for your favorites. You can share workarounds. And, you can see feedback and details directly from folks on our product teams. Oh, and you c...</summary>
+    <content type="html">&lt;h1>Lots of Fun Visual Studio 2005 Beta 1 Stuff&lt;/h1>
+&lt;P>MSDN shipped their part of Visual Studio 2005 Beta 1 at about 12:30am on Tuesday morning. &lt;A href="http://blogs.msdn.com/saraw/archive/2004/06/29/168411.aspx">Sara has a nice summary of the new MSDN Product Feedback Center&lt;/A> that I think folks will find particularly satisfying:&lt;/P>
+&lt;BLOCKQUOTE>"At the MSDN Product Feedback Center, you can submit bugs and suggestions. You can search through other people&amp;#8217;s submitted bugs and suggestions. You can vote for your favorites. You can share workarounds. And, you can see feedback and details directly from folks on our product teams. Oh, and you can get notified when the status of an issue you&amp;#8217;re interested in changes."&lt;/BLOCKQUOTE>
+&lt;P>In other words, developer feedback to the product teams for the supported products is no longer just an email or a post, but an entry in a database that the product team and you can track. I can't wait to get this for Longhorn.&lt;/P>
+&lt;P>Also, Kent has announced &lt;A href="http://lab.msdn.microsoft.com/vs2005/">the new Visual Studio 2005 Developer Center&lt;/A>, complete with next-gen personalization features that we're testing on this content before we push them out site-wide. My favorite part of the site is the bit where &lt;A href="http://lab.msdn.microsoft.com/vs2005/teams/default.aspx">the product teams that contribute to .NET 2.0 point out what's new&lt;/A> (and &lt;A href="http://lab.msdn.microsoft.com/vs2005/teams/winforms/featureareas/default.aspx">the Windows Forms team even tell you how they're progressing on the features they're implementing&lt;/A>).&lt;/P>
+&lt;P>Kent also points out &lt;A href="http://lab.msdn.microsoft.com/express/vwd/">the site for the new Visual Studio 2005 Express Edition&lt;/A>, the beta of a slim and trim VS05 for students, hobbyists, etc. that you can download immediately. There's even &lt;A href="http://channel9.msdn.com/express/">a contest for Express users where the prizes include an XBox and a copy of Halo 2&lt;/A>.&lt;/P>
+&lt;P>Duncan also has a post where &lt;A href="http://weblogs.asp.net/duncanma/archive/2004/06/29/168414.aspx">he addresses our current philosophy on coverage of shipping vs. future content on MSDN&lt;/A> and why TechEd is going to throw it "out of whack" for a while (except &lt;A href="http://www.msdn.com/longhorn/">me&lt;/A>, of course, who's going to be out of whack for a good long time : ).&lt;/P>
+&lt;P>&lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>NOTE: Beta 1 of Visual Studio 2005 will not install on Longhorn.&lt;/FONT>&lt;/EM>&lt;/STRONG> Hopefully the next community drop of Longhorn will include a matching drop of VS05, but as of today, they remain incompatible.&lt;/P></content>
+  </entry>
+</feed>

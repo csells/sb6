@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed167.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed166.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed168.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed167.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/71</id>
+    <title>Brent Rector: The Truth about Code Obfuscators</title>
+    <updated>2002-06-08T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-08T07:00:00.000Z</published>
+    <summary>" An obfuscator only delays the inevitable. With unlimited resources (time and money) and physical access to code, all code can be reverse engineered. This was true for native x86 binaries and it's true for.NET Framework applications. What an obfuscator does is increase the cost of the effort required to reverse engineer obfuscated code. Hopefully, it increases the cost enough to make reverse engineering your code unpractical." </summary>
+    <content type="html">&lt;h1>Brent Rector: The Truth about Code Obfuscators&lt;/h1>
+&lt;p>"&lt;a href="http://www.gotdotnet.com/featured_site/wiseowl/default.aspx">An obfuscator&lt;/a> only delays the inevitable. With unlimited resources (time and money) and physical access to code, all code can be reverse engineered. This was true for native x86 binaries and it's true for .NET Framework applications. What an obfuscator does is increase the cost of the effort required to reverse engineer obfuscated code. Hopefully, it increases the cost enough to make reverse engineering your code unpractical."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/70</id>
+    <title>Quote of the day</title>
+    <updated>2002-06-08T07:00:00.000Z</updated>
+    <published>2002-06-08T07:00:00.000Z</published>
+    <summary>"There are only 10 types of people in the world: those who understand binary, and those who don't." </summary>
+    <content type="html">&lt;h1>Quote of the day&lt;/h1>
+&lt;p>"There are only &lt;a href="http://www.backupbrain.com/2002_06_02_archive.html#77472437">10 types of people&lt;/a> in the world: those who understand binary, and those who don't."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/72</id>
+    <title>Mono 0.12 is out!</title>
+    <updated>2002-06-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-08T07:00:00.000Z</published>
+    <summary>" More classes! More working code! Better compiler! Faster runtime! Less bugs!" </summary>
+    <content type="html">&lt;h1>Mono 0.12 is out!&lt;/h1>
+&lt;p>"&lt;a href="http://www.go-mono.com">More&lt;/a> classes! More working code! &lt;a href="http://www.go-mono.com">Better&lt;/a> compiler! &lt;a href="http://www.go-mono.com">Faster&lt;/a> runtime! Less bugs!"&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/69</id>
+    <title>Computer to Save World?</title>
+    <updated>2002-06-08T07:00:00.000Z</updated>
+    <published>2002-06-08T07:00:00.000Z</published>
+    <summary>"Day after day since 1984, teams of programmers, linguists, theologians, mathematicians and philosophers have plugged away at a $60 million project they hope will transform human existence: teaching a computer common sense." </summary>
+    <content type="html">&lt;h1>Computer to Save World?&lt;/h1>
+&lt;p>"Day after day since 1984, teams of programmers, linguists, theologians, mathematicians and philosophers have plugged away at a $60 million project they hope will transform human existence: &lt;a href="http://www.webfin.com/en/news/news.html/?id=19367">teaching a computer common sense&lt;/a>."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/68</id>
+    <title>BoxDB for .NET - Beta Testers Needed</title>
+    <updated>2002-06-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-07T07:00:00.000Z</published>
+    <summary>"We are currently conducting an open beta-test. "Built Software recently released the first beta of BoxDB for.NET, a library
+designed to simplify database application development. BoxDB is an
+abstraction layer that sits between your application and a SQL database. The
+purpose is twofold: First, BoxDB eliminates the type of repetitive SQL
+programming that you might otherwise cut &amp; paste throughout your app.
+Second, BoxDB creates a simpler interface for persisting application data to the database." </summary>
+    <content type="html">&lt;h1>BoxDB for .NET - Beta Testers Needed&lt;/h1>
+&lt;p>"We are currently conducting an open beta-test.&lt;/p>
+
+&lt;p>"Built Software recently released &lt;a href="http://www.builtsoftware.com/products/Box/">the first beta of BoxDB for .NET&lt;/a>, a library
+designed to simplify database application development. BoxDB is an
+abstraction layer that sits between your application and a SQL database. The
+purpose is twofold: First, BoxDB eliminates the type of repetitive SQL
+programming that you might otherwise cut &amp; paste throughout your app.
+Second, BoxDB creates a simpler interface for persisting application data to the database."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/67</id>
+    <title>Microsoft takes a swipe at passwords</title>
+    <updated>2002-06-06T07:00:00.000Z</updated>
+    <published>2002-06-06T07:00:00.000Z</published>
+    <summary>"Microsoft is developing new security software it hopes will make Web services and its entire product lineup more appealing to big companies. The software maker will announce plans on Thursday for technology code-named TrustBridge that will allow businesses to authenticate user identities between companies and applications using Web services standards. " </summary>
+    <content type="html">&lt;h1>Microsoft takes a swipe at passwords&lt;/h1>
+&lt;p>"Microsoft is developing &lt;a href="http://zdnet.com.com/2100-1104-933191.html">new security software&lt;/a> it hopes will make Web services and its entire product lineup more appealing to big companies. The software maker will announce plans on Thursday for technology code-named TrustBridge that will allow businesses to authenticate user identities between companies and applications using Web services standards. "&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/66</id>
+    <title>Visual Build Pro</title>
+    <updated>2002-06-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-06T07:00:00.000Z</published>
+    <summary>"It's easy to put Visual Build Pro to work doing all that manual labor for you so you can focus on more important things. Visual Build Pro is a powerful but affordable build management solution that will automate the build process without a huge commitment of time, and it works with the tools you're using today." </summary>
+    <content type="html">&lt;h1>Visual Build Pro&lt;/h1>
+&lt;p>"It's easy to put &lt;a href="http://www.kinook.com/VisBuildPro/">Visual Build Pro&lt;/a> to work doing all that manual labor for you so you can focus on more important things. Visual Build Pro is a powerful but affordable build management solution that will automate the build process without a huge commitment of time, and it works with the tools you're using today."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/64</id>
+    <title>Updated .NET Instant Messager Client Library</title>
+    <updated>2002-06-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-05T07:00:00.000Z</published>
+    <summary>Harry Pierson has made a number of updates to this core code to support his full-blown.NET IM client application. Check it out! </summary>
+    <content type="html">&lt;h1>Updated .NET Instant Messager Client Library&lt;/h1>
+&lt;p>Harry Pierson has made a number of updates to this core code to support his full-blown .NET IM client application. &lt;a href="/12426">Check it out!&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/65</id>
+    <title>Larry Wall Proposes Big Changes to Regex Syntax</title>
+    <updated>2002-06-05T07:00:00.000Z</updated>
+    <published>2002-06-05T07:00:00.000Z</published>
+    <summary>" Regex culture has gone wrong in a variety of ways, but it's not my intent to assign blame--there's plenty of blame to go around, and plenty of things that have gone wrong that are nobody's fault in particular.... "Given all this, I need to warn you that this Apocalypse is going to be somewhat radical. We'll be proposing changes to certain 'sacred' features of regex culture, and this is guaranteed to result in future shock for some of our more conservative citizens. Do not be alarmed." </summary>
+    <content type="html">&lt;h1>Larry Wall Proposes Big Changes to Regex Syntax&lt;/h1>
+&lt;p>"&lt;a href="http://www.perl.com/pub/a/2002/06/04/apo5.html">Regex culture has gone wrong in a variety of ways&lt;/a>, but it's not my intent to assign blame--there's plenty of blame to go around, and plenty of things that have gone wrong that are nobody's fault in particular. ...&lt;/p>
+
+&lt;p>"Given all this, I need to warn you that this Apocalypse is going to be somewhat radical. We'll be proposing changes to certain 'sacred' features of regex culture, and this is guaranteed to result in future shock for some of our more conservative citizens. Do not be alarmed."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/62</id>
+    <title>Golden Hostess Snack Goes Whole-Hog</title>
+    <updated>2002-06-04T07:00:00.000Z</updated>
+    <published>2002-06-04T07:00:00.000Z</published>
+    <summary>" Christopher Sell's restaurateur credentials are solid: He was trained as a French chef, managed a chain of London sushi restaurants and has been in the food industry for over 20 years." (It's not me... : ) </summary>
+    <content type="html">&lt;h1>Golden Hostess Snack Goes Whole-Hog&lt;/h1>
+&lt;p>"&lt;a href="http://www.foxnews.com/story/0,2933,54280,00.html">Christopher Sell's&lt;/a> restaurateur credentials are solid: He was trained as a French chef, managed a chain of London sushi restaurants and has been in the food industry for over 20 years."&lt;/p>
+
+&lt;p>(It's not me... : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/63</id>
+    <title>Updated XsdClassesGen</title>
+    <updated>2002-06-04T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-04T07:00:00.000Z</published>
+    <summary>Eric Eric Friedman has submitted code to support namespaces and uninstall. The former fills the biggest hole in XsdClassesGen (thanks Eric), but why would anyone need the latter?!? : ) </summary>
+    <content type="html">&lt;h1>Updated XsdClassesGen&lt;/h1>
+&lt;p>&lt;a href="mailto:ebf@users.sourceforge.net">Eric Eric Friedman&lt;/a> has submitted code to support namespaces and uninstall. The former fills the biggest hole in &lt;a href="/12422">XsdClassesGen&lt;/a> (thanks Eric), but why would anyone need the latter?!? : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/60</id>
+    <title>Email Alerts on New MS Support or KB Articles</title>
+    <updated>2002-06-01T07:00:00.000Z</updated>
+    <published>2002-06-01T07:00:00.000Z</published>
+    <summary>"It's FREE!!!! It's EASY!!! Every day I scan Microsoft's knowledge base to find new support articles. Now you can receive Free Email Alerts every time Microsoft Publishes NEW Support or KB Articles!" </summary>
+    <content type="html">&lt;h1>Email Alerts on New MS Support or KB Articles&lt;/h1>
+&lt;p>"It's FREE!!!! It's EASY!!! Every day I scan Microsoft's knowledge base to find new support articles. Now you can receive &lt;a href="http://www.kbalertz.com/">Free Email Alerts&lt;/a> every time Microsoft Publishes NEW Support or KB Articles!"&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/61</id>
+    <title>Syntax Across Languages</title>
+    <updated>2002-06-01T07:00:00.000Z</updated>
+    <published>2002-06-01T07:00:00.000Z</published>
+    <summary>Looking for syntax for a language you don't use very often? This site lists the various syntax across languages. He also sorts the data by construct and syntax for easy access, although he's missing several pieces from several languages. If you know some, help him out! </summary>
+    <content type="html">&lt;h1>Syntax Across Languages&lt;/h1>
+&lt;p>Looking for syntax for a language you don't use very often? &lt;a href="http://merd.net/pixel/language-study/syntax-across-languages.html">This site&lt;/a> lists the various syntax across languages. He also sorts the data by construct and syntax for easy access, although he's missing several pieces from several languages. If you know some, help him out!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/59</id>
+    <title>F#</title>
+    <updated>2002-05-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-30T07:00:00.000Z</published>
+    <summary>F# is the CLR language "[c]ombining the speed, safety and productivity of ML and Caml with the libraries, tools and cross-language working of.NET" Don used to say that F was invented for things that there was no F-ing way to do in other languages... </summary>
+    <content type="html">&lt;h1>F#&lt;/h1>
+&lt;p>&lt;a href="http://research.microsoft.com/projects/ilx/fsharp.htm">F#&lt;/a> is the CLR language "[c]ombining the speed, safety and productivity of ML and Caml with the libraries, tools and cross-language working of .NET"&lt;/p>
+
+&lt;p>Don used to say that F was invented for things that there was no F-ing way to do in other languages...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/58</id>
+    <title>Microsoft .NET Pet Shop vs. Sun Java Pet Store</title>
+    <updated>2002-05-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-29T07:00:00.000Z</published>
+    <summary>"... the.NET Pet Shop performs over 10 times faster than Oracle’s Java Pet Store based on Oracle’s latest (questionable) published data." </summary>
+    <content type="html">&lt;h1>Microsoft .NET Pet Shop vs. Sun Java Pet Store&lt;/h1>
+&lt;p>"...&lt;a href="http://www.gotdotnet.com/team/compare/veritest.aspx">the .NET Pet Shop&lt;/a> performs over 10 times faster than Oracle’s Java Pet Store based on Oracle’s latest (questionable) published data."&lt;/p></content>
+  </entry>
+</feed>

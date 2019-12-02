@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed70.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed69.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed71.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed70.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1427</id>
+    <title>The XAML Clone Wars Heat Up</title>
+    <updated>2004-06-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-29T07:00:00.000Z</published>
+    <summary>There are two companies vying to be your XAML vendor today to help you get read for Longhorn tomorrow. Mobiform released an updated XAML viewer today that can convert from SVG to XAML and show XAML on your existing.NET machines. Xamlon has been on a hiring spree, today bringing on Ben Cantlon. I don't know Ben, but he's asking for suggestions on what his company can do today to move you to XAML that works on.NET today and Longhorn tomorrow.</summary>
+    <content type="html">&lt;h1>The XAML Clone Wars Heat Up&lt;/h1>
+There are two companies vying to be your XAML vendor today to help you get read for Longhorn tomorrow. Mobiform released &lt;A href="http://www.mobiform.com/xamlview.aspx">an updated XAML viewer&lt;/A> today that can convert from SVG to XAML and show XAML on your existing .NET machines. Xamlon has been on a hiring spree, today bringing on &lt;A href="http://xamlblogs.com/ben/archive/2004/06/28/189.aspx">Ben Cantlon&lt;/A>. I don't know Ben, but he's asking for suggestions on what his company can do today to move you to XAML that works on .NET today and Longhorn tomorrow.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1424</id>
+    <title>BillG on Microsoft's Anti-Spam Efforts</title>
+    <updated>2004-06-28T07:00:00.000Z</updated>
+    <published>2004-06-28T07:00:00.000Z</published>
+    <summary>It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc, to work together against a common foe: spammers. This gives me hope that warring nations will be able to band together when the alien invasion comes. : )</summary>
+    <content type="html">&lt;h1>BillG on Microsoft's Anti-Spam Efforts&lt;/h1>
+It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc, to work together against &lt;A href="http://www.microsoft.com/mscorp/execmail/2004/06-28antispam.asp">a common foe: spammers&lt;/A>. This gives me hope that warring nations will be able to band together when the alien invasion comes. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1425</id>
+    <title>Using Permutations in .NET</title>
+    <updated>2004-06-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-28T07:00:00.000Z</published>
+    <summary>I know this is almost a year old, but the permutations algorithm was my favorite from STL and I've had occassion to miss it since moving to.NET, so it was nice to find Dr. James McCaffrey's Using Permutations in.NET for Improved Systems Security on msdn.com. The security implications are interesting, I suppose, but permutations are useful than that (like if you're trying to crush librarians...). </summary>
+    <content type="html">&lt;h1>Using Permutations in .NET&lt;/h1>
+&lt;P>I know this is almost a year old, but the permutations algorithm was my favorite from STL and I've had occassion to miss it since moving to .NET, so it was nice to find Dr. James McCaffrey's &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/permutations.asp">Using Permutations in .NET for Improved Systems Security&lt;/A> on msdn.com. The security implications are interesting, I suppose, but permutations are useful than that (like if you're &lt;a href="/12488">trying to crush librarians&lt;/A>...).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1426</id>
+    <title>Avalon 3D Hit Testing Demo</title>
+    <updated>2004-06-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-28T07:00:00.000Z</published>
+    <summary>The benefit of 3D support in Avalon is not the 3D support itself (we've had various ways to do 3D stuff in Windows apps for a while now, including both OpenGL and DirectX). The benefit is the tight integration we get between 3D and 2D elements in Avalon (and we'll get even closer integration as we move closer to the Longhorn release). For example, in his Avalon 3D Hit Testing Demo, Daniel Lehenbauer shows how hit testing can move into a ViewPort3D element (the representation of a 3D scene in an Avalon displ...</summary>
+    <content type="html">&lt;h1>Avalon 3D Hit Testing Demo&lt;/h1>
+&lt;P>The benefit of 3D support in Avalon is not the 3D support itself (we've had various ways to do 3D stuff in Windows apps for a while now, including both OpenGL and DirectX). The benefit is the tight integration we get between 3D and 2D elements in Avalon (and we'll get even closer integration as we move closer to the Longhorn release).&lt;/P>
+&lt;P>For example, in his &lt;A href="http://weblogs.asp.net/danlehen/archive/2004/06/27/167463.aspx">Avalon 3D Hit Testing Demo&lt;/A>, Daniel Lehenbauer shows how hit testing can move into a ViewPort3D element (the representation of a 3D scene in an Avalon display) into the specific element being clicked. In other words, you can have a Button right next to a ViewPort3D showing a teapot and your app can easily tell which one was clicked. Handling a teapot click is slightly harder than handling a Button click simple because the Button does it's own hit testing, but the Avalon 3D hit testing supports advanced features like clicking through the handle of the teapot w/o that being classified as a "hit," all of which Daniel explains nicely in his sample.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1423</id>
+    <title>Feature Leaked From VS05 Beta 1</title>
+    <updated>2004-06-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-27T07:00:00.000Z</published>
+    <summary>Apparently someone has an early copy of Visual Studio 2005 and has stumbled onto the big feature we've been saving for an important keynote.</summary>
+    <content type="html">&lt;h1>Feature Leaked From VS05 Beta 1&lt;/h1>
+Apparently someone has an early copy of Visual Studio 2005 and has stumbled onto &lt;A href="http://notgartner.com/posts/355.aspx">the big feature&lt;/A> we've been saving for an important keynote.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1422</id>
+    <title>The Good Bits of STL in .NET 2.0</title>
+    <updated>2004-06-26T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-06-26T07:00:00.000Z</published>
+    <summary>I look at Krzysztof Cwalina's post on delegated-based APIs in combination with generics and I think of the best parts of STL-like template-based programming without all the STL or templates causing the blinding pain just behind your eyes.</summary>
+    <content type="html">&lt;h1>The Good Bits of STL in .NET 2.0&lt;/h1>
+I look at &lt;A href="http://blogs.msdn.com/kcwalina/">Krzysztof Cwalina's&lt;/A> post on &lt;A href="http://blogs.msdn.com/kcwalina/archive/2004/06/22/162533.aspx">delegated-based APIs in combination with generics&lt;/A> and I think of the best parts of STL-like template-based programming without all the STL or templates causing the blinding pain just behind your eyes.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1418</id>
+    <title>My Experiments In Social Video</title>
+    <updated>2004-06-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-26T07:00:00.000Z</published>
+    <summary>Here. The one where I try a couple of experiments in social video to bring me closure to my friends and get half-way there.</summary>
+    <content type="html">&lt;h1>My Experiments In Social Video&lt;/h1>
+&lt;a href="/12489">Here&lt;/a>. The one where I try &lt;a href="/12489">a couple of experiments in social video&lt;/A> to bring me closure to my friends and get half-way there.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1420</id>
+    <title>A Man, A Plan, A Canal, A Librarian!</title>
+    <updated>2004-06-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-26T07:00:00.000Z</published>
+    <summary>Here. The one where I write two computer programs, neither of which do as well as the two librarians they're up against (damn librarians...). </summary>
+    <content type="html">&lt;h1>A Man, A Plan, A Canal, A Librarian!&lt;/h1>
+&lt;a href="/12488">Here&lt;/a>. &lt;P>The one where I write two computer programs, neither of which do as well as the two librarians they're up against (damn librarians...).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1419</id>
+    <title>The Right Level Of Community Involvement</title>
+    <updated>2004-06-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-26T07:00:00.000Z</published>
+    <summary>Earlier this week, BradA asked the community for feedback on the guys that work for him (it's review season again at Microsoft). Adam had this to say in response : "I'm waiting for the first blogger to suggest that we should let the development community choose when we go to the bathroom. Is there no internal process that doesn't benefit from 'community involvement'?" When folks complain about too much community involvement, I judge we're at just the right level. : ) </summary>
+    <content type="html">&lt;h1>The Right Level Of Community Involvement&lt;/h1>
+&lt;P>Earlier this week, &lt;A href="http://blogs.msdn.com/brada/archive/2004/06/22/163157.aspx">BradA asked the community for feedback on the guys that work for him&lt;/A> (it's review season again at Microsoft). &lt;a href="http://blogs.msdn.com/brada/archive/2004/06/22/163157.aspx#164444">Adam had this to say in response&lt;/a>:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>"I'm waiting for the first blogger to suggest that we should let the development community choose when we go to the bathroom. Is there no internal process that doesn't benefit from 'community involvement'?"&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>When folks complain about too much community involvement, I judge we're at just the right level. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12488</id>
+    <title>A Man, A Plan, A Canal, A Librarian!</title>
+    <updated>2004-06-26T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/wordfind.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-26T07:00:00.000Z</published>
+    <summary>Saturday, June 26th, 2004 Can't come up with a better palindrome than &amp;quot;a man, a plan, a canal, Panama!&amp;quot;? Write a program and come up with one that's 17,000+ words. I love computers and what people do with them. The most extreme thing I ever did along these lines is when my airplane was circling an airport for some unknown reason and the United flight attendant announced a contest to keep our minds off the dwindling fuel and the terrorists on the ground (oh, wait, that's Die Hard...). Anyway, she o...</summary>
+    <content type="html">&lt;h1>A Man, A Plan, A Canal, A Librarian!&lt;/h1>
+&lt;p align="left">&lt;i>Saturday, &lt;span class="created">June 
+26th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>Can't come up with a better palindrome than &amp;quot;a man, a plan, 
+a canal, Panama!&amp;quot;? &lt;a href="http://www.norvig.com/palindrome.html">
+Write a program and come up with one that's 17,000+ words.&lt;/a> I love computers 
+and what people do with them.&lt;/p>&lt;p>The most extreme thing I ever did along 
+these lines is when my airplane was circling an airport for some unknown reason 
+and the United flight attendant announced a contest to keep our minds off the 
+dwindling fuel and the terrorists on the ground (oh, wait, that's Die Hard...). 
+Anyway, she offered a free bag of peanuts (or something of equal value) to the 
+person that could come up with the most words of 3 or more letters from the 
+letters in the word &amp;quot;united&amp;quot; (&lt;a href="http://www.imdb.com/title/tt0104348/">Always 
+Be Closing&lt;/a>...).&lt;/p>&lt;p>Did I put my Tim Ewald-expanded vocabulary to work? 
+Did I scratch words onto a cocktail napkin as fast as I could think of them?&lt;/p>&lt;p>
+No. In the limited time I had, I wrote a program that would come up with random 
+combinations of letters in brute force fashion, then dumped the unique ones to a 
+file so that I could use Word's spell checker to find the real words. I came up 
+with 32. Did I win?&lt;/p>&lt;p>No. A librarian, using her own expanded vocabulary 
+beat me with 34 (I had been running the program to generate 1000 possibilities 
+to speed testing but forgot to flip it back to 10,000 when it came time to run 
+it for real).&lt;/p>&lt;p>Did I stop there? Did I accept defeat gracefully, especially 
+since it's pretty clear I had cheated in the first place?&lt;/p>&lt;p>No. I went home 
+and learned the STL permutation algorithm and wrote &lt;a href="/public/tools/WordFind.zip">
+a program that compared against a dictionary from the web&lt;/a> to find the 72 
+words of 3 or more letters in &amp;quot;united&amp;quot; (including asynchronous updates to the UI 
+as possibilities are checked [it takes a little longer, but it's worth it...]).&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/wordfind.jpg" width="405" height="420">&lt;/p>&lt;p>
+Now I carry that program on my laptop wherever I go, just in case I run into 
+that damn librarian again...&lt;/p>&lt;p>P.S. I did get to use my program one more 
+time against my mother playing Scrabble. I got my all-time high Scrabble score 
+ever on that day. She still beat me. Did I mention she's got a bachelor's degree 
+in library science? Damn librarians...&lt;/p>&lt;p align="left">&lt;a href="/1420">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1417</id>
+    <title>My Day With Edward Tufte</title>
+    <updated>2004-06-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-25T07:00:00.000Z</published>
+    <summary>Here. The one where I enjoy a day with Edward Tufte even if he unfairly blames PowerPoint for sloppy thinking.</summary>
+    <content type="html">&lt;h1>My Day With Edward Tufte&lt;/h1>
+&lt;a href="/12490">Here&lt;/a>. The one where &lt;a href="/12490">I enjoy a day with Edward Tufte&lt;/A> even if he unfairly blames PowerPoint for sloppy thinking.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12489</id>
+    <title>My Experiments in Social Video</title>
+    <updated>2004-06-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-25T07:00:00.000Z</published>
+    <summary>June 25, 2004 Because I'm a rarity at Microsoft, a remote employee, I've been conducting experiments in social video to increase my presence from afar. Experiment #1: Mini-Me My first experiment was a dedicated laptop for IM audio and video that sits on my desk in building 5. The idea was that anyone that wanted to chat with me could wander by my office and start an a/v chat w/ me nearly as easily if I was actually in the office. And then, when I'm supposed to be in a meeting, instead of requiring someone t...</summary>
+    <content type="html">&lt;h1>My Experiments in Social Video&lt;/h1>
+&lt;p align="left">&lt;i>&lt;span class="created">June 25, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+Because I'm a rarity at Microsoft, a remote employee, I've been conducting 
+experiments in social video to increase my presence from afar.&lt;/p>&lt;h2 align="left">
+Experiment #1: Mini-Me&lt;/h2>&lt;p align="left">My first experiment was a dedicated 
+laptop for IM audio and video that sits on my desk in building 5. The idea was 
+that anyone that wanted to chat with me could wander by my office and start an 
+a/v chat w/ me nearly as easily if I was actually in the office. And then, when 
+I'm supposed to be in a meeting, instead of requiring someone to bring their 
+laptop, with a web-cam installed, and give it up to me for the duration of the 
+meeting so that I could see folks, they could just grab the &amp;quot;mini-me&amp;quot; laptop 
+from my desk and bring it to the meeting.&lt;/p>&lt;p align="left">Sounds nice, eh?&lt;/p>&lt;p align="left">
+Doesn't work.&lt;/p>&lt;p align="left">The reason mini-me doesn't work as a stand-in 
+for me in my office is because there's no standard account I can login with on 
+my desktop, e.g. redmond\guest. The reason a standard account would be nice is 
+so that I can leave it logged in all the time, tie its own .NET Passport to the 
+account and put a shortcut on the desktop to make it IM me in video conference 
+mode (I actually wrote an app that does just that). Unfortunately, it has to be 
+an MS domain account so it has network access and if I leave an anonymous domain 
+account logged in on a laptop all the time, that's an enormous security hole. 
+And if I make folks that want a quick chat with me log in themselves, they'll 
+will have to wait for their domain settings to migrate to the laptop, they'll 
+have to login with their own IM account, they'll have to configure the web cam 
+before using it and they'll have to remember to logout when they leave for the 
+next person. Frankly, I'm not worth all that trouble when they could just call, 
+IM or email me.&lt;/p>&lt;p align="left">So, the mini-me laptop is a bust unless I can 
+figure out a way to get Internet access without Intranet access inside the MS 
+corporate Intranet without requiring everyone to log in w/ their own account to 
+get it. Oh, and it has to be in a way that works with wireless so that they can 
+haul mini-me to a meeting without having to haul along a cable, too.&lt;/p>&lt;h2 align="left">
+Experiment #2: Maxi-Me&lt;/h2>&lt;p align="left">My 2nd experiment in social video 
+went quite a bit better. Last week I gave two 1-hour talks back to back to the 
+AZ .NET User Group, but the trick was, I gave them from my house. The setup was 
+two computers on each side. One was for NetMeeting app-sharing (using MSN 
+Messenger to request Remote Assistance works, too, but I can never get MSN 
+Messenger app-sharing going). The second is for the video (the CPU load was too 
+heavy to do both on one computer). Voice was done over the phone, which they put 
+through their PA system. They also had two computers, both attached to video 
+projectors, broadcasting my screen using one projector and my image using 
+another (can you imagine how disturbing it must have been to see the giant, 
+pixelated maxi-me? I shudder at the thought : ).&lt;br>&lt;br>The app-sharing worked 
+well, as I was able to easily switch between PowerPoint and a Terminal Services 
+session to my Longhorn box. The audio worked well because I insisted on 2-way 
+audio so I could hear them ask questions (I hate talking into silence). The 
+video was cool, because I could see them raise their hands, drift off, laugh, 
+etc, but it required somebody sweeping the room on their end periodically 
+(talking without seeing your audience is slow death).&lt;br>&lt;br>Overall, it seems 
+like folks were able to enjoy a remote presenter without too much trouble. Once 
+I got 'em warmed up, the speaker phone and roving camera made Q&amp;amp;A very natural. 
+I would try maxi-me again, although I'd love it if I could get mini-me working, 
+too.&lt;/p>&lt;p align="left">In general, I believe that ubiquitous a/v conferencing 
+is inevitable. I just I'm just a bit ahead of the curve. : )&lt;/p>&lt;p align="left">&lt;a href="/1418">
+Discuss&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12490</id>
+    <title>My Day With Edward Tufte</title>
+    <updated>2004-06-25T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/spout/sparklines.gif"/>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-25T07:00:00.000Z</published>
+    <summary>Friday, June 25, 2004 I spent most of Thursday in a seminar given by Edward Tufte, the author of several seminal books in the area of data analysis and presentation (with another, Beautiful Evidence, in the works). I enjoyed it thoroughly and here's what I was able to capture: Tufte's Grand Principles The goal of good information design is to minimize the amount of time spent figuring out the design of the presentation of information (or even admiring it) and &lt;span style="font-we</summary>
+    <content type="html">&lt;h1>My Day With Edward Tufte&lt;/h1>
+&lt;p>&lt;i>&lt;font face="Times New Roman">Friday, &lt;span class="created">June 
+25, 2004&lt;/span>&lt;/font>&lt;/i>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">I spent most of Thursday in a seminar given by &lt;a href="http://www.edwardtufte.com/">
+Edward Tufte&lt;/a>, &lt;a href="http://www.amazon.com/exec/obidos/search-handle-url/index=books&amp;field-author=Tufte,%20Edward%20R./">
+the author of several seminal books in the area of data analysis and 
+presentation&lt;/a> (with another, Beautiful Evidence, in the works). I enjoyed it 
+thoroughly and here's what I was able to capture:&lt;/span>&lt;/font>&lt;/p>&lt;h2>&lt;font face="Times New Roman" size="3">
+Tufte's Grand Principles&lt;/font>&lt;/h2>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">The goal of good information design is to &lt;b>&lt;span style="font-weight: bold">
+minimize the amount of time spent figuring out the design&lt;/span>&lt;/b> of the 
+presentation of information (or even admiring it) and &lt;b>&lt;span style="font-weight: bold">
+maximize the time spent reasoning about the information&lt;/span>&lt;/b>. Good designs 
+should be as nearly invisible as possible.&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Tufte: &amp;quot;The point of an information display is to assist thinking. Good 
+design is clear thinking made visible. Bad design is stupidity in action. Chart 
+junk is a good sign of statistical stupidity.&amp;quot;&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font face="Times New Roman">
+My &lt;/font>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">favorite Tufte term is what he calls designers brought in to make boring 
+numbers look interesting: &amp;quot;chartoonists.&amp;quot;&lt;/span>&lt;/font>&lt;/p>&lt;h2>&lt;font size="3" face="Times New Roman">&lt;span style="font-size: 12.0pt; ">
+Ed's Grand Principles of Analytical Design&lt;/span>&lt;/font>&lt;/h2>&lt;ol>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Show&lt;/span>&lt;/b> &lt;b>&lt;span style="font-weight: bold">
+	comparisons&lt;/span>&lt;/b> (this is big theme of Tufte's)&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Show&lt;/span>&lt;/b> &lt;b>&lt;span style="font-weight: bold">
+	causality&lt;/span>&lt;/b>&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Show more than 2 variables, as the &lt;b>&lt;span style="font-weight: bold">
+	world we're trying to understand is multivariate&lt;/span>&lt;/b>&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Integrate word, number and image&lt;/span>&lt;/b> 
+	(this is another big theme)&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Say from where the data came&lt;/span>&lt;/b>&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">The value of an information presentation comes from &lt;b>&lt;span style="font-weight: bold">
+	the quality, the relevance and the integrity of the content&lt;/span>&lt;/b>, i.e. 
+	good design won't fix bad content.&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Use &lt;b>&lt;span style="font-weight: bold">small multiples&lt;/span>&lt;/b>, e.g. 
+	showing multiple pictures of sunspots on the sun over time&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Show and embed scales of measurement&lt;/span>&lt;/b> 
+	because it's an essential part of the context&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Annotate everything &lt;/span>&lt;/b>and if 
+	the audience reads ahead  great, they're reading your material&lt;/span>&lt;/font>&lt;/li>&lt;li>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&lt;b>&lt;span style="font-weight: bold">Use proven design templates&lt;/span>&lt;/b> 
+	(like those in Tufte's books)&lt;/span>&lt;/font>&lt;/li>&lt;/ol>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Tufte: &amp;quot;Don't let the marketing people corrupt your presentations by 
+eliminating detail. Chances are, the people looking at the information know more 
+than the marketing people. People haven't suddenly gotten stupid just because 
+they come to hear you talk. If people can read the financial tables and the 
+sports tables from the paper, they can get read data from you.&amp;quot; (The last point 
+assumes a good design.)&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">In my own work, I often remove detail for clarity, but I'm very careful 
+to leave enough details to keep context. I admit, it's a fine like to walk and 
+hard to get right.&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">As a way to pack more data into a small space (and in an attempt to 
+secure his immortality, imo), Tufte was inspired by Galileo's work to create a 
+new kind of graphic meant to be integrated into a sentence as yet another word. 
+He calls them &amp;quot;&lt;a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001Eb&amp;topic_id=1">sparklines&lt;/a>&amp;quot; 
+(the sparkline is the graphic before each word):&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/sparklines.gif" width="184" height="88">&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Sparklines pack a lot of information into a small space and are a cool 
+alternative to graphics that break the flow of thought and need to be called out 
+with a phrase like &amp;quot;as seen in Figure 3.&amp;quot; I have a mind to implement them in 
+Avalon when I get a chance.&lt;/span>&lt;/font>&lt;/p>&lt;h2>&lt;font face="Times New Roman" size="3">
+90% Content&lt;/font>&lt;/h2>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Tufte hates most kinds of user interfaces because they spend too much of 
+the already low resolution screen on &amp;quot;fluff,&amp;quot; e.g. menu bars, captions, 
+navigation, etc, and too little on the content itself. As an example, he showed 
+a screenshot of a photo display app that used only 18% of the screen for the 
+actual photos. He wants nearly invisible operating systems and apps and 90% of 
+the screen used for the content. He's a big fan of &lt;a href="http://www.google.com/news">
+Google News&lt;/a> as a way to pack in a lot of information and he's a big fan of 
+scrolling. For web sites, Tufte recommends only a small set of links at the top 
+of each page for navigation and nothing else. &lt;a href="http://www.edwardtufte.com/">
+His own site&lt;/a> is like this and I have to admit, I like it.&lt;/span>&lt;/font>&lt;/p>&lt;h2>&lt;font face="Times New Roman" size="3">
+Design For High Resolution&lt;/font>&lt;/h2>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Ed hates low resolution. He wants everyone to design for high resolution 
+to be viewed at 22 inches so you can pack a lot of information in, showing 
+comparisons and causality. He hates PowerPoint because it's made to be viewed 
+from 22 feet and doesn't provide a lot of room for showing dense data, 
+comparisons or causality. It's far easier for humans to make judgments when they 
+can see everything at once instead of sequenced one slide after another (or &amp;quot;one 
+damn thing after another,&amp;quot; as Tufte says : ). In general, he believes everything 
+should be printed and that PowerPoint should only be used for showing pictures 
+to an art class. I see his point, but ironically, when he wrote &lt;a href="http://www.edwardtufte.com/tufte/powerpoint">
+a paper on the problem of PowerPoint&lt;/a> to be read at 22&amp;quot;, after 3 pages of him 
+blaming PowerPoint for sloppy thinking, I put it down in disgust. If he had had &lt;a href="http://www.aaronsw.com/weblog/000931">
+his thoughts put together into PowerPoint-style format&lt;/a>, I could have skipped 
+ahead to find his real point, i.e. low resolution makes it hard to do serious 
+analysis.&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">As a point for Tufte, when producing this summary of my day listening to 
+him, I'm mixing prose, images and references, but I'm not producing it in 
+PowerPoint. According to Tufte, 4 pages of prose is equivalent to between 50-250 
+PowerPoint slides and I have to admit, it would be hard to convey what I want to 
+say about him in a PowerPoint deck without using a lot of slides and throwing 
+away the subtleties. In general, I believe that PowerPoint is best for reminding 
+the presenter what they want to say and is very poor for the audience. Instead 
+of a slide presentation, Tufte recommends providing the audience 4 pages of 
+prose, which they read 3-5x as fast as you could say it, and then having a 
+conversation. Interestingly, he allowed no conversation during his own 
+presentation but instead talked to various parts of his books and hand-outs.&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">&amp;nbsp;On the other hand, has anyone even read this far? Would you have gotten 
+farther if I'd have summarized everything in slides, skipping ahead to the juicy 
+bits when you got bored?&lt;/span>&lt;/font>&lt;/p>&lt;h2>&lt;font face="Times New Roman" size="3">
+Giving Presentations&lt;/font>&lt;/h2>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">Tufte has a great deal of advice about how to prepare for and give 
+presentations. To prepare, you must have great content (no amount of design or 
+practice will fix bad content) and spend a great deal of time practicing 
+(especially important if you're not using PPT to remind you what to say). When 
+presenting, follow these rules (these aren't all of my rules, but I agree with 
+them):&lt;/span>&lt;/font>&lt;/p>&lt;ol>&lt;li>&lt;b>&lt;span style="font-weight: bold">Show up early&lt;/span>&lt;/b> 
+	to avoid problems and greet everyone at the door to learn their names, 
+	introduce yourself and begin advancing your cause&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Start talks with The Problem, Why They Should Care and The Solution&lt;/span>&lt;/b>&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Never start your talk with an apology&lt;/span>&lt;/b>, as it just make you look 
+	pitiful&lt;/li>&lt;li>&lt;b>Use Particular/General/Particular when presenting 
+	information&lt;/b>, e.g. start with a particular example of something, 
+	generalize it and then show another particular example that shows the same 
+	general characteristics (I use this technique all the time and it's very 
+	effective)&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">Use first person 
+	singular only to express opinion&lt;/span>&lt;/b>, i.e. this isn't a talk about 
+	you but about a serious topic&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Give everyone at least one piece of paper&lt;/span>&lt;/b> (Ed prefers a single 
+	11&amp;quot; x 17&amp;quot; folded in half with 4 sides of content)&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Knowing your content and respecting your audience&lt;/span>&lt;/b> is more 
+	important than knowing your audience if by &amp;quot;knowing&amp;quot; them, you &amp;quot;dumb down&amp;quot; 
+	your talk for them&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">Avoid project 
+	slides&lt;/span>&lt;/b> (aka PowerPoint or the equivalent)&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Use humor as appropriate&lt;/span>&lt;/b>, e.g. hyperbole to make a point, &lt;b>but 
+	don't tell jokes&lt;/b>. &amp;quot;Don't alienate your audience because of a joke. 
+	Alienate your audience on the merits on your content!&amp;quot;&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Avoid the use of &amp;quot;he&amp;quot; or &amp;quot;she,&amp;quot;&lt;/span>&lt;/b> e.g. &amp;quot;The user, he takes his 
+	mouse and moves it to his menu bar where he makes his &lt;i>&lt;span style="font-style: italic">
+	manly&lt;/span>&lt;/i> choice.&amp;quot; &lt;b>Use &amp;quot;they&amp;quot; instead.&lt;/b>&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">
+	Make sure folks know you believe what you're saying&lt;/span>&lt;/b> by getting 
+	out from behind the podium, getting close to people and use appropriate 
+	gestures. If you don't believe what you're saying, they're not going to 
+	believe it.&lt;/li>&lt;li>&lt;b>&lt;span style="font-weight: bold">Finish early&lt;/span>&lt;/b> 
+	and something good will happen. No one will ever look at their colleague, 
+	commenting on how they wish you had gone on for another 20+ minutes.&lt;/li>&lt;/ol>&lt;p>&lt;font size="3" face="Times New Roman">&lt;span style="font-size:
+12.0pt">I think that Ed has enough good things to say about how to approach the 
+presentation and analysis of data that I would recommend that pretty much anyone 
+involved in the presentation and analysis of information take the time and 
+attend his day-long seminar.&lt;/span>&lt;/font>&lt;/p>&lt;p>&lt;a href="/1417">
+Discuss&lt;/a>&lt;/li>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1416</id>
+    <title>Longhorn Foghorn: Crazy About Avalon Data Binding</title>
+    <updated>2004-06-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-25T07:00:00.000Z</published>
+    <summary>Over the last few weeks, I've fallen in love with the power and simplicity of Avalon data binding. In this month's column, I start a 2 article series by focusing on the basics of data binding in Avalon and tease you with a screen shot of my Longhorn Solitaire application rebuilt using data binding and styles, the details of which I'll cover in the 2nd part of the series. </summary>
+    <content type="html">&lt;h1>Longhorn Foghorn: Crazy About Avalon Data Binding&lt;/h1>
+&lt;P>Over the last few weeks, I've fallen in love with the power and simplicity of Avalon data binding. &lt;A href="http://msdn.microsoft.com/longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnfoghorn/html/foghorn06252004.asp">In this month's column&lt;/A>, I start a 2 article series by focusing on the basics of data binding in Avalon and tease you with a screen shot of my Longhorn Solitaire application rebuilt using data binding and styles, the details of which I'll cover in the 2nd part of the series.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1412</id>
+    <title>Swag for the June 29 Portland Nerd Dinner</title>
+    <updated>2004-06-24T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-24T07:00:00.000Z</published>
+    <summary>I was doing my periodic t-shirt down-sizing and have gathered a couple dozen t-shirts that I thought I'd donate to my local geeks instead of to my local Good Will (who just don't seem to appreciate them). The pile includes a bunch of DevelopMentor t-shirts, including some of the vintage COM Is Love t-shirts (although I'm keeping Essential Marketing and I'm With CAFEBABE). I'll bring the t-shirts to the June 29th Portland Nerd Dinner. And if you're attending the PND, don't forget to ask me for the letter I w...</summary>
+    <content type="html">&lt;h1>Swag for the June 29 Portland Nerd Dinner&lt;/h1>
+&lt;P>I was doing my periodic t-shirt down-sizing and have gathered a couple dozen t-shirts that I thought I'd donate to my local geeks instead of to my local Good Will (who just don't seem to appreciate them). The pile includes a bunch of DevelopMentor t-shirts, including some of the vintage COM Is Love t-shirts (although I'm keeping Essential Marketing and I'm With CAFEBABE). I'll bring the t-shirts to &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=e180628a-97dd-45a6-8e55-3b88eb3c619c">the June 29th Portland Nerd Dinner&lt;/A>.&lt;/P>
+&lt;P>And if you're attending &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=e180628a-97dd-45a6-8e55-3b88eb3c619c">the PND&lt;/A>, don't forget to ask me for the letter I wrote to the CEOs of AOL and CompUSA. It made &lt;A href="http://www.neopoleon.com/">Rory&lt;/A> repeatedly gasp in amazement.&lt;/P></content>
+  </entry>
+</feed>

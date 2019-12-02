@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed170.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed169.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed171.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed170.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/7</id>
+    <title>Adding Custom Project Item Templates to VS.NET</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/writing/sample.JPG"/>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>This article describes how to add a custom project item wizard to the Add New Item dialog in Visual Studio.NET. Instead of building a custom implementation of IDTWizard and generating the code ourselves, however, we’re going to leverage Microsoft’s implementation using strategically placed template files and script. The Sample The sample project item template wizard I built to go along with this article is called My Web Form and adds a custom aspx file along with a custom aspx.cs file (the latter being the ...</summary>
+    <content type="html">&lt;h1>Adding Custom Project Item Templates to VS.NET&lt;/h1>
+&lt;p>This article describes how to add a custom project item wizard to the Add New 
+Item dialog in Visual Studio .NET. Instead of building a custom implementation 
+of IDTWizard and generating the code ourselves, however, we’re going to leverage 
+Microsoft’s implementation using strategically placed template files and script.&lt;/p>
+&lt;h2>The Sample&lt;/h2>
+&lt;p>&lt;a href="/public/writing/ProjectItemTemplateSample.zip">The sample project item template 
+wizard&lt;/a> I built to go along with this article is called My Web Form and adds 
+a custom aspx file along with a custom aspx.cs file (the latter being the hard 
+part), as shown below. It also advertises the &lt;a href="/public/conference/">Web Services DevCon&lt;/a>. 
+Enjoy.&lt;/p>
+&lt;p>&lt;i>&lt;b>NOTE: If you're going to use this sample in VS.NET 2003, you need to 
+append a “.7.1” onto the Wizard = VsWizard.VsWizardEngine line in the .VSZ file 
+located in the CSharpProjectItems directory, other you’ll get a Wizard can’t run 
+error in VS03 (and thanks to Randy Brown for pointing this out).&lt;/b>&lt;/i>&lt;/p>
+&lt;p>&lt;img border="0" src="/public/writing/sample.JPG" width="531" height="399">&lt;/p>
+&lt;h2>The Steps&lt;/h2>
+&lt;p>Feel free to follow along:&lt;/p>
+&lt;ol>
+  &lt;li>Under your VS.NET installation folder, find the ProjectItems folder for 
+  the type of template item you’d like to add, e.g. VC#\CSharpProjectItems is 
+  the directory for C# project items.&lt;br>
+&amp;nbsp;&lt;/li>
+  &lt;li>Create a .vsz file to configure your project item wizard, e.g. here’s a 
+  sample CSharpAddMyWebFormWiz.vsz:&lt;br>
+&lt;pre>VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine
+Param=&amp;quot;WIZARD_NAME = CSharpAddMyWebFormWiz&amp;quot;
+Param=&amp;quot;WIZARD_UI = FALSE&amp;quot;
+Param=&amp;quot;PROJECT_TYPE = CSPROJ&amp;quot;&lt;/pre>
+  Notice that the Wizard value looks like a COM ProgID. It is. Specifically, 
+  it’s VS.NET’s built-in VsWizardEngine. That’s so I can skate by using their 
+  template expansion engine and their script hosting without having to build it 
+  all myself.&lt;br>
+  &lt;br>
+  In the part that says WIZARD_NAME, give that the name of your own custom 
+  template, e.g. CSharpAddMyWebFormWiz. This name will be used later.&lt;br>
+  &lt;br>
+  &lt;a href="ms-help://MS.VSCC/MS.MSDNVS/vsintro7/html/vxconVSZFiles.htm">
+  Click here&lt;/a> for more information about .vsz files.&lt;br>
+&amp;nbsp;&lt;/li>
+  &lt;li>The directory structure underneath the ProjectItems folder mimics the 
+  folders in the Add New Item dialog. Navigate to the one you like and add a new 
+  .vsdir file to reference the wizard you created in the vsz file above, e.g. 
+  here’s a sample mywiz.vsdir for under ProjectItems\WebProjectItems\UI (this is 
+  all on a single line):&lt;br>
+&lt;pre>..\..\CSharpAddMyWebFormWiz.vsz|{FAE04EC1-301F-11d3-BF4B-00C04F79EFBC}|
+My Web Form|0|A special web form|{FAE04EC1-301F-11d3-BF4B-00C04F79EFBC}|4534|0|
+WebForm.aspx&lt;/pre>We've got several fields here, all separated by old fashioned pipes. The 1st 
+  field is the relative path the vsz file we created earlier. The 3rd field is a 
+  short description for the Add New Item dialog. A long description (also shown 
+  in the dialog) can be provided in the 5th field.&lt;br>
+  &lt;br>
+  The 4th field is the sort order, smaller means close to the top. I assume 
+  since you’re going to all the trouble to add a custom project item that you 
+  think it’s important, so we’ve promoted it all the way.&lt;br>
+  &lt;br>
+  Notice also the last field. It shows the general format of the file to be 
+  generated and added to the project. The other fields are GUIDs that we copied 
+  from the VS.NET CSharpAddWebFormWiz.vsz to “leverage” their icon for display.&lt;br>
+  &lt;br>
+  &lt;a href="ms-help://MS.VSCC/MS.MSDNVS/vsintro7/html/vxconVSDirFiles.htm">
+  Click here&lt;/a> for more information about .vsdir files.&lt;br>
+&amp;nbsp;&lt;/li>
+  &lt;li>The mywiz.vsdir file shown above will show your custom template item under 
+  the folder you picked, but will not show it at the global level. To show it at 
+  the global level, you need to copy your .vsdir file up to the just under 
+  LocalProjectItems or WebProjectItems, remembering to update the relative file 
+  path, e.g.&lt;br>
+  &lt;pre>..\CSharpAddMyWebFormWiz.vsz|{FAE04EC1-…&lt;/pre>&lt;/li>
+  &lt;li>Once you’ve set up the pointers to your new project item template, you 
+  will need the template that will form the output of your wizard. This 
+  information is placed into a folder under the type of template item you’re 
+  building, e.g. VC#\VC#Wizards is where the C# wizards live. The directory 
+  structure for your item will look like this:&lt;br>
+  &lt;br>
+&lt;img src="/public/writing/wizard.jpg" width="372" height="468">
+  &lt;br>
+  &lt;br>
+  The contents of the Template\1033 directory is the manifest for the file to 
+  generate for your project item in a file called templates.inf and the file 
+  that you would like to use as the template. The template file and the 
+  templates.inf file use wizard-provided symbols to example statements like 
+  [!output SAFE_CLASS_NAME] into strings like “MyClass”. 
+  &lt;a href="ms-help://MS.MSDNVS/vccore/html/vcoriTemplateDirectives.htm">
+  Click here&lt;/a> for more 
+  information about the template language.&lt;br>
+  &lt;br>
+  The following is an example templates.inf file with a single file in it:&lt;br>
+  &lt;pre>WebForm1.asmx&lt;/pre>
+  By default, all project items have a single file as specified in the Add New 
+  Item dialog, which is why we only have a single file in this templates.inf 
+  file. When running, the wizard will expect a file named WebForm1.asmx in the 
+  Template folder to serve as the template.&lt;br>
+&amp;nbsp;&lt;/li>
+  &lt;li>The templates.inf file turns out to be a convention and is not at all 
+  required. The default.js file in the Script\1033 directory of your wizard is 
+  what uses the templates.inf file to process each template file. Unfortunately, 
+  even a simple default.js file is too complex to reprint here, so I recommend 
+  that you find one from a wizard that’s close to what you want to do and copy 
+  it. If you just want a single file as determined by the templates.inf file, 
+  you’re all set.&lt;br>
+&amp;nbsp;&lt;/li>
+  &lt;li>On the other hand, if you want more, you’re going to be doing some 
+  spelunking. For example, I wanted to produce a project item template wizard 
+  that output a custom aspx file and the corresponding aspx.cs file. I started 
+  by duplicating the CSharpAddWebFormWiz folder, renaming it 
+  CSharpAddMyWebFormWiz and following steps 1-6. Then I added another file to 
+  the templates.inf file and all heck broke loose.&lt;br>
+  &lt;br>
+  First, the default.js file that I duplicated from the Add Wizard Form wizard 
+  assumed that it was generating a single file, e.g. WebForm1.aspx, so when I 
+  added another file to generate, it reused that file name and VS.NET didn’t 
+  like it one bit.&lt;br>
+  &lt;br>
+  Second, the IDE itself generates files when certain kinds of files are added 
+  to a project, e.g. aspx files. For C# projects, those files live in VC#\DesignerTemplates. 
+  Since the aspx.cs file is auto-generated when an aspx file is added to a 
+  project, VS.NET didn’t like it when I tried to generate another one right over 
+  it.&lt;br>
+  &lt;br>
+  Finally, deleting the file in the middle just after the aspx.cs file was 
+  generated didn’t work too well either, because default.js tells VS.NET to open 
+  the aspx file as soon as it is generated, which causes VS.NET to look for the 
+  code behind file, which causes more problems, since we just deleted it.&lt;br>
+  &lt;br>
+  So, after digging through the undocumented common functions in 
+  VC#\VC#Wizards\1033\common.js that the C# default.js uses to do its work [1], I 
+  was able to produce a project item template wizard that produced both an aspx 
+  file and an aspx.cs file. See the default.js
+  &lt;a href="/public/writing/ProjectItemTemplateSample.zip">in the sample&lt;/a> for the details.&lt;/li>
+&lt;/ol>
+ 
+&lt;p>[1] The VC++ team actually
+&lt;a href="ms-help://MS.MSDNVS/vccore/html/vclrfjscriptfunctionsforcwizards.htm">
+documented the functions in the VC wizard's common.js&lt;/a>. Thanks!&lt;/p>
+&lt;h1>Acknowledgements&lt;/h1>
+&lt;p>Thanks to &lt;a href="http://www.xpsystems.com/">XP Systems&lt;/a> for asking me to help them solve this problem. Also, 
+  thanks to &lt;a href="mailto:wells@CS.UTK.EDU">Elton Wells&lt;/a> for pointing me at some of the docs and the common.js 
+  files that the wizards use.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/28</id>
+    <title>Welcome to Windows Developer News!</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary></summary>
+    <content type="html">&lt;h1>Welcome to Windows Developer News!&lt;/h1></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/29</id>
+    <title>"Real World Web Services for VB Developers" online</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>Yasser Shohoud has generously posted the entire text of his web services book for VB developers online.</summary>
+    <content type="html">&lt;h1>"Real World Web Services for VB Developers" online&lt;/h1>
+&lt;a href="mailto:shohoudy@DEVXPERT.COM">Yasser Shohoud&lt;/a> has generously posted &lt;a href="http://LearnXmlws.com/book">the entire text of his web services book for VB developers&lt;/a> online.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/21</id>
+    <title>Genghis -- .01 release</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>We've released the v0.1 version of Genghis. Enjoy!</summary>
+    <content type="html">&lt;h1>Genghis -- .01 release&lt;/h1>
+We've released &lt;a href="/public/tools/genghis/">the v0.1 version of Genghis&lt;/a>. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/15</id>
+    <title>Announcing Genghis</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>Genghis is a set of extensions built on top of.NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL.</summary>
+    <content type="html">&lt;h1>Announcing Genghis&lt;/h1>
+&lt;a href="/public/tools/genghis/">Genghis&lt;/a> is a set of extensions built on top of .NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12363</id>
+    <title>C# vs. Java</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/fun/Proxy.gif"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>Chandu Thota Fri 5/10/2002 10:31 AM </summary>
+    <content type="html">&lt;h1>C# vs. Java&lt;/h1>
+&lt;h1>&lt;img border="0" src="/public/fun/Proxy.gif" width="474" height="253">&lt;/h1>&lt;p>&lt;i>Chandu Thota&lt;br>Fri &lt;span class="created">5/10/2002 10:31 AM&lt;/span>&lt;/i>&lt;/p>&lt;p>&lt;img src="http://www.ibiblio.org/Dave/Dr-Fun/df200002/df20000210.jpg" width="640" height="480">&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/24</id>
+    <title>Web Services DevCon recordings</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>The video recordings of the Web Services DevCon are now available. Enjoy!</summary>
+    <content type="html">&lt;h1>Web Services DevCon recordings&lt;/h1>
+The &lt;a href="http://www.technetcast.com/events/wsdc2002/">video recordings of the Web Services DevCon&lt;/a> are now available. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12428</id>
+    <title>SafeFormatter for .NET</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>Are you building and deploying.NET applications in a secure environment, e.g. over the intranet or the internet? If so, they you've probably mourned the loss of the binary and SOAP formatters that can automatically serialize a graph of objects that are marked as [Serializable] and that may also implement ISerializable and IDeserializationCallback. Both of these formatters are dependent on reflection, which will not be available in a more restrictive security environment. Likewise, even ISerialization.GetObj...</summary>
+    <content type="html">&lt;h1>SafeFormatter for .NET&lt;/h1>
+   &lt;p align="left">Are you building and deploying .NET applications in a secure 
+    environment, e.g. over the intranet or the internet? If so, they you've 
+    probably mourned the loss of the binary and SOAP formatters that can 
+    automatically serialize a graph of objects that are marked as [Serializable] 
+    and that may also implement ISerializable and IDeserializationCallback. Both 
+    of these formatters are dependent on reflection, which will not be available 
+    in a more restrictive security environment. Likewise, even 
+    ISerialization.GetObjectData is verboten if you wanted to do this kind of 
+    thing yourself. As far as that goes, [Serializable] and ISerialization &lt;i>
+    should&lt;/i> be forbidden in a secure environment, as it allows a client to 
+    get and set the private variables of an object, potentially causing harm.&lt;/p>
+    &lt;p align="left">Still, security is the enemy of usability, to paraphrase 
+    Keith Brown. So, in the spirit of a balancing the design need for objects 
+    that can serialize themselves with the goal of complete disclosure in a 
+    secure world, I've built my own &amp;quot;safe&amp;quot; formatter. It only uses facilities of 
+    the runtime that work in the most secure environment of the default settings 
+    for the internet zone. So that objects can guard themselves against 
+    malicious data, I define a new interface called ISafelySerializeable that 
+    they need to implement to support this serialization facility. The protocol 
+    is exactly the same as ISerializable, so if that interface is already being 
+    implemented, the implementation of GetObjectData can be shared between both 
+    interfaces.&lt;/p>
+    &lt;p align="left">Currently, the code is in alpha and is riddled with TODO 
+    statements, but its functional enough today for actual usage.
+    &lt;a href="/public/tools/SafeFormatter.zip">My SafeFormatter and test harness are available 
+    for your feedback.&lt;/a> Enjoy.&lt;/p>&lt;/div>
+ 
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12593</id>
+    <title>Now the Fun Begins</title>
+    <updated>2002-05-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-05-10T07:00:00.000Z</published>
+    <summary>Last night at 4:46pm, Sara Williams announced the availability of Microsoft's 4+ years of labor: the Microsoft.NET Framework, v1.0. And then, at 5:59pm, the great land rush to download the matching VS.NET bits began. Here are some links you may find interesting as you move to the RTM of.NET and VS.NET:. NET Framework SDK. NET Framework Redistributable &lt;a hre</summary>
+    <content type="html">&lt;h1>Now the Fun Begins&lt;/h1>
+
+        &lt;p>
+        &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0201c&amp;L=dotnet&amp;F=&amp;S=&amp;P=10179">
+        Last night at 4:46pm, Sara Williams announced the availability of 
+        Microsoft's 4+ years of labor: the Microsoft .NET Framework, v1.0&lt;/a>. And then,
+        &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0201c&amp;L=dotnet&amp;F=&amp;S=&amp;P=13258">
+        at 5:59pm, the great land rush to download the matching VS.NET bits began&lt;/a>. 
+        Here are some links you may find interesting as you move to the RTM of 
+        .NET and VS.NET:&lt;/p>
+        &lt;ul>
+          &lt;li>.&lt;a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/000/976/msdncompositedoc.xml">NET 
+          Framework SDK&lt;/a>&lt;/li>
+          &lt;li>.&lt;a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/MSDN-FILES/027/001/829/msdncompositedoc.xml">NET 
+          Framework Redistributable&lt;/a>&lt;/li>
+          &lt;li>
+          &lt;a href="http://msdn.microsoft.com/subscriptions/resources/subdwnld.asp">
+          VS.NET MSDN Member Download&lt;/a>&lt;/li>
+          &lt;li>&lt;a href="http://www.gotdotnet.com/team/upgrade/">
+          About Upgrading .NET&lt;/a>&lt;/li>
+        &lt;/ul>
+        &lt;p>Here are some fun facts for you:&lt;/p>
+        &lt;ul>
+          &lt;li>The compressed VS.NET Enterprise Architect download is 1.8GB and 
+          it took my puny cable model 4+ hours to download.&lt;/li>
+          &lt;li>It took my laptop (574MHz, 512MB RAM) 30+ minutes to unzip.&lt;/li>
+          &lt;li>The resulting pre-installed folder was 2.45GB.&lt;/li>
+          &lt;li>The .NET runtime build number is 3705.&lt;/li>
+          &lt;li>The VS.NET build number is 9466.&lt;/li>
+          &lt;li>The codename for .NET was &amp;quot;Lightning&amp;quot; (hence the ildasm icon).&lt;/li>
+          &lt;li>The codename for C# was &amp;quot;Cool&amp;quot; (hence the &amp;quot;C# is Cool&amp;quot; t-shirt).&lt;/li>
+          &lt;li>&lt;a href="http://www.bearcanyon.com/">Mike 
+          Woodring's&lt;/a> most excellent
+          &lt;a href="http://www.bearcanyon.com/dotnet/">asmstats 
+          tool&lt;/a> reveals the following:&lt;br>
+          &lt;br>
+          Done processing c:\windows\microsoft.net\Framework\v1.0.3705.&lt;br>
+          Processed 69 assemblies comprising 70 modules.&lt;br>
+          &lt;br>
+          Types: 8,866 (of any kind)&lt;br>
+          Classes: 5,602 (2,183 public)&lt;br>
+          Attributes: 297 (257 public)&lt;br>
+          Delegates: 334 (213 public)&lt;br>
+          Interfaces: 983 (659 public)&lt;br>
+          Enums: 1,085 (710 public)&lt;br>
+          Value types: 565 (121 public)&lt;br>
+          &lt;br>
+          Members: 414,990 (of any kind, instance and static)&lt;br>
+          Methods: 281,630 instance, 12,797 static&lt;br>
+          Events: 13,160 instance, 24 static&lt;br>
+          Properties: 44,689 instance, 1,233 static&lt;br>
+          Fields: 28,478 instance, 32,979 static&lt;/li>
+        &lt;/ul>
+        &lt;p>Congrats to the Microsoft .NET team for a job well done!&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12587</id>
+    <title>For the Love of the Story</title>
+    <updated>2002-05-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-05-09T07:00:00.000Z</published>
+    <summary>It's only happened a few times in my entire life, but I want it to happen more. It's that feeling you get when you're telling a story, trying to describe a scene or a technology or a something and, suddenly, without warning, it starts to tell you. It happened twice in college in a creative writing assignment: one of those times it actually gripped me from the moment I started writing my life story on a 3x5 card (I remember it started &amp;quot;I was an accident.&amp;quot; : ). It happened once while writing ATL Int...</summary>
+    <content type="html">&lt;h1>For the Love of the Story&lt;/h1>
+
+        &lt;p>It's only happened a few times in my entire life, but I want it to 
+        happen more. It's that feeling you get when you're telling a story, 
+        trying to describe a scene or a technology or a something and, suddenly, 
+        without warning, it starts to tell you. It happened twice in college in 
+        a creative writing assignment: one of those times it actually gripped me 
+        from the moment I started writing my  life story on a 3x5 card (I 
+        remember it started &amp;quot;I was an accident.&amp;quot; : ). It happened once while 
+        writing ATL Internals: Chapter 7, Collections and Enumerations. And it 
+        just happened again while finishing up a writer's journal entry I started 
+        yesterday:&lt;/p>
+        &lt;p class="MsoNormal">&lt;blockquote>
+  &lt;p>Whack-thump-thump. Whack-thump-thump. The sound 
+          filled the first floor. Whack-thump-thump. Tom knew he wasnt supposed 
+        to play ball in the house. Whack-thump-thump. His father, watching from 
+        the kitchen, had laid down that law several times when things had gotten 
+        out of hand. Whack-thump-thump. The ball continued hitting his hand, the 
+          floor and the door in 
+        the never-never land between the kitchen and the front entry. 
+        Whack-thump-thump. Tom, at 6, seemed to be using the mesmeric sounds to 
+        enter another place, somewhere regular, somewhere safe, somewhere 
+        comfortable. He had always been able to enter that place, whether he 
+        was playing with action figures, with clay or even with ordinary items 
+        like pencils or popsicle sticks, using them in the theater taking place 
+        in his head. Whack-thump-thump. Whack-thump-thump. His father was a much more 
+        literal thinker. He was creative, but creative in an 
+        engineering/problem-solving way and he envied his sons ability to enter 
+        this world seemingly effortlessly, never getting bored when the ordinary 
+        world around him failed to offer what was safe and regular and 
+        comfortable. Whack-thump-thump. Whack-thump-thump.&lt;/p>
+&lt;/blockquote>
+        &lt;p>I started writing this to describe what my son Tom was doing 
+        yesterday morning just before school and it turned into a look into how 
+        much I loved and admired my 6-year-old son. He's so much different than 
+        me, but just like his mother and looking at him makes me realize just 
+        how much I love my wife. That's what writing is supposed to do. It's 
+        supposed to help you reach into your self and share what you've got with 
+        others. That's what this blog is all about and I appreciate you being 
+        here to listen.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12423</id>
+    <title>Giving VS.NET That XP Look</title>
+    <updated>2002-04-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-04-12T07:00:00.000Z</published>
+    <summary>USE THIS FILE WITH CARE. It causes problems with image lists for.NET EXEs that don't also use the same manifest file. Just drop this devenv.exe.manifest file next to devenv.exe in your VS.NET install directory and the next time you start VS.NET under XP, it'll look mostly the same! (well, maybe a little different : ) </summary>
+    <content type="html">&lt;h1>Giving VS.NET That XP Look&lt;/h1>
+
+    &lt;p align="left">&lt;i>&lt;b>USE THIS FILE WITH CARE. It causes problems with image 
+    lists for .NET EXEs that don't also use the same manifest file.&lt;/b>&lt;/i>&lt;/p>
+    &lt;p align="left">Just drop this &lt;a href="/public/tools/devenv.exe.manifest.zip">
+    devenv.exe.manifest file&lt;/a> next to devenv.exe in your VS.NET install 
+    directory and the next time you start VS.NET under XP, it'll look mostly the 
+    same! (well, maybe a little different : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12424</id>
+    <title>.NET CollectionGen</title>
+    <updated>2002-04-10T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/tools/CollectionGen1.gif"/>
+    <category term="tools" label="Tools"/>
+    <published>2002-04-10T07:00:00.000Z</published>
+    <summary>[Note: As of 5/5/03, the functionality of CollectionGen has been sucked into Eric Smith's CodeSmith. I asked Eric to take on these features because CodeSmith does all of what CollectionGen does and more. All new feature requests/bug reports should go his way.] CollectionGen is a Custom Tool Add-In to VS.NET 2002 &amp;amp; 2003 to generate type-safe collections. As it turns out, I did almost none of the work. Jon Flanders figured out how to add a custom tool. Shawn Van Ness implemented the template for type-safe...</summary>
+    <content type="html">&lt;h1>.NET CollectionGen&lt;/h1>
+
+    &lt;p>[Note: As of 5/5/03, the functionality of CollectionGen has been sucked 
+	into &lt;a href="http://www.ericjsmith.net/codesmith/">Eric 
+	Smith's CodeSmith&lt;/a>. I asked Eric to take on these features because 
+	CodeSmith does all of what CollectionGen does and more. All new feature 
+	requests/bug reports should go his way.]&lt;/p>
+	&lt;p>CollectionGen is 
+    &lt;a href="/public/tools/collectiongen.zip">a Custom Tool Add-In to VS.NET 2002 &amp;amp; 2003 to generate type-safe collections&lt;/a>. As it turns out, I did almost none of 
+the work. &lt;a href="mailto:jfland@develop.com">Jon Flanders&lt;/a> figured out how to add a custom tool. 
+    &lt;a href="mailto:shawnv@arithex.com">Shawn Van Ness&lt;/a> 
+implemented
+    the template for type-safe collections. I just put it together.&lt;/p>
+    &lt;p>CollectionGen is an add-on to generate code for type-safe collections 
+    until we have templates in C# (likely) and VB (unlikely). The benefit of a 
+    type-safe collection, of course, is that you can use it without having to 
+    cast items to and from objects. Also, Shawn has been very careful to 
+    implement a collection class that is very efficient for both reference types 
+    and value types.&lt;/p>
+    &lt;p>Once you've setup it up and defined your collections in a collection 
+    definition file in your project, you'll have type-safe collection classes 
+    generated as part of your design-process, as shown here:&lt;/p>
+    &lt;p>&lt;img border="0" src="/public/tools/CollectionGen1.gif" width="403" height="98">&lt;/p>
+    &lt;p>&lt;b>Figure 1: collections.xml collection definition file&lt;/b>&lt;/p>
+    &lt;p>&amp;nbsp;&lt;/p>
+    &lt;p>
+    &lt;img border="0" src="/public/tools/CollectionGen2.gif" align="top" width="189" height="145">&lt;/p>
+    &lt;p>&lt;b>Figure 2: collections.xml and generated collection.cs implementation 
+    file&lt;/b>&lt;/p>
+    &lt;p>&amp;nbsp;&lt;/p>
+    &lt;p>
+    &lt;img border="0" src="/public/tools/CollectionGen3.gif" align="top" width="228" height="90">&lt;/p>
+    &lt;p>&lt;b>Figure 3: CollectionGen custom tool add-in associated with the 
+    collections.xml file&lt;/b>&lt;/p>
+    &lt;p>&amp;nbsp;&lt;/p>
+    &lt;p>&lt;img border="0" src="/public/tools/CollectionGen4.gif" width="582" height="188">&lt;/p>
+    &lt;p>&lt;b>Figure 4: Generate type-safe collection code&lt;/b>&lt;/p>
+    &lt;p>Enjoy!&lt;/p>
+	&lt;p align="left">Also, Atif Aziz used some of my custom tool code and built
+	&lt;a href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=ef3d0a73-0468-46da-8780-ede0f12b6f22">
+	a generic VS.NET code generator shim&lt;/a> that allows you to build a code 
+	generator that plugs into VS.NET by implementing a single method.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12425</id>
+    <title>RegexDesigner.NET</title>
+    <updated>2002-04-06T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/img.1.jpg"/>
+    <category term="tools" label="Tools"/>
+    <published>2002-04-06T08:00:00.000Z</published>
+    <summary>RegexDesigner.NET is a powerful visual tool for helping you construct and test.NET Regular Expressions. When you are happy with your regular expression, RegexDesigner.NET lets you integrate it into your application through native C# or VB.NET code generation and compiled assemblies (usable from any.NET language). Features: Full source Interactive matching of.NET regular expressions. Syntax highlighted match results, including zero-length matches and hidden characters. Tooltips to display matched groups. Reg...</summary>
+    <content type="html">&lt;h1>RegexDesigner.NET&lt;/h1>
+
+    &lt;p>
+    &lt;a href="/public/tools/regexd.zip">RegexDesigner.NET&lt;/a> is a powerful visual tool for 
+    helping you construct and test .NET Regular Expressions. When you are 
+    happy with your regular expression, RegexDesigner.NET lets you integrate it 
+    into your application through native C# or VB.NET code generation and 
+    compiled assemblies (usable from any .NET language).&lt;/p>
+    &lt;p>&lt;img border="0" src="/public/tools/img.1.jpg" width="560" height="340">&lt;/p>
+    &lt;h2>Features:&lt;/h2>
+                    &lt;ul>
+                      &lt;li>&lt;a href="/public/tools/regexdesigner.zip">Full source&lt;/a>&lt;/li>
+                      &lt;li>Interactive matching of .NET regular expressions.&lt;/li>
+                      &lt;li>Syntax highlighted match results, including 
+                      zero-length matches and hidden characters.&lt;/li>
+                      &lt;li>Tooltips to display matched groups.&lt;/li>
+                      &lt;li>Regular expression matching, replacing and splitting.&lt;/li>
+                      &lt;li>Regular expression projects to save expressions, text 
+                      to match and all regex options.&lt;/li>
+                      &lt;li>Full code generation for C# and VB.NET for all regex 
+                      operations.&lt;/li>
+                      &lt;li>Compiled assembly generation.&lt;/li>
+                      &lt;li>&lt;a href="/public/tools/RegexDesigner.chm">Full online help.&lt;/a>&lt;/li>
+                    &lt;/ul>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12397</id>
+    <title>Feeding the Engine</title>
+    <updated>2002-04-04T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-04-04T08:00:00.000Z</published>
+    <summary>Adam Barr, 4/4/2002 On October 26, 1999, it was announced that Microsoft would be one of the four new components in the 30 stocks that make up the Dow Jones Industrial Average. This as a long-overdue recognition of the role of technology in the U.S. economy, and in particular of Microsoft's central place in the industry. But Microsoft was different from the other three newcomers. It has no computer chip manufacturing plants like Intel, no chain of retail stores like Home Depot, no network phone lines like S...</summary>
+    <content type="html">&lt;h1>Feeding the Engine&lt;/h1>
+&lt;p>&lt;i>Adam Barr, &lt;span class="created">4/4/2002&lt;/span>&lt;/i>&lt;/p>&lt;p>On October 26, 1999, it was announced that Microsoft would be one of the four new components in the 30 stocks that make up the Dow Jones Industrial Average. This as a long-overdue recognition of the role of technology in the U.S. economy, and in particular of Microsoft's central place in the industry.&lt;br>&lt;br>But Microsoft was different from the other three newcomers. It has no computer chip manufacturing plants like Intel, no chain of retail stores like Home Depot, no network phone lines like SBC Communications. Indeed, it's not &amp;quot;industrial&amp;quot; at all. Its product is software; its assembly line the brainpower of its employees. And while companies across America would naturally say their employees are vital to their success, for Microsoft in a large sense the employees &lt;i>are&lt;/i> the company.&lt;br>&lt;br>And that makes Microsoft very particular about who it hires.&lt;/p>&lt;p>[&lt;a href="http://books.iuniverse.com/viewbooks.asp?isbn=05951612861&amp;page=1">read the rest online&lt;/a>]&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12588</id>
+    <title>This is Not a Blog</title>
+    <updated>2002-03-13T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-03-13T08:00:00.000Z</published>
+    <summary>Web Logging (blogging) is the wave of the future. Blogging is re-making the internet. Blogging is journalism where everyone is the journalist. Blogging is all that and a bag of donuts. OK. I guess so. I like blogs. I read a bunch of blogs. But most bloggers feel like they have to update their site at least once/day and most do it far more than that. Because of this, their blog entries end up looking like this: [burb] Excuse me. [ google this! ] [ comment on this! (0 comments so far) ] It's not that I don't ...</summary>
+    <content type="html">&lt;h1>This is Not a Blog&lt;/h1>
+
+        &lt;p>Web Logging (blogging) is the wave of the future. Blogging is re-making the internet. 
+        Blogging is journalism where everyone is the journalist. Blogging is all that and a 
+        bag of donuts.&lt;/p>
+        &lt;p>OK. I guess so. I like blogs. I read a bunch of blogs. 
+        But most bloggers feel like they have to update their site at least 
+        once/day and most do it far more than that. Because of this, their blog 
+        entries end up looking like this:&lt;/p>
+        &lt;blockquote>
+          &lt;p>&lt;i>[burb]&lt;/i> Excuse me.&lt;/p>
+          &lt;p>[&lt;a href="http://www.fakeurl.com">google this!&lt;/a>] [&lt;a href="http://www.fakeurl.com">comment 
+          on this! (0 comments so far)&lt;/a>]&lt;/p>
+        &lt;/blockquote>
+        &lt;p>It's not that I don't love to read a daily blow-by-blow of these 
+        peoples' lives... oh, wait, no, it is that. Maybe a little filtering 
+        would be handy?&lt;/p>
+        &lt;p>And while we're on to the filtering thing, maybe we could drop the 
+        meta-comments about blogging itself? How cool could blogging really be 
+        if every other entry is about the power of blogging itself or, even 
+        worse, a link to somebody who linked to your cool description of the 
+        power of blogging?!?&lt;/p>
+        &lt;p>Anyway, the spout is not a blog. I only update it when I think I've 
+        got something interesting to say (even if it's something that only I'm 
+        likely to think is interesting), I don't use any content management 
+        software (unless you count ASP.NET and FrontPage : ) 
+        and, except for this entry, I don't spend any time talking about the 
+        wonder of blogging itself.&lt;/p>
+        </content>
+  </entry>
+</feed>

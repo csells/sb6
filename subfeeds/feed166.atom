@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed166.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed165.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed167.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed166.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/87</id>
+    <title>The .NET Cost: Who Pays? (3 of 3)</title>
+    <updated>2002-06-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-18T07:00:00.000Z</published>
+    <summary>Here. "The.NET platform provides developers with an unprecedented level of language interoperability—at a price. Luckily, it won't cost you an arm and a leg to participate. Part 3 of 3."</summary>
+    <content type="html">&lt;h1>The .NET Cost: Who Pays? (3 of 3)&lt;/h1>
+&lt;a href="http://www.sdmagazine.com/documents/s=7224/sdm0207f/0207f.htm">Here&lt;/a>. "The .NET platform provides developers with an unprecedented level of language interoperability—at a price. Luckily, it won't cost you an arm and a leg to participate. Part 3 of 3."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/84</id>
+    <title>The ASP.NET Web Matrix Project</title>
+    <updated>2002-06-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-17T07:00:00.000Z</published>
+    <summary>Here. "ASP.NET Web Matrix is a community-supported, easy-to-use WYSIWYG application development tool for ASP.NET. It can be installed via a quick 1.2 MB download (about 5 minutes using a 56Kb modem). Best of all — it's absolutely free!"</summary>
+    <content type="html">&lt;h1>The ASP.NET Web Matrix Project &lt;/h1>
+&lt;a href="http://www.asp.net/webmatrix/default.aspx?tabindex=4&amp;tabid=46">Here&lt;/a>. "ASP.NET Web Matrix is a community-supported, easy-to-use WYSIWYG application development tool for ASP.NET.  It can be installed via a quick 1.2 MB download (about 5 minutes using a 56Kb modem).  Best of all — it's absolutely free!"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/83</id>
+    <title>Add #Region Macro</title>
+    <updated>2002-06-16T07:00:00.000Z</updated>
+    <published>2002-06-16T07:00:00.000Z</published>
+    <summary>Here. From Harry Pierson - DevHawk.NET: #Regions are one of the coolest new features of the VS.NET IDE. Here's a macro to make it easy to add them to existing code by simply selecting a block of code and running a macro.</summary>
+    <content type="html">&lt;h1>Add #Region Macro&lt;/h1>
+&lt;a href="http://www.devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson - DevHawk.NET: #Regions are one of the coolest new features of the VS .NET IDE. Here's a macro to make it easy to add them to existing code by simply selecting a block of code and running a macro.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/82</id>
+    <title>CS CODEDOM Parser</title>
+    <updated>2002-06-13T07:00:00.000Z</updated>
+    <published>2002-06-13T07:00:00.000Z</published>
+    <summary>Here. "CS CODEDOM Parser is utility which parses the C# source code and creates the CODEDOM tree of the code (general classes that represent code, part of.NET Framework - namespace System.CodeDom)." If a CodeDOM-complete C# parser could be constructed, than C# could be the universal codegen language, using the CodeDOM at the intermediate format and any CodeDOM language provider could be used as the output. In other words, one C# codegen template could generate any.NET language.</summary>
+    <content type="html">&lt;h1>CS CODEDOM Parser&lt;/h1>
+&lt;a href="http://www.c-sharpcorner.com/Code/2002/June/CsCodeParser.asp">Here&lt;/a>. "CS CODEDOM Parser is utility which parses the C# source code and creates the CODEDOM tree of the code (general classes that represent code, part of .NET Framework - namespace System.CodeDom)."
+
+If a CodeDOM-complete C# parser could be constructed, than C# could be the universal codegen language, using the CodeDOM at the intermediate format and any CodeDOM language provider could be used as the output. In other words, one C# codegen template could generate any .NET language.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/81</id>
+    <title>Updated Typed DataSet Generator</title>
+    <updated>2002-06-12T07:00:00.000Z</updated>
+    <published>2002-06-12T07:00:00.000Z</published>
+    <summary>Here. "This new version has fixes to the installer and the generator. This generator includes the following features: -Inheritable Typed DataSets
+-Added Annotation Namespace to Typed DataSet Template
+-New codegen:useNamespace Annotation to support setting the namespace of the Typed DataSet
+-New codegen:classModifier Annotation to support changing the visibility modifier (e.g. you can now make your Typed DataSet internal!)
+-New codegen:addCodeComments Annotation to create simple C# Code Comments to elimintat...</summary>
+    <content type="html">&lt;h1>Updated Typed DataSet Generator&lt;/h1>
+&lt;a href="http://adoguy.com/book/AGDataSetGenerator.aspx">Here&lt;/a>. "This new version has fixes to the installer and the generator. This generator includes the following features:
+
+-Inheritable Typed DataSets
+-Added Annotation Namespace to Typed DataSet Template
+-New codegen:useNamespace Annotation to support setting the namespace of the Typed DataSet
+-New codegen:classModifier Annotation to support changing the visibility modifier (e.g. you can now make your Typed DataSet internal!)
+-New codegen:addCodeComments Annotation to create simple C# Code Comments to elimintate warnings on building your project while generating the documentation XML file
+-New Typed DataSet Template that includes all these new annotations with default values."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12583</id>
+    <title>Karma</title>
+    <updated>2002-06-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-06-12T07:00:00.000Z</published>
+    <summary>While I definitely do have faith that there is a higher power in the universe (although I haven't yet decided if the universe is a good place to be or if it's just a simulation solving some higher level non-deterministic finite state automata), I'm not a religious man. If fact, I consider myself a completely recovered Catholic (I've been clean and sober for more than a decade and I never feel the need to go back for another hit off the body of Christ) [1]. Likewise, I'm not a superstitious man. I understand...</summary>
+    <content type="html">&lt;h1>Karma&lt;/h1>
+
+        &lt;p>While I definitely do have faith that there is a higher power in the 
+        universe (although I haven't yet decided if the universe is a good place 
+        to be or if it's just a simulation solving some higher level 
+        non-deterministic finite state automata), I'm not a religious man. If 
+        fact, I consider myself a completely recovered Catholic (I've been clean 
+        and sober for more than a decade and I never feel the need to go back 
+        for another hit off the body of Christ) [1].&lt;/p>
+        &lt;p>Likewise, I'm not a superstitious man. I understand that going under 
+        a ladder may cause pain if something drops on me, but not for some other 
+        mystical reason. Similarly, breaking mirrors could cut you, but only the 
+        most serious of cuts could last for 7 years.&lt;/p>
+        &lt;p>Still and all, I do believe in karma, otherwise stated as &amp;quot;what goes 
+        around, comes around.&amp;quot; It's happened many times in my life that a lot of 
+        bad luck eventually yields to a lot of good luck. Likewise, when you do 
+        bad, bad comes back at you and when you do good, good comes back. Of 
+        course, these phenomenon can be explained by statistics and human nature 
+        respectively, but I prefer to think of a giant celestial scoreboard that 
+        I can affect by doing good for people. Or, and this happened just today, 
+        if I do something to cause harm, even if there's nothing I can do to 
+        make it up to the person involved, I often find myself feeling better if 
+        I do something good for someone completely different. Oh, wait, maybe I 
+        am superstitious... Still, I find it a comforting way to run my life, so 
+        I'm going to stick with it. : )&lt;/p>
+        &lt;p>[1] I've known practicing Catholics that are offended by the idea 
+        that Catholicism is a disease to be recovered from. Sorry.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/80</id>
+    <title>Karma</title>
+    <updated>2002-06-12T07:00:00.000Z</updated>
+    <published>2002-06-12T07:00:00.000Z</published>
+    <summary>Here. Just me discovering that I am, in fact, superstitious after all. Pay no attention...</summary>
+    <content type="html">&lt;h1>Karma&lt;/h1>
+&lt;a href="/12583">Here&lt;/a>. Just me discovering that I am, in fact, superstitious after all. Pay no attention...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/79</id>
+    <title>Windows Developer News RSS Feed</title>
+    <updated>2002-06-11T07:00:00.000Z</updated>
+    <published>2002-06-11T07:00:00.000Z</published>
+    <summary>Are you into RSS? The link is the WDN RSS feed, which I use to report news on this site and in the world for Windows developers.</summary>
+    <content type="html">&lt;h1>Windows Developer News RSS Feed&lt;/h1>
+Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, which I use to report news on this site and in the world for Windows developers.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12584</id>
+    <title>Adding Ref-Counting to Rotor</title>
+    <updated>2002-06-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-06-11T07:00:00.000Z</published>
+    <summary>Microsoft has granted Sells Brothers, Inc. a research grant to add ref-counting to Rotor and to study the performance effects. The proposal that lead to that grant is available here. There's been a lot of speculation about just how we're planning to add ref-counting to Rotor. Here are the highlights: It's not just &amp;quot;me,&amp;quot; it's &amp;quot;we.&amp;quot; I've already have very useful input from several folks, including Jason Whittington, Ted Neward, Ian Griffiths, Serge Lidin, Craig Andera and Bill Conroy. Also...</summary>
+    <content type="html">&lt;h1>Adding Ref-Counting to Rotor&lt;/h1>
+        &lt;p>Microsoft has granted Sells Brothers, Inc. a research grant to add 
+        ref-counting to Rotor and to study the performance effects.
+        &lt;a href="/public/tools/RotorRefCounting.doc">The proposal that lead to that 
+        grant is available here&lt;/a>. There's been a lot of speculation about 
+        just how we're planning to add ref-counting to Rotor. Here are the 
+        highlights:&lt;/p>
+        &lt;ul>
+          &lt;li>It's not just &amp;quot;me,&amp;quot; it's &amp;quot;we.&amp;quot; I've already have very useful input 
+          from several folks, including Jason Whittington, Ted Neward, Ian 
+          Griffiths, Serge Lidin, Craig Andera and Bill Conroy. Also, Chris 
+          Tavares will be spending most of July doing the actual implementation. 
+          If anyone else wants to dig in, feel free! I'm happy for the help and 
+          anyone that provides insight will get credit.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>The goal of adding ref-counting to Rotor is to measure the 
+          performance effects of a deterministic finalization-like model that we 
+          gave up when moving from COM/C++/VB6 to .NET. I say &amp;quot;DF-like&amp;quot; because 
+          we're not getting DF, because the price of determinism is that 
+          sometimes an object is never finalized, e.g. cycles. We can do better.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>We will not be replacing the existing GC's ref-tracking. It does a 
+          fabulous job managing memory and managing cycles and we won't touch 
+          that.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>The ref-counting implementation's sole job will be to call an 
+          object's finalizer ASAP. Note that this is in no way &amp;quot;deterministic.&amp;quot; 
+          Plain ref-counting is deterministic in that it calls an object's 
+          finalizer just as soon as there were no more outstanding object 
+          references. Cycles meant that this would never happen 
+          (deterministically). A hybrid ref-counting/ref-tracking system 
+          improves &amp;quot;never&amp;quot; to &amp;quot;eventually&amp;quot; in the case of a cycle and maintains 
+          the ref-counting's guarantee for ASAP in their absence.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Even objects that don't have finalizers will need ref-counts, as 
+          they maintain references to objects that have finalizers (and so on).&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>Value types will not need reference counts, but when they go out 
+          of scope, there will need to be a Release on any object references the 
+          value objects contain.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>When the GC kicks in and finally breaks a cycle, it would be nice 
+          to release all objects held by the cyclic objects so that they could 
+          return to normal ref-counting determinism. However, since we've 
+          already blown determinism by being in a cycle, this seems unlikely to 
+          be very helpful. Also, by skipping this we can keep all of our changes 
+          in the JITter and out of the GC, which simplifies the initial 
+          implementation. &lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>We'd plan on adding ref-counting at the runtime level in the 
+          JITter so that all languages gain the benefits w/o updating the 
+          compilers (or mandating anything special in any language). The real 
+          work is figuring out which IL instructions require AddRef/Release 
+          calls and getting those calls into the instruction stream. Because of 
+          this, we're not likely to be able to handle tail calls (at least, 
+          initially). Anyone with advise in this area would be welcomed with 
+          open arms.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>We plan on working nicely with existing IDispose-based code. Since 
+          our ref-counting is all about calling the finalizer, if the ref-count 
+          gets to zero and there is no finalizer to call, no finalizer will be 
+          called. That means that Dispose implementations that call 
+          GC.SuppressFinalize will not cause any problems with the ref-counter. 
+          Of course, the goal is that the IDisposable.Dispose protocol is not 
+          necessary at all.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>As a potential optimization, I have found a nice place to store a 
+          7-bit ref-count in the existing space allocated to every object, so 
+          there will be no space overhead, only CPU overhead. However, this 
+          narrows the number of objects per&amp;nbsp; process with synch blocks 
+          and/or hash values from 134 million to 1 million. It also narrows the 
+          number of referencing objects from the traditional 4 billion to 127. 
+          Anecdotally, 127 seems like enough, but it will necessitate the need 
+          to abandon ref-counting on any object that reaches 127 extent 
+          references. Since most data structures where more than 127 references 
+          could happen are parent-child, e.g. every child in a tree with a 
+          reference to the root, and this indicates a cycle that can't be 
+          handled by the ref-counting anyway, turning these objects over to the 
+          ref-tracking portion of the algorithm seems reasonable. However, we 
+          won't know 'til we look how many object references an object is going 
+          to have, so we'll track maximum reference counts during our tests to 
+          see if this optimization makes sense at all.&lt;/li>
+        &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/78</id>
+    <title>Adding Ref-Counting to Rotor</title>
+    <updated>2002-06-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-11T07:00:00.000Z</published>
+    <summary>"Microsoft has granted Sells Brothers, Inc. a research grant to add ref-counting to Rotor and to study the performance effects. There's been a lot of speculation about just how we're planning to add ref-counting to Rotor." </summary>
+    <content type="html">&lt;h1>Adding Ref-Counting to Rotor&lt;/h1>
+&lt;p>"Microsoft has granted Sells Brothers, Inc. &lt;a href="/12584">a research grant to add ref-counting to Rotor&lt;/a> and to study the performance effects. There's been a lot of speculation about just how we're planning to add ref-counting to Rotor."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/77</id>
+    <title>Powers of Ten</title>
+    <updated>2002-06-11T07:00:00.000Z</updated>
+    <published>2002-06-11T07:00:00.000Z</published>
+    <summary>" View the Milky Way at 10 million light years from the Earth. Then move through space towards the Earth in successive orders of magnitude until you reach a tall oak tree just outside the buildings of the National High Magnetic Field Laboratory in Tallahassee, Florida. After that, begin to move from the actual size of a leaf into a microscopic world that reveals leaf cell walls, the cell nucleus, chromatin, DNA and finally, into the subatomic universe of electrons and protons." </summary>
+    <content type="html">&lt;h1>Powers of Ten&lt;/h1>
+&lt;p>"&lt;a href="http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/">View the Milky Way at 10 million light years from the Earth&lt;/a>. Then move through space towards the Earth in successive orders of magnitude until you reach a tall oak tree just outside the buildings of the National High Magnetic Field Laboratory in Tallahassee, Florida. After that, begin to move from the actual size of a leaf into a microscopic world that reveals leaf cell walls, the cell nucleus, chromatin, DNA and finally, into the subatomic universe of electrons and protons."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/76</id>
+    <title>A compiler-writer's guide to C#</title>
+    <updated>2002-06-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-11T07:00:00.000Z</published>
+    <summary>" Plan : Give overview of language from point of view of compiler writer Code generation for CLR is trival, so we'll focus on type checking Specification is 410 pages, almost no formal methods, and frustratingly verbosely written We'll boil much of it down to five parts" </summary>
+    <content type="html">&lt;h1>A compiler-writer's guide to C#&lt;/h1>
+&lt;p>"&lt;a href="http://www.cse.ogi.edu/~mbs/pub/csharp/talk.pdf">Plan&lt;/a>:&lt;/p>
+&lt;ul>
+&lt;li>Give overview of language from point of view of compiler writer&lt;/li>
+&lt;li>Code generation for CLR is trival, so we'll focus on type checking&lt;/li>
+&lt;li>Specification is 410 pages, almost no formal methods, and frustratingly verbosely written&lt;/li>
+&lt;li>We'll boil much of it down to five parts"&lt;/li>
+&lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/75</id>
+    <title>Genghis -- 0.2 Release</title>
+    <updated>2002-06-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-10T07:00:00.000Z</published>
+    <summary>Thanks to all of the *very* active contributors, Genghis has doubled in size! This update includes: an automated nant build a framework for nunit tests an almost complete.NET implementation of SimplePad an imagelist combo box a preferences and window position serializer an MRU sample a custom state treeview class for doing tri-state checkboxes an update to ListViewSorter to make it declarative an expanded trace class for common tracing operations various other bug fixes There's plenty more to see and do, so...</summary>
+    <content type="html">&lt;h1>Genghis -- 0.2 Release&lt;/h1>
+&lt;p>Thanks to all of the *very* active contributors, &lt;a href="/public/tools/genghis">Genghis&lt;/a> has doubled in size! This update includes:&lt;p>
+&lt;ul>
+&lt;li>an automated nant build&lt;/li>
+&lt;li>a framework for nunit tests&lt;/li>
+&lt;li>an almost complete .NET implementation of SimplePad&lt;/li>
+&lt;li>an imagelist combo box&lt;/li>
+&lt;li>a preferences and window position serializer&lt;/li>
+&lt;li>an MRU sample&lt;/li>
+&lt;li>a custom state treeview class for doing tri-state checkboxes&lt;/li>
+&lt;li>an update to ListViewSorter to make it declarative&lt;/li>
+&lt;li>an expanded trace class for common tracing operations&lt;/li>
+&lt;li>various other bug fixes&lt;/li>
+&lt;/ul>
+&lt;p>There's plenty more to see and do, so check out Genghis if you're building WinForms applications.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/74</id>
+    <title>Pragmatic ADO.NET, Chapter 6: Typed DataSets</title>
+    <updated>2002-06-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-09T07:00:00.000Z</published>
+    <summary>"In Chapter 5, I extolled the virtues of setting up your DataSets like in-memory databases. Unfortunately I asked you to write quite a bit of code to do all the work. I was only teasing you. This chapter will show you how to use Typed DataSets to make that job a lot easier while at the same time creating type-safety at compilation time." </summary>
+    <content type="html">&lt;h1>Pragmatic ADO.NET, Chapter 6: Typed DataSets&lt;/h1>
+&lt;p>"In &lt;a href="http://adoguy.com/book/samplechapter.aspx">Chapter 5&lt;/a>, I extolled the virtues of setting up your DataSets like in-memory databases. Unfortunately I asked you to write quite a bit of code to do all the work. I was only teasing you. This chapter will show you how to use Typed DataSets to make that job a lot easier while at the same time creating type-safety at compilation time."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/73</id>
+    <title>ADOGuy's Typed DataSet Generator</title>
+    <updated>2002-06-09T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-09T07:00:00.000Z</published>
+    <summary>"The Typed DataSet that Microsoft generates from Visual Studio.NET (or from the XSD.exe tool), does not support derivation directly. In order to allow us to derive from Typed DataSets, Chris Sells and I created this tool that fixes the couple of issues with inheriting from Typed DataSets." </summary>
+    <content type="html">&lt;h1>ADOGuy's Typed DataSet Generator&lt;/h1>
+&lt;p>"The Typed DataSet that Microsoft generates from Visual Studio.NET (or from the XSD.exe tool), does not support derivation directly. In order to allow us to derive from Typed DataSets, Chris Sells and I created &lt;a href="http://adoguy.com/book/AGDataSetGenerator.aspx">this tool&lt;/a> that fixes the couple of issues with inheriting from Typed DataSets."&lt;/p></content>
+  </entry>
+</feed>

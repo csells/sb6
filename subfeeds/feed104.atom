@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed104.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed103.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed105.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed104.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/949</id>
+    <title>My First Meeting with BillGs Technical Advisor</title>
+    <updated>2003-11-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-15T08:00:00.000Z</published>
+    <summary>Here. The one where I meet BillG's Technical Advisor and am charmed into volunteering for more work.</summary>
+    <content type="html">&lt;h1>My First Meeting with BillGs Technical Advisor&lt;/h1>
+&lt;a href="/12515">Here&lt;/a>. The one where I meet BillG's Technical Advisor and am charmed into volunteering for more work.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/950</id>
+    <title>Simple Stand-Alone Client for GDN Workspaces</title>
+    <updated>2003-11-15T08:00:00.000Z</updated>
+    <published>2003-11-15T08:00:00.000Z</published>
+    <summary>Here. If you're a GDN workspaces fan, but pine for a stand-alone client outside of VS.NET and the browser, have I got a deal for you! Andy Oakley, the GDN Workspaces PM, has posted a stand-alone WinForms client for GDN workspaces. Enjoy.</summary>
+    <content type="html">&lt;h1>Simple Stand-Alone Client for GDN Workspaces&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/aoakley/permalink.aspx/a2610938-d034-4e57-aea2-1d072837907a">Here&lt;/a>. If you're a GDN workspaces fan, but pine for a stand-alone client outside of VS.NET and the browser, have I got a deal for you! Andy Oakley, the GDN Workspaces PM, has posted a stand-alone WinForms client for GDN workspaces. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/948</id>
+    <title>Paul Thurrott Previews PDC Longhorn Thoroughly</title>
+    <updated>2003-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-14T08:00:00.000Z</published>
+    <summary>Here. Paul Thurrot digs deeply into the PDC build of Longhorn, including impressions, screen shots and videos. Of course, since this is a developer release, the user experience isn't nearly what we plan it to be, but even developers need to know how to use the OS for which they're developing. : )</summary>
+    <content type="html">&lt;h1>Paul Thurrott Previews PDC Longhorn Thoroughly&lt;/h1>
+&lt;a href="http://www.winsupersite.com/reviews/longhorn_4051.asp">Here&lt;/a>. Paul Thurrot digs deeply into the PDC build of Longhorn, including impressions, screen shots and videos. Of course, since this is a developer release, the user experience isn't nearly what we plan it to be, but even developers need to know how to use the OS for which they're developing. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/947</id>
+    <title>Brad Abrams of MS Solicits Feedback on WinFS</title>
+    <updated>2003-11-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-13T08:00:00.000Z</published>
+    <summary>Here. Brad Abrams, a Lead PM on the WinFX team at Microsoft, *begs* for your feedback on the WinFX API: "Don't complain later if you don't help me fix it now;-) Please comment or drop me an email or IM."</summary>
+    <content type="html">&lt;h1>Brad Abrams of MS Solicits Feedback on WinFS&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/BradA/permalink.aspx/936ac12e-2659-46ab-95f9-1099dabf7a98">Here&lt;/a>. Brad Abrams, a Lead PM on the WinFX team at Microsoft, *begs* for your feedback on the WinFX API:
+
+"Don't complain later if you don't help me fix it now ;-) Please comment or drop me an email or IM."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/946</id>
+    <title>Windows XP Service Pack 2: A Developer's View</title>
+    <updated>2003-11-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-12T08:00:00.000Z</published>
+    <summary>Here. While it's not Longhorn specific, certainly the changes made to security for users and application developers in WinXP SP2 are going to impact those same decisions made in Longhorn. Prepare yourself now!</summary>
+    <content type="html">&lt;h1>Windows XP Service Pack 2: A Developer's View&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/security/?pull=/library/en-us/dnwxp/html/securityinxpsp2.asp">Here&lt;/a>. While it's not Longhorn specific, certainly the changes made to security for users and application developers in WinXP SP2 are going to impact those same decisions made in Longhorn. Prepare yourself now!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/945</id>
+    <title>The XML Application Mark-up Language Reference</title>
+    <updated>2003-11-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-12T08:00:00.000Z</published>
+    <summary>Here. Curious what all of the noise about XAML is about? This page in the Longhorn SDK is a complete reference to XAML as of the PDC03. There are all *kinds* of interesting things to check out in XAML. My personal favorite is the Bind element, which is the tip of the data binding iceberg in Avalon. Enjoy.</summary>
+    <content type="html">&lt;h1>The XML Application Mark-up Language Reference&lt;/h1>
+&lt;a href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/port_ref_elements.aspx">Here&lt;/a>. &lt;a href="http://longhorn.msdn.microsoft.com/lhsdk/port_ref_elements.aspx">&lt;/a>Curious what all of the noise about XAML is about? This page in the Longhorn SDK is a complete reference to XAML as of the PDC03.
+
+There are all *kinds* of interesting things to check out in XAML. My personal favorite is the Bind element, which is the tip of the data binding iceberg in Avalon.
+
+Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/944</id>
+    <title>The Root of All Avalon Apps</title>
+    <updated>2003-11-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-12T08:00:00.000Z</published>
+    <summary>Here. If you're building an Avalon application, the one thing you won't be able to live without is an instance of the MSAvalon.Windows.Application object. It's the core of all Avalon apps and where you should start when digging into Longhorn development.</summary>
+    <content type="html">&lt;h1>The Root of All Avalon Apps&lt;/h1>
+&lt;a href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/ref/ns/msavalon.windows/c/application/application.aspx">Here&lt;/a>. &lt;a href="http://longhorn.msdn.microsoft.com/lhsdk/ref/ns/msavalon.windows/c/application/application.aspx">&lt;/a>If you're building an Avalon application, the one thing you won't be able to live without is an instance of the MSAvalon.Windows.Application object. It's the core of all Avalon apps and where you should start when digging into Longhorn development.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/943</id>
+    <title>Complete Namespace Listings for WinFX</title>
+    <updated>2003-11-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-12T08:00:00.000Z</published>
+    <summary>Here. Check out the complete list (as of the PDC03) of the namespace listings on WinFX in the Longhorn SDK. Not only are old favorites listed, like System.Collections, but there are lots of new friends, like MSAvalon.* Some of these namesspaces will change name and most of them will change in functionality before they ship, but there's just a treasure-trove of information in them (I'm all excited about digging into System.Speech.Synthesis myself...) Enjoy.</summary>
+    <content type="html">&lt;h1>Complete Namespace Listings for WinFX&lt;/h1>
+&lt;a href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/ref/avreference_entry.aspx">Here&lt;/a>. &lt;a href="http://longhorn.msdn.microsoft.com/lhsdk/ref/avreference_entry.aspx">&lt;/a>Check out the complete list (as of the PDC03) of the namespace listings on WinFX in the Longhorn SDK. Not only are old favorites listed, like System.Collections, but there are lots of new friends, like MSAvalon.*
+
+Some of these namesspaces will change name and most of them will change in functionality before they ship, but there's just a treasure-trove of information in them (I'm all excited about digging into System.Speech.Synthesis myself...)
+
+Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/942</id>
+    <title>The Motivation for WinFS</title>
+    <updated>2003-11-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-11T08:00:00.000Z</published>
+    <summary>Here. Mike Deem posts his opinion on why WinFS is so important. +1.</summary>
+    <content type="html">&lt;h1>The Motivation for WinFS&lt;/h1>
+&lt;a href="http://anopinion.net/posts/156.aspx">Here&lt;/a>. Mike Deem posts his opinion on why WinFS is so important. +1.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/940</id>
+    <title>Visual Editor for MSBuild</title>
+    <updated>2003-11-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-10T08:00:00.000Z</published>
+    <summary>Here. For those of you that don't like writing raw XML if you can help it and that Don and Tim haven't yet converted, there's a Visual Editor for MSBuild. Of course, it's not VS.NET, but what is? : )</summary>
+    <content type="html">&lt;h1>Visual Editor for MSBuild&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=2cb20e79-d706-4706-9ea0-26188257ee7d">Here&lt;/a>. For those of you that don't like writing raw XML if you can help it and that Don and Tim haven't yet converted, there's a Visual Editor for MSBuild. Of course, it's not VS.NET, but what is? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/941</id>
+    <title>VS.NET Whidbey Shortcut Expansion</title>
+    <updated>2003-11-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-10T08:00:00.000Z</published>
+    <summary>Here. Jeff Key shows a sample custom shortcut for expansion, but he doesn't show what you get. Digging through C:\Program Files\Microsoft Visual Studio.NET Whidbey\VC#\ExStencil\expansions.xml shows all *kinds* of interesting pre-defined shortcuts to expand. For example, type the following: class Foo { property[TAB]
+} And VS.NET Whidbey expands the text to the following: class Foo { private int myVar; public int MyProperty { get { return myVar; } set { myVar = value; } } } And not only that, but the "int", ...</summary>
+    <content type="html">&lt;h1>VS.NET Whidbey Shortcut Expansion&lt;/h1>
+&lt;a href="http://weblogs.asp.net/jkey/posts/36500.aspx">Here&lt;/a>. Jeff Key shows a sample custom shortcut for expansion, but he doesn't show what you get. Digging through C:\Program Files\Microsoft Visual Studio .NET Whidbey\VC#\ExStencil\expansions.xml shows all *kinds* of interesting pre-defined shortcuts to expand. For example, type the following:
+
+class Foo {
+  property[TAB]
+}
+
+And VS.NET Whidbey expands the text to the following:
+
+class Foo {
+  private int myVar;
+
+  public int MyProperty {
+    get { return myVar; }
+    set { myVar = value; }
+  }		
+}
+
+And not only that, but the "int", "myVar" and "MyProperty" are really fields in a little ad hoc dialog that VS.NET holds with the programmer to fill in these values one at a time separated by the Tab key. Explaining it is way harder than actually using it. It rocks.
+
+But wait, there's more. Adding custom shortcuts is merely a matter of adding a new XML file of the appropriate form (see the existing ones for examples) and restarting VS.NET, i.e. no need to edit out-of-the-box VS.NET files, just add your own.
+
+Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/936</id>
+    <title>WinFX Application Written in Standard ML</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. I have no idea how this SML application works, but it's cool that it does.</summary>
+    <content type="html">&lt;h1>WinFX Application Written in Standard ML&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/marcmill/permalink.aspx/f513664a-38a6-42fe-8089-c6349975563a">Here&lt;/a>. I have no idea how this SML application works, but it's cool that it does.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/935</id>
+    <title>MSDN TV: What is WinFX?</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. Watch Brad Abrams and learn the object-oriented, managed API for the breadth of Windows "Longhorn" and how it relates to the work you are already doing on the.NET Framework. </summary>
+    <content type="html">&lt;h1>MSDN TV: What is WinFX?&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml">Here&lt;/a>. Watch Brad Abrams and learn the object-oriented, managed API for the breadth of Windows "Longhorn" and how it relates to the work you are already doing on the .NET Framework. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/939</id>
+    <title>I want my Matrix back!</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. Seriously, how did one of the best movies in a generation disintegrate into Matrix: Revolutions? I was into the Matrix universe and was willing to let Matrix: Reloaded suck in a typical middle-movie kind of way, but what the hell happened in the 3rd one?!? Anyway, I'm still reeling. Scott says it better than I can.</summary>
+    <content type="html">&lt;h1>I want my Matrix back!&lt;/h1>
+&lt;a href="http://www.pvponline.com/rants.php3">Here&lt;/a>. Seriously, how did one of the best movies in a generation disintegrate into Matrix: Revolutions? I was into the Matrix universe and was willing to let Matrix: Reloaded suck in a typical middle-movie kind of way, but what the hell happened in the 3rd one?!?
+
+Anyway, I'm still reeling. Scott says it better than I can.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/934</id>
+    <title>Cool Longhorn Diagrams from the PDC</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. Check out the Longhorn Architecture Diagram and the WinFX Namespace Diagram from the PDC for a look at what we're building. Also, check out an early snapshot of the WinFS Schema: http://download.microsoft.com/download/2/7/a/27ab8218-e3d8-4261-b8e4-6ffc7bd8f199/winfsschemadiagram.vsd</summary>
+    <content type="html">&lt;h1>Cool Longhorn Diagrams from the PDC&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/understanding/pillars/">Here&lt;/a>. Check out the Longhorn Architecture Diagram and the WinFX Namespace Diagram from the PDC for a look at what we're building. Also, check out an early snapshot of the WinFS Schema:
+
+http://download.microsoft.com/download/2/7/a/27ab8218-e3d8-4261-b8e4-6ffc7bd8f199/winfsschemadiagram.vsd</content>
+  </entry>
+</feed>

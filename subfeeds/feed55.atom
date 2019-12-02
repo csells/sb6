@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed55.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed54.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed56.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed55.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1636</id>
+    <title>SlashDot is Wrong: MCE05 Rocks</title>
+    <updated>2004-12-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-29T08:00:00.000Z</published>
+    <summary>Here. I'm a very happy user of Windows Media Center Edition 2005 and have been for some months. Not only does it allow me unfettered access to audio, video and recorded TV from any PC in the house, but with the XBOX Media Center Extender, I can access all of this from any TV in the house as well (so long as its equipped with an MCE Extender). Further, I was able to use MCE to record several episodes of a yoga TV show for my sister-in-law and burn them onto DVDs with an evaluation&amp;nbsp;copy of WinDVD Creator...</summary>
+    <content type="html">&lt;h1>SlashDot is Wrong: MCE05 Rocks&lt;/h1>
+&lt;a href="http://slashdot.org/article.pl?sid=04/12/29/1452230">Here&lt;/a>. &lt;P>I'm a &lt;EM>very&lt;/EM> happy user of &lt;A href="http://www.microsoft.com/windowsxp/mediacenter/default.mspx">Windows Media Center Edition 2005&lt;/A> and have been for some months. Not only does it allow me unfettered access to audio, video and recorded TV from any PC in the house, but with the &lt;A href="http://www.microsoft.com/windowsxp/mediacenter/evaluation/devices/xboxextenderkit.mspx">XBOX Media Center Extender&lt;/A>, I can access all of this from any TV in the house as well (so long as its equipped with an MCE Extender). Further, I was able to use MCE to record several episodes of a yoga TV show for my sister-in-law and burn them onto DVDs with an evaluation&amp;nbsp;copy of &lt;A href="http://www.intervideo.com/jsp/WinDVDCreator_Profile.jsp">WinDVD Creator&lt;/A>, making her very happy. I don't know what the "content restrictions" who-ha is about, but MCE05 works &lt;EM>great&lt;/EM> for me.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1634</id>
+    <title>Mobiform Aurora XAML Editor</title>
+    <updated>2004-12-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-23T08:00:00.000Z</published>
+    <summary>"Aurora is a graphical designer developed to create and edit Avalon Windows, elements, and controls. Aurora is built on top of Avalon and renders using the Avalon API. Aurora is designed for use with the November 2004 Avalon Technology Preview Community for Windows XP (CTP)." Cool! </summary>
+    <content type="html">&lt;h1>Mobiform Aurora XAML Editor&lt;/h1>
+&lt;P>"Aurora is &lt;A href="http://www.mobiform.com/2005/XAML/xamlhome.htm#aurora">a graphical designer developed to create and edit Avalon&lt;/A> Windows, elements, and controls. Aurora is built on top of Avalon and renders using the Avalon API. Aurora is designed for use with the November 2004 Avalon Technology Preview Community for Windows XP (CTP)."&lt;/P>
+&lt;P>Cool!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1635</id>
+    <title>Concurrency: The Next Important Thing</title>
+    <updated>2004-12-23T08:00:00.000Z</updated>
+    <published>2004-12-23T08:00:00.000Z</published>
+    <summary>Because CPU speeds have topped off recently even though I/O speeds continue to increase, Herb Sutter posits that the Moore's Law free performance lunch is over, i.e. no more getting faster software by waiting for the next gen of faster hardware. Instead, we'll have to write our apps to be a lot more concurrent to take advantage of hyper-threading, multi-core CPUs and multi-CPU machines if we want our apps to continue to run faster. What this means to me is that we'll have to have much better language-level ...</summary>
+    <content type="html">&lt;h1>Concurrency: The Next Important Thing&lt;/h1>
+&lt;P>Because CPU speeds have topped off recently even though I/O speeds continue to increase, &lt;A href="http://www.gotw.ca/publications/concurrency-ddj.htm">Herb Sutter posits that the Moore's Law free performance lunch is over&lt;/A>, i.e. no more getting faster software by waiting for the next gen of faster hardware. Instead, we'll have to write our apps to be a lot more concurrent to take advantage of hyper-threading, multi-core CPUs and multi-CPU machines if we want our apps to continue to run faster.&lt;/P>
+&lt;P>What this means to me is that we'll have to have &lt;EM>much&lt;/EM> better language-level support for concurrent programming. What we have now sucks. Rocks. Hard.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1632</id>
+    <title>SVG to XAML Converter</title>
+    <updated>2004-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-22T08:00:00.000Z</published>
+    <summary>"The Adobe&amp;#174; Illustrator&amp;#174; SVG Edition of XAMLConverter is now available for free evaluation. The process is as simple is running XAMLConverter, dragging an SVG exported from Adobe&amp;#174; Illustrator&amp;#174; onto the application and the file is automatically converted to XAML. In addition, XAMLConverter runs the XAML file so you may view the results. "This edition can convert SVG created by tools other than Adobe&amp;#174; Illustrator&amp;#174;. But SVG exported from Adobe&amp;#174; Illustrator&amp;#174; is the only f...</summary>
+    <content type="html">&lt;h1>SVG to XAML Converter&lt;/h1>
+&lt;P>"The &lt;A href="http://www.xamlon.com/software/xamlconverter/">Adobe&amp;#174; Illustrator&amp;#174; SVG Edition of XAMLConverter&lt;/A> is now available for free evaluation. The process is as simple is running XAMLConverter, dragging an SVG exported from Adobe&amp;#174; Illustrator&amp;#174; onto the application and the file is automatically converted to XAML. In addition, XAMLConverter runs the XAML file so you may view the results.&lt;/P>
+&lt;P>"This edition can convert SVG created by tools other than Adobe&amp;#174; Illustrator&amp;#174;. But SVG exported from Adobe&amp;#174; Illustrator&amp;#174; is the only fully supported subset of SVG."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1633</id>
+    <title>Hosting An Avalon Application in a Browser</title>
+    <updated>2004-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-22T08:00:00.000Z</published>
+    <summary>Karsten has some tips on converting a stand-alone Avalon application into an application that can be hosted in IE.</summary>
+    <content type="html">&lt;h1>Hosting An Avalon Application in a Browser&lt;/h1>
+Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/12/21/329296.aspx">converting a stand-alone Avalon application into an application that can be hosted in IE&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1631</id>
+    <title>We Need NetFlix for TV</title>
+    <updated>2004-12-20T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-20T08:00:00.000Z</published>
+    <summary>Sometimes I miss some made-for-TV movie or series that I'd really like to see and that I didn't know about before hand so that I could point my ReplayTV or MCE at it. The world needs NetFlix for TV. </summary>
+    <content type="html">&lt;h1>We Need NetFlix for TV&lt;/h1>
+&lt;P>Sometimes I miss some made-for-TV movie or series that I'd really like to see and that I didn't know about before hand so that I could point my ReplayTV or MCE at it. The world needs NetFlix for TV.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1630</id>
+    <title>A Limerick in Rory's Honor</title>
+    <updated>2004-12-19T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-12-19T08:00:00.000Z</published>
+    <summary>In honor of Rory Blyth 's birthday, Jim Blizzard has posted a Haiku. I'm not so cultured as Jim, as I could only manage a limerick: There once was a lad named Rory, who told many a bawdy story. He came right out, like an orgasmic shout, spreading mirth in drum-beating glory. Happy birthday, pal. : ) </summary>
+    <content type="html">&lt;h1>A Limerick in Rory's Honor&lt;/h1>
+&lt;P>In honor of &lt;A href="http://neopoleon.com/">Rory Blyth&lt;/A>'s birthday, &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=e2e2a032-2bc3-43f3-be18-0239f4f9bfa0">Jim Blizzard has posted a Haiku&lt;/A>. I'm not so cultured as Jim, as I could only manage a limerick:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>There once was a lad named Rory,&lt;BR>who told many a bawdy story.&lt;BR>He came right out,&lt;BR>like an orgasmic shout,&lt;BR>spreading mirth in drum-beating glory.&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Happy birthday, pal. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1627</id>
+    <title>Getting Out The Vote: Save Ctrl+F5 in VS05!</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>When I noticed the behavior that Ian describes in VS05b1 (that Ctrl+F5 no longer works to launch a console app with "Press any key to continue..." at the end ), I assumed it was a temporary bug. To learn that this feature was removed "by design" is devastating. As a presenter and technology experimenter, I've probably used this as much as any single feature in Visual Studio with the possible exception of the text editor. Don't just site there!&amp;nbsp; Vote to Save Ctrl+F5 in VS05! &amp;nbsp;(I love MSDN Product F...</summary>
+    <content type="html">&lt;h1>Getting Out The Vote: Save Ctrl+F5 in VS05!&lt;/h1>
+&lt;P>When I noticed the behavior that Ian describes in VS05b1 (that &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/16/ctrlf5">Ctrl+F5 no longer works to launch a console app with "Press any key to continue..." at the end&lt;/A>), I assumed it was a temporary bug. To learn that this feature was removed "by design" is devastating. As a presenter and technology experimenter, I've probably used this as much as any single feature in Visual Studio with the &lt;EM>possible&lt;/EM> exception of the text editor.&lt;/P>
+&lt;P>Don't just site there!&amp;nbsp;&lt;A href="http://lab.msdn.microsoft.com/productfeedback/viewfeedback.aspx?feedbackid=1cf3309f-971c-4ad1-8da0-f1c88eaca4c5">Vote to Save Ctrl+F5 in VS05!&lt;/A>&amp;nbsp;(I love MSDN Product Feedback : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1629</id>
+    <title>Deuce Bigalow: European Gigolo</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>Am I the only one actually looking forward to this movie? </summary>
+    <content type="html">&lt;h1>Deuce Bigalow: European Gigolo&lt;/h1>
+&lt;P>Am I the only one actually &lt;A href="http://www.sonypictures.com/movies/deucebigaloweuropeangigolo/index.html">looking forward to this movie&lt;/A>?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1628</id>
+    <title>Ian Dives Deep Into Animation</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>I said that animation in Avalon is simple. Ian said that it's hard. We're both right (I was talking about the programming model and Ian is talking about the nuts and bolts of the implementation), but Ian seems more right because of those fabulous example pictures that explain why wagon wheels look like they're going backward. Now if he could only explain why computer screens in movies always look like they've been engineered to invoke seizures, we'd have something! </summary>
+    <content type="html">&lt;h1>Ian Dives Deep Into Animation&lt;/h1>
+&lt;P>I said that &lt;A href="/1613">animation in Avalon is simple&lt;/A>. Ian said that &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/16/movingpictures">it's hard&lt;/A>. We're both right (I was talking about the programming model and Ian is talking about the nuts and bolts of the implementation), but Ian &lt;EM>seems&lt;/EM> more right because of those fabulous example pictures that explain why wagon wheels look like they're going backward. Now if he could only explain why computer screens in movies always look like they've been engineered to invoke seizures, we'd have something!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1624</id>
+    <title>Products and Money</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>This one's a double-header: Eric Sink talks about how to find a product to build (if you're a micro-ISV). Joel talks about how much to charge for your product. Both are excellent but both convince me yet again that such things are more luck than skill (which sucks for those of us that consider themselves skillful). </summary>
+    <content type="html">&lt;h1>Products and Money&lt;/h1>
+&lt;P>This one's a double-header:&lt;/P>
+&lt;P>Eric Sink talks about how to &lt;A href="http://msdn.microsoft.com/longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnsoftware/html/software12142004.asp">find a product to build&lt;/A> (if you're a micro-ISV).&lt;/P>
+&lt;P>Joel talks about &lt;A href="http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html">how much to charge for your product&lt;/A>.&lt;/P>
+&lt;P>Both are excellent but both convince me yet again that such things are more luck than skill (which sucks for those of us that consider themselves skillful).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1626</id>
+    <title>JohnMont Wants Feedback on WinForms/Avalon Interop</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>John Montgomery wants to know : "[W]hen it comes to Avalon and Windows Forms interop, I'm curious: how many people will use it and what will they use it for? What are the scenarios that we'll see? I have my own opinions, of course, but I'm curious about what you think. I'd like to be able to have a conversation with both teams about what scenarios we should optimize for." Don't be shy! Let him know what it is you're looking for from Avalon and Windows Form integration! </summary>
+    <content type="html">&lt;h1>JohnMont Wants Feedback on WinForms/Avalon Interop&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/johnmont/archive/2004/12/15/316219.aspx">John Montgomery wants to know&lt;/A>:&lt;/P>
+&lt;P>"[W]hen it comes to Avalon and Windows Forms interop, I'm curious: how many people will use it and what will they use it for? What are the scenarios that we'll see? I have my own opinions, of course, but I'm curious about what you think. I'd like to be able to have a conversation with both teams about what scenarios we should optimize for."&lt;/P>
+&lt;P>Don't be shy! &lt;A href="http://blogs.msdn.com/johnmont/archive/2004/12/15/316219.aspx">Let him know what it is you're looking for from Avalon and Windows Form integration!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1625</id>
+    <title>Best of the Blogs: VS Tools for Office 2003</title>
+    <updated>2004-12-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-16T08:00:00.000Z</published>
+    <summary>Kevin Schuler and Drew Robbins have compiled a list of dozens of the best VSTO blog entries in 2003 across seven categories ranging from architecture to troubleshooting. If you're into VSTO, this should provide some pleasant holiday reading for you. Enjoy!</summary>
+    <content type="html">&lt;h1>Best of the Blogs: VS Tools for Office 2003&lt;/h1>
+Kevin Schuler and Drew Robbins have compiled a list of dozens of &lt;A href="http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2003_ta/html/OfficeVSTOBestOfBlogs2003.asp">the best VSTO blog entries in 2003&lt;/A> across seven categories ranging from architecture to troubleshooting. If you're into VSTO, this should provide some pleasant holiday reading for you. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1622</id>
+    <title>Avalon Chess</title>
+    <updated>2004-12-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-15T08:00:00.000Z</published>
+    <summary>The Avalon experiments keep on happening. This time, check out Avalon Chess! </summary>
+    <content type="html">&lt;h1>Avalon Chess&lt;/h1>
+&lt;P>The Avalon experiments keep on happening. This time, &lt;A href="http://www.valil.com/avalon/">check out Avalon Chess&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1623</id>
+    <title>Snorkeling Is Unbelievably Wonderful</title>
+    <updated>2004-12-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-15T08:00:00.000Z</published>
+    <summary>I just got back from a 3-family, 6-day trip to Cabo San Lucas, Mexico ("a pleasant fishing village paved over for tourist hotels") and it was fabulous. Since it was before "the high season," we had the place practically to ourselves. In fact, even though it was an all-inclusive place, the wait staff probably outnumbered the guests 3 to 1 at any given time. And it wasn't as if they skimped on the food or the drinks, either! Every day, we had a giant buffet for breakfast, snacks by the pool for lunch and a 3-...</summary>
+    <content type="html">&lt;h1>Snorkeling Is Unbelievably Wonderful&lt;/h1>
+&lt;P>I just got back from a 3-family, 6-day trip to Cabo San Lucas, Mexico ("a pleasant fishing village paved over for tourist hotels") and it was fabulous. Since it was before "the high season," we had the place practically to ourselves. In fact, even though it was an all-inclusive place, the wait staff probably outnumbered the guests 3 to 1 at any given time. And it wasn't as if they skimped on the food or the drinks, either! Every day, we had a giant buffet for breakfast, snacks by the pool for lunch and a 3-hour, 5-course meal for dinner. Plus, the weather was great and the pools were heated, so it was practically perfect.&lt;/P>
+&lt;P>The one blemish was when we drove to La Paz and couldn't get out again. The detour signs pointed the wrong directions and all of the highways had the same number. We literally left and returned to La Paz 4 times, including the time we had to drive the rent-a-car guy back to his offer when something on the road disabled our car and we had to get a replacement. In 10+ years of business travel, I've never taken the comprehensive insurance until that day. I only had to pay for the half of tank of gas that I couldn't fill up myself because to do so would've destroyed the engine (the rental company failed at first to see this as an argument for charging me less than 4x the going rate for gas, but I did eventually talk them down to only charging me 2x the going rate...).&lt;/P>
+&lt;P>Oh, and snorkeling rocks! We went to a calm little beach with a driver that brought all of the equipment,&amp;nbsp;kayaks&amp;nbsp;and a cooler of beers! But, I was completely distracted at my first snorkeling expedition ever. At first, I was blown away at the clarity of what I could see under the water and the ease with which I could breath (I expected to swallow a lot of water). Then, I was completely freaked out at the shear number of fish under the water (thousands!), even in areas with humans inches away. I felt like I was in an undersea remake of Hitchcock's Birds and any moment I was going to be bait (and there were no phone booths around in which to hide).&amp;nbsp;Then, I was amazed at how I was simultaneously part of and not part of this new world I was floating over. I must've snorkeled for an hour straight without pulling my head up. It was unbelievable and I got to share it with my wife and kids who'd never snorkeled before either.&lt;/P>
+&lt;P>After this wonderful family vacation, I can't tell you how relaxed I am. At 9:37am, I think I'm ready for my afternoon siesta... : )&lt;/P></content>
+  </entry>
+</feed>

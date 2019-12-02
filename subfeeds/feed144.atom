@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed144.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed143.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed145.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed144.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/411</id>
+    <title>Sealed Sucks</title>
+    <updated>2003-01-23T08:00:00.000Z</updated>
+    <published>2003-01-23T08:00:00.000Z</published>
+    <summary>Here. Classes should *never* be marked as "sealed" because it ruins the entire model of type compatibility in exchange for dubious protections..NET has already taken away my determininistic finalization. Must it also take away my ability to derive?</summary>
+    <content type="html">&lt;h1>Sealed Sucks&lt;/h1>
+&lt;a href="/12564">Here&lt;/a>. Classes should *never* be marked as "sealed" because it ruins the entire model of type compatibility in exchange for dubious protections. .NET has already taken away my determininistic finalization. Must it also take away my ability to derive?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/409</id>
+    <title>Free VS.NET Trial DVD</title>
+    <updated>2003-01-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-22T08:00:00.000Z</published>
+    <summary>Here. If you haven't done.NET yet because your company hasn't upgraded to VS.NET or you don't want to spend the money if you're not going to like it, you can get a 60-day eval copy on this link in exchange for giving up some personal details.</summary>
+    <content type="html">&lt;h1>Free VS.NET Trial DVD&lt;/h1>
+&lt;a href="http://www.replycard.com/vsnet/">Here&lt;/a>. If you haven't done .NET yet because your company hasn't upgraded to VS.NET or you don't want to spend the money if you're not going to like it, you can get a 60-day eval copy on this link in exchange for giving up some personal details.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/407</id>
+    <title>NUnitASP</title>
+    <updated>2003-01-22T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-01-22T08:00:00.000Z</published>
+    <summary>Here. From Colin: NUnitAsp is a tool for automatically testing ASP.NET web pages. It's an extension to NUnit, a tool for test-driven development in.NET.</summary>
+    <content type="html">&lt;h1>NUnitASP&lt;/h1>
+&lt;a href="http://nunitasp.sourceforge.net/">Here&lt;/a>. From Colin: NUnitAsp is a tool for automatically testing ASP.NET web pages. It's an extension to NUnit, a tool for test-driven development in .NET.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/408</id>
+    <title>CodeSmith Integrated into VS.NET</title>
+    <updated>2003-01-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-22T08:00:00.000Z</published>
+    <summary>Here. Eric Smith has integrated his CodeSmith code-generation tool directly into VS.NET. Very nice.</summary>
+    <content type="html">&lt;h1>CodeSmith Integrated into VS.NET&lt;/h1>
+&lt;a href="http://www.ericjsmith.net/codesmith.htm">Here&lt;/a>. Eric Smith has integrated his CodeSmith code-generation tool directly into VS.NET. Very nice.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/405</id>
+    <title>Talking C#/CLR with Microsoft</title>
+    <updated>2003-01-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-21T08:00:00.000Z</published>
+    <summary>Here. An interview of Peter Hallam, the dev. lead for the C# compiler. Most of the interview covers stuff you're likely to already know, e.g. the design goals for C# and the CLR, etc, but Mr. Hallam does spend some time talking about generics and his opinion on mono (he likes it).</summary>
+    <content type="html">&lt;h1>Talking C#/CLR with Microsoft&lt;/h1>
+&lt;a href="http://www.codesta.com/knowledge/technical/csharp_clr/index.jsp">Here&lt;/a>. An interview of Peter Hallam, the dev. lead for the C# compiler. Most of the interview covers stuff you're likely to already know, e.g. the design goals for C# and the CLR, etc, but Mr. Hallam does spend some time talking about generics and his opinion on mono (he likes it).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/406</id>
+    <title>Another C# Refactoring Tool</title>
+    <updated>2003-01-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-21T08:00:00.000Z</published>
+    <summary>Here. A VS.NET add-in that provides the following C# refactoring operations: -Encapsulate Field -Extract Method -Inline Temp -Introduce Explaining Variable -Move Method new -Rename Field -Rename Method -Rename Property -Rename Local Variable -Rename Parameter -Replace Magic Number with Symbolic Constant -Replace Temp with Query It seems to be implemented in Java and then ported to.NET via J# and the web site has the coolest little visitor counter control.</summary>
+    <content type="html">&lt;h1>Another C# Refactoring Tool&lt;/h1>
+&lt;a href="http://dotnetrefactoring.com/">Here&lt;/a>. A VS.NET add-in that provides the following C# refactoring operations:
+
+-Encapsulate Field 
+-Extract Method 
+-Inline Temp 
+-Introduce Explaining Variable 
+-Move Method new 
+-Rename Field 
+-Rename Method 
+-Rename Property 
+-Rename Local Variable 
+-Rename Parameter 
+-Replace Magic Number with Symbolic Constant 
+-Replace Temp with Query 
+
+It seems to be implemented in Java and then ported to .NET via J# and the web site has the coolest little visitor counter control.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/401</id>
+    <title>COM &amp; WinForms...Happy together?</title>
+    <updated>2003-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-20T08:00:00.000Z</published>
+    <summary>Here. From Shawn Wildermuth: Chris has a new article up on http://ONDotNet.com on Hosting your Windows Forms controls in COM Containers? Wouldn't you love to use the DataGrid inside your MFC project?</summary>
+    <content type="html">&lt;h1>COM &amp; WinForms...Happy together?&lt;/h1>
+&lt;a href="http://www.ondotnet.com/pub/a/dotnet/2003/01/20/winformshosting.html">Here&lt;/a>. From Shawn Wildermuth: Chris has a new article up on http://ONDotNet.com on Hosting your Windows Forms controls in COM Containers?  Wouldn't you love to use the DataGrid inside your MFC project?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/402</id>
+    <title>Smart Displays Now Available</title>
+    <updated>2003-01-20T08:00:00.000Z</updated>
+    <published>2003-01-20T08:00:00.000Z</published>
+    <summary>Here. Oh man, I *so* want one of these, but I can't decide whether to get the 15" one and use it as a monitor as well as a tablet, get the 8" for cuddling up to in bed or something in the middle! Also, does anyone know if these things support the same software as a TabletPC? They certainly should.</summary>
+    <content type="html">&lt;h1>Smart Displays Now Available&lt;/h1>
+&lt;a href="http://www.microsoft.com/windowsxp/smartdisplay/">Here&lt;/a>. Oh man, I *so* want one of these, but I can't decide whether to get the 15" one and use it as a monitor as well as a tablet, get the 8" for cuddling up to in bed or something in the middle!
+
+Also, does anyone know if these things support the same software as a TabletPC? They certainly should.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/400</id>
+    <title>I/O, I/O, It's Off to Work I Go</title>
+    <updated>2003-01-20T08:00:00.000Z</updated>
+    <published>2003-01-20T08:00:00.000Z</published>
+    <summary>Here. Eric Gunnerson discusses the basics of.NET stream-based I/O. Not very deep, but I'm still surprised at how few.NET programmers understand how streams work.</summary>
+    <content type="html">&lt;h1>I/O, I/O, It's Off to Work I Go&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncscol/html/csharp01162003.asp">Here&lt;/a>. Eric Gunnerson discusses the basics of .NET stream-based I/O. Not very deep, but I'm still surprised at how few .NET programmers understand how streams work.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/399</id>
+    <title>C# and Java: Comparing Programming Languages</title>
+    <updated>2003-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-20T08:00:00.000Z</published>
+    <summary>Here. This is a pretty comprehensive, and pretty even-handed, comparison (Java gets kudos for doing some things better than C# and vice versa). If you're still curious about how the other half lives, check it out, but I'll bottom line it for you: C# and Java are pretty much the same language. The real differences are in the respective libraries, not the languages.</summary>
+    <content type="html">&lt;h1>C# and Java: Comparing Programming Languages&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncenet/html/C_n_Java.asp">Here&lt;/a>. This is a pretty comprehensive, and pretty even-handed, comparison (Java gets kudos for doing some things better than C# and vice versa). If you're still curious about how the other half lives, check it out, but I'll bottom line it for you:
+
+C# and Java are pretty much the same language. The real differences are in the respective libraries, not the languages.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/398</id>
+    <title>Media2Go Preview</title>
+    <updated>2003-01-18T08:00:00.000Z</updated>
+    <published>2003-01-18T08:00:00.000Z</published>
+    <summary>Here. The idea of Media2Go is a PDA/MP3-player-style device just for A/V, e.g. a video-enabled iPod. I have mixed feelings about it. I think I'd rather watch videos on my laptop and get an audio-enabled cell phone than carry yet another device.</summary>
+    <content type="html">&lt;h1>Media2Go Preview&lt;/h1>
+&lt;a href="http://www.winsupersite.com/showcase/media2go_preview.asp">Here&lt;/a>. The idea of Media2Go is a PDA/MP3-player-style device just for A/V, e.g. a video-enabled iPod. I have mixed feelings about it. I think I'd rather watch videos on my laptop and get an audio-enabled cell phone than carry yet another device.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/397</id>
+    <title>SPOT On</title>
+    <updated>2003-01-18T08:00:00.000Z</updated>
+    <published>2003-01-18T08:00:00.000Z</published>
+    <summary>Here. While I think that the prototype watches are butt ugly, I really want to write apps for my watch. With a decent metal frame and a color screen, the Smart Personal Object Technology (SPOT) watches would rock. BTW, does anyone else thing that the Win32/.NET/SPOT windowing API needs to be updated for non-rectangular displays?</summary>
+    <content type="html">&lt;h1>SPOT On&lt;/h1>
+&lt;a href="http://www.winsupersite.com/showcase/spot_preview.asp">Here&lt;/a>. While I think that the prototype watches are butt ugly, I really want to write apps for my watch. With a decent metal frame and a color screen, the Smart Personal Object Technology (SPOT) watches would rock. BTW, does anyone else thing that the Win32/.NET/SPOT windowing API needs to be updated for non-rectangular displays?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/396</id>
+    <title>Oracle 9i: The Reality Behind The Marketing Messag</title>
+    <updated>2003-01-17T08:00:00.000Z</updated>
+    <published>2003-01-17T08:00:00.000Z</published>
+    <summary>Here. From Matt Hollingsworth: The Reality Behind Oracle9i, High Availability, Scalability, Security, Manageability, Programmability, Data Warehousing and Business Intelligence, against Microsoft SQL Server 2000.</summary>
+    <content type="html">&lt;h1>Oracle 9i: The Reality Behind The Marketing Messag&lt;/h1>
+&lt;a href="http://www.only4gurus.com/download.asp?ID=165">Here&lt;/a>. From Matt Hollingsworth: The Reality Behind Oracle9i, High Availability, Scalability, Security, Manageability, Programmability, Data Warehousing and Business Intelligence, against Microsoft SQL Server 2000.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/395</id>
+    <title>25 silly reasons why .NET is better than java</title>
+    <updated>2003-01-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-16T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: This is just for a laugh, don't take it seriously. Alternatively access it at http://www.geocities.com/hunboonteo/misc/silly.htm. Regards. </summary>
+    <content type="html">&lt;h1>25 silly reasons why .NET is better than java&lt;/h1>
+&lt;a href="http://www.geocities.com/teohunboon/misc/silly.htm">Here&lt;/a>. From Hun Boon Teo: This is just for a laugh, don't take it seriously. Alternatively access it at http://www.geocities.com/hunboonteo/misc/silly.htm . 
+Regards. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12354</id>
+    <title>What OS is Chris?</title>
+    <updated>2003-01-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/slackware.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2003-01-15T08:00:00.000Z</published>
+    <summary>Chris took the quiz and was pretty darn happy with the results, because at at least he's not Windows ME... Which OS are You? </summary>
+    <content type="html">&lt;h1>What OS is Chris?&lt;/h1>
+Chris took the quiz and was pretty darn happy with the results, because at at least he's not Windows ME...&lt;p>&lt;a href="http://bbspot.com/News/2003/01/os_quiz.php">&lt;img
+src="http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/slackware.jpg" width="300" height="90"
+border="0" alt="Which OS are You?">&lt;br>Which OS are You?&lt;/a> &lt;/p>
+</content>
+  </entry>
+</feed>

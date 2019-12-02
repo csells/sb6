@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed15.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed14.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed16.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed15.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2202</id>
+    <title>Vim Support for MGrammar</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>From Fredrik Eriksson.</summary>
+    <content type="html">&lt;h1>Vim Support for MGrammar&lt;/h1>
+From &lt;SPAN class=vcard>&lt;SPAN class="fn n">&lt;A href="http://www.thebc.se/2008/11/vim-support-for-mgrammar/">Fredrik Eriksson&lt;/A>&lt;/SPAN>&lt;/SPAN>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2207</id>
+    <title>Three-Pane MGrammar Development in Intellipad</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>Roger Alsing has posted a discussion of how Intellipad's support for MGrammar development makes writing DSLs easier but showing you what parsers and how as you update the input file and the grammar file itself. Personally, I'm a huge fan of seeing something work as I type. Think of it as&amp;nbsp;"holistic intellsense."&amp;nbsp;The SQL generation in Intellipad works the exact same way. I find it a huge help. </summary>
+    <content type="html">&lt;h1>Three-Pane MGrammar Development in Intellipad&lt;/h1>
+&lt;P>Roger Alsing has posted a discussion of &lt;A href="http://rogeralsing.com/2008/11/10/m-grammar-vs-gold-parser/">how Intellipad's support for MGrammar development makes writing DSLs easier&lt;/A> but showing you what parsers and how as you update the input file and the grammar file itself.&lt;/P>
+&lt;P>Personally, I'm a huge fan of seeing something work as I type. Think of it as&amp;nbsp;"holistic intellsense."&amp;nbsp;The SQL generation in Intellipad works the exact same way. I find it a huge help.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2206</id>
+    <title>Another Oslo MGrammar Sample: WatiN</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>Torkel &amp;#214;degaard has done a very nice, detailed look at created a DSL in MGrammar for the WatiN browser automation library, including a look at the code he used to parse the Abstract Symbol Tree produced by MGrammar to do something useful.</summary>
+    <content type="html">&lt;h1>Another Oslo MGrammar Sample: WatiN&lt;/h1>
+Torkel &amp;#214;degaard has done a very nice, detailed look at created &lt;A href="http://www.codinginstinct.com/2008/11/creating-watin-dsl-using-mgrammar.html">a DSL in MGrammar for the WatiN browser automation library&lt;/A>, including a look at the code he used to parse the Abstract Symbol Tree produced by MGrammar to do something useful.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2205</id>
+    <title>Generating code from M</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>On the Oslo team, we think of three kinds of models: Drawings : This is modeling to communicate from human to human, e.g. on a white board or in Visio. An architecture diagram in a design document is an example of such a thing. Model-Assisted : This is modeling where we're talking to a computer, most often to generate code, e.g. the.edmx file used by Visual Studio to generate C# data access code. Model-Driven : Here we're also communicating from a human to a computer, but instead of doing it at development-...</summary>
+    <content type="html">&lt;h1>Generating code from M&lt;/h1>
+&lt;P>On the Oslo team, we think of three kinds of models:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;STRONG>Drawings&lt;/STRONG>: This is modeling to communicate from human to human, e.g. on a white board or in Visio. An architecture diagram in a design document is an example of such a thing.&lt;/LI>
+&lt;LI>&lt;STRONG>Model-Assisted&lt;/STRONG>: This is modeling where we're talking to a computer, most often to generate code, e.g. the .edmx file used by Visual Studio to generate C# data access code.&lt;/LI>
+&lt;LI>&lt;STRONG>Model-Driven&lt;/STRONG>: Here we're also communicating from a human to a computer, but instead of doing it at development-time to generate code, the model is actually used at run-time to drive a run-time, e.g. a Workflow definition to drive the Workflow engine.&lt;/LI>&lt;/OL>
+&lt;P>I've seen various samples around the interweb on model-driven aka "executable models" (some of which we've supplied on the &lt;A href="http://msdn.com/oslo">Oslo DevCenter&lt;/A>), but &lt;SPAN class=fn>Kirill Chilingarashvili&lt;/SPAN> has done &lt;A href="http://blog.devarchive.net/2008/11/generating-code-using-ms-codename-t4.html">a nice little sample of combining Visual Studio's T4 codegen language with a custom DSL in MGrammar&lt;/A>. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2208</id>
+    <title>News: How modeling will change programming</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>Burley Kawasaki is a Microsoft marketing person, it's true, but he also really understands the point of Oslo. Enjoy.</summary>
+    <content type="html">&lt;h1>News: How modeling will change programming&lt;/h1>
+Burley Kawasaki is a Microsoft marketing person, it's true, but he also really understands &lt;A href="http://www.betanews.com/article/Microsofts_Burley_Kawasaki_How_modeling_will_change_programming/1226357640">the point of Oslo&lt;/A>. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2200</id>
+    <title>Big, Juicy Video on M from Jon Flanders</title>
+    <updated>2008-11-06T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-06T08:00:00.000Z</published>
+    <summary>Jon Flanders from pluralsight has posted a 39 minute screencast video introducing M to.NET developers. Enjoy!</summary>
+    <content type="html">&lt;h1>Big, Juicy Video on M from Jon Flanders&lt;/h1>
+Jon Flanders from pluralsight has posted &lt;A href="http://www.pluralsight.com/community/blogs/jfland/archive/2008/11/04/semi-short-video-on-m-aka-m-is-like-an-onion.aspx">a 39 minute screencast video introducing M to .NET developers&lt;/A>. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2199</id>
+    <title>Oslo: Using Mg to Define a To-Do Language</title>
+    <updated>2008-11-06T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-06T08:00:00.000Z</published>
+    <summary>Justin Bailey has built a little language in MGrammer to create tasks and even better, he's provided a very tutorial on how he did it. Following along with him would make a great way to learn the basics of Mg. Plus, I love his conclusions: "Mg is clearly a powerful technology for defining languages. The above is a trivial use, but already we have bypassed most simple file parsing techniques. Quoted strings and balanced parentheses are the bane of non-parsing techniques and it appears that Mg will be placing...</summary>
+    <content type="html">&lt;h1>Oslo: Using Mg to Define a To-Do Language&lt;/h1>
+&lt;P>Justin Bailey has built &lt;A href="http://blog.codeslower.com/2008/11/Exploring-Oslo-Using-Mg-to-Define-a-To-Do-Language">a little language in MGrammer to create tasks&lt;/A> and even better, he's provided a very tutorial on how he did it. Following along with him would make a great way to learn the basics of Mg. Plus, I love his conclusions:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Mg is clearly a powerful technology for defining languages. The above is a trivial use, but already we have bypassed most simple file parsing techniques. Quoted strings and balanced parentheses are the bane of non-parsing techniques and it appears that Mg will be placing those abilities within reach of most .NET developers."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Good work, Justin!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2201</id>
+    <title>The DSL DevCon</title>
+    <updated>2008-11-06T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2008-11-06T08:00:00.000Z</published>
+    <summary>I'm thinking it's time for another DevCon. I know it's been a while since the last one (in fact, I hear there was some kind of petition to have another one? : ), so we're long past due. This one will be on all things data-driven, model-based and/or DSL enhanced. I'm thinking March or April&amp;nbsp;of 2009. &amp;nbsp;Who's interested? </summary>
+    <content type="html">&lt;h1>The DSL DevCon&lt;/h1>
+&lt;P>I'm thinking it's time for another DevCon. I know it's been a while since the last one (in fact, I hear there was some kind of petition to have another one? : ), so we're long past due.&lt;/P>
+&lt;P>This one will be on all things data-driven, model-based and/or DSL enhanced. I'm thinking March or April&amp;nbsp;of 2009. &amp;nbsp;Who's interested?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2198</id>
+    <title>Aaron Skonnard on "Oslo"</title>
+    <updated>2008-11-03T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-03T08:00:00.000Z</published>
+    <summary>Aaron Skonnard of pluralsight has provided a very nice overview of "Oslo," including the major pieces and most importantly, why you care. Enjoy!</summary>
+    <content type="html">&lt;h1>Aaron Skonnard on "Oslo"&lt;/h1>
+Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has provided &lt;A href="http://www.pluralsight.com/community/blogs/aaron/archive/2008/11/03/introducing-quot-oslo-quot.aspx">a very nice overview of "Oslo,"&lt;/A> including the major pieces and most importantly, why you care. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2197</id>
+    <title>Oslo Week One Wrap-Up</title>
+    <updated>2008-11-02T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-02T07:00:00.000Z</published>
+    <summary>Oh my lord above. I have been working towards last week for about 3.5 years altogether. It started with an incubation in the Connected Systems Division (CSD -- the folks that own WF, WCF, BizTalk, etc) doing work to see if modeling was a feasible way to build applications and we just announced the work so far along these lines at the PDC last week. It's called "Oslo" and here are the top places you should look to get up to speed on it: Microsoft "Oslo" Resources " Oslo" Developer Center Download the "Oslo" ...</summary>
+    <content type="html">&lt;h1>Oslo Week One Wrap-Up&lt;/h1>
+&lt;P>Oh my lord above. I have been working towards last week for about 3.5 years altogether. It started with an incubation in the Connected Systems Division (CSD -- the folks that own WF, WCF, BizTalk, etc) doing work to see if modeling was a feasible way to build applications and we just announced the work so far along these lines at the PDC last week. It's called "Oslo" and here are the top places you should look to get up to speed on it:&lt;/P>
+&lt;H1>Microsoft "Oslo" Resources&lt;/H1>
+&lt;UL>
+&lt;LI>"&lt;A href="http://msdn.com/oslo">Oslo" Developer Center&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://code.msdn.microsoft.com/oslo">Download the "Oslo" SDK&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">Ask a Question About "Oslo&lt;/A>"&lt;/LI>
+&lt;LI>&lt;A href="https://connect.microsoft.com/oslo">Report an Oslo Bug&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL23.wmv">A Lap Around "Oslo"&lt;/A> (PDC video)&lt;/LI>
+&lt;LI>&lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL27.wmv">"Oslo" - The Language&lt;/A> (PDC video)&lt;/LI>
+&lt;LI>&lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL18.wmv">"Oslo": Customizing and Extending the Visual Design Experience&lt;/A> (PDC video)&lt;/LI>
+&lt;LI>&lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL31.wmv">Building Textual DSLs with the "Oslo" Modeling Language&lt;/A> (PDC video)&lt;/LI>
+&lt;LI>&lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL28.wmv">"Oslo": Repository &amp;amp; Models&lt;/A> (PDC video)&lt;/LI>&lt;/UL>
+&lt;P>But don't take my work on "Oslo." Check out what the world is saying (in no particular order -- honest!).&lt;/P>
+&lt;H1>The World's Take on "Oslo"&lt;/H1>
+&lt;UL>
+&lt;LI>&lt;A href="http://martinfowler.com/bliki/Oslo.html">Oslo&lt;/A>, Martin Fowler&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.sun.com/tientien/entry/oslo_modeling_platform_my_first">Oslo modeling platform: my first impressions...&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.sun.com/tientien/entry/oslo_remodeling_of_window_os">Oslo: Remodeling Windows!!!&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blog.jamesurquhart.com/2008/10/microsoft-azure-may-be-too-good-to.html">Microsoft Azure May Be Too Good To Ignore&lt;/A>, James Urquhart&lt;/LI>
+&lt;LI>&lt;A href="http://dotnetninja.wordpress.com/2008/10/31/first-look-at-microsoft-oslo/">First Look at Microsoft "Oslo"&lt;/A>, Arman Kurtagic&lt;/LI>
+&lt;LI>&lt;A href="http://bloggingabout.net/blogs/dennis/archive/2008/10/28/best-pdc-session-so-far-lap-around-oslo.aspx">Best PDC session so far : Lap around "Oslo"&lt;/A>, Dennis van der Stelt&lt;/LI>
+&lt;LI>&lt;A href="http://bloggingabout.net/blogs/dennis/archive/2008/10/30/m-and-mservice.aspx">"M" and MService&lt;/A>, Dennis van der Stelt&lt;/LI>
+&lt;LI>&lt;A href="http://bloggingabout.net/blogs/dennis/archive/2008/10/30/oslo-repositories-and-models.aspx">"Oslo" repositories and models&lt;/A>, Dennis van der Stelt&lt;/LI>
+&lt;LI>&lt;A href="http://bloggingabout.net/blogs/dennis/archive/2008/10/29/quot-oslo-quot-customizing-and-extending-the-visual-design-experience.aspx">"Oslo": Customizing and Extending the Visual Design Experience&lt;/A>, Dennis van der Stelt&lt;/LI>
+&lt;LI>&lt;A href="http://bloggingabout.net/blogs/dennis/archive/2008/10/30/oslo-building-textual-dsls.aspx">Oslo : Building textual DSLs&lt;/A>, Dennis van der Stelt&lt;/LI>
+&lt;LI>&lt;A href="http://wildermuth.com/2008/10/29/First_Impressions_of_Oslo">First Impressions of Oslo&lt;/A>, Shawn Wildermuth&lt;/LI>
+&lt;LI>&lt;A href="http://www.dennisdoomen.net/2008/10/what-is-oslo_31.html">What is "Oslo"?&lt;/A> Dennis Doomen &lt;/LI>
+&lt;LI>&lt;A href="http://www.from9till2.com/PermaLink.aspx?guid=021edf81-6093-4920-a935-4b87d58ac0c3">Repository driven lisp super macros XLT'd into a DB, birthing a giant crazed version of the Windows Registry metabase&lt;/A>, David Ing (that's not really the title of David's piece, but it's a quote from it that I loved so much, I promoted it : )&lt;/LI>
+&lt;LI>&lt;A href="http://www.masteringbiztalk.com/blogs/jon/PermaLink,guid,92ec6f1f-45e5-4b7d-b675-548be5131a07.aspx">IntelliPad (IPad): adding commands&lt;/A>, Jon Flanders&lt;/LI>
+&lt;LI>&lt;A href="http://www.replicator.org/node/81">Oslo highlight: MGrammar&lt;/A>, Armin Sander &lt;/LI>
+&lt;LI>&lt;A href="http://stage.vambenepe.com/archives/420">First in-depth look at Microsoft&amp;#8217;s Oslo and the &amp;#8220;M&amp;#8221; modeling language&lt;/A>, William Vambenepe&lt;/LI>
+&lt;LI>&lt;A href="http://www.stephenforte.net/PermaLink,guid,a556c7e0-f42a-4f96-993e-a570754b6e91.aspx">Sneak Peak at M&lt;/A>, Stephen Forte&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=fcd86576-cb86-406d-8b59-dc3714f33b7e ">"Oslo" Modeling Language Specification, Codename "M"&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=b3401959-99ce-420c-b440-c5990885b337 ">Inside "M" with the "Oslo" Team&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=d67907c7-f7ca-4703-88c4-eca52f34528e ">Design and Lineage of the "Oslo" Modeling Language, Codename "M"&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=a1bf7cde-0b84-469d-9c76-c82ed8397b16 ">Getting Started with "M," the "Oslo" Modeling Language&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=efb9d343-df64-4a47-9de0-dac4d288cc98 ">"Oslo" Modeling SDK: "M Grammar" -- What is it?&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=5f544ceb-dc8f-48ad-ad5d-5cc6eb20f075 ">Getting Started with "M Grammar"&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=a08bc700-0179-4b42-86a9-4e32af15b498 ">"Oslo" -- Microsoft's Modeling Platform&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.informit.com/podcasts/episode.aspx?e=e8d94ba1-1b77-4f4d-99cc-bfce8ce36489 ">The "Oslo" Modeling Language: "M Grammar"&lt;/A> with Paul Vick (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.biztalkgurus.com/media/p/21921.aspx">First Look at Quadrant &amp;#8211; Oslo's Modeling Tool&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://www.biztalkgurus.com/media/p/21923.aspx">First Look at M &amp;#8211; Oslo's Modeling Language&lt;/A> (video)&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/mikewalker/archive/2008/10/29/oslo-roundup.aspx">Oslo Roundup&lt;/A>, Mike Walker&lt;/LI>
+&lt;LI>&lt;A href="http://www.itworld.com/development/57085/exploring-oslos-modeling-language-promises">Exploring Oslo's modeling language promises&lt;/A>, Esther Schindler&lt;/LI>
+&lt;LI>&lt;A href="http://www.eweek.com/c/a/IT-Management/Microsoft-Makes-Its-Way-to-Oslo/">Microsoft Makes Its Way to Oslo&lt;/A> (video), Joe Wilcox&lt;/LI>
+&lt;LI>&lt;A href="http://www.eweek.com/c/a/Application-Development/Microsofts-Ozzie-Talks-Open-Source-Azure-and-More/1/">Microsoft's Ray Ozzie Talks Open Source, Azure and More&lt;/A>, Darryl K. Taft&lt;/LI>
+&lt;LI>&lt;A href="http://www.sdtimes.com/link/33017">Microsoft adds 'M' to Open Specification Promise&lt;/A>, David Worthington&lt;/LI>
+&lt;LI>&lt;A href="http://www.eweek.com/c/a/Application-Development/Microsoft-Delivers-Oslo-Components/">Microsoft Delivers Oslo Components&lt;/A>, Darryl K. Taft&lt;/LI>&lt;/UL>
+&lt;P>Whew. We just announced "Oslo" last week and it's crazy how much there is on it already.&amp;nbsp;Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2196</id>
+    <title>The Oslo Developer Center: Letter from the Editors</title>
+    <updated>2008-10-27T07:00:00.000Z</updated>
+    <category term="osloeditorial" label="Oslo"/>
+    <published>2008-10-27T07:00:00.000Z</published>
+    <summary>Welcome to the "Oslo" Developer Center, your one-stop shop for all things "Oslo." Do you need to learn how M works (or what the heck it is?)? Do you want to sprinkle some of that repository stuff into your SQL Server? Do you need a quick video tutorial on the "Oslo" SDK tools? Then you've come to the right place! This DevCenter is a bi-directional communication channel between the "Oslo" product team and you, our customers. We have all kinds of things we want to tell you about Oslo and all manner of ways fo...</summary>
+    <content type="html">&lt;h1>The Oslo Developer Center: Letter from the Editors&lt;/h1>
+&lt;P>Welcome to &lt;A href="http://msdn.microsoft.com/oslo">the "Oslo" Developer Center&lt;/A>, your one-stop shop for all things "Oslo." Do you need to learn how M works (or what the heck it is?)? Do you want to sprinkle some of that repository stuff into your SQL Server? Do you need a quick video tutorial on the "Oslo" SDK tools? Then you've come to the right place!&lt;/P>
+&lt;P>This DevCenter is a bi-directional communication channel between the "Oslo" product team and you, our customers. We have all kinds of things we want to tell you about Oslo and all manner of ways for us to tell it to you, e.g. articles, videos, screencasts, samples, tools, etc. But more important than that, we want to hear from you, so we've set up a &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">forum&lt;/A> for you to ask questions and a &lt;A href="https://connect.microsoft.com/oslo">Connect site&lt;/A> for you to report bugs. And, if you blog about Oslo, you're very likely to get noticed and featured on the home page. Or, if you do post about Oslo or find something Olso-related that you think deserves mention and we haven't found it yet, then don't hesitate to &lt;A href="http://blogs.msdn.com/modelcitizen/contact.aspx">tell us&lt;/A>! Finally, if that doesn't make you happy, you should feel free to send your email directly to the site's editors, &lt;A href="mailto:csells@microsoft.com">Chris Sells&lt;/A> and &lt;A href="mailto:v-kents@microsoft.com">Kent Sharkey&lt;/A>. We're here for you!&lt;/P>&lt;B>
+&lt;P>What is "Oslo?"&lt;/P>&lt;/B>
+&lt;P>And to kick this conversation off, we'd like to provide the 10,000 foot introduction to "Oslo". "Oslo" is the code name for our platform for model-driven applications. The goal of "Oslo" is to provide a 10x productivity gain by making model-driven applications mainstream. At the core of this platform are &lt;I>domain-specific &lt;/I>models, language and tools:&lt;/P>
+&lt;UL>
+&lt;LI>A language, &lt;B>M&lt;/B>, for authoring domains textually&lt;/LI>
+&lt;LI>A tool, &lt;B>Quadrant&lt;/B>, for authoring domains visually&lt;/LI>
+&lt;LI>A &lt;B>Repository&lt;/B> for managing domain models&lt;/LI>
+&lt;LI>A library of pre-built domain models and languages&lt;/LI>&lt;/UL>
+&lt;P>Together, these components will make it more efficient for a team to develop, implement, and maintain applications and services.&lt;/P>
+&lt;P>&lt;B>What is "M"?&lt;/B>&lt;/P>
+&lt;P>"M" is a new declarative language that provides developers with an approachable, textual format for authoring models and DSLs for those models. The "M" language consists of three parts: MGraph, MSchema and MGrammar. MGraph is used to write down values in a graph structure similar to syntaxes like JSON. MSchema builds on MGraph by providing a structural type system, extent declarations for storing values, and computed values, which are queries over values and extents. MGrammar is used to describe a domain-specific language in terms of token and syntax rules, which are then used to parse text into an MGraph.&lt;/P>&lt;B>
+&lt;P>What is "Quadrant"?&lt;/P>&lt;/B>
+&lt;P>Quadrant is a real-time editor over a SQL database. Updates in Quadrant are automatically propagated to the database. Views over the same data are automatically refreshed when those data changes are made to the database. This is technically possible because Quadrant is built on an innovative dataflow technology. Quadrant's user experience is reflective of the experience in Office tools.&lt;/P>
+&lt;p>&lt;i>Quadrant is available to PDC attendees on the VPC, but not yet available for download. We hope to get Quadrant into a future Oslo CTP soon!&lt;/i>&lt;/p>
+&lt;P>&lt;STRONG>What is the Repository?&lt;/STRONG>&lt;/P>
+&lt;P>The "Oslo" repository delivers a platform to manage application metadata. The "Oslo" repository provides a common set of features to enable data-driven applications to leverage a platform investment made by Microsoft. &lt;/P>
+&lt;P>The "Oslo" repository builds naturally upon the SQL Server database and provides optimizations for storing and sharing models &amp;#8211; by providing a thin layer on top of the existing DBMS engine, this enables customers to easily leverage the existing SQL Server database ecosystem (e.g. tools, reporting, BI, etc). The repository is designed for extensibility, and supports common tasks such as impact analysis and access control. The repository manages end-to-end system models across the lifecycle, including support for both design and run-time views of application metadata. Pre-built models will be delivered as a starting point for building your full application, and with extensibility points so that your models can be augmented as needed.&lt;/P>&lt;B>
+&lt;P>Call to Action!&lt;/P>&lt;/B>
+&lt;P>See for yourself. Download and install the &lt;A href="http://download.microsoft.com/download/4/2/3/423FFDF3-B0B9-4EF0-990F-82DDE530B672/RepositoryOct2008CTP.msi">Microsoft "Oslo" SDK&lt;/A>. It contains lots of goodies, including:&lt;/P>
+&lt;UL>
+&lt;LI>Compilers and tools 
+&lt;UL>
+&lt;LI>The "M" compiler (m.exe)&lt;/LI>
+&lt;LI>The MGrammar compiler (mg.exe)&lt;/LI>
+&lt;LI>A tool to parse files based on a .mgx, and output an "M" or XAML file (mgx.exe)&lt;/LI>
+&lt;LI>A tool to load "M" content into a SQL database (mx.exe)&lt;/LI>
+&lt;LI>Visual Studio language integration for "M"&lt;/LI>
+&lt;LI>Intellipad, a text editor with MSchema and MGrammar integration (ipad.exe)&lt;/LI>
+&lt;LI>MSBuild integration for the "M" compiler&lt;/LI>
+&lt;LI>"M" Add-in for Excel 2007 &lt;/LI>&lt;/UL>&lt;/LI>
+&lt;LI>Documentation 
+&lt;UL>
+&lt;LI>Oslo Overview&lt;/LI>
+&lt;LI>"M" in a Nutshell&lt;/LI>
+&lt;LI>"M" Language Specification&lt;/LI>
+&lt;LI>MGrammar in a Nutshell&lt;/LI>
+&lt;LI>MGrammar Language Specification&lt;/LI>
+&lt;LI>Intellipad Primer&lt;/LI>
+&lt;LI>Help content for "M", Models, and the Repository&lt;/LI>&lt;/UL>&lt;/LI>
+&lt;LI>The Oslo and Dublin models&lt;/LI>
+&lt;LI>Samples 
+&lt;UL>
+&lt;LI>M Models: Northwind DBMS, WMI schemas (subset), enumeration and relationship patterns, and query examples&lt;/LI>
+&lt;LI>MParserDemo, a sample that demonstrates using the "M" framework&lt;/LI>
+&lt;LI>Samples for "M" Language Specification&lt;/LI>
+&lt;LI>MGrammar samples&lt;/LI>
+&lt;LI>Intellipad samples&lt;/LI>&lt;/UL>&lt;/LI>&lt;/UL>
+&lt;P>And then, once you've dug through all of that, come here for more and to post your bugs and questions. We're working to keep the content up to date and fresh, so they'll always be something new for you at the Oslo DevCenter.&lt;/P>
+&lt;P>XXOO, Chris Sells &amp;amp; Kent Sharkey&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2195</id>
+    <title>Tired of writing unit tests yourself? Try Pex!</title>
+    <updated>2008-10-24T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2008-10-24T07:00:00.000Z</published>
+    <summary>From the Pex site : "Pex (Program EXploration) produces a traditional unit test suite with high code coverage.... To do so, Pex performs a systematic white box program analysis. Pex learns the program behavior by monitoring execution traces, and uses a constraint solver to produce new test cases with different behavior. At Microsoft, this technique has proven highly effective in testing even an extremely well-tested component." [ed: emphasis mine] So, Pex will produce a parameterized set of unit tests for y...</summary>
+    <content type="html">&lt;h1>Tired of writing unit tests yourself? Try Pex!&lt;/h1>
+&lt;P>From &lt;A href="http://msdn.microsoft.com/en-us/devlabs/cc950525.aspx">the Pex site&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Pex (Program EXploration) produces a traditional unit test suite with high code coverage. ... To do so, Pex performs a systematic white box program analysis. &lt;STRONG>Pex learns the program behavior by monitoring execution traces, and uses a constraint solver to produce new test cases with different behavior.&lt;/STRONG> At Microsoft, this technique has proven highly effective in testing even an extremely well-tested component." [ed: emphasis mine]&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>So, Pex will produce a parameterized set of unit tests for your classes and does all of this integrated with Visual Studio and the unit testing built into VS. I've seen &lt;A href="http://msdn.microsoft.com/en-us/devlabs/cc950525.aspx">the demo&lt;/A> and it blew me away. Nikolai Tillmann, a developer at MSR (Microsoft Research), has &lt;A href="http://blogs.msdn.com/nikolait/archive/2008/10/21/sneak-preview-code-digger-the-new-pex-experience.aspx">a nice write-up that discusses his work&lt;/A>&amp;nbsp;and when you're done with that, go &lt;A href="http://msdn.microsoft.com/en-us/devlabs/cc950525.aspx">download Pex&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2194</id>
+    <title>MS + jQuery: This Is Huge!</title>
+    <updated>2008-09-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-09-30T07:00:00.000Z</published>
+    <summary>Yesterday, the ASP.NET team announced that they were going to ship jQuery, a small, populate open source web client library. And not only is Microsoft going to ship this library, as is, but we're going to build support into Visual Studio for it, build future versions of our web components assuming it and support it via PSS like any other Microsoft product. This is huge. Of course, is it useful for developers using Microsoft tools, because they get another supported library out of the box for them to use to ...</summary>
+    <content type="html">&lt;h1>MS + jQuery: This Is Huge!&lt;/h1>
+&lt;P>Yesterday, the ASP.NET team &lt;A href="http://weblogs.asp.net/scottgu/archive/2008/09/28/jquery-and-microsoft.aspx">announced&lt;/A> that they were going to ship &lt;A href="http://jquery.com/">jQuery, a small, populate open source web client library&lt;/A>. And not only is Microsoft going to ship this library, as is, but we're going to build support into Visual Studio for it, build future versions of our web components assuming it and support it via &lt;A href="http://windowsitpro.com/article/articleid/20150/whats-microsoft-pss-and-when-should-i-call-it.html">PSS&lt;/A> like any other Microsoft product.&lt;/P>
+&lt;P>This is huge.&lt;/P>
+&lt;P>Of course, is it useful for developers using Microsoft tools, because they get another supported library out of the box for them to use to build their applications. But that's not what makes it huge.&lt;/P>
+&lt;P>What makes it huge is that, instead of seeing the functionality in jQuery and thinking to themselves, "Wow. jQuery is really great. Let's build something from scratch like that into our products," the ASP.NET team, in what is the first time in Microsoft history afaik, decided to reuse something from the world that was already working, adding only the thing we do better than anyone else: integration into a suite of libraries and tools.&lt;/P>
+&lt;P>"But isn't this just 'embrace and extend?'" I hear you asking. "Isn't Microsoft just going to absorb jQuery, thereby killing it for folks not using Microsoft products?"&lt;/P>
+&lt;P>There are two ways forward at this point. One, we could push on jQuery in a Microsoft-centric way until the project "owners" (which is a slippery concept with an OSS project anyway), decide to either give up and let Microsoft "own" it or they decide to fork jQuery, thereby creating jQuery-classic and jQuery-MS. This would not be good for the jQuery community.&lt;/P>
+&lt;P>The other way to go, and this is the way I hope it goes, is that Microsoft learns to play nicely in this world, submitting features, changes and bug fixes to the jQuery source tree in a way that's consistent with the vision from which jQuery sprang, making it work better for Microsoft customers and non-Microsoft customers alike.&lt;/P>
+&lt;P>If we can learn to do that second thing, then we've turned a corner at Microsoft. I'm keeping my fingers crossed.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2193</id>
+    <title>Teasers for this year's PDC</title>
+    <updated>2008-09-24T07:00:00.000Z</updated>
+    <published>2008-09-24T07:00:00.000Z</published>
+    <summary>Do you want to know a tiny bit of what's going to happen at this year's PDC? Check these out: This is the Software + Services PDC : Mike Swanson By Developers, for Developers : Don Box and Chris Anderson Building Block Services, John Shewchuk Extending the Data Platform to the Cloud : Dave Campbell &lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC2008-Amitabh-Srivastava-Corporate-Vice-President-of-Cl</summary>
+    <content type="html">&lt;h1>Teasers for this year's PDC&lt;/h1>
+&lt;P>Do you want to know a tiny bit of what's going to happen at this year's PDC? Check these out:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC-2008-This-is-the-Software--Services-PDC-Plus-a-Hard-Drive-Chock-Full-oBits-is-a-PDC/">This is the Software + Services PDC&lt;/A>: Mike Swanson&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC2008-By-Developers-for-Developers-Don-Box-and-Chris-Anderson/">By Developers, for Developers&lt;/A>: Don Box and Chris Anderson&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC2008-Technical-Fellow-John-Shewchuk-Talks-About-His-Talk-at-PDC2008/">Building Block Services&lt;/A>, John Shewchuk&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC2008-Extending-the-Data-Platform-to-the-Cloud/">Extending the Data Platform to the Cloud&lt;/A>: Dave Campbell&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/posts/Dan/Countdown-to-PDC2008-Amitabh-Srivastava-Corporate-Vice-President-of-Cloud-Infrastructure--Services-H/">Amitabh Srivastava&lt;/A>: Corporate Vice President of Cloud, Infrastructure, &amp;amp; Services&lt;/LI>&lt;/UL>
+&lt;P>Also, we're giving away so much good stuff at the PDC that we're putting it onto a 160GB USB2 hard drive for every PDC attendee. You can't beat that with a stick!&lt;/P>
+&lt;P>If you haven't done so yet, &lt;A href="http://www.microsoftpdc.com/Registration/">you should register quickly&lt;/A> before the whole thing sells out.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2192</id>
+    <title>Custom Window Chrome in WPF</title>
+    <updated>2008-09-08T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2008-09-08T07:00:00.000Z</published>
+    <summary>Joe Castro, a developer on the WPF product team, has written a very cool article about how to do custom chrome in your WPF applications. But, what makes it even cooler is that he dissects the various ways that shipping apps do custom chrome on various versions of Windows. It's amazing the number of techniques there are. Very nicely done, Joe.</summary>
+    <content type="html">&lt;h1>Custom Window Chrome in WPF&lt;/h1>
+Joe Castro, a developer on the WPF product team, has written a very cool article about &lt;A href="http://blogs.msdn.com/wpfsdk/archive/2008/09/08/custom-window-chrome-in-wpf.aspx">how to do custom chrome in your WPF applications&lt;/A>. But, what makes it even cooler is that he dissects the various ways that shipping apps do custom chrome on various versions of Windows. It's amazing the number of techniques there are. Very nicely done, Joe.</content>
+  </entry>
+</feed>

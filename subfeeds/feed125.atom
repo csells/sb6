@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed125.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed124.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed126.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed125.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/665</id>
+    <title>Posting This from the Applied XML Dev.Conf.</title>
+    <updated>2003-07-09T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-09T07:00:00.000Z</published>
+    <summary>Here. I'm posting this using the wireless access from the room where the Applied XML Developer's Conference will be going on tomorrow (testing from the back to make sure it works). If I wanted to, I could plug into the readily available power as well. Very spiffy. If you'd like to participate in the conference, head over to the conference home page for the link to the message board and post to your heart's content.</summary>
+    <content type="html">&lt;h1>Posting This from the Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. I'm posting this using the wireless access from the room where the Applied XML Developer's Conference will be going on tomorrow (testing from the back to make sure it works). If I wanted to, I could plug into the readily available power as well. Very spiffy.
+
+If you'd like to participate in the conference, head over to the conference home page for the link to the message board and post to your heart's content.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/664</id>
+    <title>Stop planning for the future!</title>
+    <updated>2003-07-09T07:00:00.000Z</updated>
+    <published>2003-07-09T07:00:00.000Z</published>
+    <summary>Here. My favorite thing about the term "refactoring" is that it gives a trendy name to architecting for today, knowing full well that we'll need to re-arch (and re-code) tomorrow when we've got new requirements. Stu says this in more detail for the unconvinced.</summary>
+    <content type="html">&lt;h1>Stop planning for the future!&lt;/h1>
+&lt;a href="http://staff.develop.com/halloway/weblog/2003/04/25/1.html">Here&lt;/a>. My favorite thing about the term "refactoring" is that it gives a trendy name to architecting for today, knowing full well that we'll need to re-arch (and re-code) tomorrow when we've got new requirements.
+
+Stu says this in more detail for the unconvinced.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/662</id>
+    <title>The Best Just Keeps Getting Better</title>
+    <updated>2003-07-08T07:00:00.000Z</updated>
+    <published>2003-07-08T07:00:00.000Z</published>
+    <summary>Here. SharpReader 0.9.2 released today. Includes Feedster, Technorati &amp; [slash:comments] support, as well as bug fixes. I'm running it now w/ no problems.</summary>
+    <content type="html">&lt;h1>The Best Just Keeps Getting Better&lt;/h1>
+&lt;a href="http://www.sharpreader.net/">Here&lt;/a>. SharpReader 0.9.2 released today. Includes Feedster, Technorati &amp; [slash:comments] support, as well as bug fixes. I'm running it now w/ no problems.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/661</id>
+    <title>All the new kids on the blog</title>
+    <updated>2003-07-08T07:00:00.000Z</updated>
+    <published>2003-07-08T07:00:00.000Z</published>
+    <summary>Here. What became of my interview with the Seattle PI.</summary>
+    <content type="html">&lt;h1>All the new kids on the blog&lt;/h1>
+&lt;a href="http://seattlepi.nwsource.com/business/129927_msftblog08.html">Here&lt;/a>. What became of my interview with the Seattle PI.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/657</id>
+    <title>My First Press Contact @ MS</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. The one where I joust with a knight of the Seattle Post-Intelligencer.</summary>
+    <content type="html">&lt;h1>My First Press Contact @ MS&lt;/h1>
+&lt;a href="/12542">Here&lt;/a>. The one where I joust with a knight of the Seattle Post-Intelligencer.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/656</id>
+    <title>Genghis Moved to GotDotNet Workspaces 1.0</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. Now that GotDotNet Workspaces 1.0 has shipped (congrats!) Mike has moved Genghis there. Feel free to apply for membership if you've already contributed source to Genghis or if there's something you'd like to add.</summary>
+    <content type="html">&lt;h1>Genghis Moved to GotDotNet Workspaces 1.0&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=dfd0b577-2e97-4d21-90c4-6ca9d83e47ad">Here&lt;/a>. Now that GotDotNet Workspaces 1.0 has shipped (congrats!) Mike has moved Genghis there. Feel free to apply for membership if you've already contributed source to Genghis or if there's something you'd like to add.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/660</id>
+    <title>Regular Expression Workbench 2.0</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. While I don't think it's as pretty, Eric Gunnerson's RegexW has some cool features I wish RegexD [1] had, like regex->English translation and menus for regex parts. Anyone want to merge the best of both into some uber regex tool? [1] http://127.0.0.1:8080/tools/#regexd</summary>
+    <content type="html">&lt;h1>Regular Expression Workbench 2.0&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/EricGu/permalink.aspx/3eaf7ed2-d76b-427a-913c-79284e11e9cd">Here&lt;/a>. While I don't think it's as pretty, Eric Gunnerson's RegexW has some cool features I wish RegexD [1] had, like regex->English translation and menus for regex parts. Anyone want to merge the best of both into some uber regex tool?
+
+[1] http://127.0.0.1:8080/tools/#regexd</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12542</id>
+    <title>My 
+First Press Contact @ MS</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Today I spoke with Todd Bishop, a reporter from the Seattle Post-Intelligencer (&amp;quot;the Seattle PI&amp;quot;). He was interested in my spout entries about my initial experiences with Microsoft, specifically the BillG ThinkWeek stuff. He called last week, but I didn't call him back right away. Instead, I asked my grandboss (my boss was out on vacation) what I should do. I remember during NEO that MS has very clear instructions about when to talk to the press, i.e. never. Of course, some folks at MS talk with t...</summary>
+    <content type="html">&lt;h1>My 
+First Press Contact @ MS&lt;/h1>
+&lt;p>Today I 
+spoke with Todd Bishop, a reporter from the Seattle Post-Intelligencer (&amp;quot;the 
+Seattle PI&amp;quot;). He was interested in my spout entries about my initial experiences 
+with Microsoft, specifically &lt;a href="#submittingToBillgThinkWeek">the BillG 
+ThinkWeek stuff&lt;/a>. He called last week, but I didn't call him back right away. 
+Instead, I asked my grandboss (my boss was out on vacation) what I should do. I 
+remember &lt;a href="#boldBeginning">during NEO&lt;/a> that MS has very clear 
+instructions about when to talk to the press, i.e. never. Of course, some folks 
+at MS talk with the press, but unless it's specifically part of your job, you're 
+supposed to refer the press to other folks more trained in the ways of the wily 
+reporter trying to get the dirt on MS.&lt;/p>&lt;p>So, when Todd called and I hadn't 
+yet made my millions on MS stock options (any day now... : ), I thought I'd ask 
+around first before making any career limiting moves. That was early last week. 
+It wasn't 'til today that I got the approval to give the interview. In fact, I'm 
+pretty the MS marketing guy checking on what Todd was up to had a longer 
+conversation than I did. Here's pretty much the entire conversation (paraphrased 
+from imperfect human memory):&lt;/p>&lt;blockquote>&lt;p>Todd: &amp;quot;Thanks for getting back 
+	to me, Chris. I'm glad you went though official channels. That tends to make 
+	things go easier.&amp;quot;&lt;/p>&lt;p>&lt;i>I thought that was strange. If I was a reporter, 
+	I'd want to track down the defenseless MS employee when they were least 
+	expecting it. That's what I figured Todd was up to when he called my direct 
+	MS line w/o any introductions. Luckily, I work from home in PDX. Bwa ha ha 
+	ha ha!&lt;/i>&lt;/p>&lt;p>Chris: &amp;quot;No problem, Todd. Sorry it took so long to get back 
+	to you. They were clear my first day at MS not to talk to the press unless 
+	explicitly instructed and I'm new.&amp;quot;&lt;/p>&lt;p>Todd: &amp;quot;Did you get the list of 
+	things I'm after? I've already written the story; I just want to check some 
+	facts.&amp;quot;&lt;/p>&lt;p>&lt;i>Oh sure, I thought. This is Todd buttering Chris like 
+	toast...&lt;/i>&lt;/p>&lt;p>Chris: &amp;quot;Yes. What can I tell you?&amp;quot;&lt;/p>&lt;p>Todd: &amp;quot;You spell 
+	your last name S-E-L-L-S?&amp;quot;&lt;/p>&lt;p>Chris: &amp;quot;Yes.&amp;quot;&lt;/p>&lt;p>Todd: &amp;quot;What's your 
+	position at Microsoft?&amp;quot;&lt;/p>&lt;p>Chris: &lt;i>detailed explanation of MSDN, 
+	DevCenters (including their need in the world) and how I'm doing the 
+	Longhorn DevCenter.&lt;/i>&lt;/p>&lt;p>Todd: &amp;quot;Can I just say you're an MSDN Content 
+	Strategist?&amp;quot;&lt;/p>&lt;p>Chris: &amp;quot;Sure.&amp;quot;&lt;/p>&lt;p>&lt;i>So now the reporter's got me 
+	giving him more info than he actually wants. I'm in trouble...&lt;/i>&lt;/p>&lt;p>
+	Todd: &amp;quot;And your blog is http://127.0.0.1:8080/spout?&amp;quot;&lt;/p>&lt;p>Chris: &lt;i>
+	long explanation about how I organize my site, how the Spout is just the 
+	editorial section and that I announce everything from all sections on my 
+	home page.&lt;/i>&lt;/p>&lt;p>Todd: &amp;quot;Oh. So your blog is just 
+	http://www.sellsbrothers.com. I'll correct that. Thanks. That's all I need.&amp;quot;&lt;/p>&lt;p>
+	Chris: &amp;quot;Really? I expected to be grilled.&amp;quot;&lt;/p>&lt;p>Todd: &amp;quot;Well, you're lucky 
+	you waited. If you'd have called last week, I'd have really hammered you.&amp;quot;&lt;/p>&lt;/blockquote>&lt;p>
+Aha! He's just lulling me into a false sense of security for next time! : )&lt;/p>&lt;p>&lt;i>
+[ed: Apparently &lt;a href="http://seattlepi.nwsource.com/business/129927_msftblog08.html">
+Robert Scoble took the brunt...&lt;/a>]&lt;/i>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/658</id>
+    <title>Linus Torvald Goes To Work in My Neck Of the Woods</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. I continue to live in Beaverton, OR, but work for a company further north. Linus continues to live in California, but works for a company in Beaverton, OR. I don't know what that means, but it sounds cool. : )</summary>
+    <content type="html">&lt;h1>Linus Torvald Goes To Work in My Neck Of the Woods&lt;/h1>
+&lt;a href="http://linuxtoday.com/news/mailprint.php3?action=pv&amp;ltsn=2003-06-17-014-26-NW-KN-DV">Here&lt;/a>. I continue to live in Beaverton, OR, but work for a company further north.
+
+Linus continues to live in California, but works for a company in Beaverton, OR.
+
+I don't know what that means, but it sounds cool. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/659</id>
+    <title>Crackers</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. I love this kind of double-sneaky sneaky..</summary>
+    <content type="html">&lt;h1>Crackers&lt;/h1>
+&lt;a href="http://dotnetguy.techieswithcats.com/archives/003549.shtml">Here&lt;/a>. I love this kind of double-sneaky sneaky..</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/655</id>
+    <title>Membership to the RegexD Workspace</title>
+    <updated>2003-07-07T07:00:00.000Z</updated>
+    <published>2003-07-07T07:00:00.000Z</published>
+    <summary>Here. I've turned down pretty much everyone's membership request to the RegexD workspace not because I don't want new members, but because I want to see one proposed change to RegexD before approving anyone as a member w/ write priviledges to the code. If you want to be a member, send include a link to an initial change in your request message so that I can check it out before approving your membership.</summary>
+    <content type="html">&lt;h1>Membership to the RegexD Workspace&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">Here&lt;/a>. I've turned down pretty much everyone's membership request to the RegexD workspace not because I don't want new members, but because I want to see one proposed change to RegexD before approving anyone as a member w/ write priviledges to the code.
+
+If you want to be a member, send include a link to an initial change in your request message so that I can check it out before approving your membership.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/653</id>
+    <title>Feedster turns turbo!</title>
+    <updated>2003-07-04T07:00:00.000Z</updated>
+    <published>2003-07-04T07:00:00.000Z</published>
+    <summary>Here. I don't know what happened, but suddenly Feedster rocks. It turned up 76 references to the Applied XML Developer's Conference in Google speeds. Plus, the Understanding Your Search section is just cool (although I don't really need to see it on every page of results : ).</summary>
+    <content type="html">&lt;h1>Feedster turns turbo!&lt;/h1>
+&lt;a href="http://www.feedster.com/">Here&lt;/a>. I don't know what happened, but suddenly Feedster rocks. It turned up 76 references to the Applied XML Developer's Conference in Google speeds. Plus, the Understanding Your Search section is just cool (although I don't really need to see it on every page of results : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/654</id>
+    <title>Feedster Wars</title>
+    <updated>2003-07-04T07:00:00.000Z</updated>
+    <published>2003-07-04T07:00:00.000Z</published>
+    <summary>Here. Now that Feedster's so fast, it's time for some wars: People:
+"dave winer": 2875
+"sam ruby": 1547
+"robert scoble": 1359
+"chris pirillo": 936
+".net guy": 501
+"don box": 451
+"chris sells": 421 OSes:
+windows: 34,754
+linux: 25,832 Platforms:
+.NET: 20,157 (capped to narrow down search)
+java: 16,536 Languages:
+java: 16,536
+vb: 1551
+c#: 1380
+c++: 0 (I assume it's a bug : ) Parts of.NET:
+winforms: 345
+asp.net: 46
+ado.net: 0 Heads of State:
+"bill gates": 1348
+"larry ellison": 220
+"scott mcnealy": 134 Companies...</summary>
+    <content type="html">&lt;h1>Feedster Wars&lt;/h1>
+&lt;a href="http://www.feedster.com">Here&lt;/a>. Now that Feedster's so fast, it's time for some wars:
+
+People:
+"dave winer": 2875
+"sam ruby": 1547
+"robert scoble": 1359
+"chris pirillo": 936
+".net guy": 501
+"don box": 451
+"chris sells": 421
+
+OSes:
+windows: 34,754
+linux: 25,832
+
+Platforms:
+.NET: 20,157 (capped to narrow down search)
+java: 16,536
+
+Languages:
+java: 16,536
+vb: 1551
+c#: 1380
+c++: 0 (I assume it's a bug : )
+
+Parts of .NET:
+winforms: 345
+asp.net: 46
+ado.net: 0
+
+Heads of State:
+"bill gates": 1348
+"larry ellison": 220
+"scott mcnealy": 134
+
+Companies:
+microsoft: 29,215
+sun: 22,349 (matching *lots* more than just Sun Microsystems)
+ibm: 8802
+aol: 4524
+oracle: 4273
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/652</id>
+    <title>Alvio -- a very cool place to order computers</title>
+    <updated>2003-07-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-04T07:00:00.000Z</published>
+    <summary>Craig [1] (via Brad) found Alvio, a really cool place to order computers online. My favorite is the page that lets me configure a barebones P4 system from scratch [2] and then they assembly it, test it and guarantee it for a year. The thing that I like most about Dell is how easy it is to configure computers online. To be able to configure one from the ground up w/o any OSes et al is *way* cool. [1] http://staff.develop.com/candera/weblog2/permalink.aspx/9090a88d-dd58-4310-bb33-85cdc0b121b6 [2] http://www.a...</summary>
+    <content type="html">&lt;h1>Alvio -- a very cool place to order computers&lt;/h1>
+Craig [1] (via Brad) found Alvio, a really cool place to order computers online. My favorite is the page that lets me configure a barebones P4 system from scratch [2] and then they assembly it, test it and guarantee it for a year.
+
+The thing that I like most about Dell is how easy it is to configure computers online. To be able to configure one from the ground up w/o any OSes et al is *way* cool.
+
+[1] http://staff.develop.com/candera/weblog2/permalink.aspx/9090a88d-dd58-4310-bb33-85cdc0b121b6
+
+[2] http://www.alvio.com/smoreinfo.asp?iid=941
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/651</id>
+    <title>I'm with Mike: Gentlemen Prefer SharpReader</title>
+    <updated>2003-07-03T07:00:00.000Z</updated>
+    <published>2003-07-03T07:00:00.000Z</published>
+    <summary>Here. Mike Sax says exactly what I was thinking. After having high hopes for FeedDemon [1], I *much* prefer SharpReader. Luke hit it out of the park on his first try and nobody's yet come close. [1] http://www.bradsoft.com/feeddemon
+</summary>
+    <content type="html">&lt;h1>I'm with Mike: Gentlemen Prefer SharpReader&lt;/h1>
+&lt;a href="http://www.sax.net/live/?date=7/3/2003#at12:58AM">Here&lt;/a>. Mike Sax says exactly what I was thinking. After having high hopes for FeedDemon [1], I *much* prefer SharpReader. Luke hit it out of the park on his first try and nobody's yet come close.
+
+[1] http://www.bradsoft.com/feeddemon
+</content>
+  </entry>
+</feed>

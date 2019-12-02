@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed168.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed167.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed169.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed168.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/57</id>
+    <title>Making Fun of Star Wars Line Sitters</title>
+    <updated>2002-05-28T07:00:00.000Z</updated>
+    <published>2002-05-28T07:00:00.000Z</published>
+    <summary>Conan makes fun of folks waiting in line for Star Wars: Attack of the Clones. Very funny. </summary>
+    <content type="html">&lt;h1>Making Fun of Star Wars Line Sitters&lt;/h1>
+&lt;p>&lt;a href="http://www.babybuy.bigstep.com/generic12.html">Conan makes fun of folks&lt;/a> waiting in line for Star Wars: Attack of the Clones. Very funny.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/56</id>
+    <title>noMadMap: Compact .NET + MapPoint .NET</title>
+    <updated>2002-05-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-28T07:00:00.000Z</published>
+    <summary>One man's journey to hook up two beta technologies and the hilarity that ensues. </summary>
+    <content type="html">&lt;h1>noMadMap: Compact .NET + MapPoint .NET&lt;/h1>
+&lt;p>&lt;a href="http://www.brains-n-brawn.com/noMadMap/">One man's journey&lt;/a> to hook up two beta technologies and the hilarity that ensues.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/55</id>
+    <title>MonoLOGO: An implementation of LOGO for .NET</title>
+    <updated>2002-05-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-27T07:00:00.000Z</published>
+    <summary>" MonoLOGO provides access to all.NET constructs from within LOGO. Its goal to be 99% compliant with Berkeley LOGO (there are a few internal UCBLogo directives that won't make sense to support). Eventually I hope to extend the LOGO syntax to support most if not all of.NET's constructs." </summary>
+    <content type="html">&lt;h1>MonoLOGO: An implementation of LOGO for .NET&lt;/h1>
+&lt;p>"&lt;a href="http://monologo.sourceforge.net/">MonoLOGO&lt;/a> provides access to all .NET constructs from within LOGO. Its goal to be 99% compliant with Berkeley LOGO (there are a few internal UCBLogo directives that won't make sense to support). Eventually I hope to extend the LOGO syntax to support most if not all of .NET's constructs."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12585</id>
+    <title>The Truth Is Not Enough</title>
+    <updated>2002-05-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-05-26T07:00:00.000Z</published>
+    <summary>Watching the final episode of the X-Files, I realized why I don't like that show. Mulder spends all his time searching for the truth, but even when he finds the date of the planned alien invasion, he doesn't do anything with it! They've spent the last nine years discovering the truth and not doing anything to change it (or, if they do try, they fail miserably). Of course, that's not the only problem with the show (e.g. why would an alien race powerful enough to do generic engineering to produce the &amp;quot;mi...</summary>
+    <content type="html">&lt;h1>The Truth Is Not Enough&lt;/h1>
+
+        &lt;p>Watching the final episode of the X-Files, I realized why I don't 
+        like that show. Mulder spends all his time searching for the truth, but 
+        even when he finds the date of the planned alien invasion, he doesn't do 
+        anything with it! They've spent the last nine years discovering the 
+        truth and not doing anything to change it (or, if they do try, they fail 
+        miserably). Of course, that's not the only problem with the show (e.g. 
+        why would an alien race powerful enough to do generic engineering to 
+        produce the &amp;quot;miracle child&amp;quot; or to create &amp;quot;super soldiers&amp;quot; or to create 
+        the virus in the first place, needs to bother with setting up a shadow 
+        government), but it's the one that bothers me the most.&lt;/p>
+        &lt;p>Just knowing the 
+        truth is not enough. You need to act on it.&lt;/p>
+        &lt;p>I don't really know what that's got to do with the price of tea in 
+        China, but hey, you get what you pay for. : )&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/53</id>
+    <title>Demeanor for .NET, Enterprise Edition</title>
+    <updated>2002-05-26T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-26T07:00:00.000Z</published>
+    <summary>" Demeanor for.NET Enterprise Edition provides the most sophisticated obfuscation and optimization available for your.NET applications. Demeanor for.NET performs three categories of obfuscation - symbol obfuscation, metadata obfuscation and control flow obfuscation. All forms of obfuscation are lossy. In other words, the process throws away information making it unavailable for a decompiler." </summary>
+    <content type="html">&lt;h1>Demeanor for .NET, Enterprise Edition&lt;/h1>
+&lt;p>"&lt;a href="http://www.wiseowl.com/products/DemeanorEnterprise.aspx">Demeanor for .NET Enterprise Edition&lt;/a> provides the most sophisticated obfuscation and optimization available for your .NET applications. Demeanor for .NET performs three categories of obfuscation - symbol obfuscation, metadata obfuscation and control flow obfuscation. All forms of obfuscation are lossy. In other words, the process throws away information making it unavailable for a decompiler."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12671</id>
+    <title>Adding Custom VB.NET Project Item Template Wizards to VS.NET</title>
+    <updated>2002-05-23T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/writing/addnewitemdialog.jpg"/>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-23T07:00:00.000Z</published>
+    <summary>by Michael Weinhardt This article describes how to implement a VB.NET version of Chris Sells's Project Item Template sample for C#. As with Chris’s sample, we leverage the VB.NET wizard infrastructure using various template files and script. There is a fair degree of crossover between the two approaches. Accordingly, I quote/paraphrase Chris where required. The Sample The VB.NET Project Item Template Wizard sample used in this article is called MyWebForm. It adds a custom WebForm and Webform codebehind clas...</summary>
+    <content type="html">&lt;h1>Adding Custom VB.NET Project Item Template Wizards to VS.NET&lt;/h1>
+&lt;p>
+        &lt;i>by &lt;a href="mailto:MichaelW@serf.com.au">Michael Weinhardt&lt;/a>&lt;/i>&lt;/p>
+    &lt;p>
+        This article describes how to implement a VB.NET version of &lt;a href="/7">
+            Chris Sells's Project Item Template sample for C#&lt;/a>. As with Chris’s sample,
+        we leverage the VB.NET wizard infrastructure using various template files and script.
+        There is a fair degree of crossover between the two approaches. Accordingly, I quote/paraphrase
+        Chris where required.&lt;/p>
+    &lt;h2>
+        The Sample&lt;/h2>
+    &lt;p>
+        The &lt;a href="/public/writing/MyWebFormTemplateSample.zip">VB.NET Project Item Template Wizard sample&lt;/a>
+        used in this article is called MyWebForm. It adds a custom WebForm and Webform codebehind
+        class, over-riding the default wizard behavior of dynamically creating a codebehind
+        class for you. Chris’ sample was the inspiration for the VB.NET version, and it
+        implements the same codebehind over-ride logic by leveraging the Microsoft VB.NET
+        wizard infrastructure.&lt;p>
+            &lt;i>&lt;b>NOTE: If you're going to use this sample in VS.NET 2003, you need to append a
+                “.7.1” onto the Wizard = VsWizard.VsWizardEngine line in the .VSZ file located in
+                the VBProjectItems directory, other you’ll get a Wizard can’t run error in VS03
+                (and thanks to Randy Brown for pointing this out).&lt;/b>&lt;/i>&lt;/p>
+        &lt;p>
+            The following diagram is what we’ll hopefully end up with:
+            &lt;br>
+            &lt;br>
+            &lt;p>
+                &lt;img border="0" src="/public/writing/addnewitemdialog.jpg" width="531" height="392">&lt;/p>
+            &lt;h2>
+                How You Do It&lt;/h2>
+            &lt;ol>
+                &lt;li>Go to the VB7\VBProjectItems directory beneath your Microsoft Visual Studio.NET
+                    install folder. This is where you’ll add all your wizard files.&lt;br>
+                    &amp;nbsp;&lt;/li>
+                &lt;li>Create a .vsz file to configure your project item wizard. There are a bunch of others
+                    you can copy from, or you can create your own. The sample creates MyWebForm.vsz,
+                    and contains the following text:&lt;br>
+                    &lt;br>
+                    &lt;pre>VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine
+Param=&amp;quot;&lt;b>WIZARD_NAME = MyWebForm&lt;/b>&amp;quot;
+Param=&amp;quot;WIZARD_UI = FALSE&amp;quot;
+Param=&amp;quot;PROJECT_TYPE = VBPROJ&amp;quot;&lt;/pre>
+                    As with the C# sample, we’re leveraging VS.NET’s built-in COM-based VsWizardEngine
+                    to do all the work for us. Also, the wizard basically uses the &lt;b>WIZARD_NAME&lt;/b>
+                    parameter to map to the \VB7\VBWizards\&lt;wizard_name> directory that contains the template and script 
+  files used to create your project item.&lt;br>
+  &lt;br>
+  See &lt;a href="ms-help://MS.VSCC/MS.MSDNVS/vsintro7/html/vxconVSZFiles.htm">VS.NET’s 
+                MSDN&lt;/a> 
+  for more information about .vsz files.  And take a look 
+  &lt;a href="ms-help://MS.VSCC/MS.MSDNVS/vccore/html/vclrfPredefinedCustomWizardSymbols.htm">here&lt;/a> 
+  for a list of parameters you can use in the .vsz file.&lt;br>&amp;nbsp;&lt;/li>
+                &lt;li>You need to add a .vsdir file to whichever of the subfolders beneath the \VB7\VBProjectItems
+                    folder you’d like to be able to use your wizard from. Once you do this, your project
+                    item wizard will automagically appear in the “Add New Item” dialog. The MyWebForm
+                    sample adds a MyWebForm.vsdir to both the \WebProjectItems and \WebProjectItems\UI
+                    folders.&lt;br>
+                    &lt;br>
+                    &lt;b>\WebProjectItems\MyWebForm.vsdir&lt;/b> contains one line:&lt;br>
+                    &lt;br>
+                    &lt;pre>..\MyWebForm.vsz| |My Web Form|1|My Very Own Web Form|{164B10B9-B200-11D0-8C61-00A0C91E29D5}
+  |4533|0|MyWebForm.aspx&lt;/pre>
+                    &lt;b>\WebProjectItems\WebProjectItems\UI\MyWebForm.vsdir&lt;/b> contains the same line,
+                    apart from an update to the relative file path to MyWebForm.vsz:&lt;br>
+                    &lt;br>
+                    &lt;pre>..\..\MyWebForm.vsz | ...&lt;/pre>
+                    Check out &lt;a href="/7">Chris's article&lt;/a> or &lt;a 
+                        href="ms-help://MS.VSCC/MS.MSDNVS/vsintro7/html/vxconVSDirFiles.htm">VS.NET’s MSDN&lt;a/>
+                        for a discussion of the different fields declared in .vsdir files.&lt;br>
+                        &lt;br>
+                        The DLLPath and IconResourceID parameters differ from the C# sample since it appears
+                        the underlying implementation differs.&lt;br>&amp;nbsp;&lt;/li>
+                &lt;li>At this point, VS.NET can display your Wizard in the “Add New Item” dialog (.vsdir
+                    files), and you’ve told VS.NET what wizard to call, passing it the information it
+                    needs through a group of parameters (.vsz file). What you’ve got left to do is to
+                    create the templates that the wizard will use, and implement a small script that
+                    does the work of converting those templates into the MyWebForm.aspx and MyWebForm.aspx.vb
+                    (codebehind) files that are finally added to your project. As with C#, the wizard
+                    engine converts symbols like &lt;b>[! Output SAFE_CLASS_NAME]&lt;/b> into strings like
+                    &lt;b>NoClass&lt;/b>. The &lt;a href="/public/writing/MyWebFormTemplateSample.zip">sample&lt;/a> demonstrates
+                    the use of symbols in both the MyWebForm.aspx and MyWebForm.aspx.vb files.&lt;br>
+                    &lt;br>
+                    Navigate to the \VB7\VBWizards folder, which contains the VB.NET wizards. Each wizard
+                    is stored in a group of subfolders that make a home for your templates and script.
+                    The sample creates the MyWebForm folder:&lt;br>
+                    &lt;br>
+                    &lt;p>
+                        &lt;img border="0" src="/public/writing/WizardFolder.jpg" width="502" height="512">&lt;/p>
+                    MyWebForm uses two template files: MyWebForm.aspx and MyWebForm.aspx.vb, which reside
+                    in \Templates\1033. The script file, default.js, hangs out in\ Scripts\1033.&lt;br>
+                    &lt;br>
+                    &lt;b>Note:&lt;/b> You don’t need a MyWebForm.aspx.vb codebehind template. I started this
+                    exercise by copying the VB.NET default WebForm wizard template and script, changing
+                    the relevant names to MyWebForm. The \Template\1033 directory only contained the
+                    MyWebForm.aspx file. When the wizard runs, it automatically generates the codebehind
+                    class from a default codebehind template file, NewWebFormCode.vb, stored in the
+                    \VB7\DesignerTemplates folder.&lt;br>
+                    &amp;nbsp;&lt;/li>
+                &lt;li>We, however, do want to use a custom codebehind. The key to making this work lies
+                    in extending the default WebForm script to delete the auto-generated codebehind
+                    class and replace it with our own, using the same fundamental logic as the C# sample.
+                    When it comes down to it, it’s pretty simple: MyWebForm leverages functionality
+                    contained in \VB7\VBWizards\1033\common.js to make it happen. Take a look at the
+                    sample’s default.js file to see how.&lt;/li>
+            &lt;/ol>
+            &lt;h1>
+                Acknowledgements&lt;/h1>
+            &lt;p>
+                Thanks to &lt;a href="/">Chris Sells&lt;/a> for the C# solution,
+                and the chance.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/52</id>
+    <title>Software Engineer</title>
+    <updated>2002-05-22T07:00:00.000Z</updated>
+    <published>2002-05-22T07:00:00.000Z</published>
+    <summary>From Josep L Colom: Windows Forms or Web Forms? I'm convicted that Windows Form approach is more suitable for ERP solutions. And I'm convicted also that they should be open (through Web Forms) for ocasional external access.
+But... what can I convict my 'not well documented' boss?
+</summary>
+    <content type="html">&lt;h1>Software Engineer&lt;/h1>
+From Josep L Colom: Windows Forms or Web Forms?
+
+I'm convicted that Windows Form approach is more suitable for ERP solutions. And I'm convicted also that they should be open (through Web Forms) for ocasional external access.
+But ... what can I convict my 'not well documented' boss?
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12361</id>
+    <title>Mamas Don't Let Your Babies Grow Up To Be Computer Boy</title>
+    <updated>2002-05-22T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-05-22T07:00:00.000Z</published>
+    <summary>sttto &amp;quot;Mamas Don't Let Your Babies Grow Up To Be Cowboys&amp;quot; by Willie Nelson Chorus: Mama don't let your babies grow up to be computer boys Don't let them keyboard and drink at Starbucks Make 'em be doctors and lawyers and such Mamas don't let your babies grow up to be computer boys They'll always stay home and they're always alone Hackin' is all that they'll love Computer boys ain't easy to love and they're harder to hold And they'd rather give you some code than diamonds or gold Star Trek communic...</summary>
+    <content type="html">&lt;h1>Mamas Don't Let Your Babies Grow Up To Be Computer Boy&lt;/h1>
+&lt;p>&lt;i>sttto &amp;quot;Mamas Don't Let Your Babies Grow Up To Be Cowboys&amp;quot; by Willie Nelson&lt;/i>&lt;/p>&lt;p>Chorus:&lt;br>Mama don't let your babies grow up to be computer boys&lt;br>Don't let them keyboard and drink at Starbucks&lt;br>Make 'em be doctors and lawyers and such&lt;br>Mamas don't let your babies grow up to be computer boys&lt;br>They'll always stay home and they're always alone&lt;br>Hackin' is all that they'll love&lt;br>&lt;br>Computer boys ain't easy to love and they're harder to hold&lt;br>And they'd rather give you some code than diamonds or gold&lt;br>Star Trek communicators and pocket protectors&lt;br>And each night begins a new day&lt;br>And if you don't understand him and he don't ignore you&lt;br>He'll be addicted to porn&lt;br>&lt;br>Chorus&lt;br>&lt;br>A computer boy loves shiny new gadgets and four-donut mornings&lt;br>High-speed connections and trackballs and NeverWinter Nights&lt;br>Them that don't know him won't like him and them that do &lt;br>Sometimes won't know how to take him&lt;br>He's not wrong he's just different and his brain won't let him&lt;br>Do things to make you think he's right&lt;br>&lt;br>Chorus&lt;/p>&lt;p>&lt;i>Chris Sells &lt;a href="mailto:[csells@sellsbrothers.com">[csells@sellsbrothers.com&lt;/a>]&lt;br>&lt;a href="mailto:win_tech_off_topic@yahoogroups.com">win_tech_off_topic@yahoogroups.com&lt;/a>&lt;br>Wed &lt;span class="created">5/22/2002 10:55 AM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/51</id>
+    <title>Windows Forms message board</title>
+    <updated>2002-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-21T07:00:00.000Z</published>
+    <summary>GotDotNet has a message board just for WinForms programmers. </summary>
+    <content type="html">&lt;h1>Windows Forms message board&lt;/h1>
+&lt;p>GotDotNet has &lt;a href="http://www.gotdotnet.com/community/messageboard/MessageBoard.aspx?id=203">a message board just for WinForms programmers&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/49</id>
+    <title>Wonders of WinForm: State Sanity &amp; Smart Clients</title>
+    <updated>2002-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-21T07:00:00.000Z</published>
+    <summary>"I'd like to welcome you to the inaugural article of my new MSDN Online column. From the title of this column, you can probably tell two things right off. It's about Windows Forms, and it's a technology I like quite a bit. Of course, as with any technology, Windows Forms has its good points and its 'opportunities for improvement.' In this column, I'll explore the various ins and outs of Microsoft.NET as it relates to building stand-alone applications, as well as the client side of client-server and n-tier a...</summary>
+    <content type="html">&lt;h1>Wonders of WinForm: State Sanity &amp; Smart Clients&lt;/h1>
+&lt;p>"I'd like to welcome you to &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05202002.asp">the inaugural article of my new MSDN Online column&lt;/a>. From the title of this column, you can probably tell two things right off. It's about Windows Forms, and it's a technology I like quite a bit. Of course, as with any technology, Windows Forms has its good points and its 'opportunities for improvement.' In this column, I'll explore the various ins and outs of Microsoft .NET as it relates to building stand-alone applications, as well as the client side of client-server and n-tier applications."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/50</id>
+    <title>.NET Component Inspector</title>
+    <updated>2002-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-21T07:00:00.000Z</published>
+    <summary>"Have you ever wished you could explore the behavior of a component or some code without having to write any code? To watch events occur on any object and examine the history of events? To quickly try something and see how it affects the component? To look at the visual behavior of a component as you adjust not only its properties, but execute its methods? If so the nogoop.NET Component Inspector is the tool you have been seeking." </summary>
+    <content type="html">&lt;h1>.NET Component Inspector&lt;/h1>
+&lt;p>"Have you ever wished you could explore the behavior of a component or some code without having to write any code? To watch events occur on any object and examine the history of events? To quickly try something and see how it affects the component? To look at the visual behavior of a component as you adjust not only its properties, but execute its methods? If so &lt;a href="http://www.nogoop.com/products.html">the nogoop .NET Component Inspector&lt;/a> is the tool you have been seeking."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/48</id>
+    <title>Adding Ref-Counting to Rotor</title>
+    <updated>2002-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-21T07:00:00.000Z</published>
+    <summary>I've just been awarded a grant from Microsoft Research in Cambridge for "Studying the Performance and Memory Usage Effects of Adding Reference Counting to Rotor." Now we'll see whether they were right to leave ref-counting out of the CLR or not. Wahoo!</summary>
+    <content type="html">&lt;h1>Adding Ref-Counting to Rotor&lt;/h1>
+I've just been awarded a grant from Microsoft Research in Cambridge for &lt;a href="/public/tools/RotorRefCounting.doc">"Studying the Performance and Memory Usage Effects of Adding Reference Counting to Rotor."&lt;/a> Now we'll see whether they were right to leave ref-counting out of the CLR or not. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/47</id>
+    <title>Reflections on "A New Kind of Science"</title>
+    <updated>2002-05-20T07:00:00.000Z</updated>
+    <published>2002-05-20T07:00:00.000Z</published>
+    <summary>"In his remarkable new book, Stephen Wolfram asserts that cellular automata operations underlie much of the real world. He even asserts that the entire Universe itself is a big cellular-automaton computer. But Ray Kurzweil challenges the ability of these ideas to fully explain the complexities of life, intelligence, and physical phenomena."</summary>
+    <content type="html">&lt;h1>Reflections on "A New Kind of Science"&lt;/h1>
+"In his remarkable new book, Stephen Wolfram asserts that cellular automata operations underlie much of the real world. He even asserts that the entire Universe itself is a big cellular-automaton computer. But &lt;a href="http://www.kurzweilai.net/meme/frame.html?main=/articles/art0464.html?">Ray Kurzweil challenges the ability of these ideas&lt;/a> to fully explain the complexities of life, intelligence, and physical phenomena."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/46</id>
+    <title>.Net Data Provider for PostgreSQL Announced</title>
+    <updated>2002-05-20T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-20T07:00:00.000Z</published>
+    <summary>" Npgsql.Net Data Provider for PostgreSQL. It is written entirely in C#. This data provider supports the version 2.0 of PostgreSQL protocol. "It is in a very early stage. For now, just the connect/disconnect functionality is working. It parses and validate the connection string and makes the connection. "Any help, suggestion, recommendation is welcome." </summary>
+    <content type="html">&lt;h1>.Net Data Provider for PostgreSQL Announced&lt;/h1>
+&lt;p>"&lt;a href="http://gborg.postgresql.org/project/npgsql/projdisplay.php">Npgsql .Net Data Provider for PostgreSQL&lt;/a>. It is written entirely in C#. This data provider supports the version 2.0 of PostgreSQL protocol.&lt;/p>
+
+&lt;p>"It is in a very early stage. For now, just the connect/disconnect functionality is working. It parses and validate the connection string and makes the connection.&lt;/p>
+
+&lt;p>"Any help, suggestion, recommendation is welcome."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/45</id>
+    <title>JasonW on Rotor (very cool!)</title>
+    <updated>2002-05-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-18T07:00:00.000Z</published>
+    <summary>"With over 9,000 files, and including some 1300 public classes to pore through, the Shared Source CLI can teach you quite a bit about the internal workings of the CLR. But the sheer amount of source code included can make just starting your exploration a monumental task. This article discusses some of the things you can learn from the source code facsimile of the CLR, like how JIT compilation works. It will also help you understand how to control execution along with debugging and loading classes. A walk th...</summary>
+    <content type="html">&lt;h1>JasonW on Rotor (very cool!)&lt;/h1>
+"With over 9,000 files, and including some 1300 public classes to pore through, &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/07/SharedSourceCLI/default.asp">the Shared Source CLI&lt;/a> can teach you quite a bit about the internal workings of the CLR. But the sheer amount of source code included can make just starting your exploration a monumental task. This article discusses some of the things you can learn from the source code facsimile of the CLR, like how JIT compilation works. It will also help you understand how to control execution along with debugging and loading classes. A walk through the steps involved in setting up the runtime will let you become familiar with the process."</content>
+  </entry>
+</feed>

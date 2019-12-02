@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed26.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed25.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed27.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed26.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12335</id>
+    <title>&lt;h1>Null Pointers Don't Have To Be &lt;i>Dull &lt;/i>Pointers&lt;/h1></title>
+    <updated>2006-10-01T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/fun/ft061001.gif"/>
+    <category term="fun" label="Fun"/>
+    <published>2006-10-01T07:00:00.000Z</published>
+    <summary>Null Pointers Don't Have To Be Dull Pointers Posted without permission after reading it in today's paper Sun 10/01/2006 3:01pm </summary>
+    <content type="html">&lt;h1>Null Pointers Don't Have To Be &lt;i>Dull &lt;/i>Pointers&lt;/h1>
+&lt;p>&lt;a href="http://www.gocomics.com/foxtrot/2006/10/01/">
+&lt;img border="0" src="/public/fun/ft061001.gif" width="600" height="425">&lt;/a>&lt;/p>
+&lt;p>&lt;i>Posted without permission after reading
+&lt;a href="http://www.gocomics.com/foxtrot/2006/10/01/">it&lt;/a> in 
+today's paper&lt;br>
+Sun &lt;span class="created">10/01/2006 3:01pm&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2044</id>
+    <title>Horning in on Hanselminutes</title>
+    <updated>2006-09-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-09-27T07:00:00.000Z</published>
+    <summary>It took a while, but I was finally able to horn in on an episode of Hanselminutes. Thanks for having me, Scott!</summary>
+    <content type="html">&lt;h1>Horning in on Hanselminutes&lt;/h1>
+It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I was finally able to horn in on an episode of Hanselminutes&lt;/A>. Thanks for having me, Scott!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2043</id>
+    <title>Amazon Unbox -- what about my TV?</title>
+    <updated>2006-09-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-09-08T07:00:00.000Z</published>
+    <summary>I don't want to download movies via Vongo or Amazon Unbox to my PC; I want to download them to my TV and smart phone! YouTube works because the videos are short, so watching them on my PV happens right now or not at all. Any movie or TV show service that doesn't let me play the result on my media center or take it with me on my phone, I just don't care. Does anyone want to watch 30+ minutes of video sitting at their desk or staring at their lap? I don't get it... </summary>
+    <content type="html">&lt;h1>Amazon Unbox -- what about my TV?&lt;/h1>
+&lt;P>I don't want to download movies via &lt;A href="http://www.vongo.com/">Vongo&lt;/A> or &lt;A href="http://www.amazon.com/unbox">Amazon Unbox&lt;/A> to my PC; I want to download them to my TV and smart phone! &lt;A href="http://youtube.com">YouTube&lt;/A> works because the videos are short, so watching them on my PV happens right now or not at all. Any movie or TV show service that doesn't let me play the result on my media center or take it with me on my phone, I just don't care. Does anyone want to watch 30+ minutes of video sitting at their desk or staring at their lap? I don't get it...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2042</id>
+    <title>.NET 3.0 RC1 Download</title>
+    <updated>2006-09-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-09-07T07:00:00.000Z</published>
+    <summary>This one should be about done:.NET 3.0 RC1 Release Notes.NET 3.0 RC1 Framework Components.NET 3.0 RC1 SDK.NET 3.0 RC1 VS05 Tools &amp;nbsp;(including Cider ).NET 3.0 RC1 SDK online Enjoy! </summary>
+    <content type="html">&lt;h1>.NET 3.0 RC1 Download&lt;/h1>
+&lt;P>This one should be about done:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://download.microsoft.com/download/4/4/8/4487bb00-c563-4413-a931-7990b811e08f/ReleaseNotesOnline.htm">.NET 3.0 RC1 Release Notes&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=19E21845-F5E3-4387-95FF-66788825C1AF">.NET 3.0 RC1 Framework Components&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=117ecfd3-98ad-4d67-87d2-e95a8407fa86">.NET 3.0 RC1 SDK&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=935AABF9-D1D0-4FC9-B443-877D8EA6EAB8">.NET 3.0 RC1 VS05 Tools&lt;/A>&amp;nbsp;(including &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Cider.HomePage">Cider&lt;/A>)&lt;/LI>
+&lt;li>&lt;a href="http://windowssdk.msdn.microsoft.com/en-us/library/default.aspx">.NET 3.0 RC1 SDK online&lt;/a>&lt;/li>
+&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2041</id>
+    <title>Congrats To Mr. Petzold on this WPF Review</title>
+    <updated>2006-09-05T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-09-05T07:00:00.000Z</published>
+    <summary>In the world of Windows technical writing which has so much competition, there's rarely any money involved, one dreams for reviews like these from KarstenJ : " Tim Sneath walked into my office the other day and laid Charles Petzold's Applications = Code + Markup on my desk.&amp;nbsp; I'm only to Chapter 7 of 31 chapters and I am riveted.&amp;nbsp; I already have that feeling when reading a great novel when you don't want it to end.&amp;nbsp; It actually does read like a novel to me, with a narrative arch as it negotiat...</summary>
+    <content type="html">&lt;h1>Congrats To Mr. Petzold on this WPF Review&lt;/h1>
+&lt;P>In the world of Windows technical writing which has so much competition, there's rarely any money involved, one dreams for &lt;A href="http://blogs.msdn.com/karstenj/archive/2006/08/31/733708.aspx">reviews like these from KarstenJ&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;/EM>&lt;A href="http://blogs.msdn.com/tims/archive/2006/08/28/729427.aspx">&lt;EM>Tim Sneath&lt;/EM>&lt;/A>&lt;EM> walked into my office the other day and laid Charles Petzold's &lt;/EM>&lt;A href="http://www.charlespetzold.com/blog/2006/08/271145.html">&lt;EM>Applications = Code + Markup&lt;/EM>&lt;/A>&lt;EM> on my desk.&amp;nbsp; I'm only to Chapter 7 of 31 chapters and I am riveted.&amp;nbsp; I already have that feeling when reading a great novel when you don't want it to end.&amp;nbsp; It actually does read like a novel to me, with a narrative arch as it negotiates its methodical way through the WPF jungle of APIs."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Congrats, Charles.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2040</id>
+    <title>$366 PC scores 2.9 on the Vista-o-meter</title>
+    <updated>2006-08-31T07:00:00.000Z</updated>
+    <published>2006-08-31T07:00:00.000Z</published>
+    <summary>I installed the "almost" RC1 of Vista onto my $366 PC and I've finally got sound! In addition, I've got the real transparent Aero effects and playback of my.msdvr files (Media Center recorded TV shows) over the network. The "experience" scores out at only 2.9, but only 'cuz of my crappy CPU (1.67 GHz) and the video card (although it does real-time video and Aero -- what more should it do?!?). The DVD video playback worked but not the audio, which was one of very few glitches (another was that it doesn't sho...</summary>
+    <content type="html">&lt;h1>$366 PC scores 2.9 on the Vista-o-meter&lt;/h1>
+&lt;P>I installed the "almost" RC1 of Vista onto &lt;a href="/1972">my $366 PC&lt;/a> and I've finally got sound! In addition, I've got the real transparent Aero effects and playback of my .msdvr files (Media Center recorded TV shows) over the network. The "experience" scores out at only 2.9, but only 'cuz of my crappy CPU (1.67 GHz) and the video card (although it does real-time video and Aero -- what more should it do?!?). The DVD video playback worked but not the audio, which was one of very few glitches (another was that it doesn't show video on Google videos).&lt;/P>
+&lt;P>I'm running Vista Ultimate, and while I can't tell what's "ultimate" about it, it feels about time to make Vista the OS on my main computer. Certainly my sons like it on their computer, which is the real test.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2037</id>
+    <title>If it can be installed, Scott's installed it</title>
+    <updated>2006-08-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-08-30T07:00:00.000Z</published>
+    <summary>and if it's any good, we hear about it. Really, I'm just posting this link to Scott Hanselman's 2006 Ultimate Developer and Power Users Tool List for Windows here so I can find it later, but feel free to browse the list yourself, broken up into several interesting categories: Top 10 (+ 5) Life/Working-Changing Utilities A Developer's Life COM is Dead [ed: if only] XML/HTML Stuff Regular Expressions Launchers Stuff Scott Digs Low-Level Utilities Websites/Bookmarklets Tools for Bloggers Smart People's Utility...</summary>
+    <content type="html">&lt;h1>If it can be installed, Scott's installed it&lt;/h1>
+&lt;P>and if it's any good, we hear about it. Really, I'm just posting this link to &lt;A href="http://www.hanselman.com/blog/ScottHanselmans2006UltimateDeveloperAndPowerUsersToolListForWindows.aspx">Scott Hanselman's 2006 Ultimate Developer and Power Users Tool List for Windows&lt;/A> here so I can find it later, but feel free to browse the list yourself, broken up into several interesting categories:&lt;/P>
+&lt;UL>
+&lt;LI>Top 10 (+ 5) Life/Working-Changing Utilities&lt;/LI>
+&lt;LI>A Developer's Life&lt;/LI>
+&lt;LI>COM is Dead &lt;EM>[ed: if only]&lt;/EM>&lt;/LI>
+&lt;LI>XML/HTML Stuff&lt;/LI>
+&lt;LI>Regular Expressions&lt;/LI>
+&lt;LI>Launchers&lt;/LI>
+&lt;LI>Stuff Scott Digs&lt;/LI>
+&lt;LI>Low-Level Utilities&lt;/LI>
+&lt;LI>Websites/Bookmarklets&lt;/LI>
+&lt;LI>Tools for Bloggers&lt;/LI>
+&lt;LI>Smart People's Utility Pages&lt;/LI>
+&lt;LI>Alt.Lang&lt;/LI>
+&lt;LI>Browser Add-Ins&lt;/LI>
+&lt;LI>Things Windows Forgot&lt;/LI>
+&lt;LI>Outlook Add-Ins and Life Organizers&lt;/LI>
+&lt;LI>Ultimate Registry Tweaks&lt;/LI>
+&lt;LI>Windows Explorer Integration (and other integratey things)&lt;/LI>
+&lt;LI>Continuous Integration&lt;/LI>
+&lt;LI>TablePC Indispensables&lt;/LI>
+&lt;LI>ASP.NET Must Haves&lt;/LI>
+&lt;LI>Visual Studio Add-Ins&lt;/LI>&lt;/UL>
+&lt;P>Notice how just his list of &lt;EM>categories &lt;/EM>is longer than most people's &lt;EM>lists&lt;/EM>? Scott's a gem. Guaranteed you'll find something that makes your life better.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2039</id>
+    <title>USB MP3 Player + SD Card = Gadget-o-licious</title>
+    <updated>2006-08-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-30T07:00:00.000Z</published>
+    <summary>USB SD/MMC MP3 Player&amp;nbsp;+ Card Reader + S/H: $18 Kingston 1GB miniSD Card + S/H: $19 (at the time) Being able to listen to Teenage Dirtbag on the same device that I can use as a 1GB USB HD and SD, mini-SD, MMC, RS-MMC and T-FLASH reader/writer: $37 (duh -- $18 + $19 -- you thought I was going to say "priceless" didn't you?) The sound quality ain't that great, but don't criticize the dog for being off key... </summary>
+    <content type="html">&lt;h1>USB MP3 Player + SD Card = Gadget-o-licious&lt;/h1>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.usbgeek.com/prod_detail.php?prod_id=0528">USB SD/MMC MP3 Player&amp;nbsp;+ Card Reader&lt;/A> + S/H: &lt;STRONG>$18&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;A href="http://www.newegg.com/Product/Product.asp?Item=N82E16820134021">Kingston 1GB miniSD Card&lt;/A> + S/H: &lt;STRONG>$19&lt;/STRONG> (at the time)&lt;/LI>
+&lt;LI>Being able to listen to &lt;A href="http://www.azlyrics.com/lyrics/wheatus/teenagedirtbag.html">Teenage Dirtbag&lt;/A> on the same device that I can use as a 1GB USB HD and SD, mini-SD, MMC, RS-MMC and T-FLASH reader/writer: &lt;STRONG>$37&lt;/STRONG> (duh -- $18 + $19 -- you thought I was going to say "priceless" didn't you?)&lt;/LI>&lt;/UL>
+&lt;P>The sound quality ain't that great, but don't criticize the dog for being off key...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2038</id>
+    <title>Develop Games For Your Xbox 360</title>
+    <updated>2006-08-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-30T07:00:00.000Z</published>
+    <summary>The Microsoft XNA Game Studio Express (Beta) is available for download: " XNA Game Studio Express enables individuals and small teams to more easily create video games using new, optimized cross-platform gaming libraries for Windows and Xbox 360. This beta release targets the development of games for Windows. The final version of XNA Game Studio Express will be available this holiday season and will enable development of games which target Windows and upon purchase of a XNA Creators Club subscription, the X...</summary>
+    <content type="html">&lt;h1>Develop Games For Your Xbox 360&lt;/h1>
+&lt;P>The &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=21E979E3-B8AE-4EA6-8E65-393EA7684D6C">Microsoft XNA Game Studio Express (Beta)&lt;/A> is available for download:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;SPAN>XNA Game Studio Express enables individuals and small teams to more easily create video games using new, optimized cross-platform gaming libraries for Windows and Xbox 360. This beta release targets the development of games for Windows. The final version of XNA Game Studio Express will be available this holiday season and will enable development of games which target Windows and upon purchase of a XNA Creators Club subscription, the Xbox 360 as well."&lt;/SPAN>&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>&lt;SPAN>Has any other console vendor every let an individual develop games?&lt;/SPAN>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2036</id>
+    <title>100,000 downloaders get pre-RC1 Vista</title>
+    <updated>2006-08-29T07:00:00.000Z</updated>
+    <published>2006-08-29T07:00:00.000Z</published>
+    <summary>If you're interested in the "same build (5536) released last week to Technical Beta and TAP customers" (according to Shawn Van Ness ), you and 99,999 of your closest friends can download the pre-RC1 of Vista.</summary>
+    <content type="html">&lt;h1>100,000 downloaders get pre-RC1 Vista&lt;/h1>
+If you're interested in the "same build (5536) released last week to Technical Beta and TAP customers" (according to &lt;A href="http://groups.yahoo.com/group/win_tech_off_topic/message/49093">Shawn Van Ness&lt;/A>), you and 99,999 of your closest friends can &lt;A href="http://download.windowsvista.com/preview/prerc1/en/download.html">download the pre-RC1 of Vista&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2035</id>
+    <title>Wikipedia has an open enrollment day...</title>
+    <updated>2006-08-28T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-28T07:00:00.000Z</published>
+    <summary>Right there next to Don Box, Jeffrey Richter, Robert Scoble, Charles Petzold, Keith Brown &amp;nbsp;is the Chris Sells Wikipedia page. There aren't any pictures (not this one or this one or even this one ), the&amp;nbsp; blog,&amp;nbsp; articles and tools aren't listed and nobody's mentioned the interview questions, but it's there. I'd like to thank the academy...</summary>
+    <content type="html">&lt;h1>Wikipedia has an open enrollment day...&lt;/h1>
+Right there next to &lt;A href="http://en.wikipedia.org/wiki/Don_Box">Don Box&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Jeffrey_Richter">Jeffrey Richter&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Robert_Scoble">Robert Scoble&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Charles_Petzold">Charles Petzold&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Keith_Brown">Keith Brown&lt;/A>&amp;nbsp;is &lt;A href="http://en.wikipedia.org/wiki/Chris_Sells">the Chris Sells Wikipedia page&lt;/A>. There aren't any pictures (not &lt;A HREF="/public/services/dotnetWonder.jpg">this one&lt;/A> or &lt;A HREF="/public/services/vikingme.JPG">this one&lt;/A> or even &lt;A HREF="/public/fun/centerfold/">this one&lt;/A>), the&amp;nbsp;&lt;A HREF="/">blog&lt;/A>,&amp;nbsp;&lt;A HREF="/writing">articles&lt;/A> and &lt;A HREF="/tools">tools&lt;/A> aren't listed and nobody's mentioned &lt;A href="/tagged/interview">the interview questions&lt;/A>, but it's there. I'd like to thank the academy...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2034</id>
+    <title>Fun Presentation</title>
+    <updated>2006-08-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-27T07:00:00.000Z</published>
+    <summary>In massive writing avoidance mode, I found my way to Seth Godin (who I don't know from Adam) doing a great presentation on stuff that's broken at Gel 2006 (I conference I've never heard of) as a way to promote his site. I found the presentation itself at Presentation Zen, when I read about in Guy Kawasi's essay on The 10/20/30 Rule of PowerPoint, which I found on the sidebar of the Startup Success 2006, which I got to from the Churchill Club web site. &amp;nbsp; I can't for the life of me remember how I got to ...</summary>
+    <content type="html">&lt;h1>Fun Presentation&lt;/h1>
+In massive writing avoidance mode, I found my way to Seth Godin (who I don't know from Adam) doing &lt;A href="http://video.google.com/videoplay?docid=-4101280286098310645&amp;amp;hl=en">a great presentation on stuff that's broken&lt;/A> at Gel 2006 (I conference I've never heard of) as a way to promote &lt;A href="http://www.thisisbroken.com/">his site&lt;/A>. I found the presentation itself at &lt;A href="http://www.presentationzen.com/">Presentation Zen&lt;/A>, when I read about in Guy Kawasi's essay on &lt;A href="http://blog.guykawasaki.com/2005/12/the_102030_rule.html">The 10/20/30 Rule of PowerPoint&lt;/A>, which I found on the sidebar of &lt;A href="http://blog.guykawasaki.com/2006/08/startup_success.html">the Startup Success 2006&lt;/A>, which I got to from &lt;A href="http://www.churchillclub.org/">the Churchill Club web site&lt;/A>.&lt;EM>&amp;nbsp;&lt;/EM>I can't for the life of me remember how I got to the Churchill Club web site, but it killed a lot of time (did I mention I was in writing&amp;nbsp;avoidance mode?).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2033</id>
+    <title>Windows Live WiFi Beta</title>
+    <updated>2006-08-25T07:00:00.000Z</updated>
+    <published>2006-08-25T07:00:00.000Z</published>
+    <summary>The Windows Live team has posted their WiFi beta and they'd love it if you checked it out. I already love the HotSpot Locator (there are lots of free hot spots in my neighborhood I didn't know about!) and are working on a security blanket for unprotected hot spots as well as a bunch of other WiFi related stuff. Check it out! </summary>
+    <content type="html">&lt;h1>Windows Live WiFi Beta&lt;/h1>
+&lt;A href="http://nowires.spaces.live.com/blog/cns!EDD6EACF144AB1A0!106.entry">The Windows Live team has posted their WiFi beta&lt;/A> and they'd love it if you checked it out. I already love &lt;A href="http://hotspot.live.com/web/SearchView.aspx">the HotSpot Locator&lt;/A> (there are lots of free hot spots in my neighborhood I didn't know about!) and are working on a security blanket for unprotected hot spots as well as a bunch of other WiFi related stuff. &lt;A href="http://nowires.spaces.live.com/blog/cns!EDD6EACF144AB1A0!106.entry">Check it out!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2032</id>
+    <title>I listen to one podcast: HanselMinutes</title>
+    <updated>2006-08-23T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-23T07:00:00.000Z</published>
+    <summary>Scott created his podcast with the idea of not wasting his listeners' time and he's done it. HanselMinutes is the only podcast I listen to. In fact, I prepared for&amp;nbsp;a long car drive by filling my phone w/ episodes I hadn't hear yet and listened all the way (except when I called Scott to complain about one of them : ). Not only does Scott have a fabulous list of topics for the Windows developer, but the way he explains them is wonderful, too. I don't know where the guy finds the time to do all the stuff ...</summary>
+    <content type="html">&lt;h1>I listen to one podcast: HanselMinutes&lt;/h1>
+&lt;P>Scott created his podcast with the idea of not wasting his listeners' time and he's done it. &lt;A href="http://www.hanselminutes.com/">HanselMinutes&lt;/A> is the only podcast I listen to. In fact, I prepared for&amp;nbsp;a long car drive by filling my phone w/ episodes I hadn't hear yet and listened all the way (except when I called Scott to complain about one of them : ).&lt;/P>
+&lt;P>Not only does Scott have a fabulous list of topics for the Windows developer, but the way he explains them is wonderful, too. I don't know where the guy finds the time to do all the stuff he talks about; I'm jealous!&lt;/P>
+&lt;P>In fact, I'm so enamored of his show, I've been trying to horn my way onto an episode (and not just 'cuz &lt;A href="http://www.hanselminutes.com/default.aspx?showID=34">he had very nice things to say about me recently&lt;/A> [19:53&amp;nbsp;- 21:12]). I'm keeping my fingers crossed, but either way, if you only listen to one podcaster this year, it should be &lt;A href="http://www.hanselminutes.com/">Scott&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2030</id>
+    <title>The Internet Is a Meritocracy</title>
+    <updated>2006-08-18T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-08-18T07:00:00.000Z</published>
+    <summary>It's easy to think that if you're already got a high page rank in google, that you'll get more than your far share of traffic, polarizing the internet into a small number of sites that get all the hits. Luckily, according to " Topical interests and the mitigation of search engine bias," published in the Proceedings of the National Academy of Sciences, that's not the case: "Our result has relevant conceptual and practical consequences; it suggests that, contrary to intuition and prior hypotheses, the use of ...</summary>
+    <content type="html">&lt;h1>The Internet Is a Meritocracy&lt;/h1>
+&lt;P>It's easy to think that if you're already got a high page rank in google, that you'll get more than your far share of traffic, polarizing the internet into a small number of sites that get all the hits. Luckily, according to "&lt;A href="http://www.pnas.org/cgi/content/abstract/0605525103v1">Topical interests and the mitigation of search engine bias&lt;/A>," published in &lt;A href="http://www.pnas.org/">the Proceedings of the National Academy of Sciences&lt;/A>, that's not the case:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Our result has relevant conceptual and practical consequences; it suggests that, contrary to intuition and prior hypotheses, the use of search engines contributes to a more level playing field in which new sites have a greater chance of being discovered and thus of acquiring links and popularity, as long as they are about specific topics that match the interests of users as expressed through their search queries."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>In other words, if you've got something relevant to say, the folks that care will find it. Yet again, letting the internet decide yields the best result.&lt;/P>
+&lt;P>Source: &lt;A href="http://arstechnica.com/news.ars/post/20060817-7532.html">Is there a googlearchy?&lt;/A>&lt;/P></content>
+  </entry>
+</feed>

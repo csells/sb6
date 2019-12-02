@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed17.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed16.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed18.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed17.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2176</id>
+    <title>Anyone know anyone in the TV industry?</title>
+    <updated>2008-03-17T07:00:00.000Z</updated>
+    <published>2008-03-17T07:00:00.000Z</published>
+    <summary>Don turned me onto the Walking Dead series of "graphic novels" (I'm too proud to call them "comic books!") and I loved them. I read volumes 1-4 in one day when I should've been doing other things. Don thinks that they're good enough for a Lost-esque style 10pm cable TV show and I agree. The interplay of characters and watching them fall apart under the pressure is fascinating. The zombies are there, but it's mostly a background thing, like IRS agents when you forget to include the check (I wrote it! I swear...</summary>
+    <content type="html">&lt;h1>Anyone know anyone in the TV industry?&lt;/h1>
+&lt;P>&lt;A href="http://www.pluralsight.com/blogs/dbox/default.aspx">Don&lt;/A> turned me onto &lt;A href="http://www.amazon.com/Walking-Dead-Days-Gone-Bye/dp/1582403589">the Walking Dead series of "graphic novels"&lt;/A> (I'm too proud to call them "comic books!") and I loved them. I read volumes 1-4 in one day when I should've been doing other things.&lt;/P>
+&lt;P>Don thinks that they're good enough for a Lost-esque style 10pm cable TV show and I agree. The interplay of characters and watching them fall apart under the pressure is fascinating. The zombies are there, but it's mostly a background thing, like IRS agents when you forget to include the check (I wrote it! I swear I did!).&lt;/P>
+&lt;P>Anyone know anyone that needs the story for a new TV show? We'd watch and buy tons of advertisers' products!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2175</id>
+    <title>Do you want to host the WF workflow and rules designer?</title>
+    <updated>2008-03-14T07:00:00.000Z</updated>
+    <published>2008-03-14T07:00:00.000Z</published>
+    <summary>If so, fill in this survey and tell the WF team what you want. They *really* want to know.</summary>
+    <content type="html">&lt;h1>Do you want to host the WF workflow and rules designer?&lt;/h1>
+If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_Rules_Designer_Rehosting_Blogs">fill in this survey and tell the WF team what you want&lt;/A>. They *really* want to know.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2174</id>
+    <title>On Beyond Unit Testing</title>
+    <updated>2008-03-08T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2008-03-08T08:00:00.000Z</published>
+    <summary>Quetzal Bradley is a software development engineer (SDE) on my team with *tons* of experience in all manner of infrastructure stuff including the requirements of real-world software testing from the trenches at Microsoft. Q gave a talk about what comes after unit testing to my team and I was blown away, so I sent him to tell Scott about it so that you could hear it, too. Enjoy. </summary>
+    <content type="html">&lt;h1>On Beyond Unit Testing&lt;/h1>
+&lt;P>Quetzal Bradley is a software development engineer (SDE) on my team with *tons* of experience in all manner of infrastructure stuff including the requirements of real-world software testing from the trenches at Microsoft.&lt;/P>
+&lt;P>Q gave a talk about what comes after unit testing to my team and I was blown away, so I sent him to tell Scott about it so that &lt;A href="http://www.hanselminutes.com/default.aspx?showID=121">you could hear it, too&lt;/A>.&lt;/P>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2173</id>
+    <title>My Favorite Blog: Scott's computerzen.com</title>
+    <updated>2008-03-04T08:00:00.000Z</updated>
+    <published>2008-03-04T08:00:00.000Z</published>
+    <summary>If I have time to read the web, I go to digg.com first, computerzen.com second and very little after that. Just this morning, I enjoyed Six Months in the Inside - Am I evil yet?, Amazon Kindle &amp;nbsp;and LINQ to Everything - LINQ to XSD adds more LINQiness. The Kindle review was especially enlightening because it was the first one I've read that actually a) covered the stuff I care about and b) pushed me off the fence about whether I want one (I do!). </summary>
+    <content type="html">&lt;h1>My Favorite Blog: Scott's computerzen.com&lt;/h1>
+&lt;P>If I have time to read the web, I go to &lt;A href="http://digg.com">digg.com&lt;/A> first, &lt;A href="http://computerzen.com">computerzen.com&lt;/A> second and very little after that.&lt;/P>
+&lt;P>Just this morning, I enjoyed &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/SixMonthsInTheInsideAmIEvilYet.aspx" rel=bookmark>&lt;FONT color=#72412c>Six Months in the Inside - Am I evil yet?&lt;/FONT>&lt;/A>, &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/AmazonKindle.aspx" rel=bookmark>&lt;FONT color=#72412c>Amazon Kindle&lt;/FONT>&lt;/A>&amp;nbsp;and &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/LINQToEverythingLINQToXSDAddsMoreLINQiness.aspx" rel=bookmark>&lt;FONT color=#72412c>LINQ to Everything - LINQ to XSD adds more LINQiness&lt;/FONT>&lt;/A>. The Kindle review was especially enlightening because it was the first one I've read that actually a) covered the stuff I care about and b) pushed me off the fence about whether I want one (I do!).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2172</id>
+    <title>Programming WPF: "Programming Book of the Decade"</title>
+    <updated>2008-03-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-03-03T08:00:00.000Z</published>
+    <summary>*blush* </summary>
+    <content type="html">&lt;h1>Programming WPF: "Programming Book of the Decade"&lt;/h1>
+&lt;P>&lt;A href="http://www.amazon.com/review/R2ORK7Y8N3HUMZ/ref=cm_cr_rdp_perm">*blush*&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2171</id>
+    <title>Programming WPF enters 2nd printing!</title>
+    <updated>2008-02-21T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-02-21T08:00:00.000Z</published>
+    <summary>Wahoo! You love us, you really love us! : ) When a book goes to another printing, 100% of the time, there's a list of "errata" (aka "mistakes") that are fixed in the new printing. In this case, neither Ian nor I have any fixes to apply. So, it's official -- the book is perfect! : ) Thanks for reading. </summary>
+    <content type="html">&lt;h1>Programming WPF enters 2nd printing!&lt;/h1>
+&lt;P>Wahoo! &lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">You love us, you really love us!&lt;/A> : )&lt;/P>
+&lt;P>When a book goes to another printing, 100% of the time, there's a list of "errata" (aka "mistakes") that are fixed in the new printing. In this case, neither Ian nor I have any fixes to apply. So, it's official -- the book is perfect! : )&lt;/P>
+&lt;P>Thanks for reading.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2170</id>
+    <title>Bridging object models: the faux-object idiom</title>
+    <updated>2008-02-20T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-02-20T08:00:00.000Z</published>
+    <summary>My 1997 master's thesis came online today (he says, trying not to flinch). Here's the abstract: Microsoft's Component Object Model (COM) is the dominant object model for the Microsoft Windows family of operating systems. COM encourages each object to support several views of itself, i.e. interfaces. Each interface represents a collection of logically related functions. A COM object is not allowed to expose multiple interfaces using multiple inheritance, however, as some languages do not support it and those...</summary>
+    <content type="html">&lt;h1>Bridging object models: the faux-object idiom&lt;/h1>
+&lt;P>&lt;A href="http://content.ohsu.edu/cdm4/item_viewer.php?CISOROOT=/etd&amp;amp;CISOPTR=281">My 1997 master's thesis&lt;/A> came online today (he says, trying not to flinch). Here's the abstract:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>Microsoft's Component Object Model (COM) is the dominant object model for the Microsoft Windows family of operating systems. COM encourages each object to support several views of itself, i.e. interfaces. Each interface represents a collection of logically related functions. A COM object is not allowed to expose multiple interfaces using multiple inheritance, however, as some languages do not support it and those that do are not guaranteed to do so in a binary-compatible way. Instead, an object exposes interfaces via a function called QueryInterface(). An object implements QueryInterface() to allow a client to ask what other interfaces the object supports at run-time. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>This run-time type discovery scheme has three important characteristics. One, it allows an object to add additional functionality at a later date without disturbing functionality expected by an existing client. Two, it provides for language-independent polymorphism. Any object that supports a required interface can be used in a context that expects that interface. Three, it provides an opportunity for the client to degrade gracefully should an object not support requested functionality. For example, the client may request an alternate interface, ask for guidance from the user or simply continue without the requested functionality. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>COM attempts to provide its services in as efficient a means as possible. For example, when an object server shares the same address space as its client, the client calls the functions of the object directly with no third-party intervention and no more overhead than calling a virtual function in C+ +. However, when using COM with some programming languages, this efficiency has a price: language integration. COM does not integrate well with a close-to-the-metal language like C+ +. In many ways COM was designed to look and act just like C + + , but C + + provides its own model of polymorphism, object lifetime control, object identity and type discovery. Of course: since C+ + is not language-independent or location transparent. it was designed differently. Because of these contrasting design goals, a C+ + programmer using COM often has a hard time reconciling the differences between the two object models. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>To bridge the two object models, I have developed an abstraction for this purpose that I call a faux-object class. In this thesis, I illustrate the use of a specific instance of the faux-object idiom to provide an object model bridge for COM that more closely integrates with C+ +. By bundling several required interfaces together on the client side, a faux-object class provides the union of the operations of those interfaces, just as if we were allowed to use multiple inheritance in COM. By managing the lifetime of the COM object in the faux-object's constructor and destructor, it maps the lifetime control scheme of C+ + onto COM. And by using C+ + inline functions, a faux-object can provide most of these advantages with little or no additional run-time or memory overhead. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>COM provides a standard Interface Definition Language (IDL) to unambiguously describe COM interfaces. Because IDL is such a rich description language, and because faux-object classes are well defined, I was able to build a tool to automate the generation of faux-object classes for the purpose of bridging the object models of COM and C+ +. This tool was used to generate several faux-object classes to test the usefulness of the faux-object idiom. &lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2169</id>
+    <title>.NET Source Code Mass Downloader</title>
+    <updated>2008-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2008-02-06T08:00:00.000Z</published>
+    <summary>On 1/16/08, Microsoft announced the ability to download some of the.NET Framework source code for debugging. This download process was only supported inside of a properly configured Visual Studio 2008. 21 Days Later: Kerem Kusmezer and John Robbins &amp;nbsp;released a tool to download the source code en mass. Frankly, I'm surprised it took so long. : ) </summary>
+    <content type="html">&lt;h1>.NET Source Code Mass Downloader&lt;/h1>
+&lt;P>On 1/16/08, Microsoft announced the ability to &lt;A href="http://blogs.msdn.com/sburke/archive/2008/01/16/configuring-visual-studio-to-debug-net-framework-source-code.aspx">download some of the .NET Framework source code for debugging&lt;/A>. This download process was only supported inside of a properly configured Visual Studio 2008.&lt;/P>
+&lt;P>21 Days Later: &lt;A href="http://www.kodyaz.com/blogs/unknown_tales_from_kerem/default.aspx">Kerem Kusmezer&lt;/A> and &lt;A href="http://www.wintellect.com/cs/blogs/jrobbins/default.aspx">John Robbins&lt;/A>&amp;nbsp;released &lt;A href="http://www.codeplex.com/NetMassDownloader">a tool to download the source code en mass&lt;/A>. Frankly, I'm surprised it took so long. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2168</id>
+    <title>I woke up today and decided to win the lottery</title>
+    <updated>2008-02-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2008-02-01T08:00:00.000Z</published>
+    <summary>And so I did the only thing I could to do increase my odds -- I actually played the lottery. (I blame my inability to apply this strategy for my lottery losings in the past.) I did a little research and then went to two local Plaid Pantries to purchase the Oregon Lottery "Trio." At the first Plaid Pantry, an thin, stringy haired older lady behind the counter blinked in surprise when she saw me and then laughed to herself. "I just saw your geek pin. It's so subtle... geek..." she said. "I wish I would've pai...</summary>
+    <content type="html">&lt;h1>I woke up today and decided to win the lottery&lt;/h1>
+&lt;P>And so I did the only thing I could to do increase my odds -- I actually &lt;EM>played &lt;/EM>the lottery. (I blame my inability to apply this strategy for my lottery losings in the past.)&lt;/P>
+&lt;P>I did a little research and then went to two local Plaid Pantries to purchase the Oregon Lottery "Trio."&lt;/P>
+&lt;P>At the first Plaid Pantry, an thin, stringy haired older lady behind the counter blinked in surprise when she saw me and then laughed to herself.&lt;/P>
+&lt;P>"I just saw your geek pin. It's so subtle... geek..." she said. "I wish I would've paid more attention to geeks when I was growing up. I only paid attention to the rockers."&lt;/P>
+&lt;P>"Well, that's pretty common," I said.&lt;/P>
+&lt;P>"But they're dumb and self-centered!"&lt;/P>
+&lt;P>"Yeah, but they get all the girls..."&lt;/P>
+&lt;P>"Well, I'm not a girl anymore and I prefer nerds. They're more stimulating!"&lt;/P>
+&lt;P>"Well," I said. "On behalf of the geek community, thank you."&lt;/P>
+&lt;P>She smiled, handed me my tickets and I left proud of my geek heritage.&lt;/P>
+&lt;P>At the second Plaid Pantry, a crowd had formed at the front desk. I got to the front of the line and a little old lady with a plastic tiara was cutting into a homemade chocolate fudge cake. The lady behind the counter said, "It's her birthday! And we love her!"&lt;/P>
+&lt;P>"Your birthday!" I said.&lt;/P>
+&lt;P>The birthday girl said, "Yep, don't you see my 65-year-old birthday crown?"&lt;/P>
+&lt;P>"Lovely," I said. "Happy birthday!"&lt;/P>
+&lt;P>The lady behind the counter said, "Well, no one was going to make a cake, so I did. That oughta be against the law."&lt;/P>
+&lt;P>I agreed and placed my Trio order. On the way out, I was happy to have been even a short part of that woman's birthday at the local convenience store where she was loved.&lt;/P>
+&lt;P>I decided to walk across the street to the locally owned coffee shop, tucked away off the main streets, fighting for survival against the Starbucks juggernaut. I walked in, said good morning to Ju, the owner and proprietor, who immediate started making my standard order. I haven't been there for months, but he still remembered what I wanted.&lt;/P>
+&lt;P>It's already been a good day. Think how much better it'll be after they announce my winning numbers? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2167</id>
+    <title>Poetry Proclivities</title>
+    <updated>2008-01-30T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2008-01-30T08:00:00.000Z</published>
+    <summary>I'm not a big poetry fan in general, but notable exceptions are Poe's The Raven (especially the Simpson's version), Dr. Seuss and Shel Silverstein. However, I have to admit a certain fondness for the lowly limerick. I've done some composing, but the subject matter is often not something I'd want to post on my blog ("Hi, Mom!"), so when I ran into the rare clean one, I had to share: A Limerick packs laughs anatomical In a space that is quite economical But the good ones we've seen Very seldom are clean And t...</summary>
+    <content type="html">&lt;h1>Poetry Proclivities&lt;/h1>
+&lt;P>I'm not a big poetry fan in general, but notable exceptions are Poe's The Raven (especially the Simpson's version), Dr. Seuss and Shel Silverstein.&lt;/P>
+&lt;P>However, I have to admit a certain fondness for the lowly limerick. I've done some composing, but the subject matter is often not something I'd want to post on my blog ("Hi, Mom!"), so when I ran into &lt;A href="http://en.wikipedia.org/wiki/Limerick_(poetry)">the rare clean one&lt;/A>, I had to share:&lt;/P>
+&lt;P>A Limerick packs laughs anatomical&lt;BR>In a space that is quite economical&lt;BR>But the good ones we've seen&lt;BR>Very seldom are clean&lt;BR>And the clean ones so seldom are comical&lt;/P>
+&lt;P>I've seen &lt;a href="/12362">geek poetry&lt;/A>, &lt;a href="/12359">geek activities as song parodies&lt;/A>, &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=367997#367997">programs as songs (genius!)&lt;/A>, but I've never seen a geek limerick. Got any?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2166</id>
+    <title>Configuring VS08 to Debug .NET Framework Source</title>
+    <updated>2008-01-18T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2008-01-18T08:00:00.000Z</published>
+    <summary>Shawn Burke has released the details to set up VS08 to debug into the.NET Framework source code, including the following assemblies: mscorlib.DLL System.DLL System.Data.DLL System.Drawing.DLL System.Web.DLL System.Web.Extensions.DLL System.Windows.Forms.DLL System.XML.DLL WPF (UIAutomation*.dll, System.Windows.DLL, System.Printing.DLL, System.Speech.DLL, WindowsBase.DLL, WindowsFormsIntegration.DLL, Presentation*.dll, some others) Microsoft.VisualBasic.DLL Others are coming. Thanks, Shawn! </summary>
+    <content type="html">&lt;h1>Configuring VS08 to Debug .NET Framework Source&lt;/h1>
+&lt;P>Shawn Burke has released &lt;A href="http://blogs.msdn.com/sburke/archive/2008/01/16/configuring-visual-studio-to-debug-net-framework-source-code.aspx">the details to set up VS08 to debug into the .NET Framework source code&lt;/A>, including the following assemblies:&lt;/P>
+&lt;UL>
+&lt;LI>mscorlib.DLL&lt;/LI>
+&lt;LI>System.DLL&lt;/LI>
+&lt;LI>System.Data.DLL&lt;/LI>
+&lt;LI>System.Drawing.DLL&lt;/LI>
+&lt;LI>System.Web.DLL&lt;/LI>
+&lt;LI>System.Web.Extensions.DLL&lt;/LI>
+&lt;LI>System.Windows.Forms.DLL&lt;/LI>
+&lt;LI>System.XML.DLL&lt;/LI>
+&lt;LI>WPF (UIAutomation*.dll, System.Windows.DLL, System.Printing.DLL, System.Speech.DLL, WindowsBase.DLL, WindowsFormsIntegration.DLL, Presentation*.dll, some others)&lt;/LI>
+&lt;LI>Microsoft.VisualBasic.DLL &lt;/LI>&lt;/UL>
+&lt;P>Others are coming. Thanks, Shawn!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2165</id>
+    <title>Bookscan says "Programming WPF" is #3 .NET book!</title>
+    <updated>2008-01-17T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-01-17T08:00:00.000Z</published>
+    <summary>Wahoo! </summary>
+    <content type="html">&lt;h1>Bookscan says "Programming WPF" is #3 .NET book!&lt;/h1>
+&lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Wahoo!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2164</id>
+    <title>WPF Book Easter Egg</title>
+    <updated>2008-01-08T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-01-08T08:00:00.000Z</published>
+    <summary>Does anyone have both the Anderson WPF book and the Griffiths/Sells WPF book? If so, have you read Don's forewords in both books?</summary>
+    <content type="html">&lt;h1>WPF Book Easter Egg&lt;/h1>
+Does anyone have both the Anderson WPF book and the Griffiths/Sells WPF book? If so, have you read Don's forewords in both books?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2163</id>
+    <title>The Annotated Turing!</title>
+    <updated>2008-01-06T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-01-06T08:00:00.000Z</published>
+    <summary>I just saw that Mr. Petzold is re-publishing the paper that started computer science and annotating it so that even I can understand it. I can't wait!</summary>
+    <content type="html">&lt;h1>The Annotated Turing!&lt;/h1>
+I just saw that Mr. Petzold is &lt;A href="http://www.charlespetzold.com/AnnotatedTuring/">re-publishing the paper that started computer science and annotating it&lt;/A> so that even I can understand it. I can't wait!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2162</id>
+    <title>Time for some anti-social networking</title>
+    <updated>2008-01-05T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-01-05T08:00:00.000Z</published>
+    <summary>OK, just after all my friends are on FaceBook, now I'm getting the requests to join Spock.com. I don't know what Spock.com is, but after the address-book thingie, MySpace, the high school alumni thingie, Friendster (?), the Google ork-something, the business thingie and most recently FaceBook, I'm all done. All I ever do on these sites is approve friends requests! Isn't there supposed to be some value to it other than that? Oh, sure, I've had a few messages from people I haven't heard from in a while, but e...</summary>
+    <content type="html">&lt;h1>Time for some anti-social networking&lt;/h1>
+&lt;P>OK, just after all my friends are on FaceBook, now I'm getting the requests to join Spock.com. I don't know what Spock.com is, but after the address-book thingie, MySpace, the high school alumni thingie, Friendster (?), the Google ork-something, the business thingie and most recently FaceBook, I'm all done. All I ever do on these sites is approve friends requests! Isn't there supposed to be some value to it other than that?&lt;/P>
+&lt;P>Oh, sure, I've had a few messages from people I haven't heard from in a while, but email works for that. In fact, email works for a helluva lot of the internet apps I see today. Plus, most of them just forward&amp;nbsp;web form results to my email anyway!&amp;nbsp;Why do I need a whole other thing when I've already got all my friends listed in my address book?&lt;/P>
+&lt;P>&lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>I declare the social network backlash officially started!&lt;/FONT>&lt;/EM>&lt;/STRONG>&lt;/P>
+&lt;P>From now on, I'm going to be doing some &lt;STRONG>anti-social networking &lt;/STRONG>around the ol' Casa de' Sells. If you want me, you know my email addresses,&amp;nbsp;how to post comments on my blog&amp;nbsp;and my phone number. That should be enough.&lt;/P>
+&lt;P>"*cough* When I was a boy, we didn't have these fancy social networks. *cough* *cough* We had email and we were happy to have it!"&lt;/P>
+&lt;P>"Yes, Grandpa. Shhhh...."&lt;/P></content>
+  </entry>
+</feed>

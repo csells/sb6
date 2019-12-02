@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed93.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed92.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed94.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed93.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1102</id>
+    <title>Longhorn Foghorn: A Journey of a Thousand Miles</title>
+    <updated>2004-02-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-10T08:00:00.000Z</published>
+    <summary>"A journey of a thousand miles starts with a single step." Unknown (to me : ) In this installment of the Longhorn Foghorn, I start my Longhorn implementation of the venerable Windows Solitaire. There is no interesting code yet, but I have explored some of the same decisions any developer will face when starting their first Longhorn application from scratch. Enjoy.</summary>
+    <content type="html">&lt;h1>Longhorn Foghorn: A Journey of a Thousand Miles&lt;/h1>
+&lt;P>&lt;EM>"A journey of a thousand miles starts with a single step."&lt;BR>Unknown (to me : )&lt;/EM>&lt;/P>  &lt;P>In &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnfoghorn/html/foghorn02112004.asp">this installment of the Longhorn Foghorn&lt;/a>, I start my Longhorn implementation of the venerable Windows Solitaire. There is no interesting code yet, but I have explored some of the same decisions any developer will face when starting their first Longhorn application from scratch. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1101</id>
+    <title>Custom Avalon Spell-Checked TextBox Control</title>
+    <updated>2004-02-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-09T08:00:00.000Z</published>
+    <summary>Ryan's at it again, this time with a custom Avalon control that adds spell-checking to the built in TextBox control.</summary>
+    <content type="html">&lt;h1>Custom Avalon Spell-Checked TextBox Control&lt;/h1>
+Ryan's at it again, this time with &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/02/09/2451.aspx">a custom Avalon control that adds spell-checking to the built in TextBox control&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1100</id>
+    <title>Hook into Windows Error Reporting</title>
+    <updated>2004-02-08T08:00:00.000Z</updated>
+    <published>2004-02-08T08:00:00.000Z</published>
+    <summary>You know that dialog that comes up when an app crashes and asks you if you'd like to send the error report to MS? You probably know that MS uses this information extensively to track down issues with their own software. You probably don't know that as an ISV, you can sign up to retrieve this data for your own apps, provide custom error messages and/or resolutions to your customers that report these errors and even write code to put customized information into these errors. And, to the best of my knowledge, ...</summary>
+    <content type="html">&lt;h1>Hook into Windows Error Reporting&lt;/h1>
+You know that dialog that comes up when an app crashes and asks you if you'd like to send the error report to MS? You probably know that MS uses this information extensively to track down issues with their own software. You probably don't know that as an ISV, &lt;A href="https://winqual.microsoft.com/help/wer_help/dev.aspx">you can sign up to retrieve this data for your own apps&lt;/A>, provide custom error messages and/or resolutions to your customers that report these errors and even write code to put customized information into these errors. And, to the best of my knowledge, it don't cost nuthin'.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1099</id>
+    <title>Scoble Interviews on MS's Longhorn Search Plans</title>
+    <updated>2004-02-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-08T08:00:00.000Z</published>
+    <summary>Here. Robert Scoble, Longhorn Evangelist at Microsoft, is interviewed on Microsoft' search engine plans, including those provided in Longhorn by WinFS. Take this with a grain of salt like all advance info on Longhorn, but interesting nonetheless.</summary>
+    <content type="html">&lt;h1>Scoble Interviews on MS's Longhorn Search Plans&lt;/h1>
+&lt;a href="http://www.searchengineguide.com/beal/2004/0204_ab1.html">Here&lt;/a>. Robert Scoble, Longhorn Evangelist at Microsoft, is interviewed on Microsoft' search engine plans, including those provided in Longhorn by WinFS. Take this with a grain of salt like all advance info on Longhorn, but interesting nonetheless.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1098</id>
+    <title>Carl Franklin interviewed by ChrisS and RoryB</title>
+    <updated>2004-02-08T08:00:00.000Z</updated>
+    <published>2004-02-08T08:00:00.000Z</published>
+    <summary>A month or so back, Carl and I were hanging out and it occured to me that while Carl had been interviewing famous folks all over the place on his.NET Rocks Show, he hadn't been interviewed himself. So, Rory and I turned the tables on him. What results in Carl rambling on in pure bliss for almost two hours. Enjoy. : ) </summary>
+    <content type="html">&lt;h1>Carl Franklin interviewed by ChrisS and RoryB&lt;/h1>
+&lt;P>A month or so back, Carl and I were hanging out and it occured to me that while Carl had been interviewing famous folks all over the place on his .NET Rocks Show, he hadn't been interviewed himself. So, Rory and I turned the tables on him. What results in &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=50">Carl rambling on in pure bliss for almost two hours&lt;/A>. Enjoy. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1095</id>
+    <title>MS Allegiance Code Released to Fans</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Apparently, even though Allegiance wasn't a commercial success for Microsoft, the fan base is very loyal. So loyal, in fact, that MS Research has posted the Allegiance source code to the community. I've never played Allegiance (or heard of it, for that matter), but the trailers on the Allegiance home page made it sound pretty cool. Even cooler is that MS couldn't keep working on the game, but didn't want to leave their fans in the lurch, so the released the source. Is this a thousand points of light or what...</summary>
+    <content type="html">&lt;h1>MS Allegiance Code Released to Fans&lt;/h1>
+Apparently, even though Allegiance wasn't a commercial success for Microsoft, the fan base is very loyal. So loyal, in fact, that MS Research has posted &lt;A href="http://research.microsoft.com/research/allegiance/">the Allegiance source code&lt;/A> to the community. I've never played Allegiance (or heard of it, for that matter), but the trailers on &lt;A href="http://www.microsoft.com/games/allegiance/home.htm">the Allegiance home page&lt;/A> made it sound pretty cool. Even cooler is that MS couldn't keep working on the game, but didn't want to leave their fans in the lurch, so the released the source. Is this a thousand points of light or what!?! : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1093</id>
+    <title>The Longhorn Team is Listening</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>As I've mentioned, the reason we're put the Longhorn preview bits out&amp;nbsp; so early is so that we can get feedback at a time when things can still change. So, when you see Brad Abrams, Chris Anderson or any of the other dozens of MS PMs and Architects hanging out on the web ask for feedback on what they can do to make things better, take them up on it! Don't be shy. If you hate something, tell us so we can change it! If you love something, tell us so we don't change it! Even if there isn't any specific blo...</summary>
+    <content type="html">&lt;h1>The Longhorn Team is Listening&lt;/h1>
+&lt;P>As I've mentioned, the reason we're put the Longhorn preview bits out&amp;nbsp;&lt;EM>so&lt;/EM> early is so that we can get feedback at a time when things can still change. So, when you see &lt;A href="http://blogs.msdn.com/brada/">Brad Abrams&lt;/A>, &lt;A href="http://www.simplegeek.com">Chris Anderson&lt;/A> or any of the other dozens of MS PMs and Architects hanging out on the web ask for feedback on what they can do to make things better, take them up on it! Don't be shy. If you hate something, tell us so we can change it! If you love something, tell us so we &lt;EM>don't&lt;/EM> change it!&lt;/P>
+&lt;P>Even if there isn't any specific blog entry to which you can reply, start or your or post something to &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/">the WinFX newsgroups&lt;/A>. We've got members of the Longhorn team looking everywhere for your feedback. For example, yesterday &lt;A href="http://weblogs.asp.net/despos/archive/2004/02/05/67911.aspx">Dino posted&lt;/A> a theory he had about developer reaction to some particular aspect of the new Longhorn programming model. &lt;A href="http://www.longhornblogs.com/rrelyea/">Rob Relyea&lt;/A>&amp;nbsp;saw that post and today &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/02/06/2374.aspx">he's soliciting more feedback on XAML compound property syntax&lt;/A> and &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/02/06/2375.aspx">XAML as a whole&lt;/A>, the latter specifically becase of Dino's post.&lt;/P>
+&lt;P>If you care enough about Longhorn to be running it at this stage, you really should take these guys up on their offers and use &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/">the newsgroups&lt;/A>. And if you're afraid that you're not getting your feedback seen, &lt;A href="mailto:csells@microsoft.com?subject=Longhorn Feedback">drop me a line&lt;/A>. I can't guanartee that your feedback will be incorporated, but I can make sure the right folks see it.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1096</id>
+    <title>Mitch Walker on Avalon Skinning</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Here. Mitch Walker, the Terrarium guy at MS, posts some tantalizing screen shots from the Longhorn version of Terrarium under development and uses them to discuss the three steps to building skinning support into your Avalon apps. Thanks, Mitch, and when are we going to get Terrarium.Longhorn? : )</summary>
+    <content type="html">&lt;h1>Mitch Walker on Avalon Skinning&lt;/h1>
+&lt;a href="http://blogs.msdn.com/mitchw/articles/68541.aspx">Here&lt;/a>. Mitch Walker, the Terrarium guy at MS, posts some tantalizing screen shots from the Longhorn version of Terrarium under development and uses them to discuss the three steps to building skinning support into your Avalon apps. Thanks, Mitch, and when are we going to get Terrarium.Longhorn? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12388</id>
+    <title>Interviewing for MS Interns</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Shawn Morrissey (my boss) posted some questions he asked at UPenn's Wharton School of Business : Explain a database to a young child. Explain the Internet to your grandparents What is your favorite web site? Why? Now improve it. Steve Jobs calls and asks you to improve the iPod. Go. (No bonus points for saying, Add WMA support!) Youre in a boat with a rock, on a fresh-water lake. You throw the rock into the lake. With respect to the land, what happens to the level of the water in the lake goes up, goes down...</summary>
+    <content type="html">&lt;h1>Interviewing for MS Interns&lt;/h1>
+
+&lt;p>Shawn Morrissey (my boss)
+&lt;a href="http://weblogs.asp.net/shawnmor/archive/2004/02/06/68714.aspx">
+posted some questions he asked at UPenn's Wharton School of Business&lt;/a>:&lt;/p>
+&lt;ul>
+	&lt;li>Explain a database to a young child.&lt;/li>
+	&lt;li>Explain the Internet to your grandparents&lt;/li>
+	&lt;li>What is your favorite web site? Why? Now improve it.&lt;/li>
+	&lt;li>Steve Jobs calls and asks you to improve the iPod. Go. (No bonus points 
+	for saying, Add WMA support!)&lt;/li>
+	&lt;li>Youre in a boat with a rock, on a fresh-water lake. You throw the rock 
+	into the lake. With respect to the land, what happens to the level of the 
+	water in the lake  goes up, goes down, stays the same?&lt;/li>
+&lt;/ul>
+&lt;p>He posted a couple of answers, but you'll have to
+&lt;a href="http://weblogs.asp.net/shawnmor/archive/2004/02/06/68714.aspx">
+read his post&lt;/a> for them.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1092</id>
+    <title>Design Considerations on XAML Syntax</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Rob Relyea, a Lead PM on the Avalon team, talks about the chief design motivation for XAML, describes the current compound property syntax and then asks if developers would like it to change. Personally, I really like the current compound property syntax, especially given the choices, but Rob doesn't care what I think, he cares what you think. Go tell him. </summary>
+    <content type="html">&lt;h1>Design Considerations on XAML Syntax&lt;/h1>
+&lt;A class=headermaintitle id=Header1_HeaderTitle href="http://www.longhornblogs.com/rrelyea/">Rob Relyea&lt;/A>, a Lead PM on the Avalon team, talks about the chief design motivation for XAML, describes the current compound property syntax and then asks if developers would like it to change. Personally, I &lt;EM>really&lt;/EM> like the current compound property syntax, especially given the choices, but Rob doesn't care what &lt;EM>I &lt;/EM>think, he cares what &lt;EM>you &lt;/EM>think. &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/02/06/2374.aspx">Go tell him.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1097</id>
+    <title>IanG on Rubber Band Selection Outlines in Avalon</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Ian and I are writing an Avalon book for O'Reilly and Associates together, but he's way out in front of me, writing cool stuff like how to get rubber band selection outlines in Avalon. He also starts with a wonderful history of the XOR technique we used to use in Windows and why we no longer need it. In fact, we don't even need XOR in Windows Forms and GDI+ today, although lots of folks don't know that. The key trick in Ian's implementation is putting a hidden &amp;lt;Rectangle&amp;gt; element into your XAML docume...</summary>
+    <content type="html">&lt;h1>IanG on Rubber Band Selection Outlines in Avalon&lt;/h1>
+&lt;P>Ian and I are writing an Avalon book for O'Reilly and Associates together, but he's way out in front of me, writing cool stuff like &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/02/06/rubberband">how to get rubber band selection outlines in Avalon&lt;/A>. He also starts with a wonderful history of the XOR technique we used to use in Windows and why we no longer need it. In fact, &lt;A href="http://www.interact-sw.co.uk/graphics/xorconsideredharmful/">we don't even need XOR in Windows Forms and GDI+ today&lt;/A>, although lots of folks don't know that.&lt;/P>
+&lt;P>The key trick in Ian's implementation is putting a hidden &amp;lt;Rectangle&amp;gt; element into your XAML document so that when it's time to do the rubber hand outline, you can show it, move it and resize it based on where the mouse is, hiding the Rectangle again when the mouse button is released. This lets Avalon take care of the drawing, making this technique a thing of beauty.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1094</id>
+    <title>Longhorn Concept Video: Health Care</title>
+    <updated>2004-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-06T08:00:00.000Z</published>
+    <summary>Here. In this concept video, Carter Maslan, Longhorn evangelist, shows off secure, peer-to-peer networking using pub/sub in Indigo, Longhorn's identity management, organizing data using WinFS metadata relationships, using DRM to keep patient data confidential&amp;nbsp;and some more ClickOnce s/w installation. The&amp;nbsp;application itself shows off&amp;nbsp;a specialist working remotely on a set of real x-rays showing a real case of a person incorrectly sent home having inhaled something he shouldn't and who could ha...</summary>
+    <content type="html">&lt;h1>Longhorn Concept Video: Health Care&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/Longhorn/productinfo/conceptvid/default.aspx">Here&lt;/a>. In this concept video, Carter Maslan, Longhorn evangelist, shows off secure, peer-to-peer networking using pub/sub in Indigo, Longhorn's identity management, organizing data using WinFS metadata relationships, using DRM to keep patient data confidential&amp;nbsp;and some more ClickOnce s/w installation. The&amp;nbsp;application itself shows off&amp;nbsp;a specialist working remotely on a set of real x-rays showing a real case of a person incorrectly sent home having inhaled something he shouldn't and who could have really used a specialist on demand.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1090</id>
+    <title>Sample: WinFS for CRM</title>
+    <updated>2004-02-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-05T08:00:00.000Z</published>
+    <summary>Last time, Ryan Dawson posted a fun Avalon sample showing system information using graphics and animation. Today he's back exploring the use of WinFS to build a tiny CRM app. </summary>
+    <content type="html">&lt;h1>Sample: WinFS for CRM&lt;/h1>
+&lt;P>Last time, Ryan Dawson posted &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/01/27/2262.aspx">a fun Avalon sample showing system information using graphics and animation&lt;/A>. Today he's back &lt;A href="http://www.longhornblogs.com/rdawson/articles/WinFSCRM.aspx">exploring the use of WinFS to build a tiny CRM app&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1089</id>
+    <title>Amazing Application of Data Visualization</title>
+    <updated>2004-02-05T08:00:00.000Z</updated>
+    <published>2004-02-05T08:00:00.000Z</published>
+    <summary>Here. Type in a zip code and see the scope of it's location narrowed as you type more digits. Simple but powerful way to visualize data that doesn't involve listboxes or datagrids. I'd like s/w engineers around the world to open their minds to the possibility of alternate data visualizations. It is possible for engineers to have these kinds of thoughts. I know because I spent some time learning a little bit about Adobe Illustrator over XMas and then recently was able to build a logo from scratch for a littl...</summary>
+    <content type="html">&lt;h1>Amazing Application of Data Visualization&lt;/h1>
+&lt;a href="http://acg.media.mit.edu/people/fry/zipdecode/">Here&lt;/a>. &lt;P>Type in a zip code and see the scope of it's location narrowed as you type more digits. Simple but powerful way to visualize data that doesn't involve listboxes or datagrids.&lt;/P>
+&lt;P>I'd like s/w engineers around the world to open their minds to the possibility of alternate data visualizations. It is possible for engineers to have these kinds of thoughts. I know because I spent some time learning a little bit about Adobe Illustrator over XMas and then recently was able to build a logo from scratch for a little investment business my brother-in-law and I are starting up. Until I let myself believe that I could do it, I had always let other people do this kind of work for me.&lt;/P>
+&lt;P>Jeez, I sound like &lt;A href="http://www.tonyrobbins.com/">Tony Robbins&lt;/A>...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1088</id>
+    <title>Severe Beating Shown, CBS Shocked/FCC Investigates</title>
+    <updated>2004-02-05T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-02-05T08:00:00.000Z</published>
+    <summary>&amp;lt;politics&amp;gt;Or rather, that's the headline I wish I could post. However, instead of CBS and the FCC getting freaked out about the insane amount of severe violence on TV, available to our children any time of the day or night, they're worried about 3 seconds of breast. Idiots.&amp;lt;/politics&amp;gt; </summary>
+    <content type="html">&lt;h1>Severe Beating Shown, CBS Shocked/FCC Investigates&lt;/h1>
+&lt;P>&amp;lt;politics&amp;gt;Or rather, that's the headline I wish I could post. However, instead of CBS and the FCC getting freaked out about the insane amount of severe violence on TV, available to our children any time of the day or night, &lt;A href="http://www.nytimes.com/2004/02/05/business/media/05tube.html?ex=1391317200&amp;amp;en=859b39ee8c13722a&amp;amp;ei=5007&amp;amp;partner=USERLAND">they're worried about 3 seconds of breast&lt;/A>. Idiots.&amp;lt;/politics&amp;gt;&lt;/P></content>
+  </entry>
+</feed>

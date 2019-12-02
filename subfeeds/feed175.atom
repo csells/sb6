@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed175.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed174.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed176.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed175.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12445</id>
+    <title>CComVector: A SAFEARRAY Wrapper</title>
+    <updated>2001-07-26T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-26T07:00:00.000Z</published>
+    <summary>July 26, 2001 I got tired of not having a smart type for SAFEARRAYs, so I built one. It's limited to one dimension (does anyone use multi-dimentional SAFEARRAYs?) and provides one class for the SAFEARRAY and another for the data itself (the lock is a resource, too), but the usage is pretty nifty. See comvector.h for the what and the how. Also, Ron Jacobs sent me an ATL port of COleSafeArray called CComSafeArray that I've made available here.</summary>
+    <content type="html">&lt;h1>CComVector: A SAFEARRAY Wrapper&lt;/h1>
+&lt;span class="created">July 26, 2001&lt;/span>
+    &lt;p>
+        I got tired of not having a smart type for SAFEARRAYs, so I built one. It's 
+        limited to one dimension (does anyone use multi-dimentional SAFEARRAYs?) and 
+        provides one class for the SAFEARRAY and another for the data itself (the lock 
+        is a resource, too), but the usage is pretty nifty. See &lt;a href="/public/tools/comvector.h">comvector.h&lt;/a>
+    for the what and the how.
+    &lt;p>
+        Also, Ron Jacobs sent me an ATL port of COleSafeArray called CComSafeArray that 
+        I've made &lt;a href="/public/tools/CComSafeArray.zip">available here&lt;/a>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12446</id>
+    <title>CComDate</title>
+    <updated>2001-07-25T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-25T07:00:00.000Z</published>
+    <summary>July 25, 2001 This zip provides two classes for use with dates and times under Windows : CComDATE: Wraps the COM DATE type, providing conversions from VARIANT, DATE, ANSI string, UNICODE string, time_t, SYSTEMTIME, FILETIME, DOS time and DBTIMESTAMP data types. CComSpan: Represents the result of subtracting one CComDATE from another. Useful for time/date math. </summary>
+    <content type="html">&lt;h1>CComDate&lt;/h1>
+&lt;span class="created">July 25, 2001&lt;/span>
+    &lt;p>&lt;a href="/public/tools/comdate.zip">This zip provides two classes for use with dates 
+    and times under Windows&lt;/a>:&lt;/p>
+    &lt;ul>
+      &lt;li>CComDATE: Wraps the COM DATE type, providing conversions from VARIANT, 
+      DATE, ANSI string, UNICODE string, time_t, SYSTEMTIME, FILETIME, DOS time 
+      and DBTIMESTAMP data types.&lt;/li>
+      &lt;li>CComSpan: Represents the result of subtracting one CComDATE from 
+      another. Useful for time/date math.&lt;/li>
+    &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12447</id>
+    <title>Exposing Multiple IDispatch Interfaces</title>
+    <updated>2001-07-24T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-24T07:00:00.000Z</published>
+    <summary>If you'd like to know about how to expose multiple IDispatch implementations from a single COM object, check out this extensive treatment of that very topic. </summary>
+    <content type="html">&lt;h1>Exposing Multiple IDispatch Interfaces&lt;/h1>
+    &lt;p>If you'd like to know about how to expose multiple IDispatch 
+    implementations from a single COM object, check out &lt;a href="/12657">
+    this extensive treatment of that very topic&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12448</id>
+    <title>MDI Applications in ATL</title>
+    <updated>2001-07-23T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-23T07:00:00.000Z</published>
+    <summary>July 23, 2001 At atlmdi.zip, please find Charles Petzold's famous raw Win32 MDI application, MDIDemo, ported to ATL. See atlmdi.h for a set of base classes for building MDI applications in ATL and mdidemo.cpp for an example of their use.</summary>
+    <content type="html">&lt;h1>MDI Applications in ATL&lt;/h1>
+&lt;span class="created">July 23, 2001&lt;/span>
+    &lt;p>
+        At &lt;a href="/public/tools/atlmdi.zip">atlmdi.zip&lt;/a>, please find Charles Petzold's famous 
+        raw Win32 MDI application, MDIDemo, ported to ATL. See atlmdi.h for a set of 
+        base classes for building MDI applications in ATL and mdidemo.cpp for an 
+        example of their use.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12449</id>
+    <title>Fixing the External Dispatch in ATL + IE5</title>
+    <updated>2001-07-22T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-22T07:00:00.000Z</published>
+    <summary>July 22, 2001 Are you getting this: "Error: object doesn't support this property or method" when you try to call a method on your ATL HTML Control exposed external dispatch (accessed via window.external in the HTML of the control)? Did it used to work with IE4 and now it doesn't with IE5? That's because the ATL boys played fast and loose with the identity laws of COM and, while it took the COM police a while to catch up with them, catch up with them they did. Download WrapperDispatch.h for an explanation of...</summary>
+    <content type="html">&lt;h1>Fixing the External Dispatch in ATL + IE5&lt;/h1>
+&lt;span class="created">July 22, 2001&lt;/span>
+    &lt;p align="left">
+        Are you getting this: "Error: object doesn't support this property or method" 
+        when you try to call a method on your ATL HTML Control exposed external 
+        dispatch (accessed via window.external in the HTML of the control)? Did it used 
+        to work with IE4 and now it doesn't with IE5? That's because the ATL boys 
+        played fast and loose with the identity laws of COM and, while it took the COM 
+        police a while to catch up with them, catch up with them they did.
+    &lt;/p>
+    &lt;p align="left">
+        Download &lt;a href="/public/tools/WrapperDispatch.h">WrapperDispatch.h&lt;/a> for an explanation 
+        of the problem and my solution to it.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12450</id>
+    <title>TraceHook</title>
+    <updated>2001-07-21T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-21T07:00:00.000Z</published>
+    <summary>July 21, 2001 TraceHook is a member function call tracing delegator hook based on Keith Brown's most excellent universal delegator. It allows you to write: // Get a COM object to wrap CComPtr&amp;lt;ICalc&amp;gt; spCalc; spCalc.CoCreateInstance(CLSID_Calc); // Wrap it (when _DEBUG is defined only) TRACEHOOK(OLESTR("MyCalc"), &amp;amp;spCalc.p); // Use it spCalc-&amp;gt;put_Sum(0); spCalc-&amp;gt;Add(2); spCalc-&amp;gt;Add(2); long nSum; spCalc-&amp;gt;get_Sum(&amp;amp;nSum); and see the following in the debug output (with no changes to th...</summary>
+    <content type="html">&lt;h1>TraceHook&lt;/h1>
+&lt;span class="created">July 21, 2001&lt;/span>
+    &lt;p>
+        TraceHook is a member function call tracing delegator hook based on &lt;a href="http://www.develop.com/kbrown/com/samples.htm">
+            Keith Brown's most excellent universal delegator&lt;/a>. It allows you to 
+        write:
+    &lt;/p>
+    &lt;pre>    // Get a COM object to wrap
+    CComPtr&amp;lt;ICalc&amp;gt;  spCalc;
+    spCalc.CoCreateInstance(CLSID_Calc);
+
+&lt;b>    // Wrap it (when _DEBUG is defined only)
+    TRACEHOOK(OLESTR("MyCalc"), &amp;amp;spCalc.p);
+&lt;/b>
+    // Use it
+    spCalc-&amp;gt;put_Sum(0);
+    spCalc-&amp;gt;Add(2);
+    spCalc-&amp;gt;Add(2);
+    long nSum;
+    spCalc-&amp;gt;get_Sum(&amp;amp;nSum);
+&lt;/pre>
+    &lt;p>
+        and see the following in the debug output (with no changes to the object's 
+        source) :
+    &lt;/p>
+    &lt;pre>    MyCalc, ICalc::put_Sum(0)
+    MyCalc, ICalc::Add(2)
+    MyCalc, ICalc::Add(2)
+    MyCalc, ICalc::get_Sum()
+&lt;/pre>
+    &lt;p>
+        Notice that the call stack is now dumped (for duals, either directly or via 
+        IDispatch, or any method with automation-compliant data types, thanks to 
+        features added by the most excellent &lt;a href="mailto:simon@fell.com">Simon Fell&lt;/a>! 
+        He also added the ability to hook objects created in scripting environments (or 
+        VB or Java, too), e.g.
+    &lt;/p>
+    &lt;pre>    ' WSH Test script for CalcSvr / TraceHook
+
+    ' Create the implementation of ITraceHookFactory
+    set th = CreateObject("UDTraceHookSvr.TraceHook")
+
+    ' Create an object (an &amp;lt;object&amp;gt; tag in HTML would be fine, too)
+    set calc = CreateObject("CalcSvr.Calc")
+
+&lt;b>    ' Trace all further calls on calc
+    th.ComTrace "MyCalc", calc
+&lt;/b>
+    calc.sum = 0
+    calc.add 2
+    calc.add 2
+    msgbox "2+2= " &amp;amp; calc.sum
+&lt;/pre>
+    &lt;p>
+        would yield the following debug output:
+    &lt;/p>
+    &lt;pre>    MyCalc, IDispatch::(Invoke) sum(0)
+    MyCalc, IDispatch::(Invoke) add(2)
+    MyCalc, IDispatch::(Invoke) add(2)
+    MyCalc, IDispatch::(Invoke) sum() returned 4
+&lt;/pre>
+    &lt;p>
+        The source, pre-built binaries and client-side headers are available &lt;a href="/public/tools/TraceHook.zip">
+            here&lt;/a>. The pre-built binaries include Keith's delegator as well.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12451</id>
+    <title>CAspPtr</title>
+    <updated>2001-07-20T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-20T07:00:00.000Z</published>
+    <summary>If you've ever had to write the code to pull the ASP intrinsic objects from the MTS context, you might appreciate CAspPtr, which allows the following: STDMETHODIMP CJon::DoIt() { CAspPtr&amp;lt;IResponse&amp;gt; spResponse; if( spResponse ) { spResponse-&amp;gt;Write(CComVariant(OLESTR("Baby got &amp;lt;b&amp;gt;&amp;lt;i&amp;gt;Response&amp;lt;/i&amp;gt;&amp;lt;/b&amp;gt;."))); } return S_OK;
+} CAspPtr is available here and was inspired by Jon Flanders. Thanks, Jon! </summary>
+    <content type="html">&lt;h1>CAspPtr&lt;/h1>
+    &lt;p align="left">
+        If you've ever had to write the code to pull the ASP intrinsic objects from the 
+        MTS context, you might appreciate CAspPtr, which allows the following:
+    &lt;/p>
+    &lt;div align="left">
+        &lt;pre align="left">STDMETHODIMP CJon::DoIt() {
+&lt;b>  CAspPtr&amp;lt;IResponse&amp;gt; spResponse;
+&lt;/b>  if( spResponse ) {
+    spResponse-&amp;gt;Write(CComVariant(OLESTR("Baby got &amp;lt;b&amp;gt;&amp;lt;i&amp;gt;Response&amp;lt;/i&amp;gt;&amp;lt;/b&amp;gt;.")));
+  }  
+  return S_OK;
+}
+&lt;/pre>
+    &lt;/div>
+    &lt;p align="left">
+        CAspPtr is available &lt;a href="/public/tools/aspptr.h">here&lt;/a> and was inspired by &lt;a href="mailto:jfland@tc.umn.edu">
+            Jon Flanders&lt;/a>. Thanks, Jon!
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12452</id>
+    <title>Smart IEnumVARIANT</title>
+    <updated>2001-07-19T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-19T07:00:00.000Z</published>
+    <summary>Visual Basic and its variants (sic) use IEnumVARIANT to implement the For-Each statement. Unfortunately, they only ask for 1 element at a time, leading to terrible performance across apartments. I propose two solutions. One allows you to wrap any collection in a CollectionBuffer object and set the buffering yourself, e.g. Dim collBuffer As Object
+Set collBuffer = CreateObject("SmartEnumSvr.CollectionBuffer")
+collBuffer.Collection = coll ' coll is an interface on any collection
+collBuffer.BufferSize = 1024 '...</summary>
+    <content type="html">&lt;h1>Smart IEnumVARIANT&lt;/h1>
+
+    &lt;p>
+        Visual Basic and its variants (sic) use IEnumVARIANT to implement the For-Each 
+        statement. Unfortunately, they only ask for 1 element at a time, leading to 
+        terrible performance across apartments. I propose two solutions. One allows you 
+        to wrap any collection in a CollectionBuffer object and set the buffering 
+        yourself, e.g.
+    &lt;/p>
+    &lt;pre>Dim collBuffer As Object
+Set collBuffer = CreateObject("SmartEnumSvr.CollectionBuffer")
+collBuffer.Collection = coll ' coll is an interface on any collection
+collBuffer.BufferSize = 1024 ' How many items would you like buffered?
+
+c = 0
+For Each v In collBuffer ' Uses SmartEnumVARIANT to buffer items
+    c = c + 1
+Next v
+MsgBox "Counted " &amp;amp; c
+	&lt;/pre>
+    &lt;p>
+        The second solution allows you to leverage SmartEnumVARIANT on the server-side, 
+        seamlessly to the client. &lt;a href="/12654">A detailed explanation and code 
+            is available here.&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12654</id>
+    <title>SmartEnumVARIANT</title>
+    <updated>2001-07-19T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-19T07:00:00.000Z</published>
+    <summary>The Problem VB/VBScript provides the implementation of For-Each using an implementation of IEnumVARIANT exposed from a collection via the _NewEnum method. Unfortunately, VB uses 1 for the argument to Next, making round-trip time terrible. A Solution: If you don't own the collection implementation code... If you don't own the collection implementation code, you can still wrap the collection in a custom object called the CollectionBuffer, which implements the following interface: [ object, uuid(B6175081-83D4-...</summary>
+    <content type="html">&lt;h1>SmartEnumVARIANT&lt;/h1>
+    &lt;h2>
+        The Problem
+    &lt;/h2>
+    VB/VBScript provides the implementation of For-Each using an implementation of 
+    IEnumVARIANT exposed from a collection via the _NewEnum method. Unfortunately, 
+    VB uses 1 for the argument to Next, making round-trip time terrible.
+    &lt;h2>
+        A Solution:
+        &lt;br>
+        If you don't own the collection implementation code...
+    &lt;/h2>
+    If you don't own the collection implementation code, you can still wrap the 
+    collection in a custom object called the CollectionBuffer, which implements the 
+    following interface:
+    &lt;pre>[
+	object,
+	uuid(B6175081-83D4-11D2-987D-00600823CFFB),
+	dual,
+	helpstring("ICollectionBuffer Interface"),
+	pointer_default(unique)
+]
+interface ICollectionBuffer : IDispatch
+{
+    [propget, helpstring("property Collection")] HRESULT Collection([out, retval] IDispatch** pVal);
+    [propput, helpstring("property Collection")] HRESULT Collection([in] IDispatch* newVal);
+    [propget, helpstring("property BufferSize")] HRESULT BufferSize([out, retval] long *pVal);
+    [propput, helpstring("property BufferSize")] HRESULT BufferSize([in] long newVal);
+    [propget, id(DISPID_NEWENUM)] HRESULT _NewEnum([out, retval] IUnknown** ppunkEnum);
+};
+&lt;/pre>
+    The Collection property is used to pass in the collection object to which you'd 
+    like buffered access. The BufferSize property is used to control how many 
+    VARIANTs you'd like to have returned on each call to Next. The implementation 
+    of _NewEnum gets the IEnumVARIANT interface from the collection and wraps it in 
+    a buffered implementation of IEnumVARIANT called SmartEnumVARIANT.
+    &lt;p>
+        The SmartEnumVARIANT object manages buffered access to the underlying 
+        IEnumVARIANT. VB can still ask for one item at a time, but the items will come 
+        out of the buffer. Depending on the buffer size, this can improve performance 
+        by many order of magnitude.
+        &lt;h2>
+            Usage
+        &lt;/h2>
+        The following VB code uses an unbuffered collection and is slow:
+        &lt;pre>Dim coll As Object
+Set coll = CreateObject("DumbEnumSvr.CollectionOfNumbers")
+coll.CountOfNumbers = 10000
+
+Dim v As Variant
+Dim c As Long
+For Each v In coll
+    c = c + 1
+Next v
+MsgBox "Counted " &amp; c
+&lt;/pre>
+        This VB code wraps the unbuffered collection in the CollectionBuffer object:
+        &lt;pre>Dim collBuffer As Object
+Set collBuffer = CreateObject("SmartEnumSvr.CollectionBuffer")
+collBuffer.Collection = coll
+collBuffer.BufferSize = 1024
+
+c = 0
+For Each v In collBuffer
+    c = c + 1
+Next v
+MsgBox "Counted " &amp; c
+&lt;/pre>
+        &lt;h2>
+            Another Solution:
+            &lt;br>
+            If you &lt;i>do&lt;/i> own the collection implementation code...
+        &lt;/h2>
+    If you do have the source to the collection, there's no reason that VB clients 
+    have to do anything. Instead, your implementation of IEnumVARIANT can use a 
+    manual form of handler marshaling (invented, as far as I know, by Don Box -- 
+    the manual form, MS invented handler marshaling...).
+    &lt;p>
+        The handler marshaling works like this:
+        &lt;ol>
+            &lt;li>
+            The server-side implementation of IEnumVARIANT implements IMarshal.
+            &lt;li>
+            Server-side enumerator returns CLSID_SmartEnumVARIANT when GetUnmarshalClass is 
+            called.
+            &lt;li>
+            Server-side enumerator marshals the interface of it's own stub (obtained by 
+            calling CoGetStandardMarshal) into the stream provided during the call to 
+            GetMarshalSizeMax and MarshalInterface.
+            &lt;li>
+            On the client-side, the Proxy Manager used the CLSID provided by the 
+            server-side enumerator to create an instance of SmartEnumVARIANT.
+            &lt;li>
+            The SmartEnumVARIANT object also implements IMarshal and it will pull the 
+            marshaled stub to the real implementation of IEnumVARIANT out of the marshal 
+            packet.
+            &lt;li>
+            The SmartEnumVARIANT becomes a "smart proxy," forwarding calls to the 
+            server-side implementation of IEnumVARIANT. However, instead of forwarding 
+            _Next calls directly, the calls are buffered for efficiency.
+        &lt;/ol>
+    This solution is nice because the VB client doesn't have to do anything 
+    special. When the server-side implementation of IEnumVARIANT is marshaled to 
+    the client, the SmartEnumVARIANT automatically becomes the smart proxy, making 
+    buffered calls on the server.
+    &lt;p>
+        For the handler marshaling to work, the server-side enumerator must implement 
+        IMarshal appropriately. In UseSmartEnum.h, I've provided an implementation of 
+        IMarshal for this purpose:
+        &lt;pre>template &amp;lt;typename Deriving, ULONG celtBuffer = 1024&amp;gt;
+class IMarshalForSmartEnumImpl : public IMarshal {...};
+&lt;/pre>
+        For example, the CollectionOfNumbers2 example class uses 
+        IMarshalForSmartEnumImpl to add IMarshal to CComEnum like so:
+        &lt;pre>typedef CComEnum&amp;lt; IEnumVARIANT, &amp;IID_IEnumVARIANT, VARIANT, _Copy&amp;lt;VARIANT&amp;gt; &amp;gt; CComEnumVariant;
+
+class CSmartProxiedEnumVARIANT :
+    public CComEnumVariant,
+    public IMarshalForSmartEnumImpl&amp;lt;CSmartProxiedEnumVARIANT, 1024&amp;gt;
+{
+public:
+BEGIN_COM_MAP(CSmartProxiedEnumVARIANT)
+    COM_INTERFACE_ENTRY(IMarshal)
+    COM_INTERFACE_ENTRY_CHAIN(CComEnumVariant)
+END_COM_MAP()
+};
+&lt;/pre>
+        &lt;h2>
+            The Source
+        &lt;/h2>
+        CollectionBuffer, SmartEnumVARIANT, IMarshalForSmartEnumVARIANT and two 
+        samples, CollectionOfNumbers (which doesn't use handler marshaling) and 
+        CollectionOfNumbers2 (which does use handler marshaling) are available &lt;a href="/public/tools/smartenum.zip">
+            here&lt;/a>.
+        &lt;h2>
+            Copyright
+        &lt;/h2>
+        This source is copyright (c) 1998, Chris Sells.
+        &lt;br>
+        All rights reserved. No warrenties extended. Use at your own risk.
+        &lt;br>
+        Comments to &lt;a href="mailto:csells@sellsbrothers.com?subject=Smart Enumeration">csells@sellsbrothers.com&lt;/a></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12453</id>
+    <title>Implementing Marshal-by-Value using ATL</title>
+    <updated>2001-07-18T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-18T07:00:00.000Z</published>
+    <summary>July 18, 2001 Not too long ago, Jonathan Borden, jborden@MEDIAONE.NET, posted a nifty class called IMarshalByValueImpl that implemented IMarshal for objects interested in being marshaled by value. It was built in the ATL style, i.e. it used fun template tricks, and depended on the COM class also implementing either IPersistStream or IPersistStreamImpl. And, in fact, ATL provides an implementation of IPersistStreamInit called IPersistStreamInitImpl. However, IPersistStreamInitImpl has one fatal flaw: it impl...</summary>
+    <content type="html">&lt;h1>Implementing Marshal-by-Value using ATL&lt;/h1>
+&lt;span class="created">July 18, 2001&lt;/span>
+    &lt;p>
+        Not too long ago, Jonathan Borden, &lt;a href="mailto:jborden@MEDIAONE.NET">jborden@MEDIAONE.NET&lt;/a>, 
+        posted a nifty class called &lt;a href="/public/tools/mbvimpl.h">IMarshalByValueImpl&lt;/a> that 
+        implemented IMarshal for objects interested in being marshaled by value . It 
+        was built in the ATL style, i.e. it used fun template tricks, and depended on 
+        the COM class also implementing either IPersistStream or IPersistStreamImpl. 
+        And, in fact, ATL provides an implementation of IPersistStreamInit called 
+        IPersistStreamInitImpl. However, IPersistStreamInitImpl has one fatal flaw: it 
+        implements GetSizeMax by returning E_NOTIMPL. This breaks Jonathan's 
+        IMarshalByValueImpl, which depends on a sane implementation of GetSizeMax from 
+        the class.&lt;/p>
+    &lt;p>
+        &lt;a href="/public/tools/psiimpl2.h">IPersistStreamInitImpl2&lt;/a> leverages the property map of 
+        ATL's IPersistStreamInitImpl to build GetSizeMax. The code is not pretty. It's 
+        just pieced together from ATL's implementation of IPersistStreamInit::Save and 
+        CComVariant::WriteToStream, but it seems to work (thanks to Dharma Shukla, &lt;a href="mailto:v-dharsh@microsoft.com">
+            v-dharsh@microsoft.com&lt;/a>, for testing it!).&lt;/p>
+    &lt;p>
+        Here's the usage for giving a class MBV:&lt;/p>
+    &lt;pre>class PassByValue :
+  public CComObjectRootEx&amp;lt;CComMultiThreadModel&amp;gt;,
+  public CComCoClass&amp;lt;PassByValue, &amp;amp;CLSID_PassByValue&amp;gt;,
+  public IDispatchImpl&amp;lt;IPassByValue, &amp;amp;IID_IPassByValue&amp;gt;,
+  public IMarshalByValueImpl&amp;lt;PassByValue&amp;gt;,
+  public IPersistStreamInitImpl2&amp;lt;PassByValue&amp;gt;
+{
+public:
+BEGIN_COM_MAP(PassByValue)
+  COM_INTERFACE_ENTRY(IDispatch)
+  COM_INTERFACE_ENTRY(IPassByValue)
+  COM_INTERFACE_ENTRY(IMarshal)
+  // Don't need to expose these to the world
+  //COM_INTERFACE_ENTRY(IPersist)
+  //COM_INTERFACE_ENTRY  
+  (IPersistStreamInit)
+END_COM_MAP()
+
+BEGIN_PROP_MAP(PassByValue)
+  // List of properties to marshal-by-value
+  ...
+END_PROP_MAP()
+
+  // IPassByValue methods
+  ...
+
+private:
+  // Whatever data members you wish to marshal
+  ...
+
+public:
+  BOOL m_bRequiresSave; // Required by IPersistStreamInitImpl2
+};&lt;/pre></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12454</id>
+    <title>Implementing dispatch-based interfaces in ATL</title>
+    <updated>2001-07-17T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-17T07:00:00.000Z</published>
+    <summary>July 17, 2001 There are three kinds of ways to declare a dispatch-based interface in IDL, but ATL (as of version 3.0), only supports the implementation of 1.5 of them (duals and a raw dispinterfaces for handling events).&amp;nbsp; The ATL Dispatch Sample demonstrations the use of three ATL-based classes, one for implementing each type of dispatch-based interface. The header file that defines these classes, dispimpl2.h, is provided for use in your own projects. BTW, thanks to Ehab Kashkash for making this code w...</summary>
+    <content type="html">&lt;h1>Implementing dispatch-based interfaces in ATL&lt;/h1>
+&lt;span class="created">July 17, 2001&lt;/span>
+        
+    &lt;p>
+        There are three kinds of ways to declare a dispatch-based interface in IDL, but 
+        ATL (as of version 3.0), only supports the implementation of 1.5 of them (duals 
+        and a raw dispinterfaces for handling events).&amp;nbsp; The &lt;a href="/public/samples/atldisp.zip">
+            ATL Dispatch Sample&lt;/a>demonstrations the use of three ATL-based classes, 
+        one for implementing each type of dispatch-based interface. The header file 
+        that defines these classes, &lt;a href="/public/tools/dispimpl2.h">dispimpl2.h&lt;/a>, is provided 
+        for use in your own projects.&lt;/p>
+	&lt;p>
+        BTW, thanks to Ehab Kashkash for making this code work under VS.NET as 
+		well as VC6.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12455</id>
+    <title>MeowMoniker</title>
+    <updated>2001-07-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-16T07:00:00.000Z</published>
+    <summary>If you're into COM Monikers, here's one that I like. A brief description of the purpose and the implementation of the MeowMoniker. MeowMoniker.zip </summary>
+    <content type="html">&lt;h1>MeowMoniker&lt;/h1>
+    &lt;p align="left">
+        If you're into COM Monikers, here's one that I like.
+    &lt;/p>
+    &lt;ul>
+        &lt;li>
+            A &lt;a href="/12656">brief description&lt;/a>
+        of the purpose and the implementation of the MeowMoniker.
+        &lt;li>
+            &lt;a href="/public/tools/monikers/MeowMoniker.zip">MeowMoniker.zip&lt;/a>&lt;/li>
+    &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12621</id>
+    <title>Can I still be evil?</title>
+    <updated>2001-07-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/fun/EvilGenius.gif"/>
+    <category term="fun" label="Fun"/>
+    <published>2001-07-15T07:00:00.000Z</published>
+    <summary></summary>
+    <content type="html">&lt;h1>Can I still be evil?&lt;/h1>
+&lt;p 
+
+align="center">&lt;img border="1" src="/public/fun/EvilGenius.gif" width="593" 
+
+height="378"> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12456</id>
+    <title>Basic Monikers</title>
+    <updated>2001-07-15T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-15T07:00:00.000Z</published>
+    <summary>Wish there was a moniker that did CoCreateInstance just like the Class Moniker calls CoGetClassObject? Wish you were able to compose the Class Moniker with a host name? Then you'll want the BasicMonikers project, which bundles together the New moniker and the Host moniker. Sample syntax follows: dm.newmk.1:Excel.Application
+dm.newmk.1:00024500-0000-0000-C000-000000000046:
+dm.hostmk.1:frodo:!dm.newmk.1:00024500-0000-0000-C000-000000000046:
+dm.hostmk.1:frodo:!clsid:00024500-0000-0000-C000-000000000046: </summary>
+    <content type="html">&lt;h1>Basic Monikers&lt;/h1>
+    &lt;p>
+        Wish there was a moniker that did CoCreateInstance just like the Class Moniker 
+        calls CoGetClassObject? Wish you were able to compose the Class Moniker with a 
+        host name? Then you'll want the &lt;a href="/public/tools/monikers/BasicMonikers.zip">BasicMonikers 
+            project&lt;/a>, which bundles together the New moniker and the Host moniker. 
+        Sample syntax follows:
+    &lt;/p>
+    &lt;pre>dm.newmk.1:Excel.Application
+dm.newmk.1:00024500-0000-0000-C000-000000000046:
+dm.hostmk.1:frodo:!dm.newmk.1:00024500-0000-0000-C000-000000000046:
+dm.hostmk.1:frodo:!clsid:00024500-0000-0000-C000-000000000046:&lt;/pre></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12457</id>
+    <title>regsvr.reg</title>
+    <updated>2001-07-14T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-14T07:00:00.000Z</published>
+    <summary>July 14, 2001 regsvr.reg is a regedit script file that adds Register COM Server and Unregister COM Server to the context menu for DLLs, OCXs and EXEs under Win95+ and NT4+. In addition, it's also been updated to add Register TypeLib and Unregister TypeLib commands to.tlb,.odl,.dll,.ocx and.exe files, using VC6's new regtlib tool. </summary>
+    <content type="html">&lt;h1>regsvr.reg&lt;/h1>
+&lt;span class="created">July 14, 2001&lt;/span>
+        
+    &lt;p align="left">
+        &lt;a href="/public/tools/regsvr.reg">regsvr.reg&lt;/a> is a regedit script file that adds Register 
+        COM Server and Unregister COM Server to the context menu for DLLs, OCXs and 
+        EXEs under Win95+ and NT4+. In addition, it's also been updated to add Register 
+        TypeLib and Unregister TypeLib commands to .tlb, .odl, .dll, .ocx and .exe 
+        files, using VC6's new regtlib tool.
+    &lt;/p></content>
+  </entry>
+</feed>

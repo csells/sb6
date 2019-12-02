@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed129.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed128.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed130.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed129.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/611</id>
+    <title>I share a birthday with the Marquis de Sade</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. Oh sure, Pope Pius X, Johnny Weissmuller, Marvin Hamlisch and Dana Carvey were born that day, too, but definately Mr. de Sade is the coolest on the list.</summary>
+    <content type="html">&lt;h1>I share a birthday with the Marquis de Sade&lt;/h1>
+&lt;a href="http://www.wikipedia.org/wiki/June_2">Here&lt;/a>. Oh sure, Pope Pius X, Johnny Weissmuller, Marvin Hamlisch and Dana Carvey were born that day, too, but definately Mr. de Sade is the coolest on the list.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/615</id>
+    <title>Windows Forms Programming in C# on Amazon</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. I don't know how long it's but up, but the C# version of my WinForms book is up on Amazon. If you were a reviewer, please post a review. Thanks!</summary>
+    <content type="html">&lt;h1>Windows Forms Programming in C# on Amazon&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321116208/chrissells">Here&lt;/a>. I don't know how long it's but up, but the C# version of my WinForms book is up on Amazon. If you were a reviewer, please post a review. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/613</id>
+    <title>My Matrix Persona is Neo</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. "You are Neo, from "The Matrix." You display a perfect fusion of heroism and compassion." I'm guessing that Don's Morpheus, Sam's the Oracle, Sara's Trinity and Tim's the Architect. Bets?</summary>
+    <content type="html">&lt;h1>My Matrix Persona is Neo&lt;/h1>
+&lt;a href="http://quizilla.com/users/trinitykills/quizzes/What%20Matrix%20Persona%20Are%20You%3F/">Here&lt;/a>. "You are Neo, from "The Matrix." You display a perfect fusion of heroism and compassion."
+
+I'm guessing that Don's Morpheus, Sam's the Oracle, Sara's Trinity and Tim's the Architect. Bets?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/616</id>
+    <title>Exposing RSS Comments</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. The one where I step into the breach and propose yet another RSS extension.</summary>
+    <content type="html">&lt;h1>Exposing RSS Comments&lt;/h1>
+&lt;a href="/12548">Here&lt;/a>. The one where I step into the breach and propose yet another RSS extension.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12548</id>
+    <title>Exposing RSS 
+Comments</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>So far, comments have gotten a lot of play in the RSS space: The RSS 2.0 &amp;lt;comments&amp;gt; element to expose a link for a browser-based UI to view/add comments The &amp;lt;slash:comments&amp;gt; extension element to expose the number of comments current made on an item The &amp;lt;wfw:comment&amp;gt; extension element to expose the URL endpoint for posting comments via the CommentAPI However, what's missing is the ability to pull out a list of comments associated with an item. Instead, folks like Sam publish their comments ...</summary>
+    <content type="html">&lt;h1>Exposing RSS 
+Comments&lt;/h1>
+&lt;p>So far, comments have gotten 
+a lot of play in the RSS space:&lt;/p>&lt;ul>&lt;li>The &lt;a href="http://backend.userland.com/rss2#comments">
+	RSS 2.0 &amp;lt;comments&amp;gt; element&lt;/a> to expose a link for a browser-based UI to 
+	view/add comments&lt;/li>&lt;li>The &lt;a href="http://groups.yahoo.com/group/rss-dev/files/Modules/Proposed/mod_slash.html#model">
+	&amp;lt;slash:comments&amp;gt; extension&lt;/a> element to expose the number of comments 
+	current made on an item&lt;/li>&lt;li>The &lt;a href="http://wellformedweb.org/story/9">
+	&amp;lt;wfw:comment&amp;gt; extension&lt;/a> element to expose the URL endpoint for posting 
+	comments via &lt;a href="http://wellformedweb.org/story/9">the 
+	CommentAPI&lt;/a>&lt;/li>&lt;/ul>&lt;p>However, what's missing is the ability to pull 
+out a list of comments associated with an item. Instead, &lt;a href="http://intertwingly.net/rss/">
+folks like Sam publish their comments as a separate feed&lt;/a>, and then &lt;a href="http://www.25hoursaday.com/rssbandit_slashdot2.gif">
+feed readers thread the comments with the content&lt;/a> by comparing the elements 
+from the type feeds (as well as all of the other feeds). That works for most 
+standard-sized RSS sites, but what about sites that exposes hundreds of 
+thousands of entries like msdn.com? Cached per site comment feeds don't scale as 
+well as on-demand per-item comment feeds. Towards that end, I'd like to propose 
+another element to &lt;a href="http://wellformedweb.org/story/9">
+the well-formed web's CommentAPI namespace&lt;/a>: commentRss.&lt;/p>&lt;p>The commentRss 
+element would be a per-item URL for an RSS feed of comments. It looks very like 
+the wfw:comment element:&lt;/p>
+&lt;pre>&amp;lt;wfw:commentRss&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:fuchsia"> &lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:maroon">xmlns&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:fuchsia">:&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:red">wfw&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">=&amp;quot;http://wellformedweb.org/CommentAPI/&amp;quot;&amp;gt;&lt;/span>&amp;nbsp;
+  http://bitworking.org/news/commentsRss/52
+&amp;lt;/wfw:commentRss&amp;gt;&lt;/pre>&lt;p>With wfw:commentRss, the RSS reader can pull the 
+comments down on demand, merging them in with the cross-references from other 
+blogs as it does now. In addition, an extension to RSS like this would allow 
+feed readers to subscribe to comments for a particular item, either manually for 
+conversations in which the user is interested or automatically when the user 
+posted a comment for an item.&lt;/p>&lt;p>&lt;a href="/12548">
+Comments?&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/610</id>
+    <title>PowerToys for Visual Studio .NET 2003</title>
+    <updated>2003-06-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-11T07:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: </summary>
+    <content type="html">&lt;h1>PowerToys for Visual Studio .NET 2003&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/ide/">Here&lt;/a>. From Andrew Webb: </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/609</id>
+    <title>.NET Rocks Interview -- Chris Sells (Again!)</title>
+    <updated>2003-06-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-06-11T07:00:00.000Z</published>
+    <summary>Here. "Chris talks with Carl and Mark about Longhorn, Working at Microsoft, his book with Don Box, his new Windows Forms book, dealing with Printer Margins, passing command-line arguments to auto-deployed applications, linking assemblies, the new Matrix movie, what's new in Ghengis, and answers the age old question 'to GAC or not to GAC?'"</summary>
+    <content type="html">&lt;h1>.NET Rocks Interview -- Chris Sells (Again!)&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. "Chris talks with Carl and Mark about Longhorn, Working at Microsoft, his book with Don Box, his new Windows Forms book, dealing with Printer Margins, passing command-line arguments to auto-deployed applications, linking assemblies, the new Matrix movie, what's new in Ghengis, and answers the age old question 'to GAC or not to GAC?'"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/608</id>
+    <title>Only 1 Month Left 'til Applied XML Dev. Conference</title>
+    <updated>2003-06-10T07:00:00.000Z</updated>
+    <published>2003-06-10T07:00:00.000Z</published>
+    <summary>Here. There's only one month left 'til Dave, Sam, Don, Steve, Chris, Tim and a whole bunch of other guys into XML on an unhealthly level gather for the Applied XML Developer's Conference. Don't miss it! Click the link for details.</summary>
+    <content type="html">&lt;h1>Only 1 Month Left 'til Applied XML Dev. Conference&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. There's only one month left 'til Dave, Sam, Don, Steve, Chris, Tim and a whole bunch of other guys into XML on an unhealthly level gather for the Applied XML Developer's Conference. Don't miss it! Click the link for details.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/607</id>
+    <title>BinaryComboBox .NET released!</title>
+    <updated>2003-06-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-08T07:00:00.000Z</published>
+    <summary>Here. From : A handy ComboBox control for developers!</summary>
+    <content type="html">&lt;h1>BinaryComboBox .NET released!&lt;/h1>
+&lt;a href="http://www.binarymission.co.uk/binarycombobox.aspx">Here&lt;/a>. From : A handy ComboBox control for developers!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/606</id>
+    <title>Chris Sells mentioned on Coast to Coast AM</title>
+    <updated>2003-06-07T07:00:00.000Z</updated>
+    <published>2003-06-07T07:00:00.000Z</published>
+    <summary>From Guy Incognito: As I was falling asleep, I heard Chris Sell's name mentioned on Coast to Coast AM Radio by William Poundstone as he was discussing his book "How Would You Move Mt. Fuji: Microsoft's Cult of the Puzzle". </summary>
+    <content type="html">&lt;h1>Chris Sells mentioned on Coast to Coast AM&lt;/h1>
+From Guy Incognito: As I was falling asleep, I heard Chris Sell's name mentioned on Coast to Coast AM Radio by William Poundstone as he was discussing his book "How Would You Move Mt. Fuji: Microsoft's Cult of the Puzzle".
+
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/605</id>
+    <title>Yet another C# feature creeps into Java</title>
+    <updated>2003-06-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-06T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger: Java SDK 1.5 (code named Tiger) is going to support variable length argument lists. In C#, this is accomplished via the params keyword. In Java, they are going to use an ellipsis token.</summary>
+    <content type="html">&lt;h1>Yet another C# feature creeps into Java&lt;/h1>
+&lt;a href="http://madbean.com/blog/22/">Here&lt;/a>. From Keith Wedinger: Java SDK 1.5 (code named Tiger) is going to support variable length argument lists.  In C#, this is accomplished via the params keyword.  In Java, they are going to use an ellipsis token.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/604</id>
+    <title>Agile .NET Development mailing list</title>
+    <updated>2003-06-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-06T07:00:00.000Z</published>
+    <summary>Here. From Bernard Vander Beken: A new list where Agile Software Development using the.NET Framework can be discussed. Example topics: Unit Testing, Refactoring and Continuous Integration.</summary>
+    <content type="html">&lt;h1>Agile .NET Development mailing list&lt;/h1>
+&lt;a href="http://groups.yahoo.com/group/agiledotnet/">Here&lt;/a>. From Bernard Vander Beken: A new list where Agile Software Development using the .NET Framework can be discussed.
+
+Example topics: Unit Testing, Refactoring and Continuous Integration.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12549</id>
+    <title>Ref-Counting 
++ Rotor Status</title>
+    <updated>2003-06-05T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-05T07:00:00.000Z</published>
+    <summary>I just got this email from Chris Tavares (who's doing the lion's share of the implementation work to add ref-counting to Rotor): using System; class FinalizerObj { &amp;nbsp; int n; &amp;nbsp; public FinalizerObj( int n) { &amp;nbsp;&amp;nbsp;&amp;nbsp; this.n = n; &amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Created Finalizer object {0}&amp;quot;, n); &amp;nbsp; } &amp;nbsp; ~FinalizerObj() { &amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Finalizing finalizer object {0}&amp;quot;, n);</summary>
+    <content type="html">&lt;h1>Ref-Counting 
++ Rotor Status&lt;/h1>
+&lt;p>I just got this email 
+from Chris Tavares (who's doing the lion's share of the implementation work to 
+add ref-counting to Rotor):&lt;/p>&lt;blockquote>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+	using&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+	System;&lt;br>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+	class&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+	FinalizerObj {&lt;br>&amp;nbsp; &lt;span style="color:blue">int&lt;/span> n;&lt;br>&lt;br>&amp;nbsp; &lt;span style="color:blue">
+	public&lt;/span> FinalizerObj(&lt;span style="color:blue">int&lt;/span> n) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+	this&lt;/span>.n = n;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Created 
+	Finalizer object {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>&lt;br>&amp;nbsp; ~FinalizerObj() {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+	Console.WriteLine(&amp;quot;Finalizing finalizer object {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>}&lt;br>&lt;br>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+	class&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+	TestApp {&lt;br>&amp;nbsp; &lt;span style="color:blue">public&lt;/span> &lt;span style="color:blue">
+	static&lt;/span> &lt;span style="color:blue">void&lt;/span> Main() {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+	for&lt;/span>( &lt;span style="color:blue">int&lt;/span> i = 0; i &amp;lt; 5; ++i ) 
+	LeakAnObj(i);&lt;br>&amp;nbsp; }&lt;br>&lt;br>&amp;nbsp; &lt;span style="color:blue">static&lt;/span> &lt;span style="color:blue">
+	void&lt;/span> LeakAnObj( &lt;span style="color:blue">int&lt;/span> i ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+	FinalizerObj obj = &lt;span style="color:blue">new&lt;/span> FinalizerObj(i);&lt;br>&amp;nbsp; 
+	}&lt;br>}&lt;/span>&lt;/p>&lt;p>Under the desktop CLR, I get this:&lt;pre>
+C:\Home\Chris\Projects\Rotor\src\tests&amp;gt;FinalizerTest&lt;br>Created Finalizer object 0&lt;br>Created Finalizer object 1&lt;br>Created Finalizer object 2&lt;br>Created Finalizer object 3&lt;br>Created Finalizer object 4&lt;br>Finalizing finalizer object 4&lt;br>Finalizing finalizer object 0&lt;br>Finalizing finalizer object 3&lt;br>Finalizing finalizer object 2&lt;br>Finalizing finalizer object 1
+&lt;/pre>But when I run under Rotor, now I get this:&lt;br>&lt;pre>
+C:\Home\Chris\Projects\Rotor\src\tests&amp;gt;clix FinalizerTest.exe&lt;br>Created Finalizer object 0&lt;br>Finalizing finalizer object 0&lt;br>Created Finalizer object 1&lt;br>Finalizing finalizer object 1&lt;br>Created Finalizer object 2&lt;br>Finalizing finalizer object 2&lt;br>Created Finalizer object 3&lt;br>Finalizing finalizer object 3&lt;br>Created Finalizer object 4&lt;br>Finalizing finalizer object 4&lt;br>Finalizing finalizer object 4&lt;br>Finalizing finalizer object 0&lt;br>Finalizing finalizer object 3&lt;br>Finalizing finalizer object 2&lt;br>Finalizing finalizer object 1&lt;/pre>&lt;p>
+	I obviously still need to figure out how to pull the object off the 
+	finalization queue, but that will have to wait until tomorrow night.&lt;/p>&lt;/blockquote>&lt;p>
+Even though they're being called by us and by the GC, this is the first time 
+we've been able to get finalizers working. Wahoo!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/603</id>
+    <title>I've got spurs...</title>
+    <updated>2003-06-05T07:00:00.000Z</updated>
+    <published>2003-06-05T07:00:00.000Z</published>
+    <summary>Here. I'm walking down the hall this morning after a successful meeting in building 40. I'm wearing shorts 'cuz it's sunny in Seattle (!) and the shorts have 6 pockets, the two extras in front and below the two standard pockets. Because I'm away from home, my pockets are filled with my wallet, cell phone, keys, a few days worth of change, my sun glasses and a PAA (Personal Analog Assistant) that I'm carrying. Since most of the stuff is in my lower pockets, I'm more sauntering than walking. Also, at each ste...</summary>
+    <content type="html">&lt;h1>I've got spurs...&lt;/h1>
+&lt;a href="http://members.tripod.com/~rosemck1/ive-got-spurs-that-jingle-jangle-jingle.mid">Here&lt;/a>. I'm walking down the hall this morning after a successful meeting in building 40. I'm wearing shorts 'cuz it's sunny in Seattle (!) and the shorts have 6 pockets, the two extras in front and below the two standard pockets.
+
+Because I'm away from home, my pockets are filled with my wallet, cell phone, keys, a few days worth of change, my sun glasses and a PAA (Personal Analog Assistant) that I'm carrying. Since most of the stuff is in my lower pockets, I'm more sauntering than walking. Also, at each step, I jingle, because of the change and the keys, ching-ching-ching...
+
+Then I realize that I'm humming. While this isn't unusual (I'm generally a happy fellow), after a few seconds, I realize the tune and bust out laughing. Follow the link for the tune...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/602</id>
+    <title>Ref-Counting + Rotor Status</title>
+    <updated>2003-06-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-05T07:00:00.000Z</published>
+    <summary>Here. ChrisT got finalizers working. The wonder of the ref-counted programming model in.NET is coming into focus. Wahoo!</summary>
+    <content type="html">&lt;h1>Ref-Counting + Rotor Status&lt;/h1>
+&lt;a href="/12549">Here&lt;/a>. ChrisT got finalizers working. The wonder of the ref-counted programming model in .NET is coming into focus. Wahoo!</content>
+  </entry>
+</feed>

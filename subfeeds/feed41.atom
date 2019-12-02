@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed41.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed40.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed42.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed41.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1830</id>
+    <title>Limiting/Monitoring my sons' access to the 'net?</title>
+    <updated>2005-07-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-07-27T07:00:00.000Z</published>
+    <summary>My 11-year old wants to do email and IM and he's already surfing the web. Does anyone have any recommendations for good software to limit and monitor his internet access? Thanks! </summary>
+    <content type="html">&lt;h1>Limiting/Monitoring my sons' access to the 'net?&lt;/h1>
+&lt;P>My 11-year old wants to do email and IM and he's already surfing the web. Does anyone have any recommendations for good software to limit and monitor his internet access? Thanks!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1829</id>
+    <title>Cool Avalon Default Style Trick</title>
+    <updated>2005-07-22T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-22T07:00:00.000Z</published>
+    <summary>Karsten shows a cool trick for pulling out the default style of an Avalon lookless control. This is super useful if you want to replace an existing control's look, but you don't want to have to start from scratch.</summary>
+    <content type="html">&lt;h1>Cool Avalon Default Style Trick&lt;/h1>
+Karsten shows &lt;A href="http://blogs.msdn.com/karstenj/archive/2005/07/22/441959.aspx">a cool trick for pulling out the default style of an Avalon lookless control&lt;/A>. This is super useful if you want to replace an existing control's look, but you don't want to have to start from scratch.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1828</id>
+    <title>Have Sex With Prostitutes at the PDC</title>
+    <updated>2005-07-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-07-20T07:00:00.000Z</published>
+    <summary>At least that's the message I'm getting from the 2nd episode of the Channel 9 guy's trip across country to the PDC (I'm not saying that's a bad message -- it sure beats the whole "ActiveX" thing...).</summary>
+    <content type="html">&lt;h1>Have Sex With Prostitutes at the PDC&lt;/h1>
+At least that's the message I'm getting from &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=89877">the 2nd episode of the Channel 9 guy's trip across country to the PDC&lt;/A> (I'm not saying that's a bad message -- it sure beats the whole "ActiveX" thing...).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1827</id>
+    <title>I don't know who has time for this stuff @ work...</title>
+    <updated>2005-07-17T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-07-17T07:00:00.000Z</published>
+    <summary>but it's fun anyway... [ Scoble ] </summary>
+    <content type="html">&lt;h1>I don't know who has time for this stuff @ work...&lt;/h1>
+&lt;P>but &lt;A href="http://www.newstoday.com/cinema/cinema.php?id=28">it's fun&lt;/A> anyway...&lt;/P>
+&lt;P>[&lt;A href="http://radio.weblogs.com/0001011/2005/07/13.html#a10623">Scoble&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1826</id>
+    <title>My First MsBuild Task</title>
+    <updated>2005-07-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-16T07:00:00.000Z</published>
+    <summary>Here. The one where I built my first custom msbuild task.</summary>
+    <content type="html">&lt;h1>My First MsBuild Task&lt;/h1>
+&lt;a href="/12470">Here&lt;/a>. The one where I built &lt;a href="/12470">my first custom msbuild task&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12470</id>
+    <title>My First MsBuild Task</title>
+    <updated>2005-07-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-07-16T07:00:00.000Z</published>
+    <summary>I wrote my first custom msbuild task this morning. I used the the Extend the MSBuild with a New Task topic from the msbuild wiki and it worked well to get me started. I started with the simplest thing that used at least an input property: // HelloTask.cs
+using System;
+using Microsoft.Build.Utilities; // reference assembly of same name
+using Microsoft.Build.Framework; // ditto namespace MyFirstTask { public class HelloTask : Task { string _who; [Required] public string Who { get { return _who; } set { _who =...</summary>
+    <content type="html">&lt;h1>My First MsBuild Task&lt;/h1>
+&lt;p align="left">I wrote my first custom msbuild task this morning. I used the the &lt;a href="http://channel9.msdn.com/wiki/default.aspx/MSBuild.ExtendMSBuildWithANewTask">Extend the MSBuild with a New Task&lt;/a> topic from the msbuild wiki and it worked well to get me started. I started with the simplest thing that used at least an input property:&lt;/p>&lt;div align="left">&lt;blockquote>
+&lt;pre>// HelloTask.cs
+using System;
+using Microsoft.Build.Utilities; // reference assembly of same name
+using Microsoft.Build.Framework; // ditto
+
+namespace MyFirstTask {
+  public class HelloTask : Task {
+    string _who;
+
+&lt;b>    [Required]
+    public string Who {
+&lt;/b>      get { return _who; }
+      set { _who = value; }
+&lt;b>    }
+&lt;/b>
+&lt;b>    public override bool Execute() {
+      Log.LogMessage(string.Format(&amp;quot;hello, {0}!&amp;quot;, _who));
+      return true;
+    }
+&lt;/b>  }
+}&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&lt;p align="left">My task implements the msbuild ITask interface by deriving from the Task helper base class, which provides the Log object, among other things. The only thing I have to do is implement the Execute method, which needs to return true on success. To prove that my task is called, I use the Log object to log a message (I could also log an error or a warning). The public Who property is set from the use of the task in an msbuild file. By marking the property with the Required attribute, I ensure that msbuild itself makes sure that a Who is provided.&lt;/div>&lt;div align="left">&lt;p align="left">Once I've compiled my task, I can use it directly from a .proj (or .csproj or .vbproj) file:&lt;/div>&lt;div align="left">&lt;blockquote>
+&lt;pre>&amp;lt;!-- fun.proj --&amp;gt;
+&amp;lt;Project xmlns=&amp;quot;http://schemas.microsoft.com/developer/msbuild/2003&amp;quot;&amp;gt;
+  &amp;lt;Target Name=&amp;quot;HelloTarget&amp;quot;&amp;gt;
+&lt;b>    &amp;lt;HelloTask Who=&amp;quot;Joe&amp;quot; /&amp;gt;
+&lt;/b>  &amp;lt;/Target&amp;gt;
+&lt;b>  &amp;lt;UsingTask
+    TaskName=&amp;quot;MyFirstTask.HelloTask&amp;quot;
+    AssemblyFile=&amp;quot;C:\MyFirstTask\bin\Release\MyFirstTask.dll&amp;quot; /&amp;gt;
+&lt;/b>&amp;lt;/Project&amp;gt;&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&lt;p align="left">Notice the HelloTask element, which creates an instance of my HelloTask class and sets the Who property. The mapping between the HelloTask and the MyFirstTask.HelloTask class in the MyFirstTask.dll assembly is in the UsingTask element. Running msbuild against fun.proj yields the following output:&lt;/div>&lt;div align="left">&lt;blockquote>
+&lt;pre>C:\taskfun&amp;gt;&lt;b>msbuild fun.proj&lt;/b>
+Microsoft (R) Build Engine Version 2.0.50215.44
+[Microsoft .NET Framework, Version 2.0.50215.44]
+Copyright (C) Microsoft Corporation 2005. All rights reserved.
+
+Build started 7/16/2005 7:04:09 PM.
+__________________________________________________
+Project &amp;quot;C:\taskfun\fun.proj&amp;quot; (default targets):
+
+&lt;b>Target HelloTarget:
+hello, Joe!
+&lt;/b>
+Build succeeded.
+0 Warning(s)
+0 Error(s)
+
+Time Elapsed 00:00:00.04&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&lt;p align="left">Notice the &amp;quot;hello, Joe!&amp;quot; output by the task as its Execute method is called. Notice also that while the task is in its folder, the .proj file can be anywhere, so long as it has a UsingTask that maps appropriately. By convention, the UsingTask elements are kept in .targets files and put into shared folders to be used between multiple project files, e.g. Microsoft.common.targets, etc. Refactoring the UsingTask out of the .proj file and into a .targets file looks like this:&lt;/div>&lt;blockquote>&lt;div align="left">
+&lt;pre>&amp;lt;!-- My.Fun.targets --&amp;gt;
+&amp;lt;Project xmlns=&amp;quot;http://schemas.microsoft.com/developer/msbuild/2003&amp;quot;&amp;gt;
+&lt;b>  &amp;lt;UsingTask
+    TaskName=&amp;quot;MyFirstTask.HelloTask&amp;quot;
+    AssemblyFile=&amp;quot;C:\MyFirstTask\bin\Release\MyFirstTask.dll&amp;quot; /&amp;gt;
+&lt;/b>&amp;lt;/Project&amp;gt;&lt;/pre>&lt;/div>&lt;div align="left">
+&lt;pre>&amp;lt;!-- fun.proj --&amp;gt;
+&amp;lt;Project xmlns=&amp;quot;http://schemas.microsoft.com/developer/msbuild/2003&amp;quot;&amp;gt;
+  &amp;lt;Target Name=&amp;quot;HelloTarget&amp;quot;&amp;gt;
+&lt;b>    &amp;lt;HelloTask Who=&amp;quot;Joe&amp;quot; /&amp;gt;
+&lt;/b>  &amp;lt;/Target&amp;gt;
+&lt;b>  &amp;lt;Import Project=&amp;quot;c:\My.Fun.targets&amp;quot; /&amp;gt;
+&lt;/b>&amp;lt;/Project&amp;gt;&lt;/pre>&lt;/div>&lt;/blockquote>&lt;div align="left">&lt;p align="left">Of course, a real task does far more than this one, but it was hella easy to get started.&lt;/div></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1823</id>
+    <title>Looking forward to the Portland Code Camp, 7/23-24</title>
+    <updated>2005-07-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-12T07:00:00.000Z</published>
+    <summary>The session list for the Portland Code Camp, July 23-24, has just been posted. I'm especially looking forward to the following:.NET Windows Forms Tips &amp;amp; Tricks Forensic Development Implementing Creature AI Introduction to Inform Introduction to Python Introduction to Ruby Ruby on Rails MonoRail - ASP.NET on Rails Web Unit Testing with Ruby and Watir That's only if my wife doesn't have my working on the house (we're prepping it for sale). Of course, I don't know if she'll understand that I've volunteered...</summary>
+    <content type="html">&lt;h1>Looking forward to the Portland Code Camp, 7/23-24&lt;/h1>
+&lt;P>&lt;A href="http://pacwest.ms/codecamp/pdx/1/sessions.html">The session list for the Portland Code Camp&lt;/A>, July 23-24, has just been posted. I'm especially looking forward to the following:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>.NET Windows Forms Tips &amp;amp; Tricks&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Forensic Development&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Implementing Creature AI&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Introduction to Inform&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Introduction to Python&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Introduction to Ruby&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Ruby on Rails&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>MonoRail - ASP.NET on Rails&lt;/STRONG>&lt;/LI>
+&lt;LI>&lt;STRONG>Web Unit Testing with Ruby and Watir&lt;/STRONG>&lt;/LI>&lt;/UL>
+&lt;P>That's only if my wife doesn't have my working on the house (we're prepping it for sale). Of course, I don't know if she'll understand that I've volunteered to give my own session: "&lt;STRONG>Some Cool Avalon Stuff&lt;/STRONG>"...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1824</id>
+    <title>Eric Sink: The Game is Afoot</title>
+    <updated>2005-07-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-12T07:00:00.000Z</published>
+    <summary>I don't know if Eric understands the ISV industry or not, but certainly seems to. Luckily, I'm on a real product team now, so I get to try to channel Eric into my work. Eric's latest writing is The Game is Afoot, in which he describes various games and then draws lessons from them for ISVs. It's fabulous. He concludes by apologizing for the length and then teasing us with the analogies he left off. It wasn't too long, Eric! I wanted more! (I also want your blog to have comments, but that's another thing ent...</summary>
+    <content type="html">&lt;h1>Eric Sink: The Game is Afoot&lt;/h1>
+&lt;P>I don't know if Eric understands the ISV industry or not, but certainly &lt;EM>seems&lt;/EM> to. Luckily, I'm on a real product team now, so I get to try to channel Eric into my work.&lt;/P>
+&lt;P>Eric's latest writing is &lt;A href="http://software.ericsink.com/articles/Game_Afoot.html">The Game is Afoot&lt;/A>, in which he describes various games and then draws lessons from them for ISVs. It's fabulous. He concludes by apologizing for the length and then teasing us with the analogies he left off. It wasn't too long, Eric! I wanted more! (I also want your blog to have comments, but that's another thing entirely...)&lt;/P>
+&lt;P>I think now I understand &lt;A href="/1777">the public outcry when I suggested that I might cut down on the material in the Windows Forms 2.0 book&lt;/A>...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1825</id>
+    <title>Amazing XAML Tool: Adobe Illustrator -> XAML</title>
+    <updated>2005-07-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-07-12T07:00:00.000Z</published>
+    <summary>Mike Swanson has posted an amazing Adobe Illustrator to XAML conversion tool. You have to check out the eye candy page to really see what Mike's been able to accomplish; it's not perfect, but it's damn good.</summary>
+    <content type="html">&lt;h1>Amazing XAML Tool: Adobe Illustrator -> XAML&lt;/h1>
+Mike Swanson has posted &lt;A href="http://blogs.msdn.com/mswanson/archive/2005/07/12/438178.aspx">an &lt;EM>amazing&lt;/EM> Adobe Illustrator to XAML conversion tool&lt;/A>. You have to check out &lt;A href="http://www.mikeswanson.com/XAMLExport/Eye%20Candy.htm">the eye candy page&lt;/A> to really see what Mike's been able to accomplish; it's not perfect, but it's &lt;EM>damn good&lt;/EM>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12471</id>
+    <title>Enjoying This Moment</title>
+    <updated>2005-07-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-07-10T07:00:00.000Z</published>
+    <summary>I'm sitting at my computer on Sunday morning with &amp;quot;nothing&amp;quot; to do (I mean, I could always work, but my team is good about taking weekends off). This morning comes after 3.5 months straight of evenings and weekends working on the Avalon book (I'm talking 20+ hours/week on the book on top of the 50-60 hours/week I spent getting up to speed on my new job). The final push was this week, which I took as vacation from work (&amp;quot;you took vacation to work!&amp;quot; my wife likes to say...). Last night, I p...</summary>
+    <content type="html">&lt;h1>Enjoying This Moment&lt;/h1>
+&lt;p>I'm sitting at my computer on Sunday morning with &amp;quot;nothing&amp;quot; to do (I mean, I could always work, but my team is good about taking weekends off). This morning comes after 3.5 months straight of evenings and weekends working on the Avalon book (I'm talking 20+ hours/week on the book on top of the 50-60 hours/week I spent getting up to speed on my new job). The final push was this week, which I took as vacation from work (&amp;quot;you took vacation to work!&amp;quot; my wife likes to say...).&lt;/p>&lt;p>Last night, I produced the 2nd draft of my last 1st draft chapter (which I was happy to trim by 17 pages w/o losing anything useful) and composed comments on a 2nd draft of Ian's chapter that was in my queue.&lt;/p>&lt;p>This morning, I took care of a reviewer comment that's been nagging me, sent Ian my feedback and composed a detailed schedule of the rest of my day which consists of:&lt;/p>&lt;ul>&lt;li>wait for feedback on non-finalized chapters&lt;/li>&lt;li>apply feedback and finalize my last two chapters (30-60 minutes)&lt;/li>&lt;li>produce 2nd draft of book preface (1-2 hours)&lt;/li>&lt;li>review anything Ian sends my way (1-2 hours)&lt;/li>&lt;li>(maybe) review 1st draft of chapter from the WinForms 2.0 book (1-2 hours)&lt;/li>&lt;/ul>&lt;p>Compared to how I have been spending my time lately, that's an extremely light day.&lt;/p>&lt;p>This book has been particularly difficult to write. Most of my writing has been on insights that I or the other members of the community have discovered in the use of the technology. These kinds of insights come after the technology is shipped and we've all had a chance to get to know it. Avalon, on the other hand, has a ways to go before it ships and the developer community is very small. Plus, some parts of Avalon don't work very well or have changed significantly since I first learned about them. The consequence of this is that most of my writings on Avalon have had to have at least one massive overhaul as I a) learn the best way to think about them and b) update them to actually reflect the latest bits.&lt;/p>&lt;p>The rub is that by the time the book sees the light of day (it should be on the PDC show floor), the Avalon team will likely have shipped another version of the bits, obsolescing what Ian and I have worked like dogs to ship. Of course, we'll post the errata and we'll update the book for the Avalon RTM, but still, it hurts that most of you won't be able to read the book when it's a perfect match for the bits.&lt;/p>&lt;p>I get to read it, though, and I'll tell you -- right now,&amp;nbsp;the book rocks. : )&amp;nbsp; And the reason it rocks? Ian and I have worked hard to make sure it does, of course, but it's mostly been the internal and external reviewers that have done such a great job pointing out where we got it wrong. It's tough to hear, especially when it means a complete chapter re-write (I just finished one of those last night), but I'm so happy with the results that I'm willing to love them anyway.&lt;/p>&lt;p>Now I've raised the bar impossible high, but screw that -- I'm enjoying the moment...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1822</id>
+    <title>Enjoying This Moment</title>
+    <updated>2005-07-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-07-10T07:00:00.000Z</published>
+    <summary>Here. The one where I enjoy the passing of the book writing storm, if only for a moment. </summary>
+    <content type="html">&lt;h1>Enjoying This Moment&lt;/h1>
+&lt;a href="/12471">Here&lt;/a>. &lt;P>The one where &lt;a href="/12471">I enjoy the passing of the book writing storm&lt;/A>, if only for a moment.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1821</id>
+    <title>Is it creepy that I think this is valid?</title>
+    <updated>2005-07-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-07-10T07:00:00.000Z</published>
+    <summary>I've used this technique to keep people from dumping their work on me. Now I'm creeped out about it...</summary>
+    <content type="html">&lt;h1>Is it creepy that I think this is valid?&lt;/h1>
+I've used &lt;A href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20050710.html">this technique&lt;/A> to keep people from dumping their work on me. Now I'm creeped out about it...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1820</id>
+    <title>Old Man's War</title>
+    <updated>2005-07-06T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-07-06T07:00:00.000Z</published>
+    <summary>I read Old Man's War today (no better way to avoid writing than to read). I enjoyed it very much. I'm off to check out the author's web site now.</summary>
+    <content type="html">&lt;h1>Old Man's War&lt;/h1>
+I read &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0765309408/chrissells/">Old Man's War&lt;/A> today (no better way to avoid writing than to read). I enjoyed it very much. I'm off to check out &lt;A href="http://www.scalzi.com/">the author's web site&lt;/A> now.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1818</id>
+    <title>Register for COM Interop and VS05b2</title>
+    <updated>2005-07-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-05T07:00:00.000Z</published>
+    <summary>I was helping a colleague work through a.NET COM interop issue. He'd found my article on the topic (" Hosting Windows Forms Controls in COM Control Containers "), but couldn't get it to work. He'd set the Register for COM Interop setting and adding the Guid attribute to his.NET type, but nothing was registered at build-time. The problem was that, unlike VS03, the wizard-generated AssemblyInfo.cs has the assembly-wide ComVisible attribute set to "false" which causes regasm (the command-line version of what V...</summary>
+    <content type="html">&lt;h1>Register for COM Interop and VS05b2&lt;/h1>
+&lt;P>I was helping a colleague work through a .NET COM interop issue. He'd found my article on the topic ("&lt;A href="http://www.ondotnet.com/pub/a/dotnet/2003/01/20/winformshosting.html">Hosting Windows Forms Controls in COM Control Containers&lt;/A>"), but couldn't get it to work. He'd set the Register for COM Interop setting and adding the Guid attribute to his .NET type, but nothing was registered at build-time.&lt;/P>
+&lt;P>The problem was that, unlike VS03, the wizard-generated AssemblyInfo.cs has the assembly-wide ComVisible attribute set to "false" which causes regasm (the command-line version of what VS is doing to register your .NET assembly with COM at build-time) to skip the registration of all of the .NET types in your assembly, defeating the purpose of the Register for COM Interop option pretty thoroughly.&lt;/P>
+&lt;P>The trick, of course, is to set ComVisible to "true".&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1817</id>
+    <title>Grid: The King of Avalon Layout</title>
+    <updated>2005-07-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-07-05T07:00:00.000Z</published>
+    <summary>The Grid is by far the most useful, powerful and general purpose layout tool in Avalon. As a demonstration of that, Amir Khella, a Microsoft PM on an Avalon-related team, plays with the Grid to build a fish eye effect, duplicating the behavior of the scaling OSX toolbar with 8 lines of C# code.&amp;nbsp;He then goes on to implement the trick in 2D to scale images as you mouse around. Cool stuff.</summary>
+    <content type="html">&lt;h1>Grid: The King of Avalon Layout&lt;/h1>
+The Grid is by far the most useful, powerful and general purpose layout tool in Avalon. As a demonstration of that, Amir Khella, a Microsoft PM on an Avalon-related team, plays with the Grid to build a fish eye effect, &lt;A href="http://www.elementsofpassion.com/archives/2005/07/playing_around.html">duplicating the behavior of the scaling OSX toolbar with 8 lines of C# code&lt;/A>.&amp;nbsp;He then goes on to implement the trick in 2D to &lt;A href="http://www.elementsofpassion.com/archives/2005/07/more_avalon_gri.html">scale images as you mouse around&lt;/A>. Cool stuff.</content>
+  </entry>
+</feed>

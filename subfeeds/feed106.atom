@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed106.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed105.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed107.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed106.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/920</id>
+    <title>My First PDC as a Microsoftie</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Here. The one where I look behind the curtain, see the wizard and like it.</summary>
+    <content type="html">&lt;h1>My First PDC as a Microsoftie&lt;/h1>
+&lt;a href="/12518">Here&lt;/a>. The one where I look behind the curtain, see the wizard and like it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12516</id>
+    <title>Time For An Exciting Career In Electronics</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Monday, November 3, 2003 Depending on how you look at it, what I'm best at in the whole world has either become completely unnecessary or incredibly easy. The skill that I spent most of the last 10 years learning was to look at a group of types, APIs, reference docs, headers, source code, etc., distill it down to a set of architectural intentions and then to weave a story through the whole thing to make sense of it for developers that weren't able to glean the intensions themselves (most often because they ...</summary>
+    <content type="html">&lt;h1>Time For An Exciting Career In Electronics&lt;/h1>
+&lt;p>&lt;i>Monday, &lt;span class="created">November 3, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>Depending on how you look at it, what I'm best at in the whole 
+world has either become completely unnecessary or incredibly easy. The skill 
+that I spent most of the last 10 years learning was to look at a group of types, 
+APIs, reference docs, headers, source code, etc., distill it down to a set of 
+architectural intentions and then to weave a story through the whole thing to 
+make sense of it for developers that weren't able to glean the intensions 
+themselves (most often because they had real jobs). I call this exhaustive 
+search for intention officially at an end. I'm no longer needed except as a 
+gatherer for those not yet facile in RSS aggregators (which, luckily for me, is 
+still a large number : ).&lt;/p>&lt;p>Blogs like &lt;a href="http://www.simplegeek.com/">
+Chris's&lt;/a>, &lt;a href="http://weblogs.asp.net/scottgu/">Scott's&lt;/a> 
+and &lt;a href="http://blogs.gotdotnet.com/raymondc/">Raymond's&lt;/a> 
+go way beyond the &amp;quot;what&amp;quot; that docs and web sites and even mailing 
+lists/newsgroups/web forums have typically stuck with and gone right into the 
+&amp;quot;why.&amp;quot; And not only that, but Chris is actually taking that next step on his 
+blog. In the old days, before my favorite technology company became so damn 
+open, if I wanted to comment on something, I had to painstakingly track down the 
+right people at Microsoft, make friends with them (which first demanded that I 
+learn social skills) and then convince them that someone outside of MS might 
+actually have something intelligent and useful to say. This often involved years 
+of stalking 'softies in mailing lists and conference halls and now &lt;a href="http://www.simplegeek.com/commentview.aspx/b7e02709-0112-4977-9b73-1aa9d471a570">
+Chris is letting anyone give him feedback to which he actually listens&lt;/a>!&lt;/p>&lt;p>
+What use a hack like me that doesn't invent something, but merely figures out 
+how existing things work so that I can tell someone about it if the guy that 
+invents it does that part, too?!? I wonder if there are slots left in the 
+vocational technical school near my house...&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12518</id>
+    <title>My First PDC as a Microsoftie</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>After all the preparation, planning and sheer work, it's a letdown for the PDC to actually be over. It was an amazing experience for me to be &amp;quot;back stage&amp;quot; at a PDC, the only conference I'd spent my own money on for years (although as a speaker, they let me in gratis this year : ). Things I Heard: As a Microsoft employee, my job is to listen and take feedback home. Here's what I heard: Longhorn, Avalon/XAML, Indigo, WinFS, ClickOnce: good Improvements in VS.NET and ASP.NET: good Indigo and ClickOnc...</summary>
+    <content type="html">&lt;h1>My First PDC as a Microsoftie&lt;/h1>
+&lt;p>
+After all the preparation, planning and sheer work, it's a letdown for the PDC 
+to actually be over. It was an amazing experience for me to be &amp;quot;back stage&amp;quot; at a 
+PDC, the only conference I'd spent my own money on for years (although as a 
+speaker, they let me in gratis this year : ).&lt;/p>&lt;h2>Things I Heard:&lt;/h2>&lt;p>As a 
+Microsoft employee, my job is to listen and take feedback home. Here's what I 
+heard:&lt;/p>&lt;ul>&lt;li>Longhorn, Avalon/XAML, Indigo, WinFS, ClickOnce: &lt;i>good&lt;/i>&lt;/li>&lt;li>
+	Improvements in VS.NET and ASP.NET: &lt;i>good&lt;/i>&lt;/li>&lt;li>Indigo and ClickOnce 
+	on existing versions of Windows: &lt;i>good&lt;/i>&lt;/li>&lt;li>Avalon not available on 
+	existing versions of Windows: &lt;i>not so good&lt;/i>&lt;br>(Avalon changes things 
+	all the way to the device driver level, so retrofitting it to existing 
+	versions of Windows is impractical)&lt;/li>&lt;li>Not being able to download the 
+	PDC Longhorn and VS.NET Whidbey bits: &lt;i>not so good&lt;/i>&lt;br>(&lt;a href="http://msdn.microsoft.com/longhorn/productinfo">MSDN 
+	subscribers can request the CDs to be sent to them&lt;/a>)&lt;/li>&lt;li>Developers 
+	that didn't go to the PDC and don't have MSDN subscriptions not getting PDC 
+	bits: &lt;i>not so good&lt;/i>&lt;br>(the public beta in the summer of 2004 will open 
+	this up considerably)&lt;/li>&lt;li>&lt;a href="http://msdn.microsoft.com/longhorn/">
+	The Longhorn Developer Center&lt;/a> features and content: &lt;i>good&lt;/i>&lt;br>(whew 
+	: )&lt;/li>&lt;li>Having all kinds of Microsofties at the PDC and on the 
+	newsgroups and mailing lists to answer questions and take feedback: &lt;i>good&lt;/i>&lt;/li>&lt;li>
+	Publicly contributed &lt;a href="http://longhorn.msdn.microsoft.com">
+	annotations on the Longhorn SDK&lt;/a> content: &lt;i>good&lt;/i>&lt;/li>&lt;li>Longhorn 
+	bits running under Virtual PC: &lt;i>good&lt;/i>&lt;/li>&lt;li>Longhorn bits amazingly 
+	functional and stable: &lt;i>good&lt;/i>&lt;/li>&lt;li>Longhorn bits not especially 
+	speedy: &lt;i>not so good&lt;/i>&lt;br>(these are the earliest OS bits we've ever 
+	given to folks -- Longhorn will have &lt;i>years &lt;/i>to improve in this and 
+	every other regard)&lt;/li>&lt;li>Availability of PDC network, both wired and 
+	wireless: &lt;i>not so good&lt;/i>&lt;br>(don't know why this happened)&lt;/li>&lt;li>
+	Stacking up outside the rooms of overflowing sessions: &lt;i>not so good&lt;/i>&lt;br>
+	(although MS attendees were very good about giving up their seats to paying 
+	customers)&lt;/li>&lt;li>Microsoft's commitment to pushing managed code so far 
+	into the OS: &lt;i>good&lt;/i>&lt;/li>&lt;li>Lots of folks interested in contributing to 
+	the Longhorn developer community: &lt;i>good&lt;br>&lt;/i>(if you're planning 
+	something, &lt;a href="mailto:csells@microsoft.com?subject=I Have A Contribution to the Longhorn Developer Community">
+	please let me know&lt;/a>)&lt;/li>&lt;/ul>&lt;h2>Things I Got To Do:&lt;/h2>&lt;p>Also, as a 
+first timer backstage at the PDC (and a long-time member of the Windows 
+developer community), I got to do all kinds of fun things:&lt;/p>&lt;ul>&lt;li>Give a 
+	pre-conference tutorial on WinForms with Rocky Lhotka, a fellow giant 
+	Minnesotan with whom I'd never before had a chance to work&lt;/li>&lt;li>Prepare 
+	Sunday night to do the keynote demo in Chris Anderson's place on Monday 
+	morning with Don Box and Jim Allchin in case Chris couldn't make it past the 
+	fires in time&lt;/li>&lt;li>Hang out on the PDC keynote stage late at night, 
+	soaking up the Chairman of the Board and Sr. VPs doing their last minute 
+	preparations (and inadvertently making career-limiting statements : )&lt;/li>&lt;li>
+	Watch Don and Chris and Jim pull off an amazing all-code keynote that will 
+	go down in history as one of the PDC's best&lt;/li>&lt;li>Hang out at the Ask The 
+	Experts session, coding up repros and solutions to WinForms questions 
+	alongside Mark &amp;quot;Mr. WinForms&amp;quot; Boulter&lt;/li>&lt;li>Wandering the streets of 
+	downtown LA with Frank Redmond looking for Tim Ewald's surprise birthday 
+	party&lt;/li>&lt;li>Answer questions instead of ask them at the MSDN booth&lt;/li>&lt;li>&lt;a href="http://www.sys-con.com/dotnet/radio2003/interviews.cfm">
+	Being&lt;/a>&lt;a href="http://www.sys-con.com/dotnet/radio2003/interviews.cfm"> 
+	interviewed by Jon Box of Sys-Con Radio&lt;/a> and an old ATL student who 
+	blames me for his career choices&lt;/li>&lt;li>Spent a lot of time telling people 
+	about &lt;a href="http://msdn.microsoft.com/developercenters">MSDN Developer 
+	Centers&lt;/a>, where my friends at MSDN work very hard to pull information out 
+	of the vast MSDN library and organize it for particular audiences, e.g. C#, 
+	VB.NET, ASP.NET, Security, VS.NET, the .NET Framework, Architecture, etc.&lt;/li>&lt;li>
+	Shake hands and sign autographs and have my picture taken with all kinds of 
+	old friends and ex-students and readers and conference attendees&lt;/li>&lt;li>
+	Gush like a fan-boy at Tim O'Reilly&lt;/li>&lt;li>Watch a block full of cars all 
+	go backwards one night getting back into &amp;quot;first positions&amp;quot; (it was 
+	California, after all : )&lt;/li>&lt;li>See the 4' high by 20' long WinFS schema 
+	and realize just how much work the WinFS guys are actually doing to capture 
+	&amp;quot;Everyday Information&amp;quot;&lt;/li>&lt;li>Send out the official welcome to &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">
+	the WinFX newsgroups&lt;/a>&lt;/li>&lt;li>Make tweaks to several potential keynote 
+	demos at the last possible moment&lt;/li>&lt;li>Do an interview with .NET 
+	Developer Journal that let me tell my side of all kinds of stories&lt;/li>&lt;li>
+	Get all kinds of feedback from internal and external folks saying nice 
+	things about the project that has consumed me for the last 6 months: &lt;a href="http://msdn.microsoft.com/longhorn/">
+	the Longhorn Developer Center&lt;/a>&lt;/li>&lt;li>Go to a 1am show of &lt;a href="http://www.wheaty.net/PDC2003/100_0079.jpg">
+	The Metal Shop heavy metal &amp;quot;mock 'n' roll&amp;quot; band&lt;/a> at the Viper Room on the 
+	strip in Hollywood with John Shewchuk and Matt Pietrek and screaming my 
+	voice raw to the lyrics&lt;/li>&lt;li>Meet Sunny Day live and in person&lt;/li>&lt;li>
+	Hang out with &lt;a href="http://www.wheaty.net/PDC2003/100_0079.jpg">
+	Matt Pietrek, one of my personal heroes&lt;/a>, along with &lt;a href="http://www.wheaty.net/PDC2003/100_0039.jpg">
+	Tim and Sarah&lt;/a> and most of my closest friends (where was &lt;a href="http://staff.develop.com/candera/weblog2/">
+	Craig&lt;/a>?!?)&lt;/li>&lt;li>Shake my tail feathers to &lt;a href="http://www.wheaty.net/PDC2003/100_0045.jpg">
+	yet another amazing Band on the Runtime gig&lt;/a>&lt;/li>&lt;li>Attend all kinds of 
+	technical sessions on the technologies of Longhorn so that I can continue to 
+	live the Longhorn life for those developers that aren't yet able to&lt;/li>&lt;li>
+	Start the collection of items for a Longhorn Developer FAQ which I'll post 
+	when it reaches critical mass&lt;/li>&lt;li>Hang out with architects from two of 
+	the three main pillars of Longhorn (Don Box, Indigo and Chris Anderson, 
+	Avalon) at the The Kettle in Hermosa Beach&lt;/li>&lt;li>Share a room with the 
+	19-year old .NET wunderkind, Ryan Dawson&lt;/li>&lt;/ul>&lt;p>At this PDC, I 
+definitely got to see how the sausage was made, but that still didn't take away 
+from the deep, rich flavor. Recommend.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12517</id>
+    <title>In Search of Expertise</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>I had an interesting insight while watching Episode II: Attack of the Clones (I had a hankering to see Yoda kick some butt, OK?!?). The definition of expert is someone that just does whatever it is they do; they don't think about it. Everyone else is just learning. What drove this home for me was when Anakin heard of his mother being taken and how everyone else had failed or died looking for her, Anakin started out after her without any planning whatsoever. *That's* an expert. Of course, he had The Force an...</summary>
+    <content type="html">&lt;h1>In Search of Expertise&lt;/h1>
+&lt;p>I had an 
+interesting insight while watching &lt;i>Episode II: Attack of the Clones &lt;/i>(I 
+had a hankering to see Yoda kick some butt, OK?!?). The definition of &lt;i>expert &lt;/i>
+is someone that just does whatever it is they do; they don't think about it. 
+Everyone else is just learning. What drove this home for me was when Anakin 
+heard of his mother being taken and how everyone else had failed or died looking 
+for her, Anakin started out after her without any planning whatsoever. *That's* 
+an expert. Of course, he had The Force and the rest of us have to live with an 
+average amount of midichlorian, but he'd done what I've seen other experts do, 
+too: unconscious competence.&lt;/p>&lt;p>The reason that this is such an insight for 
+me is that for my entire life, I've always felt that there were special people 
+in the world that just know what they're doing. These people worked in companies 
+or were members of a profession and by their association with those 
+organizations, I felt that they must be experts. I mean, how could someone be a 
+member of professional for any length of time and not strive for mastery of the 
+professional? It was watching Anakin that it finally sunk in that mere 
+association is not enough; most organizations, no matter how high their 
+standards, do not stop non-experts at the door. Experts are the ones inside the 
+organizations that rise to the top, that stand out, that set examples for other 
+members. Expertise is the thing that separates a moderately smart person 
+studying up on a topic for a while from someone that really understands 
+something down to their bones. This is what separates me catching up to my 
+financial advisor after 6 months of study from a *real* money manager. That's 
+what separates a new computer science graduate from me.&lt;/p>&lt;p>That's not to say 
+that I couldn't be better than some &amp;quot;real&amp;quot; money managers one day or that the 
+new college grad couldn't be better then me on day one. What it does say, 
+however, is that encountering a true expert is a rare thing. Because of that 
+rarity, I believe that most reasonably intelligent people can, with study and 
+practice, get good at practically anything that they set their mind to. This 
+means that I can, with a reasonable amount of study and practice, check the work 
+of my financial advisor or my accountant or a plumbing contractor and come up 
+with things that they don't. I know that this is true because I've done it (not 
+with the plumbing though, I'm practically clueless there : ). The amount of 
+study I needed to catch up with my professional service provider doesn't make me 
+an expert, of course, because &lt;i>it's highly unlikely that either of them is an 
+expert&lt;/i>.&lt;/p>&lt;p>So, now that I've settled the question of whether membership 
+in a profession makes one an expert (it doesn't), that leaves two questions:&lt;/p>&lt;ol>&lt;li>
+	How do you recognize expertise? I know it when it occurs in something that 
+	I'm familiar with, e.g. computer goo, but what about in a discipline where 
+	I'm not versed?&lt;/li>&lt;li>How do you obtain expertise? I've got this down to &lt;a href="#How_Does_One_Obtain_Inside_Information">
+	a science for programming APIs&lt;/a>, but can these techniques be applied to 
+	other disciplines?&lt;/li>&lt;/ol>&lt;p>&lt;a href="/921">
+Comments on my continued quest for expertise welcome.&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/921</id>
+    <title>In Search of Expertise</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Here. The one where I finally figure out that membership in a profession does not imply expertise in that profession. For those of you saying "duh," that's not helpful... : )</summary>
+    <content type="html">&lt;h1>In Search of Expertise&lt;/h1>
+&lt;a href="/12517">Here&lt;/a>. The one where I finally figure out that membership in a profession does not imply expertise in that profession.
+
+For those of you saying "duh," that's not helpful... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/913</id>
+    <title>PDC Session Slides &amp; Code</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. Not all PDC sessions have slides and/or code yet, but most do. Enjoy!</summary>
+    <content type="html">&lt;h1>PDC Session Slides &amp; Code&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/agendaandsessions/sessions/default.aspx">Here&lt;/a>. Not all PDC sessions have slides and/or code yet, but most do. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/911</id>
+    <title>The Business of Software</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. One of the major goals of Windows has always been to provide a platform on which ISVs and shareware authors can make money and on which corporate developers can save money. Towards that end, I've set up an experimental section of the Longhorn Developer Center called "The Business of Software." It's aimed at collecting resources related to Windows business issues. Check it out and let me know what else you'd like to see there.</summary>
+    <content type="html">&lt;h1>The Business of Software&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/community/business/default.aspx">Here&lt;/a>. One of the major goals of Windows has always been to provide a platform on which ISVs and shareware authors can make money and on which corporate developers can save money.
+
+Towards that end, I've set up an experimental section of the Longhorn Developer Center called "The Business of Software." It's aimed at collecting resources related to Windows business issues.
+
+Check it out and let me know what else you'd like to see there.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/916</id>
+    <title>Hang Out in The Longhorn Newsgroups</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. I'll be hanging out in the Longhorn newsgroups, as will MVPs and the product groups. Come on, come all!</summary>
+    <content type="html">&lt;h1>Hang Out in The Longhorn Newsgroups&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">Here&lt;/a>. I'll be hanging out in the Longhorn newsgroups, as will MVPs and the product groups. Come on, come all!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/918</id>
+    <title>ChrisAn posts a brief history of XAML</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. In general, anyone interested in XAML/Avalon/Longhorn should just subscribe to Chris's blog: http://www.simplegeek.com/blogxbrowsing.asmx/GetRss?</summary>
+    <content type="html">&lt;h1>ChrisAn posts a brief history of XAML&lt;/h1>
+&lt;a href="http://www.simplegeek.com/permalink.aspx/100aec62-3352-4c35-b471-f3f2fa5fac5a">Here&lt;/a>. In general, anyone interested in XAML/Avalon/Longhorn should just subscribe to Chris's blog:
+
+http://www.simplegeek.com/blogxbrowsing.asmx/GetRss?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/898</id>
+    <title>The MSDN Longhorn Developer Center Web Site</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. Sorry for the delay in announcing this, but I had a devil of a time posting blog entries from the PDC. Anyway, the thing I've been working on for the last six months in now live and I've you to take a look and tell me what you think. If you're a developer interested in knowing about Longhorn so that you can make decisions on your current projects or so you can dive right in and program against the PDC bits, this is the site for you. The LHDC includes community news on the Editor's Blog (the "Longhorn"...</summary>
+    <content type="html">&lt;h1>The MSDN Longhorn Developer Center Web Site&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/">Here&lt;/a>. Sorry for the delay in announcing this, but I had a devil of a time posting blog entries from the PDC. Anyway, the thing I've been working on for the last six months in now live and I've you to take a look and tell me what you think.
+
+If you're a developer interested in knowing about Longhorn so that you can make decisions on your current projects or so you can dive right in and program against the PDC bits, this is the site for you.
+
+The LHDC includes community news on the Editor's Blog (the "Longhorn" category of this blog), tons of articles and whitepapers (with more to come), links to Longhorn samples, directions for MSDN subscribers that want the bits but weren't able to come to the PDC, the Longhorn newsgroups hosted on the web in case you don't like using a newsreader, the Longhorn SDK (with live annotations) and more as I think of it.
+
+Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/904</id>
+    <title>The Longhorn SDK Online</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. If you haven't seen it yet, or weren't able to get the CDs from the PDC, you'll want to check out the online Longhorn SDK. Even if you do have the offline LHSDK, you'll want to check out the online version, as it includes experimental support for MSDN Annotations, which lets readers comment on each page.</summary>
+    <content type="html">&lt;h1>The Longhorn SDK Online&lt;/h1>
+&lt;a href="http://longhorn.msdn.microsoft.com/">Here&lt;/a>. If you haven't seen it yet, or weren't able to get the CDs from the PDC, you'll want to check out the online Longhorn SDK.
+
+Even if you do have the offline LHSDK, you'll want to check out the online version, as it includes experimental support for MSDN Annotations, which lets readers comment on each page.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/909</id>
+    <title>Updated CLR Profiler</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. "The CLR Profiler includes a number of very useful views of the allocation profile, including a histogram of allocated types, allocation and call graphs, a time line showing GCs of various generations and the resulting state of the managed heap after those collections, and a call tree showing per-method allocations and assembly loads."</summary>
+    <content type="html">&lt;h1>Updated CLR Profiler&lt;/h1>
+&lt;a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=86ce6052-d7f4-4aeb-9b7a-94635beebdda&amp;DisplayLang=en">Here&lt;/a>. "The CLR Profiler includes a number of very useful views of the allocation profile, including a histogram of allocated types, allocation and call graphs, a time line showing GCs of various generations and the resulting state of the managed heap after those collections, and a call tree showing per-method allocations and assembly loads."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/901</id>
+    <title>Chris Anderson &amp; Don Box Do A Lap Around Longhorn</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. Before they hit it big on the stage during their keynote demo, Chris Anderson and Don Box recorded their now famous "Lap Around Longhorn" demo for MSDN TV. Enjoy!</summary>
+    <content type="html">&lt;h1>Chris Anderson &amp; Don Box Do A Lap Around Longhorn&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031028LHORNDB/manifest.xml">Here&lt;/a>. Before they hit it big on the stage during their keynote demo, Chris Anderson and Don Box recorded their now famous "Lap Around Longhorn" demo for MSDN TV. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/912</id>
+    <title>Paul Thurrott's Windows SuperSite @ the PDC</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. Paul's site has all kinds of Longhorn screenshots and videos from the PDC.</summary>
+    <content type="html">&lt;h1>Paul Thurrott's Windows SuperSite @ the PDC&lt;/h1>
+&lt;a href="http://www.winsupersite.com/reviews/pdc2003.asp">Here&lt;/a>. Paul's site has all kinds of Longhorn screenshots and videos from the PDC.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/902</id>
+    <title>Inside Longhorn: The Details</title>
+    <updated>2003-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-31T08:00:00.000Z</published>
+    <summary>Here. Don Kiely provides a brief overview of the pillars of Longhorn.</summary>
+    <content type="html">&lt;h1>Inside Longhorn: The Details&lt;/h1>
+&lt;a href="http://www.ftponline.com/reports/pdc/2003/kiely2/">Here&lt;/a>. Don Kiely provides a brief overview of the pillars of Longhorn.</content>
+  </entry>
+</feed>

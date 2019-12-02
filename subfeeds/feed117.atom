@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed117.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed116.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed118.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed117.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/764</id>
+    <title>VS.NET 2003 + Mastering VS.NET</title>
+    <updated>2003-08-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-08-21T07:00:00.000Z</published>
+    <summary>Here. Buy VS.NET 2003 on Amazon.com and get a special deal on Mastering Visual Studio.NET by Ian Griffiths, Jon Flanders and some other guy...</summary>
+    <content type="html">&lt;h1>VS.NET 2003 + Mastering VS.NET&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/B000089GKO/chrissells">Here&lt;/a>. Buy VS.NET 2003 on Amazon.com and get a special deal on Mastering Visual Studio .NET by Ian Griffiths, Jon Flanders and some other guy...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/763</id>
+    <title>Permutations in .NET</title>
+    <updated>2003-08-20T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-20T07:00:00.000Z</published>
+    <summary>Here. Dr. James McCaffrey provides a nice introduction to "permutations" along with some.NET to generate them. He further goes on to use permutations for security purposes, but that's not all they're good for.</summary>
+    <content type="html">&lt;h1>Permutations in .NET&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/security/default.aspx?pull=/library/en-us/dnnetsec/html/permutations.asp">Here&lt;/a>. Dr. James McCaffrey provides a nice introduction to "permutations" along with some .NET to generate them. He further goes on to use permutations for security purposes, but that's not all they're good for.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/759</id>
+    <title>How much is your brain worth?</title>
+    <updated>2003-08-20T07:00:00.000Z</updated>
+    <published>2003-08-20T07:00:00.000Z</published>
+    <summary>Here. ShawnMor documents his hangover from a hd crash w/o a recent backup, collecting backup schemes from contributors to avoid this problem in the future. I wonder how users that don't program computers for a living deal with this problem if we have trouble?</summary>
+    <content type="html">&lt;h1>How much is your brain worth?&lt;/h1>
+&lt;a href="http://weblogs.asp.net/shawnmor/posts/24715.aspx">Here&lt;/a>. ShawnMor documents his hangover from a hd crash w/o a recent backup, collecting backup schemes from contributors to avoid this problem in the future. I wonder how users that don't program computers for a living deal with this problem if we have trouble?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/762</id>
+    <title>More Fun With CodeDOM</title>
+    <updated>2003-08-20T07:00:00.000Z</updated>
+    <published>2003-08-20T07:00:00.000Z</published>
+    <summary>Here. In a recent debate over writing the n very similar algorithms by hand (one for each number of inputs) vs. writing a data-driven algorithm to handle any number of inputs, Peter takes the middle route using the.NET CodeDOM to generate the simple algorithm for the required number of inputs at run-time. What makes this interesting isn't the result, which didn't turn out to be the most efficient, but the approach itself, which is unique to metadata-enabled systems and something I completely forgot even exi...</summary>
+    <content type="html">&lt;h1>More Fun With CodeDOM&lt;/h1>
+&lt;a href="http://www.peterprovost.org/weblog/permalink.aspx?guid=ba3dfd80-387b-4be0-83ff-293024e8d425">Here&lt;/a>. In a recent debate over writing the n very similar algorithms by hand (one for each number of inputs) vs. writing a data-driven algorithm to handle any number of inputs, Peter takes the middle route using the .NET CodeDOM to generate the simple algorithm for the required number of inputs at run-time.
+
+What makes this interesting isn't the result, which didn't turn out to be the most efficient, but the approach itself, which is unique to metadata-enabled systems and something I completely forgot even existed. Thanks for the reminder, Peter!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/761</id>
+    <title>Startup, Shutdown &amp; related matters</title>
+    <updated>2003-08-20T07:00:00.000Z</updated>
+    <published>2003-08-20T07:00:00.000Z</published>
+    <summary>Here. Apparently cbrumme was backed up after two weeks fighting the blaster virus internally, because he lets loose with a tour de force of details about managed and unmanaged startup and shutdown as well as a trailer on writing secure code in general. Fun to read if you like this level of detail (and the part about secure code at the end should be read by everyone).</summary>
+    <content type="html">&lt;h1>Startup, Shutdown &amp; related matters&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/cbrumme/permalink.aspx/dac5ba4a-f0c8-42bb-a5cf-097efb25d1a9">Here&lt;/a>. Apparently cbrumme was backed up after two weeks fighting the blaster virus internally, because he lets loose with a tour de force of details about managed and unmanaged startup and shutdown as well as a trailer on writing secure code in general. Fun to read if you like this level of detail (and the part about secure code at the end should be read by everyone).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/760</id>
+    <title>PowerPoint Is Evil (Not!)</title>
+    <updated>2003-08-20T07:00:00.000Z</updated>
+    <published>2003-08-20T07:00:00.000Z</published>
+    <summary>Here. I've seen this kind of argument before, blaming presentation software (or PowerPoint specifically) for making people stupid. If PPT didn't allow you to make intelligent presentations, then I'd be all for panning it, but that's not true. PowerPoint can be used for good or for evil, but it's only a tool; it's the presenter that decides the use to which the tool is put.</summary>
+    <content type="html">&lt;h1>PowerPoint Is Evil (Not!)&lt;/h1>
+&lt;a href="http://www.wired.com/wired/archive/11.09/ppt2.html">Here&lt;/a>. I've seen this kind of argument before, blaming presentation software (or PowerPoint specifically) for making people stupid. If PPT didn't allow you to make intelligent presentations, then I'd be all for panning it, but that's not true. PowerPoint can be used for good or for evil, but it's only a tool; it's the presenter that decides the use to which the tool is put.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/758</id>
+    <title>Career Calculus</title>
+    <updated>2003-08-19T07:00:00.000Z</updated>
+    <published>2003-08-19T07:00:00.000Z</published>
+    <summary>Here. There's just so much good advise in this post and it covers so much ground that I can't even think of a clever summary. Just go read it.</summary>
+    <content type="html">&lt;h1>Career Calculus&lt;/h1>
+&lt;a href="http://software.ericsink.com/Career_Calculus.html">Here&lt;/a>. There's just so much good advise in this post and it covers so much ground that I can't even think of a clever summary. Just go read it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12527</id>
+    <title>Buffering .NET Console Output</title>
+    <updated>2003-08-19T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-08-19T07:00:00.000Z</published>
+    <summary>Doing some ad hoc benchmarks, I found that my compute/IO intensive program was significantly slower in.NET than in native C++ ( here's a more rigorous test showing the same thing ). However, when the IO was taken out (Console.Write), the test showed that the computation in.NET and in native C++ was nearly the same (with C++ still having a slight edge). My.NET IO code looked like this: static void OutputIt( int [] vect) { &amp;nbsp; for ( int i = 0; i &amp;lt; vect.Length; ++i) { &amp;nbsp;&amp;nbsp;&amp;nbsp; if ( i &amp;gt; 0 ) C...</summary>
+    <content type="html">&lt;h1>Buffering .NET Console Output&lt;/h1>
+&lt;p>
+Doing some ad hoc benchmarks, I found that my compute/IO intensive program was 
+significantly slower in .NET than in native C++ (&lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/message/21426">here's 
+a more rigorous test showing the same thing&lt;/a>). However, when the IO was taken 
+out (Console.Write), the test showed that the computation in .NET and in native 
+C++ was nearly the same (with C++ still having a slight edge).&lt;/p>&lt;p>My .NET IO 
+code looked like this:&lt;/p>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+static&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> &lt;span style="color:blue">
+void&lt;/span> OutputIt(&lt;span style="color:blue">int&lt;/span>[] vect) {&lt;br>&amp;nbsp; &lt;span style="color:blue">
+for&lt;/span> (&lt;span style="color:blue">int&lt;/span> i = 0; i &amp;lt; vect.Length; ++i) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+if&lt;/span>( i &amp;gt; 0 ) &lt;b>Console.Write&lt;/b>(&amp;quot;,&amp;quot;);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>
+Console.Write&lt;/b>(vect[i]);&lt;br>&amp;nbsp; }&lt;br>&lt;b>&amp;nbsp; Console.WriteLine();&lt;br>&lt;/b>
+}&lt;/span>&lt;/p>&lt;p>In tracking down this disparity, &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/message/21427">
+Courteney van den Berg noticed that, unlike STL IO streams in native C++, .NET 
+Console output is not buffered&lt;/a>. A simple manual buffering using a 
+StringBuilder brings the performance of .NET back in line with native C++:&lt;/p>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+static&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> &lt;span style="color:blue">
+void&lt;/span> OutputIt(&lt;span style="color:blue">int&lt;/span>[] vect) {&lt;br>&lt;b>&amp;nbsp; 
+StringBuilder sb = &lt;span style="color:blue">new&lt;/span> StringBuilder();&lt;br>&lt;/b>&amp;nbsp; &lt;span style="color:blue">
+for&lt;/span> (&lt;span style="color:blue">int&lt;/span> i = 0; i &amp;lt; vect.Length; ++i) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+if&lt;/span>( i &amp;gt; 0 ) &lt;b>sb.Append&lt;/b>(&amp;quot;,&amp;quot;);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>sb.Append&lt;/b>(vect[i]);&lt;br>&amp;nbsp; 
+}&lt;br>&lt;b>&amp;nbsp; Console.WriteLine(sb);&lt;br>&lt;/b>}&lt;/span>&lt;/p>&lt;p>Instead of buffering 
+manually, I could have turned on buffered console IO by reopening console output 
+with a buffer size:&lt;/p>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+static&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> &lt;span style="color:blue">
+void&lt;/span> Main(&lt;span style="color:blue">string&lt;/span>[] args) {&lt;br>&lt;b>&amp;nbsp; &lt;span style="color:blue">
+using&lt;/span>( StreamWriter bufferOutput = &lt;span style="color:blue">new&lt;/span> 
+StreamWriter(Console.OpenStandardOutput(1024)) ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+Console.SetOut(bufferOutput);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:green">// 
+Use Console.Write (via OutputIt)...&lt;br>&lt;/span>&amp;nbsp; }&lt;/b>&lt;/span>&lt;span style="font-size: 10.0pt; font-family: Courier New; color: green">&lt;b> 
+// Remaining buffered Console output flushed&lt;/b>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;">&lt;b>&lt;br>&lt;/b>
+}&lt;/span>&lt;/p>&lt;p style="text-autospace: none">&lt;b>&lt;span style="color: green; font-size: 10.0pt; font-family: Courier New">
+// &lt;/span>&lt;span style="font-size: 10.0pt; font-family: Courier New; color: #008000">
+Console output now buffered&lt;br>&lt;/span>&lt;/b>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+static&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> &lt;span style="color:blue">
+void&lt;/span> OutputIt(&lt;span style="color:blue">int&lt;/span>[] vect) {&lt;br>&amp;nbsp; &lt;span style="color:blue">
+for&lt;/span> (&lt;span style="color:blue">int&lt;/span> i = 0; i &amp;lt; vect.Length; ++i) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+if&lt;/span>( i &amp;gt; 0 ) Console.Write(&amp;quot;,&amp;quot;);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+Console.Write(vect[i]);&lt;br>&amp;nbsp; }&lt;br>&amp;nbsp; Console.WriteLine();&lt;br>}&lt;/span>&lt;/p>&lt;p>
+Why isn't Console output buffered by default? Unlike in C++, which has 
+deterministic finalization, in .NET, console output would have to be manually 
+flushed or closed (closing causes a flush). Failure to do so can cause console 
+output to be incomplete at the end of a program. Notice our careful use of the 
+&amp;quot;using&amp;quot; block in the code above, causing the output stream to be closed at the 
+end of the block and the remaining buffered output to be flushed, even in the 
+face of exceptions. Forgetting to use the &amp;quot;using&amp;quot; block or forgetting to 
+manually flush or close in a finally block, can cause console output to be lost. 
+Rather than imposing the new burden of manually closing the console output, .NET 
+architects opted to turn off buffering by default, while still letting you turn 
+it on at will.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/757</id>
+    <title>Buffering .NET Console Output</title>
+    <updated>2003-08-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-19T07:00:00.000Z</published>
+    <summary>Here. The one where I can't believe that.NET Console output isn't buffered by default, then come to appreciate why they did it that way and finally figure out how to turn buffering back on at will, keeping the best of all worlds.</summary>
+    <content type="html">&lt;h1>Buffering .NET Console Output&lt;/h1>
+&lt;a href="/12527">Here&lt;/a>. The one where I can't believe that .NET Console output isn't buffered by default, then come to appreciate why they did it that way and finally figure out how to turn buffering back on at will, keeping the best of all worlds.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/756</id>
+    <title>Not Missing Duff's Device</title>
+    <updated>2003-08-19T07:00:00.000Z</updated>
+    <published>2003-08-19T07:00:00.000Z</published>
+    <summary>Here. This isn't new, but the wacky C/C++ Duff's Device came up again in my circles. I really don't miss using a language that allows such things. Thank you for C#, Anders.</summary>
+    <content type="html">&lt;h1>Not Missing Duff's Device&lt;/h1>
+&lt;a href="http://www.lysator.liu.se/c/duffs-device.html">Here&lt;/a>. This isn't new, but the wacky C/C++ Duff's Device came up again in my circles. I really don't miss using a language that allows such things. Thank you for C#, Anders.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/755</id>
+    <title>Protect Your Friends' &amp; Families' PCs</title>
+    <updated>2003-08-18T07:00:00.000Z</updated>
+    <published>2003-08-18T07:00:00.000Z</published>
+    <summary>Here. Nobody reading this site needs any help protecting themselves from the blaster virus or any other kind, but those of you with families and friends having trouble, point them at Microsoft's Protect your PC site.</summary>
+    <content type="html">&lt;h1>Protect Your Friends' &amp; Families' PCs&lt;/h1>
+&lt;a href="http://www.microsoft.com/security/protect/main.asp">Here&lt;/a>. Nobody reading this site needs any help protecting themselves from the blaster virus or any other kind, but those of you with families and friends having trouble, point them at Microsoft's Protect your PC site.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/754</id>
+    <title>Microsoft Programming Languages</title>
+    <updated>2003-08-18T07:00:00.000Z</updated>
+    <published>2003-08-18T07:00:00.000Z</published>
+    <summary>Here. Prashant Sridharan, a Senior Product Manager at Microsoft, details the uniqueness of VB.NET, C#, C++ and J# to help you pick the right tool for the right job.</summary>
+    <content type="html">&lt;h1>Microsoft Programming Languages&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vstudio/productinfo/whitepapers/default.aspx#top">Here&lt;/a>. Prashant Sridharan, a Senior Product Manager at Microsoft, details the uniqueness of VB.NET, C#, C++ and J# to help you pick the right tool for the right job.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/753</id>
+    <title>PDC03 Birds of a Feather Sessions</title>
+    <updated>2003-08-17T07:00:00.000Z</updated>
+    <published>2003-08-17T07:00:00.000Z</published>
+    <summary>Here. Propose your own BoF sessions for PDC03.</summary>
+    <content type="html">&lt;h1>PDC03 Birds of a Feather Sessions&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/bof.aspx">Here&lt;/a>. Propose your own BoF sessions for PDC03.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/752</id>
+    <title>Introducing Generics in the CLR</title>
+    <updated>2003-08-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-16T07:00:00.000Z</published>
+    <summary>Here. Jason Clark on generics in the CLR. Can't wait!</summary>
+    <content type="html">&lt;h1>Introducing Generics in the CLR&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/09/NET/">Here&lt;/a>. Jason Clark on generics in the CLR. Can't wait!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/751</id>
+    <title>The real goals of marketing?</title>
+    <updated>2003-08-15T07:00:00.000Z</updated>
+    <published>2003-08-15T07:00:00.000Z</published>
+    <summary>Here. The one where I hope my clever-penned friend is wrong.</summary>
+    <content type="html">&lt;h1>The real goals of marketing?&lt;/h1>
+&lt;a href="/12528">Here&lt;/a>. The one where I hope my clever-penned friend is wrong.</content>
+  </entry>
+</feed>

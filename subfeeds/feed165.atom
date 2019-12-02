@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed165.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed164.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed166.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed165.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/100</id>
+    <title>The Big Secret</title>
+    <updated>2002-06-23T07:00:00.000Z</updated>
+    <published>2002-06-23T07:00:00.000Z</published>
+    <summary>Here. "An exclusive first look at Microsoft’s ambitious-and risky-plan to remake the personal computer to ensure security, privacy and intellectual property rights. Will you buy it?"
+By Steven Levy, Newsweek</summary>
+    <content type="html">&lt;h1>The Big Secret&lt;/h1>
+&lt;a href="http://www.msnbc.com/news/770511.asp">Here&lt;/a>. "An exclusive first look at Microsoft’s ambitious-and risky-plan to remake the personal computer to ensure security, privacy and intellectual property rights. Will you buy it?"
+By Steven Levy, Newsweek</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/99</id>
+    <title>Object vs. XML</title>
+    <updated>2002-06-22T07:00:00.000Z</updated>
+    <published>2002-06-22T07:00:00.000Z</published>
+    <summary>Here. "I was watching a group of folks present a new XML standard the other day and I realized something for the first time: to XML folk, OO languages are just script-like 'glue' for connecting XML processing steps, the "Unix pipe" of the new millennium, if you will. Integration with OO languages is necessary to enable XML dominance, but that's an accident of history. In the view of the XML zealot, OO will eventually fall away and only pure, clean XML will be left in it's place."</summary>
+    <content type="html">&lt;h1>Object vs. XML&lt;/h1>
+&lt;a href="/12582">Here&lt;/a>. "I  was watching a group of folks present a new XML standard the other day and I realized something for the first time: to XML folk, OO languages are just script-like 'glue' for connecting XML processing steps, the "Unix pipe" of the new millennium, if you will. Integration with OO languages is necessary to enable XML dominance, but that's an accident of history. In the view of the XML zealot, OO will eventually fall away and only pure, clean XML will be left in it's place."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12582</id>
+    <title>Object vs. XML</title>
+    <updated>2002-06-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-06-22T07:00:00.000Z</published>
+    <summary>I was watching a group of folks present a new XML standard the other day and I realized something for the first time: to XML folk, OO languages are just script-like &amp;quot;glue&amp;quot; for connecting XML processing steps, the &amp;quot;Unix pipe&amp;quot; of the new millennium, if you will. Integration with OO languages is necessary to enable XML dominance, but that's an accident of history. In the view of the XML zealot, OO will eventually fall away and only pure, clean XML will be left in its place. As an OO guy, I ...</summary>
+    <content type="html">&lt;h1>Object vs. XML&lt;/h1>
+
+        &lt;p>I was watching a group of folks present a new XML standard the other 
+        day and I realized something for the first time: to XML folk, OO 
+        languages are just script-like &amp;quot;glue&amp;quot; for connecting XML processing 
+        steps, the &amp;quot;Unix pipe&amp;quot; of the new millennium, if you will. Integration 
+        with OO languages is necessary to enable XML dominance, but that's an 
+        accident of history. In the view of the XML zealot, OO will eventually 
+        fall away and only pure, clean XML will be left in its place.&lt;/p>
+        &lt;p>As an OO guy, I find this view disturbing. As a general technology 
+        wonk who sees the value of XML, I find this view unrealistic. Just so 
+        you XML folks know, OO guys look at XML as a data transfer syntax and 
+        that's all. OO guys are happy that XML is there, but they prefer to stay 
+        away from it in favor of their nice, familiar OO environment.&lt;/p>
+        &lt;p>The problem, of course, is that many XML guys are so steeped in the 
+        new world that they forget where they came from. To paraphrase the 
+        Matrix, XML guys don't even see the angle brackets anymore -- they just 
+        see blonde, brunette, redhead. OO guys, of course, *only* see the angle 
+        brackets and prefer their artificial world-like simulation.&lt;/p>
+        &lt;p>The result of this massive gap between XML and OO folks is that the 
+        great thing that the XML guys are building, i.e. a general-purpose 
+        hierarchical data manipulation, transformation and interoperation 
+        infrastructure, something that OO guys desperately need, is being lost 
+        because the two groups don't know how to communicate with each other.&lt;/p>
+        &lt;p>So, to enable XML to dominate, XML folks have to be sneaky. Just like 
+        OO finally took off in C++ when it provided a super-set of the 
+        procedural programming in C, XML has to provide a super-set of OO 
+        programming, down to the easy syntax and the compile-time type checking. 
+        Only when you give the OO guys exactly what they already have can they 
+        begin to see what new things you've given them.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/96</id>
+    <title>treecc -- Free Compiler Construction Tool for C#</title>
+    <updated>2002-06-20T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-06-20T07:00:00.000Z</published>
+    <summary>Here. "The approach that we take with treecc is similar to that used by yacc. A simple rule-based language is devised that is used to describe the intended behaviour declaratively. Embedded code is used to provide the specific implementation details. A translator then converts the input into source code that can be compiled in the usual fashion."</summary>
+    <content type="html">&lt;h1>treecc -- Free Compiler Construction Tool for C#&lt;/h1>
+&lt;a href="http://www.southern-storm.com.au/treecc_doc/treecc.html#SEC_Top">Here&lt;/a>. "The approach that we take with treecc is similar to that used by yacc. A simple rule-based language is devised that is used to describe the intended behaviour declaratively. Embedded code is used to provide the specific implementation details. A translator then converts the input into source code that can be compiled in the usual fashion."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/98</id>
+    <title>Ventura Not Seeking Re-Election</title>
+    <updated>2002-06-20T07:00:00.000Z</updated>
+    <published>2002-06-20T07:00:00.000Z</published>
+    <summary>Here. As a former MN resident, I'm very happy to report that Jessie "The Body" Ventura will not be running for another term as governor. I didn't have anything against Mr. Ventura because he was a wrestler -- my issue is that he's an idiot. I was embarrassed for the state of my birth that he won and I'm happy that he won't be a choice in the future.</summary>
+    <content type="html">&lt;h1>Ventura Not Seeking Re-Election&lt;/h1>
+&lt;a href="http://www.startribune.com/stories/670/2912980.html">Here&lt;/a>. As a former MN resident, I'm very happy to report that Jessie "The Body" Ventura will not be running for another term as governor. I didn't have anything against Mr. Ventura because he was a wrestler -- my issue is that he's an idiot. I was embarrassed for the state of my birth that he won and I'm happy that he won't be a choice in the future.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/97</id>
+    <title>Under the Lid of Open Source .NET CLI Impls</title>
+    <updated>2002-06-20T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-20T07:00:00.000Z</published>
+    <summary>Here. "Cross-platform.NET development is imminent, but the purpose, the feature set, and the platform support varies. We were curious about the development of the various open source implementations of Microsoft.NET's Common Language Runtime, so we talked to the key developers in charge of each of three CLI implementations—Mono, Rotor, and Portable.NET—to find out what exactly they've built, how they did it, and how they compare. What we found might surprise you."</summary>
+    <content type="html">&lt;h1>Under the Lid of Open Source .NET CLI Impls&lt;/h1>
+&lt;a href="http://www.devx.com/free/hotlinks/2002/ednote061902/ednote061902-1.asp">Here&lt;/a>. "Cross-platform .NET development is imminent, but the purpose, the feature set, and the platform support varies. We were curious about the development of the various open source implementations of Microsoft .NET's Common Language Runtime, so we talked to the key developers in charge of each of three CLI implementations—Mono, Rotor, and Portable .NET—to find out what exactly they've built, how they did it, and how they compare. What we found might surprise you."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/94</id>
+    <title>VS.NET Google Search Macro</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. Drew Marsh posted a VS.NET macro that will launch a search for selected text on Google.</summary>
+    <content type="html">&lt;h1>VS.NET Google Search Macro&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0104813/stories/2002/06/19/vsnetGoogleMacro.html">Here&lt;/a>. Drew Marsh posted a VS.NET macro that will launch a search for selected text on Google.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/93</id>
+    <title>Flat Controls for WinForms</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. "Many people feel that flat UI look of web pages is desirable. Catering to this market, Ivar Lumi has written a library of flat controls. In the attached.zip file are flat DateTimePicker, EditBox, SpinEdit, ComboBox, ToolBar, Button, Label, CheckBox controls. Also included is an OutlookBar control."</summary>
+    <content type="html">&lt;h1>Flat Controls for WinForms&lt;/h1>
+&lt;a href="http://windowsforms.net/Default.aspx?tabindex=4&amp;tabid=47">Here&lt;/a>. "Many people feel that flat UI look of web pages is desirable. Catering to this market, Ivar Lumi has written a library of flat controls. In the attached .zip file are flat DateTimePicker, EditBox, SpinEdit, ComboBox, ToolBar, Button, Label, CheckBox controls. Also included is an OutlookBar control."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/90</id>
+    <title>NotifyIcon XP</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. "Perfectly mimics the built-in NotifyIcon control, except this one supports Windows XP balloon tips."</summary>
+    <content type="html">&lt;h1>NotifyIcon XP&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/userfiles/hansb/NotifyIconXP02.zip">Here&lt;/a>. "Perfectly mimics the built-in NotifyIcon control, except this one supports Windows XP balloon tips."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/92</id>
+    <title>WANTED! Starting Work on a Windows Forms Project?</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. "Are you starting work on a Windows Forms project and need that extra jump start? The Windows Forms development team is hosting a hands-on development lab on the Microsoft campus for companies who are actively starting Windows Forms work. If you are about to start a Windows Forms project or recently started a project, please apply to attend."</summary>
+    <content type="html">&lt;h1>WANTED! Starting Work on a Windows Forms Project?&lt;/h1>
+&lt;a href="http://windowsforms.net/pages/devlab.aspx">Here&lt;/a>. "Are you starting work on a Windows Forms project and need that extra jump start? The Windows Forms development team is hosting a hands-on development lab on the Microsoft campus for companies who are actively starting Windows Forms work. If you are about to start a Windows Forms project or recently started a project, please apply to attend."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/95</id>
+    <title>Melbourne .NET User Group Hosts WDN RSS Feed</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. "MDNUG would like to thank Chris Sells for making the RSS feed freely available to the masses. We're too slack to write our own."</summary>
+    <content type="html">&lt;h1>Melbourne .NET User Group Hosts WDN RSS Feed&lt;/h1>
+&lt;a href="http://mdnug.org/news/">Here&lt;/a>. "MDNUG would like to thank Chris Sells for making the RSS feed freely available to the masses. We're too slack to write our own."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/91</id>
+    <title>A Windows Forms Application Desktop Toolbar</title>
+    <updated>2002-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-19T07:00:00.000Z</published>
+    <summary>Here. "This sample demonstrates how to create a Windows Forms application that registers itself as a desktop toolbar. The behavior of your desktop toolbar can exactly mimic that of the Windows Taskbar."</summary>
+    <content type="html">&lt;h1>A Windows Forms Application Desktop Toolbar&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/userfiles/FredB/AppBars.zip">Here&lt;/a>. "This sample demonstrates how to create a Windows Forms application that registers itself as a desktop toolbar. The behavior of your desktop toolbar can exactly mimic that of the Windows Taskbar."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/86</id>
+    <title>Achieving Interoperability (2 of 3)</title>
+    <updated>2002-06-18T07:00:00.000Z</updated>
+    <published>2002-06-18T07:00:00.000Z</published>
+    <summary>Here. "A.NET-savvy compiler can help you to get the best of all worlds: Continue using your language as before, yet take advantage of valuable components from other languages. Part 2 of 3."</summary>
+    <content type="html">&lt;h1>Achieving Interoperability (2 of 3)&lt;/h1>
+&lt;a href="http://www.sdmagazine.com/documents/s=7147/sdm0206g/0206g.htm">Here&lt;/a>. "A .NET-savvy compiler can help you to get the best of all worlds: Continue using your language as before, yet take advantage of valuable components from other languages. Part 2 of 3."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/88</id>
+    <title>A clickable button</title>
+    <updated>2002-06-18T07:00:00.000Z</updated>
+    <published>2002-06-18T07:00:00.000Z</published>
+    <summary>Here. "As useful and as popular as Chris Maunder's "An unclickable button" article and class is, I thought that a clickable button might also be useful. While my ClickableButton class is implemented specifically for.NET, the very same techniques can be used in nearly every object-oriented windowing library."</summary>
+    <content type="html">&lt;h1>A clickable button&lt;/h1>
+&lt;a href="http://www.codeproject.com/scrapbook/ClickableButton.asp">Here&lt;/a>. "As useful and as popular as Chris Maunder's "An unclickable button" article and class is, I thought that a clickable button might also be useful. While my ClickableButton class is implemented specifically for .NET, the very same techniques can be used in nearly every object-oriented windowing library."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/85</id>
+    <title>Polyglot Programming (1 of 3)</title>
+    <updated>2002-06-18T07:00:00.000Z</updated>
+    <published>2002-06-18T07:00:00.000Z</published>
+    <summary>Here. "While some question the need for multilanguage support,.NET proves that such strange bedfellows as Fortran, Eiffel and C# can interoperate. First in a three-part series."</summary>
+    <content type="html">&lt;h1>Polyglot Programming (1 of 3)&lt;/h1>
+&lt;a href="http://www.sdmagazine.com/documents/s=7134/sdm0205j/0205j.htm">Here&lt;/a>. "While some question the need for multilanguage support, .NET proves that such strange bedfellows as Fortran, Eiffel and C# can interoperate. First in a three-part series."</content>
+  </entry>
+</feed>

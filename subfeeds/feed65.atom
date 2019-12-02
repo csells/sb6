@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed65.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed64.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed66.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed65.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1496</id>
+    <title>Wife Objects To Midget Above The Fridge</title>
+    <updated>2004-08-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-20T07:00:00.000Z</published>
+    <summary>Here. This is what happens when night shifts happen to good nurses. </summary>
+    <content type="html">&lt;h1>Wife Objects To Midget Above The Fridge&lt;/h1>
+&lt;a href="/12344">Here&lt;/a>. &lt;P>&lt;a href="/12344">This is what happens&lt;/A> when night shifts happen to good nurses.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1497</id>
+    <title>Some of the MS Interview Process Filmed</title>
+    <updated>2004-08-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-20T07:00:00.000Z</published>
+    <summary>Channel9 did what I was unable to ever get done: filmed some of the interview process. It's not an actual interview, but Gretchen Ledgard and Zoe Goldring, both Central Sourcing Consultants at HR for MS, lead you through what to expect at a Microsoft interview, providing a wealth of wonderful MS interviewing tips.</summary>
+    <content type="html">&lt;h1>Some of the MS Interview Process Filmed&lt;/h1>
+Channel9 did what I was unable to ever get done: &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=18472">filmed some of the interview process&lt;/A>. It's not an actual interview, but Gretchen Ledgard and Zoe Goldring, both Central Sourcing Consultants at HR for MS, lead you through what to expect at a Microsoft interview, providing &lt;A href="/12383">a wealth of wonderful MS interviewing tips&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1495</id>
+    <title>Hog Pile on Rory</title>
+    <updated>2004-08-19T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-19T07:00:00.000Z</published>
+    <summary>Rory has posted his MSDN speaking schedule. I'm already signed up for the Portland, OR talk on August 26. I can't wait to hear Rory regale us with "a demo-packed afternoon" where I will "gain valuable insight into.NET development." Plus, we get "a sneak peek at what's coming in ASP.NET 2.0!" What could be better? Come one, come all! </summary>
+    <content type="html">&lt;h1>Hog Pile on Rory&lt;/h1>
+&lt;P>Rory has posted &lt;A href="http://neopoleon.com/blog/posts/7623.aspx">his MSDN speaking schedule&lt;/A>. I'm already signed up for &lt;A href="http://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-US&amp;amp;EventID=1032255409">the Portland, OR talk on August 26&lt;/A>. I can't wait to hear Rory regale us with "a demo-packed afternoon" where I will "gain valuable insight into .NET development." Plus, we get "a sneak peek at what's coming in ASP.NET 2.0!" What could be better? &lt;A href="http://neopoleon.com/blog/posts/7623.aspx">Come one, come all!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1494</id>
+    <title>Longhorn on Mars</title>
+    <updated>2004-08-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-18T07:00:00.000Z</published>
+    <summary>Arun Bhatnagar found Longhorn on Mars today: "I am a software developer who is currently working on C#/.net in Canada. Like so many other developers I am really excited about the features in Longhorn. I am waiting for it and so it is really good to know that Longhorn already exists on Mars. Yes, that's what USA Today reported today. Read the caption beside the image in this story." Apparently NASA's in the early adopter program... : ) </summary>
+    <content type="html">&lt;h1>Longhorn on Mars&lt;/h1>
+&lt;P>Arun Bhatnagar found Longhorn on Mars today:&lt;/P>
+&lt;BLOCKQUOTE>"I am a software developer who is currently working on C#/.net in Canada. Like so many other developers I am really excited about the features in Longhorn. I am waiting for it and so it is really good to know that Longhorn already exists on Mars. Yes, &lt;A href="http://www.usatoday.com/news/science/2004-08-18-mars-water_x.htm">that's what USA Today reported today&lt;/A>. Read the caption beside the image in this story."&lt;/BLOCKQUOTE>
+&lt;P>Apparently NASA's in the early adopter program... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1493</id>
+    <title>Don Tours the Indigo Building (aka 42)</title>
+    <updated>2004-08-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-18T07:00:00.000Z</published>
+    <summary>It's easy to forget the real people behind any given project, especially one the size of Indigo with Don as the pretty figure head. In this video, Don (via Robert and Channel9) shows you a fraction of the people that work on the team and they reveal their deepest past implementation shames and triumphs. Put a face on CoInitializeSecurity and enjoy. </summary>
+    <content type="html">&lt;h1>Don Tours the Indigo Building (aka 42)&lt;/h1>
+&lt;P>It's easy to forget the real people behind any given project, especially one the size of Indigo with Don as the pretty figure head. In this video, Don (via Robert and Channel9) shows you a fraction of the people that work on the team and they reveal their deepest past implementation shames and triumphs. &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=18088">Put a face on CoInitializeSecurity and enjoy&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1492</id>
+    <title>Nice Concise Overview of MSBuild</title>
+    <updated>2004-08-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-17T07:00:00.000Z</published>
+    <summary>While not nearly as extensive as Christophe Nasarre's 3-part look at MSBuild ( part 1, part 2 and part 3 ), Klaus Aschenbrenner has provided a nice 3-page overview of MSBuild, including the major elements, a "hello world".proj file and even a quick look at building custom tasks.</summary>
+    <content type="html">&lt;h1>Nice Concise Overview of MSBuild&lt;/h1>
+While not nearly as extensive as Christophe Nasarre's 3-part look at MSBuild (&lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/default.aspx?pull=/library/en-us/dnlong/html/msbuildpart1.asp">part 1&lt;/A>, &lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/default.aspx?pull=/library/en-us/dnlong/html/msbuildpart2.asp">part 2&lt;/A> and &lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/default.aspx?pull=/library/en-us/dnlong/html/msbuildpart3.asp">part 3&lt;/A>), Klaus Aschenbrenner has provided &lt;A href="http://www.devx.com/dotnet/Article/21727">a nice 3-page overview of MSBuild&lt;/A>, including the major elements, a "hello world" .proj file and even a quick look at building custom tasks.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1491</id>
+    <title>Where Are You In The Software Practitioner Triad</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>In his piece Software Practitioner Triad (I know it's old, but I just got pointed to it by Phil Weber ), Alan Cooper points out three different folks needed to design and build software: Architect : responsible for determining who the user is, what he or she is trying to accomplish, and what behavior the software must exhibit to satisfy these human goals. Engineer : technical problem solving via experimentation, not fettered with the demands of producing release code. Programmer : producing a shippable prod...</summary>
+    <content type="html">&lt;h1>Where Are You In The Software Practitioner Triad&lt;/h1>
+&lt;P>In his piece &lt;A href="http://www.ftponline.com/vsm/2003_09_14th/magazine/departments/softwarearchitect/default_pf.aspx">Software Practitioner Triad&lt;/A> (I know it's old, but I just got &lt;A href="http://www.philweber.com/2004/06/26.htm#a115">pointed to it by Phil Weber&lt;/A>), Alan Cooper points out three different folks needed to design and build software:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>Architect&lt;/STRONG>: responsible for determining who the user is, what he or she is trying to accomplish, and what behavior the software must exhibit to satisfy these human goals.&lt;/LI>
+&lt;LI>&lt;STRONG>Engineer&lt;/STRONG>: technical problem solving via experimentation, not fettered with the demands of producing release code.&lt;/LI>
+&lt;LI>&lt;STRONG>Programmer&lt;/STRONG>: producing a shippable product, consisting mostly of protective code that rarely&amp;#8212;if ever&amp;#8212;executes, but is dedicated to supporting obscure edge cases, platform idiosyncrasies, and error conditions.&lt;/LI>&lt;/UL>
+&lt;P>I've done all three, but am happiest with architect and engineer. Where are you in your current job? Where do you want to be?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1490</id>
+    <title>Dealing with Programmer's Block</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>A friend of mine IM'd me just a few moments ago and asked, "When you're sitting in front of a code editor and you have no motivation, what do you do?" I hereby dub this "programmer's block" and since I've never had it (which I'm just now realizing is pretty weird), I wondering if you can offer my friend some advice. Thanks! </summary>
+    <content type="html">&lt;h1>Dealing with Programmer's Block&lt;/h1>
+&lt;P>A friend of mine IM'd me just a few moments ago and asked, "When you're sitting in front of a code editor and you have no motivation, what do you do?"&lt;/P>
+&lt;P>I hereby dub this "programmer's block" and since I've never had it (which I'm just now realizing is pretty weird), I wondering if you can offer my friend some advice. Thanks!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1488</id>
+    <title>MSDN TOC Right From The IA's Mouth</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>Have you got opinions about how information is arranged on MSDN? Do you have issues with the Table of Contents? Are you just looking for some way to fight back against the machine? If so, check out Paula Land's blog. Paula is MSDN's Chief Information Architect and she's provided a sneak peak at MSDN's new TOC. If you've got comments, now's the time. </summary>
+    <content type="html">&lt;h1>MSDN TOC Right From The IA's Mouth&lt;/h1>
+&lt;P>Have you got opinions about how information is arranged on MSDN? Do you have issues with the Table of Contents? Are you just looking for some way to fight back against the machine? If so, &lt;A href="http://blogs.msdn.com/paulal/">check out Paula Land's blog&lt;/A>.&lt;/P>
+&lt;P>Paula is MSDN's Chief Information Architect and she's provided &lt;A href="http://blogs.msdn.com/paulal/archive/2004/08/13/214242.aspx">a sneak peak at MSDN's new TOC&lt;/A>. If you've got comments, &lt;A href="http://blogs.msdn.com/paulal/archive/2004/08/13/214242.aspx">now's the time&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1487</id>
+    <title>After Weekend, XML Dev.Conf. 1/3rd Full</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>Here. Whoa. I guess there was some pent up demand for the Applied XML Dev.Conf., because after a weekend of registrations, we're already 1/3rd full. Don't wait to register. </summary>
+    <content type="html">&lt;h1>After Weekend, XML Dev.Conf. 1/3rd Full&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. Whoa. I guess there was some pent up demand for &lt;A HREF="/public/conference/">the Applied XML Dev.Conf.&lt;/A>, because after a weekend of registrations, we're already 1/3rd full. &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">Don't wait to register.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1489</id>
+    <title>Good Idea: Builders in Visual Studio Code View</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>I really love Mitch's idea for a "Builder" in the Visual Studio Code View: There are tons of hidden strings in code that would benefit from such a thing, e.g. data provider-specific connection and query strings, and I'd gladly rebuild my FormatDesigner as a Builder. I wonder if the VSIP SDK is powerful enough to implement it... </summary>
+    <content type="html">&lt;h1>Good Idea: Builders in Visual Studio Code View&lt;/h1>
+&lt;P>I really love Mitch's idea for a "Builder" in the Visual Studio Code View:&lt;/P>
+&lt;P>&lt;A href="http://notgartner.com/posts/509.aspx" height="246" width="423">&lt;IMG src="http://notgartner.com/images/7/r_BuildersCloseup.PNG">&lt;/A>&lt;/P>
+&lt;P>There are tons of hidden strings in code that would benefit from such a thing, e.g. data provider-specific connection and query strings, and I'd gladly rebuild &lt;a href="/12416">my FormatDesigner&lt;/A> as a Builder. I wonder if &lt;A href="http://msdn.microsoft.com/vstudio/extend/">the VSIP SDK&lt;/A> is powerful enough to implement it...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1486</id>
+    <title>My Mom Reads My Web Site!</title>
+    <updated>2004-08-16T07:00:00.000Z</updated>
+    <published>2004-08-16T07:00:00.000Z</published>
+    <summary>Here. Remember that feeling you got when you first learned that your Mom read your web site? Yikes! </summary>
+    <content type="html">&lt;h1>My Mom Reads My Web Site!&lt;/h1>
+&lt;a href="/1420">Here&lt;/a>. &lt;P>Remember that feeling you got when you first learned that your Mom read your web site? &lt;A href="/1420">Yikes!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1485</id>
+    <title>Register Now: Applied XML Dev.Conf. 10/20-21</title>
+    <updated>2004-08-13T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-08-13T07:00:00.000Z</published>
+    <summary>Here. Every year it gets harder to pick speakers for the DevCon. This year, I had 4x the number of submissions for which I had available slots. So, while it's hard for me to pick, it makes for a fabulous line up for attendees: For speakers,&amp;nbsp;we've got keynotes from Tim Bray (co-inventor of XML) and Tim Ewald. We've also got Don Box, Sam Ruby, Jeff Barr (of Amazon.com), Keith Brown,&amp;nbsp;Scott Hanselman, Chris Anderson, Doug Purdy, Ted Neward, Rich Salz and more. For subjects, we'll hear about the presen...</summary>
+    <content type="html">&lt;h1>Register Now: Applied XML Dev.Conf. 10/20-21&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. &lt;P>Every year it gets harder to pick speakers for &lt;A HREF="/public/conference/">the DevCon&lt;/A>. This year, I had 4x the number of submissions for which I had available slots. So, while it's hard for me to pick, it makes for a fabulous line up for attendees:&lt;/P>
+&lt;P>For speakers,&amp;nbsp;we've got keynotes from Tim Bray (co-inventor of XML) and Tim Ewald. We've also got Don Box, Sam Ruby, Jeff Barr (of Amazon.com), Keith Brown,&amp;nbsp;Scott Hanselman, Chris Anderson, Doug Purdy, Ted Neward, Rich Salz and more.&lt;/P>
+&lt;P>For subjects, we'll hear about the present and future of the blogging community, how MSDN plans to expose it's huge store of content via web services, Schematron, XSLT2, web services versioning, how 3rd parties are making use of Amazon.com's services for profit and how the Navy is using XML to test their missile systems.&lt;/P>
+&lt;P>For venue, we've got the site of my first technical talk ever, Skamania Lodge, a beautiful resort just 40 minutes from the Portland Int'l Airport. And since the conference is Wed-Thu (10/20-21), bring the family and extend your stay over the weekend!&lt;/P>
+&lt;P>All of the previous 4 DevCons have sold out, so you should &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">register quickly&lt;/A> (and &lt;A HREF="/public/conference/">don't forget to make your hotel reservations&lt;/A>, too)!&lt;/P>
+&lt;P>For all the conference and hotel details, &lt;A HREF="/public/conference/">click here&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1484</id>
+    <title>Ohhhh... Imaginary Flying 3D Donut...</title>
+    <updated>2004-08-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-13T07:00:00.000Z</published>
+    <summary>Karsten Jzkdliguloiuski has updated his Avalon 3D Donut to be more delicious and interactive and to fly! Enjoy.</summary>
+    <content type="html">&lt;h1>Ohhhh... Imaginary Flying 3D Donut...&lt;/h1>
+Karsten Jzkdliguloiuski has updated his &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/08/20/217882.aspx">Avalon 3D Donut&lt;/A> to be more delicious and interactive and to fly! Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1474</id>
+    <title>UCLA Prof. Interviews Chris Sells</title>
+    <updated>2004-08-12T07:00:00.000Z</updated>
+    <published>2004-08-12T07:00:00.000Z</published>
+    <summary>Adjunct Professor Aleksey Nudelman for UCLA extension interviews Chris Sells on the history and future of the Windows Forms Programming book, which he uses as the text in his Windows Forms extension course.</summary>
+    <content type="html">&lt;h1>UCLA Prof. Interviews Chris Sells&lt;/h1>
+Adjunct Professor Aleksey Nudelman for UCLA extension interviews &lt;A href="http://csharpcomputing.com/Interviews/sells.htm">Chris Sells on the history and future of the Windows Forms Programming book&lt;/A>, which he uses as the text in his Windows Forms extension course.</content>
+  </entry>
+</feed>

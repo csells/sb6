@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed177.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed176.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed177.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12626</id>
+    <title>College Fun</title>
+    <updated>2001-02-28T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-02-28T08:00:00.000Z</published>
+    <summary>In Japan, it is said, the impersonal and sometimes unhelpful Microsoft error messages have been replaced with Japanese haiku poetry. Maybe in the next upgrade to our Windows... Your file was so big. It might be very useful. But now it is gone. The website you seek Cannot be located, but Countless more exist. Chaos reigns within. Reflect, repent and reboot. Order shall return. Aborted effort. Close all that you have worked on. You ask far too much. Windows NT crashed. I am the Blue Screen of Death. No-one he...</summary>
+    <content type="html">&lt;h1>College Fun&lt;/h1>
+&lt;p>In 
+
+Japan, it is said, the impersonal and sometimes unhelpful Microsoft error 
+
+messages have been replaced with Japanese haiku poetry. Maybe in the next 
+
+upgrade to our Windows... &lt;/p>&lt;p>Your file was so big. &lt;br>It might be very 
+
+useful. &lt;br>But now it is gone. &lt;/p>&lt;p>The website you seek &lt;br>Cannot be 
+
+located, but &lt;br>Countless more exist. &lt;/p>&lt;p>Chaos reigns within. 
+
+&lt;br>Reflect, repent and reboot. &lt;br>Order shall return. &lt;/p>&lt;p>Aborted effort. 
+
+&lt;br>Close all that you have worked on. &lt;br>You ask far too much. 
+
+&lt;/p>&lt;p>Windows NT crashed. &lt;br>I am the Blue Screen of Death. &lt;br>No-one hears 
+
+your screams. &lt;/p>&lt;p>Yesterday it worked. &lt;br>Today it is not working. 
+
+&lt;br>Windows is like that. &lt;/p>&lt;p>Stay the patient course. &lt;br>Of little worth 
+
+is your ire. &lt;br>The network is down. &lt;/p>&lt;p>A crash reduces &lt;br>Your 
+
+expensive computer &lt;br>To a simple stone. &lt;/p>&lt;p>Three things are certain: 
+
+&lt;br>Death, taxes and lost data. &lt;br>Guess which has occurred. &lt;/p>&lt;p>You step 
+
+in the stream, &lt;br>But the water has moved on. &lt;br>This page is not here. 
+
+&lt;/p>&lt;p>Out of memory. &lt;br>We wish to hold the whole sky, &lt;br>But we never 
+
+will. &lt;/p>&lt;p>Having been erased, &lt;br>The document you're seeking &lt;br>Must now 
+
+be retyped. &lt;/p>&lt;p>I ate your Web page. &lt;br>Forgive me; it was tasty &lt;br>And 
+
+tart on my tongue. &lt;/p>&lt;p>First snow then silence &lt;br>This thousand dollar 
+
+screen dies &lt;br>So beautifully. &lt;/p>&lt;p>The Tao that is seen &lt;br>Is not the 
+
+true Tao, until &lt;br>You bring fresh toner. &lt;/p>&lt;p>With searching comes loss 
+
+&lt;br>and the presence of absence: &lt;br>"My Novel" not found. &lt;/p>&lt;p>See how in 
+
+Haiku &lt;br>All error messages are &lt;br>Somehow more peaceful &lt;/p>&lt;p>&lt;i>Richard 
+
+Blewett&lt;br>
+Ian Griffiths&lt;br>George Shepherd&lt;br>Internal Mailing List &lt;br>&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12660</id>
+    <title>TZ Data to XML Project</title>
+    <updated>2001-02-22T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-02-22T08:00:00.000Z</published>
+    <summary>These are the outputs of my attempts to translate the native tz data into XML for easier parsing for applications other than implementations of the standard C routines related to time. This is the first step in a project to merge time zone and map data by the Time Zone Map Group, lead by Chuck Ellis. Done tz2xml.zip : A VC++ program to translate native tz data files into XML. Warning: This requires a certain directory structure and a few modified files from the tz code to export shared functions. I'm workin...</summary>
+    <content type="html">&lt;h1>TZ Data to XML Project&lt;/h1>
+        &lt;p>
+            These are the outputs of my attempts to translate the &lt;a href="ftp://elsie.nci.nih.gov/pub/">
+                native tz data&lt;/a> into XML for easier parsing for applications other than 
+            implementations of the standard C routines related to time.
+        &lt;/p>
+        &lt;p>
+            This is the first step in a project to merge time zone and map data by the Time 
+            Zone Map Group, lead by &lt;a href="mailto:cellis@gaz.com">Chuck Ellis&lt;/a>.
+        &lt;/p>
+        &lt;h1>
+            Done
+        &lt;/h1>
+        &lt;ul>
+            &lt;li>
+                &lt;a href="/public/tools/tz/tz2xml.zip">tz2xml.zip&lt;/a>: A VC++ program to translate native tz data 
+                files into XML. Warning: This requires a certain directory structure and a few 
+                modified files from the tz code to export shared functions. I'm working to fix 
+                that.&lt;/li>
+            &lt;li>
+                &lt;a href="/public/tools/tz/tzxml.zip">/tools/tz/tzxml.zip&lt;/a>: Native tz data files translated to XML, 
+                including comments. Suitable for replacement as the native format. Generated by 
+                running tz2xml on the tz data files.&lt;/li>
+        &lt;/ul>
+        &lt;h1>
+            Yet To Do
+        &lt;/h1>
+        &lt;ul>
+            &lt;li>
+                Namespace support.&lt;/li>
+            &lt;li>
+                XSD support.&lt;/li>
+            &lt;li>
+                An XSLT to translate back to native tz data format.&lt;/li>
+            &lt;li>
+                An XSLT to output popular data needs, e.g. all the zones, all the rules, etc.&lt;/li>
+            &lt;li>
+                An updated zic to use the new XML format instead of the existing format.&lt;/li>
+            &lt;li>
+                Unix port of tz2data (I'll need help on that one).&lt;/li>
+        &lt;/ul>
+        &lt;h1>
+            Help!
+        &lt;/h1>
+        &lt;p>
+            Unfortunately, I'm but one man. If you'd like to help on any of these projects, &lt;a href="mailto:csells@sellsbrothers.com?subject=TZ Data to XML Project Help">
+                let me know&lt;/a>.&lt;/p>
+        &lt;h1>
+            License
+        &lt;/h1>
+        Copyright © 2001 by Chris Sells. All rights reserved. No warrantees extended. 
+        Use at your own risk. You may not distribute any portion of the tz2xml source 
+        code without express written consent. You may, however, use the source with no 
+        fee or redistribute the sample XML data at will.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12427</id>
+    <title>Genghis</title>
+    <updated>2001-02-16T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-02-16T08:00:00.000Z</published>
+    <summary>Genghis is a set of extensions built on top of.NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL. </summary>
+    <content type="html">&lt;h1>Genghis&lt;/h1>
+
+    &lt;p align="left">
+    &lt;span style="font-family: Times New Roman">&lt;a href="/public/tools/genghis/">Genghis&lt;/a>&lt;/span>&lt;span style="font-size: 12.0pt; font-family: Times New Roman">&lt;a href="/public/tools/genghis/"> is a set of extensions built on top of .NET and 
+    integrated with WinForms to provide application-level services in the same 
+    flavor as the Microsoft Foundation Classes&lt;/a>. Genghis gets its name as the 
+    functional heir to Attila, a similar set of functionality built on top of ATL.&lt;/span>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12629</id>
+    <title>a poem</title>
+    <updated>2000-11-21T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2000-11-21T08:00:00.000Z</published>
+    <summary>Dear MFC::CString You were such a beautiful thing I miss you so much CComBSTR is painful to touch WTL may restore my churning (out string manipulating code). Phil Beck ATL Mailing List </summary>
+    <content type="html">&lt;h1>a poem&lt;/h1>
+&lt;p>Dear MFC::CString &lt;br>You 
+
+were such a beautiful thing &lt;br>I miss you so much &lt;br>CComBSTR is painful to 
+
+touch &lt;br>WTL may restore my churning (out string manipulating code). 
+
+&lt;/p>&lt;p>&lt;i>Phil Beck &lt;br>ATL Mailing List&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12630</id>
+    <title>These Days its only COM COM COM (Am I Crying)</title>
+    <updated>2000-08-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2000-08-25T07:00:00.000Z</published>
+    <summary>There is no vacation when I am doing COM. Some go through very well, but stuck are some. I don't go to parties, so I feel I am IUnknown. People talking to me, those days are gone. Brother has a complaint, that I don't callback. Which kind of apartment he has, I don't check Everyone stares me through those windows. I live in ATL * and that is what I chose. *(short for Atlanta) Sandeep&amp;nbsp; Chawla Private Email </summary>
+    <content type="html">&lt;h1>These Days its only COM COM COM (Am I Crying)&lt;/h1>
+&lt;p>There is no vacation when I am doing &lt;font 
+
+color="#0000ff">COM&lt;/font>. &lt;br>Some go through very well, but stuck are some. 
+
+&lt;/p>&lt;p>I don't go to parties, so I feel I am &lt;font 
+
+color="#0000ff">IUnknown&lt;/font>. &lt;br>People talking to me, those days are 
+
+gone. &lt;/p>&lt;p>Brother has a complaint, that I don't &lt;font 
+
+color="#0000ff">callback&lt;/font>. &lt;br>Which kind of &lt;font 
+
+color="#0000ff">apartment&lt;/font> he has, I don't check &lt;/p>&lt;p>Everyone stares 
+
+me through those &lt;font color="#0000ff">windows&lt;/font>. &lt;br>I live in &lt;font 
+
+color="#0000ff">ATL&lt;/font>* and that is what I chose. &lt;/p>&lt;p>*(short for 
+
+Atlanta) &lt;/p>&lt;p>&lt;i>Sandeep&amp;nbsp; 
+Chawla&lt;br>Private 
+
+Email&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12628</id>
+    <title>DM in the Wall Street Journal</title>
+    <updated>2000-08-08T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/MindChil1.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2000-08-08T07:00:00.000Z</published>
+    <summary>Portland, OR, August 8, 2000 According to an article appearing in tomorrow's Wall Street Journal, DevelopMentor has developed a new technology for creating software applications. Attached is a photo of this technology in beta test at DevelopMentor's Portland Satellite office. DevelopMentor's device is attached to a user and using the latest LFM technology it auto-generates complete software applications. Evil Genius, Chris Sells, DevelopMentor's Senior Programmer, co-invented the technology with their Secur...</summary>
+    <content type="html">&lt;h1>DM in the Wall Street Journal&lt;/h1>
+&lt;h1 align="center">&lt;img border="0" src="/public/fun/MindChil1.jpg" 
+
+width="342" height="405"> &lt;/h1>&lt;p>Portland, OR, &lt;span class="created">August 
+
+8, 2000&lt;/span> According to an article appearing in tomorrow's Wall Street 
+
+Journal, DevelopMentor has developed a new technology for creating software 
+
+applications. Attached is a photo of this technology in beta test at 
+
+DevelopMentor's Portland Satellite office. DevelopMentor's device is attached 
+
+to a user and using the latest LFM technology it auto-generates complete 
+
+software applications. Evil Genius, Chris Sells, DevelopMentor's Senior 
+
+Programmer, co-invented the technology with their Security Guru, the Prince of 
+
+Darkness Keith Brown. Says Sells; "[our] new technology holds great promise 
+
+for future generations of code warriors." &lt;/p>&lt;p align="left">&lt;i>
+Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
+
+
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12431</id>
+    <title>UrlRun</title>
+    <updated>2000-06-26T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2000-06-26T07:00:00.000Z</published>
+    <summary>Mon, 26 Jun 2000 To deal w/ the number of wrapped URLs I get in my email box, I built UrlRun. It checks the clipboard for an URL, no matter how broken, strips spaces, newlines and greater thans out of it and runs IE. To handle an URL as show above, select it, copy it to the clipboard and launch UrlRun.exe. I keep it on my QuickStart toolbar. If you happen to be using Outlook 2000 or Outlook XP, Tim Tabor has built an UrlRun add-in that does the magic by simply right-clicking on a mangled URL that's you've s...</summary>
+    <content type="html">&lt;h1>UrlRun&lt;/h1>
+&lt;p>
+        &lt;i>&lt;span id="MSGHDR-PRE">&lt;span id="MSGHDR-DATE-PRE">&lt;span class="created">Mon, 26 Jun 2000&lt;/span>&lt;/span>&lt;/span>&lt;/i>
+    &lt;/p>
+    &lt;p>
+        To deal w/ the number of wrapped URLs I get in my email box, I built &lt;a href="/public/tools/urlrun.zip">
+            UrlRun&lt;/a>. It checks the clipboard for an URL, no matter how broken, 
+        strips spaces, newlines and greater thans out of it and runs IE. To handle an 
+        URL as show above, select it, copy it to the clipboard and launch UrlRun.exe. I 
+        keep it on my QuickStart toolbar.
+    &lt;/p>
+    &lt;p>
+        If you happen to be using Outlook 2000 or Outlook XP, Tim Tabor has built an &lt;a href="http://www.cheztabor.com/UrlRunAddIn/">
+            UrlRun add-in&lt;/a> that does the magic by simply right-clicking on a mangled 
+        URL that's you've selected. It's pure sex.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12632</id>
+    <title>Signs that you may be taking COM too seriously...</title>
+    <updated>2000-03-13T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2000-03-13T08:00:00.000Z</published>
+    <summary>The family pet dies. The best explanation you can give the children is "Fluffy's reference count finally reached zero." You've mailed more than three written petitions to the city council of Enumclaw, Washington requesting that the town prefix its name with an 'I'. Your wife has a rather irritating habit of QI'ing you for IMowsTheLawn, despite the fact that for years you've been returning everything from E_NOINTERFACE to RPC_S_SERVER_TOO_BUSY. The best thing about the new generation of wireless internet dev...</summary>
+    <content type="html">&lt;h1>Signs that you may be taking COM too seriously...&lt;/h1>
+&lt;ul>&lt;li>The family pet dies. The best explanation you can give the children is "Fluffy's reference count finally reached zero." &lt;li>You've mailed more than three written petitions to the city council of Enumclaw, Washington requesting that the town prefix its name with an 'I'. &lt;li>Your wife has a rather irritating habit of QI'ing you for IMowsTheLawn, despite the fact that for years you've been returning everything from E_NOINTERFACE to RPC_S_SERVER_TOO_BUSY. &lt;li>The best thing about the new generation of wireless internet devices is that you will be able to receive the DCOM and ATL mailing lists from almost anywhere. &lt;li>Part of your IPO research strategy involves calling the company's engineering manager on the phone and demanding a detailed explanation of apartments and threading. &lt;li>The party you threw to celebrate the introduction of asynchronous RPC calls in Windows 2000 was significantly more expensive than your wedding reception. &lt;li>Last Summer's family vacation to Redmond, Washington. &lt;li>All those emails you've sent to Chris Sells trying to convince him that "ATL Internals" would make a really great movie. &lt;li>Although it is humorous, there are a couple of items in the &lt;a href="#signs1">"Signs you've hired the wrong COM developer..."&lt;/a> list that you can't help but view as personally insulting. &lt;li>On your laptop there exists a half-completed manuscript entitled "The Tao of COM". &lt;li>You refer to your Social Security Number as your GUID.&lt;/li>&lt;/ul>&lt;p>&lt;i>Tony Toivonen &lt;br>&lt;/i>&lt;em>DCOM Mailing List&lt;/em> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12373</id>
+    <title>ATL Borg</title>
+    <updated>2000-02-10T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/ATLBorg.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2000-02-10T08:00:00.000Z</published>
+    <summary>Jeff Smith Thu 2/10/2000 12:07 AM Private Mail </summary>
+    <content type="html">&lt;h1>ATL Borg&lt;/h1>
+&lt;p align="center">&lt;img border="0" src="/public/fun/ATLBorg.JPG" width="623" height="554"> &lt;/p>&lt;p align="left">&lt;i>Jeff Smith &lt;br>Thu &lt;span class="created">2/10/2000 12:07 AM&lt;/span> &lt;br>&lt;/i>&lt;em>Private Mail&lt;/em> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12633</id>
+    <title>In defense of the VB Programmer</title>
+    <updated>2000-01-20T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2000-01-20T08:00:00.000Z</published>
+    <summary>&amp;gt; -----Original Message----- &amp;gt; From: Russ Huffman [mailto:russ@DEVAUTHORITY.COM] &amp;gt; Sent: Thursday, January 20, 2000 8:39 AM &amp;gt; To: ATL@DISCUSS.MICROSOFT.COM &amp;gt; &amp;gt; Don't we already have a "bunch of programmers who have no &amp;gt; idea about how the underlying systems work"? I think they &amp;gt; are called VB programmers...;) I hate to break this to you, but I've met a lot of VB programmers trapped in the body of a C++ programmer. Unfortunately, many development shops place a lot of peer pressure on ...</summary>
+    <content type="html">&lt;h1>In defense of the VB Programmer&lt;/h1>
+&lt;p>&amp;gt; -----Original Message----- &lt;br>&amp;gt; From: Russ Huffman [mailto:russ@DEVAUTHORITY.COM] &lt;br>&amp;gt; Sent: Thursday, &lt;span class="created">January 20, 2000 8:39 AM&lt;/span> &lt;br>&amp;gt; To: ATL@DISCUSS.MICROSOFT.COM &lt;br>&amp;gt; &lt;br>&amp;gt; Don't we already have a "bunch of programmers who have no &lt;br>&amp;gt; idea about how the underlying systems work"? I think they &lt;br>&amp;gt; are called VB programmers... ;) &lt;br>&lt;br>I hate to break this to you, but I've met a lot of VB programmers trapped in the body of a C++ programmer. Unfortunately, many development shops place a lot of peer pressure on people to reject their yearnings to stop using semicolons and memory allocators. It's sad, but VB programmers today are where US Blacks were in the 30's and gays were in the 50's. We have yet to see the "Rosa Parks" or "Stonewall Riots" for VB programmers. &lt;br>&lt;br>BTW, I have been preparing a keynote address in case I am ever asked to keynote a VB-friendly conference. If you want to look at a draft, &lt;b>go to &lt;a href="http://www.develop.com/dbox/dream.htm">http://www.develop.com/dbox/dream.htm&lt;/a> &lt;i>[ed: MLK's "I have a dream" set to VB music]&lt;/i>&lt;/b> &lt;/p>&lt;p>...I have been to VB7. I've seen the promised land. I may not get there with you... &lt;br>&lt;br>DB &lt;/p>&lt;p>PS: Last time I checked, all programmers have selective ignorance. I know nothing about 3D graphics. I know a lot about COM. VB gets under people's skin because one can be ignorant of computer architecture and ASM and still &lt;br>get a lot done. &lt;/p>&lt;p>&lt;br>&lt;i>&lt;b>Don Box&lt;/b> &lt;br>ATL Mailing List&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12634</id>
+    <title>Abort, Retry, Ignore</title>
+    <updated>1999-12-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>1999-12-01T08:00:00.000Z</published>
+    <summary>Once upon a midnight dreary, fingers cramped and vision bleary, System manuals piled high and wasted paper on the floor, Longing for the warmth of bed sheets, Still I sat there, doing spreadsheets: Having reached the bottom line, I took a floppy from the drawer. Typing with a steady hand, I then invoked the SAVE command But got instead a reprimand: it read "Abort, Retry, Ignore." Was this some occult illusion? Some maniacal intrusion? These were choices Solomon himself had never faced before. Carefully, I w...</summary>
+    <content type="html">&lt;h1>Abort, Retry, Ignore&lt;/h1>
+&lt;p>Once upon a midnight dreary, fingers cramped and vision bleary, &lt;br>System manuals piled high and wasted paper on the floor, &lt;br>Longing for the warmth of bed sheets, &lt;br>Still I sat there, doing spreadsheets: &lt;br>Having reached the bottom line, &lt;br>I took a floppy from the drawer. &lt;br>Typing with a steady hand, I then invoked the SAVE command &lt;br>But got instead a reprimand: it read "Abort, Retry, Ignore." &lt;/p>&lt;p>Was this some occult illusion? Some maniacal intrusion? &lt;br>These were choices Solomon himself had never faced before. &lt;br>Carefully, I weighed my options. &lt;br>These three seemed to be the top ones. &lt;br>Clearly, I must now adopt one: &lt;br>Choose Abort, Retry, Ignore. &lt;/p>&lt;p>With my fingers pale and trembling, &lt;br>Slowly toward the keyboard bending, &lt;br>Longing for a happy ending, hoping all would be restored, &lt;br>Praying for some guarantee &lt;br>Finally I pressed a key -- &lt;br>But on the screen what did I see? &lt;br>Again: "Abort, Retry, Ignore." &lt;/p>&lt;p>I tried to catch the chips off-guard -- &lt;br>I pressed again, but twice as hard. &lt;br>Luck was just not in the cards. &lt;br>I saw what I had seen before. &lt;br>Now I typed in desperation &lt;br>Trying random combinations &lt;br>Still there came the incantation: &lt;br>Choose: Abort, Retry, Ignore. &lt;/p>&lt;p>There I sat, distraught, exhausted, by my own machine accosted &lt;br>Getting up I turned away and paced across the office floor. &lt;br>And then I saw an awful sight: &lt;br>A bold and blinding flash of light -- &lt;br>A lightning bolt had cut the night and shook me to my very core. I &lt;br>saw the screen collapse and die "Oh no -- my database", I cried I &lt;br>thought I heard a voice reply, "You'll see your data Nevermore." &lt;/p>&lt;p>To this day I do not know &lt;br>The place to which lost data goes &lt;br>I bet it goes to heaven where the angels have it stored. &lt;br>But as for productivity, well &lt;br>I fear that it goes straight to hell &lt;br>And that's the tale I have to tell &lt;br>Your choice: Abort, Retry, Ignore. &lt;/p>&lt;p>
+&lt;i>&lt;b>Anon &lt;br>
+&lt;/b>&lt;/i>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12652</id>
+    <title>Welcome to Attila!</title>
+    <updated>1999-11-01T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/attila/attila.jpg"/>
+    <category term="tools" label="Tools"/>
+    <published>1999-11-01T08:00:00.000Z</published>
+    <summary>Attila GDI sample (Jim Murphy likes Attila and GDI a little too much...) Welcome to Attila Attila stands for &amp;quot;ATL for Applications.&amp;quot; Attila is a set of extensions built on top of ATL to provide application-level services in the same flavor as MFC. Towards that end, Attila uses a lot of the same notions as ATL, e.g. heavy use of templates, static binding and reliance on the compiler and the linker doing their job.&amp;nbsp; Also, in the flavor of ATL, Attila is under-documented and requires a lot of us...</summary>
+    <content type="html">&lt;h1>Welcome to Attila!&lt;/h1>
+        &lt;p align="center">
+            &lt;img border="0" src="/public/tools/attila/attila.jpg" width="635" height="283">
+        &lt;/p>
+        &lt;p align="center">
+            &lt;b>Attila GDI sample
+                &lt;br>
+                (Jim Murphy likes Attila and GDI a little &lt;i>too &lt;/i>much...)&lt;/b>
+        &lt;/p>
+        &lt;h1>
+            Welcome to Attila
+        &lt;/h1>
+        &lt;p>
+            Attila stands for &amp;quot;ATL for Applications.&amp;quot; Attila is a set of 
+            extensions built on top of ATL to provide application-level services in the 
+            same flavor as MFC. Towards that end, Attila uses a lot of the same notions as 
+            ATL, e.g. heavy use of templates, static binding and reliance on the compiler 
+            and the linker doing their job.&amp;nbsp; Also, in the flavor of ATL, Attila is 
+            under-documented and requires a lot of user investment to make use of it. 
+            However, once you do, we think you'll find the flexibility and efficiency worth 
+            it. If you don't, you haven't lost much, 'cuz Attila is free. Enjoy.
+        &lt;/p>
+        &lt;h1>
+            Disclaimer
+        &lt;/h1>
+        &lt;p>
+            Attila isn't a class library. Some of the headers depend on some of the others. 
+            Some are stand-alone. You are free to pull in the pieces of Attila that you 
+            need and leave the rest alone. Most of the headers were built by different 
+            folks and while every effort was made to keep things consistent by choosing ATL 
+            design techniques, everyone does things there own way.
+        &lt;/p>
+        &lt;p>
+            This work is the work of the individuals involved and does not represent any 
+            contribution of their respective employers. You are under no obligation to use 
+            any of Attila at any time, but if you do, please abide by the License.
+        &lt;/p>
+        &lt;h1>
+            License
+        &lt;/h1>
+        &lt;p>
+            Attila is copyright (c) 1999-2000 by its contributors.
+            &lt;br>
+            All rights reserved.
+            &lt;br>
+            No warrantees extended.
+            &lt;br>
+            Use at your own risk.
+        &lt;/p>
+        &lt;p>
+            You may use Attila in your product in compiled form without royalty.
+            &lt;br>
+            You may not distribute Attila in source code form without the express written 
+            consent of the contributors.
+        &lt;/p>
+        &lt;p>
+            The official home of Attila is
+            &lt;a href="/12652">http://www.sellsbrothers.com&lt;/a>.
+        &lt;/p>
+        &lt;h1>
+            Installation
+        &lt;/h1>
+        &lt;p>
+            The current Attila bits are located at &lt;a href="/public/tools/attila/attila.zip">
+            attila.zip&lt;/a>. Download and unzip them 
+            into the folder of your choice (making sure to preserve path names). Make sure 
+            to add the Attila include directory to your compilers include path. For 
+            example, if you unzipped Attila into the &lt;b>c:\attila&lt;/b> directory, add &lt;b>c:\attila\include&lt;/b>
+            to your compiler's include path. You can check to make sure you did this right 
+            by building any of the samples in the &lt;b>samples&lt;/b> folder.
+        &lt;/p>
+        &lt;h1>
+            Support
+        &lt;/h1>
+        &lt;p>
+            Please do not send Chris Sells or any of the other contributors personal email 
+            complaining about Attila. Also please do not post Attila bug reports to any 
+            other mailing list, e.g. DCOM or ATL. If you like, you can submit bugs to the 
+            Attila Hit Squad mailing list (but only if you're a member). Nobody there is 
+            under any responsibility to fix anything in Attila, but you might shame someone 
+            into it. A much better way to contribute to the life of Attila is to submit the 
+            fix along with the bug report. Or even better, join the Attila Hit Squad 
+            mailing list and fix bugs submitted by others.
+        &lt;/p>
+        &lt;h1>
+            Official Attila Contributors
+        &lt;/h1>
+        &lt;ul>
+            &lt;li>
+                Chris Sells &lt;a href="mailto:csells@sellsbrothers.com">csells@sellsbrothers.com&lt;/a>&lt;/li>
+            &lt;li>
+                Justin Rudd &lt;a href="mailto:justin.rudd@home.com">justin.rudd@home.com&lt;/a>&lt;/li>
+            &lt;li>
+                Curt Hagenlocher &lt;a href="mailto:curth@motek.com">curth@motek.com&lt;/a>&lt;/li>
+            &lt;li>
+                Ed Ball &lt;a href="mailto:ed@libronix.com">ed@libronix.com&lt;/a>&lt;/li>
+            &lt;li>
+                Matt Wilson &lt;a href="mailto:Matt.Wilson@wdr.com">Matt.Wilson@wdr.com&lt;/a>&lt;/li>
+            &lt;li>
+                Simon Fell &lt;a href="mailto:SFell@streetfusion.com">SFell@streetfusion.com&lt;/a>&lt;/li>
+            &lt;li>
+                Shawn MacFarland &lt;a href="mailto:macfars@towers.com">macfars@towers.com&lt;/a>&lt;/li>
+            &lt;li>
+                Joe O'Leary &lt;a href="mailto:JOLeary@artisoft.com">JOLeary@artisoft.com&lt;/a>&lt;/li>
+            &lt;li>
+                Anthony Toivonen &lt;a href="mailto:anthony.toivonen@intel.com">anthony.toivonen@intel.com&lt;/a>&lt;/li>
+            &lt;li>
+                Rodrigo B. de Oliveira &lt;a href="mailto:rodrigob@vesta.com.br">rodrigob@vesta.com.br&lt;/a>&lt;/li>
+            &lt;li>
+                Jim Murphy &lt;a href="mailto:JMurphy@Transactionworks.com">JMurphy@Transactionworks.com&lt;/a>&lt;/li>
+            &lt;li>
+                Jorge Lopez &lt;a href="mailto:cprog@pacbell.net">cprog@pacbell.net&lt;/a>&lt;/li>
+            &lt;li>
+                Brad Wilson &lt;a href="mailto:bradw@pobox.com">bradw@pobox.com&lt;/a>&lt;/li>
+            &lt;li>
+                Shawn A. VanNess &lt;a href="mailto:xonix@MINDSPRING.COM">xonix@MINDSPRING.COM&lt;/a>&lt;/li>
+        &lt;/ul>
+        &lt;h1>
+            Who Did What
+        &lt;/h1>
+        &lt;ul>
+            &lt;li>
+                Chris did a lot of the initial framework.&lt;/li>
+            &lt;li>
+                Justin did CMsgTranslator.&lt;/li>
+            &lt;li>
+                Ed did CRegPreferences and CRegWindowSerializer.&lt;/li>
+            &lt;li>
+                Curt did the common dialogs and restructured and added AX support to property 
+                pages.&lt;/li>
+            &lt;li>
+                Matt and Shawn did work on the coolmenus and coolbars.&lt;/li>
+            &lt;li>
+                Simon did the multi-SDI stuff.&lt;/li>
+            &lt;li>
+                Joe did the command UI routing support.&lt;/li>
+            &lt;li>
+                Anthony did the command routing.&lt;/li>
+            &lt;li>
+                Rodrigo and Jim did the GDI wrappers.&lt;/li>
+            &lt;li>
+                Jorge did the Doc/View stuff.&lt;/li>
+            &lt;li>
+                Brad did the DDX/DDV support.&lt;/li>
+            &lt;li>
+                Shawn did CSimpleList.&lt;/li>
+        &lt;/ul>
+        &lt;h1>
+            Documentation
+        &lt;/h1>
+        &lt;p>
+            You might find some implementation notes for Attila in the &lt;b>docs&lt;/b> folder, 
+            but you probably won't. If you have any documentation you'd like to submit, 
+            we'd love to have it.
+        &lt;/p>
+        &lt;h1>
+            Samples
+        &lt;/h1>
+        &lt;p>
+            Check the &lt;b>samples.htm&lt;/b> file in the &lt;b>samples&lt;/b> folder of the Attila 
+            distribution. You can build all of the samples from the command line using the &lt;b>buildall.cmd&lt;/b>
+            batch file in the &lt;b>samples&lt;/b> folder.
+        &lt;/p>
+        &lt;h2>
+            CComSingleInstanceModule
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                Uses Single_Instance_App as the DDE application name, preventing more than one 
+                single instance ATL application from running at a time. DDE application name 
+                should be based on something unique to the application, e.g. the module name.&lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            SdiDocView
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                No MRU.&lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            MdiDocView
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                None of the MDI accelerators work, e.g. ctrl-tab.&lt;/li>
+            &lt;li>
+                There seems to be a lot of glue code in CMainWindow that could be hoisted to a 
+                base class.&lt;/li>
+            &lt;li>
+                No MRU.&lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            LookOut
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                Left pane needs work.&lt;/li>
+        &lt;/ul>
+        &lt;h1>
+            History
+        &lt;/h1>
+        &lt;ul>
+            &lt;li>
+                8/14/00, Various property sheet enhancements.&lt;/li>
+            &lt;li>
+                1/28/00, Simulated PSN_APPLY for Wizards and PSN_APPLY for modeless propsheets 
+                bug fix.&lt;/li>
+            &lt;li>
+                12/8/99, CSimpleList and bug fixes.&lt;/li>
+            &lt;li>
+                11/29/99, Bug fixes.&lt;/li>
+            &lt;li>
+                11/25/99, Bug fixes.&lt;/li>
+            &lt;li>
+                11/10/99, DDX/DDV and bug fixes.&lt;/li>
+            &lt;li>
+                11/1/99, Bug fixes.&lt;/li>
+            &lt;li>
+                11/1/99, Beta release.&lt;/li>
+        &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12635</id>
+    <title>Still_Life_with_Aggregate</title>
+    <updated>1999-10-25T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/fun/aggregate.gif"/>
+    <category term="fun" label="Fun"/>
+    <published>1999-10-25T07:00:00.000Z</published>
+    <summary>Still Life with Aggregate Built using online Lite-Brite. Jason Whittington Private DevelopMentor Mailing List </summary>
+    <content type="html">&lt;h1>Still_Life_with_Aggregate&lt;/h1>
+&lt;h2>
+&lt;a name="Still_Life_with_Aggregate" href="#Still_Life_with_Aggregate">Still Life with Aggregate&lt;/a>&lt;/h2>&lt;p align="center">&lt;img border="0" src="/public/fun/aggregate.gif" width="629" height="406"> &lt;/p>&lt;p align="center">Built using &lt;a href="http://www.sfpg.com/animation/liteBrite.html">online Lite-Brite&lt;/a>. &lt;/p>&lt;p align="left">&lt;i>&lt;b>Jason Whittington &lt;a href="mailto:O'LearyJOLeary@ARTISOFT.COM">&lt;br>&lt;/a>&lt;/b>Private DevelopMentor Mailing List&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12636</id>
+    <title>Spirit of the IUnknown</title>
+    <updated>1999-10-06T07:00:00.000Z</updated>
+    <published>1999-10-06T07:00:00.000Z</published>
+    <summary>(sung to the tune of "Spirit of the Radio" (Rush, "Permanent waves")) Words (c) Jason Whittington, 1999 Begin the day with a simple call, A function unobtrusive Loads the module that's so elusive And a matching context means no marshal goo Off on your way from the factory Interfaces at your fingers QueryInterface gets to you a new one Just Release the pointer when your object's through Transactional objects crackle with life While they Service SOAP calls from some ASP Giving their feedback on the final outc...</summary>
+    <content type="html">&lt;h1>Spirit of the IUnknown&lt;/h1>
+&lt;p>&lt;i>&lt;b>(sung to the tune of "Spirit of the Radio" (Rush, "Permanent waves")) &lt;br>Words (c) Jason Whittington, 1999&lt;/b>&lt;/i> &lt;/p>&lt;p>Begin the day with a simple call, &lt;br>A function unobtrusive &lt;br>Loads the module that's so elusive &lt;br>And a matching context means no marshal goo &lt;/p>&lt;p>Off on your way from the factory &lt;br>Interfaces at your fingers &lt;br>QueryInterface gets to you a new one &lt;br>Just Release the pointer when your object's through &lt;/p>&lt;p>Transactional objects crackle with life &lt;br>While they Service SOAP calls from some ASP &lt;br>Giving their feedback on the final outcome &lt;br>Making a call to Abort or Set Complete &lt;/p>&lt;p>All this machinery so that you can use it &lt;br>Is still quite closely guarded &lt;br>CreateInstance will get you a new object from the factory &lt;br>(yeah the factory) &lt;/p>&lt;p>One likes to believe that it's easy to use it, &lt;br>But the threading models and getting pointers marshaled &lt;br>shatters the illusion of transparency &lt;/p>&lt;p>the CLSID to marshal was requested by the S-C-M... &lt;br>F-T-M! &lt;br>Cookies, From the GIT &lt;br>For Safety! Ohhhh....For Safe-ty! &lt;/p>&lt;p>&lt;i>&lt;b>Jason Whittington &lt;a href="mailto:O'LearyJOLeary@ARTISOFT.COM">&lt;br>&lt;/a>&lt;/b>Private DevelopMentor Mailing List&lt;/i> &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12637</id>
+    <title>Computer synthesized song to liven up your day...</title>
+    <updated>1999-07-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>1999-07-30T07:00:00.000Z</published>
+    <summary>I just like the idea of a computer singing... If you've seen 2001, you'll recognize the tune. </summary>
+    <content type="html">&lt;h1>Computer synthesized song to liven up your day...&lt;/h1>
+&lt;p>I just like the idea of &lt;a href="http://www.bell-labs.com/project/tts/daisy.wav">a computer singing...&lt;/a> If you've seen 2001, you'll recognize the tune. &lt;/p></content>
+  </entry>
+</feed>

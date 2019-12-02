@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed12.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed11.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed13.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed12.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2250</id>
+    <title>I love Microsoft's terrible automated voice attendant</title>
+    <updated>2009-02-19T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2009-02-19T08:00:00.000Z</published>
+    <summary>Long-time readers may recall when I got an angry caller from a Vista user that had trouble configuring it the way they wanted it. They got to me because they were looking for "sales" using the automated voice attendant that matched my last name instead ("Sells") and forwarded him to me in the middle of a 1:1 in my office. Not wanting to let a customer go away angry, I stopped what I was doing and did my best to try to help. It happened again today, except for an angry middle-aged guy, I got a call from the ...</summary>
+    <content type="html">&lt;h1>I love Microsoft's terrible automated voice attendant&lt;/h1>
+&lt;P>Long-time readers may recall when I got &lt;A href="/2089">an angry caller from a Vista user&lt;/A> that had trouble configuring it the way they wanted it. They got to me because they were looking for "sales" using the automated voice attendant that matched my last name instead ("Sells") and forwarded him to me in the middle of a 1:1 in my office. Not wanting to let a customer go away angry, I stopped what I was doing and did my best to try to help.&lt;/P>
+&lt;P>It happened again today, except for an angry middle-aged guy, I got a call from the sweetest 12-year-old girl you'd ever want to talk to. Her Word CD had gotten scratched and she needed a replacement so she could write a big paper due next week. I considered telling her that I wasn't in sales or support or getting her number and calling her back (I was IM'ing with four other people at the time and I was late for a meeting), but she was so earnest that I just couldn't turn her away.&lt;/P>
+&lt;P>Instead, I took her name, address and email, went to the MS store and purchased her a copy of Office 2007, which I then had sent to her place via 2-day shipping, all the time assuring her that it wouldn't cost her a dime. I ended up using my own personal quota for discounted software and charging $60 to my MS AMEX, but I would've spent my own money (and still might if my boss reads this and rejects my expense report : ).&lt;/P>
+&lt;P>She was so grateful and it made my day to solve her problem. I love our customers and I hope the terrible robot on the main MS line keeps sending 'em my way.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2249</id>
+    <title>Mix09: Developing RESTful Services &amp; Clients w/ M</title>
+    <updated>2009-02-18T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-02-18T08:00:00.000Z</published>
+    <summary>Doug Purdy and I will be giving an "M" talk about web stuff at this year's Mix : Learn how Web developers can use "M", a new language for describing data, metadata and domain specific languages, to enhance RESTful services like HTTP, JSON, RSS/Atom, and more. Also see how "M" can be used on premise or in the cloud to achieve greater development productivity and to create more compelling customer experiences. Come one, come all! </summary>
+    <content type="html">&lt;h1>Mix09: Developing RESTful Services &amp; Clients w/ M&lt;/h1>
+&lt;P>&lt;A href="http://www.douglasp.com/">Doug Purdy&lt;/A> and I will be giving &lt;A href="https://content.visitmix.com/2009/Sessions/">an "M" talk about web stuff at this year's Mix&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;DIV class=description>&lt;EM>Learn how Web developers can use "M", a new language for describing data, metadata and domain specific languages, to enhance RESTful services like HTTP, JSON, RSS/Atom, and more. Also see how "M" can be used on premise or in the cloud to achieve greater development productivity and to create more compelling customer experiences.&lt;/EM>&lt;/DIV>&lt;/BLOCKQUOTE>
+&lt;P>&lt;A href="http://2009.visitmix.com/Registration/">Come one, come all!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2247</id>
+    <title>More from Stephen Modeling an Application in Oslo</title>
+    <updated>2009-02-16T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-02-16T08:00:00.000Z</published>
+    <summary>Stephen has three more installments in his series on modeling an application in Oslo: Discovery, Domain Entities and Refactoring and Transforming MGraph to TSQL. It's fascinating to watch him use the platform starting from scratch. Recommended!</summary>
+    <content type="html">&lt;h1>More from Stephen Modeling an Application in Oslo&lt;/h1>
+Stephen has three more installments in his series on modeling an application in Oslo: &lt;A href="http://www.stephenforte.net/PermaLink,guid,3d84984e-4d4e-4bb8-81c6-c11abe3c3cf1.aspx">Discovery&lt;/A>, &lt;A href="http://www.stephenforte.net/PermaLink,guid,8f695719-fa10-43b3-82aa-e2312b5a9c46.aspx">Domain Entities and Refactoring&lt;/A> and &lt;a href="http://www.stephenforte.net/PermaLink,guid,d3983e8f-9cb0-468b-a9c6-c5c45fa6d86d.aspx">Transforming MGraph to TSQL&lt;/a>. It's fascinating to watch him use the platform starting from scratch. Recommended!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2248</id>
+    <title>Martin Fowler on DSL Migration</title>
+    <updated>2009-02-16T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-02-16T08:00:00.000Z</published>
+    <summary>Martin, who has recently agreed to be the keynote speaker for the DSL DevCon, has a nice piece on DSL migration strategies. While Oslo has no direct support for the incremental migration strategy to migrate DSL documents forward, we absolutely provide the tools for building it yourself. We do have very nice support for model-based migration, which keeps a parser around for each version of the DSL and produces the same underlying semantic model (which we call MGraph). </summary>
+    <content type="html">&lt;h1>Martin Fowler on DSL Migration&lt;/h1>
+&lt;P>Martin, who has recently agreed to be the keynote speaker for &lt;a href="/public/conference/">the DSL DevCon&lt;/A>, has a nice piece on &lt;A href="http://martinfowler.com/bliki/DslMigration.html">DSL migration strategies&lt;/A>.&lt;/P>
+&lt;P>While Oslo has no direct support for the incremental migration strategy to migrate DSL documents forward, we absolutely provide the tools for building it yourself. We do have very nice support for model-based migration, which keeps a parser around for each version of the DSL and produces the same underlying semantic model (which we call MGraph).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2245</id>
+    <title>Welcome to the January 2009 "Oslo" SDK!</title>
+    <updated>2009-02-02T08:00:00.000Z</updated>
+    <category term="osloeditorial" label="Oslo"/>
+    <published>2009-02-02T08:00:00.000Z</published>
+    <summary>Hello again from Chris and Kent, your editors on the "Oslo" Developer Center. On Friday, January 30 th, we released the January 2009 CTP of the &amp;#8220;Oslo&amp;#8221; SDK. This release was primarily a quality release, but we&amp;#8217;ve also added some new features (which you can read about in the release notes ). My favorite of these is token actions, which lets me do things like specify a string in a.mg file but pull out the guts without keeping the double quotes that surround it: token String = Word | a:'"' s:(...</summary>
+    <content type="html">&lt;h1>Welcome to the January 2009 "Oslo" SDK!&lt;/h1>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Hello again from Chris and Kent, your editors on the "Oslo" Developer Center. On Friday, January 30&lt;SUP>th&lt;/SUP>, we released &lt;/FONT>&lt;A href="http://go.microsoft.com/?linkid=9648442">&lt;FONT face=Calibri>the January 2009 CTP of the &amp;#8220;Oslo&amp;#8221; SDK&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>. This release was primarily a quality release, but we&amp;#8217;ve also added some new features (which you can read about in &lt;/FONT>&lt;A href="http://go.microsoft.com/?linkid=9648443">&lt;FONT face=Calibri color=#0000ff>the release notes&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>). My favorite of these is token actions, which lets me do things like specify a string in a .mg file but pull out the guts without keeping the double quotes that surround it:&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;SPAN style="FONT-FAMILY: 'Courier New'">token String = Word | a:'"' s:('""' | ^'"')+ b:'"' =&amp;gt; s;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>If you&amp;#8217;re building grammars, you know why this is cool and if you&amp;#8217;re not, &lt;/FONT>&lt;A href="http://msdn.microsoft.com/library/dd129869.aspx">&lt;FONT face=Calibri color=#0000ff>what are you waiting for&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>?&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Also, you&amp;#8217;ll want to check out &lt;/FONT>&lt;A href="http://msdn.microsoft.com/en-us/library/dd326765.aspx">&lt;FONT face=Calibri>the new Modeling Patterns and Guidelines document&lt;/FONT>&lt;/A>&lt;FONT face=Calibri> where we start to explore common modeling tasks and how to approach them in M. This document will grow a great deal over time and if there&amp;#8217;s some particular topic you&amp;#8217;d like to see covered, &lt;/FONT>&lt;A href="mailto:oslodc@microsoft.com?subject=Oslo%20Developer%20Center%20Content%20Suggestion">&lt;FONT face=Calibri color=#0000ff>drop us a line&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>In the three short months since the PDC, we&amp;#8217;ve tried to keep you up to date on fresh content from the team showing off how we think our customers will want to use or showing off features you might not have known about. The ones in this category I think will get you pointed in the right direction are &lt;/FONT>&lt;A title='"Oslo" Basics: Build Metadata-Based Applications With The "Oslo" Platform (Oct 08 CTP)' href="http://msdn.microsoft.com/en-us/magazine/dd419662.aspx">&lt;FONT face=Calibri>"Oslo" Basics: Build Metadata-Based Applications With The "Oslo" Platform&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>, &lt;/FONT>&lt;A href="http://blogs.msdn.com/joshwil/">&lt;FONT face=Calibri>Mr. EPL&lt;/FONT>&lt;/A>&lt;FONT face=Calibri> and &lt;/FONT>&lt;A title="Spork sample (Oct 08 CTP)" href="http://download.microsoft.com/download/E/3/E/E3EC8D15-BF43-4FFB-8B05-FD01F8EC6AD4/Spork.msi">&lt;FONT face=Calibri color=#0000ff>Spork&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Also, "Oslo" has generated a ton of buzz in the community, including &lt;/FONT>&lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">&lt;FONT face=Calibri>the forum&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>, &lt;/FONT>&lt;A href="https://connect.microsoft.com/oslo">&lt;FONT face=Calibri>the connect bug database&lt;/FONT>&lt;/A>&lt;FONT face=Calibri> and in &lt;/FONT>&lt;A href="http://search.live.com/results.aspx?q=microsoft+oslo">&lt;FONT face=Calibri>the blogosphere&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>. The ones we think you should take particular note of are &lt;/FONT>&lt;A href="http://msdn.microsoft.com/en-us/oslo/cc749618.aspx">&lt;FONT face=Calibri>featured on the DevCenter as soon as we find them&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>. Items I really think you should check out are &lt;/FONT>&lt;A title="Why Oslo is Important" href="http://services.social.microsoft.com/feeds/FeedItem?feedId=00000000-0000-0000-0000-000000000000&amp;amp;itemId=ab4667bb-5c65-4e8b-9a98-eaa2faf4e6e9&amp;amp;title=Why+Oslo+is+Important&amp;amp;uri=http%3a%2f%2fdvanderboom.wordpress.com%2f2009%2f01%2f17%2fwhy-oslo-is-important%2f&amp;amp;k=eh97omAyNRPlBtOM2v%2bPyFV%2bni5JyGKEm9ODSovZZ9U%3d">&lt;FONT face=Calibri>Why Oslo is Important&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>, &lt;SPAN style="mso-bidi-font-weight: bold">&lt;A href="http://wildermuth.com/2008/11/08/MSchema_and_Decorator_Tables">MSchema and Decorator Tables&lt;/A>&lt;/SPAN> and &lt;/FONT>&lt;A href="http://blogs.msdn.com/thehoggblog/archive/2008/11/25/a-logo-turtle-graphics-sample-in-mgrammar.aspx">&lt;FONT face=Calibri>Creating a Logo/Turtle Graphics Textual DSL using Oslo MGrammar&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>But wait, there&amp;#8217;s more! If you&amp;#8217;d really like some focused time on "Oslo," there are not one but two training courses, one from &lt;/FONT>&lt;A href="https://agilitrain.com/Workshop/Info/Model_Driven_Development_with_Oslo">&lt;FONT face=Calibri>Agilitrain&lt;/FONT>&lt;/A>&lt;FONT face=Calibri> and one from &lt;/FONT>&lt;A href="http://www.pluralsight.com/main/ilt/Course.aspx?id=AP31">&lt;FONT face=Calibri>PluralSight&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Finally, if you&amp;#8217;re an MGrammar fan, you&amp;#8217;ll love &lt;/FONT>&lt;a href="/public/conference/">&lt;FONT face=Calibri>the DSL DevCon&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>, April 16 &amp;amp; 17 in Redmond, WA right after the Lang.NET conference.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Our goal on the DevCenter is bi-directional communication, so we&amp;#8217;ve worked hard to make sure we keep our eyes open for all of the wonderful things you&amp;#8217;re putting "Oslo" to use on. However, we&amp;#8217;re only human, so if we miss something, whether it&amp;#8217;s something you&amp;#8217;ve built with "Oslo" or a question or piece of feedback, &lt;/FONT>&lt;A href="mailto:oslodc@microsoft.com?subject=Oslo%20Developer%20Center%20Feedback">&lt;FONT face=Calibri color=#0000ff>don&amp;#8217;t hesitate to let us know&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>!&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Also, in case you don&amp;#8217;t know what "Oslo" is or how to get started, you should check out the Getting Started section on &lt;/FONT>&lt;A href="http://msdn.com/oslo">&lt;FONT face=Calibri>the DevCenter home page&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>Keep those cards and letters coming!&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>XXOO, Chris Sells &amp;amp; Kent Sharkey&lt;/FONT>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2246</id>
+    <title>Stephen Forte: Oslo Confessions of a .NET Programm</title>
+    <updated>2009-02-02T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-02-02T08:00:00.000Z</published>
+    <summary>Stephen's been turning himself into an Oslo programmer : " Telerik is building some cool Oslo utilities and I am in the middle of designing them. As I was talking to Chris about some of the specs the other day, he asked me: &amp;#8220;What are you using to keep track of the metadata of your application in your design process?&amp;#8221; I was like: &amp;#8220;Pen, paper, whiteboard, Word and Excel.&amp;#8221; He said why are you not using Oslo? Then it struck me, I was in.NET programmer mode. So last decade. While I am usi...</summary>
+    <content type="html">&lt;h1>Stephen Forte: Oslo Confessions of a .NET Programm&lt;/h1>
+&lt;P>Stephen's been &lt;A href="http://www.stephenforte.net/PermaLink,guid,d9f65cfa-2b05-44fa-bccb-f676042df87f.aspx">turning himself into an Oslo programmer&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;/EM>&lt;A href="http://www.stephenforte.net/ct.ashx?id=d9f65cfa-2b05-44fa-bccb-f676042df87f&amp;amp;url=http%3a%2f%2fwww.telerik.com">&lt;EM>Telerik&lt;/EM>&lt;/A>&lt;EM> is building some cool Oslo utilities and I am in the middle of designing them. As I was talking to Chris about some of the specs the other day, he asked me: &amp;#8220;What are you using to keep track of the metadata of your application in your design process?&amp;#8221; I was like: &amp;#8220;Pen, paper, whiteboard, Word and Excel.&amp;#8221; He said why are you not using Oslo? Then it struck me, I was in .NET programmer mode. So last decade. While I am using Visual Studio 2008, &lt;/EM>&lt;A href="http://www.stephenforte.net/ct.ashx?id=d9f65cfa-2b05-44fa-bccb-f676042df87f&amp;amp;url=http%3a%2f%2fwww.telerik.com%2fproducts%2fwpf.aspx">&lt;EM>WPF&lt;/EM>&lt;/A>&lt;EM>, SQL Server 2008 and the &lt;/EM>&lt;A href="http://www.stephenforte.net/ct.ashx?id=d9f65cfa-2b05-44fa-bccb-f676042df87f&amp;amp;url=http%3a%2f%2fgo.microsoft.com%2f%3flinkid%3d9648444">&lt;EM>Oslo SDK&lt;/EM>&lt;/A>&lt;EM> to build an application &lt;STRONG>for&lt;/STRONG> Oslo, I was not &lt;STRONG>using&lt;/STRONG> Oslo to help build the application."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Worth watching.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2244</id>
+    <title>Bill Gibson on Domain Modeling</title>
+    <updated>2009-01-30T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-30T08:00:00.000Z</published>
+    <summary>Bill Gibson is an architect on the Oslo team and is in charge of our M coding conventions and modeling patterns documents. He's started blogging recently and has a nice post about domain modeling in Oslo. He's a good guy to hit up with questions about how to model various constructs in M or just modeling questions in general. He's been doing this modeling thing forever... </summary>
+    <content type="html">&lt;h1>Bill Gibson on Domain Modeling&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/billgibson/">Bill Gibson&lt;/A> is an architect on the Oslo team and is in charge of our &lt;A href="http://msdn.microsoft.com/en-us/library/dd129638.aspx">M coding conventions&lt;/A> and &lt;A href="http://msdn.microsoft.com/en-us/library/dd326765.aspx">modeling patterns&lt;/A> documents. He's started blogging recently and has a nice post about &lt;A href="http://blogs.msdn.com/billgibson/archive/2009/01/27/domain-modeling.aspx">domain modeling in Oslo&lt;/A>. He's a good guy to hit up with questions about how to model various constructs in M or just modeling questions in general. He's been doing this modeling thing &lt;EM>forever&lt;/EM>...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2243</id>
+    <title>Agilitrain: Model Driven Development with Oslo</title>
+    <updated>2009-01-27T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-27T08:00:00.000Z</published>
+    <summary>Holy cow -- another Oslo course, this one from Agilitrain : "Microsoft's Oslo is trying to change the way that software is designed, developed and delivered. They are introducing a platform for building real, scalable and manageable model-driven applications. Being an early adopter of this platform will prepare you for our changing world. "This course will show you how to build models and domain specific languages and use them all at runtime using the Repository to create great applications for your users."...</summary>
+    <content type="html">&lt;h1>Agilitrain: Model Driven Development with Oslo&lt;/h1>
+&lt;P>Holy cow -- another &lt;A href="https://agilitrain.com/Workshop/Info/Model_Driven_Development_with_Oslo">Oslo course, this one from Agilitrain&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Microsoft's Oslo is trying to change the way that software is designed, developed and delivered. They are introducing a platform for building real, scalable and manageable model-driven applications. Being an early adopter of this platform will prepare you for our changing world.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"This course will show you how to build models and domain specific languages and use them all at runtime using the Repository to create great applications for your users."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I'm a huge &lt;A href="https://agilitrain.com/Workshop/Info/Model_Driven_Development_with_Oslo">Shawn Wildermuth&lt;/A> fan (Shawn's the author of this course and the instructor). Recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2242</id>
+    <title>All Technology Has Downsides</title>
+    <updated>2009-01-25T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-25T08:00:00.000Z</published>
+    <summary>Rocky makes some good points in his recent piece on DSLs ( DSLs &amp;#8211; fun, cool, but maybe a bad idea? ) -- basically, who's going to learn the DSL when the folks that know it move on? That's one potential downside of the proliferation of DSLs and I could give you more. However, all technologies come with these downsides, e.g. Managed environments make new programmers forget what's under the hood (and in some cases, actually afraid to look). Horseless carriages produce pollution. iPhones are killing the E...</summary>
+    <content type="html">&lt;h1>All Technology Has Downsides&lt;/h1>
+&lt;P>Rocky makes some good points in his recent piece on DSLs (&lt;A class=TitleLinkStyle href="http://www.lhotka.net/weblog/DSLsNdashFunCoolButMaybeABadIdea.aspx" rel=bookmark>DSLs &amp;#8211; fun, cool, but maybe a bad idea?&lt;/A> ) -- basically, who's going to learn the DSL when the folks that know it move on? That's one potential downside of the proliferation of DSLs and I could give you more.&lt;/P>
+&lt;P>However, all technologies come with these downsides, e.g. &lt;/P>
+&lt;UL>
+&lt;LI>Managed environments make new programmers forget what's under the hood (and in some cases, actually afraid to look).&lt;/LI>
+&lt;LI>Horseless carriages produce pollution.&lt;/LI>
+&lt;LI>iPhones are killing the English language by encouraging the use of "words" like "lol," "afaik" and "wtf."&lt;/LI>
+&lt;LI>Airplanes crash.&lt;/LI>
+&lt;LI>Very very bad code written in Visual Basic can still do the right thing.&lt;/LI>
+&lt;LI>Fonts let every letter look like a ransom note.&lt;/LI>
+&lt;LI>etc.&lt;/LI>&lt;/UL>
+&lt;P>The point isn't whether a technology has downsides or not -- of course, it does. The point is whether the upsides outweigh the downsides. In the case of DSLs and model-driven development all up, the "Oslo" team is making a big bet that we can make you overall more productive when digging ourselves out of the IT software backlog hole. Will we be? I think so, but we have a lot of work to do before we'll know for sure.&lt;/P>
+&lt;P>And how do we reduce the impact of the downsides of a new technology? By knowing that they're there, which is why &lt;A href="http://www.lhotka.net/weblog/DSLsNdashFunCoolButMaybeABadIdea.aspx">Rocky's commentary&lt;/A> is so useful. Recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2241</id>
+    <title>ExtractM "Oslo" Sample</title>
+    <updated>2009-01-20T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-01-20T08:00:00.000Z</published>
+    <summary>ExtractM is a sample command-line tool for extracting M source code from compiled M images by Shannon Koh, a developer on the "Oslo" team. Enjoy!</summary>
+    <content type="html">&lt;h1>ExtractM "Oslo" Sample&lt;/h1>
+&lt;a href="http://download.microsoft.com/download/7/7/6/7760B8FD-5CBC-4AE7-A3EF-2A61D753332F/ExtractM.msi">ExtractM is a sample command-line tool for extracting M source code from compiled M images&lt;/a> by Shannon Koh, a developer on the "Oslo" team. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2240</id>
+    <title>There once was a man from Duluth</title>
+    <updated>2009-01-18T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2009-01-18T08:00:00.000Z</published>
+    <summary>nearly 40 years old; past his youth! But tonight with a smile, he swam non-stop for a mile. First time in his life - that's the truth! I&amp;nbsp;swam a mile when&amp;nbsp;I was 17 and again last summer, but never non-stop before.&amp;nbsp;I know it doesn't compare to real swimmers (it took me 45 minutes), but I've been swimming for less than a year. Plus i found two meaningful rhymes for "Duluth."&amp;nbsp;I rock. : ) </summary>
+    <content type="html">&lt;h1>There once was a man from Duluth&lt;/h1>
+&lt;P>nearly 40 years old; past his youth!&lt;BR>But tonight with a smile,&lt;BR>he swam non-stop for a mile.&lt;BR>First time in his life - that's the truth!&lt;/P>
+&lt;P>I&amp;nbsp;swam a mile when&amp;nbsp;I was 17 and again last summer, but never non-stop before.&amp;nbsp;I know it doesn't compare to real swimmers (it took me 45 minutes), but I've been swimming for less than a year. Plus i found two meaningful rhymes for "Duluth."&amp;nbsp;I rock. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2239</id>
+    <title>Dan Vanderboom: Why Oslo Is Important</title>
+    <updated>2009-01-18T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-18T08:00:00.000Z</published>
+    <summary>I couldn't have said it better myself. Very much worth the read. Enjoy.</summary>
+    <content type="html">&lt;h1>Dan Vanderboom: Why Oslo Is Important&lt;/h1>
+&lt;A href="http://dvanderboom.wordpress.com/2009/01/17/why-oslo-is-important/">I couldn't have said it better myself.&lt;/A> Very much worth the read. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2238</id>
+    <title>SE Radio: Oslo with Don and Doug</title>
+    <updated>2009-01-16T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-16T08:00:00.000Z</published>
+    <summary>Episode 123 of Software Engineering Radio is all about Oslo : "In this episode we discuss Microsoft's OSLO platform with Doug Purdy and Don Box. We briefly discuss what OSLO is in general and then look at the various components of OSLO. We also look at how OSLO fits in with the general Microsoft strategy and how it compares to other DSL/Model-driven approaches. We then look at language modularization and composition and discuss the similarities with XML and Smalltalk. Finally, we discuss possible integratio...</summary>
+    <content type="html">&lt;h1>SE Radio: Oslo with Don and Doug&lt;/h1>
+&lt;P>&lt;A href="http://se-radio.net/podcast/2009-01/episode-123-microsoft-oslo-don-box-and-doug-purdy">Episode 123 of Software Engineering Radio is all about Oslo&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"In this episode we discuss Microsoft's OSLO platform with Doug Purdy and Don Box. We briefly discuss what OSLO is in general and then look at the various components of OSLO. We also look at how OSLO fits in with the general Microsoft strategy and how it compares to other DSL/Model-driven approaches. We then look at language modularization and composition and discuss the similarities with XML and Smalltalk. Finally, we discuss possible integrations of OSLO with other MD* approaches and technologies."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2237</id>
+    <title>DSL DevCon Pre-registration</title>
+    <updated>2009-01-15T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2009-01-15T08:00:00.000Z</published>
+    <summary>There's been such a flood of DSL DevCon &amp;nbsp; talk proposals that I've had a hard time keeping up (although feel free to let those nice folks in Eclipse, XML,&amp;nbsp;Java and Unix land if you know who they are!). Also, there's been a huge amount of interest in attending the conference itself and some folks even worry that the conference will sell out before they can register (the first five DevCons have all sold out and those cost money!), so they've been asking me to put 'em on a list. I'm still working out...</summary>
+    <content type="html">&lt;h1>DSL DevCon Pre-registration&lt;/h1>
+&lt;P>There's been such a flood of &lt;A HREF="/public/conference/">DSL DevCon&lt;/A>&amp;nbsp;&lt;A HREF="/public/conference/">talk proposals&lt;/A> that I've had a hard time keeping up (although feel free to &lt;A HREF="/public/conference/">let those nice folks in Eclipse, XML,&amp;nbsp;Java and Unix land&lt;/A> if you know who they are!).&lt;/P>
+&lt;P>Also, there's been a huge amount of interest in attending the conference itself and some folks even worry that the conference will sell out before they can register (the first five DevCons have all sold out and those cost money!), so they've been asking me to put 'em on a list. I'm still working out the logistics with the nice Lang.NET folks, but &lt;A href="mailto:csells@microsoft.com?subject=DSL DevCon Pre-registration">if you'd like to pre-register for the DSL DevCon, drop me a line and I'll put you on the list&lt;/A>. It will be my job to make sure that anyone that pre-registers gets to go.&lt;/P>
+&lt;P>&lt;a href="/public/conference/">Tell a friend!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2236</id>
+    <title>MGraph: Taste Great, Less Filling</title>
+    <updated>2009-01-13T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-01-13T08:00:00.000Z</published>
+    <summary>Lars Corneliussen has a fun post entitled Microsoft "Oslo" MGraph - the next XML? He concludes by comparing JSON, XML and MGraph to represent the same data: JSON: 661 characters XML: 1065 characters MGraph: 590 characters Enjoy. </summary>
+    <content type="html">&lt;h1>MGraph: Taste Great, Less Filling&lt;/h1>
+&lt;P>Lars Corneliussen has a fun post entitled &lt;A href="http://startbigthinksmall.wordpress.com/2008/12/10/mgraph-the-next-xml/">Microsoft "Oslo" MGraph - the next XML?&lt;/A> He concludes by comparing JSON, XML and MGraph to represent the same data:&lt;/P>
+&lt;UL>
+&lt;LI>JSON: 661 characters&lt;/LI>
+&lt;LI>XML: 1065 characters&lt;/LI>
+&lt;LI>MGraph: 590 characters&lt;/LI>&lt;/UL>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+</feed>

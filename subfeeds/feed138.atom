@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed138.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed137.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed139.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed138.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/495</id>
+    <title>Printer Margins, part 1 of 2</title>
+    <updated>2003-04-10T07:00:00.000Z</updated>
+    <published>2003-04-10T07:00:00.000Z</published>
+    <summary>Here. It turns out that WinForms provides page and margin bounds that don't take the physical limitations of the printer into account. Part 1 talks about how to get the real page bounds, even when previewing.</summary>
+    <content type="html">&lt;h1>Printer Margins, part 1 of 2&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7481/win1048094898724/">Here&lt;/a>. It turns out that WinForms provides page and margin bounds that don't take the physical limitations of the printer into account. Part 1 talks about how to get the real page bounds, even when previewing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/494</id>
+    <title>.NET Framework SDK Version 1.1</title>
+    <updated>2003-04-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-10T07:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: Though does anyone use the SDK without VS.NET?
+</summary>
+    <content type="html">&lt;h1>.NET Framework SDK Version 1.1&lt;/h1>
+&lt;a href="http://www.microsoft.com/downloads/details.aspx?familyid=9b3a2ca6-3647-4070-9f41-a333c6b9181d&amp;displaylang=en">Here&lt;/a>. From Andrew Webb: Though does anyone use the SDK without VS.NET ?
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/496</id>
+    <title>Source Code to RegexDesigner .NET</title>
+    <updated>2003-04-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-10T07:00:00.000Z</published>
+    <summary>Here. Due to popular demand, we've released the source code to RegexDesigner.NET in a GotDotNet workspace. We've also posted all the "issues" that we know about (and fixed the code generation problem), so this is a good release even if you're just a RegexD user. Enjoy.</summary>
+    <content type="html">&lt;h1>Source Code to RegexDesigner .NET&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">Here&lt;/a>. Due to popular demand, we've released the source code to RegexDesigner .NET in a GotDotNet workspace. We've also posted all the "issues" that we know about (and fixed the code generation problem), so this is a good release even if you're just a RegexD user. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/498</id>
+    <title>Visual Studio .NET 2003 now available</title>
+    <updated>2003-04-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-10T07:00:00.000Z</published>
+    <summary>From Keith Wedinger: It is now available as a download for MSDN Subscribers. There are 3 versions: Enterprise Architect, Enterprise Developer and Professional.</summary>
+    <content type="html">&lt;h1>Visual Studio .NET 2003 now available&lt;/h1>
+From Keith Wedinger: It is now available as a download for MSDN Subscribers.  There are 3 versions:  Enterprise Architect, Enterprise Developer and Professional.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/493</id>
+    <title>IE RSS Aggregator</title>
+    <updated>2003-04-10T07:00:00.000Z</updated>
+    <published>2003-04-10T07:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: Just another RSS aggregator!</summary>
+    <content type="html">&lt;h1>IE RSS Aggregator&lt;/h1>
+&lt;a href="http://www.managedcomponents.com/tools/ieRSSaggregator/ieRSSaggregator.htm">Here&lt;/a>. From Husein Choroomi: Just another RSS aggregator!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/490</id>
+    <title>XPath Querying Over Objects w/ XPathNavigator</title>
+    <updated>2003-04-09T07:00:00.000Z</updated>
+    <published>2003-04-09T07:00:00.000Z</published>
+    <summary>Here. Very cool article about turning XPath and XSLT onto your existing.NET object hierarchies, giving us the object-oriented query language we're sorely missing today. [netcrucible.com/blog]</summary>
+    <content type="html">&lt;h1>XPath Querying Over Objects w/ XPathNavigator&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexxml/html/xml03172003.asp">Here&lt;/a>. Very cool article about turning XPath and XSLT onto your existing .NET object hierarchies, giving us the object-oriented query language we're sorely missing today.
+
+[netcrucible.com/blog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/491</id>
+    <title>.NET v1.1 Changes from v1.0</title>
+    <updated>2003-04-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-09T07:00:00.000Z</published>
+    <summary>Here. Full type information is *so* cool. In this case, it provides the full list of changes from.NET v1.0 to v1.1. [blogs.gotdotnet.com/brada]</summary>
+    <content type="html">&lt;h1>.NET v1.1 Changes from v1.0&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/upgrade/apiChanges.aspx">Here&lt;/a>. Full type information is *so* cool. In this case, it provides the full list of changes from .NET v1.0 to v1.1.
+
+[blogs.gotdotnet.com/brada]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/492</id>
+    <title>.NET Framework Version 1.1 Redistributable</title>
+    <updated>2003-04-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-09T07:00:00.000Z</published>
+    <summary>Here. And the hits, they keep on comin'...</summary>
+    <content type="html">&lt;h1>.NET Framework Version 1.1 Redistributable&lt;/h1>
+&lt;a href="http://www.microsoft.com/downloads/details.aspx?familyid=262d25e3-f589-4842-8157-034d1e7cf3a3&amp;displaylang=en">Here&lt;/a>. And the hits, they keep on comin'...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/489</id>
+    <title>Floppy RAID : )</title>
+    <updated>2003-04-08T07:00:00.000Z</updated>
+    <published>2003-04-08T07:00:00.000Z</published>
+    <summary>Here. I love computers.</summary>
+    <content type="html">&lt;h1>Floppy RAID : )&lt;/h1>
+&lt;a href="http://ohlssonvox.8k.com/fdd_raid.htm">Here&lt;/a>. I love computers.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/488</id>
+    <title>New Acrobat does XML</title>
+    <updated>2003-04-07T07:00:00.000Z</updated>
+    <published>2003-04-07T07:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: good</summary>
+    <content type="html">&lt;h1>New Acrobat does XML&lt;/h1>
+&lt;a href="http://www.theregister.co.uk/content/4/30121.html">Here&lt;/a>. From Andrew Webb: good</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/487</id>
+    <title>Dot Net Blogger Feed</title>
+    <updated>2003-04-05T08:00:00.000Z</updated>
+    <published>2003-04-05T08:00:00.000Z</published>
+    <summary>From Jesse Ezell: I'm working on an online.NET Blog feed aggregator / archiver. You can access the archives online at:
+http://www.activehead.com/DotNetWeblogs/ If you just want a really good RSS feed for your own aggregator add this feed to get the RSS delivered:
+http://www.activehead.com/DotNetWeblogs/rss/rss.xml</summary>
+    <content type="html">&lt;h1>Dot Net Blogger Feed&lt;/h1>
+From Jesse Ezell: I'm working on an online .NET Blog feed aggregator / archiver.
+
+You can access the archives online at:
+http://www.activehead.com/DotNetWeblogs/
+
+If you just want a really good RSS feed for your own aggregator add this feed to get the RSS delivered:
+http://www.activehead.com/DotNetWeblogs/rss/rss.xml</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/485</id>
+    <title>ORM.NET v1.4 - auto-generate an ADO.NET data layer</title>
+    <updated>2003-04-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-04T08:00:00.000Z</published>
+    <summary>Here. From Olero Software: Olero Software has released ORM.NET version 1.4
+ORM.NET -.NET Object Relational Mapping Tool - is a powerful development application that auto-generates a data layer object model based on your SQL database schema. The generated run-time component exposes all tables as classes and columns as properties. Using the built-in DataManager object, users can easily retrieve data from multiple tables based on complex criteria without using stored procedures or embedded SQL code. In additio...</summary>
+    <content type="html">&lt;h1>ORM.NET v1.4 - auto-generate an ADO.NET data layer&lt;/h1>
+&lt;a href="http://www.olero.com/ormweb/index.aspx?mp=sells">Here&lt;/a>. From Olero Software: Olero Software has released ORM.NET version 1.4
+ORM.NET - .NET Object Relational Mapping Tool - is a powerful development application that auto-generates a data layer object model based on your SQL database schema. 
+The generated run-time component exposes all tables as classes and columns as properties. 
+Using the built-in DataManager object, users can easily retrieve data from multiple tables based on complex criteria without using stored procedures or embedded SQL code. 
+In addition, data updates, inserts, and deletes can be saved to the database with one call.
+ORM.NET will save your hours of time and development cost. Download a free trial at:
+www.olero.com/ormweb/index.aspx?mp=sells
+ 
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12559</id>
+    <title>Oregon &amp; Open Source</title>
+    <updated>2003-04-04T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-04-04T08:00:00.000Z</published>
+    <summary>Friday, Apr 4, 2003 I had an interesting experience yesterday when I was asked by Mike Sax to come to the Oregon capitol building to testify against HB 2892, known as the Open Source Software for Oregon Act. In general, the bill talks about the benefits of open source, open standards and open data formats, most of which I didn't have any issues with. However, I got up at 6a and drove an hour down to Salem because of the following clause: &amp;quot;(2) For all new software acquisitions, the person or governing b...</summary>
+    <content type="html">&lt;h1>Oregon &amp; Open Source&lt;/h1>
+&lt;p>&lt;i>
+&lt;span class="created">Friday, Apr 4, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>I had an interesting experience yesterday when I was asked by &lt;a href="http://www.sax.net/">
+Mike Sax&lt;/a> to come to the Oregon capitol building to testify against &lt;a href="http://www.leg.state.or.us/barnhart/hb2892.htm">
+HB 2892, known as the Open Source Software for Oregon Act&lt;/a>. In general, the 
+bill talks about the benefits of open source, open standards and open data 
+formats, most of which I didn't have any issues with. However, I got up at 6a 
+and drove an hour down to Salem because of the following clause:&lt;/p>&lt;blockquote>
+	&amp;quot;(2) For all new software acquisitions, the person or governing body charged 
+	with administering each administrative division of state government, 
+	including every department, division, agency, board or commission, without 
+	regard to the designation given the entity, shall:&lt;br>...&lt;br>&lt;b>(c) Provide 
+	justification whenever a proprietary software product is acquired rather 
+	than open source software;&lt;/b>&amp;quot;&lt;/blockquote>&lt;p>By requiring state government 
+employees to write a special justifications, this bill erects artificial 
+barriers to adopting commercial software, above and beyond the fact that 
+commercial software requires an initial payment (which should be more than 
+enough of an edge for open source software).&lt;/p>&lt;p>If you've never been to a 
+government bill committee hearing, I highly recommend the experience. I was in a 
+little hearing room with a bunch of other folks, all interested in this 
+particular bill. I signed my name on the list of folks &amp;quot;against&amp;quot; the bill so 
+that I would have a chance to testify. The chairman called first proponents of 
+the bill and then opponents up to the microphone three at a time.&lt;/p>&lt;p>Some of 
+the the proponents were teachers and school staff that had put Linux and other 
+open source software to good use in combination with old computers used as thin 
+clients against a back-end server (using X-Windows, I assume). They claimed that 
+they solved themselves all kinds of trouble because open source software was 
+&amp;quot;immune to viruses and security problems&amp;quot; (now *that's* effective propaganda! : 
+). Some of the proponents were embittered IT staff and new college grads looking 
+to bring some old-fashioned democracy back into a country that had been recently 
+taken over by corporations. It was all I could do to avoid pointing out to them 
+that that the country had been taken over by corporations shortly after Adam 
+Smith wrote &amp;quot;The Wealth of Nations&amp;quot; in 1776 and the budding US government 
+adopted the ideas therein to fund their new country. The basic story of the 
+proponents was that open source was good, so it should be mandated over closed 
+source.&lt;/p>&lt;p>The opponents, on the other hand, were largely suit-wearing 
+fellows from large groups of commercial software corporations (one of which 
+didn't hesitate to remind the esteemed committee that it's member companies had 
+paid $135M in Oregon state taxes last year). Their arguments were that 
+undoubtedly open source software was clearly already being used by government 
+bodies, that there was no rule against it and that their should likewise be no 
+rules against proprietary software. Only Mike, &lt;a href="http://www.sax.net/">
+owner of a small Oregon-based software company&lt;/a>, and me, &lt;a href="/">
+owner of nothing at all of interest&lt;/a>, represented the &amp;quot;little guy&amp;quot; on the 
+opponent side (we stuck out because of the lack of either a neck tie or a suit 
+coat).&lt;/p>&lt;p>19 copies of &lt;a href="/12649">my written testimony&lt;/a> were 
+submitted without comment at the request of the chairman who assured the 
+audience that all testimony would be read. My verbal testimony was limited to 
+pointing out that shackling proprietary software was &amp;quot;bad engineering&amp;quot; because 
+it could easily cost the state of Oregon more money in the long run; maintaining 
+source code is a lot more difficult than maintaining commercial software for 
+normal humans. I also pointed out that being open source did not prohibit 
+viruses or security problems; the first computer virus ever was written on a 
+Unix, the predecessor to Linux and that they share an identical security model. 
+To be fair, Unix wasn't open source, but I stretched the truth less than the 
+open source guys, so I didn't feel too bad (Unix was &amp;quot;source available&amp;quot; at the 
+very least&amp;nbsp; : )&amp;nbsp; And finally, I let the committee know that open 
+source didn't mean open standards or open data formats and that, in fact, those 
+were things that commercial software companies had done the most to bring into 
+greater use over the years.&lt;/p>&lt;p>Having never done anything like that before, I 
+wasn't sure how well I'd done, but one of my fellow panelist (a procurement 
+officer from another giant suit-wearing organization) wrote &amp;quot;nice job&amp;quot; on his 
+pad of paper while his colleague preached the wisdom of &amp;quot;amending the language&amp;quot; 
+of the bill to be more &amp;quot;practical.&amp;quot;&lt;/p>&lt;p>At the end of the hearing, the 
+chairman of the committee called out some names of the most credible, 
+suit-wearing fellows from each side of the debate to form a working group to 
+come up with a bill that the committee could actually consider submitting for a 
+vote. The sub-text was that the bill as it currently stood was pretty silly; it 
+didn't allow any greater freedom to pick open source software but it did limit 
+the ability to choose proprietary software, which wouldn't make those Oregon 
+software company tax payers happy. This seemed a most sensible conclusion to me 
+and gave me confidence that our government isn't so screwed up after all.&lt;/p>&lt;p>
+When the room was cleared, I was assaulted by one of the open source proponents, 
+reminding me that Unix wasn't open source and that Linux would never have any 
+such problems (&lt;a href="http://www.bitdefender.com/html/bd_linux.php">which 
+makes the presence of virus protection software for Linux seem &lt;/a>&lt;a href="http://www.bitdefender.com/html/bd_linux.php">
+like a very poor business decision&lt;/a>). I was also cross-examined by a tall, 
+thin, balding, old-ish man with the longest grey beard I've ever seen in person. 
+He seemed very knowledgeable and was very interested in the details of my 
+opinions. He reminded me of nothing more than a fallen &lt;a href="http://mikro.org/Events/OS/referenten/stallman.html">
+Richard Stallman in 30 years&lt;/a> and added to the surreality of the morning.&lt;/p>&lt;p>
+On the way back to our cars, Mike thanked me for coming and asked if I was glad 
+that I'd come. It surprised me to learn that I was. Not only did I feel that my 
+&amp;quot;just a guy&amp;quot; presence helped the suits make their case, but I felt like I was 
+doing my duty as a citizen. Who knows, this experience might bring out the 
+politician in me. I'm sure I could do at least as well as Jessie Ventura. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/486</id>
+    <title>Oregon &amp; Open Source</title>
+    <updated>2003-04-04T08:00:00.000Z</updated>
+    <published>2003-04-04T08:00:00.000Z</published>
+    <summary>Here. My testimony against the first state law to mandate that open source software be preferred over proprietary source software. Bottom line: I was against it and the chairman of the committee at the open hearings seemed to agree with me.</summary>
+    <content type="html">&lt;h1>Oregon &amp; Open Source&lt;/h1>
+&lt;a href="/12559">Here&lt;/a>. My testimony against the first state law to mandate that open source software be preferred over proprietary source software. Bottom line: I was against it and the chairman of the committee at the open hearings seemed to agree with me.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12649</id>
+    <title>Testimony</title>
+    <updated>2003-04-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-04-03T08:00:00.000Z</published>
+    <summary>Chris Sells Sells Brothers, Inc. 8539 SW 166 th Terrace Beaverton, OR 97007 http://www.sellsbrothers.com csells@sellsbrothers.com Oregon State Representatives, My name is Chris Sells and I run a one-man software consulting firm from my home in Beaverton, Oregon. For more than 20 years, I&amp;#8217;ve been pretty much everything you can be in the software world: software engineer, chief architect, director, author, speaker, consultant and even marketer, so I know software ins and outs pretty well. In addition, I...</summary>
+    <content type="html">&lt;h1>Testimony&lt;/h1>
+&lt;p>
+        Chris Sells&lt;br>
+        Sells Brothers, Inc.&lt;br>
+        8539 SW 166&lt;sup>th&lt;/sup> Terrace&lt;br>
+        Beaverton, OR 97007&lt;br>
+        &lt;a href="/">http://www.sellsbrothers.com&lt;/a>&lt;br>
+        &lt;a href="mailto:csells@sellsbrothers.com">csells@sellsbrothers.com&lt;/a>&lt;/p>
+    &lt;p>
+        Oregon State Representatives,&lt;/p>
+    &lt;p>
+        My name is Chris Sells and I run a one-man software consulting firm from my home
+        in Beaverton, Oregon. For more than 20 years, I&amp;#8217;ve been pretty much everything
+        you can be in the software world: software engineer, chief architect, director,
+        author, speaker, consultant and even marketer, so I know software ins and outs pretty
+        well. In addition, I&amp;#8217;ve been the treasurer for the Cooper Mountain Elementary
+        School for the last two years, so I&amp;#8217;m familiar with how important computer-related
+        purchases are to at least one branch of the Oregon state government and how those
+        decisions get made.&lt;/p>
+    &lt;p>
+        Before I start my testimony, I&amp;#8217;d like to tell you about my experience in my
+        high schools&amp;#8217;s band. I played the trumpet for seven years, four of them in
+        the marching band. I wasn&amp;#8217;t great, but I loved to play. It gave me a deep
+        feeling of satisfaction to be part of the band and to perform for the audience.
+        I even continued my playing into one semester of college band, but it just wasn&amp;#8217;t
+        the same. The band at that level required a degree of skill and professionalism
+        that I just didn&amp;#8217;t have. Once I figured out that I didn&amp;#8217;t have what
+        it took to be a professional musician, I went on to find something else to make
+        my living (computers).&lt;/p>
+    &lt;p>
+        By and large, open source software is often very much like a high school band. No
+        one cares about the money. An open source programmer just wants to have their work
+        seen and appreciated, regardless of whether they&amp;#8217;re good enough, or thorough
+        enough, to be paid for it.&lt;/p>
+    Sometimes a high school band will be amazing; easily good enough to compete at any
+    level. However, this is very rare when compared to professional bands that get paid
+    based on how well they entertain their audience. Likewise, sometimes open source
+    software achieves the same level of quality as closed source software. In those
+    cases, I?m completely in favor of considering open source software to solve Oregon?s
+    software needs. However, I?m not in favor of mandating open source software, which
+    is what HB 2892 does.&lt;p>
+        By putting up artificial barriers to entry for closed source software, Oregon is
+        narrowing their choices to those rare cases when open source software lives up to
+        the letter of the requirements for a Request for Proposal (RFP) but doesn?t provide
+        the same level of thoroughness that competing for money on the open market requires.
+        This narrowing of choice is going to cost Oregon considerable additional funds in
+        support, training and documentation, all things that the open source community lives
+        without because of their own level of expertise. Continuing the analogy, assembling
+        your own electric guitar if fun for an enthusiast, but requires very specialized
+        skills. Likewise, using, supporting and maintaining open source software requires
+        real engineering skills, which is the hidden cost you don?t see when initially installing
+        open source software.&lt;/p>
+    &lt;p>
+        In addition to mandating open source software, HD 2892 calls for open data exchange
+        standards. This is something that I?m very much in favor of. The latest and most
+        general purpose standard for open data exchange is called the eXtensible Markup
+        Language (XML) and is fully embraced by both the open source and the closed source
+        communities. However, it?s the closed source vendors, like Microsoft, IBM and BEA,
+        that are really making XML a reality by pushing it into their software at all levels.
+        In fact, these same closed source vendors as going beyond just XML and building
+        standards for communicating data between computers based on open source and closed
+        source operating systems to make sure that all computers can communicate with each
+        other. These standards are called ?web services? and are based around the Simple
+        Object Access Protocol (SOAP). Defining, implementing and testing standards is an
+        expensive proposition involving man-decades of dedicated engineering work, which
+        is why it takes companies that make money on software to turn them from an adolescent
+        dream into an adult reality.&lt;/p>
+    &lt;p>
+        I believe that open source should absolutely be considered for the state&amp;#8217;s
+        software needs. However, being open source is but one quality that needs consideration.
+        Things that also need to be considered include the cost of training, documentation,
+        support, upgrading and maintaining software systems and their support for open data
+        standards. Some open source software will achieve the level of functionality and
+        attention to detail that Oregon needs, but artificially narrowing your choices to
+        open source software is like open picking high school bands to play at the Rose
+        Garden. Sometimes you&amp;#8217;ll get lucky but more often the audience is going to
+        demand a refund.&lt;/p>
+    &lt;p>
+        Thank you for your time and attention,&lt;/p>
+    &lt;p>
+        Chris Sells&lt;/p>
+</content>
+  </entry>
+</feed>

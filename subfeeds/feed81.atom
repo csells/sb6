@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed81.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed80.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed82.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed81.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1279</id>
+    <title>I'm on Channel9 Talking About Longhorn + Solitaire</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>Robert Scoble and I walked around MSDN last week with a camera and here's the first snippet where I talk about my experiences building Solitaire for Longhorn. Watching it now, it seems to me that I need to chill a bit and maybe take a breath now and again. : ) </summary>
+    <content type="html">&lt;h1>I'm on Channel9 Talking About Longhorn + Solitaire&lt;/h1>
+&lt;P>Robert Scoble and I walked around MSDN last week with a camera and here's the first snippet where &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=2744">I talk about my experiences building Solitaire for Longhorn&lt;/A>. Watching it now, it seems to me that I need to chill a bit and maybe take a breath now and again. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1275</id>
+    <title>Karsten on The Fundamentals Pillar</title>
+    <updated>2004-04-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-12T07:00:00.000Z</published>
+    <summary>Karsten J rebel's against the lack of coverage of the Fundamentals pillar of Longhorn, sketching an overview of why the Fundamentals in Longhorn are cool and also delving into a specific feature he likes ( the nextgen Longhorn Event Log ). Also, if you're looking for more Fundamentals resources, check out the Fundamentals Pillar page on the Longhorn Developer Center, which lists the Fundamentals PDC Talks, several fundamentals articles (including a nice overview of ClickOnce for Longhorn ) and &lt;A hre</summary>
+    <content type="html">&lt;h1>Karsten on The Fundamentals Pillar&lt;/h1>
+&lt;P>Karsten J rebel's against the lack of coverage of the Fundamentals pillar of Longhorn, sketching &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/04/12/111663.aspx">an overview of why the Fundamentals in Longhorn are cool&lt;/A> and also delving into a specific feature he likes (&lt;A href="http://blogs.msdn.com/karstenj/archive/2004/04/12/111907.aspx">the nextgen Longhorn Event Log&lt;/A>).&lt;/P>
+&lt;P>Also, if you're looking for more Fundamentals resources, check out the &lt;A href="http://msdn.microsoft.com/longhorn/understanding/pillars/fundamentals/">Fundamentals Pillar page on the Longhorn Developer Center&lt;/A>, which lists &lt;A href="http://msdn.microsoft.com/longhorn/pdcmaterials/pdctalksfundamentals/">the Fundamentals PDC Talks&lt;/A>, several fundamentals articles (including &lt;A href="http://msdn.microsoft.com/longhorn/understanding/pillars/fundamentals/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp">a nice overview of ClickOnce for Longhorn&lt;/A>) and &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.fundamentals&amp;amp;lang=en&amp;amp;cr=US">the WinFX Fundamentals newsgroup&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1273</id>
+    <title>Joe Beda on All Kinds of Avalon</title>
+    <updated>2004-04-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-10T07:00:00.000Z</published>
+    <summary>Channel9 has some interesting quicky videos of Joe Beda covering a number of Avalon-related goodies: Managed vs. unmanaged, how much of Avalon was done that way? What 3D capabilities will Longhorn/Avalon provide? What hardware will Longhorn/Avalon need? How should developers prepare for Longhorn/Avalon? Managed vs. unmanaged, how much of Avalon was built in.NET? Are all of Avalon's APIs available to.NET programmers? Is Avalon a way to take over the Web? </summary>
+    <content type="html">&lt;h1>Joe Beda on All Kinds of Avalon&lt;/h1>
+&lt;P>Channel9 has some interesting quicky videos of Joe Beda covering a number of Avalon-related goodies:&lt;/P>
+&lt;UL>
+&lt;li>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1653">Managed vs. unmanaged, how much of Avalon was done that way? &lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1656">What 3D capabilities will Longhorn/Avalon provide?&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1655">What hardware will Longhorn/Avalon need&lt;/A>? 
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1654">How should developers prepare for Longhorn/Avalon&lt;/A>? 
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1653">Managed vs. unmanaged, how much of Avalon was built in .NET&lt;/A>? 
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=1651">Are all of Avalon's APIs available to .NET programmers&lt;/A>? 
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=948">Is Avalon a way to take over the Web&lt;/A>?&lt;/LI>
+&lt;/UL>
+&lt;P>I got all this from &lt;A href="http://channel9.msdn.com/rss.aspx?threadID=1656">the Channel9 Video RSS Feed&lt;/A>. You should, too.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1274</id>
+    <title>I'm Loving the .NET Fx ARM</title>
+    <updated>2004-04-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-04-10T07:00:00.000Z</published>
+    <summary>Here. The one where I learn a bunch of interesting stuff reading all of the annotations from The.NET Framework Standard Library Annotated Reference in one sitting. </summary>
+    <content type="html">&lt;h1>I'm Loving the .NET Fx ARM&lt;/h1>
+&lt;a href="/12499">Here&lt;/a>. &lt;P>The one where I learn a bunch of interesting stuff reading all of the annotations from &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321154894/chrissells">The .NET Framework Standard Library Annotated Reference&lt;/A> in one sitting.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12499</id>
+    <title>I'm Loving the .NET Fx ARM</title>
+    <updated>2004-04-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-10T07:00:00.000Z</published>
+    <summary>Saturday, April 10, 2004 I enjoyed the annotations in The.NET Framework Standard Library Annotated Reference so much that I read them all in one sitting (in the bathtub, if you must know...). The annotations are where the authors put in their 2 cents about a particular class, method or property and it was very interesting. Here's what I learned just from that part of the book: You shouldn't use ApplicationException for custom exceptions. Derive from Exception instead. &amp;nbsp; Because ICloneable.Clone doesn't...</summary>
+    <content type="html">&lt;h1>I'm Loving the .NET Fx ARM&lt;/h1>
+&lt;p align="left">&lt;i>&lt;span class="created">Saturday, April 10, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>
+I enjoyed the annotations in &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321154894/chrissells">
+The .NET Framework Standard Library Annotated Reference&lt;/a> so much that I read 
+them all in one sitting (in the bathtub, if you must know...). The annotations 
+are where the authors put in their 2 cents about a particular class, method or 
+property and it was very interesting. Here's what I learned just from that part 
+of the book:&lt;/p>&lt;ul>&lt;li>You shouldn't use ApplicationException for custom 
+	exceptions. Derive from Exception instead.&lt;br>&amp;nbsp;&lt;/li>&lt;li>Because 
+	ICloneable.Clone doesn't define whether it returns a deep or a shallow copy, 
+	it's practically worthless.&lt;br>&amp;nbsp;&lt;/li>&lt;li>Prefer UTF-8 because it takes 
+	up the same amount of space to represent ASCII characters as ASCII, but can 
+	also represent all Unicode characters (I knew that UTF-8 took up the same 
+	amount of space but hadn't yet jumped to &amp;quot;prefer&amp;quot;).&lt;br>&amp;nbsp;&lt;/li>&lt;li>I was 
+	reminded of the System.Convert class, which does all of the same conversions 
+	that the various type-specific ToXxx and Parse methods do, but puts them all 
+	in one place.&lt;br>&amp;nbsp;&lt;/li>&lt;li>There's another use for the private 
+	interface method implementation syntax in C#:&lt;br>&lt;pre>class Enum : IEnumerator {
+  object &lt;b>IEnumerator.Current&lt;/b> { get { return this.foo; } }
+  ...
+}&lt;br>&lt;/pre>This syntax hides an interface method from general use unless you 
+	cast to the interface base class:&lt;br>&lt;pre>Enum enum = new Enum();&lt;br>&lt;b>object obj1 = enum.Current(); // compile-time error&lt;br>object obj2 = (IEnumerator)enum.Current(); // this works	&lt;/b>&lt;br>&lt;/pre>
+	The thing I never thought of that this enables is that it lets you override 
+	based on return type, which isn't normally allowed in C#:&lt;pre>class Enum : IEnumerator {
+  object IEnumerator.Current { get { return this.foo; }&lt;br>&lt;b>  Foo Current { get { return this.foo; } }
+&lt;/b>  ...
+}&lt;br>&lt;/pre>&lt;p>This private method implementation syntax lets you return the 
+	generic type as part of the interface implementation so that you can plug 
+	into standard idioms, e.g. foreach, but a more specific type for users of 
+	the type directly, saving the cast:&lt;br>&lt;/p>
+&lt;pre>Enum enum2 = new Enum();&lt;br>&lt;b>Foo foo1 = (Foo)((IEnumerator)enum.Current());&lt;br>Foo foo2 = enum.Current(); // no cast required&lt;/b>&lt;/pre>
+	This will be less interesting as generics take over, but still, it's a 
+	useful trick.&lt;br>&amp;nbsp;&lt;/li>&lt;li>DateTime is always assumed to represent 
+	local time, so if you convert to Universal time twice, you'll change the 
+	value each time.&lt;br>&amp;nbsp;&lt;/li>&lt;li>Since it's possible to cast any number to 
+	an enum value, e.g. TrueFalseEnum tfe = (TrueFalseEnum)42, make sure to 
+	always check that an enum is a legal value. Theoretically this is a pain, 
+	but in practice, I tend to check enum values with switch statements, making 
+	the default case the error case, so it's good to know that my code does the 
+	right thing.&lt;br>&amp;nbsp;&lt;/li>&lt;li>The Threading.Interlocked class.&lt;br>&amp;nbsp;&lt;/li>&lt;li>
+	Jim Miller has &lt;i>way&lt;/i> more birthdays than we do. : )&lt;br>&amp;nbsp;&lt;/li>&lt;li>
+	Jeff Richter agrees with me that the ThreadStart delegate needs an object 
+	parameter.&lt;br>&amp;nbsp;&lt;/li>&lt;li>I should be using CompareInfo instead of 
+	ToLower for case-insensitive comparisons (although they don't show how):&lt;b>&lt;pre>using System.Globalization;
+using System.Threading;
+&lt;/b>...&lt;br>&lt;b>CompareInfo compare = Thread.CurrentThread.CurrentCulture.CompareInfo;&lt;br>
+&lt;/b>if( &lt;b>compare.Compare(&amp;quot;foo&amp;quot;, &amp;quot;FOO&amp;quot;, CompareOptions.IgnoreCase)&lt;/b> == 0 ) {&lt;br>  Console.WriteLine(&amp;quot;the same&amp;quot;);
+}&lt;/pre>&lt;/li>&lt;/ul>&lt;p>If I can get that much out of just the annotations, imagine 
+what I could learn if I &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321154894/chrissells">
+read the whole thing&lt;/a>. : )&lt;/p>&lt;p>&lt;a href="/1274">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1271</id>
+    <title>Jason Olson on Threading in Avalon</title>
+    <updated>2004-04-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-09T07:00:00.000Z</published>
+    <summary>Jason Olson, an enterprising 3rd party, posts a look at the benefits of knowing about threading when building an entire UI stack from scratch. Instead of requiring you to transition from a worker thread to the UI thread to talk to a control, Avalon lets you grab the UI context that owns the control and party on : void ShowProgress(int secondsElapsed) { &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; try { &lt;P class=</summary>
+    <content type="html">&lt;h1>Jason Olson on Threading in Avalon&lt;/h1>
+&lt;P>Jason Olson, an enterprising 3rd party, posts a look at the benefits of knowing about threading when building an entire UI stack from scratch. Instead of requiring you to transition from a worker thread to the UI thread to talk to a control, &lt;A href="http://geekswithblogs.net/jolson/articles/3749.aspx">Avalon lets you grab the UI context that owns the control and party on&lt;/A>:&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">void ShowProgress(int secondsElapsed) &lt;/SPAN>&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">{&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>try &lt;/SPAN>&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">{&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/SPAN>&lt;B style="mso-bidi-font-weight: normal">this.Context.Enter();&lt;o:p>&lt;/o:p>&lt;/B>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/SPAN>txtSeconds.Text = secondsElapsed.ToString();&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;B style="mso-bidi-font-weight: normal">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>finally &lt;/SPAN>&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">{&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;STRONG>this.Context.Exit();&lt;o:p>&lt;/o:p>&lt;/STRONG>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="BACKGROUND: #e6e6e6; MARGIN: 0in 0in 0pt">&lt;SPAN style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana">}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P>This is far simpler code than what would be required in code based on User32. Nice.&lt;/P>
+&lt;p>UPDATE: &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/04/09/usinguicontext">Ian Griffiths points out that the code can be even sweeter&lt;/a>!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1272</id>
+    <title>Longhorn Concept Video: Manufacturing</title>
+    <updated>2004-04-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-09T07:00:00.000Z</published>
+    <summary>Carter's got another concept video for us, this time for manufacturing. In general, if you haven't seen the concept videos, they're a fantastic way to see what the heck we're trying to enable with Longhorn. </summary>
+    <content type="html">&lt;h1>Longhorn Concept Video: Manufacturing&lt;/h1>
+&lt;P>Carter's got another concept video for us, &lt;A href="http://msdn.microsoft.com/longhorn/productinfo/conceptvid/default.aspx#manufacturing">this time for manufacturing&lt;/A>.&lt;/P>
+&lt;P>In general, if you haven't seen &lt;A href="http://msdn.microsoft.com/longhorn/productinfo/conceptvid/">the concept videos&lt;/A>, they're a fantastic way to see what the heck we're trying to enable with Longhorn.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1270</id>
+    <title>"Avalon Is Not Going To Replace The Browser"</title>
+    <updated>2004-04-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-08T07:00:00.000Z</published>
+    <summary>There seems to be a common misconception that since Avalon windows/pages are/can be declared in markup (XAML), it must be a web killer/reach solution. It's not. In this short video, Joe Beda, answers the question of whether Avalon is meant to replace HTML/the web (it's not) and what's Avalon's message of "best of the web/best of Windows" message is really about, e.g. ease of deployment for Avalon apps like web apps, accessing central services for data and functionality (using web services instead of client ...</summary>
+    <content type="html">&lt;h1>"Avalon Is Not Going To Replace The Browser"&lt;/h1>
+&lt;P>There seems to be a common misconception that since Avalon windows/pages are/can be declared in markup (XAML), it must be a web killer/reach solution. It's not.&lt;/P>
+&lt;P>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=948">In this short video&lt;/A>, Joe Beda, answers the question of whether Avalon is meant to replace HTML/the web (it's not) and what's Avalon's message of "best of the web/best of Windows" message is really about, e.g. ease of deployment for Avalon apps like web apps, accessing central services for data and functionality (using web services instead of client UI generation), etc.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1269</id>
+    <title>Longhorn Blogs Wiki Page</title>
+    <updated>2004-04-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-08T07:00:00.000Z</published>
+    <summary>Channel9 has a Longhorn Wiki and on it, Adam Kinney has started a list of Longhorn Blogs. Want to add your own? Click on the Edit link on the top left.</summary>
+    <content type="html">&lt;h1>Longhorn Blogs Wiki Page&lt;/h1>
+Channel9 has &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.LonghornWiki">a Longhorn Wiki&lt;/A> and on it, Adam Kinney has started &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.BlogsOnLonghorn">a list of Longhorn Blogs&lt;/A>. Want to add your own? Click on the Edit link on the top left.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1262</id>
+    <title>Channel9 Ships</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>I'm sure by the time you read this, you'll have already heard about Channel9 (apparently Greg announced it first ). There don't seem to be nearly as many snowmen shooting rectangles at each other as I'd expected, though... Subscribed. </summary>
+    <content type="html">&lt;h1>Channel9 Ships&lt;/h1>
+&lt;P>I'm sure by the time you read this, you'll have already heard about &lt;A href="http://channel9.msdn.com/">Channel9&lt;/A> (apparently &lt;A href="http://www.greghughes.net/rant/PermaLink.aspx?guid=b688caae-8073-4894-8860-172ab849320e">Greg announced it first&lt;/A>). There don't seem to be nearly as many &lt;A href="http://neopoleon.com/blog/archive/04042004.aspx">snowmen shooting rectangles at each other&lt;/A> as I'd expected, though...&lt;/P>
+&lt;P>&lt;A href="http://channel9.msdn.com/rss.aspx">Subscribed&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1265</id>
+    <title>MS Developer Tool Roadman: '05 and Beyond</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>Wow. I've seen bits and drops of Whidbey (I'm limited to builds that work on Longhorn), so haven't seen the grand, overall vision of it. In the latest Microsoft Developer Tool Roadmap, they whole darn thing is laid out and the new stuff goes on forever! Details are presented for IDE enhancements, language enhancements for VB, C#, C++ and J#, Windows Forms, ASP.NET, devices, ADO.NET, web services, Office, SQL Server, Analysis and Design (aka "Whitehorse") and even a bit about what's coming in Longhorn on the...</summary>
+    <content type="html">&lt;h1>MS Developer Tool Roadman: '05 and Beyond&lt;/h1>
+Wow. I've seen bits and drops of Whidbey (I'm limited to builds that work on Longhorn), so haven't seen the grand, overall vision of it. In the latest Microsoft Developer Tool Roadmap, they whole darn thing is laid out and &lt;A href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.aspx">the new stuff goes on forever&lt;/A>! Details are presented for IDE enhancements, language enhancements for VB, C#, C++ and J#, Windows Forms, ASP.NET, devices, ADO.NET, web services, Office, SQL Server, Analysis and Design (aka "Whitehorse") and even a bit about what's coming in Longhorn on the tools side. Holy New Stuff, Batman!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12500</id>
+    <title>Filling In Missing Computer Science Knowledge</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>Tuesday, April 6, 2004 Sometimes I get emails from folks that don't have a formal computer science knowledge and want the benefits of one w/o actually going back to college. Since I was disappointed in my own formal education (despite going on to &amp;quot;better&amp;quot; my BS in Computer Science with an MS), I can understand this desire. My first thought was the MIT Open Courseware, which has a full course of computer science curriculum. However, while the course material is all there, unless there are officiall...</summary>
+    <content type="html">&lt;h1>Filling In Missing Computer Science Knowledge&lt;/h1>
+&lt;p align="left">&lt;i>
+Tuesday, &lt;span class="created">April 6, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">Sometimes I get emails from folks 
+that don't have a formal computer science knowledge and want the benefits of one 
+w/o actually going back to college. Since I was disappointed in my own formal 
+education (despite going on to &amp;quot;better&amp;quot; my BS in Computer Science with an MS), I 
+can understand this desire.&lt;/p>&lt;p align="left">My first thought was &lt;a href="http://ocw.mit.edu/index.html">
+the MIT Open Courseware&lt;/a>, which has a full course of computer science 
+curriculum. However, while the course material is all there, unless there are 
+officially sanctioned forums for each course, there's really no place to ask 
+questions even of fellow students.&lt;/p>&lt;p align="left">After thinking on it for a 
+while, I thought I'd go right to my favorite source. &lt;a href="http://www.lfc.edu/~hummel/">
+Prof. Joe Hummel&lt;/a> is a professor of computer science at Lake Forest College 
+in Illinois and has spent a lot of time thinking about how to fill in missing CS 
+knowledge in professional programmers (VB programmers, mostly) at DevelopMentor. 
+Here's what he said:&lt;/p>&lt;blockquote>&lt;i>For starters, I'd recommend a book by 
+	Brookshear called &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201781301/chrissells">
+	&amp;quot;Computer Science: an overview&amp;quot;&lt;/a> (8th edition). It's written for those 
+	new to CS, but introduces lots of nice CS concepts like algorithm analysis, 
+	theory of computation (e.g. that some problems cannot be solved!), and other 
+	things like OS, networks, DBs, etc. It's a great starter book. After that, 
+	I'd recommend books on data structures and algorithms. After that, it really 
+	depends on what his interests are: Programming Languages? Theory? Operating 
+	Systems? Distributed Systems? Software Eng? AI?&lt;/i>&lt;/blockquote>&lt;p>&lt;a href="/1267">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1266</id>
+    <title>Looking For the .NET Source Code Crawling Guy</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>I gave a talk at the Twin Cities.NET User Group in Minneapolis in January and I met a guy there building a web sit to crawl.NET source code on the web. I didn't get his contact info and he didn't email me, so I don't know how to get a hold of him. If that's you, please drop me a line. Thanks!</summary>
+    <content type="html">&lt;h1>Looking For the .NET Source Code Crawling Guy&lt;/h1>
+I gave a talk at the Twin Cities .NET User Group in Minneapolis in January and I met a guy there building a web sit to crawl .NET source code on the web. I didn't get his contact info and he didn't email me, so I don't know how to get a hold of him. If that's you, &lt;A href="mailto:csells@microsoft.com?subject=I'm the .NET Code Crawling Guy">please drop me a line&lt;/A>. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1263</id>
+    <title>Laptop Lust</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>I think these are the sexiest PC laptops I've ever seen, but I can't decide if I want the Cabriolet or the New Yorker.</summary>
+    <content type="html">&lt;h1>Laptop Lust&lt;/h1>
+I think these are &lt;A href="http://www.go-l.com/laptops/index.htm">the sexiest PC laptops&lt;/A> I've ever seen, but I can't decide if I want the &lt;A href="http://www.go-l.com/news/product_news/2004/index.htm#anchorcariolet">Cabriolet&lt;/A> or &lt;A href="http://www.go-l.com/news/product_news/2004/index.htm#anchornewyorker">the New Yorker&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1264</id>
+    <title>Longhorn Sample: RSS Reader (Like, Out Loud)</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>Jason Nadal has posted an RSS reader that uses the Longhorn text-to-speech APIs to actually read you the morning news while you do other things. Includes source.</summary>
+    <content type="html">&lt;h1>Longhorn Sample: RSS Reader (Like, Out Loud)&lt;/h1>
+Jason Nadal has posted &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/04/05/108141.aspx">an RSS reader that uses the Longhorn text-to-speech APIs to actually read you the morning news&lt;/A> while you do other things. &lt;A href="http://www.restlessdelusions.com/projects/archive/getmynewsa1.zip">Includes source&lt;/A>.</content>
+  </entry>
+</feed>

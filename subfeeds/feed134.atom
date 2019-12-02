@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed134.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed133.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed135.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed134.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/547</id>
+    <title>MSDN Maiden of Order Gets A Blog</title>
+    <updated>2003-04-30T07:00:00.000Z</updated>
+    <published>2003-04-30T07:00:00.000Z</published>
+    <summary>Here. If you care about where MSDN is going, you'll want to check out the new blog from Sara Williams, the Fountain of MSDN Justice (and my grandboss).</summary>
+    <content type="html">&lt;h1>MSDN Maiden of Order Gets A Blog&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/saraw/">Here&lt;/a>. If you care about where MSDN is going, you'll want to check out the new blog from Sara Williams, the Fountain of MSDN Justice (and my grandboss).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/545</id>
+    <title>Buzz About The DevCon</title>
+    <updated>2003-04-30T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-04-30T07:00:00.000Z</published>
+    <summary>Here. In addition to the *mountain* of abstracts I've gotten (more than any DevCon to date), several bloggers have had things to say about the upcoming DevCon: http://www.kuro5hin.org/story/2003/4/30/133950/971#xmlroadtrip (includes a poll for his abstracts) http://www.larkware.com/Articles/TheDailyGrind62.html http://aspnetweblog.com/posts/6141.aspx http://dotnetguy.techieswithcats.com/archives/003064.shtml http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</summary>
+    <content type="html">&lt;h1>Buzz About The DevCon&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. In addition to the *mountain* of abstracts I've gotten (more than any DevCon to date), several bloggers have had things to say about the upcoming DevCon:
+
+http://www.kuro5hin.org/story/2003/4/30/133950/971#xmlroadtrip (includes a poll for his abstracts)
+
+http://www.larkware.com/Articles/TheDailyGrind62.html
+
+http://aspnetweblog.com/posts/6141.aspx
+
+http://dotnetguy.techieswithcats.com/archives/003064.shtml
+
+http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/546</id>
+    <title>Reflector.NET Author Starts a Blog</title>
+    <updated>2003-04-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-30T07:00:00.000Z</published>
+    <summary>Here. Lutz Roeder, the author of Reflector.NET, caves in and starts his blog. And what a way to start: he posts a decompiler plug-in for Reflection.NET. Welcome, Lutz.</summary>
+    <content type="html">&lt;h1>Reflector.NET Author Starts a Blog&lt;/h1>
+&lt;a href="http://aisto.com/roeder/Frontier/Frontier.rss">Here&lt;/a>. Lutz Roeder, the author of Reflector.NET, caves in and starts his blog. And what a way to start: he posts a decompiler plug-in for Reflection.NET. Welcome, Lutz.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/544</id>
+    <title>Longhorn Audio/Video Info from WinHEC</title>
+    <updated>2003-04-30T07:00:00.000Z</updated>
+    <published>2003-04-30T07:00:00.000Z</published>
+    <summary>Here. I'm an HTPC guy from way back, so this sounds cool to me. [ActiveWin.com]</summary>
+    <content type="html">&lt;h1>Longhorn Audio/Video Info from WinHEC&lt;/h1>
+&lt;a href="http://www.activewin.com/articles/2003/4.shtml">Here&lt;/a>. I'm an HTPC guy from way back, so this sounds cool to me.
+
+[ActiveWin.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/542</id>
+    <title>RIAA to file swappers: Let's chat</title>
+    <updated>2003-04-29T07:00:00.000Z</updated>
+    <published>2003-04-29T07:00:00.000Z</published>
+    <summary>Here. I take this as a sign that the RIAA is finally realizing what's going on. That is only goodness.</summary>
+    <content type="html">&lt;h1>RIAA to file swappers: Let's chat &lt;/h1>
+&lt;a href="http://rss.com.com/2100-1025-998825.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. I take this as a sign that the RIAA is finally realizing what's going on. That is only goodness.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/540</id>
+    <title>Updated XsdClassesGen for VS.NET 2003</title>
+    <updated>2003-04-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-29T07:00:00.000Z</published>
+    <summary>Here. I've updated XsdClassesGen for VS.NET 2003. For those of you unfamiliar with it (it's never been as popular as CollectionGen for some reason), XsdClassesGen is a VS.NET Custom Tool that generates C# or VB.NET wrapper class source code from an XSD. It's just like running xsd.exe from the command line, but integrated into VS.NET (which is where all tools belong, afaic).</summary>
+    <content type="html">&lt;h1>Updated XsdClassesGen for VS.NET 2003&lt;/h1>
+&lt;a href="/12422">Here&lt;/a>. I've updated XsdClassesGen for VS.NET 2003. For those of you unfamiliar with it (it's never been as popular as CollectionGen for some reason), XsdClassesGen is a VS.NET Custom Tool that generates C# or VB.NET wrapper class source code from an XSD. It's just like running xsd.exe from the command line, but integrated into VS.NET (which is where all tools belong, afaic).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/539</id>
+    <title>Updated CollectionGen for VS.NET 2002 &amp; 2003</title>
+    <updated>2003-04-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-29T07:00:00.000Z</published>
+    <summary>Here. I've updated CollectionGen with code to support both VS.NET 2002 &amp; 2003. It has no dependencies on any VS.NET design-time DLLs, so one binary works for both versions. If you're building custom tools, this should form a good base to support both environments.</summary>
+    <content type="html">&lt;h1>Updated CollectionGen for VS.NET 2002 &amp; 2003&lt;/h1>
+&lt;a href="/12424">Here&lt;/a>. I've updated CollectionGen with code to support both VS.NET 2002 &amp; 2003. It has no dependencies on any VS.NET design-time DLLs, so one binary works for both versions. If you're building custom tools, this should form a good base to support both environments.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/543</id>
+    <title>Apple's Music Store Needed for the other 94%</title>
+    <updated>2003-04-29T07:00:00.000Z</updated>
+    <published>2003-04-29T07:00:00.000Z</published>
+    <summary>I'm very much looking forward to either iTunes being available for Windows or someone else letting me purchase songs one at a time. In fact, as soon as that happens, my wife [ahem] owes the RIAA several hundred dollars in "back-fees" for "pre-downloaded" mp3s (she's always been very ahead of her time...)</summary>
+    <content type="html">&lt;h1>Apple's Music Store Needed for the other 94%&lt;/h1>
+I'm very much looking forward to either &lt;a href="http://www.apple.com/music/store/">iTunes&lt;/a> being available for Windows or someone else letting me purchase songs one at a time. In fact, as soon as that happens, my wife [ahem] owes the RIAA several hundred dollars in "back-fees" for "pre-downloaded" mp3s (she's always been very ahead of her time...)</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/541</id>
+    <title>Comparing Security: Commercial S/W vs. Open Source</title>
+    <updated>2003-04-29T07:00:00.000Z</updated>
+    <published>2003-04-29T07:00:00.000Z</published>
+    <summary>Here. Of course, David Chappel tends to appear at more MS-related events than not, so he's biased like the rest of the folks reading this post (well, maybe not as biased as some : ). However, he examines the 2001, 2002 and 2003 CERT Coordination Center's security advisory data and finds that things are definitely moving in the right direction for Windows folk(although not as fast as we'd like, of course).</summary>
+    <content type="html">&lt;h1>Comparing Security: Commercial S/W vs. Open Source&lt;/h1>
+&lt;a href="http://www.davidchappell.com/HTML_email/Opinari_No6_4_03.html#article">Here&lt;/a>. Of course, David Chappel tends to appear at more MS-related events than not, so he's biased like the rest of the folks reading this post (well, maybe not as biased as some : ). However, he examines the 2001, 2002 and 2003 CERT Coordination Center's security advisory data and finds that things are definitely moving in the right direction for Windows folk(although not as fast as we'd like, of course).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/536</id>
+    <title>Disaster Recovery</title>
+    <updated>2003-04-28T07:00:00.000Z</updated>
+    <published>2003-04-28T07:00:00.000Z</published>
+    <summary>Here. From Carlos Aquino: Things goes wrong all the time, but a good administrator is always alert. On this site they have some documentations about how to avoid (and how to recover from) a disaster on your systems.</summary>
+    <content type="html">&lt;h1>Disaster Recovery&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=Disaster%20Recovery">Here&lt;/a>. From Carlos Aquino: Things goes wrong all the time, but a good administrator is always alert. On this site they have some documentations about how to avoid (and how to recover from) a disaster on your systems.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/538</id>
+    <title>Unifying Tables, Objects and Documents (XML)</title>
+    <updated>2003-04-28T07:00:00.000Z</updated>
+    <published>2003-04-28T07:00:00.000Z</published>
+    <summary>Here. Wouldn't it be an interesting world if the three major data structure abstractions, i.e. relational data (tables), graphs (objects) and strict hierarchy (XML) were all first class citizens in the same language? I found this paper quite an mind-bender.</summary>
+    <content type="html">&lt;h1>Unifying Tables, Objects and Documents (XML)&lt;/h1>
+&lt;a href="http://www.research.microsoft.com/~emeijer/Papers/oopsla.pdf">Here&lt;/a>. Wouldn't it be an interesting world if the three major data structure abstractions, i.e. relational data (tables), graphs (objects) and strict hierarchy (XML) were all first class citizens in the same language? I found this paper quite an mind-bender.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/537</id>
+    <title>CALL FOR SPEAKERS: Applied XML DevCon 2003 West</title>
+    <updated>2003-04-28T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-04-28T07:00:00.000Z</published>
+    <summary>Here. Tentatively schedule for July 10-11 in greater Portland, OR, the Applied XML DevCon needs your talks. If you want to speak on XML applied in novel forms, e.g. web services, interop, extensibility, Google hacks, replacement for more traditional data formats, RSS, hardware integration, blogging, or in any other fun, cool, fast or amazing way, let me know! I'm looking for sessions on things that you're actually doing or planning on doing with XML. Strict theoreticians need not apply. Send abstracts befor...</summary>
+    <content type="html">&lt;h1>CALL FOR SPEAKERS: Applied XML DevCon 2003 West&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Tentatively schedule for July 10-11 in greater Portland, OR, the Applied XML DevCon needs your talks. If you want to speak on XML applied in novel forms, e.g. web services, interop, extensibility, Google hacks, replacement for more traditional data formats, RSS, hardware integration, blogging, or in any other fun, cool, fast or amazing way, let me know! I'm looking for sessions on things that you're actually doing or planning on doing with XML. Strict theoreticians need not apply.
+
+Send abstracts before 5/7 to csells@microsoft.com
+
+If you can think of another place, e.g. mailing list or blog, that would be appropriate for this announcement, please send it along.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/534</id>
+    <title>Software Legends</title>
+    <updated>2003-04-27T07:00:00.000Z</updated>
+    <published>2003-04-27T07:00:00.000Z</published>
+    <summary>Here. From Spencer Harbar: a nice site featuring the usual suspects! - but wasn't it don who did the bathtub SOAP talk? :)</summary>
+    <content type="html">&lt;h1>Software Legends&lt;/h1>
+&lt;a href="http://www.softwarelegends.com/legends.html">Here&lt;/a>. From Spencer Harbar: a nice site featuring the usual suspects! - but wasn't it don who did the bathtub SOAP talk? :)</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/535</id>
+    <title>Killer Apps Share A Common Thread: Hacker Geeks</title>
+    <updated>2003-04-27T07:00:00.000Z</updated>
+    <published>2003-04-27T07:00:00.000Z</published>
+    <summary>Here. Tim O'Reilly pulls out four trends worth watching: Amazon.com web services, ubiquitous 802.11, h/w hacking and online gaming. I'm not sure how far h/w hacking will get us, but the other three I see being big deals. [slashdot.org]</summary>
+    <content type="html">&lt;h1>Killer Apps Share A Common Thread: Hacker Geeks&lt;/h1>
+&lt;a href="http://www.extremetech.com/article2/0,3973,1043541,00.asp">Here&lt;/a>. Tim O'Reilly pulls out four trends worth watching: Amazon.com web services, ubiquitous 802.11, h/w hacking and online gaming. I'm not sure how far h/w hacking will get us, but the other three I see being big deals.
+
+[slashdot.org]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/533</id>
+    <title>How Would You Move Mount Fuji?</title>
+    <updated>2003-04-26T07:00:00.000Z</updated>
+    <published>2003-04-26T07:00:00.000Z</published>
+    <summary>Here. William Poundstone interviewed me for this book. I'm still waiting for my free copy...</summary>
+    <content type="html">&lt;h1>How Would You Move Mount Fuji?&lt;/h1>
+&lt;a href="http://books.slashdot.org/books/03/04/22/224224.shtml?tid=109&amp;tid=127&amp;tid=98">Here&lt;/a>. William Poundstone interviewed me for this book. I'm still waiting for my free copy...</content>
+  </entry>
+</feed>

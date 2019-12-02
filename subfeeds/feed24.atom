@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed24.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed23.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed25.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed24.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2071</id>
+    <title>Boogers and My Writing Process</title>
+    <updated>2007-01-21T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2007-01-21T08:00:00.000Z</published>
+    <summary>I'm supposed to be writing today, but John (my eldest son) is also doing some writing as part of his homework. However, after watching him&amp;nbsp;struggle with just the topic (the phrase "Always aim for the moon. Even if you miss, you'll end up among the stars" [which isn't even the correct quote]) to try to write the fully-formed essay, I give him a little lesson about how I write. Plus, since I'm supposed to be writing, this blog post is an excellent avoidance technique. When I write, I told my son, I have ...</summary>
+    <content type="html">&lt;h1>Boogers and My Writing Process&lt;/h1>
+&lt;P>I'm supposed to be writing today, but John (my eldest son) is also doing some writing as part of his homework. However, after watching him&amp;nbsp;struggle with just the topic (the phrase "Always aim for the moon. Even if you miss, you'll end up among the stars" [which isn't even the correct quote]) to try to write the fully-formed essay, I give him a little lesson about how I write. Plus, since I'm supposed to be writing, this blog post is an excellent avoidance technique.&lt;/P>
+&lt;P>When I write, I told my son, I have to write giant books starting from empty pages. I can't just have a topic and start writing, I have to have something to break up the whitespace first. So, as a demonstration of this technique, I asked the fruit of my loins, an apple from my tree, for a topic. He said, without so much as a second of&amp;nbsp;hesitation, "boogers."&lt;/P>
+&lt;P>So, we started by brainstorming booger-related topics:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;EM>can be dry and crunchy&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>can be wet and chewy&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>flick 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>eat 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>come from noses&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em on somebody&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em on tissue&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em under something&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;P>The brainstorming is just a list of facts in whatever order I think of them that I know about the topic that I may or may not decide to share with my readers. While brainstorming, I don't judge -- I just type whatever comes up. After brainstorming, I spend some time rearranging my facts into some kind of outline to lay out my order and my main topics into which the facts fall:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;EM>intro:&lt;/EM>&lt;/LI>
+&lt;UL>
+&lt;LI>&lt;EM>what they are&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>formed from dust and other irritants in the air&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>can be dry and crunchy&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>can be wet and chewy&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>come from noses&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;LI>&lt;EM>how do I get 'em out of my nose:&lt;/EM>&lt;/LI>
+&lt;UL>
+&lt;LI>&lt;EM>Kleenex&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>finger&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>friend's Kleenex&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>friend's finger&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;LI>&lt;EM>what do I do with 'em now that I've got 'em out of my nose:&lt;/EM>&lt;/LI>
+&lt;UL>
+&lt;LI>&lt;EM>flick 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>eat 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em on somebody&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em on tissue&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>wipe 'em under something&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>straight blow in the shower&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;LI>&lt;EM>summary&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>overrun (although I've decided I don't want in my finished piece)&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;P>During the outlining phase, it's often the case that more facts come up and sometimes even whole categories of facts. As you're forming the story, that's when the gaps make themselves clear. At this point, I generally jump into the first fact, turning it into the first sentence, adding supporting sentences, transitions to the second fact and so on. Sometimes, though, especially with shorter pieces, I'll write the summary to make sure I've got it in mind as the write the entire piece. This idea of the story that I want to tell is what Don Box calls "the spine," and it's the most important part. Once you've got the spine, everything else falls into place.&lt;/P>
+&lt;P>&lt;EM>summary&lt;BR>Boogers happen to everyone and they're good for you. However, when there are too many, you gotta get 'em out. I recommend that you use a combination of Kleenex and your finger (for those hard to reach spots). You should make sure to throw the Kleenex away and wash your hands, although the shower straight blow is a good alternative. You should never, ever flick or wipe your boogers on something besides Kleenex, because who wants to find them?&lt;/EM>&lt;/P>
+&lt;P>At this point, I've gone from a blank sheet of (virtual) paper to a place where I know the spine, the details and the ordering; most of the hard work is done.&lt;/P>
+&lt;P>Obviously, brainstorming + outlining + summary + details = completed essay isn't exactly a unique perspective on the writing process. Still, how often does one get the change to turn boogers into a positive learning experience for one's progeny? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2070</id>
+    <title>CodeFetch: Search Book Source Code</title>
+    <updated>2007-01-19T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-01-19T08:00:00.000Z</published>
+    <summary>CodeFetch allows you to search in the source code associated with books (like the code I publish for my books). Plus, it lets you choose the language to search on and shows the book the results come from so you can read your favorites. Very cool.</summary>
+    <content type="html">&lt;h1>CodeFetch: Search Book Source Code&lt;/h1>
+&lt;A href="http://www.codefetch.com/">CodeFetch&lt;/A> allows you to search in the source code associated with books (like the code I publish for my books). Plus, it lets you choose the language to search on and shows the book the results come from so you can read your favorites. Very cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2069</id>
+    <title>Five Things You Don’t Know About Me</title>
+    <updated>2007-01-04T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-01-04T08:00:00.000Z</published>
+    <summary>I've been tagged a coupla times, so it's time I fessed up with Five Things You Don't Know About Me: In college, I was in a fraternity and not just a geek fraternity, but an actual, national, recognized social fraternity ( Phi Delta Theta ). I figured I was geeky enough in high school, so needed a place to learn to at least hide my dorkiness. Obviously, I failed, but it was a very fun four years. : ) In college, I coded in Unix using VT100 emulation software via a modem to my school's DECs from my Mac IIcx r...</summary>
+    <content type="html">&lt;h1>Five Things You Don’t Know About Me&lt;/h1>
+&lt;P>I've been tagged a coupla times, so it's time I fessed up with Five Things You Don't Know About Me:&lt;/P>
+&lt;OL>
+&lt;LI>In college, I was in a fraternity and not just a geek fraternity, but an actual, national, recognized social fraternity (&lt;A href="http://www.phideltatheta.org/">Phi Delta Theta&lt;/A>). I figured I was geeky enough in high school, so needed a place to learn to at least hide my dorkiness. Obviously, I failed, but it was a very fun four years. : )&lt;/LI>
+&lt;LI>In college, I coded in Unix using VT100 emulation software via a modem to my school's DECs from my Mac IIcx running System 7 (I worked two jobs all summer to earn &lt;EM>half &lt;/EM>of the $6000 it cost me to purchase the thing in 1988). It was the combination of the best programming and best UI experience at the time (although on two separate OSes). After graduation and working a job for a coupla years where I programmed Unix all day, I needed to look at Windows 3.1 for the first time because I had an interview at Intel. I could only stand to use it for about 10 minutes. They hired me anyway as a Windows programmer and, thank goodness, it's much gotten better. Windows is now my favorite programming and UI experience (and I've used both Unix and Mac OS X several times since then to make sure).&lt;/LI>
+&lt;LI>I am a fetishist; my fetishes are domain names and phone numbers. I can't think of a cool domain name without a) checking to see if it's available and b) purchasing it if it is (the one that sticks in my mind is clownporn.com, but that one was long gone). If I ever have a cool idea for an app, I must first purchase the domain name (I own appsettings.com and I just purchased 16 domain names the other day for another thing I want to do). Likewise, if I see a 7-digit phone number without a 0 or a 1 in it, I am physically compelled to surf to &lt;A href="http://phonespell.org">phonespell.org&lt;/A> to see what the possible 7 and 8-letter words are (my old home phone number was 642-JOHN, the name of my eldest son). Of course, I've written my own program to do the permutations of numbers to letters, but phonespell does that cool dictionary lookup and grouping thing. I also added the phonespell support to &lt;A href="http://www.dqsd.net/">Dave's Quick Search Taskbar Toolbar Deskbar&lt;/A>.&lt;/LI>
+&lt;LI>I have jumped out of a perfectly good airplane (&lt;a href="/12539">&lt;EM>not &lt;/EM>Alan Cooper's plane&lt;/A>).It was just before I got married and I took my best man. We both used parachutes. The fall was surprisingly quiet, but the stop at the sudden bottom was unpleasant.&lt;/LI>
+&lt;LI>The &lt;A href="/2058">equal-rights-for-humans&lt;/A> theme that sometimes pops up on this site isn't because I've seen friends discriminated against and now I have to change the world (I don't actually know very many people that are homosexual), but rather because I think it's the right thing to do.&lt;/LI>&lt;/OL>
+&lt;P>I tag &lt;A href="http://www.pluralsight.com/blogs/dbox/default.aspx">Don Box&lt;/A>, &lt;A href="http://www.simplegeek.com/">Chris Anderson&lt;/A>, &lt;A href="http://www.mikedub.net/">Michael Weinhardt&lt;/A>, &lt;A href="http://www.pluralsight.com/blogs/tewald/default.aspx">Tim Ewald&lt;/A> and &lt;A href="http://www.interact-sw.co.uk/iangblog/">Ian Griffiths&lt;/A>.&lt;/P>
+&lt;P>P.S. What's the deal with the shape of the Pentagon and the Seal of the US on money (the eye at the top of the pyramid)? Damn you &lt;A href="http://www.douglasp.com/blog/2006/12/23/MyOwnSoftDrinkMachine.aspx">Doug Purdy&lt;/A> for getting me &lt;A href="http://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy">The Illuminatus Trilogy&lt;/A> when I'm supposed to be writing a book!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2068</id>
+    <title>On good days, I'm Iron Man...</title>
+    <updated>2006-12-31T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-12-31T08:00:00.000Z</published>
+    <summary>My superhero results: You are Iron Man Iron Man 80% Spider-Man 70% Catwoman 55% Hulk 50% Green Lantern 50% The Flash 45% Robin 42% Superman 40% Batman 30% Supergirl &lt;HR align=</summary>
+    <content type="html">&lt;h1>On good days, I'm Iron Man...&lt;/h1>
+My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&lt;/FONT>&lt;/B> 
+&lt;TABLE>
+&lt;TBODY>
+&lt;TR>
+&lt;TD>
+&lt;TABLE>
+&lt;TBODY>
+&lt;TR>
+&lt;TD>Iron Man&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=80 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>80%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Spider-Man&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=70 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>70%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Catwoman&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=55 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>55%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Hulk&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=50 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>50%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Green Lantern&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=50 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>50%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>The Flash&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=45 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>45%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Robin&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=42 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>42%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Superman&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=40 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>40%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Batman&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=30 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>30%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Supergirl&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=30 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>30%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Wonder Woman&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=20 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>20%&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>&lt;/TD>
+&lt;TD>Inventor. Businessman. Genius.&lt;BR>&lt;IMG src="http://www.thesuperheroquiz.com/pics/ironman.jpg">&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>&lt;BR>My &lt;B>super villian&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Dr. Doom&lt;/FONT>&lt;/B> 
+&lt;TABLE>
+&lt;TBODY>
+&lt;TR>
+&lt;TD>
+&lt;TABLE>
+&lt;TBODY>
+&lt;TR>
+&lt;TD>Dr. Doom&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=58 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>58%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Mr. Freeze&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=55 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>55%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Lex Luthor&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=53 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>53%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Juggernaut&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=48 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>48%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>The Joker&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=45 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>45%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Kingpin&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=45 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>45%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Apocalypse&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=42 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>42%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Poison Ivy&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=38 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>38%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Riddler&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=37 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>37%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Venom&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=36 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>36%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Green Goblin&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=36 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>36%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Dark Phoenix&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=33 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>33%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Magneto&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=27 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>27%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Catwoman&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=25 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>25%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Mystique&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=20 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>20%&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD>Two-Face&lt;/TD>
+&lt;TD>
+&lt;HR align=left width=20 noShade SIZE=4>
+&lt;/TD>
+&lt;TD>20%&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>&lt;/TD>
+&lt;TD width=250>Blessed with smarts and power but burdened by vanity.&lt;BR>&lt;IMG src="http://www.thesuperheroquiz.com/villain/pics/dr_doom.jpg">&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>
+&lt;P>&lt;A href="http://www.thesuperheroquiz.com/">Click here to take the Superhero Personality Test&lt;/A>&lt;/P>
+&lt;P>&lt;A href="http://www.thesuperheroquiz.com/villain">Click here to take the Super Villain Personality Test&lt;/A>&lt;BR>&lt;/P>
+&lt;P>P.S. Happy New Year!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2067</id>
+    <title>Special Holiday Episode IV: DBox and ChrisAn</title>
+    <updated>2006-12-26T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-12-26T08:00:00.000Z</published>
+    <summary>"?Keeping up with their tradition, Don and Chris sing an inspired song for the holidays." Merry &amp;amp; Happy! </summary>
+    <content type="html">&lt;h1>Special Holiday Episode IV: DBox and ChrisAn&lt;/h1>
+&lt;P>&lt;EM>"?Keeping up with their tradition, &lt;/EM>&lt;A href="http://channel9.msdn.com/Showpost.aspx?postid=268480">&lt;EM>Don and Chris sing an inspired song for the holidays&lt;/EM>&lt;/A>&lt;EM>."&lt;/EM>&lt;/P>
+&lt;P>Merry &amp;amp; Happy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2066</id>
+    <title>Xbox 360 Warranty: Now 1 Year (Retroactively!)</title>
+    <updated>2006-12-22T08:00:00.000Z</updated>
+    <published>2006-12-22T08:00:00.000Z</published>
+    <summary>I love it when we do a good thing : "Effective today (December 22), the one year warranty is now the standard for all Xbox 360 consoles. Customers that experience hardware issues with their Xbox 360 within one year of purchase will have their consoles repaired at no cost. Moreover, the new warranty policy is retroactive, so consumers that may have already paid for out-of-warranty Xbox 360 repair within one year of the console's purchase will be eligible for reimbursement of their console repair charges." I'...</summary>
+    <content type="html">&lt;h1>Xbox 360 Warranty: Now 1 Year (Retroactively!)&lt;/h1>
+&lt;P>I love it when we do &lt;A href="http://www.xbox.com/en-US/community/news/2006/1222-xbox360warrantyextended.htm">a good thing&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Effective today (December 22), the one year warranty is now the standard for all Xbox 360 consoles. Customers that experience hardware issues with their Xbox 360 within one year of purchase will have their consoles repaired at no cost. Moreover, the new warranty policy is retroactive, so consumers that may have already paid for out-of-warranty Xbox 360 repair within one year of the console's purchase will be eligible for reimbursement of their console repair charges."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I'm a big Vista fan, I'm loving Office 12 and I live on my WM5 phone, but the Xbox 360 is currently the coolest thing we do. And it just keeps getting better.&lt;/P>
+&lt;P>P.S. If the postscripts aren't appreciated, why do they get all the feedback?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2065</id>
+    <title>Somebody Diggs Me...</title>
+    <updated>2006-12-21T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/sbdugg.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2006-12-21T08:00:00.000Z</published>
+    <summary>I don't know why the MS interview page is suddenly digg-worthy after all these years, but it's nice to be dugg: I'd like to thank the academy... P.S. I'm not looking forward to giving up the tax cuts when the Democrats tax the presidency (the 2008 elections are theirs to lose). How about we cut our military in half so that it's just the most powerful on earth instead of more powerful than the sum of all the rest of the armies on earth? </summary>
+    <content type="html">&lt;h1>Somebody Diggs Me...&lt;/h1>
+&lt;P>I don't know why &lt;a href="/tagged/interview">the MS interview page&lt;/A> is suddenly digg-worthy after all these years, but it's nice to be dugg:&lt;/P>
+&lt;P>&lt;A href="http://digg.com">&lt;img src="/public/fun/sbdugg.jpg">&lt;/A>&lt;/P>
+&lt;P>I'd like to thank the academy...&lt;/P>
+&lt;P>P.S. I'm not looking forward to giving up the tax cuts when the Democrats tax the presidency (the 2008 elections are theirs to lose). How about we cut our military in half so that it's just the most powerful on earth instead of more powerful than the sum of all the rest of the armies on earth?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2064</id>
+    <title>Point: Local Live Maps</title>
+    <updated>2006-12-15T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-12-15T08:00:00.000Z</published>
+    <summary>When it comes to Web 2.0 apps, online maps are easily the thing I use the most. I don't go anywhere these days w/o first pulling up the map on MapQuest, Google maps or, for a coupla years now, local.live.com &amp;nbsp;(starting back when it used to be called MapPoint). I generally use Google for my search engine, so don't think it's just the MS employee thing pushing me -- I genuinely like local.live.com better. Google and MS have been in an arms race for years on the maps stuff, doing fancy stuff like 3D globe...</summary>
+    <content type="html">&lt;h1>Point: Local Live Maps&lt;/h1>
+&lt;P>When it comes to Web 2.0 apps, online maps are easily the thing I use the most. I don't go anywhere these days w/o first pulling up the map on MapQuest, Google maps or, for a coupla years now, &lt;A href="http://local.live.com">local.live.com&lt;/A>&amp;nbsp;(starting back when it used to be called MapPoint). I generally use Google for my search engine, so don't think it's just the MS employee thing pushing me -- I genuinely like local.live.com better.&lt;/P>
+&lt;P>Google and MS have been in an arms race for years on the maps stuff, doing fancy stuff like 3D globes and other goo that looks good in demos, but that I don't need. However, in this war of the world (so to speak : ),&amp;nbsp;today MS fired a decisive shot across the bow, I think -- the "Send" menu. This is huge for me, because I can send the directions to my phone, either via SMS or via email, and I get a great display clearly optimized for my smartphone. Not only does it have a great mini-map, but the directions are easy to read (saving me from printing the directions for just a single trip) and it has a link to reverse the directions (the one thing I &lt;EM>never &lt;/EM>remember to do).&lt;/P>
+&lt;P>Oh sure, I can do the same thing with the Google maps "Email" menu, but when I follow the link on my phone, there's no map (although there is a handy link to reverse the directions). Also, the directions don't read as well and I swear it's faster to surf to the local.live.com directions (although this might just be the MS bias talkin' : ).&lt;/P>
+&lt;P>On the other hand, I just noticed that Google maps has a new "Add destination" link for multi-destination trips, which is the only thing I use &lt;A href="http://www.aaa.com">AAA&lt;/A> online TripTiks for and you have to be a member to access the feature (I am, but still it's kinda clunky...). Hey, local.live.com guys -- can I have that, too?!?&lt;/P>
+&lt;P>P.S. I think I've scared the most reactionary, close-minded folks away, so I think I'll cool it on the postscripts for a while ('til I feel like it again : ). BTW, my definition of "close-minded" is "those who don't think I have the right to express my opinion," &lt;EM>not &lt;/EM>"those who disagree w/ me." Hopefully I managed to shake the former off my RSS feed while keeping the latter.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2063</id>
+    <title>VS2005 SP1</title>
+    <updated>2006-12-15T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-12-15T08:00:00.000Z</published>
+    <summary>"Through further advancement and feedback, Service Pack 1... provides over 70 improvements for common development scenarios including: New processor support (e.g., Core Duo) for code generation and profiling Performance and scale improvements in Team Foundation Server Team Foundation Server integration with Excel 2007 and Project 2007 Tool support for occasionally connected devices and SQL Server Compact Edition Additional support for project file based Web applications Windows Embedded 6.0 platform and too...</summary>
+    <content type="html">&lt;h1>VS2005 SP1&lt;/h1>
+&lt;P>"Through further advancement and feedback, &lt;A href="http://msdn.microsoft.com/vstudio/support/vs2005sp1/default.aspx">Service Pack 1&lt;/A> ... provides over 70 improvements for common development scenarios including:&lt;/P>
+&lt;UL>
+&lt;LI>New processor support (e.g., Core Duo) for code generation and profiling 
+&lt;LI>Performance and scale improvements in Team Foundation Server 
+&lt;LI>Team Foundation Server integration with Excel 2007 and Project 2007 
+&lt;LI>Tool support for occasionally connected devices and SQL Server Compact Edition 
+&lt;LI>Additional support for project file based Web applications 
+&lt;LI>Windows Embedded 6.0 platform and tools support &lt;/LI>&lt;/UL>
+&lt;P>For more information, see the Microsoft Download Center:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=BB4A75AB-E2D4-4C96-B39D-37BAF6B5B1DC">Visual Studio 2005 Team Suite SP1&lt;/A> (includes SP1 updates for Standard, Professional, and Team Editions of Visual Studio 2005) 
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A9AB638C-04D2-4AEE-8AE8-9F00DD454AB8">Visual Studio 2005 Team Foundation Server SP1 
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=7B0B0339-613A-46E6-AB4D-080D4D4A8C4E">Visual Studio 2005 Express Editions SP1 
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=FB6BB56A-10B7-4C05-B81C-5863284503CF">Visual Studio 2005 SP1 Update for Windows Vista Beta&lt;/A>"&lt;/LI>&lt;/UL>
+&lt;P>At the time of this posting, VS05SP1 update for Vista download wasn't available, but it should be directly.&lt;/P>
+&lt;P>P.S. I hope everyone is enjoying the holiday season with peace, love and understanding.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2062</id>
+    <title>Rory, Distilled</title>
+    <updated>2006-12-14T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-12-14T08:00:00.000Z</published>
+    <summary>Lord knows, I love Rory, but easily my favorite thing are his comics.&amp;nbsp;However, he doesn't do enough of them, so if you're looking for a Rory-alternative between comics, check out xkcd. This is the one that made me realize just how Rory xkcd is: I wonder how often this happens to Rory? : ) P.S. I look forward to the day when it's just as easy to get int'l news in the US as corporate-spun news. The world will be a better place when we realize that we're not the only ones on the planet. </summary>
+    <content type="html">&lt;h1>Rory, Distilled&lt;/h1>
+&lt;P>Lord knows, I love &lt;A href="http://neopoleon.com/">Rory&lt;/A>, but easily my favorite thing are &lt;A href="http://neopoleon.com/home/search/SearchResults.aspx?q=comic">his comics&lt;/A>.&amp;nbsp;However, he doesn't do enough of them, so if you're looking for a Rory-alternative between comics, check out &lt;A href="http://xkcd.com/">xkcd&lt;/A>. This is the one that made me realize just how Rory xkcd is:&lt;/P>
+&lt;P>&lt;A href="http://xkcd.com/c175.html">&lt;IMG src="http://imgs.xkcd.com/comics/automatic_doors.png">&lt;/A>&lt;/P>
+&lt;P>I wonder how often this happens to Rory? : )&lt;/P>
+&lt;p>P.S. I look forward to the day when it's just as easy to get int'l news in the US as corporate-spun news. The world will be a better place when we realize that we're not the only ones on the planet.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2061</id>
+    <title>XNA Game Studio Express Has Been Released!</title>
+    <updated>2006-12-11T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-12-11T08:00:00.000Z</published>
+    <summary>Oh, man, I *so* want to write a game that runs on my Xbox 360! Now I can (and so can you). Enjoy! P.S. Impeach! </summary>
+    <content type="html">&lt;h1>XNA Game Studio Express Has Been Released!&lt;/h1>
+&lt;P>Oh, man, I *so* want to &lt;A href="http://blogs.msdn.com/xna/archive/2006/12/11/xna-game-studio-express-has-been-released.aspx">write a game that runs on my Xbox 360&lt;/A>! Now I can (and so can you). Enjoy!&lt;/P>
+&lt;P>P.S. Impeach!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2060</id>
+    <title>XAML Design Tools from Microsoft</title>
+    <updated>2006-12-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-12-04T08:00:00.000Z</published>
+    <summary>If you're a designer looking for XAML design tools, and you're a designer type (you know -- beret, turtle neck, a wardrobe that extends beyond jeans and t-shirts), you've got two choices from Microsoft. You can use Expression Design [1] for static XAML graphics or Expression Blend (aka Sparkle) for dynamic XAML interfaces. Both are available in pre-release form ( CTP for Design and Beta 1 for Blend ), so give them a try. [1] "Expression Design" is not to be confused with "Expression Design er ", which is th...</summary>
+    <content type="html">&lt;h1>XAML Design Tools from Microsoft&lt;/h1>
+&lt;P>If you're a designer looking for XAML design tools, and you're a designer type (you know -- beret, turtle neck, a wardrobe that extends beyond jeans and t-shirts), you've got two choices from Microsoft. You can use &lt;A href="http://www.microsoft.com/products/expression/en/expression-design/default.mspx">Expression Design&lt;/A> [1] for static XAML graphics or &lt;A href="http://www.microsoft.com/products/expression/en/expression-blend/default.mspx">Expression Blend&lt;/A> (aka Sparkle) for dynamic XAML interfaces. Both are available in pre-release form (&lt;A href="http://www.microsoft.com/products/expression/en/expression-design/free-trial.mspx">CTP for Design&lt;/A> and &lt;A href="http://www.microsoft.com/products/expression/en/Expression-Blend/try.mspx">Beta 1 for Blend&lt;/A>), so give them a try.&lt;/P>
+&lt;P>[1] "Expression Design" is not to be confused with "Expression Design&lt;STRONG>&lt;EM>er&lt;/EM>&lt;/STRONG>", which is the old name for Sparkle (Blend).&lt;/P>
+&lt;P>P.S. Can someone give Scoble a hug? He's obviously a little worked up if he's &lt;A href="http://scobleizer.com/2006/11/26/calling-chris-sells-i-hate-blogs-that-dont-work-with-google-reader/">recommending physical violence for disagreements about web site design&lt;/A>. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2059</id>
+    <title>Holy Cow! An Entire WPF/E DevCenter!</title>
+    <updated>2006-12-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-12-04T08:00:00.000Z</published>
+    <summary>I expected eventually to get a WPF/E (Windows Presentation Foundation Everywhere) download or two, but these guys went crazy; they just released an entire WPF/E DevCenter this morning. Here're just a few highlights: WPF/E CTP for Windows and the Mac WPF/E online reference, samples and downloadable SDK Microsoft Express</summary>
+    <content type="html">&lt;h1>Holy Cow! An Entire WPF/E DevCenter!&lt;/h1>
+&lt;P>I expected eventually to get a WPF/E (Windows Presentation Foundation Everywhere) download or two, but these guys went crazy; they just released &lt;A href="http://msdn2.microsoft.com/en-us/asp.net/bb187358.aspx">an entire WPF/E DevCenter&lt;/A> this morning. Here're just a few highlights:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://go.microsoft.com/fwlink/?linkid=77792&amp;amp;clcid=0x409">WPF/E CTP for Windows&lt;/A> and &lt;A href="http://go.microsoft.com/fwlink/?linkid=77793&amp;amp;clcid=0x409">the Mac&lt;/A>&lt;/LI>
+&lt;LI>&lt;A onclick="javascript:Track('ctl00_ctl01|ctl00_ctl34',this);" href="http://msdn2.microsoft.com/en-us/asp.net/bb187448">WPF/E online reference&lt;/A>, &lt;A href="http://go.microsoft.com/fwlink/?linkid=77794&amp;amp;clcid=0x409">samples&lt;/A> and &lt;A href="http://go.microsoft.com/fwlink/?linkid=77791&amp;amp;clcid=0x409">downloadable SDK&lt;/A>&lt;/LI>
+&lt;LI>&lt;A onclick="javascript:Track('ctl00_ctl01|ctl00_ctl08',this);" href="http://go.microsoft.com/fwlink/?linkid=79077&amp;amp;clcid=0x409">Microsoft Expression Design CTP&lt;/A>&lt;/LI>
+&lt;LI>&lt;A onclick="javascript:Track('ctl00_ctl01|ctl00_ctl09',this);" href="http://www.mikeswanson.com/swf2xaml/">SWF to XAML Converter&lt;/A>&lt;/LI>
+&lt;LI>&lt;A onclick="javascript:Track('ctl00_ctl01|ctl00_ctl10',this);" href="http://www.mikeswanson.com/xamlexport/">Adobe Illustrator to WPF/XAML Export Plug-In&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P>
+&lt;P>P.S. Regardless of whether humans caused global warming or whether it's part of a natural cycle, it's happening and we're going to have to deal with it.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2058</id>
+    <title>Xbox Video Marketplace Worked Great For Me</title>
+    <updated>2006-11-24T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-11-24T08:00:00.000Z</published>
+    <summary>I tried the Xbox Video Marketplace on my 360 today. For 160 points ($2), I was able to purchase the season 2 premiere of&amp;nbsp;Venture Bros (which is hilarious, btw) and 17% into the download, I was able to start watching it commercial free. Quality was high and I'm downloading Star Trek: The Enemy Within (a transporter accident creates an evil Kirk) for another $2 as I write this. The next experiment is a movie, but I'll wait for the wife to come home before we decide which one to pick. The experience was s...</summary>
+    <content type="html">&lt;h1>Xbox Video Marketplace Worked Great For Me&lt;/h1>
+&lt;P>I tried the &lt;A href="http://www.xbox.com/en-US/live/marketplace/moviestv/default.htm">Xbox Video Marketplace&lt;/A> on my 360 today. For 160 points ($2), I was able to purchase the season 2 premiere of&amp;nbsp;Venture Bros (which is hilarious, btw) and 17% into the download, I was able to start watching it commercial free. Quality was high and I'm downloading Star Trek: The Enemy Within (a transporter accident creates an evil Kirk) for another $2 as I write this. The next experiment is a movie, but I'll wait for the wife to come home before we decide which one to pick.&lt;/P>
+&lt;P>The experience was seamless. Recommended.&lt;/P>
+&lt;P>P.S. I think gays and lesbians have just as much right to get married and to be parents as heterosexuals.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2057</id>
+    <title>I'm Thankful for Windows Vista</title>
+    <updated>2006-11-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-11-23T08:00:00.000Z</published>
+    <summary>Of course I have no credibility here (I'm part of the evil empire, after all), but I have to say, I'm really loving the Windows Vista Ultimate RTM. I know the Vista team takes a lot of crap for being late and for not being revolutionary enough, so I thought I'd let the Vista team know that I have yet to find something that isn't just better in Vista than in XP. Here are a few things I really like: I no longer have to do Ctrl+Esc, R before I can type something to run (I'm a huge keyboard guy); I just have to...</summary>
+    <content type="html">&lt;h1>I'm Thankful for Windows Vista&lt;/h1>
+&lt;P>Of course I have no credibility here (I'm part of the evil empire, after all), but I have to say, I'm really loving the Windows Vista Ultimate RTM. I know the Vista team takes a lot of crap for being late and for not being revolutionary enough, so I thought I'd let the Vista team know that I have yet to find something that isn't just better in Vista than in XP. Here are a few things I really like:&lt;/P>
+&lt;UL>
+&lt;LI>I no longer have to do Ctrl+Esc, R before I can type something to run (I'm a huge keyboard guy); I just have to type Ctrl+Esc and start typing. This savings alone has ruined me for XP. (And before you point out that I can just use Win+R, I don't like the Windows key: it's not on all keyboards and it's not always in the same place.)&lt;/LI>
+&lt;LI>If I want to search for a program in my voluminous start menu, I just do Ctrl+Esc and start typing. When the list of results contains my target, I press the down arrow to pick the one I want and press Enter when I get there.&lt;/LI>
+&lt;LI>If I want to search for content on my computer, I just do Ctrl+Esc and start typing (once search is set to index my entire computer -- I wish that were the default). If I want to be specific that I just want to search content or file name, I can use the "content:" and "name:" designators, e.g. "content:foo name:foo.cs".&lt;/LI>
+&lt;LI>If I want to find a setting in a particular control panel app, I open the control panel and start typing -- the results point me at the specific control panel applet and page with that setting.&lt;/LI>
+&lt;LI>If I want to find something on the internet, I press Ctrl+Esc and start typing, then press the up arrow (to get to the "Search the Internet" option) and press Enter, which brings up the results in my IE7 favorite search engine.&lt;/LI>
+&lt;LI>If I want to find something in my large list of installed programs, I open the Programs and Features control panel and start typing (I found the renamed "Add and Remove Programs" control panel by searching for "uninstall").&lt;/LI>
+&lt;LI>Before you narrow my list of likes about Vista to "pervasive search" (which, obviously, I love), I also really like the sidebar. It's amazing how often I glance over there to get some quick piece of info that's always being updated for me rather than start some app, interrupting what I'm doing (e.g. lately I've been waiting with bated breath for MSFT to hit 30). I'm anxious for lots more sidebar gadgets.&lt;/LI>
+&lt;LI>I love that the desktop is in the Alt+Tab list.&lt;/LI>
+&lt;LI>I love the 3D Win+Tab list.&lt;/LI>
+&lt;LI>The games, both new and old, are uniformly gorgeous.&lt;/LI>
+&lt;LI>I really love the new look 'n' feel, including the animations and the new start menu, both of which I turned off in XP.&lt;/LI>
+&lt;LI>I love that it just works on my 2-year old Dell laptop w/o any muss or fuss. I only have a Windows Experience Index of 2.0 because of my graphics card, but using Vista is still a very pleasant experience (and I have Aero glass around the edges of my windows and everything).&lt;/LI>
+&lt;LI>I really love Windows Meeting Space. I'm a big user of Live Meeting because of my remote employee status and Windows MS is a simpler, cleaner, peer-to-peer version of the only parts of LiveMeeting I every actually used, i.e. sharing apps and sharing files. To have it included for free is huge.&lt;/LI>
+&lt;LI>I love having Media Center included, too.&lt;/LI>
+&lt;LI>I love that I can do picture slide shows from zip files as well as from folders.&lt;/LI>
+&lt;LI>I like the new Sync Center, one-stop shopping for my offline folders (which I love) as well as managing my smartphone's files.&lt;/LI>
+&lt;LI>I really like the real-time thumbnail of apps when I hang the mouse over icons in the taskbar and in the Alt+Tab/Win+Tab list.&lt;/LI>
+&lt;LI>I love that .NET 3.0 is included out of the box.&lt;/LI>
+&lt;LI>I love that every app I've tried, including an app I originally wrote for Windows 95, just works.&lt;/LI>
+&lt;LI>I love that I find new features all the time.&lt;/LI>
+&lt;LI>As I've mentioned, I like the &lt;a href="http://www.clearification.com/">clearification.com&lt;/a> site. In fact, I liked it so much, Mel and I want to see Demetri Martin live in Portland. Very funny.&lt;/LI>
+&lt;/UL>
+&lt;P>Seriously, given the experience with recent pre-release versions of Vista, I thought I was going to just stick with XP. I'm so glad I didn't. Vista rocks.&lt;/P>
+&lt;P>P.S. I'll continue to desensitize/scare away readers with political/religious/social messages in future posts. Until then, Happy Thanksgiving!&lt;/P></content>
+  </entry>
+</feed>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed46.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed45.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed47.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed46.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1758</id>
+    <title>ZAM 3D: A 3D XAML Tool for Avalon</title>
+    <updated>2005-04-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-04-11T07:00:00.000Z</published>
+    <summary>Wow. This looks really cool. [ from Mike Swanson ] </summary>
+    <content type="html">&lt;h1>ZAM 3D: A 3D XAML Tool for Avalon&lt;/h1>
+&lt;P>Wow. &lt;A href="http://www.erain.com/products/zam3d/">This looks really cool&lt;/A>.&lt;/P>
+&lt;P>&lt;IMG src="http://www.erain.com/products/zam3d/Img/ZAM_Interface.jpg">&lt;/P>
+&lt;P>[&lt;A href="http://blogs.msdn.com/mswanson/archive/2005/04/11/407245.aspx">from Mike Swanson&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1757</id>
+    <title>Reviewers Should Be More Like Roger</title>
+    <updated>2005-04-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-11T07:00:00.000Z</published>
+    <summary>If you read the April 10th, 2005 review of my WinForms book, it has one feature that most of the other reviews don't have (and I don't mean pegging me as a "from the VB world" : ); Roger has placed his email address on the review! If everyone did that, I wouldn't spam the 5s, but I would follow up with the 1s, 2s and 3s to see what I could've done to improve the next edition. When I followed up with Roger, he had a bunch of specifics he'd have liked to see me fix. I don't agree with all of them, but you bet...</summary>
+    <content type="html">&lt;h1>Reviewers Should Be More Like Roger&lt;/h1>
+If you read &lt;A href="http://www.amazon.com/gp/product/customer-reviews/0321116208/">the April 10th, 2005 review of my WinForms book&lt;/A>, it has one feature that most of the other reviews don't have (and I don't mean pegging me as a "from the VB world" : ); Roger has placed his email address on the review! If everyone did that, I wouldn't spam the 5s, but I would follow up with the 1s, 2s and 3s to see what I could've done to improve the next edition. When I followed up with Roger, he had a bunch of specifics he'd have liked to see me fix. I don't agree with all of them, but you better believe he's on the list of reviewers for the second edition. Thanks, Roger!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1756</id>
+    <title>My First Week on an MS Product Team: Wallowing</title>
+    <updated>2005-04-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-11T07:00:00.000Z</published>
+    <summary>Here. The one where I describe the frustration and then enlightenment of my first week on a Microsoft product team. </summary>
+    <content type="html">&lt;h1>My First Week on an MS Product Team: Wallowing&lt;/h1>
+&lt;a href="/12473">Here&lt;/a>. &lt;P>The one where I describe &lt;a href="/12473">the frustration and then enlightenment of my first week on a Microsoft product team&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12473</id>
+    <title>My First Week on a Microsoft Product Team: Wallowing</title>
+    <updated>2005-04-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-11T07:00:00.000Z</published>
+    <summary>Last week was my first week on my new team. A lot of interesting things happened, some of which Don has already mentioned. For me, two especially interesting things happened. One, I found out why I was hired, in spite of my preference to work from kitchen most of the time, even though I'm working on a product group (which typically avoids my kind unless they've already worked for the team for a long time) and even though I'm working for a manager that's never had a remote employee (he doesn't even run IM!)....</summary>
+    <content type="html">&lt;h1>My First Week on a Microsoft Product Team: Wallowing&lt;/h1>
+&lt;p align="left">Last week was my first week on my new team. A lot of interesting things happened, some of which Don has already mentioned. For me, two especially interesting things happened. One, I found out why I was hired, in spite of my preference to work from kitchen most of the time, even though I'm working on a product group (which typically avoids my kind unless they've already worked for the team for a long time) and even though I'm working for a manager that's never had a remote employee (he doesn't even run IM!). Don't get me wrong; it's not like a skated through the interview process w/o &amp;quot;passing.&amp;quot; But &amp;quot;passing&amp;quot; isn't enough when you work in a &amp;quot;shower optional&amp;quot; environment (my house, not Microsoft : ). My team needs people with a skill that I've never seen applied to product development. Most of the people that have this skill are either a) already busy shipping Indigo or b) marked as a target (some of you should feel the laser sights on your forehead : ). The skill is the thing that allows me to write books and articles in my own special way. My team has a name for this skill; it's called &amp;quot;wallowing.&amp;quot;&lt;/p>&lt;p align="left">For my team, the ability to &amp;quot;wallow&amp;quot; means the ability to dig into a discipline, any discipline, and &amp;quot;wallow like a pig in the mud&amp;quot; in that new discipline, forming questions, getting to the root of things, gathering fragmented truths together into wholes, communicating the truths to each other, gaining intuition, and generally spending time understanding the space without first coming to firm conclusions about what it is that we're actually going to build. This skill is by far the most important thing I learned at DevelopMentor. The &amp;quot;popping&amp;quot; sound I got in my head when I finally figured out COM is something that I'll never forget (mostly because my head stopped hurting after 6 weeks of hurting very much) and it's served me well over the years. For example, I wrote my WinForms book not because I had a ton of &amp;quot;real-world experience&amp;quot; as my Amazon reviews claim, but because I knew very little about WinForms and was interested in learning. I wallowed in WinForms for 9 months, writing articles and an instructor-led short-course before ever writing a single word in my book. Once I'd wallowed, however, I was able to write the book itself in 5 months.&lt;/p>&lt;p align="left">So, while I've used to wallowing as a way to produce talks and prose, it's not a technique I've ever applied to product selection. In the past, I've come to a team where the goal was very clearly known, although the details were still up in the air (often 
+'til they were discovered as coding problems). I've even started my own software organization from scratch, but only after the core vision of what needed building came to me whole and I'd already built the prototype. However, with my new team, we've got a group of folks actively wallowing in a space, figuring out the right thing to build. This led to some initial frustration on my part.&lt;/p>&lt;p align="left">Actually, frustration is too weak; for the 3 days of my employment, I was a drooling idiot with no hope of recovery. I'm used to not knowing stuff (that's when the wallowing behavior is triggered), but I'm not used to not knowing what I don't know. The reason that I was so frustrated was that I didn't know my team was wallowing. My team has already been working together in this problem space for months. They've already put together a prototype and showed it to BillG. This evidence made think that the team already had a firm vision of what they were building, so I was in coming-to-a-team-to-help-build-a-known-product-mode as with every single product team I'd ever been on or heard of.&lt;/p>&lt;p align="left">Firmly in this mode, I spent my first 3 days in architecture meetings, brainstorming our way through the main issues of our &amp;quot;product.&amp;quot; At each meeting, it seemed like people had a firm idea of what they were building, because the items on the brainstorm list flowed like water from everyone but me. To give myself some ground on which to stand, I kept asking whether we were going to cover this customer scenario or that one and the answer would always be &amp;quot;yes.&amp;quot;&lt;/p>&lt;p align="left">This went on for three days and each day I felt like I knew less about what we were doing. Instead of drawing up a plan to build a v1 settlement on the moon, I felt like we were listing the issues associated with covering the entire surface with a 10-story city. My head was swimming. How could a brand new team be targeting that kind of scope? What the hell had I gotten myself into?!?&lt;/p>&lt;p align="left">I'm not the kind of person that keeps frustration to myself. I spent a good deal of time trying to express my despair to my boss and my new team mates, but it took me 3 days to be able to wind back my assumptions enough to be able to ask, &amp;quot;Do we even know what we're building?&amp;quot; The answer that shined light into my gloom was &amp;quot;no, we're wallowing.&amp;quot;&lt;/p>&lt;p align="left">And suddenly, all the conversations made sense. When they kept saying &amp;quot;yes,&amp;quot; they meant &amp;quot;yes, we're still considering that possibility.&amp;quot; We were discussing enough issues to cover the surface of the moon not because we were going to do that in v1, but because we were still figuring out the right place and kind of settlement to build. We'd picked the moon and we'd put up a tiny shed to see what it was like to live there, but we hadn't yet figured out what the next wave of settlers would need. And because we didn't want to die in the process or kill that next wave, we were going to spend some real time exploring to make sure we were proud of our first city.&lt;/p>&lt;p align="left">This process was a revelation to me. In the small to medium-sized software engineering projects in which I'd been involved to date, this kind of product planning was outside of my experience. I mean, even when I plan to wallow in the implementation details, I've never once wallowed in the issue of what to build. When I picked my WinForms book, I didn't survey the .NET developer landscape for their needs; I just picked something I was interested in. I got lucky, but in the case of other projects, I have been less so (and sometimes expensively, spectacularly less lucky).&lt;/p>&lt;p align="left">I told my sister-in-law this story and she was all ready to be upset for me. &amp;quot;You mean, they never told you? You signed up to do product development and they don't even know what they're building?&amp;quot; she asked. I told her that I wasn't upset at all. In retrospect, I was told that my team was wallowing, it's just that my preconceptions about what a product team does at Microsoft blocked it out.&lt;/p>&lt;p align="left">Further, this way of figuring out what to build is one I'm looking forward to. I've never been any good at this part of the product construction process. In fact, I once drove 2 hours north and cajoled Eric Sink into driving 2 hours south so that I could ask him how to answer this very question (micro-ISVs sound cool, don't they?). His advice was &amp;quot;fail fast.&amp;quot; That's good advice and, having talked to my new boss, it's something we'll be doing, but we hope to do it while exercising wallowing as a product selection technique.&lt;/p>&lt;p align="left">The second thing I learned this week is that, while I didn't know this 
+'til after my 3rd day, my team is still wallowing. I told my sister-in-law that I wasn't upset at all. I love wallowing. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1755</id>
+    <title>Hitchhiker's Guide Is Likely to Suck</title>
+    <updated>2005-04-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-10T07:00:00.000Z</published>
+    <summary>It may be that this review, saying how terrible the Hitchhiker's Guide move is, is actually funnier than the movie itself. He starts here: "The Hitchhiker&amp;#8217;s Guide to the Galaxy movie is bad. Really bad. You just won't believe how vastly, staggeringly, jaw-droppingly bad it is. I mean, you might think that The Phantom Menace was a hopelessly misguided attempt to reinvent a much-loved franchise by people who, though well-intentioned, completely failed to understand what made the original popular - but t...</summary>
+    <content type="html">&lt;h1>Hitchhiker's Guide Is Likely to Suck&lt;/h1>
+&lt;P>It may be that &lt;A href="http://planetmagrathea.com/shortreview.html">this review&lt;/A>, saying how terrible the Hitchhiker's Guide move is, is actually funnier than the movie itself. He starts here:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Hitchhiker&amp;#8217;s Guide to the Galaxy movie is bad. Really bad. You just won't believe how vastly, staggeringly, jaw-droppingly bad it is. I mean, you might think that The Phantom Menace was a hopelessly misguided attempt to reinvent a much-loved franchise by people who, though well-intentioned, completely failed to understand what made the original popular - but that's just peanuts to the Hitchhiker's movie. Listen."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>He then goes on to detail why the movie is bad, ending up here:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Hitchhiker&amp;#8217;s Guide to the Galaxy movie is an abomination. Whereas the radio show, TV show, books and computer game are all recognisably variations on a theme, this is something new and almost entirely unrelated. It&amp;#8217;s not even a good film if viewed as an original work: the characters are unsympathetic, the cast exhibit no chemistry, the direction is pedestrian, the pace plodding, the special effects overpowering (lots and lots of special effects, none of them funny mind you) and above all the script is amazingly, mindbogglingly awful. Oh, and they have taken most of the jokes out.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"This is a terrible, terrible film and it makes me want to weep."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>His obvious anguish makes me laugh. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1754</id>
+    <title>Geeks Rule and MBAs Drool</title>
+    <updated>2005-04-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-09T07:00:00.000Z</published>
+    <summary>Eric Sink takes a long, long time to say the following (learn to let go, Chris [1]...): "The following is an example of one of the most common questions I get from developers who are creating a brand new software company: "Where can I find a partner to be a co-founder and handle the business side of things? "My answer: Don't.... "Do all that stuff yourself. You need the experience anyway. If you really want a partner, don't find an MBA, find another geek like yourself. Don't be afraid to allow your company ...</summary>
+    <content type="html">&lt;h1>Geeks Rule and MBAs Drool&lt;/h1>
+&lt;P>&lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnsoftware/html/software04072005.asp">Eric Sink takes a long, long time to say the following&lt;/A> (learn to let go, Chris [1]...):&lt;/P>
+&lt;P>&lt;EM>"The following is an example of one of the most common questions I get from developers who are creating a brand new software company:&lt;/EM>&lt;/P>
+&lt;BLOCKQUOTE class=dtBlock>&lt;EM>"Where can I find a partner to be a co-founder and handle the business side of things?&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>&lt;EM>"My answer: Don't.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>...&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Do all that stuff yourself. You need the experience anyway. If you really want a partner, don't find an MBA, find another geek like yourself. Don't be afraid to allow your company to be very developer-centric for a very long time. By doing it this way, you'll avoid a lot of problems and you'll learn a lot."&lt;/EM>&lt;/P>
+&lt;P>Like agile programming, Eric has just given us permission to do what we want to do anyway. Wahoo!&lt;/P>
+&lt;P>[1] One of my favorite duties at MSDN used to be developmental editing on Eric's writing. I used to love how he'd work certain things into his piece, e.g. the thing my 9-year old son posts on his door, modulo s/Geeks/Boys and s/MBAs/Girls.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1753</id>
+    <title>Indigo Software Design Review Online</title>
+    <updated>2005-04-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-04-08T07:00:00.000Z</published>
+    <summary>Gene Webb, Microsoft developer evangelist, has posted the recorded LiveMeeting Indigo SDR (Software Design Review) dry-run videos and slides. And as if that weren't enough, you can see Steve Swartz, Indigo Architect, give an intro to Indigo on MSDN TV. I remember a day when SDRs were deep, secret mojo that even folks that knew about them were special, let along actually attending them. Now, we're posting them on the internet. I love my company. [ from Aaron Skonnard ] </summary>
+    <content type="html">&lt;h1>Indigo Software Design Review Online&lt;/h1>
+&lt;P>Gene Webb, Microsoft developer evangelist, has posted &lt;A href="http://blogs.msdn.com/genewebb/archive/2005/04/04/405240.aspx">the recorded LiveMeeting Indigo SDR (Software Design Review) dry-run videos and slides&lt;/A>. And as if that weren't enough, you can &lt;A href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20050407INDIGOSS/manifest.xml">see Steve Swartz, Indigo Architect, give an intro to Indigo on MSDN TV&lt;/A>.&lt;/P>
+&lt;P>I remember a day when SDRs were deep, secret mojo that even folks that &lt;EM>knew &lt;/EM>about them were special, let along actually &lt;EM>attending &lt;/EM>them. Now, we're posting them on the internet. I love my company.&lt;/P>
+&lt;P>[&lt;A href="http://pluralsight.com/blogs/aaron/archive/2005/04/06/7234.aspx">from Aaron Skonnard&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1752</id>
+    <title>The Distributed Systems Group Is Hiring</title>
+    <updated>2005-04-04T07:00:00.000Z</updated>
+    <published>2005-04-04T07:00:00.000Z</published>
+    <summary>My new group, DSG, is hiring: Program Manager Software Development Engineer "Join the Model Engine team and help make modeling a core feature of the Microsoft distributed application platform. We're building an engine and repository that supports a broad range of model domains, from the way we describe the structure of programs and data to the way that pieces of an application work together across machines and platforms. Using models makes it quicker to write programs, simpler to evolve them, and easier to ...</summary>
+    <content type="html">&lt;h1>The Distributed Systems Group Is Hiring&lt;/h1>
+&lt;P>My new group, DSG, is hiring:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.microsoft.com/careers/search/details.aspx?JobID=26417F97-11C9-4B4F-B411-A4592700A918">Program Manager&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/careers/search/details.aspx?JobID=FB667D15-1742-4D50-AF87-016634C06B65">Software Development Engineer&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>&lt;EM>"Join the Model Engine team and help make modeling a core feature of the Microsoft distributed application platform. We're building an engine and repository that supports a broad range of model domains, from the way we describe the structure of programs and data to the way that pieces of an application work together across machines and platforms. Using models makes it quicker to write programs, simpler to evolve them, and easier to analyze them. Model-driven development represents a major and fundamental shift in the way that software is built and managed; our team is chartered to bring those benefits to the people who are using our platform."&lt;/EM>&lt;/P>
+&lt;P>&lt;A href="http://www.microsoft.com/careers/resume/default.mspx">Submit your resume today!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1751</id>
+    <title>RegexDesigner Updated</title>
+    <updated>2005-04-04T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-04-04T07:00:00.000Z</published>
+    <summary>RegexDesigner has&amp;nbsp;been&amp;nbsp;updated to v1.1 &amp;nbsp;with support for replacement patterns, national and special symbol support, Ctrl+Tab hotkey support, updated highlighting support for color blind users, Ctrl+A support and the use of a bullet instead of @ for matched whitespace. Thanks to Victor Serbin for putting this update together from source contributed to the GDN workspace.</summary>
+    <content type="html">&lt;h1>RegexDesigner Updated&lt;/h1>
+&lt;A href="http://www.gotdotnet.com/workspaces/workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">RegexDesigner has&amp;nbsp;been&amp;nbsp;updated to v1.1&lt;/A>&amp;nbsp;with support for replacement patterns, national and special symbol support, Ctrl+Tab hotkey support, updated highlighting support for color blind users, Ctrl+A support and the use of a bullet instead of @ for matched whitespace. Thanks to Victor Serbin for putting this update together from source contributed to the GDN workspace.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1750</id>
+    <title>Omri pulls a Julia Andrews on Indigo</title>
+    <updated>2005-04-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-04-02T08:00:00.000Z</published>
+    <summary>You can hear Omri sing a few bars of "These are a few of my favorite things" to the tune of Indigo.</summary>
+    <content type="html">&lt;h1>Omri pulls a Julia Andrews on Indigo&lt;/h1>
+You can hear Omri &lt;A href="http://www.gazitt.com/OhmBlog/permalink.aspx/f70d4b0f-afe0-44c3-8231-c8a8f1a169a0">sing a few bars of "These are a few of my favorite things" to the tune of Indigo&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1749</id>
+    <title>Making XML More Aerodynamic</title>
+    <updated>2005-04-02T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-02T08:00:00.000Z</published>
+    <summary>In case you missed it yesterday, Don Box and Andrew Layman, two of Microsoft's top thinkers, proposed a means of increasing XML performance by looking into areas of technology outside the core domain of XML.</summary>
+    <content type="html">&lt;h1>Making XML More Aerodynamic&lt;/h1>
+In case you missed it yesterday, Don Box and Andrew Layman, two of Microsoft's top thinkers, proposed &lt;A href="http://strongbrains.com/misc/XMLPerf20050401.htm">a means of increasing XML performance&lt;/A> by looking into areas of technology outside the core domain of XML.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1746</id>
+    <title>Viva la IDL!</title>
+    <updated>2005-04-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-01T08:00:00.000Z</published>
+    <summary>I'm sure you've heard the uproar about "saving VB6" by now. Since I'm not a member of the VB programmer community, I don't feel qualified to judge them, their tools or their plight. However, I am a charter member of the COM community, so when I hear about Microsoft's plans to halt the support for IDL, I get burning mad! Save IDL! Sign the petition! Viva la IDL! </summary>
+    <content type="html">&lt;h1>Viva la IDL!&lt;/h1>
+&lt;P>I'm sure you've heard the uproar about &lt;A href="http://classicvb.org/">"saving VB6"&lt;/A> by now. Since I'm not a member of the VB programmer community, I don't feel qualified to judge them, their tools or their plight.&lt;/P>
+&lt;P>However, I &lt;EM>am&lt;/EM> a charter member of the COM community, so when I hear about &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/midl/midl/using_the_midl_compiler_2.asp">Microsoft's plans to halt the support for IDL&lt;/A>, I get burning mad! &lt;A href="http://www.classicidl.org/">Save IDL!&lt;/A> &lt;A href="http://www.classicidl.org/petition.htm">Sign the petition!&lt;/A> Viva la IDL!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12474</id>
+    <title>My First New Job at Microsoft</title>
+    <updated>2005-04-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-01T08:00:00.000Z</published>
+    <summary>Today's my last day at MSDN. I will no longer be content strategizing for Longhorn/WinFX or smart clients or acting as liaison between marketing, evangelism and the product teams internally and developers externally. And I'm really going to miss it. MSDN took a flier on me being a successful Microsoft employee in a culture that doesn't much like remote folk and made a very comfortable home for me. I could've gone on for a long time in that role. Still, I felt another calling. At Microsoft, it seems like all...</summary>
+    <content type="html">&lt;h1>My First New Job at Microsoft&lt;/h1>
+&lt;p align="left">Today's my last day at MSDN. I will no longer be content strategizing for Longhorn/WinFX or smart clients or acting as liaison between marketing, evangelism and the product teams internally and developers externally. And I'm really going to miss it. MSDN took a flier on me being a successful Microsoft employee in a culture that doesn't much like remote folk and made a very comfortable home for me. I could've gone on for a long time in that role.&lt;/p>&lt;p align="left">Still, I felt another calling. At Microsoft, it seems like all of the action is with the product teams. To come to Microsoft as a software engineer and not work on a product team seemed like starting with the Yankees but never getting out of the dugout.&lt;/p>&lt;p align="left">So, on Monday, I start in DSG (the Distributed Systems Group) aka the team that owns Indigo. I'll be &amp;quot;are looking at ways to extend the notions of modeling that we've incorporated deeply into the stack and make them more general&amp;quot; (or so my new boss says). I can't tell begin to describe how lucky I feel. Not only do I get to be on a real product team, still mostly from my house in Oregon, but I get to work on a very juicy problem. Further, I get to do it with Oliver Sharp, one of the prime movers on the Indigo team, along with a growing group of other people way smarter than I. It reminds me of the heyday of a certain training company with which I once had a deep relationship.&lt;/p>&lt;p align="left">Two weeks ago, Oliver sent me a list of 10 fun computer sciency things to dig into that could take months. Last week I was helping the team get ready for a BillG review. This week I was trading emails &lt;span style="font-size: 12.0pt; font-family: Times New Roman">with the team and a Sr. VP &lt;/span>on the direction of the market and how it affects our product plans. Is this what it's like for an addict that's given up their habit to take it up again? If software engineering is wrong, I don't want to be right! : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1748</id>
+    <title>My First New Job at Microsoft</title>
+    <updated>2005-04-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-01T08:00:00.000Z</published>
+    <summary>Here. The one where I stop working for MSDN.</summary>
+    <content type="html">&lt;h1>My First New Job at Microsoft&lt;/h1>
+&lt;a href="/12474">Here&lt;/a>. The one where &lt;a href="/12474">I stop working for MSDN&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1747</id>
+    <title>Visual Studio 2005 Linux Edition</title>
+    <updated>2005-04-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-01T08:00:00.000Z</published>
+    <summary>"I first heard about it at a Seattle area Starbucks. I mean, I was just like sitting there drinking my Venti no-whip triple shot soy latte and I looked over at this dude sitting next to me who was working on a laptop and I saw something on his screen. So I said "Dude is that the new version of Eclipse?" and he said "No, it's Visual Studio 2005 Linux Edition ". Then he typed a few lines of code and created an Indigo service that runs on the Apache web server. I was like "Dude!" and almost spilled my latte." ...</summary>
+    <content type="html">&lt;h1>Visual Studio 2005 Linux Edition&lt;/h1>
+&lt;P>&lt;EM>"I first heard about it at a Seattle area Starbucks. I mean, I was just like sitting there drinking my Venti no-whip triple shot soy latte and I looked over at this dude sitting next to me who was working on a laptop and I saw something on his screen. So I said "Dude is that the new version of Eclipse?" and he said "No, it's &lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=33023">Visual Studio 2005 Linux Edition&lt;/A>". Then he typed a few lines of code and created an Indigo service that runs on the Apache web server. I was like "Dude!" and almost spilled my latte."&lt;BR>&lt;/EM>&lt;EM>--Anonymous Seattle Youth&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"We still believe that Java is a strong language for development. However, we will no longer continue to build on that technology preferring instead to &lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=33023">move developers to .NET&lt;/A>."&lt;BR>&lt;/EM>&lt;EM>--Anonymous Sun Representative&lt;/EM>&lt;/P></content>
+  </entry>
+</feed>

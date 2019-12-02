@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed126.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed125.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed127.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed126.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/650</id>
+    <title>RSS vs. Echo at Applied XML Dev.Conf.</title>
+    <updated>2003-07-03T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-03T07:00:00.000Z</published>
+    <summary>Here. With Dave Winer on the side of RSS [1]giving the Day 1 Keynote and Sam Ruby on the side of Echo [2] speaking the very next day, the Applied XML Developer's Conference is bound to be a rip-roaring good time. I can't wait. : ) [1] http://intertwingly.net/blog/
+[2] http://www.scripting.com
+</summary>
+    <content type="html">&lt;h1>RSS vs. Echo at Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. With Dave Winer on the side of RSS [1]giving the Day 1 Keynote and Sam Ruby on the side of Echo [2] speaking the very next day, the Applied XML Developer's Conference is bound to be a rip-roaring good time. I can't wait. : )
+
+[1] http://intertwingly.net/blog/
+[2] http://www.scripting.com
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/643</id>
+    <title>VS.NET Project &amp; Solution Converter</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. I just know that folks are going to need to be able to convert between VS.NET 2002 and 2003 projects and solutions for a while yet, so here's a free, extensible conversion tool to do the job.</summary>
+    <content type="html">&lt;h1>VS.NET Project &amp; Solution Converter&lt;/h1>
+&lt;a href="http://jsp.mobikom.com/stoyan/vspc/vspc.html">Here&lt;/a>. I just know that folks are going to need to be able to convert between VS.NET 2002 and 2003 projects and solutions for a while yet, so here's a free, extensible conversion tool to do the job.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/645</id>
+    <title>Spout: Learning to Learn</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. The one where I talk about the most important thing I ever learned.</summary>
+    <content type="html">&lt;h1>Spout: Learning to Learn&lt;/h1>
+&lt;a href="/12544">Here&lt;/a>. The one where I talk about the most important thing I ever learned.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/649</id>
+    <title>Bill Gates on Longhorn</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. Besides the cool scenarios BillG mentions that that Longhorn will enable, I like his answer to USA Today asking how long it will be before Longhorn is available: "Years. At this time we're doing the prototyping — feasibility studies, performance studies. We don't have a date because what we have is a technological breakthrough that we have to really make sure we refine and get right. Then we'll get to the point where we'll set up an engineering schedule."</summary>
+    <content type="html">&lt;h1>Bill Gates on Longhorn&lt;/h1>
+&lt;a href="http://www.usatoday.com/tech/news/2003-06-29-gates-longhorn_x.htm">Here&lt;/a>. Besides the cool scenarios BillG mentions that that Longhorn will enable, I like his answer to USA Today asking how long it will be before Longhorn is available:
+
+"Years. At this time we're doing the prototyping — feasibility studies, performance studies. We don't have a date because what we have is a technological breakthrough that we have to really make sure we refine and get right. Then we'll get to the point where we'll set up an engineering schedule."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/648</id>
+    <title>Bill Gates' take on subjects from spam to Mozambiq</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. I really like how BillG answers questions in general and this USA today interview covers lots of interesting ground, including BillG's take on spam, boring companies, Longhorn &amp; Linux. Enjoy.</summary>
+    <content type="html">&lt;h1>Bill Gates' take on subjects from spam to Mozambiq&lt;/h1>
+&lt;a href="http://www.usatoday.com/tech/news/2003-06-29-gates-interview_x.htm">Here&lt;/a>. I really like how BillG answers questions in general and this USA today interview covers lots of interesting ground, including BillG's take on spam, boring companies, Longhorn &amp; Linux. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/644</id>
+    <title>Registration-less COM to .NET Wrapper Tool Beta</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. Aurigma has posted the beta for a COM to.NET wrapper generation tool that doesn't require the COM server to be registered, which is nice for hosted scenarios. It also generates the wrapper code for you to see and edit for your own purposes. Interesting.</summary>
+    <content type="html">&lt;h1>Registration-less COM to .NET Wrapper Tool Beta&lt;/h1>
+&lt;a href="http://www.aurigma.com/Products/COMtoNET/">Here&lt;/a>. Aurigma has posted the beta for a COM to .NET wrapper generation tool that doesn't require the COM server to be registered, which is nice for hosted scenarios. It also generates the wrapper code for you to see and edit for your own purposes. Interesting.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/647</id>
+    <title>Microsoft beats Linux in trio of govt contracts</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. The question isn't which one is cheaper up front. The question is whether which one provides better value overall.</summary>
+    <content type="html">&lt;h1>Microsoft beats Linux in trio of govt contracts&lt;/h1>
+&lt;a href="http://famulus.msnbc.com/famuluscom/reuters07-01-100552.asp?sym=MSFT">Here&lt;/a>. The question isn't which one is cheaper up front. The question is whether which one provides better value overall.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/646</id>
+    <title>The Danger of Good Debate Skills</title>
+    <updated>2003-07-01T07:00:00.000Z</updated>
+    <published>2003-07-01T07:00:00.000Z</published>
+    <summary>Here. The one where I need to be very careful to listen to good ideas from anyone, even if they haven't been a professional speaker.</summary>
+    <content type="html">&lt;h1>The Danger of Good Debate Skills&lt;/h1>
+&lt;a href="/12543">Here&lt;/a>. The one where I need to be very careful to listen to good ideas from anyone, even if they haven't been a professional speaker.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/642</id>
+    <title>Applied XML Dev.Conf. Talks Coming In</title>
+    <updated>2003-06-30T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-06-30T07:00:00.000Z</published>
+    <summary>Here. Today is the deadline for the Applied XML Developers's Conference and almost half of the slides are in already. I like to leave things 'til the last minute so that the conference always has the speakers freshest thinking. Of course, one of the perks of running a conference is that you get a peak at things early. These talks look really fun. Can't wait to see them presented.</summary>
+    <content type="html">&lt;h1>Applied XML Dev.Conf. Talks Coming In&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Today is the deadline for the Applied XML Developers's Conference and almost half of the slides are in already. I like to leave things 'til the last minute so that the conference always has the speakers freshest thinking.
+
+Of course, one of the perks of running a conference is that you get a peak at things early. These talks look really fun. Can't wait to see them presented.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12409</id>
+    <title>Chris's Notes on The Motley Fool Investment Guide</title>
+    <updated>2003-06-29T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-29T07:00:00.000Z</published>
+    <summary>Chris's Notes on The Motley Fool Investment Guide: How The Fool Beats Wall Streets Wise Men And How You Can Too, David Gardner, Tom Gardner, Fireside, 1997. I don't recommend this book for anything but an example of the hubris that was rampant during the Internet bubble and a few chapters that hold the reader's hand making the markets seem approachable. In general, I recommend Peter Lynch's Learn to Earn for the hand holding instead. </summary>
+    <content type="html">&lt;h1>Chris's Notes on The Motley Fool Investment Guide&lt;/h1>
+
+		&lt;p>Chris's Notes on
+		&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0743201736/chrissells">
+		The Motley Fool Investment Guide: How The Fool Beats Wall Streets Wise 
+		Men And How You Can Too, David Gardner, Tom Gardner, Fireside, 1997&lt;/a>. 
+		I don't recommend this book for anything but an example of the hubris 
+		that was rampant during the Internet bubble and a few chapters that hold 
+		the reader's hand making the markets seem approachable.&lt;/p>
+		&lt;p>In general, I recommend
+		&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0684811634/chrissells">
+		Peter Lynch's Learn to Earn&lt;/a> for the hand holding instead.&lt;/p>
+		</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12407</id>
+    <title>Chris's Notes on The Instant Millionaire</title>
+    <updated>2003-06-29T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-29T07:00:00.000Z</published>
+    <summary>Chris's Notes on The Instant Millionaire: A Tale of Wisdom and Wealth, Mark Fisher, New World Library, 1991. I recommend this book for folks that are willing to believe that the act of willing something to happen hard enough will make it happen. On the one hand, I've solved many an engineering problem by simply letting my subconscious know that it needed solving. On the other hand, I've never been able to successfully wish for something to happen. The question is whether you view this book as channeling you...</summary>
+    <content type="html">&lt;h1>Chris's Notes on The Instant Millionaire&lt;/h1>
+
+		&lt;p>Chris's Notes on
+		&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0931432723/chrissells">
+		The Instant Millionaire: A Tale of Wisdom and Wealth, Mark Fisher, New 
+		World Library, 1991&lt;/a>. I recommend this book for folks that are 
+		willing to believe that the act of willing something to happen hard 
+		enough will make it happen.&lt;/p>
+		&lt;p>On the one hand, I've solved many an engineering problem by simply 
+		letting my subconscious know that it needed solving. On the other hand, 
+		I've never been able to successfully wish for something to happen. The 
+		question is whether you view this book as channeling your subconscious 
+		energies into finding ways of making your dreams of financial 
+		independence come true or whether you view it as a fairy tale.&lt;/p>
+		</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12410</id>
+    <title>The "Average Return" Myth</title>
+    <updated>2003-06-29T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-29T07:00:00.000Z</published>
+    <summary>Let's say that you have $1000 to invest. The first year, you invest it and get a 25% return, so you leave your money invested. The next year, the market doesn't do as well and your return is -15%. What's the average rate of return over the two years? You way think that it's 5%, that is, (25% + (-15%))/2. Let's do the math for 25% and -15%: Using simple interest, after 1 year, $1000 + $1000 * 25% = $1250 After 2 years, $1250 + $1250 * -15% = $1062.50 Here we're using Interest = Principle * Rate * Time calcul...</summary>
+    <content type="html">&lt;h1>The "Average Return" Myth&lt;/h1>
+
+		&lt;p>Let's say that you have $1000 to invest. The first year, you invest 
+		it and get a 25% return, so you leave your money invested. The next 
+		year, the market doesn't do as well and your return is -15%. What's the 
+		average rate of return over the two years? You way think that it's 5%, 
+		that is, (25% + (-15%))/2. Let's do the math for 25% and -15%:&lt;/p>
+		&lt;ul>
+			&lt;li>Using simple interest, after 1 year, $1000 + $1000 * 25% = $1250&lt;/li>
+			&lt;li>After 2 years, $1250 + $1250 * -15% = $1062.50&lt;/li>
+		&lt;/ul>
+		&lt;p>Here we're using Interest = Principle * Rate * Time calculation for 
+		yearly aka simple interest (I = PRT and Time is 1 year). Taking the 
+		numbers the other way, i.e. -15% the first year and 25% the next year, 
+		yields &lt;i>the same result&lt;/i>:&lt;/p>
+		&lt;ul>
+			&lt;li>After 1 year, $1000 + $1000 * -15% = $850&lt;/li>
+			&lt;li>After 2 years, $850 + $850 * 25% = $1062.50&lt;/li>
+		&lt;/ul>
+		&lt;p>In fact, the result is the same no matter in which order that the 
+		rates come or how many there are:&lt;/p>
+		&lt;p>&lt;b>Table 1: From Good to Bad&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" id="table6">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				0&lt;/td>
+				&lt;td align="right" x:num style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0&lt;/td>
+				&lt;td x:num="1000" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,000.00 &lt;/b>&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="0.25" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1250" x:fmla="=C2+C2*B3" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,250.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="1437.5" x:fmla="=C3+C3*B4" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,437.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1509.375" x:fmla="=C4+C4*B5" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,509.38 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="-0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="1433.90625" x:fmla="=C5+C5*B6" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,433.91 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="-0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="1218.8203125" x:fmla="=C6+C6*B7" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,218.82&lt;/b> &lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>&lt;b>Table 2: Starting Bad to Good&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" id="table7">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				0&lt;/td>
+				&lt;td align="right" x:num style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0&lt;/td>
+				&lt;td x:num="1000" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,000.00 &lt;/b>&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="-0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="850" x:fmla="=C2+C2*B3" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 850.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="-0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="807.5" x:fmla="=C3+C3*B4" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 807.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="847.875" x:fmla="=C4+C4*B5" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 847.88 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="975.05624999999998" x:fmla="=C5+C5*B6" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 975.06 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="0.25" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1218.8203125" x:fmla="=C6+C6*B7" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,218.82 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>&lt;b>Table 3: A Mixed Bag&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" id="table8">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				0&lt;/td>
+				&lt;td align="right" x:num style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0&lt;/td>
+				&lt;td x:num="1000" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>&amp;nbsp;$1,000.00 &lt;/b>&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="0.25" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1250" x:fmla="=C2+C2*B3" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,250.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="-0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="1062.5" x:fmla="=C3+C3*B4" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,062.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1115.625" x:fmla="=C4+C4*B5" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,115.63 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="0.15" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="1282.96875" x:fmla="=C5+C5*B6" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,282.97 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="-0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="1218.8203125" x:fmla="=C6+C6*B7" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,218.82 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>This result surprised me. I found it unintuitive that no matter how 
+		the rates vary over time, it doesn't matter if they come first, last or 
+		in between. I expected large losses up front to swamp later gains or 
+		early gains to make up for late losses, but the change of the underlying 
+		principle amount evens things out, e.g. a smaller percentage drop later 
+		is against a larger principle if there have been early gains.&lt;/p>
+		&lt;p>When you figure it as a single formula, Future Value = Principle * 
+		(1+Rate1) * (1+Rate2) * (1+Rate3) * (1+Rate4) * (1+Rate5) or F = 
+		P*(1+R1)*(1+R2)*(1+R3)*(1+R4)*(1+R5), the independence of the order 
+		makes more sense, since multiplication is commutative, i.e. it doesn't 
+		matter in what order you do it:&lt;/p>
+		&lt;pre>f = p*    (1+r1)* (1+r2)* (1+r3)*(1+r4)* (1+r5)
+f = $1000*(1+25%)*(1+15%)*(1+5%)*(1-5%)* (1-15%) = $1218.82
+f = $1000*(1-15%)*(1-5%)* (1+5%)*(1+15%)*(1+25%) = $1218.82
+f = $1000*(1+25%)*(1-15%)*(1+5%)*(1+15%)*(1-5%)  = $1218.82&lt;/pre>
+		&lt;p>Having varied rates like in Tables 1-3 in a stock or stock mutual 
+		fund investment isn't uncommon (as we've just seen during and after the 
+		Internet bubble). On the other hand, if you compare this a fixed yield 
+		(like a bond) with our &amp;quot;average rate of return&amp;quot; of 5%, you'll see a 
+		different result:&lt;/p>
+		&lt;p>&lt;b>Table 4: Small But Fixed Rate of Return&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" id="table9">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				0&lt;/td>
+				&lt;td align="right" x:num style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0&lt;/td>
+				&lt;td x:num="1000" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>&amp;nbsp;$1,000.00 &lt;/b>&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1050" x:fmla="=C2+C2*B3" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,050.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1102.5" x:fmla="=C3+C3*B4" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,102.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1157.625" x:fmla="=C4+C4*B5" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,157.63 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1215.5062499999999" x:fmla="=C5+C5*B6" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,215.51 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="0.05" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1276.2815624999998" x:fmla="=C6+C6*B7" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>&amp;nbsp;$1,276.28 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>With a fixed interest rate, we can simply our calculations somewhat 
+		using Future value = Principle * (1 + Rate)^Number of compounds. So, 
+		$1000 at 5% for 5 years is:&lt;/p>
+		&lt;pre>f = p*(1+r)^n
+f = $1000 * (1 + 5%)^5
+f = $1000 * (1.05)^5
+f = $1276.28&lt;/pre>
+		&lt;p>Any way you calculate it, not only does the boring, fixed interest 
+		rate bond out-perform the variable rate even for the same average rate 
+		of return, but clearly our average rate of return calculation isn't very 
+		useful. We're not really getting 5% year to year on our varied stock 
+		rates of return, or they'd show the same results as the bond. Instead, 
+		if you reverse the formula for Rate, we get:&lt;/p>
+		&lt;pre>r = (f/p)^(1/n) - 1
+r = ($1218.82/$1000)^(1/5) -1
+r = 1.21882^(1/5) -1
+r = 4.037%&lt;/pre>
+		&lt;p>This gives us a &lt;i>annualized rate of return&lt;/i>:&lt;/p>
+		&lt;p>&lt;b>Table 5: Annualized Rate of Return&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="204" style="border-collapse:
+ collapse;width:153pt" id="table10">
+			&lt;colgroup>
+				&lt;col width="64" style="width:48pt">
+				&lt;col width="68" style="width: 51pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="68" style="width: 51pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				0&lt;/td>
+				&lt;td align="right" x:num style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0&lt;/td>
+				&lt;td x:num="1000" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;&lt;b>$1,000.00 &lt;/b>&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="4.0370000000000003E-2" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>4.037%&lt;/b>&lt;/td>
+				&lt;td x:num="1040.37" x:fmla="=C2+C2*B3" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,040.37 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="4.0370000000000003E-2" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>4.037%&lt;/b>&lt;/td>
+				&lt;td x:num="1082.3697368999999" x:fmla="=C3+C3*B4" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,082.37 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="4.0370000000000003E-2" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>4.037%&lt;/b>&lt;/td>
+				&lt;td x:num="1126.0650031786529" x:fmla="=C4+C4*B5" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,126.07 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="4.0370000000000003E-2" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>4.037%&lt;/b>&lt;/td>
+				&lt;td x:num="1171.5242473569751" x:fmla="=C5+C5*B6" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,171.52 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="4.0370000000000003E-2" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>4.037%&lt;/b>&lt;/td>
+				&lt;td x:num="1218.8186812227761" x:fmla="=C6+C6*B7" style="color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&lt;b>1,218.82 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>Taking this further, because the future value of an investment is the 
+		same whether you consider a fixed rate of return or a variable rate of 
+		return, for any principle, you can calculate the fixed rate of return by 
+		deriving from this formula (assuming r0 is the fixed rate of return and 
+		r1-r5 are the variable rates of return):&lt;/p>
+		&lt;pre>p*(1+r0)^n = p*(1+r1)*(1+r2)*(1+r3)*(1+r4)*(1+r5)&lt;/pre>
+		&lt;p>Further, because principle plays the same role on each side of the 
+		equation, you can remove it:&lt;/p>
+		&lt;pre>(1+r0)^n = (1+r1)*(1+r2)*(1+r3)*(1+r4)*(1+r5)&lt;/pre>
+		&lt;p>Solving for the annualized rate of return from the variable rates of 
+		return gives you this:&lt;/p>
+		&lt;pre>r0 = ((1+r1)*(1+r2)*(1+r3)*(1+r4)*(1+r5))^(1/n) - 1&lt;/pre>
+		&lt;p>Applying it in our example:&lt;/p>
+		&lt;pre>r0 = ((1+25%)*(1+15%)*(1+5%)*(1-5%)*(1-15%))^(1/5) - 1
+r0 = (1.25*1.15*1.05*0.95*0.85)^(1/5) - 1
+r0 = 4.037%&lt;/pre>
+		&lt;p>So what happens when we increase the variability, but leave the 
+		average 
+		rate of return the same? The variability adjusted return gets smaller:&lt;/p>
+		&lt;p>&lt;b>Table 6: Extended Variability&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" u1:str id="table11">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" u1:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				0&lt;/td>
+				&lt;td align="right" x:num="0" u1:num style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0%&lt;/td>
+				&lt;td x:num="1000" u1:num="1000" style="font-weight: 700; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,000.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="0.25" u1:num="0.25" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1250" x:fmla="=C2*(1+B3)" u1:num="1250" u1:fmla="=C2+C2*B3" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,250.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="-0.15" u1:num="-0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="1062.5" x:fmla="=C3*(1+B4)" u1:num="1250" u1:fmla="=C2+C2*B3" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,062.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" u1:num="0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1115.625" x:fmla="=C4*(1+B5)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,115.63 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="0.15" u1:num="0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="1282.96875" x:fmla="=C5*(1+B6)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,282.97 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="-0.05" u1:num="-0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="1218.8203125" x:fmla="=C6*(1+B7)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,218.82 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				6&lt;/td>
+				&lt;td align="right" x:num="0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1279.7613281250001" x:fmla="=C7*(1+B8)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,279.76 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				7&lt;/td>
+				&lt;td align="right" x:num="-0.25" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-25%&lt;/td>
+				&lt;td x:num="959.82099609375007" x:fmla="=C8*(1+B9)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 959.82 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				8&lt;/td>
+				&lt;td align="right" x:num="0.4" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>40%&lt;/b>&lt;/td>
+				&lt;td x:num="1343.7493945312501" x:fmla="=C9*(1+B10)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,343.75 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				9&lt;/td>
+				&lt;td align="right" x:num="-0.3" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-30%&lt;/td>
+				&lt;td x:num="940.62457617187499" x:fmla="=C10*(1+B11)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$&amp;nbsp;&amp;nbsp; 940.62 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				10&lt;/td>
+				&lt;td align="right" x:num="0.35" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>35%&lt;/b>&lt;/td>
+				&lt;td x:num="1269.8431778320314" x:fmla="=C11*(1+B12)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>&amp;nbsp;$1,269.84 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>Notice that we're still got an average rate of return of 5%, 
+		but increasing the variability gives us an annualized rate of return of 
+		2.42%.&lt;/p>
+		&lt;p>On the other hand, extending the same average without 
+		increasing the variability looks like this:&lt;/p>
+		&lt;p>&lt;b>Table 7: Extended Time, Variability Unchanged&lt;/b>&lt;/p>
+		&lt;table x:str border="0" cellpadding="0" cellspacing="0" width="200" style="border-collapse:
+ collapse;width:150pt" id="table12">
+			&lt;colgroup>
+				&lt;col width="64" span="2" style="width:48pt">
+				&lt;col width="72" style="width: 54pt">
+			&lt;/colgroup>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" width="64" style="height: 12.75pt; width: 48pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				year&lt;/td>
+				&lt;td width="64" style="width: 48pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				return&lt;/td>
+				&lt;td width="72" style="width: 54pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" u1:str="total">
+				&amp;nbsp;total&amp;nbsp;&lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				0&lt;/td>
+				&lt;td align="right" x:num="0" u1:num style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				0%&lt;/td>
+				&lt;td x:num="1000" u1:num="1000" style="font-weight: 700; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,000.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				1&lt;/td>
+				&lt;td align="right" x:num="0.25" u1:num="0.25" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1250" x:fmla="=C2*(1+B3)" u1:num="1250" u1:fmla="=C2+C2*B3" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,250.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				2&lt;/td>
+				&lt;td align="right" x:num="-0.15" u1:num="-0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="1062.5" x:fmla="=C3*(1+B4)" u1:num="1250" u1:fmla="=C2+C2*B3" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,062.50 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				3&lt;/td>
+				&lt;td align="right" x:num="0.05" u1:num="0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1115.625" x:fmla="=C4*(1+B5)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,115.63 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				4&lt;/td>
+				&lt;td align="right" x:num="0.15" u1:num="0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="1282.96875" x:fmla="=C5*(1+B6)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,282.97 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num u1:num>
+				5&lt;/td>
+				&lt;td align="right" x:num="-0.05" u1:num="-0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="1218.8203125" x:fmla="=C6*(1+B7)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,218.82 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				6&lt;/td>
+				&lt;td align="right" x:num="0.25" u1:num="0.25" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				25%&lt;/td>
+				&lt;td x:num="1523.525390625" x:fmla="=C7*(1+B8)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,523.53 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				7&lt;/td>
+				&lt;td align="right" x:num="-0.15" u1:num="-0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-15%&lt;/td>
+				&lt;td x:num="1294.99658203125" x:fmla="=C8*(1+B9)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,295.00 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				8&lt;/td>
+				&lt;td align="right" x:num="0.05" u1:num="0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				5%&lt;/td>
+				&lt;td x:num="1359.7464111328125" x:fmla="=C9*(1+B10)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,359.75 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				9&lt;/td>
+				&lt;td align="right" x:num="0.15" u1:num="0.15" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				15%&lt;/td>
+				&lt;td x:num="1563.7083728027342" x:fmla="=C10*(1+B11)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&amp;nbsp;$1,563.71 &lt;/td>
+			&lt;/tr>
+			&lt;tr height="17" style="height:12.75pt">
+				&lt;td height="17" align="right" style="height: 12.75pt; font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px" x:num>
+				10&lt;/td>
+				&lt;td align="right" x:num="-0.05" u1:num="-0.05" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				-5%&lt;/td>
+				&lt;td x:num="1485.5229541625974" x:fmla="=C11*(1+B12)" style="font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px">
+				&lt;b>&amp;nbsp;$1,485.52 &lt;/b>&lt;/td>
+			&lt;/tr>
+		&lt;/table>
+		&lt;p>In this case, when the variability remains unchanged, the annualized rate of return remains unchanged at 4.037%. In other words, as 
+		the variability increases, the annualized rate of return gets further 
+		away and lower than the simple average rate. On the 
+		other hand, as the variability decreases, the annualized rate 
+		approaches the maximum value of a fixed rate of return, i.e. zero 
+		variability.&lt;/p>
+		&lt;p>So, while it's comforting that so long as your investment doesn't go 
+		to zero, it doesn't matter when the highs and lows come, it's somewhat 
+		unintuitive that the average rate of return is not what you want to use 
+		to calculate the rate of return that you're actually getting. In fact, the 
+		annualized rate of return will always 
+		be lower than the average rate as variability increases.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12406</id>
+    <title>Chris's Notes on Stock Options for Dummies</title>
+    <updated>2003-06-29T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-29T07:00:00.000Z</published>
+    <summary>Chris's Notes on Stock Options For Dummies, Alan R. Simon, Wiley Publishing, Inc., 2001. I recommend this book for folks that need to know the details of their company's stock options, although the details aren't interesting enough or important enough to warrant a book of this size, especially given how worthless most company's stock options are these days. I bought this book when I was too stupid to recognize it as a book about a company's stock options instead of about publicly traded options. In general,...</summary>
+    <content type="html">&lt;h1>Chris's Notes on Stock Options for Dummies&lt;/h1>
+
+		&lt;p>Chris's Notes on
+		&lt;a href="http://www.amazon.com/exec/obidos/ASIN/076455364X/chrissells">
+		Stock Options For Dummies, Alan R. Simon, Wiley Publishing, Inc., 2001&lt;/a>. 
+		I recommend this book for folks that need to know the details of their 
+		company's stock options, although the details aren't interesting enough 
+		or important enough to warrant a book of this size, especially given how 
+		worthless most company's stock options are these days.&lt;/p>
+		&lt;p>I bought this book when I was too stupid to recognize it as a book 
+		about a company's stock options instead of about publicly traded 
+		options. In general, the strategy that I've developed if I ever get the 
+		opportunity to exercise company stock options is as follows:&lt;/p>
+		&lt;ol>
+			&lt;li>Exercise stock options as soon as possible, paying taxes as 
+			appropriate&lt;/li>
+			&lt;li>Hold stocks for at least one year to reduce taxes on gains from 
+			normal income tax rates, e.g. ~30%, to the long-term capital gain 
+			tax rate, 15%, using 0 as the basis and subtracting the taxes 
+			already paid in step 1&lt;/li>
+		&lt;/ol>
+		&lt;p>Doesn't seem like enough for an entire book...&lt;/p>
+		</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12408</id>
+    <title>Chris's Notes on All the Math You Need to Get Rich</title>
+    <updated>2003-06-29T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-29T07:00:00.000Z</published>
+    <summary>Chris's Notes on All the Math You Need to Get Rich: Thinking with Numbers for Financial Success, Robert L. Hershey, Open Court Pub Co, 2001. I recommend this book for the basics it covers, the slim size, the exercises and the approachable text. I graduated from high school with all kinds of wonderful math grades (I finished all of my high school math a year early and had to attend a calculus course at a nearby college in my senior year), but managed to get out without a firm grasp of some simple ideas. Spec...</summary>
+    <content type="html">&lt;h1>Chris's Notes on All the Math You Need to Get Rich&lt;/h1>
+
+		&lt;p>Chris's Notes on
+		&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0812694473/chrissells">
+		All the Math You Need to Get Rich: Thinking with Numbers for Financial 
+		Success, Robert L. Hershey, Open Court Pub Co, 2001&lt;/a>. I recommend 
+		this book for the basics it covers, the slim size, the exercises and the 
+		approachable text.&lt;/p>
+		&lt;p>I graduated from high school with all kinds of wonderful math grades 
+		(I finished all of my high school math a year early and had to attend a 
+		calculus course at a nearby college in my senior year), but managed to 
+		get out without a firm grasp of some simple ideas. Specifically, I never 
+		learned why it is that when I make a fixed house payment, the actual 
+		amount that goes to the interest and to the principle varies each month. 
+		The reason this is (as I'm sure all of my readers already know) is 
+		because the interest is only paid against the outstanding principle that 
+		remains on the total loan each month. It's just like compound interest 
+		in reverse (an idea that I always did understand).&lt;/p>
+		&lt;p>I haven't been reading this book cover to cover (I already know how 
+		fractions, scientific notation and fractions work), but this one fact 
+		alone makes this book worth the price. Plus, it makes a wonderful 
+		reference (this is where I got F=P(1+R)^N used in
+		&lt;a href="#The_Average_Return_Myth">The &amp;quot;Average Return&amp;quot; Myth&lt;/a>). The 
+		world needs more short, focused, well-written books.&lt;/p>
+		</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/640</id>
+    <title>Register for the Microsoft PDC</title>
+    <updated>2003-06-27T07:00:00.000Z</updated>
+    <published>2003-06-27T07:00:00.000Z</published>
+    <summary>Here. "PDC is a critical event for any developer who wants to see the debut of next-generation technology. Look into the future of Microsoft® Platform Software—Windows® 'Longhorn,' SQL Server 'Yukon,' Visual Studio® 'Whidbey,' and others—with the developers who wrote the code. Register today."</summary>
+    <content type="html">&lt;h1>Register for the Microsoft PDC&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. "PDC is a critical event for any developer who wants to see the debut of next-generation technology. Look into the future of Microsoft® Platform Software—Windows® 'Longhorn,' SQL Server 'Yukon,' Visual Studio® 'Whidbey,' and others—with the developers who wrote the code. Register today."</content>
+  </entry>
+</feed>

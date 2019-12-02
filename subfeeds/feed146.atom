@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed146.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed145.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed147.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed146.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/380</id>
+    <title>New Year's Resolutions</title>
+    <updated>2003-01-08T08:00:00.000Z</updated>
+    <published>2003-01-08T08:00:00.000Z</published>
+    <summary>Here. I take a look back at 2002 and a look forward into 2003 for me and the site.</summary>
+    <content type="html">&lt;h1>New Year's Resolutions&lt;/h1>
+&lt;a href="/12565">Here&lt;/a>. I take a look back at 2002 and a look forward into 2003 for me and the site.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/379</id>
+    <title>Ask The Wonk Goes Live</title>
+    <updated>2003-01-08T08:00:00.000Z</updated>
+    <published>2003-01-08T08:00:00.000Z</published>
+    <summary>Here. Due to popular demand, I've provided a subscription-based Q&amp;A forum. Enjoy!</summary>
+    <content type="html">&lt;h1>Ask The Wonk Goes Live&lt;/h1>
+&lt;a href="/askthewonk">Here&lt;/a>. Due to popular demand, I've provided a subscription-based Q&amp;A forum. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12565</id>
+    <title>New Year's Resolution</title>
+    <updated>2003-01-08T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-01-08T08:00:00.000Z</published>
+    <summary>I just flew in from 2002: Wrote or co-wrote 4 books: Mastering VS.NET, Windows Forms for C# Programmers, Windows Forms for VB.NET Programmers and ATL Internals, 2/e (you should see them all in 1H03) Helped Don &amp;amp; Shawn with their books (no writing, just heavy-duty feedback) Wrote 6 articles for the Wonders of Windows Forms column (some are excerpts from my WinForms book) Wrote 9 articles for the &amp;quot;Chris Sells on.NET&amp;quot; newsletter (some are excerpts from my WinForms book) Started the &amp;quot;Adding R...</summary>
+    <content type="html">&lt;h1>New Year's Resolution&lt;/h1>
+&lt;p>I just flew in from 2002:&lt;/p>&lt;ul>&lt;li>Wrote or 
+	co-wrote 4 books: &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0596003609/chrissells">
+	Mastering VS.NET&lt;/a>, &lt;a href="/writing">Windows Forms for C# Programmers&lt;/a>, &lt;a href="/writing">
+	Windows Forms for VB.NET Programmers&lt;/a> and &lt;a href="/writing">ATL 
+	Internals, 2/e&lt;/a> (you should see them all in 1H03)&lt;/li>&lt;li>Helped Don &amp;amp; 
+	Shawn with &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201734117/chrissells">
+	their&lt;/a> &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201745682/chrissells">
+	books&lt;/a> (no writing, just heavy-duty feedback)&lt;/li>&lt;li>Wrote 6 articles 
+	for &lt;a href="/writing">the Wonders of Windows Forms column&lt;/a> (some are 
+	excerpts from my WinForms book)&lt;/li>&lt;li>Wrote 9 articles for &lt;a href="/writing">
+	the &amp;quot;Chris Sells on .NET&amp;quot; newsletter&lt;/a> (some are excerpts from my WinForms 
+	book)&lt;/li>&lt;li>Started the &lt;a href="#refCountRotor">&amp;quot;Adding Ref-Counting to 
+	Rotor&amp;quot;&lt;/a> research project (we've got a alpha running!)&lt;/li>&lt;li>Wrote a 
+	5-day WinForms short course&lt;/li>&lt;li>Spoke at bunches of conferences and 
+	seminars, including the 2 Web Services DevCons I hosted&lt;/li>&lt;li>&lt;a href="#hardnews">
+	Started a newsletter&lt;/a> and published 8 issues&lt;/li>&lt;li>
+	Started &lt;a href="/#news">the Windows Developer News forum&lt;/a>&lt;/li>&lt;li>
+	Wrote or co-wrote &lt;a href="/writing">13 magazine articles&lt;/a> (3 are still 
+	pending publication)&lt;/li>&lt;li>Wrote 29 Spout pieces, including the ever 
+	popular &lt;a href="#vs.netfunfacts">VS.NET Fun Facts&lt;/a>&lt;/li>&lt;li>Shipped 3 
+	releases of &lt;a href="http://www.genghisgroup.com">Genghis&lt;/a>&lt;/li>&lt;li>
+	Shipped several other new tools and samples, including &lt;a href="/12661">
+	Wahoo!&lt;/a>, &lt;a href="/12424">CollectionGen&lt;/a>, &lt;a href="/12422">
+	XsdClassesGen&lt;/a>, &lt;a href="/12426">imcli&lt;/a> and &lt;a href="/12425">
+	RegexDesigner.NET&lt;/a>&lt;/li>&lt;li>Created &lt;a href="/writing">the Intel Rich 
+	Client series&lt;/a> where I served as the editor for 6 articles (1 is still 
+	pending)&lt;/li>&lt;li>Consulted for several companies&lt;/li>&lt;li>
+	Mentored several proteges&lt;/li>&lt;li>Conducted a very painful, but very 
+	fruitful, marketing survey&lt;/li>&lt;li>Lost 55 pounds (which I hope never to 
+	find again!)&lt;/li>&lt;li>Answered countless mailing list and direct questions 
+	via email&lt;/li>&lt;/ul>&lt;p>and boy are my arms tired! Even I look at that list 
+and think &amp;quot;holy workaholic, Batman!&amp;quot; Of course, I couldn't have done all these 
+things alone. I worked with fabulous co-authors and co-contributors. Thanks to 
+you all and I look forward to working with you again in 2003!&lt;/p>&lt;p>In the new 
+year, I have the following goals:&lt;/p>&lt;ul>&lt;li>Make &lt;a href="/askthewonk">Ask 
+	The Wonk&lt;/a> a fun experience for all involved (it just started on Monday, 
+	but it's already great fun answering the level of questions I've received!)&lt;/li>&lt;li>
+	Move the DevCons to the phones via &lt;a href="http://store.yahoo.com/sellsbrothers/pionofwinpho.html">
+	the PhoneCons&lt;/a> to avoid the expense and hassle of travel for everyone, 
+	while still maintain the power and charm of the DevCon&lt;/li>&lt;li>Get those &lt;a href="http://store.yahoo.com/sellsbrothers/smalgroupmen.html">
+	.NET War Colleges&lt;/a> humming! I *so* look forward to these&lt;/li>&lt;li>Several 
+	more releases of &lt;a href="http://www.genghisgroup.com">Genghis&lt;/a> (a new 
+	release is already cooking)&lt;/li>&lt;li>A few more magazine articles (I've got a 
+	few already in the queue)&lt;/li>&lt;li>Finishing up the Rotor ref-counting 
+	project, publishing the code and the results&lt;/li>&lt;li>Re-org the web site a 
+	bit (again!)&lt;/li>&lt;li>Continuing the Wonder of Windows Forms column&lt;/li>&lt;li>
+	Hanging on &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/">
+	the Off Topic mailing list&lt;/a> (still my favorite mailing list)&lt;/li>&lt;li>A 
+	couple of other projects that I'm dying to share with folks, but am sworn to 
+	secrecy...&lt;/li>&lt;li>Losing another 35 pounds (it's a 2-year plan)&lt;/li>&lt;li>
+	Find a way to take a vacation&lt;/li>&lt;/ul>&lt;p>We'll see how I do this time next 
+year, especially on those last two.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/378</id>
+    <title>What is Disconnected Data Architecture?</title>
+    <updated>2003-01-07T08:00:00.000Z</updated>
+    <published>2003-01-07T08:00:00.000Z</published>
+    <summary>From Sergey Kostrov ( SergeyKostrov@hotmail.com ): What is Disconnected Data Architecture? Can anybody explain it? I've taken this term from.NET SDK documentation. Unfortinately, explanation of this term is a little bit unclear.</summary>
+    <content type="html">&lt;h1>What is Disconnected Data Architecture?&lt;/h1>
+From Sergey Kostrov ( SergeyKostrov@hotmail.com ): What is Disconnected Data Architecture? Can anybody explain it?
+
+I've taken this term from .NET SDK documentation. Unfortinately, explanation of this term is a little bit unclear.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/377</id>
+    <title>Conferences Re-Tooled for .NET?</title>
+    <updated>2003-01-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-01-06T08:00:00.000Z</published>
+    <summary>Here. From Chris Sells' Marketing Guy: The Pioneers of WinForms PhoneCon is a new method for attending Chris Sells's popular DevCons. The whole unit can share a PC and speakerphone to attend a PhoneCon conference cheaper than 1 person can attend a regular conference. PhoneCons are spread over 8 weeks to give you time to absorb the conference information, instead of having your head crammed full of too much information in just 1-2 days. Best of all, you get to conduct conversations with leading.NET experts a...</summary>
+    <content type="html">&lt;h1>Conferences Re-Tooled for .NET?&lt;/h1>
+&lt;a href="http://store.yahoo.com/sellsbrothers/pionofwinpho.html">Here&lt;/a>. From Chris Sells' Marketing Guy: The Pioneers of WinForms PhoneCon is a new method for attending Chris Sells's popular DevCons.
+ 
+The whole unit can share a PC and speakerphone to attend a PhoneCon conference cheaper than 1 person can attend a regular conference.
+
+PhoneCons are spread over 8 weeks to give you time to absorb the conference information, instead of having your head crammed full of too much information in just 1-2 days.
+ 
+Best of all, you get to conduct conversations with leading .NET experts as well as your fellow attendees, offering a 'virtual hallway' before, during, and after each session!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/376</id>
+    <title>DLL Help Database</title>
+    <updated>2003-01-02T08:00:00.000Z</updated>
+    <published>2003-01-02T08:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: "DLL Help exists to assist developers, system administrators, and other IT professionals who face file version conflicts with Microsoft software. Use DLL Help to identify which software installed a specific version of a DLL." [JoelonSoftware] What's DLL Hell?;)</summary>
+    <content type="html">&lt;h1>DLL Help Database&lt;/h1>
+&lt;a href="http://support.microsoft.com/default.aspx?scid=/servicedesks/fileversion/dllinfo.asp&amp;fp=1">Here&lt;/a>. From Husein Choroomi: "DLL Help exists to assist developers, system administrators, and other IT professionals who face file version conflicts with Microsoft software. Use DLL Help to identify which software installed a specific version of a DLL."
+
+[JoelonSoftware]
+
+What's DLL Hell? ;)</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/375</id>
+    <title>Apps Are People, Too</title>
+    <updated>2003-01-02T08:00:00.000Z</updated>
+    <published>2003-01-02T08:00:00.000Z</published>
+    <summary>Here. My dream to secure wahoo.exe instead of wahoo.exe users and how long we've got to go to realize that dream.</summary>
+    <content type="html">&lt;h1>Apps Are People, Too&lt;/h1>
+&lt;a href="/12566">Here&lt;/a>. My dream to secure wahoo.exe instead of wahoo.exe users and how long we've got to go to realize that dream.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12566</id>
+    <title>Apps Are People, Too</title>
+    <updated>2003-01-02T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/wahoo_top_10.JPG"/>
+    <category term="spout" label="The Spout"/>
+    <published>2003-01-02T08:00:00.000Z</published>
+    <summary>I concerned Wahoo! patron sent in the following screen shot of the current high scores as exposed by the high scores service: As you can see, the high scores service has turned into the poster child for the need for web service security. However, after hanging out at two Web Services DevCons and talking with Keith &amp;quot;Mr. Security&amp;quot; Brown, I've come to the conclusion that there is no good way to secure this specific web service. Even worse than that, there's an entire class of web services just like i...</summary>
+    <content type="html">&lt;h1>Apps Are People, Too&lt;/h1>
+&lt;p>I concerned &lt;a href="/12661">Wahoo!&lt;/a>&lt;a/> patron 
+sent in the following screen shot of the current high scores as exposed by the 
+high scores service:&lt;/p>&lt;p>
+&lt;img border="0" src="/public/spout/wahoo_top_10.JPG" width="641" height="458">&lt;/p>&lt;p>
+As you can see, the high scores service has turned into the poster child for the 
+need for web service security. However, after hanging out at two Web Services 
+DevCons and talking with Keith &amp;quot;Mr. Security&amp;quot; Brown, I've come to the conclusion 
+that there is no good way to secure this specific web service. Even worse than 
+that, there's an entire class of web services just like it that can't be 
+guaranteed secure.&lt;/p>&lt;p>The goal of the high scores web service is to provide 
+access only to the Wahoo! app itself. Only Wahoo! knows when someone has earned 
+their score while playing instead of merely faked it through some other means. 
+Of course, this application is just for fun, so the lack of a secure high scores 
+repository is hardly a big deal (although I'm often surprised when people tell 
+me that they play wahoo.exe instead of sol.exe). However, imagine that a real 
+application wanted to do the same thing. Maybe Microsoft only wants Office 
+applications and not Linux knock-offs to query the clip art web service on 
+microsoft.com. Or maybe your business wants to provide a web service that only 
+your apps can talk to.&lt;/p>&lt;p>Of course, Microsoft doesn't ship the source code 
+for Word and your business is unlikely to ship the source code for your apps if 
+you plan on making money on them (remember actually making money on software?), 
+so that's different than Wahoo!, isn't it? No. Every time you put code on a 
+machine outside of your sphere of influence, you might as well ship code, 
+especially if it's .NET code, which comes with a built-in disassembler! &amp;quot;But 
+wait,&amp;quot; you say. &amp;quot;What about code obfuscators?&amp;quot; Well, that arms race has already 
+been fought in the world of Java and disassemblers won. There was no way that an 
+obfuscator can hide the details of Java byte code without completely destroying 
+the usability of the code (particularly in the area of performance). .NET will 
+be no different.&lt;/p>&lt;p>&amp;quot;Aha! But what about unmanaged code? x86 can't be read 
+like IL.&amp;quot; You're right. It is harder to disassemble x86 than IL, but not 
+significantly so. The x86 disassembler tool vendors have been working for a lot 
+longer on this problem and we've bred guys like Andrew Shulman and Matt Peitrek 
+that dream in x86 and only translate to English as a convenience for their 
+wives.&lt;/p>&lt;p>The bottom line that if you ship code, you might as well ship the 
+source, as it's available anyway. If a computer can execute your code, somebody 
+can read it and pull out the details of whatever you're using to obfuscate the 
+communication between your code and your back end (whether it's a web service or 
+not).&lt;/p>&lt;p>&amp;quot;So why do I have to log in all the time if there's no such thing as 
+security?&amp;quot; Well, it's not as if there aren't ways to secure systems in the 
+world, but all working security thus far invented depends on physical security, 
+whether it's the private part of a key pair secured in your safe or a password 
+secured in your brain. The reason that applications can't make use of this kind 
+of security is because they don't have access to safes and their minds can be 
+read much more easily that those of humans (although a rubber hose is just as 
+effective as ildasm.exe, when something is really important).&lt;/p>&lt;p>So what does 
+that mean for applications that want to make use of back-ends? I see four 
+solutions. One, you can tie security to a user instead of an application. For 
+example, if I make everyone sign up for a Wahoo! account to log high scores, I'd 
+at least know who to ban from use when they faked impossibly high scores. 
+However, it also opens up the possibility of the user completely bypassing the 
+application altogether, including any checks that the client may make on 
+validity of the data being sent to the back-end.&lt;/p>&lt;p>The second possibility is 
+to make things hard*er* on the potential hackers. Keith summed it up nicely:&lt;/p>&lt;p>
+&amp;quot;After looking at your JPG, I'd suggest some server side filtering. Limits on 
+user name length and content would help you at least reduce the amount of space 
+that hackers can use for advertising. OTOH, you've got a nice little bulletin 
+board going there ;-)&amp;quot;&lt;/p>&lt;p>Anything I do in the way of encryption and 
+obfuscation between the app and the back-end will slow down potential hackers 
+and for something like Wahoo!, I don't suspect it would take much to keep folks 
+honest (turning off the asmx test page would be a good first step, for example : 
+).&lt;/p>&lt;p>One way to make things harder, and a third way to secure apps, is a 
+dongle, which adds new hardware to a machine along with the software. 
+Unfortunately, a dongle could be reverse engineered just as a hunk of software. 
+It's only the fairly uncommon use of dongles that keeps them from being broken 
+more often.&lt;/p>&lt;p>The fourth option, which Keith mentioned, is Microsoft's new 
+Palladium platform, which operates with special hardware and software to limit a 
+user's access to their own computer, kind of like a universal dongle.&lt;/p>&lt;p>The 
+real question is, what's secure enough? Unfortunately, this is an arms race that 
+will eventually be won by any hacker with enough smarts, time and money. For 
+users, we continue to make things harder on hackers as we transition from 
+passwords to biometrics and smart cards. For applications, we've got dongles and 
+precious little else, which makes it darn hard to treat apps like the 
+independent entities into which they're evolving.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/374</id>
+    <title>"When I first heard about .NET, I held my nose"</title>
+    <updated>2002-12-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-31T08:00:00.000Z</published>
+    <summary>Here. I did an interview a long time ago and just noticed that my most fun quotes were actually printed in USAToday. Cool!</summary>
+    <content type="html">&lt;h1>"When I first heard about .NET, I held my nose"&lt;/h1>
+&lt;a href="http://www.usatoday.com/tech/techreviews/2002/4/22/spotlight.htm">Here&lt;/a>. I did an interview a long time ago and just noticed that my most fun quotes were actually printed in USAToday. Cool!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/373</id>
+    <title>Xopus.NET</title>
+    <updated>2002-12-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-30T08:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: "I have put together a Xopus wrapper for.NET. Basically, it isolates you from having to know all the Xopus details: just drag, drop, and set the designer properties." Xopus is an opensource browser based WYSIWYG xml / xsl based editor that works natively in IE 5.5+ / Mozilla 1.3+ / Netscape 7+. Pretty cool stuff.</summary>
+    <content type="html">&lt;h1>Xopus.NET&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0117374/">Here&lt;/a>. From Jesse Ezell: "I have put together a Xopus wrapper for .NET. Basically, it isolates you from having to know all the Xopus details: just drag, drop, and set the designer properties."
+
+Xopus is an opensource browser based WYSIWYG xml / xsl based editor that works natively in IE 5.5+ / Mozilla 1.3+ / Netscape 7+. Pretty cool stuff.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/372</id>
+    <title>CodeSmith Beta</title>
+    <updated>2002-12-29T08:00:00.000Z</updated>
+    <published>2002-12-29T08:00:00.000Z</published>
+    <summary>Here. "CodeSmith allows you to create templates that will generate code for any ASCII based language. The code generated can be customized by the use of properties. A property can be any.NET object that has a designer (most built in.NET types have designers already) and can be as simple as a boolean property that allows you to conditionally add or remove code from the result, to an object such as the included TableSchema object which provides everything you could possibly want to know about a table in a dat...</summary>
+    <content type="html">&lt;h1>CodeSmith Beta&lt;/h1>
+&lt;a href="http://www.ericjsmith.net/ejsmith/codesmith.htm">Here&lt;/a>. "CodeSmith allows you to create templates that will generate code for any ASCII based language. The code generated can be customized by the use of properties. A property can be any .NET object that has a designer (most built in .NET types have designers already) and can be as simple as a boolean property that allows you to conditionally add or remove code from the result, to an object such as the included TableSchema object which provides everything you could possibly want to know about a table in a database. Having access to this information allows you to generate things such as stored procedures, business objects, presentation layer code, or anything else you can think of based on a table schema."
+
+This looks like a promising code-gen tool, and I've seen more than my share...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/371</id>
+    <title>.NET Wrappers for NVIDIA's Cg API</title>
+    <updated>2002-12-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-28T08:00:00.000Z</published>
+    <summary>Here. From Ben Houston: This simple wrapper, written in Managed C++, allows for developers to make use of NVIDIA's new Cg shader language from within a C# or VB.NET application. It is simple to use with existing OpenGL wrappers such as Llyod Dupond's CsGL. A sample application that makes use of OpenGL and Cg via C#, ExoEngine, is available for download on the same site.</summary>
+    <content type="html">&lt;h1>.NET Wrappers for NVIDIA's Cg API&lt;/h1>
+&lt;a href="http://www.exocortex.org/cg">Here&lt;/a>. From Ben Houston: This simple wrapper, written in Managed C++, allows for developers to make use of NVIDIA's new Cg shader language from within a C# or VB.NET application.  It is simple to use with existing OpenGL wrappers such as Llyod Dupond's CsGL.  A sample application that makes use of OpenGL and Cg via C#, ExoEngine, is available for download on the same site.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/370</id>
+    <title>ADO.NET PowerToys</title>
+    <updated>2002-12-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-24T08:00:00.000Z</published>
+    <summary>Here. My friend and author of Pragmatic ADO.NET has released a package of his tools to the community, including: -A general library of ADO.NET utilities
+-A new release of my Improved DataSet Generator
+-A Stored Procedure Wrapper Class Generator Shawn says that contributions are welcome.</summary>
+    <content type="html">&lt;h1>ADO.NET PowerToys&lt;/h1>
+&lt;a href="http://adoguy.com/powertoys">Here&lt;/a>. My friend and author of Pragmatic ADO.NET has released a package of his tools to the community, including:
+
+-A general library of ADO.NET utilities
+-A new release of my Improved DataSet Generator
+-A Stored Procedure Wrapper Class Generator
+
+Shawn says that contributions are welcome.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/369</id>
+    <title>Keep On Cookin'</title>
+    <updated>2002-12-20T08:00:00.000Z</updated>
+    <published>2002-12-20T08:00:00.000Z</published>
+    <summary>Here. Encouragement for the experiment-based lifestyle.</summary>
+    <content type="html">&lt;h1>Keep On Cookin'&lt;/h1>
+&lt;a href="/12567">Here&lt;/a>. Encouragement for the experiment-based lifestyle.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/368</id>
+    <title>DirectX 9.0 Release with .NET Support</title>
+    <updated>2002-12-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-20T08:00:00.000Z</published>
+    <summary>Here. I'm not much of a graphics programmer, but I know folks have been anxiously awaiting DX9, which includes MDX (Managed DirectX) the managed API to DirectX for.NET programmers. This release provides a bunch of non-.NET enhancements as well.</summary>
+    <content type="html">&lt;h1>DirectX 9.0 Release with .NET Support&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/downloads/list/directx.asp">Here&lt;/a>. I'm not much of a graphics programmer, but I know folks have been anxiously awaiting DX9, which includes MDX (Managed DirectX) the managed API to DirectX for .NET programmers. This release provides a bunch of non-.NET enhancements as well.</content>
+  </entry>
+</feed>

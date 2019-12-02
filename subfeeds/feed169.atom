@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed169.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed168.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed170.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed169.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12362</id>
+    <title>Waka Waka Poem</title>
+    <updated>2002-05-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-05-18T07:00:00.000Z</published>
+    <summary>First, the poem itself (there are many versions, this is just one): &amp;lt;&amp;gt;! * ' ' # ^ &amp;quot; ` $ $ -! * = @ $ _ % * &amp;lt;&amp;gt; ~ # 4 &amp;amp; [ ].. / | {,, system halted In English, this reads: waka waka bang splat tick tick hash caret quote back-tick dollar dollar dash bang splat equal at dollar under-score percent splat waka waka tilda number four ampersand bracket bracket dot dot slash vertical-bar curly-bracket comma comma crash Serdar Kilic win_tech_off_topic@yahoogroups.com Sat 5/18/2002 6:32 PM </summary>
+    <content type="html">&lt;h1>Waka Waka Poem&lt;/h1>
+&lt;p>First, the poem itself (there are many versions, this is just one):&lt;/p>&lt;blockquote>&lt;p>&amp;lt;&amp;gt; ! * ' ' #&lt;br>^ &amp;quot; ` $ $ -&lt;br>! * = @ $ _&lt;br>% * &amp;lt;&amp;gt; ~ # 4&lt;br>&amp;amp; [ ] . . /&lt;br>| { , , system halted&lt;/p>&lt;/blockquote>&lt;p>In English, this reads:&lt;/p>&lt;blockquote>&lt;p>waka waka bang splat tick tick hash&lt;br>caret quote back-tick dollar dollar dash&lt;br>bang splat equal at dollar under-score&lt;br>percent splat waka waka tilda number four&lt;br>ampersand bracket bracket dot dot slash&lt;br>vertical-bar curly-bracket comma comma crash&lt;/p>&lt;/blockquote>&lt;p>
+&lt;i>Serdar Kilic&lt;br>
+win_tech_off_topic@yahoogroups.com&lt;br>Sat &lt;span class="created">5/18/2002 6:32 PM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/42</id>
+    <title>XML Comments Let You Build Docs from C# Source</title>
+    <updated>2002-05-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-17T07:00:00.000Z</published>
+    <summary>"C# allows developers to embed XML comments into their source files—a useful facility, especially when more than one programmer is working on the same code. The C# parser can expand these XML tags to provide additional information and export them to an external document for further processing. This article shows how to use XML comments and explains the relevant tags. The author demonstrates how to set up your project to export your XML comments into convenient documentation for the benefit of other develope...</summary>
+    <content type="html">&lt;h1>XML Comments Let You Build Docs from C# Source&lt;/h1>
+"C# allows developers to embed XML comments into their source files—a useful facility, especially when more than one programmer is working on the same code. The C# parser can expand these XML tags to provide additional information and export them to an external document for further processing. &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/06/XMLC/XMLC.asp">This article&lt;/a> shows how to use XML comments and explains the relevant tags. The author demonstrates how to set up your project to export your XML comments into convenient documentation for the benefit of other developers. He also shows how to use comments to generate help files. "</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12422</id>
+    <title>.NET XsdClassesGen</title>
+    <updated>2002-05-17T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-05-17T07:00:00.000Z</published>
+    <summary>XsdClassesGen is a Custom Tool Add-In to VS.NET 2002 &amp;amp; 2003 to generate type-safe wrapper classes for serializing to and from XML documents. It takes as input an XSD and produces the C# or VB.NET code to do the serialization using the XmlSerializer. This is really just the output of running xsd.exe /classes, but integrated directly into VS.NET. If you'd like to know more about what a custom tool is and how to build your own, check out CollectionGen. Also, Atif Aziz used some of my custom tool code and b...</summary>
+    <content type="html">&lt;h1>.NET XsdClassesGen&lt;/h1>
+
+    &lt;p align="left">XsdClassesGen is a &lt;a href="/public/tools/XsdClassesGen.zip">Custom Tool 
+    Add-In to VS.NET 2002 &amp;amp; 2003 to generate type-safe wrapper classes for serializing to 
+    and from XML documents&lt;/a>. It takes as input an XSD and produces the C# or 
+    VB.NET code to do the serialization using the XmlSerializer. This is really 
+    just the output of running xsd.exe /classes, but integrated directly into 
+    VS.NET.&lt;/p>
+    &lt;p align="left">If you'd like to know more about what a custom tool is and 
+    how to build your own, check out &lt;a href="#collectiongen">CollectionGen&lt;/a>.&lt;/p>
+	&lt;p align="left">Also, Atif Aziz used some of my custom tool code and built
+	&lt;a href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=ef3d0a73-0468-46da-8780-ede0f12b6f22">
+	a generic VS.NET code generator shim&lt;/a> that allows you to build a code 
+	generator that plugs into VS.NET by implementing a single method.&lt;/p>
+	&lt;p align="left">And, as if that weren't enough,
+	&lt;a href="http://dotnetjunkies.com/WebLog/appeng/archive/2004/11/04/31021.aspx">
+	Stephane Tombeur has posted the code to VS2005&lt;/a>. Thanks, Stephane!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/41</id>
+    <title>Data Binding in Windows Forms Applications</title>
+    <updated>2002-05-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-17T07:00:00.000Z</published>
+    <summary>Dino expounds on a subject near and dear to my heart -- databinding in WinForms.</summary>
+    <content type="html">&lt;h1>Data Binding in Windows Forms Applications&lt;/h1>
+Dino expounds on a subject near and dear to my heart -- &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndive/html/data04182002.asp">databinding in WinForms&lt;/a>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/40</id>
+    <title>HowTo emulate the behavior of the explorer shell</title>
+    <updated>2002-05-16T07:00:00.000Z</updated>
+    <published>2002-05-16T07:00:00.000Z</published>
+    <summary>From Razvan Caciula: Nick Hodapp publishes an interesting ActiveX Control Library (ATL) giving you the permission to include it in a commercial application. Cool work, Nick :)</summary>
+    <content type="html">&lt;h1>HowTo emulate the behavior of the explorer shell&lt;/h1>
+From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.com/atl/ShellFolderTree.asp">an interesting ActiveX Control Library&lt;/a> (ATL) giving you the permission to include it in a commercial application. Cool work, Nick :)</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/39</id>
+    <title>The Han Solo Affair</title>
+    <updated>2002-05-15T07:00:00.000Z</updated>
+    <published>2002-05-15T07:00:00.000Z</published>
+    <summary>" Star Wars: The Han Solo Affair is the new film from Spite Your Face Productions, produced for The Lego Group. and developed with the cooperation of Lucasfilm. The stop-motion animated LEGO short presents an 'alternative' version of the events which follow Han Solo's capture in The Empire Strikes Back." I laughed 'til I cried. </summary>
+    <content type="html">&lt;h1>The Han Solo Affair&lt;/h1>
+&lt;p>"&lt;a href="http://www.spiteyourface.com/hansolo/">Star Wars: The Han Solo Affair&lt;/a> is the new film from Spite Your Face Productions, produced for The Lego Group. and developed with the cooperation of Lucasfilm. The stop-motion animated LEGO short presents an 'alternative' version of the events which follow Han Solo's capture in The Empire Strikes Back."&lt;/p>
+
+&lt;p>I laughed 'til I cried.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/36</id>
+    <title>.NET ANY where, ANY time and on ANY device</title>
+    <updated>2002-05-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-14T07:00:00.000Z</published>
+    <summary>From Razvan Caciula: "The objective for the iNET development team is to re-create the complete.NET deployment framework entirely in Java." "For instance with iNET, corporations can deploy.NET based applications integrated with a J2EE server hosted completely on an IBM mainframe and/or Linux instead of Windows." Anyone has used this mixture? :) </summary>
+    <content type="html">&lt;h1>.NET ANY where, ANY time and on ANY device &lt;/h1>
+&lt;p>From Razvan Caciula:&lt;/p>
+&lt;p>"The objective for the &lt;a href="http://www.halcyonsoft.com/products/iNET.asp">iNET&lt;/a> development team is to re-create the complete .NET deployment framework entirely in Java."&lt;/p>
+&lt;p>"For instance with iNET, corporations can deploy .NET based applications integrated with a J2EE server hosted completely on an IBM mainframe and/or Linux instead of Windows."&lt;/p>
+
+&lt;p>Anyone has used this mixture? :)&lt;/p>
+
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/37</id>
+    <title>SQL Server Centric .NET Code Generator</title>
+    <updated>2002-05-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-14T07:00:00.000Z</published>
+    <summary>" SQL Server Centric.NET Code Generator (code named OlyMars) is both a flexible and powerful code generator based on database modeling. "It allows instant generation of both SQL and.Net code providing a complete library of stored procedures,.NET classes and ready-to-use Windows/Web form controls (including associated documentation). "SQL Server Centric.NET Code Generator is also fully extensible to use one's own custom templates and consequently can be adjusted to generate any custom code respecting a homog...</summary>
+    <content type="html">&lt;h1>SQL Server Centric .NET Code Generator&lt;/h1>
+&lt;p>"&lt;a href="http://www.microsoft.fr/olymars/webupdate.xml">SQL Server Centric .NET Code Generator&lt;/a> (code named OlyMars) is both a flexible and powerful code generator based on database modeling.&lt;/p>
+
+&lt;p>"It allows instant generation of both SQL and .Net code providing a complete library of stored procedures, .NET classes and ready-to-use Windows/Web form controls (including associated documentation).&lt;/p>
+
+&lt;p>"SQL Server Centric .NET Code Generator is also fully extensible to use one's own custom templates and consequently can be adjusted to generate any custom code respecting a homogeneous implementation scheme within the company (can be written either in VB .NET or C# .NET)."&lt;/p>
+
+&lt;p>This seems to have punted on the multi-language issues, however. sigh.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/38</id>
+    <title>Fujitsu NetCOBOL™ for .NET Ready To Ship</title>
+    <updated>2002-05-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-14T07:00:00.000Z</published>
+    <summary>Don't miss COBOL for.NET! "NetCOBOL ™ opens doors to leverage existing COBOL code while taking advantage of the innovative Microsoft.NET platform." </summary>
+    <content type="html">&lt;h1>Fujitsu NetCOBOL™ for .NET Ready To Ship&lt;/h1>
+&lt;p>Don't miss &lt;a href="http://www.netcobol.com/news/prelease/pr20020410.htm">COBOL for .NET&lt;/a>!&lt;/p>
+
+&lt;p>"NetCOBOL ™ opens doors to leverage existing COBOL code while taking advantage of the innovative Microsoft .NET platform."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/33</id>
+    <title>Generics for C# and CLR</title>
+    <updated>2002-05-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-13T07:00:00.000Z</published>
+    <summary>From Razvan Caciula: You have all here about parametric polymorphism in the CLR using an extended version of C#.</summary>
+    <content type="html">&lt;h1>Generics for C# and CLR&lt;/h1>
+From Razvan Caciula: You have all here about parametric polymorphism in the CLR using &lt;a href="http://research.microsoft.com/projects/clrgen/">an extended version of C#&lt;/a>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/35</id>
+    <title>Stephen Wolfram's "A New Kind of Science"</title>
+    <updated>2002-05-13T07:00:00.000Z</updated>
+    <published>2002-05-13T07:00:00.000Z</published>
+    <summary>From the publisher's summary of A New Kind of Science : "This long-awaited work from one of the world's most respected scientists presents a series of dramatic discoveries never before made public. Starting from a collection of simple computer experiments—illustrated in the book by striking computer graphics—Stephen Wolfram shows how their unexpected results force a whole new way of looking at the operation of our universe." </summary>
+    <content type="html">&lt;h1>Stephen Wolfram's "A New Kind of Science"&lt;/h1>
+&lt;p>From the publisher's summary of &lt;a href="http://www.wolframscience.com/">A New Kind of Science&lt;/a>:&lt;/p>
+
+&lt;p>"This long-awaited work from one of the world's most respected scientists presents a series of dramatic discoveries never before made public. Starting from a collection of simple computer experiments—illustrated in the book by striking computer graphics—Stephen Wolfram shows how their unexpected results force a whole new way of looking at the operation of our universe."&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/32</id>
+    <title>Modern C++ Design</title>
+    <updated>2002-05-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-05-13T07:00:00.000Z</published>
+    <summary>From Razvan Caciula: I like Chris Sells's books, but also i like romanians too :> I'm preparing for a technical interview and i founded this book very useful.</summary>
+    <content type="html">&lt;h1>Modern C++ Design&lt;/h1>
+From Razvan Caciula: I like Chris Sells's books, but also i like romanians too :> I'm preparing for a technical interview and i founded &lt;a href="http://www.moderncppdesign.com/">this book&lt;/a> very useful.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/34</id>
+    <title>C# samples to customize the WebBrowser control</title>
+    <updated>2002-05-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-05-13T07:00:00.000Z</published>
+    <summary>C# samples by Ted Faison of hosting the WebBrowser control and using ICustomDoc, IDocHostUIHandler and IDocHostShowUI to "achieve complete control over WebBrowser."
+</summary>
+    <content type="html">&lt;h1>C# samples to customize the WebBrowser control&lt;/h1>
+&lt;a href="http://www.faisoncomputing.com/samples/programming_samples.htm">C# samples&lt;/a> by &lt;a href="mailto:ted.faison@COMPUTER.ORG">Ted Faison&lt;/a> of hosting the WebBrowser control and using ICustomDoc, IDocHostUIHandler and IDocHostShowUI to "achieve complete control over WebBrowser."
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/31</id>
+    <title>No matter the language, programming is fun!</title>
+    <updated>2002-05-12T07:00:00.000Z</updated>
+    <published>2002-05-12T07:00:00.000Z</published>
+    <summary>Abandon all hope, ye who enter. One program that is runnable in Perl, C, Befunge and BrainF*ck along with the general purpose techniques to use for your own such projects (as if!). Ouch. My brain *still* hurts... </summary>
+    <content type="html">&lt;h1>No matter the language, programming is fun!&lt;/h1>
+&lt;p>Abandon all hope, ye who enter.&lt;/p>
+
+&lt;p>&lt;a href="http://www.if.insa-lyon.fr/eleves/jquelin/quadri.html">One program&lt;/a> that is runnable in Perl, 
+C, Befunge and BrainF*ck along with the general purpose techniques to use for your own such projects (as if!).&lt;/p>
+
+&lt;p>Ouch. My brain *still* hurts...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/30</id>
+    <title>HowTo: Write a Self-Installing Service</title>
+    <updated>2002-05-12T07:00:00.000Z</updated>
+    <published>2002-05-12T07:00:00.000Z</published>
+    <summary>Craig Andera has provided a sample of how to write a self-installing NT service in.NET that doesn't require installutil (which won't install MC++ services).</summary>
+    <content type="html">&lt;h1>HowTo: Write a Self-Installing Service&lt;/h1>
+Craig Andera has provided &lt;a href="http://staff.develop.com/candera/selfinstall.htm">a sample of how to write a self-installing NT service in .NET&lt;/a> that doesn't require installutil (which won't install MC++ services).</content>
+  </entry>
+</feed>

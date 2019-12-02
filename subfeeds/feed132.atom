@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed132.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed131.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed133.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed132.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/574</id>
+    <title>You are all destroying the internet (!)</title>
+    <updated>2003-05-16T07:00:00.000Z</updated>
+    <published>2003-05-16T07:00:00.000Z</published>
+    <summary>Here. From Steve Dunn: Quote: "Google has its own spam problems: a tiny number of webloggers and list-makers whose mindless hyperlinks degrade the value of its search results, and create the Web equivalent of TV static."</summary>
+    <content type="html">&lt;h1>You are all destroying the internet (!)&lt;/h1>
+&lt;a href="http://www.theregister.co.uk/content/6/30733.html">Here&lt;/a>. From Steve Dunn: Quote: "Google has its own spam problems: a tiny number of webloggers and list-makers whose mindless hyperlinks degrade the value of its search results, and create the Web equivalent of TV static."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12554</id>
+    <title>My First Talk As A Microsoft 
+Employee</title>
+    <updated>2003-05-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-05-16T07:00:00.000Z</published>
+    <summary>On Wednesday, I gave my first talk as a Microsoft employee. I was told that the talk was for a bunch of UK folks that needed to be put on the.NET path and could I do 90 minutes on intro to WinForms in a conference room on campus? I can do intro to WinForms material for hours without preparation, so I didn't do any. Instead, I showed up with my laptop and plugged it into the overhead, where I then spent 10 minutes wrestling to get it out of suspend mode (the world needs faster hard drives!). While my HD woke...</summary>
+    <content type="html">&lt;h1>My First Talk As A Microsoft 
+Employee&lt;/h1>
+&lt;p>On Wednesday, I gave my first 
+talk as a Microsoft employee. I was told that the talk was for a bunch of UK 
+folks that needed to be put on the .NET path and could I do 90 minutes on intro 
+to WinForms in a conference room on campus? I can do intro to WinForms material 
+for hours without preparation, so I didn't do any. Instead, I showed up with my 
+laptop and plugged it into the overhead, where I then spent 10 minutes wrestling 
+to get it out of suspend mode (the world needs faster hard drives!).&lt;/p>&lt;p>While 
+my HD woke up (apparently jet-lagged from the trip between building 5 and 
+building 43), I started warming up the crowd with questions &amp;quot;How many of you are 
+C++ programmers? How many VB programmers?&amp;quot; The room was split pretty evenly 
+between C++ and VB, taking half of my jokes away (I'm happy to make fun of 
+either C++ or VB programmers equally, but it's less fun when only half the room 
+laughs). Plus, these guys were *way* jet lagged, so getting them to even keep 
+their eyes open in the afternoon after they'd arrived was a challenge, let alone 
+getting them to laugh or even engage.&lt;/p>&lt;p>And then, because my HD was still 
+shaking off the dust, I asked &amp;quot;Did you hear anything good today?&amp;quot; Predictable, 
+they said that they'd like the story of web services (Don had been there earlier 
+in the morning) and that caused me to launch into my rendition of &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05202002.asp">
+how WinForms + Web Services provided a wonderful way to keep all of the UI logic 
+on a single machine&lt;/a>, as opposed to web applications, where the UI is split 
+between the client and the server. They weren't biting.&lt;/p>&lt;p>Plus, after diving 
+into some WinForms intro material and having it fall flat (anchoring and docking 
+normally wows 'em), I did a bit of deeper digging into my audience. It turns out 
+that most of them were old hands at WinForms, throwing my planned material right 
+out the window. Luckily, I did find a topic that they're weren't familiar with: 
+href-exes. So, I did &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/default.asp">
+my normal href-exe shtick&lt;/a> for about 60 minutes, getting them to wake up, ask 
+questions and even laugh a bit at my witty repartee.&lt;/p>&lt;p>Thinking I was in the 
+clear, I opened the floor for questions. Of course, the first question they 
+asked was the same question I'd have asked if I were in their shoes (as I so 
+often was &lt;a href="#boldBeginning">until about a month ago&lt;/a>), &amp;quot;What's new in 
+WinForms 2.0?&amp;quot; And that's where things got shaky again. I had some ideas of 
+where WinForms 2.0 was going in the next release of .NET, but nothing concrete 
+(I've been buried in Longhorn and a whole new culture too deep to dig into 
+WinForms futures yet). Plus, even the things that I did know, I had no idea what 
+I could say. Where these guys under NDA? What could I say to them if they were? 
+What can I say to them if they're not? Even if I'm not supposed to say anything, 
+I want them to like me (every speaker's guiding principle) and I wanted to say 
+something besides &amp;quot;I know, but I'm not going to tell you. &amp;lt;bpffffft&amp;gt;!&amp;quot;&lt;/p>&lt;p>So, 
+I stammered out what I knew to be some WinForms desires without making any 
+promises on their behalf and hoping no one would ever know (except my closest 
+friends reading this spout entry : ). It wasn't a happy experience. I should 
+have talked with the WinForms guys before my talk so I knew what I could say 
+about the future. Rookie mistake #1.&lt;/p>&lt;p>Rookie mistake #2: In an effort to 
+stay open to these guys, I wrote my alias on the flipchart and then, while I 
+filled in the domain, kept answering questions. When I looked back at the 
+flipchart, I discovered that I'd written &amp;quot;csells@sellsbrothers.com&amp;quot;. Doh! Since 
+it was a flipchart and not a whiteboard, I couldn't even erase it. &amp;lt;sigh&amp;gt;&lt;/p>&lt;p>
+All in all, I think I got them jazzed about href-exes, but it was definitely not 
+my finest talk. Luckily, it was internal and to a small group; I would have been 
+mortified to have given that performance at a larger venue. Plus, making fun of 
+VB programmers isn't fun anymore. I mean, they're customers, too. Looks like I'm 
+going to need some new material...&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/575</id>
+    <title>Customer Debug Probes and CLR SPY</title>
+    <updated>2003-05-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-05-16T07:00:00.000Z</published>
+    <summary>Here. Adam Nathan posts the source to a new.NET 1.1 debugging tool. Thanks, Adam!</summary>
+    <content type="html">&lt;h1>Customer Debug Probes and CLR SPY&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/anathan/permalink.aspx/976d1677-a6d1-4a25-9c7b-8448824b8267">Here&lt;/a>. Adam Nathan posts the source to a new .NET 1.1 debugging tool. Thanks, Adam!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/576</id>
+    <title>Applied XML Conference Sessions Chosen</title>
+    <updated>2003-05-16T07:00:00.000Z</updated>
+    <published>2003-05-16T07:00:00.000Z</published>
+    <summary>Here. Not only were there 4x the number of sessions submitted that could be accepted, but the quality bar was so high that it was almost impossible to narrow them down. The good news for attendees is that the ones we picked are going to rock. The seating for Applied XML is limited and all previous DevCons have sold out, so you may want to grab your seat now. And once you’ve done that, please spread the word! The more XML and web services zealots in one place, the better!</summary>
+    <content type="html">&lt;h1>Applied XML Conference Sessions Chosen&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Not only were there 4x the number of sessions submitted that could be accepted, but the quality bar was so high that it was almost impossible to narrow them down. The good news for attendees is that the ones we picked are going to rock.
+
+The seating for Applied XML is limited and all previous DevCons have sold out, so you may want to grab your seat now. And once you’ve done that, please spread the word! The more XML and web services zealots in one place, the better!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/573</id>
+    <title>SharpReader 0.9.0.2 Released</title>
+    <updated>2003-05-15T07:00:00.000Z</updated>
+    <published>2003-05-15T07:00:00.000Z</published>
+    <summary>Here. SharpReader is easily my favorite RSS reader. Enjoy!</summary>
+    <content type="html">&lt;h1>SharpReader 0.9.0.2 Released&lt;/h1>
+&lt;a href="http://aspnetweblog.com/posts/7043.aspx">Here&lt;/a>. SharpReader is easily my favorite RSS reader. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/572</id>
+    <title>SharpLibrary Released</title>
+    <updated>2003-05-13T07:00:00.000Z</updated>
+    <published>2003-05-13T07:00:00.000Z</published>
+    <summary>Here. From Carlos H. Perez: The SharpLibrary is a comprehensive Graphical User Interface library written for the.NET Framework. It has as its main goal to alleviate a lot of the limitations of the standard controls in the WindowsForms namespace. As such, it enhances many of the default controls with needed features that developers often find themselves wishing the out of the box controls had. It also has its fare share of controls totally written from scratch when the standard controls were too limited to o...</summary>
+    <content type="html">&lt;h1>SharpLibrary Released&lt;/h1>
+&lt;a href="http://www.sharplibrary.com">Here&lt;/a>. From Carlos H. Perez: The SharpLibrary is a comprehensive Graphical User Interface library written for the .NET Framework. It has as its main goal to alleviate a lot of the limitations of the standard controls in the WindowsForms namespace. As such, it enhances many of the default controls with needed features that developers often find themselves wishing the out of the box controls had. It also has its fare share of controls totally written from scratch when the standard controls were too limited to obtain a feature or there was simply not equivalent available. The result was controls that look good, are flexible, powerful and which also are free from the limitation, compatibility issues and just simply age that the native controls inherently have and thus are better suited for further enhancements that can accommodate the most demanding requirement of applications being written in the 21st century.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/571</id>
+    <title>MSDN Hands-On Lab</title>
+    <updated>2003-05-13T07:00:00.000Z</updated>
+    <published>2003-05-13T07:00:00.000Z</published>
+    <summary>Here. Is your boss with holding VS.NET? Are you forced to program in the old world of unmanaged code? Not even allowed to install VS.NET onto your machine to play with it? If so, check out the MSDN Hands-On Labs where you'll have remote access to Microsoft's own machines to build project types of your choice to take.NET and VS.NET around the block.</summary>
+    <content type="html">&lt;h1>MSDN Hands-On Lab&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/labs/holo/">Here&lt;/a>. Is your boss with holding VS.NET? Are you forced to program in the old world of unmanaged code? Not even allowed to install VS.NET onto your machine to play with it? If so, check out the MSDN Hands-On Labs where you'll have remote access to Microsoft's own machines to build project types of your choice to take .NET and VS.NET around the block.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/570</id>
+    <title>"blog noise?!" .03% of the web is changing Google</title>
+    <updated>2003-05-12T07:00:00.000Z</updated>
+    <published>2003-05-12T07:00:00.000Z</published>
+    <summary>Here. Apparently, 0.03% of the web is made up of blogs, but that's still enough to change Google's basic assumptions: "They presumed that technicians at USC would link to the best papers from MIT, to the best local sites from a land trust or a river study - rather than a clique, a small group of people writing about each other constantly. They obviously bump the rankings system in a way for which it wasn't prepared." Because of this, Google is likely to set up a "Blog" tab and take blog results out of the m...</summary>
+    <content type="html">&lt;h1>"blog noise?!" .03% of the web is changing Google&lt;/h1>
+&lt;a href="http://www.theregister.co.uk/content/6/30621.html">Here&lt;/a>. Apparently, 0.03% of the web is made up of blogs, but that's still enough to change Google's basic assumptions:
+
+"They presumed that technicians at USC would link to the best papers from MIT, to the best local sites from a land trust or a river study - rather than a clique, a small group of people writing about each other constantly. They obviously bump the rankings system in a way for which it wasn't prepared."
+
+Because of this, Google is likely to set up a "Blog" tab and take blog results out of the main searches. I'm on the fence as to whether the latter is a good thing, but it's nice to know that something grassroots like blogs can still change the world.
+
+[radio.weblogs.com/0001011]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/569</id>
+    <title>62 Abstracts For The Applied XML Conference!</title>
+    <updated>2003-05-10T07:00:00.000Z</updated>
+    <published>2003-05-10T07:00:00.000Z</published>
+    <summary>Here. Holy cow! I was *swamped* with abstracts for the Applied XML Developer's Conference. I got 62 and so many of them are so wonderful that I'm seriously considering expanding the Developer's Conference to 3 days (although I don't know if folks can stand that kind of density for that long : ).</summary>
+    <content type="html">&lt;h1>62 Abstracts For The Applied XML Conference!&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Holy cow! I was *swamped* with abstracts for the Applied XML Developer's Conference. I got 62 and so many of them are so wonderful that I'm seriously considering expanding the Developer's Conference to 3 days (although I don't know if folks can stand that kind of density for that long : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/568</id>
+    <title>Sun announces new features for JDK 1.5</title>
+    <updated>2003-05-09T07:00:00.000Z</updated>
+    <published>2003-05-09T07:00:00.000Z</published>
+    <summary>Here. From Chris Tavares: Sun fires it's return shots in the feature war between Java and the CLR. And for us developers, it looks like a good thing.</summary>
+    <content type="html">&lt;h1>Sun announces new features for JDK 1.5&lt;/h1>
+&lt;a href="http://java.sun.com/features/2003/05/bloch_qa.html">Here&lt;/a>. From Chris Tavares: Sun fires it's return shots in the feature war between Java and the CLR. And for us developers, it looks like a good thing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/567</id>
+    <title>Microsoft Windows Server 2003 vs. Linux</title>
+    <updated>2003-05-09T07:00:00.000Z</updated>
+    <published>2003-05-09T07:00:00.000Z</published>
+    <summary>Here. From Ramon: Microsoft commissioned VeriTest, a division of Lionbridge Technologies, Inc., to conduct a series of tests comparing the File serving performance of the following server operating system configurations running on a variety of server hardware and processor configurations: Windows Server 2003 Enterprise Edition Release Candidate 2 Red Hat Linux Advanced Server 2.1 Red Hat Linux 8.0 Professional enjoy..</summary>
+    <content type="html">&lt;h1>Microsoft Windows Server 2003 vs. Linux&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/preview.asp?ID=2814">Here&lt;/a>. From Ramon: Microsoft commissioned VeriTest, a division of Lionbridge Technologies, Inc., to conduct a series of tests comparing the File serving performance of the following server operating system configurations running on a variety of server hardware and processor configurations: 
+
+Windows Server 2003 Enterprise Edition Release Candidate 2 
+
+Red Hat Linux Advanced Server 2.1 
+
+Red Hat Linux 8.0 Professional 
+
+enjoy..</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/562</id>
+    <title>MS Discusses Next-Generation Secure Computing Base</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. "Security and privacy are two of the most important -- and difficult -- issues facing the computer industry. Improving the ability of software and hardware to protect the integrity of digital information and the privacy of computer users has become a critical focus for both software developers and hardware manufacturers. Last June, Microsoft introduced a new security technology, code-named "Palladium" at the time, that is designed to provide the foundation for a new approach to security and privacy in...</summary>
+    <content type="html">&lt;h1>MS Discusses Next-Generation Secure Computing Base&lt;/h1>
+&lt;a href="http://www.microsoft.com/presspass/features/2003/may03/05-07NGSCB.asp">Here&lt;/a>. "Security and privacy are two of the most important -- and difficult -- issues facing the computer industry. Improving the ability of software and hardware to protect the integrity of digital information and the privacy of computer users has become a critical focus for both software developers and hardware manufacturers. Last June, Microsoft introduced a new security technology, code-named "Palladium" at the time, that is designed to provide the foundation for a new approach to security and privacy in Windows. Now known as the Next-Generation Secure Computing Base (NGSCB) for Windows, this technology utilizes an innovative hardware and software design to protect against malicious software in order to enhance privacy, security, and system integrity and help insure that software acts in a way that customers can rely on."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/560</id>
+    <title>Microsoft Details Longhorn Roadmap</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. "During his keynote address on day two of the Windows Hardware Engineering Conference (WinHEC), Microsoft Senior Vice President of the Windows Client Division, detailed his company's roadmap for delivering Longhorn, the next major Windows version."</summary>
+    <content type="html">&lt;h1>Microsoft Details Longhorn Roadmap&lt;/h1>
+&lt;a href="http://www.wininformant.com/Articles/Index.cfm?ArticleID=38967">Here&lt;/a>. "During his keynote address on day two of the Windows Hardware Engineering Conference (WinHEC), Microsoft Senior Vice President of the Windows Client Division, detailed his company's roadmap for delivering Longhorn, the next major Windows version."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/564</id>
+    <title>Easy Event Notification Using Multiple Inheritance</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. I had occasion to re-read my very first article today. I couldn't help myself, so I dropped in some annotations based on my experience since I wrote it. Bottom line: the ideas are still solid, but the writing needs work... While I thought that this 6/95 article was lost in the mists of time, Betsy Hardinger, the copy editor on the WinForms book, faxed me a paper copy (she's been around a while, obviously : ). When the fax came in, I thought I'd have to transcribe the piece (I only type ~65wpm). Luckil...</summary>
+    <content type="html">&lt;h1>Easy Event Notification Using Multiple Inheritance&lt;/h1>
+&lt;a href="/public/writing/Easy%20Event%20Notication%20(Annotated).doc">Here&lt;/a>. I had occasion to re-read my very first article today. I couldn't help myself, so I dropped in some annotations based on my experience since I wrote it. Bottom line: the ideas are still solid, but the writing needs work...
+
+While I thought that this 6/95 article was lost in the mists of time, Betsy Hardinger, the copy editor on the WinForms book, faxed me a paper copy (she's been around a while, obviously : ). When the fax came in, I thought I'd have to transcribe the piece (I only type ~65wpm).
+
+Luckily, Office 11 comes with MS Office Document Imaging, which has built-in OCR. After processing the document, I was able to select columns of text and past them into Word. I had to do considerable clean-up, but it was about 10x faster than typing it all by hand. I do so love MS software.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/565</id>
+    <title>Microsoft-specific Google</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. I'm constantly amazed at how few people know about the Microsoft-specific Google site. The results almost always link back to somewhere on microsoft.com but the results seem to be somewhat more [cough] comprehensive than [sneeze] [rub eyes] MS's own search engine. [nudge] [nudge] Enjoy.</summary>
+    <content type="html">&lt;h1>Microsoft-specific Google&lt;/h1>
+&lt;a href="http://www.google.com/microsoft.html">Here&lt;/a>. I'm constantly amazed at how few people know about the Microsoft-specific Google site. The results almost always link back to somewhere on microsoft.com but the results seem to be somewhat more [cough] comprehensive than [sneeze] [rub eyes] MS's own search engine. [nudge] [nudge] Enjoy.</content>
+  </entry>
+</feed>

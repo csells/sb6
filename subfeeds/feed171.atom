@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed171.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed170.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed172.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed171.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12426</id>
+    <title>.NET IM Client Classes</title>
+    <updated>2002-03-08T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-03-08T08:00:00.000Z</published>
+    <summary>Inspired by my need to know who was calling without hauling my butt off the couch to look at the caller ID on the phone across the room (my father always said that &amp;quot;laziness is the mother of invention&amp;quot;), I built a couple of C# classes for managing an IM connection and an IM session. The test client is a console application that just sends messages and dumps whatever it gets from the IM server to the console, but I think it would serve as the code is the beginnings of a real IM client. It does the ...</summary>
+    <content type="html">&lt;h1>.NET IM Client Classes&lt;/h1>
+
+    &lt;p align="left">Inspired by my need to know who was calling without hauling 
+    my butt off the couch to look at the caller ID on the phone across the room 
+    (my father always said that &amp;quot;laziness is the mother of invention&amp;quot;),
+    &lt;a href="/public/tools/imcli.zip">I built a couple of C# classes for managing an IM 
+    connection and an IM session&lt;/a>. The test client is a console application 
+    that just sends messages and 
+    dumps whatever it gets from the IM server to the console, but I think it 
+    would serve as the code is the beginnings of a real IM client. 
+    It does the MD5 stuff properly and handles being redirected to another IM 
+    server, so the hard part of the protocol is already implemented. The sample 
+    itself is a handy little program that logs in as an IM user, sends a message 
+    to another IM user and logs back off again. Perfect for annoying your office 
+    mates. Enjoy.&lt;/p>
+    &lt;p align="left">BTW, &lt;a href="mailto:harry@devhawk.net">Harry Pierson&lt;/a> 
+    has made a number of updates to this core code to support his
+    &lt;a href="http://www.devhawk.net/projects/messenger.aspx">full-blown 
+    .NET IM client application&lt;/a>. Check it out!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12591</id>
+    <title>HTTP is Dead?</title>
+    <updated>2002-02-27T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/conference/mini_wsdclogo.gif"/>
+    <category term="spout" label="The Spout"/>
+    <published>2002-02-27T08:00:00.000Z</published>
+    <summary>Your friend and mine, Don Box, caused quite a stir yesterday with his keynote at European DevWeek in London. Peter Drayton has also written up a summary (which is much more technically meaty), as well as a commentary. There has been some quite spiriting follow up on this talk all over the Internet: the.NET mailing list, the Off Topic mailing list, the REST mailing list and XML Deviant on XML.COM. Also, while I absolutely a</summary>
+    <content type="html">&lt;h1>HTTP is Dead?&lt;/h1>
+
+        &lt;p>Your friend and mine, Don Box, caused quite a stir yesterday with
+        &lt;a href="http://zdnet.com.com/2100-1105-845220.html">his 
+        keynote at European DevWeek in London&lt;/a>. 
+        &lt;a href="http://www.razorsoft.net/weblog/stories/2002/02/28/thatKeynoteyouKnowTheOne.html">
+        Peter Drayton has also written up a summary&lt;/a> (which is much more 
+        technically meaty), as well as a commentary. There has been some quite 
+        spiriting follow up on this talk all over the Internet:
+        &lt;a href="http://discuss.develop.com/archives/wa.exe?A1=ind0202d&amp;L=dotnet#38">
+        the .NET mailing list&lt;/a>,
+        &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/message/3856">
+        the Off Topic mailing list&lt;/a>,
+        &lt;a href="http://groups.yahoo.com/group/rest-discuss/message/822">the 
+        REST mailing list&lt;/a> and
+        &lt;a href="http://www.xml.com/pub/a/2002/03/06/deviant.html">
+        XML Deviant on XML.COM&lt;/a>. Also, while I absolutely agree with Don 
+        that the way we use HTTP today leads to trouble, I thought that Ian 
+        Griffiths, a fellow DevelopMentor instructor, had a wonderful point of 
+        view that he allowed me to share:&lt;/p>
+        &lt;p>&lt;i>Guest opinion by Ian Griffiths&lt;/i>&lt;/p>
+        &lt;p>Basically Don seemed to be saying that there are two problems with 
+        HTTP (and saying HTTP is dead is just an effective way of getting people 
+        to listen; I was half tempted to start my Windows Forms speech at the UK 
+        MSDN DevCon with &amp;quot;The Web Application is Dead&amp;quot;). &lt;/p>
+        &lt;p>One of these is that HTTP is unidirectional. Surely .NET remoting 
+        shows that this isn't strictly true: individual connections are 
+        directional but it's entirely possible to do callbacks by having 
+        connections go in both directions. (Well duh.) The real problem is that 
+        the firewall architectures of the internet are designed to make sure the 
+        connections only go in one direction; it's not a problem with the 
+        protocol per se, it's a problem with the infrastructure. In order to fix 
+        this problem you need to change the infrastructure regardless of what 
+        you do to the protocol. And if you fix the infrastructure you don't 
+        actually need to fix the protocol, since we already know that it's fine 
+        on networks that don't deliberately break bidirectional communication.
+        &lt;/p>
+        &lt;p>Arguably one of the main obstacles here is the use of NAT - NAT makes 
+        it hard for a client behind a firewall to publish an endpoint. But NAT 
+        is fundamentally important because we'd have run out of IP addresses 
+        already if it weren't in such widespread use. So the only way to get rid 
+        of NAT is for everyone to upgrade to IPv6. This will presumably happen 
+        fairly soon since we will run out of IP addresses in any case in about 3 
+        or 4 years. (Windows XP ships with IPv6 support by the way. Type &amp;quot;ipv6 
+        install&amp;quot; at a command prompt if you haven't already. So Microsoft are 
+        quietly making IPv6 ubiquitous on the desktop.) &lt;/p>
+        &lt;p>So presuming ipv6 takes off, that's a fundamental technical obstacle 
+        to the one-way nature of HTTP removed. But another one remains: just 
+        because IPv6 pushes the address exhaustion date out of our lifetimes (we 
+        hope), doesn't mean that firewall admins will let connections work both 
+        ways through the firewall. The bidirectional problem can only be solved 
+        with the blessing of firewall admins. And once you have that you don't 
+        actually need IPv6, strictly speaking - given a suitable protocol 
+        between the client machines and the firewall there's no reason that NAT 
+        can't be done in both directions. (Indeed my sub-$100 firewall appliance 
+        can do this on a statically configured basis. It is possible (if a 
+        little inconvenient) for machines behind the firewall to publish 
+        endpoints successfully.) &lt;/p>
+        &lt;p>UPnP apparently has a solution for this. (A better one than static 
+        configuration.) It supports P2P network applications that require 
+        clients behind the firewall to be able to accept incoming connections. 
+        It defines precisely what you need: a protocol that lets a client 
+        machine negotiate with the firewall to open up a port for incoming 
+        connections. So it turns out that a technical solution to the problem 
+        already exists. (Without even having to invoke IPv6. Although we still 
+        need that, due to a shortage of address bits in IPv4.)&lt;/p>
+        &lt;p>So the first problem already has a technical solution. Presume for a 
+        moment (and it's a big presumption) that these solutions can be 
+        deployed, and firewall admin policies set up so that they are broadly 
+        useable. &lt;/p>
+        &lt;p>At this point, the second complaint Don makes - the fact that 
+        long-running requests don't sit well with HTTP - becomes much less of an 
+        issue. We just need to use separate HTTP requests for the request and 
+        the response. We connect to the server, send a request, along with some 
+        response endpoint info (a URL). When the server is done it connects to 
+        us, sends us a response. And we're done. I'm guessing it would probably 
+        be possible to write a .NET remoting channel that works like this. The 
+        only obstacle is the ability for clients to advertise endpoints.&lt;/p>
+        &lt;p>So if a client can advertise an endpoint somehow (i.e. it can (a) 
+        convince the firewall to let a connection request come in, and (b) work 
+        out what the endpoint should be - it needs to be aware of any NAT 
+        translation going on) then HTTP can actually solve both the problems 
+        raised here. And as far as I can tell, *any* solution to the problems 
+        raised is going to have to allow the client to receive incoming 
+        requests. In which case why invent a new protocol? Once you've solved 
+        the fundamental problems in the network that stop you from doing this, 
+        HTTP is good enough.&lt;/p>
+        &lt;p>The only issues are: (1) getting everyone to agree on how clients 
+        will expose endpoints (UPnP has had nothing but bad press so far, since 
+        the only thing most people know about it is that the first security hole 
+        discovered in Windows XP was connected to it somehow; so it might have 
+        to be something else...), and (2) convincing firewall admins to allow 
+        this functionality to be used.&lt;/p>
+        &lt;p>Of course just because a technical solution exists doesn't mean it's 
+        a great solution. Given that this is a fair distance from HTTP as 
+        originally envisaged, it would doubtless be possible to design a 
+        protocol better suited to the job. But would the benefits be worth it? 
+        Everyone already has an HTTP stack and an XML parser - will they flock 
+        to implement a new purpose-built solution?&lt;/p>
+        &lt;p>The problems raised in the ZDnet article can essentially be summed up 
+        thus: clients can't expose endpoints. To me, this doesn't look like a 
+        problem with HTTP, it's a problem with the infrastructure. Changing the 
+        protocol is certainly not sufficient to fix the infrastructure problems; 
+        it's not clear to me that it is even necessary. &lt;/p>
+        &lt;p>So really this is a social problem, not a technical one. ;-)&lt;/p>
+        &lt;p>&lt;b>&lt;i>
+        &lt;img border="0" src="/public/conference/mini_wsdclogo.gif" width="62" height="51" align="left">If 
+        you're interested in this topic or what other interesting things Don 
+        will say next, he's giving the keynote address at the
+        &lt;a href="/conference">Web Services DevCon on March 21-22&lt;/a> in 
+        Beaverton, OR (10 minutes west of Portland).&lt;/i>&lt;/b>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12590</id>
+    <title>Please Say "Why"</title>
+    <updated>2002-02-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-02-27T08:00:00.000Z</published>
+    <summary>As.NET demands new books and articles and the economy has given a lot of smart folk free time, the world is becoming inundated in.NET books, articles, talks and courses, many of which I am tapped to review. Some are wonderful. Some are awful. Most, however are *almost* good, the path to goodness well within the author's reach but for the answer to one question: &amp;quot;why?&amp;quot; Most of my feedback is riddled with questions that start with why: &amp;quot;Why was it built this way?&amp;quot; &amp;quot;Why are there three...</summary>
+    <content type="html">&lt;h1>Please Say "Why"&lt;/h1>
+
+        &lt;p>As .NET demands new books and articles and the economy has given a 
+        lot of smart folk free time, the world is becoming inundated in .NET 
+        books, articles, talks and courses, many of which I am tapped to review. 
+        Some are wonderful. Some are awful. Most, however are *almost* good, the 
+        path to goodness well within the author's reach but for the answer to one 
+        question: &amp;quot;why?&amp;quot;&lt;/p>
+        &lt;p>Most of my feedback is riddled with questions that start with why: 
+        &amp;quot;Why was it built this way?&amp;quot; &amp;quot;Why are there three choices and how do I 
+        choose?&amp;quot; &amp;quot;Why should I care?&amp;quot; Please, when you write, remember this 
+        question and answer it thoroughly and well. The why is *so* much more 
+        important than the how. The online documentation for .NET is fabulous 
+        for describing the how, once you understand the motivation for this 
+        class, that method or the other namespace.&lt;/p>
+        &lt;p>Prose that provides the how is transient, but prose that provides the 
+        why becomes classic because the why itself is surprisingly applicable 
+        between technologies. At the very least, if you answer the why, it will 
+        save me work if I'm to review your prose.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12589</id>
+    <title>How Did You Get Your Start?</title>
+    <updated>2002-02-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-02-27T08:00:00.000Z</published>
+    <summary>Standing in the rain, with his head hung low, couldn't get a ticket, it was a sold out show, heard the roar of the crowd, he could picture the scene, put his ear to the wall and like a distant scream, he heard one guitar, just blew him away, saw stars in his eyes and the very next day, bought a beat-up six string in a second hand store, didn't know how to play it, but he knew for sure that one guitar felt good in his hands, didn't take long to understand, just one guitar, slunk way down low, was a one-way t...</summary>
+    <content type="html">&lt;h1>How Did You Get Your Start?&lt;/h1>
+
+        &lt;p>&lt;i>Standing in the rain, with his head hung low, couldn't get a 
+        ticket, it was a sold out show, heard the roar of the crowd, he could 
+        picture the scene, put his ear to the wall and like a distant scream, he 
+        heard one guitar, just blew him away, saw stars in his eyes and the very 
+        next day, bought a beat-up six string in a second hand store, didn't 
+        know how to play it, but he knew for sure that one guitar felt good in 
+        his hands, didn't take long to understand, just one guitar, slunk way 
+        down low, was a one-way ticket, only one way to go, so he started 
+        rocking, ain't never gonna stop, gotta keep on rockin', someday gonna 
+        make it to the top and be a Jukebox Hero....&lt;/i>&lt;/p>
+        &lt;p>&lt;i>Jukebox Hero, Foreigner&lt;/i>&lt;/p>
+        &lt;p>It's my understanding that once a musician reaches a certain level of 
+        notoriety, they are often asked how they got their start, so that the 
+        fan can obtain the level of success that the musician has obtained. Over 
+        the years, I've received quite a few of these kinds of emails, all of 
+        which flatter and surprise me, since I don't feel like I've obtained the 
+        level of success that I'd like to. Still, I'm happy to offer, if not advice, 
+        than  a list of what I did to obtain a level of recognition in our 
+        little circle.&lt;/p>
+        &lt;p>It all started in early 1994, when I went to work for DevelopMentor. 
+        Don's strategy, which remains in place to this day, was to give every 
+        instructor the opportunity for &amp;quot;stardom.&amp;quot; He had just started to obtain 
+        his own notoriety in the industry with his flamboyant personality, 
+        teaching and answering every other question on the DCOM mailing list. 
+        From there, he used his political acumen to make friends with conference 
+        organizers and book publishers, working to add the same level of rigor 
+        to Windows development as he was accustomed to applying in the pursuit 
+        of his PhD.&lt;/p>
+        &lt;p>Since Don is a fellow that gains happiness in togetherness (or, put 
+        another way, &amp;quot;misery loves company&amp;quot;), he dragged the rest of us into his 
+        world of course authorship, 24x7 mailing lists, speaker anxiety, article 
+        deadlines and demanding book editors. To find my place in this world, I 
+        did the following, leveraging the success I had in the early work to 
+        make the later work happen:&lt;/p>
+        &lt;ul>
+          &lt;li>Answered every other question on the DCOM and ATL mailing lists 
+          and continue to be very active on the .NET mailing list.&lt;/li>
+          &lt;li>Wrote and gave numerous courses and conference talks.&lt;/li>
+          &lt;li>Wrote a number of books and articles.&lt;/li>
+          &lt;li>Put up a web site dedicated, initially, to the various bits and 
+          pieces of code I'd built and then expanded it as I had more to say 
+          (which turned out to be quite a lot, apparently : ).&lt;/li>
+          &lt;li>Took as much consulting as I could to gain real-world experience, 
+          which I put into my other work.&lt;/li>
+          &lt;li>Asked fans and happy clients to post their comments on Amazon or 
+          allow me to post to my own web site.&lt;/li>
+          &lt;li>Crazy things just for fun, e.g. pose naked or misinterpret an 
+          email on purpose in order to post a humorous response.&lt;/li>
+          &lt;li>Made friends with the owners and producers of the technology in 
+          which I was interested.&lt;/li>
+          &lt;li>Threw a couple of conferences.&lt;/li>
+          &lt;li>Started (and stopped) a department to build software developer 
+          tools.&lt;/li>
+          &lt;li>Launched my own (budding) software development tools.&lt;/li>
+          &lt;li>Launched a couple of source available projects with folks from the 
+          community.&lt;/li>
+          &lt;li>Launched my own mailing list.&lt;/li>
+        &lt;/ul>
+        &lt;p>It seems like a lot, but practically everything I've done since 1994 
+        has been published with my name on it, making me as much an agent for 
+        myself as an actual &amp;quot;musician&amp;quot; (I believe the phrase is &amp;quot;shameless 
+        self-promotion&amp;quot; : ). Based on this experience, here are the guiding 
+        principles that I try to follow:&lt;/p>
+        &lt;ul>
+          &lt;li>Do the right thing. My father always used to say that anything 
+          worth doing was worth doing right and that the right thing was easy to 
+          spot -- its was the hardest.&lt;/li>
+          &lt;li>You can't win if you don't bet.&lt;/li>
+          &lt;li>Be very thorough so that I can be sure of myself, leading to...&lt;/li>
+          &lt;li>Take a stand. Have an opinion. Defend my opinion until I have been 
+          convinced of my mistake, then admit my mistake and take up the 
+          opposite stand with equal vigor.&lt;/li>
+          &lt;li>Try a lot of things and don't be afraid to make mistakes.&lt;/li>
+          &lt;li>Be quick to give credit and admit mistakes, both in public and in 
+          private.&lt;/li>
+          &lt;li>Recognize opportunity and follow up.&lt;/li>
+          &lt;li>Get down to the real &amp;quot;why&amp;quot; of something, whether it's computer 
+          technology or another kind of technical discipline.&lt;/li>
+          &lt;li>Recognize the people, on the other hand, don't always have a 
+          &amp;quot;why,&amp;quot; and learn to deal with it (I still work on that!).&lt;/li>
+          &lt;li>Always strive for quality over the quick and dirty.&lt;/li>
+          &lt;li>Concentrate on the things that I really want to do. I like to say 
+          &amp;quot;Only do those things that you can't *not* do,&amp;quot; but in a down economy, 
+          I've learned to temper that with fiscal reality.&lt;/li>
+          &lt;li>Finish what I start.&lt;/li>
+          &lt;li>Make sure people are happy with my work and don't stop 'til they 
+          are.&lt;/li>
+          &lt;li>Have balance in my life. I have a wife and children that I love 
+          and spend as much time with as possible.&lt;/li>
+          &lt;li>Horse trade. I am always willing to offer what I have, e.g. 
+          experience, time, contacts, etc, for what I want, e.g. work, money, 
+          content, etc.&lt;/li>
+          &lt;li>Help other people find their own places. I'm constantly concerned 
+          with my friends and their happiness and will do whatever I can to help 
+          them get to do whatever it is that they &amp;quot;can't not do.&amp;quot; This is a 
+          lesson I learned from Don. He helped me to become all that I could be 
+          and, in turn, I do my best to help others.&lt;/li>
+        &lt;/ul>
+        &lt;p>Actually, most of this I learned from Don, either directly or 
+        indirectly. I guess my only real piece of advise is to try to find 
+        someone you admire and to do what they do. Don was my main mentor, but 
+        I've had many over the years and they're invaluable, even if all I had 
+        was a beat-up six string...&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12398</id>
+    <title>Tough Interview</title>
+    <updated>2002-02-19T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-19T08:00:00.000Z</published>
+    <summary>Chris Sells, 2/19/2002 I woke up this morning with a splitting headache. Just before I woke, I was dreaming that I was interviewing at Microsoft. They held nothing back. It was a group affair with several role-playing scenarios to see how I would handle them. At the end, they threw a mock wedding and sat Tate Donovan (Joshua from the Friends TV show) right next to me while he pretended to be a loud, drunk uncle. I ended up dragging him outside into the street and when he pulled a knife (he was also a Vietna...</summary>
+    <content type="html">&lt;h1>Tough Interview&lt;/h1>
+&lt;p>&lt;i>Chris Sells, &lt;span class="created">2/19/2002&lt;/span>&lt;/i>&lt;/p>&lt;p>I woke up this morning with a splitting headache. Just before I woke, I was dreaming that I was interviewing at Microsoft. They held nothing back. It was a group affair with several role-playing scenarios to see how I would handle them. At the end, they threw a mock wedding and sat Tate Donovan (Joshua from the Friends TV show) right next to 
+me while he pretended to be a loud, drunk uncle. I ended up dragging him outside into the street and when he pulled a knife (he was also a Vietnam vet, apparently). I was able to get in one good shot before he &amp;quot;killed&amp;quot; 
+me. Later I attempted to save face by explaining to Tate that I would've done better, but I was afraid to hurt him. Tate looked at 
+me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough interview.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12399</id>
+    <title>Smart is Not Enough</title>
+    <updated>2002-02-18T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-18T08:00:00.000Z</published>
+    <summary>2/18/2002 Here's a recent Fortune magazine article about the MS interview process and the culture. Scary... </summary>
+    <content type="html">&lt;h1>Smart is Not Enough&lt;/h1>
+&lt;span class="created">2/18/2002&lt;/span>
+&lt;p>Here's &lt;a href="http://www.fortune.com/indext.jhtml?channel=print_article.jhtml&amp;amp;doc_id=00003138">a recent Fortune magazine article&lt;/a> about the MS interview process and the culture. Scary...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12400</id>
+    <title>Reaction from Microsoft</title>
+    <updated>2002-02-18T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-18T08:00:00.000Z</published>
+    <summary>2/18/2002 &amp;nbsp;Here's a quote from an anonymous source: &amp;quot;I was given your page address from a friend who happens to work at Microsoft and does interviews. He has told me that Microsoft has told all its interviewing employees to keep an eye on your page for ideas and thoughts.&amp;quot; Figures. I set out to help the interviewees and I end up helping the interviewers. Is there nothing that Microsoft can't leverage for their own benefit? </summary>
+    <content type="html">&lt;h1>Reaction from Microsoft&lt;/h1>
+&lt;span class="created">2/18/2002&lt;/span>
+&lt;p>&amp;nbsp;Here's a quote from an anonymous source:&lt;/p>&lt;blockquote>&lt;p>&amp;quot;I was given your page address from a friend who happens to work at Microsoft and does interviews. He has told 
+	me that Microsoft has told all its interviewing employees to keep an eye on your page for ideas and thoughts.&amp;quot; &lt;/p>&lt;/blockquote>&lt;p>Figures. I set out to help the &lt;i>interviewees&lt;/i> and I end up helping the &lt;i>interviewers.&lt;/i> Is there nothing that Microsoft can't leverage for their own benefit? &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12401</id>
+    <title>More Reaction from Microsoft</title>
+    <updated>2002-02-18T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-18T08:00:00.000Z</published>
+    <summary>2/18/2002 I've heard from several of my friends at Microsoft (and yes, I do have some...), that Microsoft is not such a terrible place to work, but nobody puts it better than Mike Byron : &amp;quot;Huh. Ran into your Web page about Microsoft. I gotta comment on one thing I saw there: 'Over the years I've been collecting interview questions from Microsoft. I guess I started this hobby with the intent of working there some day, but now that I have a wife and two kids, that's pretty much out of the&amp;nbsp;question.'...</summary>
+    <content type="html">&lt;h1>More Reaction from Microsoft&lt;/h1>
+&lt;span class="created">2/18/2002&lt;/span>
+&lt;p>I've heard from several of my friends at Microsoft (and yes, I do have some...), that Microsoft is not such a terrible place to work, but nobody puts it better than &lt;a href="mailto:mbyron@microsoft.com">Mike Byron&lt;/a>: &lt;/p>&lt;blockquote>&lt;p>&amp;quot;Huh. Ran into your Web page about Microsoft. I gotta comment on one thing I saw there: &lt;/p>&lt;p>'Over the years I've been collecting interview questions from Microsoft. I guess I started this hobby with the intent of working there some day, but now that I have a wife and two kids, that's pretty much out of the&amp;nbsp;question.' &lt;/p>&lt;p>&amp;quot;Baloney. I've been working at Microsoft for almost 5 years. I&amp;nbsp;have a wife&amp;nbsp;and twin 7-year-olds. I have an active church life. I work around 40-45&amp;nbsp;hours per week, and have for the whole time. I have a GREAT time at&amp;nbsp;Microsoft.&amp;nbsp;I'm a veteran of Silicon Valley. Been creating mostly systems software&amp;nbsp;since 1977. Microsoft is no different from most Silicon Valley&amp;nbsp;companies --better hours than most startups, more driven than HP. I do work an&amp;nbsp;occasional 50-55 hour week close to ship time. &lt;/p>&lt;p>&amp;quot;Now, there are people that work here with completely different stories. But&amp;nbsp;I am in no wise unique. I have lots of friends in basically the same&amp;nbsp;position -- 40 hour weeks.&amp;quot; &lt;/p>&lt;/blockquote>&lt;p>Thanks for the quote, Mike. I'll try not to get you into &amp;quot;trouble...&amp;quot; &lt;/p>&lt;p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12402</id>
+    <title>Contacting Microsoft</title>
+    <updated>2002-02-17T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-17T08:00:00.000Z</published>
+    <summary>2/17/2002 If you'd like to beg Bill directly for a job, his email is billg@microsoft.com. If you'd actually like an answer some day, send your questions to askbill@microsoft.com. </summary>
+    <content type="html">&lt;h1>Contacting Microsoft&lt;/h1>
+&lt;span class="created">2/17/2002&lt;/span>
+&lt;p>If you'd like to beg Bill directly for a job, his email is &lt;a href="mailto:billg@microsoft.com">billg@microsoft.com&lt;/a>. If you'd actually like an answer some day, send your questions to &lt;a href="mailto:askbill@microsoft.com">askbill@microsoft.com&lt;/a>. &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12655</id>
+    <title>Welcome to Genghis!</title>
+    <updated>2002-02-16T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/tools/genghis/images/genghis.gif"/>
+    <category term="tools" label="Tools"/>
+    <published>2002-02-16T08:00:00.000Z</published>
+    <summary>Welcome to Genghis Genghis is a set of extensions built on top of.NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL. Disclaimer Most of the Genghis classes were built by different folks and while every effort was made to keep things consistent by choosing.NET and WinForms design techniques, everyone does things their own way. ...</summary>
+    <content type="html">&lt;h1>Welcome to Genghis!&lt;/h1>
+		&lt;h2>&lt;img border="0" src="/public/tools/genghis/images/genghis.gif" align="left" width="140" height="231">Welcome 
+			to Genghis&lt;/h2>
+		&lt;p>Genghis is a set of extensions built on top of .NET and integrated with WinForms 
+			to provide application-level services in the same flavor as the Microsoft 
+			Foundation Classes. Genghis gets its name as the functional heir to &lt;a href="/12652">
+				Attila&lt;/a>, a similar set of functionality built on top of ATL.&lt;/p>
+		&lt;h2>Disclaimer
+		&lt;/h2>
+		&lt;p>Most of the Genghis classes were built by different folks and while every effort 
+			was made to keep things consistent by choosing .NET and WinForms design 
+			techniques, everyone does things their own way.&lt;/p>
+		&lt;p>This work is the work of the individuals involved and does not represent any 
+			contribution of their respective employers. You are under no obligation to use 
+			any of Genghis at any time, but if you do, &lt;a href="#license">you are required to 
+				abide by the License&lt;/a>.&lt;/p>
+		&lt;h2>Installation&lt;/h2>
+		&lt;p>You can
+		&lt;a href="http://codeplex.com/genghis/">download the latest Genghis source code from here&lt;/a>. The Genghis 
+		archive includes this page, the source code to the Genghis class 
+		library, a series of samples showing off the various classes and a 
+		pre-built, signed version of genghis.dll in the redist folder. Notice 
+		that some of the samples use the Genghis files directly instead of using 
+		the compiled Genghis assembly. Either usage is supported by Genghis 
+		(except where it drives the WinForms Designer nuts).&lt;/p>
+		&lt;h2>Source Code Control&lt;/h2>
+		&lt;P>Genghis source code control has been moved to
+		&lt;a href="http://codeplex.com/genghis/">
+		the Genghis CodePlex workspace&lt;/a>. Thanks to
+		GotDotNet and
+		&lt;a href="mailto:rmacfadyen@rmtrack.com">Rob MacFadyen&lt;/a> for hosting 
+		the previous versions.&lt;/P>
+		&lt;h2>Building Genghis&lt;/h2>
+      &lt;p>
+         Genghis is written in C#. Building Genghis requires Visual C# or
+         Visual Studio.NET.
+         Visual Studio.NET solution and project files (*.sln and *.csproj)
+         are provided to build Genghis and all the samples. You should be able
+         to load any solution file into Visual C#/Visual Studio.NET and build
+         the project for yourself.&lt;/p>
+      &lt;p>
+         A NAnt build script (Genghis.build) is also provided. It is used to 
+			make the snapshot for Genghis, and is not designed for general use. 
+			You may wish to use this file to simulate the snapshot build 
+			process; please be aware that you will not be able to properly sign 
+			the release mode Genghis DLL (the private key is not provided in 
+			this distribution).
+      &lt;/p>
+      &lt;p>
+         For Visual Studio.NET related build issues, please contact the
+         &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic">Off Topic
+         Windows mailing list&lt;/a>. This is where the Genghis contributors have
+         their discussions, and most of them will be familiar with Visual
+         Studio.NET builds of Genghis.
+         If you have NAnt related build issues, you should contact
+         &lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a> (the
+         Genghis build master) directly.&lt;/p>Thanks to &lt;a href="http://dotnetguy.techieswithcats.com">
+				Brad Wilson&lt;/a> for the NAnt build scripts for folks without VS.NET.&lt;h2>Bug Reports&lt;/h2>
+		&lt;P>Bugs will now be kept in
+		&lt;a href="http://codeplex.com/genghis/">
+		the Bug Tracker section of the GDN Workspace&lt;/a>.&lt;/P>
+		&lt;p>Please do not send Chris Sells or any of the other contributors personal email 
+			complaining about Genghis. Also please do not post Genghis bug reports to any 
+			mailing list. A much better way to contribute to the life of Genghis is to 
+			submit the fix along with the bug report.&lt;/p>
+		&lt;h2>Submission Guidelines&lt;/h2>
+		&lt;ul>
+			&lt;li>
+			Submissions should be in the Genghis namespace (I don't think we'll have to 
+			worry about collisions... : ).&lt;li>Submissions should be single-file and 
+			stand-alone as much as possible. The goal is that Genghis can be built as a DLL 
+			and used as a whole or that bits of its source can be pulled into individual 
+			projects as needed ala atl.dll vs. atlwin.h.&lt;li>All code should be commenting 
+			using C# doc comments so that docs can be generated via Tools-&amp;gt;Generate 
+			Source Comments.&lt;li>All source code files should include &lt;a href="#license">the 
+					copyright and license notice&lt;/a>.&lt;li>All code shall be set to use 
+			spaces, not tabs, and a vanilla coding style.&lt;li>When hacking on existing code, 
+				thou shall conform to the existing coding standard of the file. Many coding 
+				standards are readable, but not when mixed.&lt;/li>&lt;/ul>
+		&lt;h2>The Genghis Group&lt;/h2>
+		&lt;p>This group is made up of official Genghis 
+			contributors:&lt;/p>
+		&lt;ul>
+			&lt;li>
+				&lt;a href="/">Chris Sells&lt;/a>
+			(9 features)&lt;li>&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan Brown&lt;/a>
+			(5 features)&lt;li>&lt;a href="mailto:hveith@intercom.at">Horst Veith&lt;/a>
+			(2 features)&lt;li>&lt;a href="mailto:mikedub@bigpond.com">Michael Weinhardt&lt;/a>
+			(2 features)&lt;li>&lt;a href="mailto:swildermuth@adoguy.com">Shawn Wildermuth&lt;/a>
+			(2 features)&lt;li>&lt;a href="mailto:chris_j_burrows@hotmail.com">Chris Burrows&lt;/a>
+			(1 feature and 1 sample)&lt;li>&lt;a href="mailto:paulbartrum@mail.com">Paul 
+					Bartrum&lt;/a>
+			(1 feature and 1 sample)&lt;li>&lt;a href="mailto:mwa@digital-healthcare.com">Matthew 
+					Adams&lt;/a>
+			(2 features)&lt;li>&lt;a href="mailto:ethan.smith@pobox.com">Ethan Smith&lt;/a>
+			(1 feature)&lt;li>&lt;a href="mailto:ramakrishnavavilala@3csoftware.com">Ramakrishna Vavilala&lt;/a>
+			(1 feature)&lt;li>&lt;a href="mailto:shawnv@arithex.com">Shawn Van Ness&lt;/a>
+			(1 feature)&lt;li>&lt;a href="mailto:peter_foreman@yahoo.com">Peter Foreman&lt;/a>
+			(1 feature)&lt;li>&lt;a href="mailto:hchoroomi@usermail.com">Husein Choroomi&lt;/a>
+			(1 feature)&lt;li>&lt;a href="mailto:dean.cleaver@nettech.co.nz">Dean Cleaver&lt;/a>
+			(1 sample)&lt;li>&lt;a href="mailto:jeff.key@sliver.com">Jeff Key&lt;/a> (1 
+			feature)&lt;li>&lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a>
+				(current build master and 3 features)&lt;/li>&lt;li>&lt;a href="http://dotnetguy.techieswithcats.com">Brad Wilson&lt;/a>
+			(former build and CVS master)&lt;/ul>
+		&lt;h2>Who Does What&lt;/h2>
+		&lt;p>If you'd got something you'd like to see contribute 
+			to Genghis, &lt;a href="mailto:genghis@sellsbrothers.com?subject=I'd like to see something in Genghis">
+				please let me know&lt;/a> (multiple people are free to collaborate on a single 
+			feature).&lt;/p>
+		&lt;table border="1" cellspacing="0" cellpadding="0" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND: white; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse"
+			id="table1">
+			&lt;tr>
+				&lt;td bgcolor="#000000">&lt;p class="MsoNormal">&lt;b>&lt;span style="COLOR:white">Feature&lt;/span>&lt;/b>&lt;/p>
+				&lt;/td>
+				&lt;td bgcolor="#000000">&lt;p class="MsoNormal">&lt;b>&lt;span style="COLOR:white">Owner(s)&lt;/span>&lt;/b>&lt;/p>
+				&lt;/td>
+				&lt;td bgcolor="#000000">&lt;p class="MsoNormal">&lt;b>&lt;span style="COLOR:white">Progress&lt;/span>&lt;/b>&lt;/p>
+				&lt;/td>
+				&lt;td bgcolor="#000000">&lt;p class="MsoNormal">&lt;b>&lt;span style="COLOR:white">Screen Shot(s)&lt;/span>&lt;/b>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Command line parser&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/CommandLineTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Completion combo&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/CompletionComboTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Control hosting status bar&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:ethan.smith@pobox.com">Ethan 
+								Smith&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/ContainerStatusBarTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Cursor changer&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:swildermuth@adoguy.com">Shawn 
+								Wildermuth&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/CursorChangerTest.jpg">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Custom check state treeview&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/CustomStateTreeViewTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Custom XP theming controls&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:Genghis@sellsbrothers.com?subject=I'd%20like%20to%20claim%20owership%20of%20part%20of%20Genghis!">Matthew 
+								W. Adams et. al.&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/xptheme.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">File Search Engine&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:MplsCpl@yahoo.com">Mike 
+								Marshall&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/FileSearchEngine.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">FileDocument class (doc/dirty bit management)&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span>&lt;a href="/">Chris Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/FileDocumentTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">FindReplaceDialog&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:ramakrishnavavilala@3csoftware.com">Ramakrishna 
+								Vavilala&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/FindReplace.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">FolderNameDialog&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/FolderBrowser.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">HandleCollector for the world&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/HandleCollectorTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Header group box control&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:mwa@digital-healthcare.com">Matthew 
+								Adams&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/HeaderGroupBoxTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Image combo&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:hveith@intercom.at">Horst 
+								Veith&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/ImageComboTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">More robust validation ala WebForms&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:mikedub@bigpond.com">Michael 
+								Weinhardt&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/WinformValidationTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Most-Recently-Used (MRU) files support&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:mikedub@bigpond.com">Michael 
+								Weinhardt&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/MRUTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">MSN Messenger-style popup window&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:MplsCpl@yahoo.com">Mike 
+								Marshall&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/AniForm.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Multiple Top-Level Windows&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/multipletoplevel.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Multiple-instance detection&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Path resolution b/w UNC, local (including SUBST, etc)&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/PathResolverTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Retrieving mapped drives&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/PathResolverTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Retrieving shares&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoN&amp;#13;&amp;#10;ormal">&lt;span style="COLOR:black">&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/PathResolverTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Screen Saver class&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:shawnv@arithex.com">Shawn 
+								Van Ness&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="http://antwrp.gsfc.nasa.gov/apod/astropix.html">screenshot&lt;/a> (sorta : )&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Scrollable Picture Box&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:hchoroomi@usermail.com">Husein 
+								Choroomi&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/scrollablepicturebox.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Sorting listview (including the little triangle thingy)&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:hveith@intercom.at">Horst 
+								Veith&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/SortedLV.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Splash Screen class&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:peter_foreman@yahoo.com">Peter 
+								Foreman&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/SplashScreen.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Status Bar Extender&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/StatusBarExtender.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">WebCommandLineHelper&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/WebCommandLineHelperTest.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Window serializer&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:paulbartrum@mail.com">Paul 
+								Bartrum&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/WindowSerializer.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Wizard framework&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:swildermuth@adoguy.com">Shawn 
+								Wildermuth&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/WizardSheetSample.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>HtmlLinkLabel class
+				&lt;/td>
+				&lt;td>&lt;a href="mailto:jeff.key@sliver.com">Jeff Key&lt;/a>&lt;/td>
+				&lt;td>&lt;span style="COLOR:green">included&lt;/span>&lt;/td>
+				&lt;td>&lt;span style="COLOR:black">&lt;A href="/public/tools/genghis/screenshots/HtmlLinkLabel.jpg">screenshot&lt;/a>&lt;/span>&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td styl e="border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid black; padding: 1.5pt">
+				User-resizable panel&lt;/td>
+				&lt;td>&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan Brown&lt;/a>&lt;/td>
+				&lt;td>&lt;span style="COLOR:green">included&lt;/span>&lt;/td>
+				&lt;td>&lt;a href="/public/tools/genghis/screenshots/UserResizablePanel.jpg">screenshot&lt;/a>&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td styl e="border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid black; padding: 1.5pt">&lt;p class="MsoNormal">&lt;span style="COLOR:black">Gradient Progress Bar&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">included&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/GradientProgressBar.jpg">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td styl e="border-left: medium none; border-right: medium none; border-top: medium none; border-bottom: 1.0pt solid black; padding: 1.5pt">&lt;p class="MsoNormal">&lt;span style="COLOR:black">Command updating&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:paulbartrum@mail.com">Paul 
+								Bartrum&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">sample&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/SimplePad.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Cool bars/Cool menus&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:chris_j_burrows@hotmail.com">Chris 
+								Burrows&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">sample&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/CoolMenu.JPG">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Docking App Bar&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:dean.cleaver@nettech.co.nz">Dean 
+								Cleaver&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:green">sample&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/public/tools/genghis/screenshots/appbar.jpg">screenshot&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">A real image list control&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:wilsom4@hotmail.com">Matt 
+								Wilson&lt;/a> (of Attila fame!)&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Advanced layout managers, e.g. grid/table&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:mwa@digital-healthcare.com">Matthew 
+								Adams&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Command routing&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:paulbartrum@mail.com">Paul 
+								Bartrum&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Dynamically docking/undocking windows&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:Genghis@sellsbrothers.com?subject=I'd%20like%20to%20claim%20owership%20of%20part%20of%20Genghis!">TBD&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">href exe-safe serialization framework&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="/">Chris 
+								Sells&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Managed HTML display ala a C# port of Mozilla?&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:Genghis@sellsbrothers.com?subject=I'd%20like%20to%20claim%20owership%20of%20part%20of%20Genghis!">TBD&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Menu/toolbar editing ala Office or VS.NET&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:paulbartrum@mail.com">Paul 
+								Bartrum&lt;/a>, &lt;a href="mailto:chris_j_burrows@hotmail.com">Chris Burrows&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Outlook-style Bar&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:rbirkby@thundermain.com">Richard 
+								Birkby&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">SDI, MDI and Explorer-style application wizard&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:Genghis@sellsbrothers.com?subject=I'd%20like%20to%20claim%20owership%20of%20part%20of%20Genghis!">TBD&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">Tab-based MDI implementation (ala VS.NET)&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:Genghis@sellsbrothers.com?subject=I'd%20like%20to%20claim%20owership%20of%20part%20of%20Genghis!">TBD&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;tr>
+				&lt;td>&lt;p clas s="MsoNormal">&lt;span style="COLOR:black">Tear-off menus&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;a href="mailto:wilsom4@hotmail.com">Matt 
+								Wilson&lt;/a>&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:maroon">pending&lt;/span>&lt;/p>
+				&lt;/td>
+				&lt;td>&lt;p class="MsoNormal">&lt;span style="COLOR:black">&lt;/span>&lt;/p>
+				&lt;/td>
+			&lt;/tr>
+			&lt;/table>
+		&lt;p class="MsoNormal">Note: Anything marked with "&lt;font color="#008000">sample&lt;/font>" 
+			means that there's a sample included with Genghis that shows the current 
+			implementation of a feature but that it's not done enough to be part of the 
+			official Genghis component. Mostly the hold-up is integration with the WinForms 
+			Designer.&lt;/p>
+		&lt;h2>Documentation&lt;/h2>
+		&lt;p>The Genghis documentation is composed of the C# documentation comments as part 
+			of the automated build. Check redist\Genghis.chm for the latest.&lt;/p>
+		&lt;h2>SimplePad&lt;/h2>
+		&lt;p>&lt;a href="/public/tools/genghis/MfcSimplePad.zip">SimplePad is 
+				an MFC application&lt;/a> that should serve as a simple baseline for what 
+			Genghis should enable to be built easily. We currently need a raw WinForms 
+			implementation to help guide the Genghis development efforts. After building 
+			it, use Help-&amp;gt;Help Topics to see the list of features that the MFC SimplePad 
+			application provides straight out of the wizard (also duplicated here):&lt;/p>
+		&lt;ul>
+			&lt;li>
+			MDI application&lt;li>Multiple documents&lt;li>Multiple views per document that are 
+			updated as the document changes&lt;li>"Dirty" bit handling&lt;li>Title bar that shows 
+			the document with the current focus along with a dirty indicator, i.e. the 
+			asterix.&lt;li>File New, Open, Save, Save As, Exit and MRU&lt;li>MDI Window menu&lt;li>Separate 
+			icons for the application and the documents&lt;li>Association of the icons with 
+			the documents in the shell&lt;li>Dockable, floating toolbar&lt;li>Print, Print 
+			Preview, Print Setup&lt;li>Edit Undo, Cut, Copy and Paste.&lt;li>View Toolbar and 
+			Status bar&lt;li>Help Topics and About&lt;li>Context-sensitive help&lt;li>Status bar 
+			that updates when menu items or toolbar items are in "focus", as well as 
+			showing NUM, SCROLL and CAPS as these keys change. Since Microsoft has shown 
+			that no one looks at the status bar much, the auto-update as items come into 
+			focus is not a feature that needs to be duplicated in WinForms/Genghis.&lt;li>Command 
+			line launching of the application based on the application's file extension&lt;li>Drag-n-drop 
+			from the file explorer&lt;li>Double-click support from the file explorer (including 
+				routing open requests to a currently open application)&lt;/li>&lt;/ul>
+		&lt;p>&lt;b>The current .NET implementation of SimplePad is now available as one of the 
+				Genghis samples.&lt;/b> Thanks to &lt;a href="mailto:bartrumflat@xtra.co.nz">Paul 
+				Bartrum&lt;/a> and &lt;a href="mailto:Chris_J_burrows@hotmail.com">Chris Burrows&lt;/a>
+			for all their hard work on this!&lt;/p>
+		&lt;h2>History&lt;/h2>
+		&lt;ul>
+			&lt;li>
+				03/09/04: Release v0.5:
+				&lt;UL>
+					&lt;LI>
+						New HtmlLinkLabel class from
+						&lt;a href="mailto:jeff.key@sliver.com">Jeff Key&lt;/a> that 
+						knows how to launch IE and EXEs directly w/o requiring 
+						you to handle the event&lt;/LI>
+					&lt;LI>
+						Much prettier images in SimplePad from
+						&lt;a href="mailto:Chris_J_burrows@hotmail.com">Chris Burrows&lt;/a>&lt;/LI>
+					&lt;LI>
+						Updated MRU code from &lt;a href="mailto:mikedub@bigpond.com">Michael Weinhardt&lt;/a>
+						to match .NET event signature conventions and to fix a 
+						problem when using more than one MRU components on a 
+						single menu&lt;/LI>
+					&lt;LI>
+						Updated FileSearchEngine code from
+         &lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a> to check for 
+						whole words at beginning and end of line correctly&lt;/LI>
+					&lt;LI>
+						Updated validation code from &lt;a href="mailto:mikedub@bigpond.com">Michael Weinhardt&lt;/a>
+						with support for validating controls at a container 
+						level, e.g. validating controls on a tab instead of on 
+						an entire form&lt;/LI>
+					&lt;LI>
+						New gradient progress bar from
+					         &lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a> &lt;/LI>
+					&lt;LI>
+						Updated FileDocument from
+						&lt;a href="mailto:csells@sellsbrothers.com">Chris Sells&lt;/a> 
+						to match text of
+						&lt;a href="/public/writing/wfbook">
+						Windows Forms Programming&lt;/a> to include more MFC-like 
+						features like a pluggable scheme for serialization 
+						handling, registration of document extension with the 
+						shell, and adding to recent docs, i.e. Start-&amp;gt;Documents&lt;/LI>
+					&lt;LI>
+						Updated HandleCollector from &lt;span style="COLOR:black">
+						&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown&lt;/a>&lt;/span> to work with .NET 1.0 and .NET 
+						1.1&lt;/LI>
+					&lt;LI>
+						Performance enhancements from &lt;span style="COLOR:black">
+						&lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+								Brown &lt;/a>&lt;/span>in the MappedDrives and 
+						SystemShares classes&lt;/LI>
+					&lt;LI>
+						New user-resizable panel from &lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+							Brown&lt;/a>&lt;/LI>
+					&lt;LI>
+						Updated WebCommandLineHelper from Andrew Duncan to fix 
+						System.IO.FileLoadException in ieexec.exe&lt;/LI>
+					&lt;LI>
+						Updated AniForm from
+         &lt;a href="mailto:MplsCpl@yahoo.com">Mike Marshall&lt;/a> to support 
+						stacking ala SharpReader and fix a terminal 
+						server-related bug&lt;/LI>
+					&lt;LI>
+						Updated cool menu sample from
+						&lt;a href="mailto:Chris_J_burrows@hotmail.com">Chris Burrows&lt;/a> 
+						with additional support for abstracting commands from 
+						click even handlers&lt;/LI>&lt;/UL>
+			&lt;LI>
+				4/25/03: Release v0.4:&lt;ul>
+					&lt;li>
+					Everything tested under VS.NET 2002 &amp;amp; 2003 (except HandleCollector, which 
+					doesn't work under VS.NET 2003)
+					&lt;li>
+					Mike Marshall's AniForm -an MSN Messanger-style popup window&lt;li>Chris Burrows' 
+					Image Index Editor - a UI Type Editor for use with ImageList index selection&lt;li>Dean 
+					Cleaver's .NET AppBar implementation (a C# port of original code from Jeffrey 
+					Richter)&lt;li>Mike Marshall's File Search Engine: a text file search 
+					implementation with behavior similar to dev studio's "Find In Files"&lt;li>Matthew 
+					W. Adams' et. al. Themed controls&lt;li>Chris Sells's InitialInstanceActivator. 
+					The InitialInstanceActivator makes sure that only one instance of an 
+					application is started and when another instance is started, the first instance 
+					is passed the command line arguments passed to the initial instance&lt;li>Chris 
+					Sells's MultiSdiApplicationContext class for allowing multiple top-level 
+					Windows Forms&lt;li>Peter Stephens' changes to the CommandlineParser that fix some 
+					bugs as well as add the ability to skip the first argument&lt;li>Matt Berther's 
+					additions to the CompletionComboBox to fire an event when the text typed does 
+					not match any items in the dropdown&lt;li>Peter Foreman's splash screen 
+					implementation&lt;li>Chris Sells's newly improved WebCommandLineHelper class which 
+					now works with .NET 1.0 and 1.1, includes URL decoding and requires no 
+					additional permissions (although it does require a server-side HTTP handler, 
+					included as the ConfigFileHandler class that maps requests for 
+					foo.exe?bar=quux.config to the foo.exe.config file).&lt;li>Shawn Wildermuth's 
+					WizardSheet updates&lt;li>Chris Sells's Status Bar Extender for mapping status 
+					messages to Windows Forms controls&lt;li>Andre Van Der Merwe's CommandLineParser 
+						changes as described below:
+						&lt;ul>
+							&lt;li>
+							Added ValueDelimiters: enum for ValueUsageAttribute which lets the user specify 
+							which (combination) of delimiters (space, : or =) will be allowed&lt;li>Added 
+							AllowOnOff: bool in FlagUsageAttribute to specify if a +/- suffixes can be used 
+							on the flag&lt;li>Added EnvironmentDefaults: string in ParserUsageAttribute, 
+							allows the user to specify defaults in an environment variable (ala DIRCMD).&lt;li>Modified 
+								the Long&amp;amp;Short help generation functions to&lt;ul>
+									&lt;li>
+									Format/pad flag/param names correctly regardless of length&lt;li>Show [+|-] prefix 
+									(if applicable) for flags&lt;li>Show [sp|:|=] delimiters (as applicable) for values&lt;/li>&lt;/ul>
+							&lt;/li>
+						&lt;/ul>
+					&lt;/li>
+				&lt;/ul>
+			&lt;li>
+				08/18/02: Release v0.3:&lt;ul>
+					&lt;li>
+					Screen shots for everything.&lt;li>CVS repository available, as provided by &lt;a href="http://www.rmtrack.com">
+							our rmTrack sponsor&lt;/a>, along with extensive CVS docs from &lt;a href="http://dotnetguy.techieswithcats.com">
+							Brad Wilson&lt;/a>.&lt;li>MRU support from &lt;a href="mailto:mikedub@optusnet.com.au">Michael 
+							Weinhardt&lt;/a>, including both in-menu and sub-menu support.&lt;li>A much more 
+						robust set of validation components from &lt;a href="mailto:mikedub@optusnet.com.au">Michael 
+							Weinhardt&lt;/a>
+					(Michael's been busy : ) modeled along the lines of the ASP.NET validation 
+					components, including required, regex, range and comparison validators.&lt;li>FileDocument 
+						component from &lt;a href="/">Chris Sells&lt;/a>
+					for document/dirty bit handling.&lt;li>Wizard support from &lt;a href="http://www.adoguy.com/">
+							Shawn Wildermuth&lt;/a>, including changing page groups on the fly!&lt;li>Custom 
+						state treeview from &lt;a href="/">Chris Sells&lt;/a>
+					so that you can set and show all three checkbox states.&lt;li>A class to expose the 
+						WinForms HandleCollector from &lt;a href="mailto:ethan.j.brown@eastpointsystems.com">Ethan 
+							Brown&lt;/a>
+					so that you can put your own custom resources into it.&lt;li>A Screen Saver class from &lt;a href="mailto:shawnv@arithex.com">
+							Shawn Van Ness&lt;/a>.&lt;li>A bunch of file utility classes from &lt;a href="mailto:ethan.j.brown@eastpointsystems.com">
+							Ethan Brown&lt;/a>, including retrieving mapped drives, retrieving shares 
+					and path resolution b/w UNC, local (including SUBST, etc).&lt;li>A cursor changer 
+						class that works with the using block by &lt;a href="http://www.adoguy.com/">
+							Shawn Wildermuth&lt;/a>.&lt;li>A WebCommandLineHelper class from &lt;a href="/">
+							Chris Sells&lt;/a>
+					to parse command line arguments from the URL used to launch href-exes.&lt;li>Update to 
+						the FileNameDialog from &lt;a href="mailto:shenoy@agnisoft.com">Deepak Shenoy&lt;/a> to 
+						include newish flags.&lt;/li>&lt;/ul>
+			&lt;li>
+				6/10/02: Release v0.2:&lt;ul>
+					&lt;li>
+					Updated ListViewSorter to be declarative. Look for Designer support ASAP.&lt;li>Generated 
+					new genghis.key and removed it from the distribution.&lt;li>Brad Wilson, our new 
+					Build Master, contributed a Nant build.&lt;li>Paul Bartrum and Chris Burrows 
+					contributed a mostly-complete .NET implementation of SimplePad, along with some 
+					sample command updating and cool menus implementations.&lt;li>Paul Bartrum also 
+					provided a window serializer and a preference class.&lt;li>Michael Weinhardt 
+					contributed an MRU sample.&lt;li>I contributed a custom state treeview useful for 
+					things like tri-state checkboxes.&lt;li>Minor bug fixes.&lt;/li>&lt;/ul>
+			&lt;li>
+			4/3/02: Released v0.1.&lt;li>2/28/02: Set the license.&lt;li>2/16/02: Posted this page.&lt;/li>&lt;/ul>
+		&lt;h2>Sponsors&lt;/h2>
+		&lt;p>&lt;a href="http://www.rmtrack.com/">&lt;img border="0" src="/public/tools/genghis/images/SmallrmTrackLogo.gif" width="129" height="49">&lt;/a>&lt;/p>
+		&lt;p>rmTrack provided the initial hosting space and administration support for 
+			Genghis bug tracking and source code control.&lt;/p>
+		&lt;h2>&lt;a name="license">License&lt;/a>
+		&lt;/h2>
+		&lt;p>Copyright © 2002-2004 The Genghis Group&lt;/p>
+		&lt;p>Th is software is provided 'as-is', without any express or implied warranty. In 
+			no event will the authors be held liable for any damages arising from the use 
+			of this software.&lt;/p>
+		&lt;p>Permission is granted to anyone to use this software for any purpose, including 
+			commercial applications, subject to the following restrictions:&lt;/p>
+		&lt;ol>
+			&lt;li>
+				The origin of this software must not be misrepresented; you must not claim that 
+				you wrote the original software. If you use this software in a product, an 
+				acknowledgment in the product documentation is required, as shown here:&lt;br>
+				&lt;br>
+				Portions copyright © 2002-2004 The Genghis Group (&lt;a href="http://www.genghisgroup.com/">http://www.genghisgroup.com/&lt;/a>).&lt;br>
+			&amp;nbsp;&lt;li>No substantial portion of the source code of this library may be 
+				redistributed without the express written permission of the copyright holders, 
+				where "substantial" is defined as enough code to be recognizably from this 
+				library.&lt;/li>&lt;/ol>
+		&lt;h2>License Note&lt;/h2>
+		&lt;p>This license based on &lt;a href="http://www.opensource.org/licenses/zlib-license.html">
+				the open source zlib/libpng license&lt;/a>. The idea was to keep the license 
+			as simple as possible to encourage use of Genghis in free and commercial 
+			applications and libraries, but to keep the source code together and to give 
+			credit to the Genghis contributors for their efforts. While this license allows 
+			shipping Genghis in binary form, if shipping a Genghis variant is the sole 
+			purpose of your product, &lt;a href="mailto:license@genghisgroup.com">please contact 
+				The Genghis Group for a new license&lt;/a>.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12403</id>
+    <title>Microsoft Interview Questions</title>
+    <updated>2002-02-16T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-16T08:00:00.000Z</published>
+    <summary>2/16/2002 The following are actual questions from actual interviews conducted by Microsoft employees on the main campus. Microsoft Consultants are sometimes allowed to have a life, so questions asked of them during interviews don't really count and aren't listed. The questions tend to follow some basic themes: Riddles Algorithms Applications Thinkers Riddles Why is a manhole cover round? How many cars are there in the USA? (A popular variant is &amp;quot;How many gas stations are there in the USA?&amp;quot;) </summary>
+    <content type="html">&lt;h1>Microsoft Interview Questions&lt;/h1>
+&lt;span class="created">2/16/2002&lt;/span>
+        The following are actual questions from actual interviews conducted by 
+        Microsoft employees on the main campus. Microsoft Consultants are sometimes 
+        allowed to have a life, so questions asked of them during interviews don't 
+        really count and aren't listed. &lt;/p>
+        &lt;p>
+            The questions tend to follow some basic themes:
+        &lt;/p>
+        &lt;ul>
+            &lt;li>&lt;a href="#riddles">Riddles&lt;/a>&lt;/li>
+            &lt;li>&lt;a href="#algs">Algorithms&lt;/a>&lt;/li>
+            &lt;li>&lt;a href="#apps">Applications&lt;/a>&lt;/li>
+            &lt;li>&lt;a href="#think">Thinkers&lt;/a>&lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            &lt;a name="riddles">Riddles&lt;/a>
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                Why is a manhole cover round?
+            &lt;/li>
+
+            &lt;li>
+                How many cars are there in the USA? (A popular variant is &amp;quot;How many gas 
+                stations are there in the USA?&amp;quot;)
+            &lt;/li>
+            &lt;li>
+                How many manhole covers are there in the USA?
+            &lt;/li>
+            &lt;li>
+                You've got someone working for you for seven days and a gold bar to pay them. 
+                The gold bar is segmented into seven connected pieces. You must give them a 
+                piece of gold at the end of every day. If you are only allowed to make two 
+                breaks in the gold bar, how do you pay your worker?
+            &lt;/li>
+
+            &lt;li>
+                One train leaves Los Angeles at 15mph heading for New York. Another train 
+                leaves from New York at 20mph heading for Los Angeles on the same track. If a 
+                bird, flying at 25mph, leaves from Los Angeles at the same time as the train 
+                and flies back and forth between the two trains until they collide, how far 
+                will the bird have traveled?
+            &lt;/li>
+            &lt;li>
+                Imagine a disk spinning like a record player turn table. Half of the disk is 
+                black and the other is white. Assume you have an unlimited number of color 
+                sensors. How many sensors would you have to place around the disk to determine 
+                the direction the disk is spinning? Where would they be placed?
+            &lt;/li>
+            &lt;li>
+                Imagine an analog clock set to 12 o'clock. Note that the hour and minute hands 
+                overlap. How many times each day do both the hour and minute hands overlap? How 
+                would you determine the exact times of the day that this occurs?
+            &lt;/li>
+            &lt;li>
+
+                You have two jars, 50 red marbles and 50 blue marbles. A jar will be picked at 
+                random, and &lt;i>then&lt;/i> a marble will be picked from the jar. Placing all of 
+                the marbles in the jars, how can you maximize the chances of a red marble being 
+                picked? What are the exact odds of getting a red marble using your scheme?
+            &lt;/li>
+            &lt;li>
+                Pairs of primes separated by a single number are called prime pairs. Examples 
+                are 17 and 19. Prove that the number between a prime pair is always divisible 
+                by 6 (assuming both numbers in the pair are greater than 6). Now prove that 
+                there are no 'prime triples.'
+            &lt;/li>
+            &lt;li>
+                There is a room with a door (closed) and three light bulbs. Outside the room 
+                there are three switches, connected to the bulbs. You may manipulate the 
+                switches as you wish, but once you open the door you can't change them. 
+                Identify each switch with its bulb.
+            &lt;/li>
+            &lt;li>
+
+                Suppose you had 8 billiard balls, and one of them was slightly heavier, but the 
+                only way to tell was by putting it on a scale against another. What's the 
+                fewest number of times you'd have to use the scale to find the heavier ball?
+            &lt;/li>
+            &lt;li>
+                Imagine you are standing in front of a mirror, facing it. Raise your left hand. 
+                Raise your right hand. Look at your reflection. When you raise your left hand 
+                your reflection raises what appears to be his right hand. But when you tilt 
+                your head up, your reflection does too, and does not appear to tilt his/her 
+                head down. Why is it that the mirror appears to reverse left and right, but not 
+                up and down?
+            &lt;/li>
+            &lt;li>
+                You have 4 jars of pills. Each pill is a certain weight, except for 
+                contaminated pills contained in one jar, where each pill is weight + 1. How 
+                could you tell which jar had the contaminated pills in just one measurement?
+            &lt;/li>
+            &lt;li>
+                The SF Chronicle has a word game where all the letters are scrambled up and you 
+                have to figure out what the word is. Imagine that a scrambled word is 5 
+                characters long:
+            &lt;/li>
+
+            &lt;ol>
+                &lt;li>
+                    How many possible solutions are there?
+                &lt;/li>
+                &lt;li>
+                    What if we know which 5 letters are being used?
+                &lt;/li>
+                &lt;li>
+                    Develop an algorithm to solve the word.
+                &lt;/li>
+
+            &lt;/ol>
+            &lt;li>
+                There are 4 women who want to cross a bridge. They all begin on the same side. 
+                You have 17 minutes to get all of them across to the other side. It is night. 
+                There is one flashlight. A maximum of two people can cross at one time. Any 
+                party who crosses, either 1 or 2 people, must have the flashlight with them. 
+                The flashlight must be walked back and forth, it cannot be thrown, etc. Each 
+                woman walks at a different speed. A pair must walk together at the rate of the 
+                slower woman's pace.
+                &lt;p>
+                    Woman 1: 1 minute to cross
+                    &lt;br>
+                    Woman 2: 2 minutes to cross
+                    &lt;br>
+                    Woman 3: 5 minutes to cross
+                    &lt;br>
+                    Woman 4: 10 minutes to cross
+                    &lt;br>
+
+                &lt;/p>
+                &lt;p>
+                    For example if Woman 1 and Woman 4 walk across first, 10 minutes have elapsed 
+                    when they get to the other side of the bridge. If Woman 4 then returns with the 
+                    flashlight, a total of 20 minutes have passed and you have failed the mission. 
+                    What is the order required to get all women across in 17 minutes? Now, what's 
+                    the other way?
+                &lt;/p>
+            &lt;/li>
+            &lt;li>
+                If you had an infinite supply of water and a 5 quart and 3 quart pail, how 
+                would you measure exactly 4 quarts?
+            &lt;/li>
+            &lt;li>
+                You have a bucket of jelly beans. Some are red, some are blue, and some green. 
+                With your eyes closed, pick out 2 of a like color. How many do you have to grab 
+                to be sure you have 2 of the same?&lt;/li>
+
+            &lt;li>
+                If you have two buckets, one with red paint and the other with blue paint, and 
+                you take one cup from the blue bucket and poor it into the red bucket. Then you 
+                take one cup from the red bucket and poor it into the blue bucket. Which bucket 
+                has the highest ratio between red and blue? Prove it mathematically.&lt;/li>&lt;/ul>
+        &lt;h2>
+            &lt;a name="algs">Algorithms &lt;/a>
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+
+                What's the difference between a linked list and an array?
+            &lt;/li>
+            &lt;li>
+                Implement a linked list. Why did you pick the method you did?
+            &lt;/li>
+            &lt;li>
+                Implement an algorithm to sort a linked list. Why did you pick the method you 
+                did? Now do it in O(n) time.&lt;/li>
+            &lt;li>
+                Describe advantages and disadvantages of the various stock sorting algorithms.
+            &lt;/li>
+
+            &lt;li>
+                Implement an algorithm to reverse a linked list. Now do it without recursion.
+            &lt;/li>
+            &lt;li>
+                Implement an algorithm to insert a node into a circular linked list without 
+                traversing it.
+            &lt;/li>
+            &lt;li>
+                Implement an algorithm to sort an array. Why did you pick the method you did?
+            &lt;/li>
+            &lt;li>
+
+                Implement an algorithm to do wild card string matching.
+            &lt;/li>
+            &lt;li>
+                Implement strstr() (or some other string library function).
+            &lt;/li>
+            &lt;li>
+                Reverse a string. Optimize for speed. Optimize for space.
+            &lt;/li>
+            &lt;li>
+                Reverse the words in a sentence, i.e. &amp;quot;My name is Chris&amp;quot; becomes 
+                &amp;quot;Chris is name My.&amp;quot; Optimize for speed. Optimize for space.&lt;/li>
+
+            &lt;li>
+                Find a substring. Optimize for speed. Optimize for space.
+            &lt;/li>
+            &lt;li>
+                Compare two strings using O(n) time with constant space.&lt;/li>
+            &lt;li>
+                Suppose you have an array of 1001 integers. The integers are in random order, 
+                but you know each of the integers is between 1 and 1000 (inclusive). In 
+                addition, each number appears only once in the array, except for one number, 
+                which occurs twice. Assume that you can access each element of the array only 
+                once. Describe an algorithm to find the repeated number. If you used auxiliary 
+                storage in your algorithm, can you find an algorithm that does not require it?
+            &lt;/li>
+            &lt;li>
+
+                Count the number of set bits in a number. Now optimize for speed. Now optimize 
+                for size.
+            &lt;/li>
+            &lt;li>
+                Multiple by 8 without using multiplication or addition. Now do the same with 7.
+            &lt;/li>
+            &lt;li>
+                Add numbers in base &lt;i>n&lt;/i> (not any of the popular ones like 10, 16, 8 or 2 
+                -- I hear that Charles Simonyi, the inventor of Hungarian Notation, favors -2 
+                when asking this question).
+            &lt;/li>
+            &lt;li>
+
+                Write routines to read and write a bounded buffer.
+            &lt;/li>
+            &lt;li>
+                Write routines to manage a heap using an existing array.
+            &lt;/li>
+            &lt;li>
+                Implement an algorithm to take an array and return one with only unique 
+                elements in it.
+            &lt;/li>
+            &lt;li>
+                Implement an algorithm that takes two strings as input, and returns the 
+                intersection of the two, with each letter represented at most once. Now speed 
+                it up. Now test it.
+            &lt;/li>
+
+            &lt;li>
+                Implement an algorithm to print out all files below a given root node.
+            &lt;/li>
+            &lt;li>
+                Given that you are receiving samples from an instrument at a constant rate, and 
+                you have constant storage space, how would you design a storage algorithm that 
+                would allow me to get a representative readout of data, no matter when I looked 
+                at it? In other words, representative of the behavior of the system to date.
+            &lt;/li>
+            &lt;li>
+                How would you find a cycle in a linked list?
+            &lt;/li>
+            &lt;li>
+
+                Give me an algorithm to shuffle a deck of cards, given that the cards are 
+                stored in an array of ints.
+            &lt;/li>
+            &lt;li>
+                The following asm block performs a common math function, what is it?
+                &lt;pre>cwd xor ax, dx
+sub ax, dx&lt;/pre>
+            &lt;/li>
+            &lt;li>
+                Imagine this scenario:
+                &lt;br>
+                I/O completion ports are communictaions ports which take handles to files, 
+                sockets, or any other I/O. When a Read or Write is submitted to them, they 
+                cache the data (if necessary), and attempt to take the request to completion. 
+                Upon error or completion, they call a user-supplied function to let the users 
+                application know that that particular request has completed. They work 
+                asynchronously, and can process an unlimited number of simultaneous requests.
+                &lt;br>
+
+                Design the implementation and thread models for I/O completion ports. Remember 
+                to take into account multi-processor machines.
+            &lt;/li>
+            &lt;li>
+                Write a function that takes in a string parameter and checks to see whether or 
+                not it is an integer, and if it is then return the integer value.
+            &lt;/li>
+            &lt;li>
+                Write a function to print all of the permutations of a string.
+            &lt;/li>
+            &lt;li>
+                Implement malloc.
+            &lt;/li>
+
+            &lt;li>
+                Write a function to print the Fibonacci numbers.
+            &lt;/li>
+            &lt;li>
+                Write a function to copy two strings, A and B. The last few bytes of string A 
+                overlap the first few bytes of string B.
+            &lt;/li>
+            &lt;li>
+                How would you write qsort?
+            &lt;/li>
+            &lt;li>
+
+                How would you print out the data in a binary tree, level by level, starting at 
+                the top?&lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            &lt;a name="apps">Applications&lt;/a>
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+
+                How can computer technology be integrated in an elevator system for a hundred 
+                story office building? How do you optimize for availability? How would 
+                variation of traffic over a typical work week or floor or time of day affect 
+                this?
+            &lt;/li>
+            &lt;li>
+                How would you implement copy-protection on a control which can be embedded in a 
+                document and duplicated readily via the Internet?
+            &lt;/li>
+            &lt;li>
+                Define a user interface for indenting selected text in a Word document. 
+                Consider selections ranging from a single sentence up through selections of 
+                several pages. Consider selections not currently visible or only partially 
+                visible. What are the states of the new UI controls? How will the user know 
+                what the controls are for and when to use them?
+            &lt;/li>
+            &lt;li>
+                How would you redesign an ATM?
+            &lt;/li>
+
+            &lt;li>
+                Suppose we wanted to run a microwave oven from the computer. What kind of 
+                software would you write to do this?
+            &lt;/li>
+            &lt;li>
+                What is the difference between an Ethernet Address and an IP address?
+            &lt;/li>
+            &lt;li>
+                How would you design a coffee-machine for an automobile.
+            &lt;/li>
+            &lt;li>
+
+                If you could add any feature to Microsoft Word, what would it be?&lt;/li>
+            &lt;li>
+                How would you go about building a keyboard for 1-handed users?&lt;/li>
+            &lt;li>
+                How would you build an alarm clock for deaf people?&lt;/li>
+        &lt;/ul>
+
+        &lt;h2>
+            &lt;a name="think">Thinkers&lt;/a>
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                How are M&amp;amp;Ms made?
+            &lt;/li>
+            &lt;li>
+
+                If you had a clock with lots of moving mechanical parts, you took it apart 
+                piece by piece without keeping track of the method of how it was disassembled, 
+                then you put it back together and discovered that 3 important parts were not 
+                included; how would you go about reassembling the clock?
+            &lt;/li>
+            &lt;li>
+                If you had to learn a new computer language, how would you go about doing it?
+            &lt;/li>
+            &lt;li>
+                You have been assigned to design Bill Gates bathroom. Naturally, cost is not a 
+                consideration. You may not speak to Bill.
+            &lt;/li>
+            &lt;li>
+                What was the hardest question asked of you so far today?
+            &lt;/li>
+
+            &lt;li>
+                If MS told you we were willing to invest $5 million in a start up of your 
+                choice, what business would you start? Why?
+            &lt;/li>
+            &lt;li>
+                If you could gather all of the computer manufacturers in the world together 
+                into one room and then tell them one thing that they would be compelled to do, 
+                what would it be?
+            &lt;/li>
+            &lt;li>
+                Explain a scenario for testing a salt shaker.
+            &lt;/li>
+            &lt;li>
+
+                If you are going to receive an award in 5 years, what is it for and who is the 
+                audience?
+            &lt;/li>
+            &lt;li>
+                How would you explain how to use Microsoft Excel to your grandma?
+            &lt;/li>
+            &lt;li>
+                Why is it that when you turn on the hot water in any hotel, for example, the 
+                hot water comes pouring out almost instantaneously?
+            &lt;/li>
+            &lt;li>
+                Why do you want to work at Microsoft?
+            &lt;/li>
+
+            &lt;li>
+                Suppose you go home, enter your house/apartment, hit the light switch, and 
+                nothing happens - no light floods the room. What exactly, in order, are the 
+                steps you would take in determining what the problem was?&lt;/li>
+			&lt;li>
+                Interviewer hands you a black pen and says nothing but &amp;quot;This pen 
+				is red.&amp;quot;&lt;/li>
+        &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12404</id>
+    <title>I Don't Provide The Answers</title>
+    <updated>2002-02-15T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2002-02-15T08:00:00.000Z</published>
+    <summary>I've have several people ask for the right answers the these questions but I just can't bring myself to publish them. It seems just too much like cheating to me. Instead, consider this page a study guide. However, if you'd like to know how M&amp;amp;M's are made, that I can help you with. : ) </summary>
+    <content type="html">&lt;h1>I Don't Provide The Answers&lt;/h1>
+
+&lt;p>
+I've have several people ask for the right answers the these questions 
+        but I just can't bring myself to publish them. It seems just too much 
+        like cheating to me. Instead, consider this page a study guide. However, 
+        if you'd like to know how M&amp;amp;M's are made,
+        &lt;a href="http://www.mmmars.com/cai/mms/faq.html#how">
+        that I can help you with&lt;/a>. : )&lt;br>
+&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12364</id>
+    <title>I Like Clocks</title>
+    <updated>2002-02-08T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-02-08T08:00:00.000Z</published>
+    <summary>Here's an industrious clock. Here's a flocking clock. Here's one using a browser-independent DOM to achieve Flash-like effects. Ron Neely sends his favorites: Here's one that converts time to money Here's one made of bar codes </summary>
+    <content type="html">&lt;h1>I Like Clocks&lt;/h1>
+&lt;ul>
+	&lt;li>Here's &lt;a href="http://yugop.com/ver3/stuff/03/fla.html">an industrious clock&lt;/a>.&lt;/li>
+	&lt;li>Here's &lt;a href="http://www.ratatak.com/javaclock.txt">a flocking clock&lt;/a>.&lt;/li>
+	&lt;li>Here's one using &lt;a href="http://alladyn.art.pl/">a browser-independent DOM&lt;/a> to achieve 
+	&lt;a href="http://alladyn.art.pl/eng/clock.html">Flash-like effects&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Ron Neely sends his favorites:&lt;/p>
+&lt;ul>
+	&lt;li>Here's one that
+	&lt;a href="http://www.barcodeart.com/art/clock/money/money.html">
+	converts time to money&lt;/a>&lt;/li>
+	&lt;li>Here's one
+	&lt;a href="http://www.barcodeart.com/art/clock/clock.html">
+	made of bar codes&lt;/a>&lt;/li>
+&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12365</id>
+    <title>A Little Slice of Time</title>
+    <updated>2002-02-02T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/slice.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-02-02T08:00:00.000Z</published>
+    <summary>Chris Sells Feb 2, 2002 8:02pm </summary>
+    <content type="html">&lt;h1>A Little Slice of Time&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/slice.jpg" width="139" height="75">&lt;/p>&lt;p>&lt;i>Chris Sells&lt;br>&lt;span class="created">Feb 2, 2002 8:02pm&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12592</id>
+    <title>A Visit with the Visual C++ Team</title>
+    <updated>2002-01-22T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-01-22T08:00:00.000Z</published>
+    <summary>I spent a fun two days up at Microsoft last week at the Visual Studio.NET C++ Authors Summit, wherein the Microsoft team shows us how cool VS.NET is for C++ and browbeat us to write a book on the topic. Since I'm already planning to write ATL Internals, 2/e with Kirk Fertitta, I couldn't talk them out of the XBox I so richly deserve. On top of that, they tortured me by taking me to the Microsoft store where they have XBox games for only $10! Those bastards... If you're a C++ programmer, VS.NET/VC7 brings a ...</summary>
+    <content type="html">&lt;h1>A Visit with the Visual C++ Team&lt;/h1>
+
+        &lt;p>I spent a fun two days up at Microsoft last week at the Visual Studio 
+        .NET C++ Authors Summit, wherein the Microsoft team shows us how cool 
+        VS.NET is for C++ and browbeat us to write a book on the topic. Since 
+        I'm already planning to write ATL Internals, 2/e with
+        &lt;a href="mailto:kirk@pacificmindworks.com">Kirk Fertitta&lt;/a>, I couldn't 
+        talk them out of the XBox I so richly deserve. On top of that, they 
+        tortured me by taking me to the Microsoft store where they have XBox 
+        games for only $10! Those bastards...&lt;/p>
+        &lt;p>If you're a C++ programmer, VS.NET/VC7 brings a lot to the table. And 
+        according to &lt;a href="mailto:nickhod@microsoft.com">Nick Hodapp&lt;/a>, a 
+        PM on the VC team at Microsoft, many, many of you are C++ programmers. Microsoft 
+        quoted some 3rd party studies that say that there are about 3M C++ 
+        programmers out there (compared to 5M VB programmers and a whole lot 
+        less Java programmers). From a 3rd party survey of 
+         
+        VC++ customers, Microsoft found that 90% (!) of them will be doing 
+        the same or more VC++ work in the future (about 22 hours/week). They 
+        also found that about 75% of VC++ users are MFC programmers (which isn't 
+        growing) and 35% of them are ATL programmers (and is growing). Given the number of ATL7 books 
+        shipping right now or in progress (ours and a few more), and the 
+        increase in the audience, that  made Kirk, my Addison-Wesley 
+        editor and me very, very happy.&lt;/p>
+        &lt;p>Here are some other interesting tidbits from that survey for you:&lt;/p>
+        &lt;ul>
+          &lt;li>68% of VC++ developers build client-server apps&lt;/li>
+          &lt;li>61% build desktop apps&lt;/li>
+          &lt;li>51% build peer-to-peer apps (This number slays me. What are these 
+          guys building?!?)&lt;/li>
+          &lt;li>36% build embedded/CE apps&lt;/li>
+          &lt;li>35% build NT services&lt;/li>
+        &lt;/ul>
+        &lt;p>While we were there, various members of the VC++ team attempted to 
+        rock our world in terms of the new and improved features VC7. Sometimes 
+        they succeeded. For example, &lt;a href="mailto:pranishk@microsoft.com">
+        Pranish Kumar&lt;/a> told us how the ATL Server version of the Nile 
+        benchmark web application was 10% faster than the hand-turned ISAPI 
+        version in 1/4th the development time, which is why the Microsoft site 
+        uses it for some of their &amp;quot;through-put challenged&amp;quot; areas. Also, Terry 
+        Leeper showed us how make mini-dumps for VC++ projects that you can send to the 
+        developer's who persist in saying &amp;quot;but it works on my machine...&amp;quot; He 
+        also showed us how you can pause threads during debugging, load symbols 
+        on demand, set breakpoints in DLLs that aren't loaded at start-up 
+        (without that annoying dialog box) and just how much the new 
+        optimization features can speed up your code (they did an amazing demo 
+        with a recompiled Microsoft codedec that nearly doubled the frame rate 
+        with no code changes).&lt;/p>
+        &lt;p align="left">For those of you into ANSI compliance, Microsoft showed 
+        off an early internal build of their compiler that raises VC's over 
+        all compliance rating  to among the highest in the 
+        industry. They are able to compile all of the popular 3rd party template 
+        libraries, e.g. Loki, Boost, Blitz++, POOMA and a complete STL.&lt;/p>
+        </content>
+  </entry>
+</feed>

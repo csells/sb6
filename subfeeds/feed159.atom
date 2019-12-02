@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed159.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed158.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed160.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed159.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/190</id>
+    <title>Only Two More Weeks 'til Spend A Day With .NET!</title>
+    <updated>2002-08-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-15T07:00:00.000Z</published>
+    <summary>Here. There's only two more weeks to prepare (reading only - no coding!) for the "Spend A Day With.NET" Coding Content on August 30th. Grand prize is free admission to the Web Services DevCon, but other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET, a half-day of consulting and free software and t-shirts galore!</summary>
+    <content type="html">&lt;h1>Only Two More Weeks 'til Spend A Day With .NET!&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet/">Here&lt;/a>. There's only two more weeks to prepare (reading only - no coding!) for the "Spend A Day With .NET" Coding Content on August 30th.
+
+Grand prize is free admission to the Web Services DevCon, but other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET, a half-day of consulting and free software and t-shirts galore!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/189</id>
+    <title>Bug free development</title>
+    <updated>2002-08-14T07:00:00.000Z</updated>
+    <published>2002-08-14T07:00:00.000Z</published>
+    <summary>From Damon Gautama: If the quantum view of the world is correct, does it mean that testers create bugs by observing them?</summary>
+    <content type="html">&lt;h1>Bug free development&lt;/h1>
+From Damon Gautama: If the quantum view of the world is correct, does it mean that testers create bugs by observing them?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/187</id>
+    <title>Google Inside</title>
+    <updated>2002-08-14T07:00:00.000Z</updated>
+    <published>2002-08-14T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: The technology behind Google in mp3 audio and 15 minute Q&amp;A session with Jim Reese, Google's Chief Operations Engineer.</summary>
+    <content type="html">&lt;h1>Google Inside&lt;/h1>
+&lt;a href="http://technetcast.com/tnc_play_stream.html?stream_id=420">Here&lt;/a>. From Razvan Caciula: The technology behind Google in mp3 audio and 15 minute Q&amp;A session with Jim Reese, Google's Chief Operations Engineer.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/186</id>
+    <title>Borland Announces .NET with Delphi 7</title>
+    <updated>2002-08-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-14T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "This product also feature full support for new and emerging Web Services, integrated model driven development, and preview capabilities for the Microsoft.NET Framework. Delphi 7 supports a first true model driven architecture with new UML solutions bundled in, updated cross-platform testing capabilities and Linux support with KylixTM 3."</summary>
+    <content type="html">&lt;h1>Borland Announces .NET with Delphi 7&lt;/h1>
+&lt;a href="http://www.borland.com/delphi/">Here&lt;/a>. From Razvan Caciula: "This product also feature full support for new and emerging Web Services, integrated model driven development, and preview capabilities for the Microsoft.NET Framework. Delphi 7 supports a first true model driven architecture with new UML solutions bundled in, updated cross-platform testing capabilities and Linux support with KylixTM 3."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/188</id>
+    <title>1/3 of All Email is Spam</title>
+    <updated>2002-08-14T07:00:00.000Z</updated>
+    <published>2002-08-14T07:00:00.000Z</published>
+    <summary>Here. That's according to today's daily log on CloudNet.com, makers of SpamNet, a p2p spamfighter for Outlook. I've been using it for the last coupla days and been pretty darn happy. Recommended.</summary>
+    <content type="html">&lt;h1>1/3 of All Email is Spam&lt;/h1>
+&lt;a href="http://www.cloudmark.com/">Here&lt;/a>. That's according to today's daily log on CloudNet.com, makers of SpamNet, a p2p spamfighter for Outlook. I've been using it for the last coupla days and been pretty darn happy. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/183</id>
+    <title>Wahoo! reinstated for .NET SP1!</title>
+    <updated>2002-08-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-13T07:00:00.000Z</published>
+    <summary>SP1, as far as I can tell, introduced a bug wherein applications that had specific code groups granting them permissions with a membership determined by a strong key could not run when launched via the href-exe/moble code technique. Keith Brown did some spelunking and determined that ieexec.exe (the hosting process for such an app) would (mistakenly?) require that code from the site as a whole had at least Execution permissions before taking any of the other permissions for the specific assembly into accoun...</summary>
+    <content type="html">&lt;h1>Wahoo! reinstated for .NET SP1!&lt;/h1>
+SP1, as far as I can tell, introduced a bug wherein applications that had specific code groups granting them permissions with a membership determined by a strong key could not run when launched via the href-exe/moble code technique. Keith Brown did some spelunking and determined that ieexec.exe (the hosting process for such an app) would (mistakenly?) require that code from the site as a whole had at least Execution permissions before taking any of the other permissions for the specific assembly into account. The upshot is that to let wahoo.exe run on a .NET SP1+ box, you had to have two code groups, one that gave Internet permissions or greater to assemblies w/ a strong name and one that awarded at least Execution permission to all assemblies from sellsbrothers.com. I've updated the &lt;a href="/12661">Wahoo! site&lt;/a> w/ an MSI that creates both of these code groups along with the full source so that you can do the same for your own assemblies. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12578</id>
+    <title>The Apple and the Tree</title>
+    <updated>2002-08-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-08-13T07:00:00.000Z</published>
+    <summary>Yesterday my eight-year-old and I had the following conversation: John: &amp;quot;Dad, do you know a lot about computers?&amp;quot; Dad: &amp;quot;I know my share.&amp;quot; John: &amp;quot;But do you really know a lot?&amp;quot; Dad: &amp;quot;I know pretty much.&amp;quot; John: &amp;quot;What buttons to you press to make that come up (pointing to the Start button)?&amp;quot; Dad: &amp;quot;Ctrl+Esc&amp;quot; John: &amp;quot;And how to you make it do Run?&amp;quot; Dad: &amp;quot;Ctrl+Esc+R&amp;quot; John: &amp;quot;Cool.&amp;quot; Cool indeed. : ) </summary>
+    <content type="html">&lt;h1>The Apple and the Tree&lt;/h1>
+
+        &lt;p>Yesterday my eight-year-old and I had the following conversation:&lt;/p>
+        &lt;p>John: &amp;quot;Dad, do you know a lot about computers?&amp;quot;&lt;br>
+        Dad: &amp;quot;I know my share.&amp;quot;&lt;/p>
+        &lt;p>John: &amp;quot;But do you really know a lot?&amp;quot;&lt;br>
+        Dad: &amp;quot;I know pretty much.&amp;quot;&lt;/p>
+        &lt;p>John: &amp;quot;What buttons to you press to make that come up (pointing to 
+        the Start button)?&amp;quot;&lt;br>
+        Dad: &amp;quot;Ctrl+Esc&amp;quot;&lt;/p>
+        &lt;p>John: &amp;quot;And how to you make it do Run?&amp;quot;&lt;br>
+        Dad: &amp;quot;Ctrl+Esc+R&amp;quot;&lt;/p>
+        &lt;p>John: &amp;quot;Cool.&amp;quot;&lt;/p>
+        &lt;p>Cool indeed. : )&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/185</id>
+    <title>The Apple and the Tree</title>
+    <updated>2002-08-13T07:00:00.000Z</updated>
+    <published>2002-08-13T07:00:00.000Z</published>
+    <summary>Here. A conversation I had with my eight-year-old son yesterday.</summary>
+    <content type="html">&lt;h1>The Apple and the Tree&lt;/h1>
+&lt;a href="/12578">Here&lt;/a>. A conversation I had with my eight-year-old son yesterday.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/184</id>
+    <title>Mindreef Tide Beta</title>
+    <updated>2002-08-13T07:00:00.000Z</updated>
+    <published>2002-08-13T07:00:00.000Z</published>
+    <summary>Here. The Mindreef SOAP diagnostic tool (codename: Tide) is now available for
+beta testing! Mindreef develops a Web services diagnostic system that provides value through the entire software development life cycle of SOAP-based solutions. Our initial product, code-named Tide, collects information about SOAP transactions by monitoring communications between SOAP endpoints. It uses the information to provide visibility and insight into Web services communications through features such as logging, debugging, a...</summary>
+    <content type="html">&lt;h1>Mindreef Tide Beta&lt;/h1>
+&lt;a href="http://www.mindreef.com/tester_application.php">Here&lt;/a>. The Mindreef SOAP diagnostic tool (codename: Tide) is now available for
+beta testing!
+
+Mindreef develops a Web services diagnostic system that provides value through the entire software development life cycle of SOAP-based solutions. Our initial product, code-named Tide, collects information about SOAP transactions by monitoring communications between SOAP endpoints. It uses the information to provide visibility and insight into Web services communications through features such as logging, debugging, and reporting.
+
+We are currently accepting beta testers. If you're interested in being part of our program, fill out the Beta Tester Questionnaire.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/182</id>
+    <title>WD-Mag Newsletter: Chris Sells on .NET</title>
+    <updated>2002-08-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-12T07:00:00.000Z</published>
+    <summary>Here. I plan on holding forth on smaller.NET programming topics in this bi-monthly newsletter.</summary>
+    <content type="html">&lt;h1>WD-Mag Newsletter: Chris Sells on .NET&lt;/h1>
+&lt;a href="http://www.wd-mag.com/newsletters/sells/">Here&lt;/a>. I plan on holding forth on smaller .NET programming topics in this bi-monthly newsletter.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/181</id>
+    <title>Windows interfaces and protocols</title>
+    <updated>2002-08-12T07:00:00.000Z</updated>
+    <published>2002-08-12T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "Specifically, Microsoft announced that beginning tomorrow it will offer for a fee licenses of 113 communications protocols used to interoperate between servers and Windows XP and Windows 2000 Professional. In addition, on Aug. 28 Microsoft will release for free to developers 272 application programming interfaces used by the company's middleware products, such as its instant messaging, media player and e-mail client." </summary>
+    <content type="html">&lt;h1>Windows interfaces and protocols&lt;/h1>
+&lt;a href="http://computerworld.com/governmenttopics/government/legalissues/story/0,10801,73255,00.html">Here&lt;/a>. From Razvan Caciula: "Specifically, Microsoft announced that beginning tomorrow it will offer for a fee licenses of 113 communications protocols used to interoperate between servers and Windows XP and Windows 2000 Professional. 
+
+In addition, on Aug. 28 Microsoft will release for free to developers 272 application programming interfaces used by the company's middleware products, such as its instant messaging, media player and e-mail client."
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/179</id>
+    <title>DX9 promises movie-quality quality in real-time</title>
+    <updated>2002-08-09T07:00:00.000Z</updated>
+    <published>2002-08-09T07:00:00.000Z</published>
+    <summary>Here. Check out the Animusic demo, which is a capture of a real-time animation demo using DirectX9 and an ATI Radeon 9700. Not only is it amazing graphics-wise, but's it's entertainment. If we can do this kind of thing in real-time, it won't take Pixar to do ToyStory, we can have it in our games or we can do it ourselves in our basements. This will do for animators what word processors did for authors and sequencers did for muscians.</summary>
+    <content type="html">&lt;h1>DX9 promises movie-quality quality in real-time&lt;/h1>
+&lt;a href="http://www.ati.com/developer/demos/R9700.html">Here&lt;/a>. Check out the Animusic demo, which is a capture of a real-time animation demo using DirectX9 and an ATI Radeon 9700. Not only is it amazing graphics-wise, but's it's entertainment. If we can do this kind of thing in real-time, it won't take Pixar to do ToyStory, we can have it in our games or we can do it ourselves in our basements. This will do for animators what word processors did for authors and sequencers did for muscians.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/177</id>
+    <title>Microsoft at the San Francisco Moscone Center</title>
+    <updated>2002-08-09T07:00:00.000Z</updated>
+    <published>2002-08-09T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "We want to reach those who are likely to be operating in a mixed (Windows/Linux) environment"</summary>
+    <content type="html">&lt;h1>Microsoft at the San Francisco Moscone Center&lt;/h1>
+&lt;a href="http://www.eweek.com/article2/0,3959,441106,00.asp">Here&lt;/a>. From Razvan Caciula: "We want to reach those who are likely to be operating in a mixed (Windows/Linux) environment"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/178</id>
+    <title>Edsger Wybe Dijkstra: 1930-2002</title>
+    <updated>2002-08-09T07:00:00.000Z</updated>
+    <published>2002-08-09T07:00:00.000Z</published>
+    <summary>Here. "Dijkstra is renowned for the insight that mathematical logic is and must be the basis for sensible computer program construction and for his contributions to mathematical methodology. He is responsible for the idea of building operating systems as explicitly synchronized sequential processes, for the formal development of computer programs, and for the intellectual foundations for the disciplined control of nondeterminacy. He is well known for his amazingly efficient shortest path algorithm and for h...</summary>
+    <content type="html">&lt;h1>Edsger Wybe Dijkstra: 1930-2002&lt;/h1>
+&lt;a href="http://www.cs.utexas.edu/users/UTCS/notices/dijkstra/ewdobit.html">Here&lt;/a>. "Dijkstra is renowned for the insight that mathematical logic is and must be the basis for sensible computer program construction and for his contributions to mathematical methodology. He is responsible for the idea of building operating systems as explicitly synchronized sequential processes, for the formal development of computer programs, and for the intellectual foundations for the disciplined control of nondeterminacy. He is well known for his amazingly efficient shortest path algorithm and for having designed and coded the first Algol 60 compiler. He was famously the leader in the abolition of the GOTO statement from programming."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/180</id>
+    <title>VBTV</title>
+    <updated>2002-08-09T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-08-09T07:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: If the.NET show wasn't enough for you, Microsoft is producing another show. Supposed to be slightly irreverant and not for the faint of heart.</summary>
+    <content type="html">&lt;h1>VBTV&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vbtv">Here&lt;/a>. From Jesse Ezell: If the .NET show wasn't enough for you, Microsoft is producing another show. Supposed to be slightly irreverant and not for the faint of heart.</content>
+  </entry>
+</feed>

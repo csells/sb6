@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed82.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed81.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed83.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed82.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1268</id>
+    <title>Son of Strike Debugging Inside Visual Studio .NET</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>Here. In his June '03 Bugslayer column, John Robbins made a sideways comment when discussing Son of Strike (SOS), a debugging extension from Microsoft for doing all kinds of low-level, mixed native and managed code debugging. What Jon said was this: "Interestingly, starting with Visual Studio&amp;#174;.NET 2003, you can load SOS when doing mixed-mode debugging." And then he didn't say how to load SOS into VS.NET, even after spending the rest of the article telling us how cool SOS was. Luckily, Mike Stanton, an ...</summary>
+    <content type="html">&lt;h1>Son of Strike Debugging Inside Visual Studio .NET&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/06/Bugslayer/default.aspx">Here&lt;/a>. &lt;P>In his June '03 Bugslayer column, John Robbins made a sideways comment when discussing Son of Strike (SOS), a debugging extension from Microsoft for doing all kinds of low-level, mixed native and managed code debugging.&lt;/P>
+&lt;P>What Jon said was this: "Interestingly, starting with Visual Studio&amp;#174; .NET 2003, you can load SOS when doing mixed-mode debugging." And then he didn't say &lt;EM>how&lt;/EM> to load SOS into VS.NET, even after spending the rest of the article telling us how cool SOS was.&lt;/P>
+&lt;P>Luckily, Mike Stanton, an SDE on the CLR team, has created &lt;A href="http://blogs.msdn.com/mvstanton/archive/2003/12/04/41241.aspx">a set of instructions for loading SOS into VS.NET&lt;/A>. Actually, he posted those instructions in December of last year, but it wasn't 'til today that they were accurate because it wasn't 'til today that I tried them and couldn't get them to work. Now they are and I can and I have all kinds of low-level goodness to explore with Son of Strike.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1267</id>
+    <title>Filling in Missing Computer Science Knowledge</title>
+    <updated>2004-04-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-06T07:00:00.000Z</published>
+    <summary>Here. The one where I ask a professor friend how to help my wayward, non-computer scientist friends up to speed on the foundation of our industry (which would be computer science, not greed : ).</summary>
+    <content type="html">&lt;h1>Filling in Missing Computer Science Knowledge&lt;/h1>
+&lt;a href="/12500">Here&lt;/a>. The one where I ask a professor friend &lt;a href="/12500">how to help my wayward, non-computer scientist friends up to speed on the foundation of our industry&lt;/A> (which would be computer science, not greed : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1258</id>
+    <title>Ryan on Getting Starting Building Longhorn Help</title>
+    <updated>2004-04-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-05T07:00:00.000Z</published>
+    <summary>Ryan has posted a nice, consise write-up of getting started writing help in Longhorn.</summary>
+    <content type="html">&lt;h1>Ryan on Getting Starting Building Longhorn Help&lt;/h1>
+Ryan has posted a nice, consise write-up of &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/04/01/2920.aspx">getting started writing help in Longhorn&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1261</id>
+    <title>WiX: Open Source XML-Based MSI Creation</title>
+    <updated>2004-04-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-04-05T07:00:00.000Z</published>
+    <summary>Rob Mensching, an MS SDE, has finally released his WiX tools for building MSI files from XML. I say "finally," because I've been using his tools for months to build the MSI files that MSDN puts up on microsoft.com/download. All of our downloads have to be wrapped in an MSI so that you have to agree to the EULA before you get the files. Plus, we need to bundle some descriptive text and author name in there, along with the code that pops open the install folder after the files have been installed. Instead of ...</summary>
+    <content type="html">&lt;h1>WiX: Open Source XML-Based MSI Creation&lt;/h1>
+&lt;P>Rob Mensching, an MS SDE, has finally released his &lt;A href="http://blogs.msdn.com/robmen/archive/2004/04/05/107709.aspx">WiX tools for building MSI files from XML&lt;/A>. I say "finally," because I've been using his tools for months to build the MSI files that MSDN puts up on microsoft.com/download. All of our downloads have to be wrapped in an MSI so that you have to agree to the EULA before you get the files. Plus, we need to bundle some descriptive text and author name in there, along with the code that pops open the install folder after the files have been installed. Instead of using VS.NET to create the MSI files for each set of folks, I built a tool and the best programatic interface to creating MSI files that I could find was easily Rob's. &lt;A href="http://blogs.msdn.com/robmen/archive/2004/04/05/107709.aspx">Check it out.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1260</id>
+    <title>Is This One Better? Now Cover the Other Eye...</title>
+    <updated>2004-04-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-05T07:00:00.000Z</published>
+    <summary>Here. Kevin Lindsey has been exploring Avalon and posting some things he didn't expect. I love how he posts pictures of what he expected alongside of what he actually got: Possible Avalon SpreadMethod Bug Possible Avalon LinearGradient Bug Avalon Missing Pen Functionality Possible Avalon Rectangle Stroke Bug Keep it up, Kevin! </summary>
+    <content type="html">&lt;h1>Is This One Better? Now Cover the Other Eye... &lt;/h1>
+&lt;a href="http://www.kevlindev.com/blog/weblog.php">Here&lt;/a>. &lt;P>Kevin Lindsey has been exploring Avalon and posting some things he didn't expect. I love how he posts pictures of what he expected alongside of what he actually got:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.kevlindev.com/blog/comments.php?id=39_0_1_0_C">Possible Avalon SpreadMethod Bug&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.kevlindev.com/blog/comments.php?id=40_0_1_0_C">Possible Avalon LinearGradient Bug&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.kevlindev.com/blog/comments.php?id=41_0_1_0_C">Avalon Missing Pen Functionality&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.kevlindev.com/blog/comments.php?id=42_0_1_0_C">Possible Avalon Rectangle Stroke Bug&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Keep it up, Kevin!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1257</id>
+    <title>Welcome to 04/04/04</title>
+    <updated>2004-04-04T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-04T08:00:00.000Z</published>
+    <summary>That is all.</summary>
+    <content type="html">&lt;h1>Welcome to 04/04/04&lt;/h1>
+That is all.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1256</id>
+    <title>Windows Forms Has At Least Another Decade In It</title>
+    <updated>2004-04-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-04T08:00:00.000Z</published>
+    <summary>Apparently Robert had a conversation with a customer that was holding up.NET adoption because Longhorn was coming with Avalon. If you're already planning on building Longhorn-only applications, more power to you, but most folks will need to write apps that run on other versions of Windows for some time to come. For those folks, we have.NET and Windows Forms today and for at least another decade. Let's do the math: According to recent industry rumor, Longhorn won't ship 'til 2006. According to our internal O...</summary>
+    <content type="html">&lt;h1>Windows Forms Has At Least Another Decade In It&lt;/h1>
+&lt;P>Apparently &lt;A href="http://radio.weblogs.com/0001011/2004/04/03.html#a7150">Robert had a conversation with a customer that was holding up .NET adoption because Longhorn was coming with Avalon&lt;/A>. If you're already planning on building Longhorn-only applications, more power to you, but most folks will need to write apps that run on other versions of Windows for some time to come. For those folks, we have .NET and Windows Forms today and for at least another decade. Let's do the math:&lt;/P>
+&lt;UL>
+&lt;LI>According to recent industry rumor, Longhorn won't ship 'til 2006.&lt;/LI>
+&lt;LI>According to our internal OS folks, a new OS isn't ubiquitous enough to target it as a base for new consumer application work for 6 years.&lt;/LI>
+&lt;LI>Even 2 years after .NET was available everywhere, people are still actively doing the MFC and VB6 thing.&lt;/LI>
+&lt;LI>2 years 'til 2006 + 6 years 'til ubiquity + 2 years not doing the new thing = 10 years of good, strong life left in Windows Forms &lt;EM>at least&lt;/EM>.&lt;/LI>&lt;/UL>
+&lt;P>In spite of my love on Avalon, I'm so confidendent that Windows Forms has a life left that &lt;A HREF="/public/writing/">I'm working with Mike on Windows Forms Programming 2/e&lt;/A>. A book is hard enough that you don't do it if the topic is dead, so that's me putting my time (and Addison-Wesley's money) where my mouth is.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1255</id>
+    <title>The Future Is eBay for Services</title>
+    <updated>2004-04-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-03T08:00:00.000Z</published>
+    <summary>Here. With the bottom line more and more important, the era of "company loyalty" and "guaranteed employment" is long over. RentACoder.com takes this to it's logical conclusion, matching vendors with jobs and money with qualified folks with the time and willingness to do the job at the asking price. As connectedness improves, the importance of being on site declines, the perfect market for services will develop, giving us eBay for employment. </summary>
+    <content type="html">&lt;h1>The Future Is eBay for Services&lt;/h1>
+&lt;a href="http://www.rentacoder.com/RentACoder/default.asp">Here&lt;/a>. &lt;P>With the bottom line more and more important, the era of "company loyalty" and "guaranteed employment" is long over. RentACoder.com takes this to it's logical conclusion, matching vendors with jobs and money with qualified folks with the time and willingness to do the job at the asking price. As connectedness improves, the importance of being on site declines, the perfect market for services will develop, giving us eBay for employment.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1254</id>
+    <title>Why Longhorn So Soon?</title>
+    <updated>2004-04-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-03T08:00:00.000Z</published>
+    <summary>Here. Robert Hess, that.NET Show guy, talks about why he's so into Longhorn in the recent.NET Shows lately: "What you -do- need to pay attention to, is how 'Longhorn' will evolve the users concept of exactly what a Windows application is all about, and what features and functionality it should be providing them with. Many application developers should be starting to think about this TODAY, and how to begin incorporating some of these features into their application moving forward. Just the schematized file ...</summary>
+    <content type="html">&lt;h1>Why Longhorn So Soon?&lt;/h1>
+&lt;a href="http://blogs.msdn.com/theshow/archive/2004/04/02/106614.aspx">Here&lt;/a>. &lt;P>Robert Hess, that .NET Show guy, talks about why he's so into Longhorn in the recent .NET Shows lately:&lt;/P>
+&lt;BLOCKQUOTE>&lt;I>"What you -do- need to pay attention to, is how 'Longhorn' will evolve the users concept of exactly what a Windows application is all about, and what features and functionality it should be providing them with. Many application developers should be starting to think about this TODAY, and how to begin incorporating some of these features into their application moving forward. Just the schematized file system that WinFS will introduce alone can represent not only a big jump in the potential functionality of an application, but also a considerable change in how your existing application might want to begin thinking about data storage."&lt;/I>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1252</id>
+    <title>FxCop for SQL Server</title>
+    <updated>2004-04-02T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-04-02T08:00:00.000Z</published>
+    <summary>If you were listening to the.NET Rocks show today, you heard me invent something that Microsoft has already shipped: The Microsoft SQL Server Best Practices Analyzer. &amp;lt;whew&amp;gt; One less thing I have to build myself. : )</summary>
+    <content type="html">&lt;h1>FxCop for SQL Server&lt;/h1>
+If you were listening to the .NET Rocks show today, you heard me invent something that Microsoft has already shipped: &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=B352EB1F-D3CA-44EE-893E-9E07339C1F22">The Microsoft SQL Server Best Practices Analyzer&lt;/A>. &amp;lt;whew&amp;gt; One less thing I have to build myself. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1253</id>
+    <title>Microsoft and Sun Settle</title>
+    <updated>2004-04-02T08:00:00.000Z</updated>
+    <published>2004-04-02T08:00:00.000Z</published>
+    <summary>Here. I honestly never thought I'd see this day. Now I have to come up with other fun news of which to make fun in my talks (maybe the 0.0000007% change in Avagadro's number over the last 5 years?).</summary>
+    <content type="html">&lt;h1>Microsoft and Sun Settle&lt;/h1>
+&lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;ncid=&amp;e=6&amp;u=/ap/20040402/ap_on_hi_te/sun_microsystems">Here&lt;/a>. I honestly never thought I'd see &lt;A href="http://story.news.yahoo.com/news?tmpl=story&amp;amp;ncid=&amp;amp;e=6&amp;amp;u=/ap/20040402/ap_on_hi_te/sun_microsystems">this day&lt;/A>. Now I have to come up with other fun news of which to make fun in my talks (maybe &lt;A href="http://physics.nist.gov/cuu/Constants/index.html">the 0.0000007% change in Avagadro's number over the last 5 years&lt;/A>?).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1250</id>
+    <title>Tune into .NET Rocks Live Tomorrow, 9am PST</title>
+    <updated>2004-04-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-01T08:00:00.000Z</published>
+    <summary>On tomorrow's.NET Rocks Live, Rory and I will be interviewing Tony Bain, taking callers and, if tonight's sound test is any indication, talking a lot of smack. Tune in here or here &amp;nbsp;from 9am to 11am PST, Friday, 4/2.</summary>
+    <content type="html">&lt;h1>Tune into .NET Rocks Live Tomorrow, 9am PST&lt;/h1>
+On &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/29/101241.aspx">tomorrow's .NET Rocks Live&lt;/A>, Rory and I will be interviewing &lt;A href="http://www.tonybain.com/">Tony Bain&lt;/A>, &lt;A href="http://www.franklins.net/calldotnetrocks/">taking callers&lt;/A> and, if tonight's sound test is any indication, talking a lot of smack. Tune in &lt;A href="mms://radio1.franklins.net/dnr">here&lt;/A> or &lt;A href="http://radio1.franklins.net/dnr">here&lt;/A>&amp;nbsp;from 9am to 11am PST, Friday, 4/2.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1251</id>
+    <title>Let There By Light In The Darkness</title>
+    <updated>2004-04-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-01T08:00:00.000Z</published>
+    <summary>Here. The one where it's late, I'm on my 3rd Diet Coke (I never use caffine), I stumble onto a piece of writing I like but have never published and decide what the hell...</summary>
+    <content type="html">&lt;h1>Let There By Light In The Darkness&lt;/h1>
+&lt;a href="/12501">Here&lt;/a>. The one where it's late, I'm on my 3rd Diet Coke (I never use caffine), I stumble onto a piece of writing I like but have never published and decide &lt;a href="/12501">what the hell&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12501</id>
+    <title>Let There Be Light In The Darkness</title>
+    <updated>2004-04-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-01T08:00:00.000Z</published>
+    <summary>Thursday, April 1, 2004 I wrote this at the beginning of 2002 while channeling my energies into the Windows Forms book. I never published it, but I liked it (and I'm in writer avoidance mode as day #2 past my due date rolls by), so I thought I'd share it: The Dark Ages, a period of five centuries beginning in 5 AD, marked a time of intellectual darkness and barbarity. A ruling feudal class kept a firm grip on their over-worked peasants in small enclaves eking out a meager living from the soil. Only lonely, ...</summary>
+    <content type="html">&lt;h1>Let There Be Light In The Darkness&lt;/h1>
+&lt;p align="left">&lt;i>Thursday, &lt;span class="created">April 1, 
+2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">I wrote this at the beginning of 2002 while 
+channeling my energies into the Windows Forms book. I never published it, but I 
+liked it (and I'm in writer avoidance mode as day #2 past my due date rolls by), 
+so I thought I'd share it:&lt;/p>&lt;blockquote>The Dark Ages, a period of five 
+	centuries beginning in 5 AD, marked a time of intellectual darkness and 
+	barbarity. A ruling feudal class kept a firm grip on their over-worked 
+	peasants in small enclaves eking out a meager living from the soil. Only 
+	lonely, isolated monks were able to record knowledge using primitive tools 
+	to painstakingly inscribing it into hand-crafted volumes, each unique and 
+	each unavailable to their fellow man. Only pilgrims and adventures, willing 
+	to endure long journeys and brave many hardships, had the chance of 
+	obtaining this secret knowledge. Finally, the Renaissance, brought on by the 
+	spread of knowledge in approachable formats using inventions like the 
+	printing press, was able to rejuvenate a weary world and bring about a 
+	period of intellectual growth and achievement that continues to this day 
+	(interrupted only briefly by the Reagan years).&lt;/blockquote>&lt;blockquote>The 
+	Browser Age, a period of ten years beginning in 1991, marked a time of 
+	user-interface limitations and lowest common denominators. A ruling 
+	standards body kept a firm grip on their over-worked participating members 
+	in companies large and small, eking out a meager living from IPO wind-falls. 
+	Only lonely, isolated web masters were able to record knowledge, using 
+	primitive HTML to painstakingly code it into hand-crafted pages, each unique 
+	and each unavailable to their fellow programmers. Only Perl programmers and 
+	regular expressionists, willing to parse tangled byte streams and scrape 
+	many screens, had the chance of separating the data from the presentation. 
+	Finally, .NET, brought on by the spread of the information available 
+	programmatically to rich client applications using inventions like Web 
+	Services and Windows Forms &lt;i>[ed: and soon, Avalon]&lt;/i>, was able to 
+	rejuvenate a weary software world and bring about a period of productivity 
+	growth and achievement that will continue until long after we retire 
+	(interrupted only briefly by the Internet Bubble burst).&lt;/blockquote>&lt;p align="left">&lt;a href="/1251">
+Discuss&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1249</id>
+    <title>Avalon Perf Tips: Properties, Resources &amp; Triggers</title>
+    <updated>2004-03-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-31T08:00:00.000Z</published>
+    <summary>Markus Mielke, a PM on the Avalon team, provides some performance tips on Avalon inheritable properties, centrally shared resources and property triggers.</summary>
+    <content type="html">&lt;h1>Avalon Perf Tips: Properties, Resources &amp; Triggers&lt;/h1>
+Markus Mielke, a PM on the Avalon team, provides some &lt;A href="http://www.longhornblogs.com/mmielke/archive/2004/03/31/2892.aspx">performance tips on Avalon inheritable properties, centrally shared resources and property triggers&lt;/A>.</content>
+  </entry>
+</feed>

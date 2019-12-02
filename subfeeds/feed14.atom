@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed14.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed13.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed15.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed14.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2221</id>
+    <title>Parsing relative and absolute dates with MGrammar</title>
+    <updated>2008-12-22T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-12-22T08:00:00.000Z</published>
+    <summary>Dilip Krishnan has built a lovely little date parser that supports absolute dates like "6/2/1969" (just like DateTime.Parse already supports today) and relative dates like "today" or "next Monday" or "5 days from today". I find myself using relative date expressions like these all the time in Outlook and I've love to have them in every app I use that does dates. With Dilip's parser and the Oslo SDK, you can add it to your app.&amp;nbsp;Good work, Dilip!</summary>
+    <content type="html">&lt;h1>Parsing relative and absolute dates with MGrammar&lt;/h1>
+&lt;A href="http://www.infoq.com/articles/natural-language-date-dsl-oslo">Dilip Krishnan has built a lovely little date parser&lt;/A> that supports absolute dates like "6/2/1969" (just like DateTime.Parse already supports today) and relative dates like "today" or "next Monday" or "5 days from today". I find myself using relative date expressions like these all the time in Outlook and I've love to have them in every app I use that does dates. With Dilip's parser and &lt;A href="http://msdn.com/oslo">the Oslo SDK&lt;/A>, you can add it to your app.&amp;nbsp;Good work, Dilip!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2219</id>
+    <title>Lang.NET + DSL DevCon = Joy</title>
+    <updated>2008-12-18T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2008-12-18T08:00:00.000Z</published>
+    <summary>This year, we&amp;#8217;re thinking very hard about putting the Lang.NET conference and the DSL DevCon at the same venue (the research center on the Microsoft Redmond campus) in the same week. The idea is that people interested in general-purpose language design and development can come to Lang.NET and the people interested in domain-specific languages can come to the DSL DevCon and for folks interested in both, the DSL DevCon will start right after Lang.NET, so folks can stay a little longer and come to both. ...</summary>
+    <content type="html">&lt;h1>Lang.NET + DSL DevCon = Joy&lt;/h1>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>This year, we&amp;#8217;re thinking very hard about putting &lt;A href="http://www.langnetsymposium.com/">the Lang.NET conference&lt;/A> and &lt;A href="/2201">the DSL DevCon&lt;/A> at the same venue (the research center on the Microsoft Redmond campus) in the same week. The idea is that people interested in general-purpose language design and development can come to Lang.NET and the people interested in domain-specific languages can come to the DSL DevCon and for folks interested in both, the DSL DevCon will start right after Lang.NET, so folks can stay a little longer and come to both. Also, the conference chairs on both conferences will make sure to keep the content unique across the two conferences.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;o:p>&lt;FONT face=Calibri>&amp;nbsp;&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>We think that&amp;#8217;s a good way to make sure the conferences complement each other and helps keep people&amp;#8217;s schedules sane and their travel costs lower. However, I have two questions for you:&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;o:p>&lt;FONT face=Calibri>&amp;nbsp;&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1">&lt;SPAN style="COLOR: #1f497d; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri">&lt;SPAN style="mso-list: Ignore">&lt;FONT face=Calibri>1.&lt;/FONT>&lt;SPAN style="FONT: 7pt 'Times New Roman'">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>Traditionally, Lang.NET is 3 days and a DevCon is 2 days. Because of the overlap of the content (languages), we were wondering if folks thought it would be a good idea to do 2.5 days of Lang.NET and 1.5 days of DSL DevCon this year instead, doing both conferences in 4 days instead of 5. What do you think?&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1">&lt;SPAN style="COLOR: #1f497d; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri">&lt;SPAN style="mso-list: Ignore">&lt;FONT face=Calibri>2.&lt;/FONT>&lt;SPAN style="FONT: 7pt 'Times New Roman'">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>If we linked these two events like this, will you attend just Lang.NET, just DSL DevCon or both?&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;o:p>&lt;FONT face=Calibri>&amp;nbsp;&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>Post your comments on this blog entry. Vote early, vote often!&lt;/FONT>&lt;/SPAN>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12639</id>
+    <title>The Poker Brat</title>
+    <updated>2008-12-16T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2008-12-16T08:00:00.000Z</published>
+    <summary>You may or may not know it, but I'm a big poker fan. For a while, I thought about quitting my job and being a Texas Holdem poker player. I've studied a stack of poker books and every once in a while, I get to be at a table when there's a &amp;quot;moment&amp;quot; -- somebody gets cocky and gets beat in just the way they deserve. I've been the cocky guy and I've been the guy that does the beating. Here's an example with poker brat Phil Hellmuth of what I'm talking about: URL: &lt;a href="http://www.youtube.com/watch?v...</summary>
+    <content type="html">&lt;h1>The Poker Brat&lt;/h1>
+&lt;p>You may or may not know it, but I'm a big poker fan. For a while, I thought 
+about quitting my job and being a
+&lt;a href="http://www.pokerlistings.com/texas-holdem">Texas Holdem 
+poker&lt;/a> player. I've studied a stack of poker books and every once in a while, 
+I get to be at a table when there's a &amp;quot;moment&amp;quot; -- somebody gets cocky and gets 
+beat in just the way they deserve. I've been the cocky guy and I've been the guy 
+that does the beating. Here's an example with poker brat Phil Hellmuth of what 
+I'm talking about:&lt;/p>
+&lt;object width="425" height="344">&lt;param name="movie" value="http://www.youtube.com/v/99-jcla0MHc&amp;hl=en&amp;fs=1">&lt;/param>&lt;param name="allowFullScreen" value="true">&lt;/param>&lt;param name="allowscriptaccess" value="always">&lt;/param>&lt;embed src="http://www.youtube.com/v/99-jcla0MHc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344">&lt;/embed>&lt;/object>
+&lt;p>URL: &lt;a href="http://www.youtube.com/watch?v=99-jcla0MHc&amp;amp;feature=related">http://www.youtube.com/watch?v=99-jcla0MHc&amp;amp;feature=related&lt;/a> &lt;/p>
+&lt;p>I love seeing Phil get trounced here, but the only thing that makes me wonder 
+is, why is Dragomir so upset? I can't help but gloat when I get to beat someone 
+like that. : )&lt;/p>
+&lt;p>&lt;em>From Anne Dempsey, &lt;a href="http://pokerlistings.com">
+pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2218</id>
+    <title>Notation, Notation, Notation!</title>
+    <updated>2008-12-10T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-12-10T08:00:00.000Z</published>
+    <summary>Markus V&amp;#246;lter has posted some interesting model-driven design guidelines, my favorite of which is "notation, notation, notation!" Since Of course, since Oslo provides MGrammar to let you build the notation of your choice, I'm hardly unbiased. : )</summary>
+    <content type="html">&lt;h1>Notation, Notation, Notation!&lt;/h1>
+&lt;A href="http://www.voelter.de/">Markus V&amp;#246;lter&lt;/A> has posted &lt;A href="http://www.voelter.de/data/articles/DSLBestPractices-Website.pdf">some interesting model-driven design guidelines&lt;/A>, my favorite of which is "notation, notation, notation!" Since Of course, since &lt;A href="http://msdn.microsoft.com/library/dd129869.aspx">Oslo provides MGrammar to let you build the notation of your choice&lt;/A>, I'm hardly unbiased. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2217</id>
+    <title>.NET Rocks! Oslo is Love</title>
+    <updated>2008-12-09T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-12-09T08:00:00.000Z</published>
+    <summary>COM spread the love between developers of multiple languages. Oslo spreads the love between domain experts, developers and IT folks. Check out show #401 of.NET Rocks for the how and the why. Enjoy. </summary>
+    <content type="html">&lt;h1>.NET Rocks! Oslo is Love&lt;/h1>
+&lt;P>COM spread the love between developers of multiple languages.&lt;/P>
+&lt;P>Oslo spreads the love between domain experts, developers and IT folks.&lt;/P>
+&lt;P>Check out &lt;A href="http://www.dotnetrocks.com/default.aspx?showNum=401">show #401 of .NET Rocks&lt;/A> for the how and the why. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2216</id>
+    <title>Mr. Epl on the brain</title>
+    <updated>2008-11-16T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-16T08:00:00.000Z</published>
+    <summary>I've been writing my MSDN Magazine pieces introducing Oslo and spending a great deal of time in Mr. Epl mode inside Intellipad. So, at 1:23p on a Sundary afternoon, I'm getting a little loopy, which is manifesting itself as me repeating famous lines from popular culture, only substituting Mr. Epl's name, e.g. "Mr. Epl, I am your father." "Oh, Mr. Epl, I can't pay the rent!" "You must pay the rent." "I can't pay the rent!" "Help me, Mr. Epl. You're my only hope!" "Mr. Epl, Mr. Epl, it hurts when I do that!" ...</summary>
+    <content type="html">&lt;h1>Mr. Epl on the brain&lt;/h1>
+&lt;P>I've been writing my MSDN Magazine pieces introducing Oslo and spending a great deal of time in &lt;A href="http://blogs.msdn.com/joshwil/archive/2008/11/12/mrepl-a-fun-way-to-learn-mschema.aspx">Mr. Epl mode inside Intellipad&lt;/A>. So, at 1:23p on a Sundary afternoon, I'm getting a little loopy, which is manifesting itself as me repeating famous lines from popular culture, only substituting Mr. Epl's name, e.g.&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Mr. Epl, I am your father."&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Oh, Mr. Epl, I can't pay the rent!" "You must pay the rent." "I can't pay the rent!"&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Help me, Mr. Epl. You're my only hope!"&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Mr. Epl, Mr. Epl, it hurts when I do that!" "Don't do that."&lt;/EM>&lt;/P>
+&lt;/BLOCKQUOTE>
+&lt;P>Did I mention I'm doing the voices, too?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2215</id>
+    <title>SpankyJ is an Oslo Star!</title>
+    <updated>2008-11-15T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-15T08:00:00.000Z</published>
+    <summary>SpankyJ (Josh Williams) is a star developer on the Oslo team (specifically the MSchema compiler) and he's been doing some very cool stuff with M. Firstly, Spanky's the author of the Mr. Epl tool, which is a Read-Evaluate-Print-Loop program for interacting with M (M-REPL =&amp;gt; Mr. Epl -- cute, eh? When we used to call "M" "D", it used to be Dr. Epl. If we change it to "S", we'll Sen&amp;#243;r Epl! : ). Mr. Epl ships with the Oslo SDK, so if you've installed it, you can find it in C:\Program Files\Microsoft Oslo...</summary>
+    <content type="html">&lt;h1>SpankyJ is an Oslo Star!&lt;/h1>
+&lt;P>SpankyJ (Josh Williams) is a star developer on the Oslo team (specifically the MSchema compiler) and he's been doing some very cool stuff with M.&lt;/P>
+&lt;P>Firstly, Spanky's the author of the Mr. Epl tool, which is a Read-Evaluate-Print-Loop program for interacting with M (M-REPL =&amp;gt; Mr. Epl -- cute, eh? When we used to call "M" "D", it used to be Dr. Epl. If we change it to "S", we'll Sen&amp;#243;r Epl! : ). Mr. Epl ships with &lt;A href="http://code.msdn.microsoft.com/oslo">the Oslo SDK&lt;/A>, so if you've installed it, you can find it in &lt;EM>C:\Program Files\Microsoft Oslo SDK 1.0\Bin\Intellipad\Samples\Microsoft.Intellipad.Scripting.M\MREPL.exe&lt;/EM> or you can execute it directly inside of Intellipad with the MScriptMode mode.&lt;/P>
+&lt;P>For a demonstration (and an explanation of how to get MScriptMode working in Intellipad), Spanky has recorded &lt;A href="http://blogs.msdn.com/joshwil/">a very nice Mr. Epl screencast&lt;/A>. Highly recommended.&lt;/P>
+&lt;P>Secondly, Spanky has just released &lt;A href="http://blogs.msdn.com/joshwil/archive/2008/11/12/using-mgrammar-to-create-net-instances-through-xaml.aspx">a library for taking the output of MGrammar and producing a graph of .NET objects via XAML&lt;/A>. He's got a nice screencast of &lt;A href="http://wm.microsoft.com/ms/msdn/oslo/PersonExample.wmv">using it to create something simple&lt;/A> to give you a feel, then he moves right into &lt;A href="http://wm.microsoft.com/ms/msdn/oslo/mwindowexample.wmv">a natural language processor for creating WPF windows and controls interactively&lt;/A>. The ability to type text that translated into WPF without using angle brackets demonstrates the potential for DSLs very well, I think.&lt;/P>
+&lt;P>A few notes when watching Spanky's screencasts:&lt;/P>
+&lt;UL>
+&lt;LI>He has slowed himself down considerably to be clear and understandable and he's done a good job. If you'd like to hear what he sounds like in real life, run the screencast at 1.5x speed. : )&lt;/LI>
+&lt;LI>He has a blinking red/green light in the taskbar -- what *is* that?!&lt;/LI>
+&lt;LI>He's a dev that tells a story like a champ -- why the hell does my team even need PMs?&lt;/LI>&lt;/UL>
+&lt;P>Anyone interested in Oslo should absolutely subscribe to &lt;A href="http://blogs.msdn.com/joshwil/">Spanky's blog&lt;/A>. I know I have.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2214</id>
+    <title>Syntax Coloring for Your Custom Mg Language with Intellipad</title>
+    <updated>2008-11-13T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-13T08:00:00.000Z</published>
+    <summary>Justin Bailey shows how to hook up custom syntax highlighting in Intellipad for your MGrammar language. Very cool!</summary>
+    <content type="html">&lt;h1>Syntax Coloring for Your Custom Mg Language with Intellipad&lt;/h1>
+Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Coloring-for-Your-Custom-Mg-Language-with-Intellipad">how to hook up custom syntax highlighting in Intellipad for your MGrammar language&lt;/A>. Very cool!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2212</id>
+    <title>Rocky on Oslo</title>
+    <updated>2008-11-12T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-12T08:00:00.000Z</published>
+    <summary>Rockford Lhotka had this to say about Oslo : "The Oslo modeling tools are also interesting, though they are more future-looking. Realistically this idea of model-driven development will require a major shift in how our industry thinks about and approaches software development. Such a massive shift will take many years to occur, regardless of whether the technology is there to enable it. It is admirable that Microsoft is taking such a gamble - building a set of tools and technologies for something that might...</summary>
+    <content type="html">&lt;h1>Rocky on Oslo&lt;/h1>
+&lt;P>&lt;A href="http://www.lhotka.net/weblog/ThoughtsOnPDC2008.aspx">Rockford Lhotka had this to say about Oslo&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Oslo modeling tools are also interesting, though they are more future-looking. Realistically this idea of model-driven development will require a major shift in how our industry thinks about and approaches software development. Such a massive shift will take many years to occur, regardless of whether the technology is there to enable it. It is admirable that Microsoft is taking such a gamble - building a set of tools and technologies for something that might become acceptable to developers in the murky future. Their gamble will pay off if we collectively decide that the world of 3GL development really is at an end and that we need to move to higher levels of abstraction. Of course we could decide to stick with what has (and hasn't) worked for 30+ years, in which case modeling tools will go the way of CASE.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"But even if some of the really forward-looking modeling ideas never become palatable, many of the things Microsoft is doing to support modeling are immediately useful. Enhancements to Windows Workflow are a prime example, as is the M language. I've hard a hard time getting excited about WF, because it has felt like a graphical way to do FORTRAN. But some of the enhancements to WF directly address my primary concerns, and I can see myself getting much more interested in WF in the relatively near future. And the ability of the M language to define other languages (create DSLs), where I can create my own output generator to create whatever I need - now that is really, really cool!&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Once I get done with my book and all my fall travel, you can bet I'll be exploring the use of M to create a specialized language to simplify the creation of CSLA .NET business classes : )"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Rocky on, Rocky!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2213</id>
+    <title>tvrss.net + uTorrent + FiOS + WHS + 360 = DVR Bliss</title>
+    <updated>2008-11-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-11-12T08:00:00.000Z</published>
+    <summary>So, the other day, Windows XP SP2 destroyed my Windows Media Center Edition install that I've been using for years and absolutely loved. It let me record all my favorite shows on two separate tuners and I could watch them on the TV attached to my MCE box, from all the PCs in my house and from my XBOX 360. Losing it was a huge blow, especially since it was clear I'd need to repave and I was swamped with PDC and post-PDC work (damn those MSDN Magazine deadlines!). A little research revealed the following fact...</summary>
+    <content type="html">&lt;h1>tvrss.net + uTorrent + FiOS + WHS + 360 = DVR Bliss&lt;/h1>
+&lt;P>So, the other day, Windows XP SP2 destroyed my Windows Media Center Edition install that I've been using for years and absolutely loved. It let me record all my favorite shows on two separate tuners and I could watch them on the TV attached to my MCE box, from all the PCs in my house and from my XBOX 360. Losing it was a huge blow, especially since it was clear I'd need to repave and I was swamped with PDC and post-PDC work (damn those MSDN Magazine deadlines!).&lt;/P>
+&lt;P>A little research revealed the following facts:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.tvrss.net/">tvrss.net&lt;/A> provides RSS feeds of every TV show I've ever heard of, whether it's on normal TV, cable or a premium channel like HBO and Showtime. The shows are available in HD with the commercials pre-edited out, so I wouldn't even have to do the 30-second fast-forward, 5-second rewind dance that MCE enables to skip them.&lt;/LI>
+&lt;LI>&lt;A href="http://www.utorrent.com/">uTorrent&lt;/A> provides automatic downloads from RSS feeds, including fancy features like only downloading each new episode once, even if it's provided from multiple sources.&lt;/LI>
+&lt;LI>My &lt;A href="http://Verizon.com/fios">Verison FiOS&lt;/A> pipe provides 20MBps downloads, so a 22 minute TV program (30 minutes - 8 minutes of commercials) even at HD would only take about 20 minutes to download, on average.&lt;/LI>
+&lt;LI>My $500 &lt;A href="http://www.microsoft.com/windows/products/winfamily/windowshomeserver/default.mspx">Windows Home Server&lt;/A> machine has 1.4TB of storage, so your average 22-minute sitcom, at 180MB, is only a tiny fraction of the storage. Put another way, I could store about 4000 hours of TV.&lt;/LI>
+&lt;LI>My &lt;A href="http://www.xbox.com/">XBOX 360&lt;/A> supports the same format (XVID) that TV shows available from tvrss.net seem to be provided in. Further, my 360 has direct support from playing videos from shares on my home network (which is wired for 1GB Ethernet, but only run by a 100MB Ethernet router right now).&lt;/LI>
+&lt;LI>The XVID codec is available, along with a ton of other useful codecs, from &lt;A href="http://www.free-codecs.com">free-codecs.com&lt;/A> (I'm partial to the &lt;A href="http://www.free-codecs.com/download/K_Lite_Codec_Pack.htm">K-Lite Codec Pack&lt;/A> myself), which means that any videos that I download in XVID format can be played back on any PC in my house. Those PCs running Vista Ultimate that have a &lt;A href="http://www.newegg.com/Product/Product.aspx?Item=N82E16880100851">Media Center remote control&lt;/A> on them can surf to videos on the network and pick them with an experience just like that of my XBOX 360.&lt;/LI>
+&lt;LI>It's my understanding that the XBOX 360 menuing system will be updated this month to support Netflix streaming, so for the minimum subscription fee (1 DVD at a time, $8/month), I'll be able to get live, streaming movies directly from my XBOX 360 and all my PCs for the movies I don't yet own.&lt;/LI>&lt;/UL>
+&lt;P>All of this means is that if I were to schedule episodes of say, &lt;A href="http://tvrss.net/search/?show_name=Burn+Notice&amp;amp;show_name_exact=true">Burn Notice&lt;/A>, to be recorded by uTorrent and dropped into the Videos\TV\Burn Notice folder of my WHS box, I'd be able to access those and play them back on my XBOX 360 even more simply then I could access video from my MCE box, because I don't have to start up the Media Center software first -- access to shared folders is built right into the XBOX 360 menuing system. And I could have all of this in HD (no CableCard required) without commercials and without regard for how many tuners I have. This is all free and, if I don't want to watch live TV (the Superbowl was the last time I did), then I don't even need to spend $55/month on cable.&lt;/P>
+&lt;P>Plus, when combined with my photos, music and &lt;A href="vhttp://127.0.0.1:8080/news/showTopic.aspx?ixTopic=2187">ripped DVDs&lt;/A>, all of which are also stored on my WHS box, and streaming movies I don't yet own, I could access all of my digital media from my XBOX 360 (attached to my 46" LCD panel) and from all of my PCs simply and quickly.&lt;/P>
+&lt;P>Of course, I would never record my favorite TV programs like this, because it's very much a copyright violation and therefore highly illegal.&lt;/P>
+&lt;P>But if I did, wow, it would rock...&lt;/P>
+&lt;P>Why do I need cable again?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2211</id>
+    <title>Designing a language is hard; implementing it shouldn't be</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>Frans Bouma has an interesting point: Designing a language is hard, and M won't change that. And he's right. For many domains, a DSL can make expressing what's important easier so that the developers using the DSLs can communicate between themselves and to a computer with fewer lines of code, making it easier to read, check and maintain. Many (arguably most) domains live without a DSL, instead encoding design decisions into general purpose languages, adding unnecessary ceremony to the essence of what's bein...</summary>
+    <content type="html">&lt;h1>Designing a language is hard; implementing it shouldn't be&lt;/h1>
+&lt;P>Frans Bouma has an interesting point: &lt;A href="http://weblogs.asp.net/fbouma/archive/2008/11/05/designing-a-language-is-hard-and-m-won-t-change-that.aspx">Designing a language is hard, and M won't change that&lt;/A>. And he's right.&lt;/P>
+&lt;P>For many domains, a DSL can make expressing what's important easier so that the developers using the DSLs can communicate between themselves and to a computer with fewer lines of code, making it easier to read, check and maintain. Many (arguably most) domains live without a DSL, instead encoding design decisions into general purpose languages, adding &lt;A href="http://blog.thinkrelevance.com/2008/4/1/ending-legacy-code-in-our-lifetime">unnecessary ceremony to the essence&lt;/A> of what's being decided, thereby obscuring it.&lt;/P>
+&lt;P>Does M making designing a language easier? No. It's still hard to design the syntax of a language. Does the M family of languages and the associated tools make it possible for more developers to add DSLs to their domains, letting them concentrate on the essence their language and reducing the &lt;A href="http://www.imdb.com/title/tt0090305/">Weird Science&lt;/A>-like ceremony to bring it to life? We hope so. &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">You'll have to let us know.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2204</id>
+    <title>MisBahaving with M</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>The M family of languages is meant for all kinds of things, from executable models, e.g. defining a workflow and executing it via the Workflow runtime, to allowing a business person to express something in a language, either visual or textual, that they understand so that it can be communicated as formally as desired to another human. As an example of the latter, Claudio Perrone has implemented a DSL in MGrammar for Behavior-Driven Development. It is amazing to me how many of these little DSLs have popped i...</summary>
+    <content type="html">&lt;h1>MisBahaving with M&lt;/h1>
+&lt;P>The M family of languages is meant for all kinds of things, from executable models, e.g. defining a workflow and executing it via the Workflow runtime, to allowing a business person to express something in a language, either visual or textual, that they understand so that it can be communicated as formally as desired to another human. As an example of the latter, &lt;A href="http://www.claudioperrone.com/blog/articles/2008/11/09/misbehave-01-oslos-mgrammar-for-bdd-executable-specifications/">Claudio Perrone has implemented a DSL in MGrammar for Behavior-Driven Development&lt;/A>.&lt;/P>
+&lt;P>It is amazing to me how many of these little DSLs have popped in M just since the PDC. Keep 'em coming!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2210</id>
+    <title>More Oslo Reactions: What “Oslo” is and is not</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>Lars Corneliussen (not the wonderful Lars that did a cameo at the Repository &amp;amp; Schemas PDC talk about 8 minutes in) did a nice overview of Oslo. It's amazing to me how well the vision and details of the platform came through at the PDC. General-purpose modeling is a new thing for mainstream developers, but at least the developers that we've heard from so far seem to be open to the idea.</summary>
+    <content type="html">&lt;h1>More Oslo Reactions: What “Oslo” is and is not&lt;/h1>
+Lars Corneliussen (not the wonderful Lars that did a cameo at &lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL28.wmv">the Repository &amp;amp; Schemas PDC talk&lt;/A> about 8 minutes in) did &lt;A href="http://startbigthinksmall.wordpress.com/2008/11/07/post-pdc-again-what-is-oslo-m-mgrammar-quadrant-repository-textual-dsls-dsl-tools-uml-modeling-november-2008/">a nice overview of Oslo&lt;/A>. It's amazing to me how well the vision and details of the platform came through at the PDC. General-purpose modeling is a new thing for mainstream developers, but at least the developers that we've heard from so far seem to be open to the idea.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2209</id>
+    <title>Ted Neward Explores M</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>When I was an external to Microsoft, I used to see new Microsoft technologies and have several reactions: wonder, awe, lust, hate, confusion, apathy. Really, Microsoft was a harsh mistress that caused all kinds of reactions. I've been heads down for 3.5 years working on Oslo, so seeing other peoples' opinions from inside of Microsoft is very enlightening. Ted Neward has an Oslo opinion that I enjoyed reading, even if it wasn't all positive. Thanks, Ted. </summary>
+    <content type="html">&lt;h1>Ted Neward Explores M&lt;/h1>
+&lt;P>When I was an external to Microsoft, I used to see new Microsoft technologies and have several reactions: wonder, awe, lust, hate, confusion, apathy. Really, Microsoft was a harsh mistress that caused all kinds of reactions.&lt;/P>
+&lt;P>I've been heads down for 3.5 years working on Oslo, so seeing other peoples' opinions from inside of Microsoft is very enlightening. &lt;A href="http://blogs.tedneward.com/CommentView.aspx?guid=d2274e34-b9e5-4771-a877-505b58b8aa28">Ted Neward has an Oslo opinion&lt;/A> that I enjoyed reading, even if it wasn't all positive. Thanks, Ted.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2203</id>
+    <title>MSchema and Decorator Tables</title>
+    <updated>2008-11-11T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-11-11T08:00:00.000Z</published>
+    <summary>The one where Shawn Wildermuth explores the MSchema syntax that looks like inheritance but isn't (since inheritance has no meaning in a structurally type language). </summary>
+    <content type="html">&lt;h1>MSchema and Decorator Tables&lt;/h1>
+&lt;P>The one where Shawn Wildermuth explores the &lt;A href="http://wildermuth.com/2008/11/08/MSchema_and_Decorator_Tables">MSchema syntax that looks like inheritance but isn't&lt;/A> (since inheritance has no meaning in a structurally type language).&lt;/P></content>
+  </entry>
+</feed>

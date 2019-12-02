@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed38.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed37.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed39.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed38.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1872</id>
+    <title>Shepherd Book Wasn't Always A Shepherd</title>
+    <updated>2005-10-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-10T07:00:00.000Z</published>
+    <summary>Aha! I finally figured out where I know Shepherd Book from and I now understand the references to the fact that he wasn't always a Shepherd. At one point, when he was much younger, Book was Det. Ron Harris from the 12th precinct in Los Angeles! I believe the low point in his career was in episode 135 and 136 (a rare two-parter) where Harris turns a low-budget pornography investigation into a major motion picture. The series only survived another 14 months before Harris changed his name and joined the clergy...</summary>
+    <content type="html">&lt;h1>Shepherd Book Wasn't Always A Shepherd&lt;/h1>
+Aha! I finally figured out where I know Shepherd Book from and I now understand the references to the fact that he wasn't always a Shepherd. At one point, when he was much younger, Book was Det. Ron Harris from &lt;A href="http://www.debw.com/barneymiller.html">the 12th precinct in Los Angeles&lt;/A>! I believe the low point in his career was in episode 135 and 136 (a rare two-parter) where &lt;A href="http://www.debwong.com/eps.html">Harris turns a low-budget pornography investigation into a major motion picture&lt;/A>. The series only survived another 14 months before Harris changed his name and joined the clergy, eventually ending up on the Serenity. It all makes sense! That Buffy guy is quite the genius... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1873</id>
+    <title>Open Office is a "real" thing</title>
+    <updated>2005-10-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-10T07:00:00.000Z</published>
+    <summary>I use my family as a litmus test of when things are "real" or not. None of them have technology backgrounds or training,&amp;nbsp;so if something is real to them, it's real. For example, it was my grandmother that asked whether she need Windows 95 (she didn't have a computer, mind you). I head from my folks about spyware and phish attacks. And now, my sister-in-law asked me if she should be upgrading her Windows ME machine to OpenOffice. Of course, OpenOffice isn't an OS, but as far as she knows, MS Office is h...</summary>
+    <content type="html">&lt;h1>Open Office is a "real" thing&lt;/h1>
+&lt;P>I use my family as a litmus test of when things are "real" or not. None of them have technology backgrounds or training,&amp;nbsp;so if something is real to them, it's real. For example, it was my grandmother that asked whether she need Windows 95 (she didn't have a computer, mind you). I head from my folks about spyware and phish attacks. And now, my sister-in-law asked me if she should be upgrading her Windows ME machine to OpenOffice.&lt;/P>
+&lt;P>Of course, OpenOffice isn't an OS, but as far as she knows, MS Office is her current OS, so maybe OpenOffice is what she needs.&lt;/P>
+&lt;P>I believe that it's in her best interest for me to steer her away from unsupported OSS software unless I want to become her tech support liaison (difficult, since I've never used OpenOffice). Also, she's looking for "something that will function with little or no problems," which I can't claim of any software, free or not.&lt;/P>
+&lt;P>Still, it makes you wonder if these OSS guys could really make a credible play for the desktop. Obviously, they're not going to produce Office 12 or Windows Vista anytime soon, but they're nipping at our heels pretty credibly if they can attract the attention of the secular members of my family. How much longer before OSS becomes "good enough" for most uses and the latest thing you buy from actual software vendors is just fancier? In fact, how many actual software vendors do we really have left anyway?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1871</id>
+    <title>John Gossman on Model/View/ViewModel</title>
+    <updated>2005-10-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-10-09T07:00:00.000Z</published>
+    <summary>John Gossman, architect on the Sparkle team, has just made a post about how Sparkle uses data binding to hook up the view of the data to the data itself. Interestingly, his post isn't about whether they used data binding -- that's a foregone conclusion. Data binding is so powerful that pretty much every non-trivial Avalon app will use it, and Sparkle (a large app with a very rich UI) uses the hell out of it. The main thrust of the Model/View/ViewModel architecture seems to be that on top of the data ("the M...</summary>
+    <content type="html">&lt;h1>John Gossman on Model/View/ViewModel&lt;/h1>
+&lt;P>John Gossman, architect on the Sparkle team, has just made a post about &lt;A href="http://blogs.msdn.com/johngossman/archive/2005/10/08/478683.aspx">how Sparkle uses data binding to hook up the view of the data to the data itself&lt;/A>.&lt;/P>
+&lt;P>Interestingly, his post isn't about whether they used data binding -- that's a foregone conclusion. Data binding is so powerful that pretty much every non-trivial Avalon app will use it, and Sparkle (a large app with a very rich UI) uses the hell out of it.&lt;/P>
+&lt;P>The main thrust of the Model/View/ViewModel architecture seems to be that on top of the data ("the Model"), there's another layer of non-visual components ("the ViewModel") that map the concepts of the data more closely to the concepts of the view of the data ("the View"). It's the ViewModel that the View binds to, not the Model directly.&lt;/P>
+&lt;P>I've been a fan of value converters (implementations of IValueConverter) for this kind of work, but John's technique has its charms, not least that it allows for much more radical slicing and dicing than value converters allow easily.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1868</id>
+    <title>Wise Advice from Tyler Brown</title>
+    <updated>2005-10-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-10-08T07:00:00.000Z</published>
+    <summary>How can you argue with someone so obviously intelligent?</summary>
+    <content type="html">&lt;h1>Wise Advice from Tyler Brown&lt;/h1>
+How can you argue with &lt;A href="http://tylerbrown.blogdns.net/?p=41">someone so obviously intelligent&lt;/A>?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1870</id>
+    <title>I'm also a huge Ian fan, as you should be</title>
+    <updated>2005-10-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-08T07:00:00.000Z</published>
+    <summary>Ian Griffiths, my co-author on Programming Windows Presentation Foundation, is very well worth your attention. He was a colleague of mine at DevelopMentor and now teaches for PluralSight. I'm on a private mailing list filled with the smartest people I know and Ian is the one we look to for the definitive word on a wide variety of wacky technologies. In spite of his tendency to write&amp;nbsp;long missives&amp;nbsp;covering&amp;nbsp;huge areas (or because of it), he's the one guy I always read on that list. He's also gr...</summary>
+    <content type="html">&lt;h1>I'm also a huge Ian fan, as you should be&lt;/h1>
+&lt;P>&lt;A href="http://www.interact-sw.co.uk/iangblog/">Ian Griffiths&lt;/A>, my co-author on &lt;A href="http://www.interact-sw.co.uk/iangblog/2005/09/16/wpfbook">Programming Windows Presentation Foundation&lt;/A>, is very well worth your attention.&lt;/P>
+&lt;P>He was a colleague of mine at DevelopMentor and now teaches for &lt;A href="http://www.pluralsight.com/">PluralSight&lt;/A>.&lt;/P>
+&lt;P>I'm on a private mailing list filled with the smartest people I know and Ian is the one we look to for the definitive word on a wide variety of wacky technologies. In spite of his tendency to write&amp;nbsp;long missives&amp;nbsp;covering&amp;nbsp;huge areas (or because of it), he's the one guy I always read on that list. &lt;A href="http://groups.yahoo.com/group/win_tech_off_topic/messagesearch?query=%22ian%20griffiths%22">He's also graces the off topic mailing list&lt;/A> a great deal and, of course, &lt;A href="http://www.interact-sw.co.uk/iangblog/">the blogesphere&lt;/A>.&lt;/P>
+&lt;P>Ian wrote the XAML Appendix that &lt;A href="http://www.pluralsight.com/blogs/dbox/default.aspx">Don&lt;/A> so loves, as well as half the rest of the WPF book, including layout, custom controls and resources, all of which I constantly refer to. It goes without saying that his feedback made a huge difference in the quality of my own writing. When I asked Ian to co-author with me, I knew I was obtaining one of the community's most potent secret weapons.&lt;/P>
+&lt;P>If you're not an &lt;A href="http://www.interact-sw.co.uk/iangblog/">Ian Griffiths&lt;/A> fan yet, you soon will be.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1869</id>
+    <title>I'm a fan</title>
+    <updated>2005-10-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-08T07:00:00.000Z</published>
+    <summary>Charles Petzold taught the first generation of real Windows programmers. Charles Petzold sold so many copies of Programming Windows 3.1 that he broke the MSPress accounting software. Charles Petzold helped define what it means to write books for Windows programmers. I'm a Charles Petzold fan. I'm also a fan of the other luminaries of this community, including Jeff Prosise, Jeff Richter, Matt Pietrek, John Robbins and Don Box. They're the giants that provide the provided the shoulders. P.S. Petzold has liter...</summary>
+    <content type="html">&lt;h1>I'm a fan&lt;/h1>
+&lt;P>Charles Petzold taught the first generation of real Windows programmers.&lt;/P>
+&lt;P>Charles Petzold sold so many copies of Programming Windows 3.1 that he broke the MSPress accounting software.&lt;/P>
+&lt;P>Charles Petzold helped define what it means to write books for Windows programmers.&lt;/P>
+&lt;P>I'm a Charles Petzold fan. I'm also a fan of the other luminaries of this community, including Jeff Prosise, Jeff Richter, Matt Pietrek, John Robbins and Don Box.&lt;/P>
+&lt;P>They're the giants that provide the provided the shoulders.&lt;/P>
+&lt;P>P.S. Petzold has literally sold more copies of Programming Windows 3.1 in a &lt;i>single quarter&lt;/i> of the 16-bit years than I've sold of my books in a 10-year writing career.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1867</id>
+    <title>How I Stopped Worrying And Learned To Love the Reboot</title>
+    <updated>2005-10-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-07T07:00:00.000Z</published>
+    <summary>Here. The one where I give you the behind the scenes look at the most disasterous and most amazing talk I've ever given : "Avalon + Indigo = Magic" at the 2005 PDC.</summary>
+    <content type="html">&lt;h1>How I Stopped Worrying And Learned To Love the Reboot&lt;/h1>
+&lt;a href="/12467">Here&lt;/a>. The one where I give you &lt;a href="/12467">the behind the scenes look at the most disasterous and most amazing talk I've ever given&lt;/A>: "Avalon + Indigo = Magic" at the 2005 PDC.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12467</id>
+    <title>How I Stopped Worrying And Learned To Love the Reboot</title>
+    <updated>2005-10-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-06T07:00:00.000Z</published>
+    <summary>A while has passed since the 2005 PDC, so I can laugh about it now, but at the time, things were not fun at all. It started long before the PDC. Doug Purdy and I were asked to do the Avalon/Indigo &amp;quot;interop&amp;quot; talk. We got together and I volunteered to &amp;quot;PM&amp;quot; it (PM is a verb as well as a noun at MS). Over lunch (we both love CPK ), we hammered out our ideas for a fun demo that showed off the integration points between these two technologies, split the tasks, set the dates and off we went. My...</summary>
+    <content type="html">&lt;h1>How I Stopped Worrying And Learned To Love the Reboot&lt;/h1>
+&lt;p align="left">A while has passed since the 2005 PDC, so I can laugh about it now, but at the time, things were not fun at all.&lt;/p>&lt;p align="left">It started long before the PDC. Doug Purdy and I were asked to do the Avalon/Indigo &amp;quot;interop&amp;quot; talk. We got together and I volunteered to &amp;quot;PM&amp;quot; it (PM is a verb as well as a noun at MS). Over lunch (we both love &lt;a href="http://www.cpk.com/">CPK&lt;/a>), we hammered out our ideas for a fun demo that showed off the integration points between these two technologies, split the tasks, set the dates and off we went.&lt;/p>&lt;p align="left">My first task was to gather the graphics we'd need for our Avalon front-end, since neither Doug nor I are artists. I asked newly hired &lt;i>&lt;b>Adam Kinney, who did a fabulous job&lt;/b>&lt;/i>. Everything good about the app is Adam's fault. Thanks, Adam! I was also to build a script for our demo that we could run by folks internally, which I did.&lt;/p>&lt;p align="left">Doug's job was to put up a web service that I could write my app against. The problem is that Doug has far, far more responsibility than I do, since while my day job is to PM a group of about 5 people, Doug's is to PM a group of about 250. At MS, when you've got too much to do, the time you set aside for a lower priority task is often &amp;quot;pimped&amp;quot; to service the higher priority task (that's a technical term : ). I got pimped -- hard (without so much as a kiss...).&lt;/p>&lt;p align="left">When you're pimped at MS, one handy trick is to schedule a &amp;quot;working&amp;quot; meeting, where you sit in the room with the folks that were supposed to do the work on their own and you work &amp;quot;with&amp;quot; them, i.e. look over their shoulder and give them shit if they're not working on your thing. Unfortunately, the only time I could get with Doug was 6pm-10pm one evening, but I took it and we spent a pleasant evening writing our bits of the app and making them work together under WinFX beta 1.&lt;/p>&lt;p align="left">Then the September CTP bits came along that we were to give away at the PDC. I spent a few hours porting my bits, but Doug didn't have the time to do his 'til just before the PDC, so we didn't get a chance to integrate our two apps 'til the week of the PDC itself.&lt;/p>&lt;p align="left">But let's back up. I'm at the PDC Tuesday morning. My Avalon app portion is ported and running, as is Doug's Indigo app portion. I go to the keynote in the Microsoft employee overflow where we get to make fun of the people on the screen w/o disturbing anyone and we're having a good ol' time. I don't see Doug, but that's not surprising, so I head up to the speaker lounge, grab a network connection and drop him a line.&lt;/p>&lt;p align="left">By Wednesday afternoon, I still hadn't heard from him. I drop him another line. Still nothing. Martin Gudgin, my long-time friend and Doug Purdy direct (aka Martin works for Doug), places a call to him for me. Doug picks up. He can do that because he's not on a plane down to LA. No, he wouldn't do that because planes freak him out. Instead, he's on a train. The ride is &lt;i>35 hours long&lt;/i> and he's still in the middle of it. I won't see him 'til later this evening, if at all. At least he's safe and he's using the training ride to polish his demo, so I go to a party and feel better.&lt;/p>&lt;p align="left">I awake to find an S+ in my inbox. &amp;quot;S+&amp;quot; is what what 'softies call an Outlook appointment request because we used to schedule meetings using a program called Schedule Plus and, like many things at MS, the noun was verbitized. The S+ is from Doug and he wants to meet to me this morning to have a working meeting to do our integration. I'm happy to do so, so I report to the speaker's lounge on Wednesday at 10am.&lt;/p>&lt;p align="left">Except for commitments, like Doug's other talks, &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/">my Windows Technology Off Topic mailing list&lt;/a> member mini-DevCon and a tiny bit of sleeping, Doug and I are working on the integration of our demos from Wednesday morning at 10am until &lt;i>Friday morning at 4am&lt;/i> (our talk is at 10:30am Friday). To get things to work, we're battling issues we never saw before because in an effort to give our customers the latest and greatest bits, the CTP has regressed on the Avalon/Indigo integration front.&lt;/p>&lt;p align="left">For example, while the add-in that adds Avalon/Indigo features to VS05 modifies the Add Web Reference to create an Indigo client-side proxy, there is no way to set the flag to give us async methods and the generated code for endpoints with more than one method doesn't actually compile (nor is it easily fixed to compile). The command-line utility, svcutil, generates async methods and the output compiles, but when the async methods are called, they block the UI thread. The worker thread is still spawned and used, mind you, it's just that the UI thread is blocked 'til the worker thread is done (handily defeating the purpose). Even when we switch the client to use BackgroundWorker so that async calls are really async, the first Indigo call takes 20+ seconds. We didn't learn this 'til later, but this was apparently due to a DNS look-up error when Indigo was used with a network connection (we were using two machines to be as real-world as possible...). This list went on and on.&lt;/p>&lt;p align="left">We did finally get it all working by 4am, but by then we were swearing at everyone and everything that had gone into the creation of either technology, which made us good company for the other last-minute-Lou's that were hammering away at their demos into the wee hours of the morning (although Doug and I had the dubious honor of being the last ones in that damn speaker lounge).&lt;/p>&lt;p align="left">I woke up early, so I headed to our session early. Doug had another talk right before ours, so I thought I'd get things set up, test them out as much as possible, etc. Sitting in the back of the room about 15 minutes before the other talk was about to end, I started my laptop up from Hibernate mode just as my cell phone rang. It was a friend, so before my machine had fully booted, I flipped the lid closed again and answered my phone. Just then, the speaker ended his talk, so I ended my call and wandered to the front of the room with 45 long, juicy minutes to set up.&lt;/p>&lt;p align="left">I sauntered onto the stage. I got out my power cord in a leisurely fashion and started my laptop to boot.&lt;/p>&lt;p align="left">I hooked up my power cord and thought I saw a hint of blue on my laptop screen and it was booting again.&lt;/p>&lt;p align="left">I watched more carefully and yes, that was the BSOD. I shutdown the power completely and waited a few seconds. Booting again gave me a BSOD again. Minutes are ticking by, eating into my comfortable lead. The IT guys are coming up to test my laptop's video output and to hook up the mic. I ask if someone technical could help me. They get onto their radios with a hint of panic in their voices.&lt;/p>&lt;p align="left">By now, I've trying safe mode booting, both into Windows and into the command prompt, both of which yielded a BSOD. Then I remember my CD case. I always carry a set of CDs with me with my most critical software, just in case (those old instructor habits die hard). I had recently gone through it and cleaned out a bunch of stuff, so the single CD left in the case is my Windows XP SP2 boot CD. I put it in and pray. As it turns out, I've got plenty of time to establish a connection with my maker, because it takes ages for that XP CD boot to get somewhere useful. I chose the Recovery Console and wait.&lt;/p>&lt;p align="left">In the meantime, Martin has wandered in to say hello. It's about 10:10 and my talk starts in 20 minutes. I ask him if he's got WinFX and VS installed on his laptop. He says he's got WinFX and a version of VS installed, but neither are the PDC bits, so they're not likely to help me (I was up 'til 4am getting my bits working for the PDC build -- I couldn't imagine switching versions on the fly). I ask him to find someone else with a machine I can use. In the meantime, I'm checking the PDC boxes. They've got two, both running WinXP (great!), but neither running WinFX or VS05 (boo!). All I can do from these machines is run my PowerPoint deck, but because this session was meant to be code only, we've only got about 3 slides. Without the demo, we've essentially got nothing.&lt;/p>&lt;p align="left">Now it's 10:15 and the audience is gathering. Also gathering are people trying to help. One guy's got a machine with the right bits, but they're running in a VPC, which is not the greatest place to show off Avalon (but thanks, whoever you are, for trying!). One attendee offers his laptop, which has the right bits installed, but he doesn't have a power cord and there's only about 30 minutes worth of battery life left. Rob Relyea (I think) finally comes up with his shuttle PC with the right bits and a power cord and starts hooking it up, along with everyone else I can find that might be able to help me, all of whom are now busy hooking up PCs in line line that nearly bows the table on the stage.&lt;/p>&lt;p align="left">At last, I'm at the recovery console and I'm running every command I can think of, e.g. fixmbr, fixboot, chkdsk, etc. Most of the commands are saying scary things like &amp;quot;Are you sure you want to execute this command? It might work, but I can't promise not to cause flames to shoot out the USB slots.&amp;quot; I'm typing &amp;quot;y&amp;quot; as fast as I can 'cuz I've got nothing and at least flames would be engaging.&lt;/p>&lt;p align="left">Now it's 10:20 and Doug has just shown up from his previous talk. He boots his laptop without a problem, the sound guys have their way with him, his video works and he announces that he needs caffeine. Of course, I've got adrenaline shooting out of my eyeballs by now and I want him to feel my pain, so I tell Doug his is absolutely &lt;i>not&lt;/i> going anywhere. He says he is. I tell him he's not. Now, Doug and I are both big, loud guys, so all of the folks in the front rows, including representatives from the technologies we're demonstrating that asked us to give this talk, are witnessing us fighting with each other minutes before the talk begins. Finally, Rob to the rescue again, offers to get Doug some coffee.&lt;/p>&lt;p align="left">At around 10:25, all of the fixthis and chkthat commands have been run and I reboot. For the first time in almost an hour, I can log into my laptop and I start to think I might actually get to give my first PDC session ever (did I mention I felt a little pressure?). We pull up the finished version of our app and test it end to end. There's still the initial 20 second lag, but it all works. Brimming with confidence that only comes from avoiding a bullet with your name on it, I hook up the video on my laptop.&lt;/p>&lt;p align="left">All that comes out is scrambled garbage.&lt;/p>&lt;p align="left">Now we're panicked again, frantically futzing with the video settings. They all seem mostly right, so we change some things that shouldn't matter, but nothing fixes the problem.&lt;/p>&lt;p align="left">We can't get the video to work and now it's 10:30.&lt;/p>&lt;p align="left">The sound guy puts on my mic and practically dives off the stage in case something does burst into flames, as seems the logical next event.&lt;/p>&lt;p align="left">I pull up the slides on one of the PDC computers so we can start the talk and reboot my laptop at 10:31.&lt;/p>&lt;p align="left">At 10:32, we've started the talk. Doug is telling folks who we are and why we're here. I'm looking for the backdoor.&lt;/p>&lt;p align="left">I log into my laptop, start up the talk on the same slide that's currently showing and press the switcher to show my laptop's video.&lt;/p>&lt;p align="left">It shows and I am Superman.&lt;/p>&lt;p align="left">This is where things get fun, because at our most morose, Doug and I are loud and obnoxious in a way that most audiences like. By now, we've poured so much energy into the talk right up until literally the very last minute that now we're practically levitating.&lt;/p>&lt;p align="left">Doug has the idea to take questions first, so I'm writing down a list of stuff that has &lt;i>nothing &lt;/i>to do with the talk, all the while we're making fun of each other and the audience. The audience eats it up.&lt;/p>&lt;p align="left">I've got a developer from Indigo and a PM from Avalon in the front row that we bring up on stage because they've just gotten engaged and we made them kiss to show off the power of Avalon and Indigo integration, I announce that I got ordained on two separate internet churches the night before in case they wanted me to marry them on the spot. They politely decline, but the audience eats it up.&lt;/p>&lt;p align="left">I show off our application with increasingly funny caricatures of Doug and me. The audience eats it up.&lt;/p>&lt;p align="left">We start into the actual code integrating Avalon and Indigo, joyfully pointing out the problems with the current versions of each other's technologies, making sure the audience knows the current state of the bits and how to work around problems while pledging to fix things by RTM. After a bit of trouble, we get our integration code working across the network between machines and give each other an enormous hug, professing our undying love for each other and guess what? The audience eats it up.&lt;/p>&lt;p align="left">It's like a TV sitcom with a laugh track every 60 seconds, except that Doug and I are just riffing and the laughter is real. I'd say it was the speaker version of jazz and it rocked the house.&lt;/p>&lt;p align="left">Of course, as was inevitable, we got to a place where our demo finally failed, but only after we'd gone over our allotted time by 5 minutes and Doug redeemed us with 10 seconds more typing, an off the cuff demo and a flourish, at which time we wisely took our bows and got the hell off the stage.&lt;/p>&lt;p align="left">What was the result? Lots of folks said stuff in their evals like, &amp;quot;Siegfried and Roy have nothing on Chris and Doug. It was a perfect way to wake up on the Friday of the conference.&amp;quot; However, some folks dinged us for &amp;quot;too much show, not enough substance,&amp;quot; and they were right. We would've shown more stuff if we could have, but frankly, I'm just happy one of us didn't spontaneously combust.&lt;/p>&lt;p align="left">The best results of the talk was that Doug went home with a giant list of bugs to get fixed before the WinFX RTM and I kicked off the &amp;quot;WinFX Cross-Pillar SDK Technology Sample Working Group&amp;quot; dedicated to making sure we have a much greater set of SDK samples to show off and drive quality into the cross-pillar integration points between Avalon, Indigo and Workflow. I'd actually like to poke my head out of the speaker lounge at the next PDC and I'll be damned if I'm going to let the quality of these particular technologies stop me next time if I can help it (and I can).&lt;/p>&lt;p align="left">Still, I find I have a new appreciation for jazz...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1866</id>
+    <title>The Competition</title>
+    <updated>2005-10-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-06T07:00:00.000Z</published>
+    <summary>Charles Petzold says he doesn't envy me. Hell, I'm just flattered he knows my name. Like the rest of my generation, I learned how to program Windows from Petzold. Still, even though Petzold doesn't envy Ian and I for writing the beta edition of the WPF book, it hasn't turned out to be so bad. Oh sure, we wrote against first a creaky CTP, then a slightly less creaky beta 1 RC, but we made it mostly work. Of course, but the time the book was published at the PDC, MS had released a new version, making some of ...</summary>
+    <content type="html">&lt;h1>The Competition&lt;/h1>
+&lt;P>&lt;A href="http://www.charlespetzold.com/blog/blog.xml#0509250805">Charles Petzold says he doesn't envy me&lt;/A>. Hell, I'm just flattered he knows my name. Like the rest of my generation, I learned &lt;A href="http://www.amazon.com/exec/obidos/ASIN/1556153953/chrissells">how to program Windows&lt;/A> from Petzold.&lt;/P>
+&lt;P>Still, even though Petzold doesn't envy Ian and I for writing the beta edition of &lt;a href="/public/writing/wpfbook/">the WPF book&lt;/A>, it hasn't turned out to be so bad. Oh sure, we wrote against first a creaky CTP, then a slightly less creaky beta 1 RC, but we made it mostly work. Of course, but the time the book was published at the PDC, MS had released a new version, making some of the details of our book obsolete, but not so many that we weren't able to catalog the changes&amp;nbsp;for readers&amp;nbsp;w/in a week or so of the PDC bits. We've also posted samples for both beta 1 and the September PDC&amp;nbsp;and we plan on posting changes and samples for every major version from now 'til the WPF v1.0 version of the book.&lt;/P>
+&lt;P>Plus, I happen to know that &lt;A href="http://www.simplegeek.com">another "competitor"&lt;/A> is constantly bombarded with copies of the book on the desks of his colleagues, while &lt;A href="http://www.pluralsight.com/blogs/dbox/default.aspx">a friend&lt;/A> makes parts of our book required reading for the people he's working with.&lt;/P>
+&lt;P>Still, all of that pales in comparison to the real value of getting a book (or any product) out as early as possible: feedback from the readers (users). I got a ton of feedback on my early Avalon writings and now we're getting more from our book readers, all of it feeding into the pipeline to make the book better the next time around.&lt;/P>
+&lt;P>With all of this in our favor, I don't envy Petzold having to start from scratch...&lt;/P>
+&lt;P>P.S. I have to say, the only thing better than &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321116208/chrissells">beating&lt;/a> Petzold, my long-time hero, in &lt;a href="http://www.amazon.com/exec/obidos/ASIN/157231995X/chrissells">sales and reviews&lt;/a> is having him complain about me on his blog. I've peaked. It's all down hill from here... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1865</id>
+    <title>I don't ever want to unpack my books</title>
+    <updated>2005-10-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-03T07:00:00.000Z</published>
+    <summary>I don't ever want to unpack my books. Instead, I want a paperback-sized tablet PC whose sole job is to run eReader loaded with all of my books. It's work like Project Gutenberg, the Open Content Alliance and Safari that may finally make this happen. However, like my DVD and music collection, I am willing to purchase my book collection one more time in digital form, but only if it is non-DRM'd so that I can use the book where ever I want to. It's no good to be to be able to read my book at my PC, but not in ...</summary>
+    <content type="html">&lt;h1>I don't ever want to unpack my books&lt;/h1>
+&lt;P>I don't ever want to unpack &lt;A href="/12506">my books&lt;/A>. Instead, I want a paperback-sized tablet PC whose sole job is to run eReader loaded with all of my books. It's work like &lt;A href="http://www.gutenberg.org/">Project Gutenberg&lt;/A>, &lt;A href="http://www.nytimes.com/2005/10/03/business/03yahoo.html">the Open Content Alliance&lt;/A> and &lt;A href="http://safari.oreilly.com/">Safari&lt;/A> that may finally make this happen.&lt;/P>
+&lt;P>However, like my DVD and music collection, I am willing to purchase my book collection one more time in digital form, but only if it is non-DRM'd so that I can use the book where ever I want to. It's no good to be to be able to read my book at my PC, but not in bed or in line at the airport.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1863</id>
+    <title>Looking forward to "Serenity"</title>
+    <updated>2005-09-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-09-30T07:00:00.000Z</published>
+    <summary>IMDB : "8.4/10" Oregonian : "A-" Wired News : "And it's those human elements -- the undeniable chemistry between the crew, the tense standoffs between good guys and bad, Mal wrestling with his conscience -- that make Serenity work." New York Times : "Scene for scene, 'Serenity' is more engaging and certainly better written and acted than any of Mr. Lucas's recent screen entertainments. " I never knew about the series while it was new, but have seen it 2.5 times&amp;nbsp;since it came on DVD, loving it all the w...</summary>
+    <content type="html">&lt;h1>Looking forward to "Serenity"&lt;/h1>
+&lt;P>&lt;A href="http://www.imdb.com/title/tt0379786/">IMDB&lt;/A>: "8.4/10"&lt;/P>
+&lt;P>&lt;A href="http://www.oregonlive.com/search/index.ssf?/base/entertainment/1127991988181420.xml?oregonian?alfs&amp;amp;coll=7">Oregonian&lt;/A>: "A-"&lt;/P>
+&lt;P>&lt;A href="http://www.wired.com/news/culture/0,1284,69036,00.html">Wired News&lt;/A>: "And it's those human elements -- the undeniable chemistry between the crew, the tense standoffs between good guys and bad, Mal wrestling with his conscience -- that make Serenity work."&lt;/P>
+&lt;P>&lt;A href="http://movies2.nytimes.com/2005/09/30/movies/30sere.html">New York Times&lt;/A>: "Scene for scene, 'Serenity' is more engaging and certainly better written and acted than any of Mr. Lucas's recent screen entertainments. "&lt;/P>
+&lt;P>I never knew about the series while it was new, but have seen it 2.5 times&amp;nbsp;since it came on DVD, loving it all the way through every time (last weekend, we watched it straight through). And not only that, but my family loves it, too, which is why I haven't asked my geek friends to come along to this one with me; this is a sci-fi movie that my whole family is looking forward to. How often does that happen?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1864</id>
+    <title>I need Outlook's new anti-phishing support</title>
+    <updated>2005-09-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-09-30T07:00:00.000Z</published>
+    <summary>Forget that my family constantly asks me things like "I got an email from eBay today that said my account was closed. Should I click on the link and give them my credit card details?" Forget that I'm constantly having to watch every single link I touch. No, I need Outlook's new anti-phising protection because with all my computer education and experience, I got bit by an phishing attack. In my defense, it was the perfect storm opportunity: We've just moved and I'm still dealing with a ton of change of addre...</summary>
+    <content type="html">&lt;h1>I need Outlook's new anti-phishing support&lt;/h1>
+&lt;P>Forget that my family constantly asks me things like "I got an email from eBay today that said my account was closed. Should I click on the link and give them my credit card details?" Forget that I'm constantly having to watch every single link I touch. No, I need &lt;A href="http://isc.sans.org/diary.php?date=2005-09-29">Outlook's new anti-phising protection&lt;/A> because with all my computer education and experience, I got bit by an phishing attack.&lt;/P>
+&lt;P>In my defense, it was the perfect storm opportunity:&lt;/P>
+&lt;UL>
+&lt;LI>We've just moved and I'm still dealing with a ton of change of address issues&lt;/LI>
+&lt;LI>I ordered several books from Amazon in the old house that hadn't been delivered before we moved&lt;/LI>
+&lt;LI>I had just placed an order that morning on Amazon that morning w/o my caching settings, forgetting to update my credit card billing info&lt;/LI>&lt;/UL>
+&lt;P>So, when the Amazon email came in telling me that there were problems with my account, I didn't hover my mouse over the link before clicking it. When the page came up, looking just like an Amazon page, including the bit where they strip away most of the options when you're entering payment information, no alarms went off. Even when they asked me for my PIN, which I don't use for my credit card, so I don't know it, I entered everything else, e.g. login ID, password, credit card, expiration and even that extra code they stick on the back these days and pressed Submit before I thought anything might be amiss. It was when they complained about the lack of PIN and sent me back to the same page to enter it that, too late, I thought to question this site.&lt;/P>
+&lt;P>Of course, I canceled that credit card right away and began changing all of the sites where I use that same user name/password combination (most, frankly). But still, it put a kink in my day (and I honestly don't know all of the sites where I use that user name/password combo).&lt;/P>
+&lt;P>And so, while I'm installing &lt;A href="C:\WINDOWS\system32\rundll32.exe C:\WINDOWS\system32\muweb.dll,LaunchMUSite">Office 2003 SP2&lt;/A> as we speak, I have to wonder: why is it that anyone can send an email claiming to be whoever they want? Isn't that a problem worth disrupting the world a bit to fix? I think it is.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1862</id>
+    <title>Light Sabers You Can Actually Battle With?</title>
+    <updated>2005-09-29T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-09-29T07:00:00.000Z</published>
+    <summary>These light sabers look very cool. It'd be nice to give my boys something that they could fight with that didn't break in 5 minutes (of course, I might need one, too, just as a backup...).</summary>
+    <content type="html">&lt;h1>Light Sabers You Can Actually Battle With?&lt;/h1>
+&lt;A href="http://masterreplicas.com/customer/starwars/starwars_product_list.php?cid=9">These light sabers look very cool.&lt;/A> It'd be nice to give my boys something that they could fight with that didn't break in 5 minutes (of course, I might need one, too, just as a backup...).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1861</id>
+    <title>Indigo Road Show @ PADNUG Tonight</title>
+    <updated>2005-09-28T07:00:00.000Z</updated>
+    <published>2005-09-28T07:00:00.000Z</published>
+    <summary>Stuart asked me to post this (although I took out the marketing goo). Ari is a fun speaker and is not to be missed. The Indigo User Group Road Show rolls into Portland tonight, Wednesday, September 28, 2005 at 6:30 PM, and this is one PADNUG meeting that you definitely do not want to miss! FREE and open to the public, but registration is required for this special PADNUG event. Register today! Join top Indigo team members Ari Bixhorn and Richard Turner for an inside look at Microsoft's next generation techno...</summary>
+    <content type="html">&lt;h1>Indigo Road Show @ PADNUG Tonight&lt;/h1>
+&lt;P>&lt;EM>Stuart asked me to post this (although I took out the marketing goo). Ari is a fun speaker and is not to be missed.&lt;/EM>&lt;/P>
+&lt;P>The Indigo User Group Road Show rolls into Portland tonight, Wednesday, September 28, 2005 at 6:30 PM, and this is one PADNUG meeting that you definitely do not want to miss!&lt;/P>
+&lt;P>FREE and open to the public, but &lt;A href="http://www.impactevents.com/indigoroadshow/Overview.aspx?Event=PORT">registration is required for this special PADNUG event&lt;/A>. Register today!&lt;/P>
+&lt;P>Join top Indigo team members Ari Bixhorn and Richard Turner for an inside look at Microsoft's next generation technology for distributed programming.&lt;/P>
+&lt;P>WHAT: Microsoft Indigo User Group Road Show&lt;BR>WHEN: 6:30 PM, Wednesday, September 28, 2005&lt;BR>WHERE: Intel Jones Farm Conference Center Auditorium&lt;BR>&lt;A href="http://maps.google.com/maps?q=2111+NE+25th+Ave,+Hillsboro,+OR+97124&amp;amp;spn=0.024157,0.045907&amp;amp;hl=en">2111 NE 25th Ave, Hillsboro, OR 97124&lt;/A>&lt;/P>
+&lt;P>Attendees will also receive:&lt;/P>
+&lt;P>- A special DVD with the latest Indigo pre-release, whitepapers, labs and demos&lt;BR>- And a chance to win an Xbox and other great door prizes.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1859</id>
+    <title>Programming WPF Samples &amp; Change Notes Posted</title>
+    <updated>2005-09-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-09-26T07:00:00.000Z</published>
+    <summary>Here. I've posted the b1 and Sept (PDC) CTP samples and change notes for Programming Windows Presentation Foundation so that you can use the book for either beta 1 or the Sept (PDC) CTP bits and be equally successful. Enjoy.</summary>
+    <content type="html">&lt;h1>Programming WPF Samples &amp; Change Notes Posted&lt;/h1>
+&lt;a href="/wpfbook">Here&lt;/a>. I've posted &lt;A href="/wpfbook">the b1 and Sept (PDC) CTP samples and change notes for Programming Windows Presentation Foundation&lt;/A> so that you can use the book for either beta 1 or the Sept (PDC) CTP bits and be equally successful. Enjoy.</content>
+  </entry>
+</feed>

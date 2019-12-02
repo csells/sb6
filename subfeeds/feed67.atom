@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed67.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed66.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed68.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed67.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1467</id>
+    <title>I Can't Imagine More Great Hackers</title>
+    <updated>2004-07-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-07-29T07:00:00.000Z</published>
+    <summary>Here. According to Paul Graham, hackers only program Python and never program NT, so none of the people that I would consider "great" hackers are, by Paul's definition, great. Given the quality of the hackers I was mistakenly classifying as great, I can't image what Paul's bar must be (or it could be that he's an elitist snob... : ).</summary>
+    <content type="html">&lt;h1>I Can't Imagine More Great Hackers&lt;/h1>
+&lt;a href="http://www.paulgraham.com/gh.html">Here&lt;/a>. According to Paul Graham, hackers only program Python and &lt;EM>never&lt;/EM> program NT, so none of the people that I would consider "great" hackers are, by Paul's definition, great. Given the quality of the hackers I was mistakenly classifying as great, I can't image what Paul's bar must be (or it could be that he's an elitist snob... : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1466</id>
+    <title>OSCON Geeks @ the Portand Nerd Dinner Tonight</title>
+    <updated>2004-07-28T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-28T07:00:00.000Z</published>
+    <summary>I'm hanging out at the O'Reilly's Open Source Convention today (downtown Portland) and I'm planning on bringing as many fun out of town open source geeks as I can to the Portland Nerd Dinner tonight. I make no guarantees, but if I find Linus, he's getting an invite. : )</summary>
+    <content type="html">&lt;h1>OSCON Geeks @ the Portand Nerd Dinner Tonight&lt;/h1>
+I'm hanging out at &lt;A href="http://conferences.oreillynet.com/os2004/">the O'Reilly's Open Source Convention&lt;/A> today (downtown Portland) and I'm planning on bringing as many fun out of town open source geeks as I can to &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=f6ebd03f-4f09-472a-82b0-39a8990b8e30">the Portland Nerd Dinner tonight&lt;/A>. I make no guarantees, but if I find Linus, he's getting an invite. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1465</id>
+    <title>Crappy Carl's Crappy Contest</title>
+    <updated>2004-07-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-27T07:00:00.000Z</published>
+    <summary>Here. Crappy Carl is giving away a crappy top-of-the-line Tablet PC to anyone that crappy fills in his crappy survey (and they don't even have to listen to his crappy show to crappy win!). BTW, Microsoft and SellsBrothers.com employees are not allowed to enter. Isn't that crappy?!? : ( : ) </summary>
+    <content type="html">&lt;h1>Crappy Carl's Crappy Contest&lt;/h1>
+&lt;a href="http://www.franklins.net/dnrforms/tabletcontest.aspx">Here&lt;/a>. &lt;P>Crappy Carl is giving away a crappy top-of-the-line Tablet PC to anyone that crappy fills in his crappy survey (and they don't even have to listen to his crappy show to crappy win!).&lt;/P>
+&lt;P>BTW, Microsoft and SellsBrothers.com employees are not allowed to enter. Isn't that crappy?!? : (&lt;/P>
+&lt;P>: )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1463</id>
+    <title>MSDN Designer Posts Fun Longhorn Stuff</title>
+    <updated>2004-07-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-27T07:00:00.000Z</published>
+    <summary>Peter Stern, one of MSDN's most excellent user experience and graphic designers, has started up a web site, with a special section just for fun Longhorn-related stuff, including a complete deck of card faces in XAML and his drawings of yours truly from the Longhorn Developer Center in XAML format. I've been corrupting Peter's thinking toward Longhorn for a few months now and I've fabulously happy to have him as the other half of that magical ying/yang designer/developer relationship that Avalon fosters. </summary>
+    <content type="html">&lt;h1>MSDN Designer Posts Fun Longhorn Stuff&lt;/h1>
+&lt;P>Peter Stern, one of MSDN's most excellent user experience and graphic designers, has started up &lt;A href="http://petersterndesign.com/">a web site&lt;/A>, with &lt;A href="http://petersterndesign.com/longhorn.htm">a special section just for fun Longhorn-related stuff&lt;/A>, including a complete deck of card faces in XAML and his drawings of yours truly from &lt;A href="http://msdn.com/longhorn/">the Longhorn Developer Center&lt;/A> in XAML format.&lt;/P>
+&lt;P>I've been corrupting Peter's thinking toward Longhorn for a few months now and I've fabulously happy to have him as the other half of that magical ying/yang designer/developer relationship that Avalon fosters.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12486</id>
+    <title>What Makes A Book Successful?</title>
+    <updated>2004-07-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-07-27T07:00:00.000Z</published>
+    <summary>I got an email today from a friend who wanted to know what he could do to make the book he had in his head successful. I've thought a lot about this topic in the genre of Windows programming (I don't have a clue how to make your bodice ripper successful), but had never verbalized it 'til now, so I thought I'd run it up the flag pole and see who burns it. DISCLAIMER: I make no claim about whether following these guidelines will make your book successful. These are just things that I think about when I'm tryi...</summary>
+    <content type="html">&lt;h1>What Makes A Book Successful?&lt;/h1>
+&lt;p align="left">I got an email today from a friend who wanted to know what he could do to make the book he had in his head successful. I've thought a lot about this topic in the genre of Windows programming (I don't have a clue how to make your bodice ripper successful), but had never verbalized it 'til now, so I thought I'd run it up the flag pole and see who burns it.&lt;/p>&lt;p align="left">&lt;i>DISCLAIMER: I make no claim about whether following these guidelines will make your book successful. These are just things that I think about when I'm trying to make my own books successful.&lt;/i>&lt;/p>&lt;ol>&lt;li>&lt;p align="left">&lt;b>Write a quality book. &lt;/b>I know this one goes without saying, but given the state of most books that make their way to the shelves, I thought I'd say it anyway. Karen Gettman, my editor at Addison-Wesley, says it like this, &amp;quot;Be the first or be the best.&amp;quot; I've never yet had any luck being first, so I really try to be &amp;quot;the&amp;quot; book in any given category. For example, I think the 6 guys who read the TAPI book would agree that I really nailed it. : )&lt;br>&lt;br>For me, the crux of quality (besides being able to string sentences into paragraphs and chapters in pleasant ways) is writing a book that describes &lt;i>how to do your work with the technology&lt;/i> instead of that describes &lt;i>how the technology works&lt;/i>. The difference is subtle, but it's what separates, for example, a book that describes how to build real applications in WinForms using the appropriate tools from a book on the WinForms classes, methods and events. Likewise, the former fills in the gaps when a technology falls short whereas the latter is frustratingly silent on such topics.&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;b>Have a significant audience. &lt;/b>This is the one that's killed me time and again. The Win95 user book was killed by Internet encyclopedias. The TAPI book was killed by the lack of PC/Telephony adoption. The ATL book was pretty well-received, but the audience was still not the audience size that you'd like (although it still sells nicely and we're planning on having a 2e in time for Visual Studio 2005 and ATL 8).&lt;br>&lt;br>Having a significant audience was the thing that killed my friend's book dreams when he called. Before our call, he was all excited about his technology (passion is an important part of the writing process and it's the only thing that can get you through the murderous back-end of a quality book [on the other hand, I understand that people that write crappy books don't have this problem, so there's something to be said for that...]). After our call, he had to admit that the market just wasn't there for anyone to purchase his labor of love once he'd produced it.&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;b>Own the marketing. &lt;/b>The truth is that even though publishers have full-time marketing folks, you are much more likely to know where your audience hangs out and how to reach them then they are. Plus, there are all kinds of &amp;quot;guerrilla marketing&amp;quot; things that you are much more able to do than any publishing company. For example, these are some of the things that I like to do:&lt;br>&amp;nbsp;&lt;ul>&lt;li>&lt;p align="left">&lt;i>Answer questions online in your area of expertise. &lt;/i>I'm continually surprised by the number of authors that don't participate in the communities that support their technology. If you answer questions and then point folks to your book for more details enough times, folks will grow to appreciate your book without ever having picked it up (although don't just point folks at your book without answering their question -- that'll just make you look like an asshole).&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>Ask for Amazon reviews of your book. &lt;/i>People often feel the need to say something nice about my book before asking me a related question. In that case, I always take the opportunity to ask them to post a review and give them the URL to do so (the difference between finding my book on Amazon and just clicking an URL can make all the difference between whether they do it or not). I never ask them to post a &amp;quot;nice review,&amp;quot; btw. I just encourage them to write what they feel.&lt;br>&lt;br>Why do I care about them posting their reviews? According to legend, the number of reviews a book has is a fair indicator of how well it sells, regardless of whether those reviews are good or not. I don't know if it's causal, but since I can only influence one of the variables, that's what I do. Plus, the reviews look good to your family and friends when they pull up your books and since you're not going to make any money writing a book, you might as well get something out of it. : )&lt;br>&lt;br>Why so I want the reviews on Amazon instead of blogs, newsgroups or BookPool? Because everyone goes to Amazon to buy books and that's where I want them to see the reviews. In fact, if I see a review somewhere else besides Amazon, I'll ask the reviewer to copy and paste it on Amazon so that all of the reviews are in that one, critical place (providing them the URL, of course, to make it nice and easy for them : ).&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>Continue writing in your area of expertise.&lt;/i> There's no better free advertisement for your book than that tiny bio at the end of an article that says &amp;quot;Joe Grammer is the author of &lt;i>Essential EDI Programming in a Nutshell in 21 Days for Dummies&lt;/i>.&amp;quot; Of course, that pre-supposes that the article is good enough for folks to want to read more of your work, but if it isn't, you've got bigger fish to fry.&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>Bang on your publisher. &lt;/i>Your publisher has a PR department and a marketing department. Talk to them. Ask them what they're doing for your book. Watch where they go and make sure your book is represented. Watch where they don't go and tell them to go there. Make sure your publisher signs you up to revise your book as the technology evolves.&lt;br>&amp;nbsp;&lt;/li>&lt;/ul>&lt;/li>&lt;li>&lt;p align="left">&lt;b>Pick your publisher wisely. &lt;/b>Speaking of publishers, make sure you choose one you're going to like. It's easy to fall into the money trap, especially since every publisher on the planet can provide numbers about how they're the #1 publisher in some way for your book and you'd be a fool to go anywhere else. Unfortunately, when you do the hourly math, most authors make poverty level money, so why not pick the publisher you'll like the best? To find out which publisher fits you, you can either write for/flirt seriously with them or ask around. To save you the trouble of the former, I'll give a brief overview of the publishers with which I'm familiar:&lt;br>&amp;nbsp;&lt;ul>&lt;li>&lt;p align="left">&lt;i>Microsoft Press. &lt;/i>This is the big dog that all the other publishers a) think is given an unfair advantage and b) are constantly trying to get within striking distance of. MS Press is so far ahead on sales volumes that the rest of the publishers are scrambling for #2. I've never written for MS Press, but have seriously flirted with them enough to be scared by them. This was years ago before the great opening of MS and things may be different now, but at the time, MS Press seemed keen to &amp;quot;fix&amp;quot; my writing to fit the &amp;quot;official&amp;quot; story and to be very firm about schedules, neither of which made me happy (I was used to a more loving, lax environment : ). Plus, MS Press is famous for little clauses in their contracts for which authors need to watch (although all publishers do this -- watch out for the one called &amp;quot;Right Of First Refusal&amp;quot;).&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>Addison-Wesley. &lt;/i>I've written all but one of my real books for Addison-Wesley and they have set the author environment standard against which I measure all others. In the old days, they'd throw advances and even grants at anyone with a pulse and then expect you to take 23.5 months to deliver on a 9-month contract while leaving you free to say pretty much whatever you wanted. Sadly, those days are over, but the idea of letting the author be the ultimate arbiter of what goes on the page has stayed. This comes from editors that are more like project managers in that they send nag emails when you're late and send chapters off to reviews to gather feedback, but don't ever really read the chapters (most AW editors aren't technical). What this means is that you have a lot of freedom as an author until some reviewer you don't agree with brings up something silly that the editor takes as gospel and whacks you with it.&lt;br>&lt;br>Luckily, if you're writing for an AW series, you'll have someone technical that can read and review your content, although in this case, you'll want to make very sure that you see eye to eye with your series editor or you'll find yourself butting heads.&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>O'Reilly &amp;amp; Associates. &lt;/i>I've only written one book for them and it was a mixed experience. On the one hand, it was the wrong book (it should've been a Visual Studio Hacks book, but this was before the Hacks format was invented). On the other hand, ORA editors actually &lt;i>read&lt;/i> the book and provide intelligent, thoughtful feedback. I really like that. On the gripping hand, ORA has built its reputation of steady quality by applying heavy copy editing to all of their authors to coerce those that aren't writers into the ORA &amp;quot;voice.&amp;quot; Most of the time, this works nicely. If you pick up any ORA book in any series, you know what you're getting and lots of people love that (I love a lot of ORA books myself). However, if you're an arrogant author (like me) who thinks that he writes better than the copy editors, you may be surprised with what the copy editor does to your stuff.&lt;br>&lt;br>Also, ORA doesn't really have series so much as formats, e.g. Nutshell, Hacks, Developer Notebook, etc., so make sure you like the gimmick associated with a format before you sign up for one. To maintain that steady level of quality, they're going to make sure you stick to the format closely.&lt;br>&amp;nbsp;&lt;/li>&lt;li>&lt;p align="left">&lt;i>APress. &lt;/i>I don't know a thing about APress except that I like Dan Appleman, Gary Cornell is a character and a half, they seem to have some good books and I've never written for them, so naturally I'd like to write for them for some day (I mean, just because my wife doesn't allow me to fool around outside our marriage, why shouldn't I be able to fool around in another genre? : ).&lt;/li>&lt;/ul>&lt;/li>&lt;/ol>&lt;p align="left">BTW, a lot of these same principles can be applied to your article writing, too, but there you know what they're paying you up front. A bunch of my friends have done the math and for the same amount of work required to produce a book, they can produce articles that pay much better. But you're not writing for the money, right? (Please don't try to write for the money...)&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1464</id>
+    <title>What Makes A Book Successful?</title>
+    <updated>2004-07-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-07-27T07:00:00.000Z</published>
+    <summary>Here. The one where I pontificate like an arrogant windbag on the subject of what makes a book successful as if I knew.</summary>
+    <content type="html">&lt;h1>What Makes A Book Successful?&lt;/h1>
+&lt;a href="/12486">Here&lt;/a>. The one where I pontificate like an arrogant windbag on the subject of &lt;a href="/12486">what makes a book successful&lt;/A> as if I knew.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1461</id>
+    <title>Do You Think IE Sucks?</title>
+    <updated>2004-07-26T07:00:00.000Z</updated>
+    <published>2004-07-26T07:00:00.000Z</published>
+    <summary>More and more, my smart friends are switching from IE to something else (I've heard mostly about FireFox lately). At a recent blogger conference filled, by definition, with a bunch of web techno-wonks, only something like 15% of the audience admitted to using IE. If you hate IE enough to deal with the integration issues, you must really hate it. Why not let unleash that hatred on the IE team? The IE team is blogging now and would love to have a giant catalog of the specific things that you hate about it. </summary>
+    <content type="html">&lt;h1>Do You Think IE Sucks?&lt;/h1>
+More and more, my smart friends are switching from IE to something else (I've heard mostly about FireFox lately). At a recent blogger conference filled, by definition, with a bunch of web techno-wonks, only something like 15% of the audience admitted to using IE. If you hate IE enough to deal with the integration issues, you must really hate it. Why not let unleash that hatred on the IE team? &lt;A href="http://blogs.msdn.com/ie/">The IE team is blogging now and would love to have a giant catalog of the specific things that you hate about it.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1462</id>
+    <title>Bringing "the letter" to Wednesday's PND</title>
+    <updated>2004-07-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-26T07:00:00.000Z</published>
+    <summary>I'll be bringing "the letter" to Wednesday's PND (assuming I can remember this time).</summary>
+    <content type="html">&lt;h1>Bringing "the letter" to Wednesday's PND&lt;/h1>
+I'll be bringing "the letter" to &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=f6ebd03f-4f09-472a-82b0-39a8990b8e30">Wednesday's PND&lt;/A> (assuming I can remember this time).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1460</id>
+    <title>What Kinds of Cars Do Microsofties Drive?</title>
+    <updated>2004-07-24T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-24T07:00:00.000Z</published>
+    <summary>Brad Smith writes: "I just found your site. I love it!!! It is now a regular read for me. "I read ' The Human Side of Microsoft ' post on your site and had an idea... What about getting a bunch of people to list what car they drive (or what they used for transport if it is not a car). Aussies tend to be a bit car crazy and you can tell a lot about a person by how they get around!! :-) "Just an idea.... Take it easy mate. "Brad Smith "Canberra, Australia" Brad, I drive a 1998 Volkswagen Cabrio covertible. It...</summary>
+    <content type="html">&lt;h1>What Kinds of Cars Do Microsofties Drive?&lt;/h1>
+&lt;P>Brad Smith writes:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>"I just found your site. I love it!!! It is now a regular read for me.&lt;/P>
+&lt;P>"I read '&lt;A href="/12394">The Human Side of Microsoft&lt;/A>' post on your site and had an idea... What about getting a bunch of people to list what car they drive (or what they used for transport if it is not a car). Aussies tend to be a bit car crazy and you can tell a lot about a person by how they get around!! :-)&lt;/P>
+&lt;P>"Just an idea.... Take it easy mate.&lt;/P>
+&lt;P>"Brad Smith&lt;BR>"Canberra, Australia"&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Brad, I drive a &lt;A href="http://img.epinions.com/images/newworld/879/161761-auto-resized200.gif">1998 Volkswagen Cabrio covertible&lt;/A>. It's kinda funny looking and it's a semi-girly color (white), but I fit in it with the top up (I have a long torso, so that's a problem in most convertibles), it's got a good service record, it gets good gas mileage and the Sells brothers still fit in the back (although not for much longer).&lt;/P>
+&lt;P>Can the other 55,999 Microsoft employees post what kind of car they drive from Brad? Thanks.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1459</id>
+    <title>Tim and His Angle Brackets</title>
+    <updated>2004-07-23T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-07-23T07:00:00.000Z</published>
+    <summary>Tim Ewald, one of my closest friends and the guy I think deserves to be much more famous (the first chapter of his criminally under-selling Transactional COM+ is worth the price of a Hawaiian honeymoon and is just as fulfilling) is blogging. In fact, he's been blogging for a few weeks now, but he's teased me before, so I didn't want to point people his way if he was just going to break my heart again. Still, he seems to be on a roll. My most favorite post is XmlSerializer sans XSD, but his recent post on wh...</summary>
+    <content type="html">&lt;h1>Tim and His Angle Brackets&lt;/h1>
+&lt;P>Tim Ewald, one of my closest friends and the guy I think deserves to be &lt;EM>much&lt;/EM> more famous (the first chapter of his criminally under-selling &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201615940/chrissells">Transactional COM+&lt;/A> is worth the price of a Hawaiian honeymoon and is just as fulfilling) is &lt;A href="http://pluralsight.com/blogs/tewald/">blogging&lt;/A>.&lt;/P>
+&lt;P>In fact, he's been blogging for a few weeks now, but he's teased me before, so I didn't want to point people his way if he was just going to break my heart again. Still, he seems to be on a roll. My most favorite post is &lt;A class=posttitle id=viewpost.ascx_TitleUrl href="http://pluralsight.com/blogs/tewald/archive/2004/06/18/428.aspx">XmlSerializer sans XSD&lt;/A>, but &lt;A href="http://pluralsight.com/blogs/tewald/archive/2004/07/23/1680.aspx">his recent post on why he cares about the angle brackets on the wire&lt;/A> pushed me over the edge.&lt;/P>
+&lt;P>Don't disappoint us by going away again, Tim!&lt;/P>
+&lt;p>BTW, Roger Searjeant built &lt;a href="http://www.searjeant.net/weblog/archives/000076.html">some tools to support Tim's ideas&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1457</id>
+    <title>DM Karma</title>
+    <updated>2004-07-22T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-22T07:00:00.000Z</published>
+    <summary>Ah, the bittersweet memories : "Maybe you have heard some of the stories about the [DevelopMentor] Brains? Brian Randell delivered a VSLive conference talk in a bath robe. Don Box delivered a conference talk in Amsterdam naked from the waist down. Chris Sells, not to be outdone, agreed to pose completely nude for an advertisement in a technical magazine whose readership is 95% male." It wasn't an ad, actually. It was an official&amp;nbsp;photo shoot for an article. Most of the pictures were normal, but they had...</summary>
+    <content type="html">&lt;h1>DM Karma&lt;/h1>
+&lt;P>Ah, &lt;A href="http://www.barracuda.net/BarrysBlog.aspx">the bittersweet memories&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>"Maybe you have heard some of the stories about the [DevelopMentor] Brains? Brian Randell delivered a VSLive conference talk in a bath robe. Don Box delivered a conference talk in Amsterdam naked from the waist down. Chris Sells, not to be outdone, agreed to pose completely nude for an advertisement in a technical magazine whose readership is 95% male."&lt;/BLOCKQUOTE>
+&lt;P>It wasn't an ad, actually. It was an official&amp;nbsp;photo shoot for an article. Most of the pictures were normal, but they had to pick the naked one (although they did airbrush out the nipples and go another way for the cover : ).&lt;/P>
+&lt;P>Barry Kouda, &lt;A href="http://www.barracuda.net/">Barracuda.NET&lt;/A>'s most recent hire, lists some of &lt;A href="http://www.barracuda.net/BarrysBlog.aspx">the other DevelopMentor alumni in a loving "where are they now" kind of way&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1458</id>
+    <title>Microsoft runs out of things to buy</title>
+    <updated>2004-07-22T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-22T07:00:00.000Z</published>
+    <summary>Microsoft stunned investors yesterday with the announcement that they were distributing 75 billion in cash because they had run out of things to buy. According to Microsoft CFO John Connors "With the acquisition of Lookout, we've crossed every single item off our shopping list. Frankly, there's just nothing left to buy." ( more ) </summary>
+    <content type="html">&lt;h1>Microsoft runs out of things to buy&lt;/h1>
+&lt;P>&lt;EM>Microsoft stunned investors yesterday with the &lt;/EM>&lt;A href="http://www.pcreview.co.uk/news-5087.php">&lt;EM>announcement&lt;/EM>&lt;/A>&lt;EM> that they were distributing 75 billion in cash because they had run out of things to buy. According to Microsoft CFO John Connors "With the acquisition of &lt;/EM>&lt;A href="http://arstechnica.com/news/posts/20040716-4002.html">&lt;EM>Lookout&lt;/EM>&lt;/A>&lt;EM>, we've crossed every single item off our shopping list. Frankly, there's just nothing left to buy."&lt;/EM>&lt;/P>
+&lt;P>(&lt;A href="http://ea.3leaf.com/2004/07/microsoft_runs_.html">more&lt;/A>)&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1454</id>
+    <title>I Love Ian</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>In Ian Griffith's latest post, he shows 3 identical (to my eye) upper case Os next to each other and says, "[t]his clearly shows the shortcomings of that implementation" like a normal human can tell the difference! The funny thing is, I've actually noticed that ClearType on Longhorn was generally better, although I never knew if that was my imagination or not. The thing I love about Ian is that he takes that vague sense of "this seems better" to "let me show you why it's better and I'll show you my own impl...</summary>
+    <content type="html">&lt;h1>I Love Ian&lt;/h1>
+&lt;P>&lt;A href="http://www.interact-sw.co.uk/iangblog/2004/07/22/longhorncleartype">In Ian Griffith's latest post&lt;/A>, he shows 3 identical (to my eye) upper case Os next to each other and says, "[t]his clearly shows the shortcomings of that implementation" like a normal human can tell the difference!&lt;/P>
+&lt;P>The funny thing is, I've actually noticed that ClearType on Longhorn was generally better, although I never knew if that was my imagination or not. The thing I love about Ian is that he takes that vague sense of "this seems better" to "let me show you why it's better and I'll show you my own implementation of ClearType as a comparison just for fun." What's not to love? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1453</id>
+    <title>Hypothetical: What's Best For Windows Developers?</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>Hypothetically, if you were a relatively well-known voice in the Windows development community (let's call her Kris) and you were being pursued as a series editor for two publishers, call them O'Shawnasee Associated (OSA) and Anderson-Manderson (AM), which would you pick? Suppose that both OSA and AM have a strong existing Windows presence, but AM has the edge in a quality.NET series with a strong voice already at the helm (call her Dawn) while OSA has a more scattered offering spread across format and medi...</summary>
+    <content type="html">&lt;h1>Hypothetical: What's Best For Windows Developers?&lt;/h1>
+&lt;P>Hypothetically, if you were a relatively well-known voice in the Windows development community (let's call her Kris) and you were being pursued as a series editor for two publishers, call them O'Shawnasee Associated (OSA) and Anderson-Manderson (AM), which would you pick?&lt;/P>
+&lt;P>Suppose that both OSA and AM have a strong existing Windows presence, but AM has the edge in a quality .NET series with a strong voice already at the helm (call her Dawn) while OSA has a more scattered offering spread across format and media types. Would it be better for Windows developers if Kris lent her voice to the AM existing series, reducing the competition for authors between series,&amp;nbsp;or should she work with OSA to gather their Windows editorial vision into a more cohesive whole, requiring developers to make a harder choice between publishers?&lt;/P>
+&lt;P>I know that this question is hypothetical and holds no importance in any pending decisions by anyone real, but I'm still curious about your thoughts. &lt;A href="/1453">Please post your comments here.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1450</id>
+    <title>Tim Sneath On The What's New in WinForms 2.0</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>Tim Sneath has a nice, concise list of what's new in Windows Forms 2.0. By far and away, ClickOnce deployment as an order of magnitude improvement over No-Touch Deployment is my favorite advance, but the new controls are cool (you can drop the standard buttons on the menu and toolstrips from the context menu), the BackgroundWorker is very cool (and eliminates about 2/3rds of the code in my threading chapter) and the designer layout assistance for helping with the layout and spacing of controls sounds like i...</summary>
+    <content type="html">&lt;h1>Tim Sneath On The What's New in WinForms 2.0&lt;/h1>
+Tim Sneath has &lt;A href="http://blogs.msdn.com/tims/archive/2004/07/20/188775.aspx">a nice, concise list of what's new in Windows Forms 2.0&lt;/A>. By far and away, ClickOnce deployment as an order of magnitude improvement over No-Touch Deployment is my favorite advance, but the new controls are cool (you can drop the standard buttons on the menu and toolstrips from the context menu), the BackgroundWorker is very cool (and eliminates about 2/3rds of the code in my threading chapter) and the designer layout assistance for helping with the layout and spacing of controls sounds like it'll reduce a bunch of monkey work in the designer.</content>
+  </entry>
+</feed>

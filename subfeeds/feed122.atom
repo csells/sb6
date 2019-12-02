@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed122.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed121.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed123.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed122.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/700</id>
+    <title>Inscrutable Spam: "DWG Needed"</title>
+    <updated>2003-07-22T07:00:00.000Z</updated>
+    <published>2003-07-22T07:00:00.000Z</published>
+    <summary>If this is spam, I fail to see what they're selling, but I was amused anyway: "I'm a time traveler stuck here in 2003. Since nobody here seems to be able to get me what I need (safely here to me), I will have to build a simple time travel circut to get where I need myself. I am going to need an easy to follow picture diagram for a simple time travel circut, which can be built out of (readily available) parts here in 2003. Please email me any schematics you have. I will pay good money for anything you send m...</summary>
+    <content type="html">&lt;h1>Inscrutable Spam: "DWG Needed"&lt;/h1>
+If this is spam, I fail to see what they're selling, but I was amused anyway:
+
+"I'm a time traveler stuck here in 2003. Since nobody here seems to be able to get me what I need (safely here to me), I will have to build a simple time travel circut to get where I need myself. I am going to need an easy to follow picture diagram for a simple time travel circut, which can be built out of (readily available) parts here in 2003. Please email me any schematics you have. I will pay good money for anything you send me I can use Or if you have the rechargeable AMD dimensional warp generator wrist watch unit available, and are 100% certain you have a (secure) means of delivering it to me please also reply. Send a separate email to me at: info@federalfundingprogram.com."
+
+I admit to sending an email with my regrets (what time travel-related plans I possess are incomplete), but expressed my willingness to accept "good money." : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/701</id>
+    <title>My $5 Digital Music Experiment</title>
+    <updated>2003-07-22T07:00:00.000Z</updated>
+    <published>2003-07-22T07:00:00.000Z</published>
+    <summary>Here. The one where I really, really try to love BuyMusic.com.</summary>
+    <content type="html">&lt;h1>My $5 Digital Music Experiment&lt;/h1>
+&lt;a href="/12536">Here&lt;/a>. The one where I really, really try to love BuyMusic.com.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/699</id>
+    <title>Nerd in Shining Armor</title>
+    <updated>2003-07-22T07:00:00.000Z</updated>
+    <published>2003-07-22T07:00:00.000Z</published>
+    <summary>Here. It was completely vapid and intellectually void, but I stayed up 'til 2:30a last night reading it while various alpha bits installed on my laptop. Nice mental floss.</summary>
+    <content type="html">&lt;h1>Nerd in Shining Armor&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0440241162/chrissells">Here&lt;/a>. It was completely vapid and intellectually void, but I stayed up 'til 2:30a last night reading it while various alpha bits installed on my laptop. Nice mental floss.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/698</id>
+    <title>My First Visit to MS Studios</title>
+    <updated>2003-07-22T07:00:00.000Z</updated>
+    <published>2003-07-22T07:00:00.000Z</published>
+    <summary>Here. The one where I get to see where BillG taped his anti-trust testimony.</summary>
+    <content type="html">&lt;h1>My First Visit to MS Studios&lt;/h1>
+&lt;a href="/12537">Here&lt;/a>. The one where I get to see where BillG taped his anti-trust testimony.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/697</id>
+    <title>.NET Delegates Are More Powerful Than You Think</title>
+    <updated>2003-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-21T07:00:00.000Z</published>
+    <summary>Here. Don has a nice write-up of delegates vs. interfaces as points of extensibility. Bottom line: delegates are more flexible than interfaces.</summary>
+    <content type="html">&lt;h1>.NET Delegates Are More Powerful Than You Think&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-07-21T08:36:33Z">Here&lt;/a>. Don has a nice write-up of delegates vs. interfaces as points of extensibility. Bottom line: delegates are more flexible than interfaces.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/696</id>
+    <title>Get MS Knowledge Base Alerts via RSS</title>
+    <updated>2003-07-20T07:00:00.000Z</updated>
+    <published>2003-07-20T07:00:00.000Z</published>
+    <summary>Here. "If you haven’t heard of kbAlertz, it’s a website I setup to email me (and other subscribers) when Microsoft publishes new KB articles for their technologies. I’ve finally gotten around to exposing the Kbs as a RSS feed. Basically, pick the technology you want to subscribe to, and I’ll expose the latest 10 Microsoft Knowledge base articles as a RSS feed."</summary>
+    <content type="html">&lt;h1>Get MS Knowledge Base Alerts via RSS&lt;/h1>
+&lt;a href="http://weblogs.asp.net/dwanta/posts/10284.aspx">Here&lt;/a>. "If you haven’t heard of kbAlertz, it’s a website I setup to email me (and other subscribers) when Microsoft publishes new KB articles for their technologies. I’ve finally gotten around to exposing the Kbs as a RSS feed. Basically, pick the technology you want to subscribe to, and I’ll expose the latest 10 Microsoft Knowledge base articles as a RSS feed."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/694</id>
+    <title>RSS2.0 Copyright Transferred to Harvard Law School</title>
+    <updated>2003-07-18T07:00:00.000Z</updated>
+    <published>2003-07-18T07:00:00.000Z</published>
+    <summary>Here. Dave Winer has transferred the copyright to RSS 2.0 to Harvard Law School as well as opened it up for more public feedback. This is good because RSS 2.0 is gaining in popularity but has come under fire lately for being controlled by Dave alone. Thanks, Dave.</summary>
+    <content type="html">&lt;h1>RSS2.0 Copyright Transferred to Harvard Law School&lt;/h1>
+&lt;a href="http://scriptingnews.userland.com/backissues/2003/07/18#rss20News">Here&lt;/a>. Dave Winer has transferred the copyright to RSS 2.0 to Harvard Law School as well as opened it up for more public feedback. This is good because RSS 2.0 is gaining in popularity but has come under fire lately for being controlled by Dave alone. Thanks, Dave.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/695</id>
+    <title>HTML Writer for .NET</title>
+    <updated>2003-07-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-18T07:00:00.000Z</published>
+    <summary>Here. Lutz Roeder (of Reflector fame) has started a workspace around WYSIWYG HTML editing in.NET.</summary>
+    <content type="html">&lt;h1>HTML Writer for .NET&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=ee974084-d5c2-44d5-a11b-b2efb96074f8">Here&lt;/a>. Lutz Roeder (of Reflector fame) has started a workspace around WYSIWYG HTML editing in .NET.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/692</id>
+    <title>Higher Primates Can Program</title>
+    <updated>2003-07-18T07:00:00.000Z</updated>
+    <published>2003-07-18T07:00:00.000Z</published>
+    <summary>Here. First companies move jobs overseas and now this…</summary>
+    <content type="html">&lt;h1>Higher Primates Can Program&lt;/h1>
+&lt;a href="http://www.enewsbuilder.net/NewTech/e_article000163707.cfm">Here&lt;/a>. First companies move jobs overseas and now this…</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/693</id>
+    <title>Time To Sell Your Soul to the Devil?</title>
+    <updated>2003-07-18T07:00:00.000Z</updated>
+    <published>2003-07-18T07:00:00.000Z</published>
+    <summary>Here. In spite of the mention of my site in this article, I consider it more of a "rent" then a "sell". : )</summary>
+    <content type="html">&lt;h1>Time To Sell Your Soul to the Devil?&lt;/h1>
+&lt;a href="http://www.microsoft-watch.com/article2/0,4248,1190227,00.asp">Here&lt;/a>. In spite of the mention of my site in this article, I consider it more of a "rent" then a "sell". : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12537</id>
+    <title>My First Visit to MS Studios</title>
+    <updated>2003-07-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-17T07:00:00.000Z</published>
+    <summary>I went with Erica Wiechers (.NET Show heart throb) to visit MS Studios today. Ostensively we were there to preview the Applied XML Developer Conference videos, some of which Erica will be turned into MSDN TV episodes. However, as long as we were there, Bob Snyder gave us the nickel tour. The front entry was even more secure than the normal MS buildings, being encased in wire fencing and not yielding to my badge (we had to be let in from the inside). Once in, it was a big building with lots of open space and...</summary>
+    <content type="html">&lt;h1>My First Visit to MS Studios&lt;/h1>
+&lt;p>I 
+went with Erica Wiechers (.NET Show heart throb) to visit MS Studios today. 
+Ostensively we were there to preview the Applied XML Developer Conference 
+videos, some of which Erica will be turned into MSDN TV episodes. However, as 
+long as we were there, Bob Snyder gave us the nickel tour.&lt;/p>&lt;p>The front entry 
+was even more secure than the normal MS buildings, being encased in wire fencing 
+and not yielding to my badge (we had to be let in from the inside). Once in, it 
+was a big building with lots of open space and fun decorations. I got to see 
+several blueprints of famous imaginary places, e.g. the spaceship from Lost in 
+Space, the Addams Family house and the island from Gilligan's Island. I got to 
+see the two green rooms where &amp;quot;talent&amp;quot; gets ready in the full locker rooms, then 
+relaxes on the coach 'til it's their turn (although neither room is green). I 
+got to see all of the studios, including standing on one of BillG's markers, 
+seeing the set where he interviewed with Larry King and the other set where he 
+recorded his antitrust testimony. I also got to see the set for the .NET Show, 
+which looks like the inside of half of a giant bowl, so that they can blend in 
+custom backgrounds, both physical and logical. I go to see all kinds of cool a/v 
+routing and mixing equipment, putting my one little PC attached to my home 
+theater system seem so pathetic in comparison. I even got to see some live 
+footage of Steve Ballmer that they were filming that day (man, he gets excited 
+when he speaks : ).&lt;/p>&lt;p>In general, I've been getting to see and do a lot of 
+cool stuff here at MS. Recommended.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/689</id>
+    <title>Interop Declarations for Windows.h</title>
+    <updated>2003-07-15T07:00:00.000Z</updated>
+    <published>2003-07-15T07:00:00.000Z</published>
+    <summary>Here. "This post includes C# definitions of many common Win32APIs and their related data structures. It does not include all Win32 APIs and it is missing all #define constants. It was created by a rather complex semi-automatic process. If I get enough requests I will release the source for the process used to create this file." [staff.develop.com/candera/weblog2]</summary>
+    <content type="html">&lt;h1>Interop Declarations for Windows.h&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=f1dd70e4-c212-4a6f-bff7-c82e34c8836f">Here&lt;/a>. "This post includes C# definitions of many common Win32APIs and their related data structures. It does not include all Win32 APIs and it is missing all #define constants. It was created by a rather complex semi-automatic process. If I get enough requests I will release the source for the process used to create this file."
+
+[staff.develop.com/candera/weblog2]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/690</id>
+    <title>Alan Cooper's Has A Dream</title>
+    <updated>2003-07-15T07:00:00.000Z</updated>
+    <published>2003-07-15T07:00:00.000Z</published>
+    <summary>Here. The one where Alan proposes an important distinction between s/w architect and s/w engineer and convinces me that a s/w paradise exists (if only in his mind).</summary>
+    <content type="html">&lt;h1>Alan Cooper's Has A Dream&lt;/h1>
+&lt;a href="/12538">Here&lt;/a>. The one where Alan proposes an important distinction between s/w architect and s/w engineer and convinces me that a s/w paradise exists (if only in his mind).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/691</id>
+    <title>MS Trusted Most to Provide Security Systems</title>
+    <updated>2003-07-15T07:00:00.000Z</updated>
+    <published>2003-07-15T07:00:00.000Z</published>
+    <summary>Here. "One of the most surprising results of the 2003 InfoWorld Security Survey is that more respondents trust Microsoft to deliver companywide enterprise OS security than they do any other vendor." Nice to know folks trust us about *something*. : )</summary>
+    <content type="html">&lt;h1>MS Trusted Most to Provide Security Systems&lt;/h1>
+&lt;a href="http://www.infoworld.com/article/03/07/11/27FErrpcp_1.html?s=feature">Here&lt;/a>. "One of the most surprising results of the 2003 InfoWorld Security Survey is that more respondents trust Microsoft to deliver companywide enterprise OS security than they do any other vendor."
+
+Nice to know folks trust us about *something*. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12346</id>
+    <title>The 
+Original ".NET Redneck"</title>
+    <updated>2003-07-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/ericsink.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2003-07-15T07:00:00.000Z</published>
+    <summary>Eric Sink claims to be the &amp;quot;.NET Redneck,&amp;quot; complete with cardboard cutout: Shawn Morrissey [shawnmor @ microsoft.com] Taken at Gnomedex July 15th, 2003 </summary>
+    <content type="html">&lt;h1>The 
+Original ".NET Redneck"&lt;/h1>
+&lt;p>Eric Sink claims to be
+&lt;a href="http://www.notalegend.com/notalegend.html">the &amp;quot;.NET 
+Redneck,&amp;quot;&lt;/a> complete with cardboard cutout:&lt;/p>
+&lt;p>&lt;img border="0" src="/public/fun/ericsink.jpg" width="285" height="400">&lt;/p>
+&lt;p>&lt;i>Shawn Morrissey [shawnmor @ microsoft.com]&lt;br>
+Taken at Gnomedex&lt;br>
+&lt;span class="created">July 15th, 2003&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+</feed>

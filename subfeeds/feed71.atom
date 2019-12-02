@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed71.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed70.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed72.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed71.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1413</id>
+    <title>RobertM On Consuming XAML From A Web Server</title>
+    <updated>2004-06-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-24T07:00:00.000Z</published>
+    <summary>Robert McLaws makes an interesting observation about the possibility of consuming XAML from a web server : "So, if Microsoft wants to blur the lines between a web site and an client-side application, what makes you think that the next version of IIS will not support serving up XAML to the client. Instead of getting a limited browser experience at http://www.longhornblogs.com/default.aspx, what if you could get a super-interactive experience with the full power of the client at http://www.longhornblogs.com/ ...</summary>
+    <content type="html">&lt;h1>RobertM On Consuming XAML From A Web Server&lt;/h1>
+&lt;P>Robert McLaws makes &lt;A href="http://www.longhornblogs.com/robert/archive/2004/06/18/3731.aspx">an interesting observation about the possibility of consuming XAML from a web server&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>"So, if Microsoft wants to blur the lines between a web site and an client-side application, what makes you think that the next version of IIS will not support serving up XAML to the client. Instead of getting a limited browser experience at http://www.longhornblogs.com/default.aspx, what if you could get a super-interactive experience with the full power of the client at http://www.longhornblogs.com/&lt;STRONG>default.xaml&lt;/STRONG>? What if, on a mobile device, you could use web services to allow location-aware applications ultra-dynamic, serving up XAML UI code along with data? A thick thin-client? Talk about a contradiction in terms. The possibilities become greatly expanded if you beging looking at what's in front of you instead of looking behind your shoulder at what's behind you."&lt;/BLOCKQUOTE>
+&lt;P>The future is unwritten.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1415</id>
+    <title>Richard Turner On Building Web Services Today</title>
+    <updated>2004-06-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-24T07:00:00.000Z</published>
+    <summary>Richard Turner, a PM on the Indigo team, has some advice about how to build web services while we wait for Indigo. He didn't mention WSE2 specifically, but I assume he means for you to use it when you hit the wall on ASMX for web services implementations, e.g. when you need WS-Security support.</summary>
+    <content type="html">&lt;h1>Richard Turner On Building Web Services Today&lt;/h1>
+Richard Turner, a PM on the Indigo team, has &lt;A href="http://blogs.msdn.com/richturner666/archive/2004/06/23/164201.aspx">some advice about how to build web services while we wait for Indigo&lt;/A>. He didn't mention &lt;A href="http://www.microsoft.com/downloads/details.aspx?familyid=fc5f06c5-821f-41d3-a4fe-6c7b56423841">WSE2&lt;/A> specifically, but I assume he means for you to use it when you hit the wall on ASMX for web services implementations, e.g. when you need WS-Security support.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1414</id>
+    <title>It's Almost Always Option B</title>
+    <updated>2004-06-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-24T07:00:00.000Z</published>
+    <summary>Choose an existing technology&amp;nbsp;Foo and imagine a newer, better&amp;nbsp;way of doing the same thing called&amp;nbsp;Bar that's coming in some number of days/weeks/years. Sean and Scott say that you have the following choices : A. Blissfully continue to use Foo. B. Continue to use Foo, but research Bar, and architect for its use once it's available. C. Don't touch&amp;nbsp;Foo with a 10 foot pole. It's dead after all. Touching it is probably illegal in 46 states. Some folks hold onto option A too long, while some ju...</summary>
+    <content type="html">&lt;h1>It's Almost Always Option B&lt;/h1>
+&lt;P>Choose an existing technology&amp;nbsp;Foo and imagine a newer, better&amp;nbsp;way of doing the same thing called&amp;nbsp;Bar that's coming in some number of days/weeks/years. &lt;A href="http://radio.weblogs.com/0117167/categories/microsoftNet/2003/11/04.html#a515">Sean and Scott say that you have the following choices&lt;/A>:&lt;/P>
+&lt;P>A. Blissfully continue to use Foo.&lt;BR>B. Continue to use Foo, but research Bar, and architect for its use once it's available.&lt;BR>C. Don't touch&amp;nbsp;Foo with a 10 foot pole. It's dead after all. Touching it is probably illegal in 46 states.&lt;/P>
+&lt;P>Some folks hold onto option A too long, while some jump into option C too soon. The answer is almost always B within some delta of "it's available" that's appropriate for your business.&lt;/P>
+&lt;P>Sean and Scott call Foo and Bar "Windows Forms" and "Avalon," but as they point out, these are the decisions we're always making on new technologies. What's the best judge of the delta around "it's available" for adoption? That's all about your specific business needs and don't let peer pressure sway you either way.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1411</id>
+    <title>Time Running Out; Submit XML Dev.Conf. Abstracts!</title>
+    <updated>2004-06-22T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-06-22T07:00:00.000Z</published>
+    <summary>If you haven't yet submitted your abstract to the Applied XML Developer's Conferences, don't wait much longer; I'm only accepting submissions 'til the end of June, 2004. I've already gotten a ton of abstracts, including submissions from folks like Sam Rub, Tim Bray, Tim Ewald and Don Box, but that doesn't mean that your talk won't bubble up to the top; as much as I like to have the polished speakers, I like even more to have the folks from the trenches. According to current thinking, the conference is likel...</summary>
+    <content type="html">&lt;h1>Time Running Out; Submit XML Dev.Conf. Abstracts!&lt;/h1>
+&lt;P>If you haven't yet submitted your abstract to &lt;a href="/conference">the Applied XML Developer's Conferences&lt;/A>, &lt;A href="mailto:csells@microsoft.com?subject=Applied XML Dev.Conf. 5 Abstract Submission">don't wait&lt;/A> much longer; I'm only accepting submissions 'til the end of June, 2004.&lt;/P>
+&lt;P>I've already gotten a ton of abstracts, including submissions from folks like Sam Rub, Tim Bray, Tim Ewald and Don Box, but that doesn't mean that your talk won't bubble up to the top; as much as I like to have the polished speakers, I like even more to have the folks from the trenches.&lt;/P>
+&lt;p>According to current thinking, the conference is likely to be 9/30 - 10/1 within an hour of the Portland Airport, although details are still being finalized.&lt;/p>
+&lt;P>&lt;A href="mailto:csells@microsoft.com?subject=Applied XML Dev.Conf. 5 Abstract Submission">Submit your abstract today!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1410</id>
+    <title>More On The VC# 2005 Key Bindings</title>
+    <updated>2004-06-20T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-06-20T07:00:00.000Z</published>
+    <summary>Joe Nalewabau has one very important addition point to make about the new key bindings in Visual C# 2005: while the VC# team will be providing a bunch of key bindings based on how things are arranged, e.g. Ctrl+W, S to show the Solution Explorer from the Window menu, 90+% of the old key bindings will continue to work, e.g. Ctrl+Alt+L to show the Solution Explorer. I worry that the 90% coverage won't be like uptime, where 90% is generally just fine, but more like speech recognition, where anything less than ...</summary>
+    <content type="html">&lt;h1>More On The VC# 2005 Key Bindings&lt;/h1>
+Joe Nalewabau has one very important addition point to make about the new key bindings in Visual C# 2005: while the VC# team will be providing a bunch of key bindings based on how things are arranged, e.g. Ctrl+W, S to show the Solution Explorer from the Window menu, &lt;A href="http://blogs.msdn.com/joen/archive/2004/06/19/160286.aspx">90+% of the old key bindings will continue to work&lt;/A>, e.g. Ctrl+Alt+L to show the Solution Explorer. I worry that the 90% coverage won't be like uptime, where 90% is generally just fine, but more like speech recognition, where anything less than 99.9% just bugs people. I'm keeping my key bound fingers crossed...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1408</id>
+    <title>Longhorn 4074, MSBuild + GetOutputAssembly</title>
+    <updated>2004-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-19T07:00:00.000Z</published>
+    <summary>If you're using Longhorn 4074 and MSBuild is telling you this, 'The target "GetOutputAssembly" does not exist in the project.', then try these steps to solve the problem: Backup %windows%\microsoft.net\windows\v6.0.4030\WindowsCommon.Target because you're about to modify it In WindowsCommon.Target, replace all GetOutputAssembly with BuildOutputGroup Save and Close WindowsCommon.Target Re-run MSBuild and enjoy </summary>
+    <content type="html">&lt;h1>Longhorn 4074, MSBuild + GetOutputAssembly&lt;/h1>
+&lt;P>If you're using Longhorn 4074 and MSBuild is telling you this, 'The target "GetOutputAssembly" does not exist in the project.', then try these steps to solve the problem:&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">Backup %windows%\microsoft.net\windows\v6.0.4030\WindowsCommon.Target because you're about to modify it&lt;/P>&lt;/LI>
+&lt;LI>
+&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">In WindowsCommon.Target, replace all GetOutputAssembly with BuildOutputGroup&lt;/P>&lt;/LI>
+&lt;LI>
+&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">Save and Close WindowsCommon.Target&lt;/P>&lt;/LI>
+&lt;LI>
+&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">Re-run MSBuild and enjoy&lt;/P>&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1409</id>
+    <title>Chris Anderson on Avalon Visual Extensibility</title>
+    <updated>2004-06-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-19T07:00:00.000Z</published>
+    <summary>Chris Anderson just did a fabulous job describing what makes Avalon more extensible than existing popular UI frameworks. What Avalon allows is the ability to have a Button instance like so: &amp;lt;Window&amp;gt; &amp;nbsp; &amp;lt;Button&amp;gt;Hello&amp;lt;/Button&amp;gt; &amp;lt;Window&amp;gt; And then, somewhere else, using Styles, setting the VisualTree of what a Button looks like to be whatever you like, e.g. &amp;lt;Style&amp;gt; &amp;nbsp; &amp;lt;Button /&amp;gt; &amp;nbsp; &amp;lt;Style.VisualTree&amp;gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;FlowPanel&amp;gt; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nb...</summary>
+    <content type="html">&lt;h1>Chris Anderson on Avalon Visual Extensibility&lt;/h1>
+&lt;P>Chris Anderson just did a fabulous job describing &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=10500">what makes Avalon more extensible than existing popular UI frameworks&lt;/A>. What Avalon allows is the ability to have a Button instance like so:&lt;/P>&lt;PRE>&amp;lt;Window&amp;gt;&lt;BR>&lt;STRONG>&amp;nbsp; &amp;lt;Button&amp;gt;Hello&amp;lt;/Button&amp;gt;&lt;BR>&lt;/STRONG>&amp;lt;Window&amp;gt;&lt;/PRE>
+&lt;P>And then, somewhere else, using Styles, setting the VisualTree of what a Button looks like to be whatever you like, e.g.&lt;/P>&lt;PRE>&amp;lt;Style&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;Button /&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;Style.VisualTree&amp;gt;&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;FlowPanel&amp;gt;&lt;BR>&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;!--&amp;nbsp;anything you like in here,
+e.g. &amp;lt;Text&amp;gt;,&amp;nbsp;&amp;lt;Video&amp;gt;, &amp;lt;Rectangle&amp;gt;, whatever --&amp;gt;&lt;BR>&lt;STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;lt;ContentPresenter /&amp;gt;&lt;BR>&lt;/STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/FlowPanel&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;/Style.VisualTree&amp;gt;&lt;BR>&amp;lt;/Style&amp;gt;&lt;/PRE>
+&lt;P>Two&amp;nbsp;interesting things about this button style. The first is that you can&amp;nbsp;make a Button look however you want it to look,&amp;nbsp;without worrying whether the Avalon team had that in mind up front.&amp;nbsp;Two, when you want to drop in the content inside the Button tag, e.g. "Hello", you drop in the ContentPresentor and it knows how to&amp;nbsp;display what was placed in the Button (again, which&amp;nbsp;could be anything). Simple and flexible: two things that I'm finding to be true more and more about Avalon the further I dig.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1407</id>
+    <title>The VS Keybinding Randomizer Is An Actual Person</title>
+    <updated>2004-06-18T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-06-18T07:00:00.000Z</published>
+    <summary>Joe Nalewabau, a Lead PM on the Visual C# team, admitted today that he was responsible for the VC# keyboard randomization process for Visual Studio 2005 and describes the thought process that he went through to get there. I admit that Joe makes a good case for changing the key bindings, but I hate the idea of learning a whole new set (especially since, because I'm a keyboard boy, I'll be crippled until I learn the new bindings). If Joe would swear on a stack of user manuals that the key bindings would never...</summary>
+    <content type="html">&lt;h1>The VS Keybinding Randomizer Is An Actual Person&lt;/h1>
+&lt;P>Joe Nalewabau, a Lead PM on the Visual C# team, admitted today that &lt;A href="http://blogs.msdn.com/joen/archive/2004/06/10/153245.aspx">he was responsible for the VC# keyboard randomization process for Visual Studio 2005&lt;/A> and describes the thought process that he went through to get there. I admit that Joe makes a good case for changing the key bindings, but I hate the idea of learning a whole new set (especially since, because I'm a keyboard boy, I'll be crippled until I learn the new bindings). If Joe would swear on a stack of user manuals that the key bindings would never, ever change again, I'd be happier about it. (Rocky: "Again? That trick never works!"&amp;nbsp;Bullwinkle: "This time fur shure!")&lt;/P>
+&lt;P>Of course, what I think doesn't matter (it stopped mattering when I signed that damned employment contract : ). It's what you think that matters and you should &lt;A href="http://blogs.msdn.com/joen/archive/2004/06/10/153245.aspx">feel free to let him know what you think about the new VC# 2005 key bindings&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1406</id>
+    <title>Avalon Data Binding Talk, PADNUG, Thurs, 6/24/04</title>
+    <updated>2004-06-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-17T07:00:00.000Z</published>
+    <summary>"If you're familiar with data binding in Windows Forms or ASP.NET, you ain't seen nothin' yet. In this presentation, Chris Sells, Content Strategist for the MSDN Longhorn Developer Center Web site, will cover data binding in Avalon, the new UI stack in Longhorn, Microsoft's next OS. Chris will cover the basics of data binding and then move into transformers, filters and styling. If you're going to build UIs in Avalon, you'd be crazy not to use data binding to do it." Data Binding in Avalon 6/24/2004, 6:30pm...</summary>
+    <content type="html">&lt;h1>Avalon Data Binding Talk, PADNUG, Thurs, 6/24/04&lt;/h1>
+&lt;P>&lt;SPAN>"If you're familiar with data binding in Windows Forms or ASP.NET, you ain't seen nothin' yet. In &lt;A href="http://www.padnug.org/padnug/meetings.aspx?ID=90">this presentation&lt;/A>, Chris Sells, Content Strategist for the &lt;A href="http://msdn.microsoft.com/longhorn/">MSDN Longhorn Developer Center&lt;/A> Web site, will cover data binding in Avalon, the new UI stack in Longhorn, Microsoft's next OS. Chris will cover the basics of data binding and then move into transformers, filters and styling. If you're going to build UIs in Avalon, you'd be crazy not to use data binding to do it."&lt;/SPAN>&lt;/P>
+&lt;P>&lt;SPAN>&lt;SPAN>Data Binding in Avalon&lt;BR>&lt;/SPAN>&lt;/SPAN>&lt;SPAN>&lt;SPAN>6/24/2004, 6:30pm&lt;BR>Portland Community College Auditorium, Room 104&lt;BR>1626 SE Water Avenue&lt;BR>Portland, OR&lt;/SPAN>&lt;/SPAN>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1403</id>
+    <title>Chris Anderson on XAML "Aha" Moments</title>
+    <updated>2004-06-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-17T07:00:00.000Z</published>
+    <summary>Chris Anderson, Architect on the Avalon team, shows the first XAML "Hello, World" code and then describes two big "aha" moments to which XAML programmers can look forward. I've been to both of the moments that Chris describes and have had one more he doesn't mention: data binding in Avalon changes everything about how I build my UI.</summary>
+    <content type="html">&lt;h1>Chris Anderson on XAML "Aha" Moments&lt;/h1>
+Chris Anderson, Architect on the Avalon team, shows the first XAML "Hello, World" code and then describes &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=10280">two big "aha" moments to which XAML programmers can look forward&lt;/A>. I've been to both of the moments that Chris describes and have had one more he doesn't mention: data binding in Avalon changes &lt;EM>everything&lt;/EM> about how I build my UI.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1405</id>
+    <title>Whoa. I'm A Banner Ad.</title>
+    <updated>2004-06-17T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-17T07:00:00.000Z</published>
+    <summary>If you hit the Microsoft-Watch web site often enough (it's been on 3 of my last 4 visits), you'll see my smiling face as a giant banner ad. Hell, I don't even put my picture up on my own site (well, except this one...)! Maybe they've got too many hits on their web site and instead of taking it down without warning, they're using my picture to scare folks away.; )</summary>
+    <content type="html">&lt;h1>Whoa. I'm A Banner Ad.&lt;/h1>
+If you hit the &lt;A href="http://www.microsoft-watch.com/">Microsoft-Watch&lt;/A> web site often enough (it's been on 3 of my last 4 visits), you'll see my smiling face as a giant banner ad. Hell, I don't even put my picture up on my own site (well, except &lt;a href="/public/fun/centerfold/">this one&lt;/A>...)! Maybe they've got too many hits on their web site and instead of taking it down without warning, they're using my picture to scare folks away. ; )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1404</id>
+    <title>Anders On Integrating Database Support Into C#</title>
+    <updated>2004-06-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-17T07:00:00.000Z</published>
+    <summary>Some quotes from Anders on&amp;nbsp;Channel9 : "On of the things that we are trying to think about deeply in C# 3.0 is this big gap that I still see between general purpose languages and databases... Anyone who's building an enterprise app is using both worlds... There's certainly a lot of progress we can make by truly marrying these worlds... It's nothing but mismatch. We gotta do away with that." Now that we've removed memory management from my code and between InitializeComponent and XAML, we've removed the ...</summary>
+    <content type="html">&lt;h1>Anders On Integrating Database Support Into C#&lt;/h1>
+&lt;P>Some quotes from &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=10276">Anders on&amp;nbsp;Channel9&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>"On of the things that we are trying to think about deeply in C# 3.0 is this big gap that I still see between general purpose languages and databases... Anyone who's building an enterprise app is using both worlds... There's certainly a lot of progress we can make by truly marrying these worlds... It's nothing but mismatch. We gotta do away with that."&lt;/BLOCKQUOTE>
+&lt;P>Now that we've removed memory management from my code and between InitializeComponent and XAML, we've removed the need to write UI layout code, the next big chunk that gums up the works is data integration code. To have Anders thinking about how to extend C# 3.0 to mitigate this problem has me all a tingle!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1401</id>
+    <title>Refining the Versioning Story</title>
+    <updated>2004-06-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-16T07:00:00.000Z</published>
+    <summary>Wesner Moise reports on a talk that Jeff Richter did on the.NET versioning story in the Longhorn time frame. Some interesting quotes: "a library could not easily be updated since the CLR looked for an exact version match. There was a complex way to solve this problem through policy files; however, even engineers at Microsoft found this approach too difficult." "Microsoft has a new approach for Longhorn and Orcas (.NET v3.0), which divides assemblies into two categories, Platforms and Libraries." "Most assem...</summary>
+    <content type="html">&lt;h1>Refining the Versioning Story&lt;/h1>
+&lt;P>Wesner Moise reports on a talk that Jeff Richter did on &lt;A href="http://wesnerm.blogs.com/net_undocumented/2004/06/platform_vs_lib.html">the .NET versioning story in the Longhorn time frame&lt;/A>. Some interesting quotes:&lt;/P>
+&lt;UL>
+&lt;LI>"a library could not easily be updated since the CLR looked for an exact version match. There was a complex way to solve this problem through policy files; however, even engineers at Microsoft found this approach too difficult."&lt;/LI>
+&lt;LI>"Microsoft has a new approach for Longhorn and Orcas (.NET v3.0), which divides assemblies into two categories, Platforms and Libraries."&lt;/LI>
+&lt;LI>"Most assemblies will or should be libraries. Microsoft discourages the use of platform assemblies."&lt;/LI>
+&lt;LI>"There are actually three types of platform assemblies: System-wide, process-wide, and app domain-wide."&lt;/LI>
+&lt;LI>"Longhorn will no longer support multiple CLRs. Every managed application will be forced to use the latest version of the CLR on the system."&lt;/LI>
+&lt;LI>"Whidbey is expected to include an Assembly attribute, AssemblyFlagsAttribute, which allows to developer to specify Library, AppDomainPlatform, ProcessPlatform, SystemPlatform, or Legacy to identify the versioning scheme the CLR uses to load a reference assembly."&lt;/LI>&lt;/UL>
+&lt;P>I know that the existing versioning story doesn't cut it for a lot of folks. Will this new model solve the problems? Is there a complexity danger?&lt;/P>
+&lt;P>Also, &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/06/15/clrversioning">Ian has some thoughts on the new model&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1400</id>
+    <title>"[T]he IE team does exist and does care"</title>
+    <updated>2004-06-16T07:00:00.000Z</updated>
+    <published>2004-06-16T07:00:00.000Z</published>
+    <summary>Dave Massy is moving to Internet Explorer Program Management and wants to know what you want from IE in the next version. Don't be shy.</summary>
+    <content type="html">&lt;h1>"[T]he IE team does exist and does care"&lt;/h1>
+Dave Massy is moving to Internet Explorer Program Management and wants to know &lt;A href="http://blogs.msdn.com/dmassy/archive/2004/06/16/157263.aspx">what you want from IE in the next version&lt;/A>. Don't be shy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1402</id>
+    <title>The Reason for ATOM</title>
+    <updated>2004-06-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-16T07:00:00.000Z</published>
+    <summary>It seems to me that folks embrace ATOM mainly to get away from the guy that's credited with inventing RSS : "I'm not running for president, I am not a corporate executive, and I don't tell bedtime stories to adults unless its for fun and they're friends. I can tell you what it feels like to be me, but I don't know how it feels to be you. I'm willing to listen, up to a point, but unless your site is hosted on weblogs.com, I don't understand why you're hogging the microphone right now. I believe so strongly i...</summary>
+    <content type="html">&lt;h1>The Reason for ATOM&lt;/h1>
+&lt;P>It seems to me that folks embrace ATOM mainly to get away from &lt;A href="http://archive.scripting.com/2004/06/16#morningCoffeeNotes">the guy that's credited with inventing RSS&lt;/A>:&lt;/P>
+&lt;blockquote>"I'm not running for president, I am not a corporate executive, and I don't tell bedtime stories to adults unless its for fun and they're friends. I can tell you what it feels like to be me, but I don't know how it feels to be you. I'm willing to listen, up to a point, but unless your site is hosted on weblogs.com, I don't understand why you're hogging the microphone right now. I believe so strongly in the weblog world, that we should be grounded in truth. I think a lot of people participating in this dicussion are not grounded in truth, deliberately so, openly so. Shame on you, I say."&lt;/blockquote>
+&lt;P>This was said after he pulled down 3000 web sites he was hosting with no notice. ATOM is starting to sound more and more attractive...&lt;/P>
+&lt;p>Because this post has cauesd Mr. Winer to start swearing at me, I thought I'd remind folks of the following:&lt;/p>
+&lt;p>DISCLAIMER: This is a personal post of Chris Sells as an individual on my own personal web site and does not reflect the views or Microsoft as a whole or any portion of Microsoft.&lt;/p></content>
+  </entry>
+</feed>

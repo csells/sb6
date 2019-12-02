@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed121.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed120.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed122.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed121.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/714</id>
+    <title>SlashDot Review of Essential .NET</title>
+    <updated>2003-07-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-28T07:00:00.000Z</published>
+    <summary>Here. "Of course, there is the question of whether this book will actually improve your.NET development skills, but in riposte, you can honestly say that no volume details the CLR and its potential so well, and that this alone is worth the book's cover price."</summary>
+    <content type="html">&lt;h1>SlashDot Review of Essential .NET&lt;/h1>
+&lt;a href="http://slashdot.org/article.pl?sid=03/07/27/2230220">Here&lt;/a>. "Of course, there is the question of whether this book will actually improve your .NET development skills, but in riposte, you can honestly say that no volume details the CLR and its potential so well, and that this alone is worth the book's cover price."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/710</id>
+    <title>Beyond CheckOut and CheckIn</title>
+    <updated>2003-07-26T07:00:00.000Z</updated>
+    <published>2003-07-26T07:00:00.000Z</published>
+    <summary>Here. Eric Sink, the CEO of SourceGear, provides very lucid explanations of advanced features of source control, including labeling, cloacking, sharing, pinning, branching and merging branches. Even on medium-sized projects, I've *needed* at least half of those features, so getting to know what they're for is good for you (like broccoli : ).</summary>
+    <content type="html">&lt;h1>Beyond CheckOut and CheckIn&lt;/h1>
+&lt;a href="http://software.ericsink.com/Beyond_CheckOut_and_CheckIn.html">Here&lt;/a>. Eric Sink, the CEO of SourceGear, provides very lucid explanations of advanced features of source control, including labeling, cloacking, sharing, pinning, branching and merging branches. Even on medium-sized projects, I've *needed* at least half of those features, so getting to know what they're for is good for you (like broccoli : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/712</id>
+    <title>Marketing is not a Post-Processing Step</title>
+    <updated>2003-07-26T07:00:00.000Z</updated>
+    <published>2003-07-26T07:00:00.000Z</published>
+    <summary>Here. Where has Eric Sink been all my life?!? Another great article on marketing by geeks for geeks.</summary>
+    <content type="html">&lt;h1>Marketing is not a Post-Processing Step&lt;/h1>
+&lt;a href="http://software.ericsink.com/Positioning.html">Here&lt;/a>. Where has Eric Sink been all my life?!? Another great article on marketing by geeks for geeks.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/711</id>
+    <title>Marketing for Geeks</title>
+    <updated>2003-07-26T07:00:00.000Z</updated>
+    <published>2003-07-26T07:00:00.000Z</published>
+    <summary>Here. Some straight talk about marketing from one geek to another. I wish I would've known this stuff years ago!</summary>
+    <content type="html">&lt;h1>Marketing for Geeks&lt;/h1>
+&lt;a href="http://software.ericsink.com/Act_Your_Age.html">Here&lt;/a>. Some straight talk about marketing from one geek to another. I wish I would've known this stuff years ago!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/707</id>
+    <title>Another RSS + search application</title>
+    <updated>2003-07-25T07:00:00.000Z</updated>
+    <published>2003-07-25T07:00:00.000Z</published>
+    <summary>Here. Rory Blyth put the Amazon.com web service to work building RSS feeds to search for new products in your favorite categories, further pushing the "RSS as intelligent search agent" idea [1]. And, if anyone buys from links on his feeds, he promises to give the money to charity (until such time as it provides enough income for him to sip umbrella drinks on the beach, I presume : ). [1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703</summary>
+    <content type="html">&lt;h1>Another RSS + search application&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/chooseFeedGroup.aspx">Here&lt;/a>. Rory Blyth put the Amazon.com web service to work building RSS feeds to search for new products in your favorite categories, further pushing the "RSS as intelligent search agent" idea [1].
+
+And, if anyone buys from links on his feeds, he promises to give the money to charity (until such time as it provides enough income for him to sip umbrella drinks on the beach, I presume : ).
+
+[1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/709</id>
+    <title>Need an Excuse? Use a Web Service</title>
+    <updated>2003-07-25T07:00:00.000Z</updated>
+    <published>2003-07-25T07:00:00.000Z</published>
+    <summary>Here. Someone transcribed an ExcuseBall (tm) into a spreadsheet and the rest was reflex.</summary>
+    <content type="html">&lt;h1>Need an Excuse? Use a Web Service&lt;/h1>
+&lt;a href="/public/samples/excuses-asmx.zip">Here&lt;/a>. Someone transcribed an ExcuseBall (tm) into a spreadsheet and the rest was reflex.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/708</id>
+    <title>"This is your code. This is your code, managed."</title>
+    <updated>2003-07-25T07:00:00.000Z</updated>
+    <published>2003-07-25T07:00:00.000Z</published>
+    <summary>Here. I'm heading up to Redmond to do a taping of the.NET Show on Monday on the topic of managed code. Robert's idea is to show folks that still think of.NET as managed only just what they're missing. I've got 15 minutes for a code demo. Suggestions?</summary>
+    <content type="html">&lt;h1>"This is your code. This is your code, managed."&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/theshow/">Here&lt;/a>. I'm heading up to Redmond to do a taping of the .NET Show on Monday on the topic of managed code. Robert's idea is to show folks that still think of .NET as managed only just what they're missing. I've got 15 minutes for a code demo. Suggestions?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/706</id>
+    <title>Ingo says, "Sealed is Good"</title>
+    <updated>2003-07-25T07:00:00.000Z</updated>
+    <published>2003-07-25T07:00:00.000Z</published>
+    <summary>Here. He's right and he's wrong. He's right because "sealed" let the WinForms team build something more efficient w/o rebuilding all of the Win32 controls in managed code. He's wrong because the use of it stops me from deriving from ImageList (which I've wanted to do). So, while sealed is useful, it still sucks. : )</summary>
+    <content type="html">&lt;h1>Ingo says, "Sealed is Good"&lt;/h1>
+&lt;a href="http://www.ingorammer.com/Articles/SealedIsGood.html">Here&lt;/a>. He's right and he's wrong. He's right because "sealed" let the WinForms team build something more efficient w/o rebuilding all of the Win32 controls in managed code. He's wrong because the use of it stops me from deriving from ImageList (which I've wanted to do).
+
+So, while sealed is useful, it still sucks. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/705</id>
+    <title>Not A Legend</title>
+    <updated>2003-07-24T07:00:00.000Z</updated>
+    <published>2003-07-24T07:00:00.000Z</published>
+    <summary>Here. Maybe he's not a official legend, but he's done what I've never been able to do: build a successful software business. Eric, you're a legend in my mind! Plus, his site lampoons the "official" software legend site [1] nicely. : ) http://www.softwarelegends.com</summary>
+    <content type="html">&lt;h1>Not A Legend&lt;/h1>
+&lt;a href="http://notalegend.com">Here&lt;/a>. Maybe he's not a official legend, but he's done what I've never been able to do: build a successful software business. Eric, you're a legend in my mind!
+
+Plus, his site lampoons the "official" software legend site [1] nicely. : )
+
+http://www.softwarelegends.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12535</id>
+    <title>Using GotDotNet Workspaces For Commercial Work</title>
+    <updated>2003-07-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-23T07:00:00.000Z</published>
+    <summary>Wednesday, July 23, 2003 When I visit Redmond, I share an office with Andy Oakley, the PM for GotDotNet Workspaces. Workspaces was recently released from beta to v1.0 and when that happened, Andy sent around feedback from users. Of course, folks love it in general (even some hard-to-please MS internals), but I was surprised to see to some folks were using private Workspaces for their team's main source code base. I shouldn't have been surprised; this makes a lot of sense. Private workspaces provide a protec...</summary>
+    <content type="html">&lt;h1>Using GotDotNet Workspaces For Commercial Work&lt;/h1>
+&lt;p>&lt;i>Wednesday, &lt;span class="created">July 23, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>When I visit Redmond, I share an office with Andy Oakley, the PM 
+for GotDotNet Workspaces. Workspaces was recently released from beta to v1.0 and 
+when that happened, Andy sent around feedback from users.&lt;/p>&lt;p>Of course, folks 
+love it in general (even some hard-to-please MS internals), but I was surprised 
+to see to some folks were using private Workspaces for their team's main source 
+code base. I shouldn't have been surprised; this makes a lot of sense. Private 
+workspaces provide a protected space for file sharing, discussion, bug tracking 
+and source code control. The last time I set up a commercial software 
+development team, I needed weeks to get all of this picked out, installed and 
+working and I needed an IT guy to keep it running and backed up. I remember 
+hearing about a 3rd party that was going to bundle all of this together for a 
+fee, but never got around to it. With Workspaces, MS already provides the whole 
+team development environment, including VS.NET integration and a web interface, 
+and it's free! Plus, with a private workspace, only folks on your team get 
+access.&lt;/p>&lt;p>IMO, the only big piece that was missing from Workspaces was a way 
+to pull down all of the source onto a build machine for regular automatic 
+builds. For commercial work, this is key. So, Andy, tired of my whining, built &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=b3fb58ff-363b-4d0d-9f42-4946d86a19eb">
+a command line tool for pulling down all source from a GDN Workspace&lt;/a> (and 
+put it up in &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=b3fb58ff-363b-4d0d-9f42-4946d86a19eb">
+it's own GDN Workspace&lt;/a>). Personally, I'd be slightly happier if it took 
+arguments from the command line instead of a .config file, but that's easily 
+added from &lt;a href="http://www.genghisgroup.com">the Genghis 
+CommandLineParser class&lt;/a> for those that are interested. Enjoy!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/703</id>
+    <title>"Intelligent Search Agents" Made Real</title>
+    <updated>2003-07-23T07:00:00.000Z</updated>
+    <published>2003-07-23T07:00:00.000Z</published>
+    <summary>Here. Remember when we were going to have intelligent search agents that would search the web for us and find things that matched our interests? Well, Wired does it today with search results returned in RSS format. Clicking on the link for this item gives me an RSS feed for "longhorn" related items from Wired News, making sure I see what's up on that topic (as far as Wired News is concerned, anyway). To compose a new RSS feed tailored to your tastes, surf to wired.com and enter your search term. When it ret...</summary>
+    <content type="html">&lt;h1>"Intelligent Search Agents" Made Real&lt;/h1>
+&lt;a href="http://search.wired.com/wnews/default.asp?query=longhorn&amp;format=rss">Here&lt;/a>. Remember when we were going to have intelligent search agents that would search the web for us and find things that matched our interests? Well, Wired does it today with search results returned in RSS format.
+
+Clicking on the link for this item gives me an RSS feed for "longhorn" related items from Wired News, making sure I see what's up on that topic (as far as Wired News is concerned, anyway).
+
+To compose a new RSS feed tailored to your tastes, surf to wired.com and enter your search term. When it returns, clicking on the (rss) link will give you an RSS feed to drop into your aggregrator (my favorite is SharpReader). Then, whenever your aggregator updates, it'll check for new search results and bam! intelligent search agents acting in the background on your behalf. Very, very cool.
+
+[scriptingnews.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/702</id>
+    <title>Active Scripting for .NET</title>
+    <updated>2003-07-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-23T07:00:00.000Z</published>
+    <summary>Here. With the support for scripting built into.NET [1], I'm surprised it took this long for someone to rebuild the COM-based Active Scripting for.NET (although I wish it'd been us and that it was free : ). [1] http://msdn.microsoft.com/msdnmag/issues/02/08/VisualStudioforApplications/default.asp
+</summary>
+    <content type="html">&lt;h1>Active Scripting for .NET&lt;/h1>
+&lt;a href="http://www.alintex.com/">Here&lt;/a>. With the support for scripting built into .NET [1], I'm surprised it took this long for someone to rebuild the COM-based Active Scripting for .NET (although I wish it'd been us and that it was free : ).
+
+[1] http://msdn.microsoft.com/msdnmag/issues/02/08/VisualStudioforApplications/default.asp
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12534</id>
+    <title>Windows XP Remote Assistance Rocks!</title>
+    <updated>2003-07-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-23T07:00:00.000Z</published>
+    <summary>I just had a &amp;quot;Windows Moment.&amp;quot; I was on the phone with my Dad who has Windows XP and was having trouble. Since he paid for my computer science degree, he assumes that I'll be his tech support. In fact, everyone in my family assumes I'll be their tech support; it's annoying as hell! I don't know how support folks diagnose and fix problems over the phone all day long. More than 5 minutes and I'm ready to say, &amp;quot;How much was that computer science degree, Dad? I'll write you a check.&amp;quot; Anyway,...</summary>
+    <content type="html">&lt;h1>Windows XP Remote Assistance Rocks!&lt;/h1>
+&lt;p>
+I just had a &amp;quot;Windows Moment.&amp;quot; I was on the phone with my Dad who has Windows XP 
+and was having trouble. Since he paid for my computer science degree, he assumes 
+that I'll be his tech support. In fact, everyone in my family assumes I'll be 
+their tech support; it's annoying as hell! I don't know how support folks 
+diagnose and fix problems over the phone all day long. More than 5 minutes and 
+I'm ready to say, &amp;quot;How much was that computer science degree, Dad? I'll write 
+you a check.&amp;quot;&lt;/p>&lt;p>Anyway, after trying it for about 20 minutes (and failing), 
+I asked him if he had the Remote Desktop settings on his My Computer-&amp;gt;Remote 
+tab, thinking that I could use terminal services to solve his problem. Of 
+course, since he was running XP Home, he didn't, but he did have Remote 
+Assistance. So we tried it. And even though he's in the back woods outside of 
+Fargo, ND and on dial-up (isn't this a commercial for Windows XP?), he was able 
+to email me a request for remote assistance (Start-&amp;gt;Help-&amp;gt;Ask for 
+assistance-&amp;gt;Invite a friend to connect to your computer with Remote Assistance) 
+and I was able to connect to his computer (through my firewall!) and solve his 
+problem (half of Office '97 was installed on C: and half on D: and wasn't happy 
+about it at all).&lt;/p>&lt;p>Wow. That's a feature that made my life better.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/704</id>
+    <title>Windows XP Remote Assistance Rocks!</title>
+    <updated>2003-07-23T07:00:00.000Z</updated>
+    <published>2003-07-23T07:00:00.000Z</published>
+    <summary>Here. The one where Windows makes my life better.</summary>
+    <content type="html">&lt;h1>Windows XP Remote Assistance Rocks!&lt;/h1>
+&lt;a href="/12534">Here&lt;/a>. The one where Windows makes my life better.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12536</id>
+    <title>My $5 Digital Music Experiment</title>
+    <updated>2003-07-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-22T07:00:00.000Z</published>
+    <summary>I *really* want to own my digital songs, so I've been dying for a real site to purchase them one at a time, instead of buying entire albums I don't want or ripping the songs off of the albums I do own. Towards that end, I was excited about BuyMusic.com and immediately spend $4.95 on five Avril songs. Overall, it was not a happy experience. What I love about BuyMusic.com is the site: The web site is very usable and full-featured, making finding, listening to and ordering artists, songs and albums easy The pr...</summary>
+    <content type="html">&lt;h1>My $5 Digital Music Experiment&lt;/h1>
+&lt;p>I 
+*really* want to own my digital songs, so I've been dying for a real site to 
+purchase them one at a time, instead of buying entire albums I don't want or 
+ripping the songs off of the albums I do own. Towards that end, I was excited 
+about BuyMusic.com and immediately spend $4.95 on five Avril songs. Overall, it 
+was not a happy experience.&lt;/p>&lt;p>What I love about BuyMusic.com is the site:&lt;/p>&lt;ul>&lt;li>
+	The web site is very usable and full-featured, making finding, listening to 
+	and ordering artists, songs and albums easy&lt;/li>&lt;li>The price is right: 
+	$.99/song and $9.49/album&lt;/li>&lt;li>I really wanted to immediately find the 
+	web service so that I could write a program to go through my wife's bootleg 
+	mp3s and purchase them&lt;/li>&lt;/ul>&lt;p>Unfortunately, I hate BuyMusic.com 
+because of the Digital Rights Management (DRM) experience:&lt;/p>&lt;ul>&lt;li>On one 
+	machine, I could listen to all of the songs, but only after a &amp;quot;DRM upgrade&amp;quot; 
+	(whatever that means)&lt;/li>&lt;li>On another machine, I had to do systems 
+	administration to play a song (DRM doesn't like it when you're a guest and 
+	an administrator in the same account). This is fine for me, because I can 
+	chase the error to the web page and do the systems administration on my 
+	account, but what about normal people? Then I had to do another DRM upgrade. 
+	*Then* I had to log in with my user name and password on *every* song! That 
+	means I have to roam around to every machine in my house that might possibly 
+	want to listen to the music, because only I know the email/password for the 
+	songs I buy. What a PITA!&lt;/li>&lt;li>I'm allowed three machines? Why? I can 
+	take my CDs to any machine in the house and my cars. I want to own this 
+	music for life and I *know* I'll have more than 3 machines before the end of 
+	it. I tried it on four machines and it didn't turn me away, which is nice, 
+	but how long will that last?&lt;/li>&lt;li>How are these WMA files going to work 
+	with my mp3 player? Even if the format works, will the DRM get in the way?&lt;/li>&lt;li>
+	What about if I download a bunch of songs on my way out the door? If I'm on 
+	an airplane, I can't jack into the Internet to obtain the license and there 
+	was no &amp;quot;pre-license&amp;quot; batch mode that I could find to save me from obtaining 
+	the licenses one at a time&lt;/li>&lt;/ul>&lt;p>The whole experience made me want to 
+cry. The site was so great, but the playback was *so* hard. Why do I have to be 
+treated like a child? I'm dying to pay for the music I want, but I don't want to 
+be penalized for it. I really wanted to find the inevitable hacking tool to 
+strip the DRM off of the music I downloaded so that I could use it more freely, 
+but what's the point of that? This kind of hacking would break the license 
+agreement and is no better than downloading mp3s (although the the latter is a 
+hell of a lot more convenient).&lt;/p>
+</content>
+  </entry>
+</feed>

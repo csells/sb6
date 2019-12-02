@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed32.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed31.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed33.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed32.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1960</id>
+    <title>Multi-Touch Interaction Research</title>
+    <updated>2006-02-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-10T08:00:00.000Z</published>
+    <summary>Wow. I wonder how many years that existence of the mouse has set us back because it delayed us from using this.</summary>
+    <content type="html">&lt;h1>Multi-Touch Interaction Research&lt;/h1>
+Wow. I wonder how many years that existence of the mouse has set us back because it delayed us from &lt;A href="http://www.youtube.com/watch?v=iVI6xw9Zph8">using this&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1959</id>
+    <title>My Favorite Wiki: pinvoke.net</title>
+    <updated>2006-02-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-10T08:00:00.000Z</published>
+    <summary>I guess wikipedia is cool, but the wiki that provides a vital service in my life is pinvoke.net, which provides an enormous, user-contributed list of Win32 API mappings for.NET. I find it useful not just because folks are contributing tons of stuff I use, but also because I find it a wonderful place to drop code for my own later use, e.g. GetTempFileName CommandLineToArgvW SHAddToRecentDocs This is the closest thing I've seen to a work</summary>
+    <content type="html">&lt;h1>My Favorite Wiki: pinvoke.net&lt;/h1>
+&lt;P>I guess &lt;A href="http://www.wikipedia.org/">wikipedia&lt;/A> is cool, but the wiki that provides a vital service in my life is &lt;A href="http://www.pinvoke.net/">pinvoke.net&lt;/A>, which provides an enormous, user-contributed list of Win32 API mappings for .NET. I find it useful not just because folks are contributing tons of stuff I use, but also because I find it a wonderful place to drop code for my own later use, e.g.&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A title=kernel32.GetTempFileName href="http://www.pinvoke.net/default.aspx/kernel32/GetTempFileName.html">&lt;FONT color=#4169e1>GetTempFileName&lt;/FONT>&lt;/A>&lt;/LI>
+&lt;LI>&lt;A title=shell32.CommandLineToArgvW href="http://www.pinvoke.net/default.aspx/shell32/CommandLineToArgvW.html">&lt;FONT color=#4169e1>CommandLineToArgvW&lt;/FONT>&lt;/A>&lt;/LI>
+&lt;LI>&lt;A title=shell32.SHAddToRecentDocs href="http://www.pinvoke.net/default.aspx/shell32/SHAddToRecentDocs.html">&lt;FONT color=#4169e1>SHAddToRecentDocs&lt;/FONT>&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>This is the closest thing I've seen to a working code repository that is just as easy to contribute to as it is to use. Highly recommended.&lt;/P>
+&lt;P>P.S. I think this kind of functionality should be built into the SDK docs.&amp;nbsp;I'll ask 'em.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1957</id>
+    <title>Network bandwidth usage monitor?</title>
+    <updated>2006-02-08T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-02-08T08:00:00.000Z</published>
+    <summary>Sometimes, for no reason I can discern, the network bandwidth on various computers in my house goes south. What I'd love is a tool that shows me how much traffic is going across my network, where it's going&amp;nbsp;and where it's from, i.e. from the internet, from a machine in my house, etc. Ideally, it'd also show me the ports and even the processes on each machine that are producing/consuming the data. Does such a tool exist?</summary>
+    <content type="html">&lt;h1>Network bandwidth usage monitor?&lt;/h1>
+Sometimes, for no reason I can discern, the network bandwidth on various computers in my house goes south. What I'd love is a tool that shows me how much traffic is going across my network, where it's going&amp;nbsp;and where it's from, i.e. from the internet, from a machine in my house, etc. Ideally, it'd also show me the ports and even the processes on each machine that are producing/consuming the data. Does such a tool exist?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1954</id>
+    <title>PM Skill #7: Use That Meeting Time!</title>
+    <updated>2006-02-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-03T08:00:00.000Z</published>
+    <summary>It's very easy, as the PM, to not want to waste team time in a meeting, letting folks go when there's still 30 minutes left. In fact, lots of folks will praise you for your short meetings. That's fine if all of the work for that meeting has been done, e.g. everyone's reported their status, all of the open questions have been decided, etc. However, it's often the case that in these meetings, other issues will come up to be discussed in future meetings to be scheduled at another time. Don't let your concern f...</summary>
+    <content type="html">&lt;h1>PM Skill #7: Use That Meeting Time!&lt;/h1>
+&lt;P>It's very easy, as the PM, to not want to waste team time in a meeting, letting folks go when there's still 30 minutes left. In fact, lots of folks will praise you for your short meetings. That's fine if all of the work for that meeting has been done, e.g. everyone's reported their status, all of the open questions have been decided, etc.&lt;/P>
+&lt;P>However, it's often the case that in these meetings, other issues will come up to be discussed in future meetings to be scheduled at another time. Don't let your concern for your team mates' free time tempt you to let 'em go! It's hard enough to get the folks you need together in a room. Once you've got 'em there, use 'em.&lt;/P>
+&lt;P>For example, if you've got the team together for weekly status that's scheduled for 60 minutes, it often only takes 30 minutes. In that 30 minutes, you may decide that a subset of the team needs to get together for an hour design discussion on whether to spinning text boxes to your next software project. As &lt;A href="/1943">a dutiful PM (aka "mom")&lt;/A>, you'll often find yourself saying, "Sure -- I'll set that up." Then it's your job to find an hour on everyone's calendar while that issue remains open and the project drags on.&lt;/P>
+&lt;P>Don't do it! Instead, peel off the folks in the status meeting that need to be in the "hour design discussion" and have the meeting right then and there. You've already scheduled the weekly status for 60 minutes, so you know those folks are free and just dying to get back to reading email in piece in their office -- put 'em to work instead! Who the hell knows how long a design discussion is going to take anyway? It's just as likely to go under an hour as over, so you might be able to wrap up the issue right then and there, skipping the need for another meeting altogether. Believe me, your team mates will thank you for that!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1951</id>
+    <title>IE7 Beta 2 worth the download</title>
+    <updated>2006-01-31T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-31T08:00:00.000Z</published>
+    <summary>I've been using IE7 for the last week or so and it's definitely worth the download. Just Ctrl+/Ctrl- itself is worth the upgrade, imo...</summary>
+    <content type="html">&lt;h1>IE7 Beta 2 worth the download&lt;/h1>
+I've been using IE7 for the last week or so and &lt;A href="http://www.microsoft.com/windows/ie/ie7/ie7betaredirect.mspx">it's definitely worth the download&lt;/A>. Just Ctrl+/Ctrl- itself is worth the upgrade, imo...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1953</id>
+    <title>Japanese version of Avalon book</title>
+    <updated>2006-01-31T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-01-31T08:00:00.000Z</published>
+    <summary>I thought someone might be interested in the Japanese version of our WPF book. Personally, I love the cover.</summary>
+    <content type="html">&lt;h1>Japanese version of Avalon book&lt;/h1>
+I thought someone might be interested in &lt;A href="http://ssl.ohmsha.co.jp/cgi-bin/menu.cgi?ISBN=4-274-06641-X">the Japanese version of our WPF book&lt;/A>. Personally, I &lt;EM>&lt;STRONG>love &lt;/STRONG>&lt;/EM>the cover.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1952</id>
+    <title>Pre-order "Windows Forms 2.0 Programming"</title>
+    <updated>2006-01-31T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-01-31T08:00:00.000Z</published>
+    <summary>I just noticed that "Windows Forms 2.0 Programming," by Michael Weinhardt and Chris Sells, is available for pre-order. I've had a lot of requests for info on this book, so now folks can watch this space. Mike and I have finished the copy edit rounds, but we still haven't seen the final PDFs, so it's still going to be awhile (hopefully no later than early April).</summary>
+    <content type="html">&lt;h1>Pre-order "Windows Forms 2.0 Programming"&lt;/h1>
+I just noticed that &lt;A href="http://www.amazon.com/gp/product/0321267966/">"Windows Forms 2.0 Programming,"&lt;/A> by Michael Weinhardt and Chris Sells, is available for pre-order. I've had a lot of requests for info on this book, so now folks can watch this space. Mike and I have finished the copy edit rounds, but we still haven't seen the final PDFs, so it's still going to be awhile (hopefully no later than early April).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1950</id>
+    <title>IT Crowd: Yesterday's Jam</title>
+    <updated>2006-01-29T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-01-29T08:00:00.000Z</published>
+    <summary>Why is British comedy so much funnier than ours? Check out Yesterday's Jam.</summary>
+    <content type="html">&lt;h1>IT Crowd: Yesterday's Jam&lt;/h1>
+Why is British comedy so much funnier than ours? Check out &lt;A href="http://www.channel4.com/entertainment/tv/microsites/I/itcrowd/">Yesterday's Jam&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1949</id>
+    <title>Calling a Remote Index Server from .NET</title>
+    <updated>2006-01-26T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-01-26T08:00:00.000Z</published>
+    <summary>I was building some code to access Index Server's results via.NET and I got this: // Catalog specified in connection string string query = "select Path from Scope() where FREETEXT('foo')"; using( OleDbConnection conn = new OleDbConnection("Provider=MSIDXS.1;Data Source=MyCatalog") ) { &amp;nbsp; conn.Open(); &amp;nbsp; OleDbDataAdapter cmd = new OleDbDataAdapter(query, conn); &amp;nbsp; DataSet ds = new DataSet(); &amp;nbsp; cmd.Fill(ds, "SearchResults"); &amp;nbsp; DataTable table = ds.Tables[0]; &amp;nbsp; ds.Tables.Remove(table...</summary>
+    <content type="html">&lt;h1>Calling a Remote Index Server from .NET&lt;/h1>
+&lt;P>I was building some code to access Index Server's results via .NET and I got this:&lt;/P>
+&lt;P>// Catalog specified in connection string&lt;BR>string query = "select Path from Scope() where FREETEXT('foo')";&lt;BR>using( OleDbConnection conn = new OleDbConnection("Provider=MSIDXS.1;Data Source=MyCatalog") ) {&lt;BR>&amp;nbsp; conn.Open();&lt;BR>&amp;nbsp; OleDbDataAdapter cmd = new OleDbDataAdapter(query, conn);&lt;BR>&amp;nbsp; DataSet ds = new DataSet();&lt;BR>&amp;nbsp; cmd.Fill(ds, "SearchResults");&lt;BR>&amp;nbsp; DataTable table = ds.Tables[0];&lt;BR>&amp;nbsp; ds.Tables.Remove(table);&lt;BR>&amp;nbsp; return table;&lt;BR>}&lt;/P>
+&lt;P>This came from a combo of stuff I found on the net and my own experimenting. However, I had to get an MS employee who know IS (thanks Chad Ray!) to figure out how to access IS remotely, which I was finally able to get working thusly:&lt;/P>
+&lt;P>// Server and catalog specified in query string, not connection string&lt;BR>string query = "select Path from MyServer.MyCatalog..Scope() where FREETEXT('foo')";&lt;BR>using( OleDbConnection conn = new OleDbConnection("Provider=MSIDXS.1") ) {&lt;BR>&amp;nbsp; conn.Open();&lt;BR>&amp;nbsp; OleDbDataAdapter cmd = new OleDbDataAdapter(query, conn);&lt;BR>&amp;nbsp; DataSet ds = new DataSet();&lt;BR>&amp;nbsp; cmd.Fill(ds, "SearchResults");&lt;BR>&amp;nbsp; DataTable table = ds.Tables[0];&lt;BR>&amp;nbsp; ds.Tables.Remove(table);&lt;BR>&amp;nbsp; return table;&lt;BR>}&lt;/P>
+&lt;P>Also, if the server or catalog name has anything "weird" in it, e.g. those wacky dashes, you're supposed to wrap it in double quotes. My experimenting showed that wrapping any server or catalog name in double quotes worked just fine, e.g.&lt;/P>
+&lt;P>string query = "select Path from \"MyServer\".\"MyCatalog\"..Scope() where FREETEXT('foo')";&lt;/P>
+&lt;P>However, if the server name is "localhost" or "127.0.0.1", IS doesn't like it, which meant that I had to check for those server names and drop the ones that used the loopback adapter (although using the machine name of the local machine worked just fine), e.g.&lt;/P>
+&lt;P>static bool IsLocalHost(string server) {&lt;BR>&amp;nbsp; return string.IsNullOrEmpty(server) || (string.Compare(server, "localhost", true) == 0) || (string.Compare(server, "127.0.0.1") == 0);&lt;BR>}&lt;/P>
+&lt;P>string GetPlainTextQueryString(string text, string columns) {&lt;BR>&amp;nbsp; // IS doesn't like "localhost"&lt;BR>&amp;nbsp; if( IsLocalHost(_server) ) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; return string.Format("select {0} from \"{1}\"..Scope() where FREETEXT('{2}')", columns, _catalog, text);&lt;BR>&amp;nbsp; }&lt;BR>&amp;nbsp; else {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; return string.Format("select {0} from \"{1}\".\"{2}\"..Scope() where FREETEXT('{3}')", columns, _server, _catalog, text);&lt;BR>&amp;nbsp; }&lt;BR>}&lt;/P>
+&lt;P>I'm only posting this 'cuz I couldn't find it on the net and I want to be able to find it again later. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1948</id>
+    <title>Imperative vs. Declarative</title>
+    <updated>2006-01-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-25T08:00:00.000Z</published>
+    <summary>Savas showed me this great example from a book he's reading. Consider this: F = m * v Using an imperative interpretation, this is a expression that, when evaluated, multiplies m and v, putting the result into F. Using a declarative interpretation, this is an equation and is completely equivalent to the following: m = F / v The imperative interpretation allows me to execute. The declarative interpretation allows execution as well as addition reasoning. </summary>
+    <content type="html">&lt;h1>Imperative vs. Declarative&lt;/h1>
+&lt;P>&lt;A href="http://savas.parastatidis.name/">Savas&lt;/A> showed me this great example from a book he's reading. Consider this:&lt;/P>
+&lt;P>F = m * v&lt;/P>
+&lt;P>Using an imperative interpretation, this is a expression that, when evaluated, multiplies m and v, putting the result into F.&lt;/P>
+&lt;P>Using a declarative interpretation, this is an equation and is completely equivalent to the following:&lt;/P>
+&lt;P>m = F / v&lt;/P>
+&lt;P>The imperative interpretation allows me to execute. The declarative interpretation allows execution as well as addition reasoning.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1947</id>
+    <title>Netflix for Books?</title>
+    <updated>2006-01-22T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-22T08:00:00.000Z</published>
+    <summary>I know, I know, " I hate books." Still, books are where most of the content I love is, so I live with 'em. However, it'd be nicer if there were a Netflix for books, like there is for DVDs and games. I think the public library should be become such a thing and I'd happily pay $15/month for mail delivery and return.</summary>
+    <content type="html">&lt;h1>Netflix for Books?&lt;/h1>
+I know, I know, "&lt;A href="/1944">I hate books&lt;/A>." Still, books are where most of the content I love is, so I live with 'em. However, it'd be nicer if there were a Netflix for books, like there is for &lt;A href="http://netflix.com">DVDs&lt;/A> and &lt;A href="http://gamefly.com">games&lt;/A>. I think the public library should be become such a thing and I'd happily pay $15/month for mail delivery and return.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1946</id>
+    <title>Looking for an Xbox 360</title>
+    <updated>2006-01-19T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-01-19T08:00:00.000Z</published>
+    <summary>I got my first hands on Xbox 360 demo today and I want one! Unfortunately, MS employees aren't treated specially, i.e. there isn't a big warehouse full of 360s for us at the MS Store. However, there is an internal mailing list filled with rapid pre and post-360 purchasers that showed me several resources to use to find 360s: 360 Tracker, a WinForms app to find stores in my area with 360s in stock. Will alert me via email and my cell phone as well as on my computer screen. It's running now. NotifyWire.com, a...</summary>
+    <content type="html">&lt;h1>Looking for an Xbox 360&lt;/h1>
+&lt;P>I got my first hands on Xbox 360 demo today and &lt;STRONG>I want one&lt;/STRONG>! Unfortunately, MS employees aren't treated specially, i.e. there isn't a big warehouse full of 360s for us at the MS Store. However, there is an internal mailing list filled with rapid pre and post-360 purchasers that showed me several resources to use to find 360s:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://untitlednet.com/">360 Tracker&lt;/A>, a WinForms app to find stores in my area with 360s in stock. Will alert me via email and my cell phone as well as on my computer screen. It's running now.&lt;/LI>
+&lt;LI>&lt;A href="http://www.notifywire.com/">NotifyWire.com&lt;/A>, a web site that will filter for online sales in my price range and notify me via email and SMS. I've created my account.&lt;/LI>
+&lt;LI>&lt;A href="http://xbox360tracker.com/">xbox360tracker.com&lt;/A>, a web site that shows online sales and their in-stock status. Available as an RSS feed, so that's a reason to run one again! : )&lt;/LI>&lt;/UL>
+&lt;P>I don't want any fancy bundles and I don't want to purchase online -- I want the premium bundle and I want to walk out of the store with it. Is that so much to ask?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1945</id>
+    <title>I want a service that "rips" books</title>
+    <updated>2006-01-19T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-19T08:00:00.000Z</published>
+    <summary>Assuming the Sony Reader is cool, I still won't have all the content I want and I certainly don't want to repurchase all of my books. In the same way copyright law enables me to backup my CDs and DVDs, I want to "rip" my books and comics for electronic use. I'd like the same technology that the Google and the Amazon folks are using to digitize existing books (the folks that litter USENIX with copyright materials must have a cool setup, too). My understanding is that, unlike CDs and DVDs, which are easy to r...</summary>
+    <content type="html">&lt;h1>I want a service that "rips" books&lt;/h1>
+&lt;P>Assuming &lt;A href="http://products.sel.sony.com/pa/PRS/">the Sony Reader&lt;/A> is cool, I still won't have all the content I want and I certainly don't want to repurchase all of my books. In the same way copyright law enables me to backup my CDs and DVDs, I want to "rip" my books and comics for electronic use. I'd like the same technology that the Google and the Amazon folks are using to digitize existing books (the folks that litter USENIX with copyright materials must have a cool setup, too). My understanding is that, unlike CDs and DVDs, which are easy to read via computer, books are not, so I'll need a service where I can box up my books and send 'em for ripping, resulting in a shiny DVD filled with my words and images, ideally OCR'd enough to allow full text search. In fact, after a while, the book rip houses would have most books on file, so I'd only have to prove that I own a book and they could email me the electronic version, saving us both the shipping charges. In further fact, this is an additional service that Google and/or Amazon could provide, since they're already "ripping" the books they sell...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1944</id>
+    <title>I Hate Books</title>
+    <updated>2006-01-18T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-18T08:00:00.000Z</published>
+    <summary>I hate that indexes suck and that they don't support full text searching across my entire collection. I hate that I have to guess which ones I'll need or want so that I can carry them with me. I hate that I need a light to read them, potentially bothering the driver or a sleeping spouse. I hate moving them, making shelves for them and searching for them on the shelves. I hate that I can't take notes in them -- not even the ones I own -- without breaking out into a cold sweat (although, to be fair, that's mo...</summary>
+    <content type="html">&lt;h1>I Hate Books&lt;/h1>
+&lt;P>I hate that &lt;A href="/1928">indexes suck&lt;/A> and that they don't support full text searching across my entire collection.&lt;/P>
+&lt;P>I hate that I have to guess which ones I'll need or want so that I can carry them with me.&lt;/P>
+&lt;P>I hate that I need a light to read them, potentially bothering the driver or a sleeping spouse.&lt;/P>
+&lt;P>I hate moving them, making shelves for them and searching for them on the shelves.&lt;/P>
+&lt;P>I hate that I can't take notes in them -- not even the ones I own -- without breaking out into a cold sweat (although, to be fair, that's more about my librarian mother than the book itself : ).&lt;/P>
+&lt;P>I hate that I have to buy a book twice if I want to listen to it instead of read it (and I hate that there's no way to pronounce pictures or code).&lt;/P>
+&lt;P>I hate that if the local book store doesn't have a book, that I have to wait for somebody to deliver it.&lt;/P>
+&lt;P>I hate that my local book store doesn't have reviews of the book, whereas my on line book store doesn't let me flip to whatever page I want.&lt;/P>
+&lt;P>The one thing I don't hate about books is the content. That part triggers my thoughts and my emotions in me that are so strong, I put up with all the things I hate so I can get to it.&lt;/P>
+&lt;P>Why isn't there an iPod for books (is it because iBook is already taken)? Why isn't all print media, e.g. novels, poems, comic books, news papers, magazines, etc, available in electronic format?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1943</id>
+    <title>PM Skill #6: Be The Team Mom</title>
+    <updated>2006-01-17T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-17T08:00:00.000Z</published>
+    <summary>In an ideal world, a PM would be able to get together with their team, lead the discussion 'til everyone agrees what they're going to do and while they're doing it, hang out on the beach answering the odd question on their smart phone 'til the work is scheduled to be done. At Microsoft, we don't live in an ideal world. Instead, we have roving bands of PMs prowling the halls looking for resources, trying to get things done. Because this is an accepted part of MS culture, people actually listen when a PM show...</summary>
+    <content type="html">&lt;h1>PM Skill #6: Be The Team Mom&lt;/h1>
+&lt;P>In an ideal world, a PM would be able to get together with their team, lead the discussion 'til everyone agrees what they're going to do and while they're doing it, hang out on the beach answering the odd question on their smart phone 'til the work is scheduled to be done.&lt;/P>
+&lt;P>At Microsoft, we don't live in an ideal world.&lt;/P>
+&lt;P>Instead, we have roving bands of PMs prowling the halls looking for resources, trying to get things done. Because this is an accepted part of MS culture, people actually listen when a PM shows up at their door to pitch their idea and ask them to help. And, so long as it fits into the broad goals they've set up with their boss and their other commitments, and it's more fun then the thing they're supposed to be doing, they often say "yes."&lt;/P>
+&lt;P>This means that folks on your team often have multiple commitments that they have to decide between. It's like when you get married or close friends, you're going to have more than one family to visit at Christmas time. However, you have to put your blood relatives first, making them your top priority and squeezing in the other families when you can, e.g. Christmas Eve Eve.&lt;/P>
+&lt;P>As a PM, you have to know what the "blood relationships" are for each of your team members. Are you their second or third family? If so, you have to take "Christmas as celebrated on." However, if they're in your first family, then you take top priority and you should feel free to act like their mom.&lt;/P>
+&lt;P>Traditionally, it's the mom's job to make sure people are healthy and happy (doing stuff they like), making sure that they're eating right (getting pizza during late night coding sessions) and that they're getting special treats when they deserve them (public announcements praising their work).&lt;/P>
+&lt;P>Likewise, it's the mom's job to remind them of their chores (their task list), check their report card (make sure their tasks are up to the quality bar) and to guilt them when they forget Mother's Day (keeping up with the schedule).&lt;/P>
+&lt;P>As the PM, you're the team's memory, the catch-all for crappy tasks nobody else wants to do and the one that makes sure everyone is working well together. You're the glue and the conscience. If the teammates on your team aren't waking up thinking of tasks &lt;EM>you&lt;/EM> want done and going to bed hoping they're making good progress on &lt;EM>your &lt;/EM>tasks, then, according to MS culture, that's your fault.&lt;/P>
+&lt;P>So, make sure folks are unblocked and happy, but also make sure they're doing what you consider their top priority and that they're doing it right and one time. Trust that they're doing what they should be, but make sure they know what you think they should be doing and that they're doing it right.&lt;/P>
+&lt;P>The downside is that such a world doesn't scale without PMs at every level, but that's why MS has PMs, Lead PMs, Group PMs and Product Unit Managers, all of them acting as the mom for their families.&lt;/P></content>
+  </entry>
+</feed>

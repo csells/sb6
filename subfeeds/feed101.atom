@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed101.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed100.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed102.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed101.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/989</id>
+    <title>Graphic Designer + Coder + Longhorn = Goodness</title>
+    <updated>2003-12-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-09T08:00:00.000Z</published>
+    <summary>Adam Kinney seems to be that rare combination of graphic designer and coder that I want to be to survive in the brave new world of Longhorn. I'm following his blog avidly. </summary>
+    <content type="html">&lt;h1>Graphic Designer + Coder + Longhorn = Goodness&lt;/h1>
+&lt;P>Adam Kinney seems to be that rare combination of graphic designer and coder that I want to be to survive in the brave new world of Longhorn. I'm following &lt;A href="http://longhornblogs.com/akinney/">his blog&lt;/A> avidly.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/991</id>
+    <title>Photo Organization App Build Entirely with .NET</title>
+    <updated>2003-12-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-09T08:00:00.000Z</published>
+    <summary>Here. Of course, consumers won't care that the Electronic Showbox photo organization, editing and sharing software was built from the ground up using the.NET Framework (and Genghis ), but I understand from the CTO that he "shudders" to think what it would have been link to develop in native code. Plus, he gives free copies to his favorite bloggers. Enjoy.</summary>
+    <content type="html">&lt;h1>Photo Organization App Build Entirely with .NET&lt;/h1>
+&lt;a href="http://photos.constanttime.com/">Here&lt;/a>. Of course, consumers won't care that the Electronic Showbox photo organization, editing and sharing software was built from the ground up using the .NET Framework (and &lt;A href="http://www.genghisgroup.com">Genghis&lt;/A>), but I understand from the CTO that he "shudders" to think what it would have been link to develop in native code. Plus, he gives free copies to his favorite bloggers. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/988</id>
+    <title>Learn the new VC++ from the master</title>
+    <updated>2003-12-09T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-12-09T08:00:00.000Z</published>
+    <summary>I used to brag that, unlike most C++ programmers, I learned C++ directly from the CFRONT 2.0 release notes and not from Stanley Lippman (his C++ Primer is a key part of C++ canon law). That boast came to a screeching halt when I had Stan in one of my COM courses and he revealed that he'd written the CFRONT 2.0 release notes. And as if teaching the world C++ wasn't enough, now that he works at Microsoft on the new Visual C++ and it's new support for the.NET Framework in "Whidbey," he's started a blog to teac...</summary>
+    <content type="html">&lt;h1>Learn the new VC++ from the master&lt;/h1>
+&lt;P>I used to brag that, unlike most C++ programmers, I learned C++ directly from the CFRONT 2.0 release notes and not from Stanley Lippman (his &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201824701/chrissells">C++ Primer&lt;/A> is a key part of C++ canon law). That boast came to a screeching halt when I had Stan in one of my COM courses and he revealed that he'd written the CFRONT 2.0 release notes.&lt;/P>
+&lt;P>And as if teaching the world C++ wasn't enough, now that he works at Microsoft on the new Visual C++ and it's new support for the .NET Framework in "Whidbey," he's started &lt;A href="http://blogs.gotdotnet.com/slippman/">a blog to teach the world now only how VC++'s new tracking handle syntax (aka "hat") but more importantly to point out *why* the VC++ went in this new direction&lt;/A>.&lt;/P>
+&lt;P>And I can't imagine someone I'd rather learn it from.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/987</id>
+    <title>Avalon's Dependency Properties</title>
+    <updated>2003-12-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-03T08:00:00.000Z</published>
+    <summary>Drew Marsh describes the internals of the XAML dotted attribute syntax that I described a few days ago &amp;nbsp;as well as contrasting it with the existing.NET IExtenderProperty model. </summary>
+    <content type="html">&lt;h1>Avalon's Dependency Properties&lt;/h1>
+&lt;P>Drew Marsh describes &lt;A href="http://weblogs.asp.net/dmarsh/posts/40588.aspx">the internals of the XAML dotted attribute syntax&lt;/A> that &lt;a href="/12513">I described a few days ago&lt;/A>&amp;nbsp;as well as contrasting it with the existing .NET IExtenderProperty model.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/983</id>
+    <title>More Love for XAML Syntax: Dotted Element Names</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>Don Box simplified my XAML code &amp;nbsp;using resources and styles. He also illustrates another XAML-ism that I'm coming to love: dotted element names. When you see something a dotted element name in XAML: &amp;lt;GridPanel&amp;gt; &amp;nbsp; &amp;lt;GridPanel.Resources&amp;gt;...&amp;lt;/GridPanel.Resources&amp;gt; &amp;nbsp;... &amp;lt;/GridPanel&amp;gt; what you're looking at is a more convenient way of specifying an XML attribute using XML element syntax. For example, while you can specify a menu item like s &amp;lt;MenuItem Header="New" /&amp;gt; Howe...</summary>
+    <content type="html">&lt;h1>More Love for XAML Syntax: Dotted Element Names&lt;/h1>
+&lt;P>&lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-12-01T11:56:24Z">Don Box simplified&lt;/A> &lt;a href="/12513">my XAML code&lt;/A>&amp;nbsp;using resources and styles. He also illustrates another XAML-ism that I'm coming to love: dotted element names. When you see something a dotted element name in XAML:&lt;/P>&lt;PRE>&lt;FONT size=2>&amp;lt;GridPanel&amp;gt;&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp; &amp;lt;GridPanel.Resources&amp;gt;...&amp;lt;/GridPanel.Resources&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;/FONT>&lt;B>&lt;BR>&lt;/B>&lt;FONT size=2>&amp;nbsp; ...&lt;BR>&amp;lt;/GridPanel&amp;gt;&lt;/FONT>&lt;/PRE>
+&lt;P>what you're looking at is a more convenient way of specifying an XML attribute using XML element syntax. For example, while you can specify a menu item like s&lt;/P>&lt;PRE>&lt;FONT size=2>&amp;lt;MenuItem &lt;STRONG>&lt;SPAN>Header="New"&lt;/SPAN>&lt;/STRONG> /&amp;gt;&lt;/FONT>&lt;/PRE>
+&lt;P>However, if you're doing anything fancy, like specifying an access key, you can do this using the dotted element name syntax:&lt;/P>&lt;PRE>&lt;FONT size=2>&amp;lt;MenuItem&amp;gt;&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp; &amp;lt;MenuItem.Header&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;/FONT>&lt;B>&lt;BR>&lt;FONT size=2>&lt;STRONG>&lt;SPAN>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;FlowPanel&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;AccessKey Key="N" /&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;SimpleText&amp;gt;ew&amp;lt;/SimpleText&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/FlowPanel&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;BR>&lt;STRONG>&lt;SPAN>&amp;nbsp; &amp;lt;/MenuItem.Header&amp;gt;&lt;/SPAN>&lt;/STRONG>&lt;BR>&lt;/FONT>&lt;/B>&lt;FONT size=2>&amp;lt;/MenuItem&amp;gt;&lt;/FONT>&lt;/PRE>
+&lt;P>In the first case, we're just specifying a string, so declaring the Header attribute inline makes sense. In the second case, we're composing the Header for the MenuItem as a FlowPanel, combining an AccessKey and a SimpleText element. Underneath the covers, XAML attributes translate into properties, so for those properties more complicated than strings, the dotted element name syntax allows properties to be specified as sub-elements.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/984</id>
+    <title>FreeTextBox Rocks!</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>Because of history and laziness, my blog entries come from an HTML form on my site and they've always been in plain text. Well, today I got tired of that, so I asked Kent Sharkey ( the MSDN King of ASP.NET ) what I should get. He recommended the FreeTextBox ASP.NET control and this thing rocks! The Word/FrontPage keystrokes work the way I want them to. The Styles and Fonts and Colors are all provided for in an Office 2003-like toolbar. There's a spell-checker (that installs on the fly, no less!), raw HTML e...</summary>
+    <content type="html">&lt;h1>FreeTextBox Rocks!&lt;/h1>
+&lt;P>Because of history and laziness, my blog entries come from an HTML form on my site and they've always been in plain text. Well, today I got tired of that, so I asked &lt;A href="http://weblogs.asp.net/ksharkey/">Kent Sharkey&lt;/A> (&lt;A href="http://msdn.microsoft.com/asp.net/">the MSDN King of ASP.NET&lt;/A>) what I should get. He recommended &lt;A href="http://www.revjon.com/ftb/">the FreeTextBox ASP.NET control&lt;/A> and this thing rocks! The Word/FrontPage keystrokes work the way I want them to. The Styles and Fonts and Colors are all provided for in an Office 2003-like toolbar. There's a spell-checker (that installs on the fly, no less!), raw HTML editing, a table editor and a function that cleans up Word-produced HTML better than FrontPage! Plus it only took me about 30 minutes to get the thing going from a standing start and that included moving a form to use post-back so that I could enable runat=server. The only things I haven't figured out how to make it do are disable some of the toolbar items, allow tab to take me out of the editor to other controls on my form and set the target on a link, but still, not bad for 30 minutes. : )&lt;/P>
+&lt;P>&lt;STRONG>&lt;EM>Highly Recommended.&lt;/EM>&lt;/STRONG>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/986</id>
+    <title>Avalon Dissected: A 3-Part Series by Drew Marsh</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>Here. Drew's documenting what he discovers as he digs into Avalon. </summary>
+    <content type="html">&lt;h1>Avalon Dissected: A 3-Part Series by Drew Marsh&lt;/h1>
+&lt;a href="http://weblogs.asp.net/dmarsh/posts/40513.aspx">Here&lt;/a>. &lt;P>Drew's documenting what he discovers as he digs into Avalon.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/981</id>
+    <title>Indigo and Star Trek</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>Here. I've always been a big fan of wacky analogies to illustrate points and Steve's got a good one.</summary>
+    <content type="html">&lt;h1>Indigo and Star Trek&lt;/h1>
+&lt;a href="http://hyperthink.net/blog/PermaLink.aspx?guid=5c0cc029-b15f-4a1a-9b06-086f81a727a2">Here&lt;/a>. I've always been a big fan of wacky analogies to illustrate points and Steve's got a good one.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/982</id>
+    <title>test</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>&amp;lt;this&amp;gt; is a test &amp;lt;/this&amp;gt; </summary>
+    <content type="html">&lt;h1>test&lt;/h1>
+&amp;lt;this&amp;gt;&lt;U>is &lt;/U>&lt;EM>a &lt;/EM>&lt;STRONG>test &lt;/STRONG>&lt;FONT color=#ff0000>&amp;lt;/this&amp;gt;&lt;/FONT></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/985</id>
+    <title>It's Official -- Office is an Operating System</title>
+    <updated>2003-12-02T08:00:00.000Z</updated>
+    <published>2003-12-02T08:00:00.000Z</published>
+    <summary>When you can write nearly perfect versions of PacMan and Space Invaders in your favorite productivity application, you know it's crossed the boundary. Of course, treating cells like pixels and implementing the game by changing the background colors probably wasn't what the Excel developers had in mind, but frankly, that's not much different than what the guys writing the original games had to deal with. Wow.</summary>
+    <content type="html">&lt;h1>It's Official -- Office is an Operating System&lt;/h1>
+When you can write &lt;A href="http://www.geocities.jp/nchikada/pac/">nearly perfect versions of PacMan and Space Invaders&lt;/A> in your favorite productivity application, you know it's crossed the boundary. Of course, treating cells like pixels and implementing the game by changing the background colors probably wasn't what the Excel developers had in mind, but frankly, that's not much different than what the guys writing the original games had to deal with. Wow.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/980</id>
+    <title>New Longhorn Site for Academics</title>
+    <updated>2003-12-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-01T08:00:00.000Z</published>
+    <summary>Here. "There are many sites on the web related to Longhorn already, but none that are geared towards academia. In fact, the most common sites like LonghornBlogs.com are made up largely of Microsoft employees. We think that an independent site where users can share their knowledge but also opinion will go a long way towards making Longhorn a better product for everyone!" LonghornBlogs.com is for anyone, but a site for academics interested in Longhorn is a good thing, too. Welcome!</summary>
+    <content type="html">&lt;h1>New Longhorn Site for Academics&lt;/h1>
+&lt;a href="http://www.academiclonghorn.com/">Here&lt;/a>. "There are many sites on the web related to Longhorn already, but none that are geared towards academia. In fact, the most common sites like LonghornBlogs.com are made up largely of Microsoft employees. We think that an independent site where users can share their knowledge but also opinion will go a long way towards making Longhorn a better product for everyone!"
+
+LonghornBlogs.com is for anyone, but a site for academics interested in Longhorn is a good thing, too. Welcome!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/979</id>
+    <title>Another Great Set of WinForms Controls</title>
+    <updated>2003-11-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-30T08:00:00.000Z</published>
+    <summary>Here. Duncan [1] points out Tim Dawson's set of WinForms controls, all of which are either free or cheap for commercial apps. Not only are the controls well-designed and flexible, they're also documented with a set of tutorials and provide an extensive design-time experience. I don't know how someone can make a living giving this stuff away, but that doesn't mean we can't enjoy Tim's generosity. [1] http://weblogs.asp.net/duncanma/posts/40415.aspx</summary>
+    <content type="html">&lt;h1>Another Great Set of WinForms Controls&lt;/h1>
+&lt;a href="http://www.divil.co.uk/net/controls/">Here&lt;/a>. Duncan [1] points out Tim Dawson's set of WinForms controls, all of which are either free or cheap for commercial apps. Not only are the controls well-designed and flexible, they're also documented with a set of tutorials and provide an extensive design-time experience. I don't know how someone can make a living giving this stuff away, but that doesn't mean we can't enjoy Tim's generosity.
+
+[1] http://weblogs.asp.net/duncanma/posts/40415.aspx</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/977</id>
+    <title>Interesting Ex-Microsoftie Blogs on Longhorn</title>
+    <updated>2003-11-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-30T08:00:00.000Z</published>
+    <summary>Here. I read a post yesterday that pointed at Wesner Moise, an ex-Microsoftie, and now I'm hooked. I'm enjoying how he applies his technical riguor to Longhorn. I also want to know about SoftPerson, his software company that "develops desktop applications based on AI." Subscribed.</summary>
+    <content type="html">&lt;h1>Interesting Ex-Microsoftie Blogs on Longhorn&lt;/h1>
+&lt;a href="http://wesnerm.blogs.com">Here&lt;/a>. I read a post yesterday that pointed at Wesner Moise, an ex-Microsoftie, and now I'm hooked. I'm enjoying how he applies his technical riguor to Longhorn. I also want to know about SoftPerson, his software company that "develops desktop applications based on AI." Subscribed.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12512</id>
+    <title>Learning to Learn, Part II</title>
+    <updated>2003-11-30T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-30T08:00:00.000Z</published>
+    <summary>Tony R. Kuphaldt, an instructor at Bellingham Technical College in Washington recently emailed me that my Learning to Learn piece spoke to him and pointed me to his web site where he provides a wonderful look at his own experiences in self-teaching. In this paper, Tony describes his insights, starting with an amazing look into my own previous field of employ: &amp;quot;Industry training, at least in its popular form, is roughly based on the model of a fire hydrant: sit in front of it, open the valve, and take a...</summary>
+    <content type="html">&lt;h1>Learning to Learn, Part II&lt;/h1>
+&lt;p>
+Tony R. Kuphaldt, an instructor at Bellingham Technical College in Washington 
+recently emailed me that &lt;a href="#Learning_to_Learn">my Learning to Learn piece&lt;/a> 
+spoke to him and pointed me to &lt;a href="http://www.ibiblio.org/obp/books/socratic/">
+his web site&lt;/a> where he provides &lt;a href="http://www.ibiblio.org/obp/books/socratic/doc/lett0045.pdf">
+a wonderful look at his own experiences in self-teaching&lt;/a>. In this paper, 
+Tony describes his insights, starting with an amazing look into my own previous 
+field of employ:&lt;br>&lt;blockquote>&amp;quot;Industry training, at least in its popular 
+	form, is roughly based on the model of a fire hydrant: sit in front of it, 
+	open the valve, and take a big drink. Due to time limitations, trainers 
+	present information at a rapid pace, with participants retaining only a 
+	fraction of what they see and hear. What knowledge they do gain seldom 
+	passes on to co-workers after the training session, and is forgotten almost 
+	as rapidly as it is presented, necessitating continual re-training. ... 
+	[Students] often leave with the impression of the instructor being something 
+	of a genius for being able to present so much information so quickly, and 
+	instilling within their own minds a sense of inferiority for not grasping 
+	all of it at the delivered pace.&amp;quot;&lt;br>&lt;/blockquote>Further, Tony describes 
+the technique I use to really learn something:&lt;br>&lt;blockquote>&amp;quot;What did I do to 
+	learn? Simple: I would challenge my existing knowledge of a subject by 
+	trying to apply it to real-world conditions and/or thought experiments. If I 
+	didn't know enough about a topic to successfully apply it to a realistic 
+	problem, I would research and study until I did. If ever I was completely 
+	baffled by a problem, I could determine my own conceptual weaknesses by 
+	incrementally simplifying the problem until I could solve it. Whatever 
+	complexity I eliminated from the problem that enabled me to solve it was 
+	where my understanding was weak.  Once I knew what I didn't know, I not 
+	only knew where to focus my study efforts, but I also felt more motivated to 
+	study because I could perceive my own needs.&amp;quot;&lt;br>&lt;/blockquote>Tony 
+characterizes his (and my) self-teaching technique as an internal feedback loop, 
+where the student knows what he doesn't know. This is as opposed to an external 
+feedback loop in an instructional setting, where the instructor knows what the 
+student doesn't know, but the feedback loop is broken between the student and 
+the instructor.&lt;/p>&lt;p>And as if that weren't enough, Tony takes his goals on the 
+road, as it were, testing a self-teaching-based curriculum on his students and 
+reporting on his results. I find his work especially interesting not because I 
+feel the need to teach the world to teach themselves; I'm perfectly happy to 
+encourage folks to learn to learn, but to have them choose other techniques. 
+However, I do feel very strongly that the Sells brothers learn to learn. I can't 
+imagine sending them out into the world without a firm grasp of the ability to 
+teach themselves. I don't know how to do that, though, unless I start home 
+schooling them. That wouldn't be out of the question except for this unhealthy 
+addiction I have to a steady income stream...&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/978</id>
+    <title>Learning to Learn, Part II</title>
+    <updated>2003-11-30T08:00:00.000Z</updated>
+    <published>2003-11-30T08:00:00.000Z</published>
+    <summary>Here. The one where I find a kindred spirit on the topic of learning to learn who's looked into it way more deeply than I have.</summary>
+    <content type="html">&lt;h1>Learning to Learn, Part II&lt;/h1>
+&lt;a href="/12512">Here&lt;/a>. The one where I find a kindred spirit on the topic of learning to learn who's looked into it way more deeply than I have.</content>
+  </entry>
+</feed>

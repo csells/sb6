@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed162.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed161.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed163.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed162.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/144</id>
+    <title>.NET Compact Framework Reference Site</title>
+    <updated>2002-07-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-19T07:00:00.000Z</published>
+    <summary>Here. "The.NET CF Resource Site is a joint venture between Developmentor and JW Hedgehog, Inc. We've been working fevereshly to bring things online. We are very proud of our Compact Framework Reference Page, which is the most complete reference of.NET CF supported classes and methods we know of."</summary>
+    <content type="html">&lt;h1>.NET Compact Framework Reference Site&lt;/h1>
+&lt;a href="http://www.dotnetcf.com">Here&lt;/a>. "The .NET CF Resource Site is a joint venture between Developmentor and JW Hedgehog, Inc. We've been working fevereshly to bring things online. We are very proud of our Compact Framework Reference Page, which is the most complete reference of .NET CF supported classes and methods we know of."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/143</id>
+    <title>nogoop ActiveX/COM Inspector</title>
+    <updated>2002-07-18T07:00:00.000Z</updated>
+    <published>2002-07-18T07:00:00.000Z</published>
+    <summary>Here. From Francis Upton: Explore any ActiveX/COM object with the nogoop ActiveX/COM Inspector.
+Make Automation programming easier by viewing or modifying properties,
+and invoking methods on these ActiveX/COM objects. The Inspector
+includes a graphical control design surface, a complete type library
+browser, and can register and unregister type libraries. It
+automatically converts type libraries/controls to.NET assemblies, and
+allows you to browse and access.NET objects (it includes the complete
+capabilitie...</summary>
+    <content type="html">&lt;h1>nogoop ActiveX/COM Inspector&lt;/h1>
+&lt;a href="http://www.nogoop.com">Here&lt;/a>. From Francis Upton: Explore any ActiveX/COM object with the nogoop ActiveX/COM Inspector.
+Make Automation programming easier by viewing or modifying properties,
+and invoking methods on these ActiveX/COM objects.  The Inspector
+includes a graphical control design surface, a complete type library
+browser, and can register and unregister type libraries.  It
+automatically converts type libraries/controls to .NET assemblies, and
+allows you to browse and access .NET objects (it includes the complete
+capabilities of the .NET Component Inspector).  Requires the .NET
+Framework runtime (CLR).
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/141</id>
+    <title>Microsoft improving .Net Framework</title>
+    <updated>2002-07-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-16T07:00:00.000Z</published>
+    <summary>Here. "MICROSOFT IN THE late-2003 timeframe plans to release the next version of the.Net Framework, code-named Whidbey, a company spokesman confirmed on Monday. The major release of the company's Web development framework is expected to feature rapid application design for Web services, based on work from the company's Global XML Web Services Architecture toolkit team, according to a Microsoft spokesman." [DOTNET-CLR]</summary>
+    <content type="html">&lt;h1>Microsoft improving .Net Framework&lt;/h1>
+&lt;a href="http://www.infoworld.com/articles/hn/xml/02/07/15/020715hnwhidbey.xml">Here&lt;/a>. "MICROSOFT IN THE late-2003 timeframe plans to release the next version of the .Net Framework, code-named Whidbey, a company spokesman confirmed on Monday. The major release of the company's Web development framework is expected to feature rapid application design for Web services, based on work from the company's Global XML Web Services Architecture toolkit team, according to a Microsoft spokesman."
+
+[DOTNET-CLR]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/140</id>
+    <title>Microsoft Maps Out Next .Net Framework</title>
+    <updated>2002-07-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-16T07:00:00.000Z</published>
+    <summary>Here. "Microsoft Corp. is mapping out the next major version of its.Net Framework, with features designed to make it easier for enterprise developers to deploy.Net applications and Web services." [DOTNET-WINFORMS]</summary>
+    <content type="html">&lt;h1>Microsoft Maps Out Next .Net Framework&lt;/h1>
+&lt;a href="http://www.eweek.com/article2/0,3959,373783,00.asp">Here&lt;/a>. "Microsoft Corp. is mapping out the next major version of its .Net Framework, with features designed to make it easier for enterprise developers to deploy .Net applications and Web services."
+
+[DOTNET-WINFORMS]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/142</id>
+    <title>DirectSkin Draws Raves From Developers</title>
+    <updated>2002-07-16T07:00:00.000Z</updated>
+    <published>2002-07-16T07:00:00.000Z</published>
+    <summary>Here. From Larry Kuperman: In recent weeks, several new applications have been released that use WindowBlinds technology to create an attractive user interface. Several developers have praised DirectSkin, the development tool from Stardock that lets developers skin their applications GUI.</summary>
+    <content type="html">&lt;h1>DirectSkin Draws Raves From Developers&lt;/h1>
+&lt;a href="http://www.stardock.com/products/directskin/media.html">Here&lt;/a>. From Larry Kuperman: In recent weeks, several new applications have been released that use WindowBlinds technology to create an attractive user interface.
+
+Several developers have praised DirectSkin, the development tool from Stardock that lets developers skin their applications GUI.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/139</id>
+    <title>New XML Web Services Developer Center</title>
+    <updated>2002-07-13T07:00:00.000Z</updated>
+    <published>2002-07-13T07:00:00.000Z</published>
+    <summary>Here. My friend Tim Ewald reorganizes the Web Services portion of the MSDN web site and my friends Don Box and Martin Gudgin contribute new material. Highly recommended (both the articles *and* the friends : ).</summary>
+    <content type="html">&lt;h1>New XML Web Services Developer Center&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/webservices/">Here&lt;/a>. My friend Tim Ewald reorganizes the Web Services portion of the MSDN web site and my friends Don Box and Martin Gudgin contribute new material. Highly recommended (both the articles *and* the friends : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/136</id>
+    <title>Happy Birthday, Mono!</title>
+    <updated>2002-07-12T07:00:00.000Z</updated>
+    <published>2002-07-12T07:00:00.000Z</published>
+    <summary>Here. "In a year, we have achieved plenty: -94 contributors with CVS access (84 non-Ximian developers). -A complete CLI implementation: -A fast and performing x86 JIT engine (inlining, constant propagation). -An interpreter for other systems (PPC, Sparc, StrongArm). -A self-hosting C# compiler, which can compile its class libraries. -37,140 file changes in CVS. -92,000 lines of C code. -437,000 lines of C# code (compiler, classes, tests) -A working core for ASP.NET and ADO.NET. -Major subsystems are functio...</summary>
+    <content type="html">&lt;h1>Happy Birthday, Mono!&lt;/h1>
+&lt;a href="http://www.go-mono.com/#Jul9th,2002">Here&lt;/a>. "In a year, we have achieved plenty: 
+-94 contributors with CVS access (84 non-Ximian developers). 
+-A complete CLI implementation: 
+-A fast and performing x86 JIT engine (inlining, constant propagation). 
+-An interpreter for other systems (PPC, Sparc, StrongArm). 
+-A self-hosting C# compiler, which can compile its class libraries. 
+-37,140 file changes in CVS. 
+-92,000 lines of C code. 
+-437,000 lines of C# code (compiler, classes, tests) 
+-A working core for ASP.NET and ADO.NET. 
+-Major subsystems are functional: RegularExpressions, System.XML, XML.Schema, System.Data, System.Web. 
+-The Gtk# project, which is maturing rapidly."
+
+[www.go-mono.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/137</id>
+    <title>blogChalking</title>
+    <updated>2002-07-12T07:00:00.000Z</updated>
+    <published>2002-07-12T07:00:00.000Z</published>
+    <summary>Here. Google! DayPop! This is my blogchalk: English, United States, Beaverton, Deer Park, Chris, Male, 31-35! [www.razorsoft.net/weblog]</summary>
+    <content type="html">&lt;h1>blogChalking&lt;/h1>
+&lt;a href="http://www.blogchalking.tk/">Here&lt;/a>. Google! DayPop! This is my blogchalk: English, United States, Beaverton, Deer Park, Chris, Male, 31-35!
+
+[www.razorsoft.net/weblog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/134</id>
+    <title>Microsoft Delivers Updated SOAP Toolkit</title>
+    <updated>2002-07-12T07:00:00.000Z</updated>
+    <published>2002-07-12T07:00:00.000Z</published>
+    <summary>Here. "Microsoft Wednesday released a new version of its Simple Object Access Protocol (SOAP) toolkit, an add-on that helps developers build Web services using its Visual Studio development tool. Microsoft's SOAP toolkit 3.0 includes support for DIME (Direct Internet Message Encapsulation) and WS-Attachments, both of which define how to package binary data up with SOAP messages." [www.activewin.com]</summary>
+    <content type="html">&lt;h1>Microsoft Delivers Updated SOAP Toolkit&lt;/h1>
+&lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=74&amp;ncid=74&amp;e=6&amp;u=/cmp/20020710/tc_cmp/inw20020710s0004">Here&lt;/a>. "Microsoft Wednesday released a new version of its Simple Object Access Protocol (SOAP) toolkit, an add-on that helps developers build Web services using its Visual Studio development tool. Microsoft's SOAP toolkit 3.0 includes support for DIME (Direct Internet Message Encapsulation) and WS-Attachments, both of which define how to package binary data up with SOAP messages."
+
+[www.activewin.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/138</id>
+    <title>Enterprise VSIP Licenses For Free</title>
+    <updated>2002-07-12T07:00:00.000Z</updated>
+    <published>2002-07-12T07:00:00.000Z</published>
+    <summary>Here. "The Visual Studio.NET Integration software development kit is available free of charge through Summit Software for enterprise customers with a Select Licensing or Enterprise Licensing Agreement. More information can be found by visiting http://msdn.microsoft.com/vstudio/partners/." [www.razorsoft.net/weblog]</summary>
+    <content type="html">&lt;h1>Enterprise VSIP Licenses For Free&lt;/h1>
+&lt;a href="http://www.microsoft.com/presspass/Press/2002/Jul02/07-10ArchitectureCenterPR.asp">Here&lt;/a>. "The Visual Studio .NET Integration software development kit is available free of charge through Summit Software for enterprise customers with a Select Licensing or Enterprise Licensing Agreement. More information can be found by visiting http://msdn.microsoft.com/vstudio/partners/."
+
+[www.razorsoft.net/weblog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/135</id>
+    <title>Microsoft Readying 'Avalon' Framework for Longhorn</title>
+    <updated>2002-07-12T07:00:00.000Z</updated>
+    <published>2002-07-12T07:00:00.000Z</published>
+    <summary>Here. "Avalon is the key to the new 'inductive' user interface that will debut in Longhorn, sources say. The new UI will allow users to organize and share information more intuitively, most likely using some kind of 'dock,' a la Microsoft Office XP, sources say." [www.activewin.com]</summary>
+    <content type="html">&lt;h1>Microsoft Readying 'Avalon' Framework for Longhorn&lt;/h1>
+&lt;a href="http://www.eweek.com/article2/0%2C3959%2C368868%2C00.asp">Here&lt;/a>. "Avalon is the key to the new 'inductive' user interface that will debut in Longhorn, sources say. The new UI will allow users to organize and share information more intuitively, most likely using some kind of 'dock,' a la Microsoft Office XP, sources say."
+
+[www.activewin.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12360</id>
+    <title>The Last Advertising Frontier</title>
+    <updated>2002-07-11T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/craig_dm.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-07-11T07:00:00.000Z</published>
+    <summary>My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each &amp;quot;hit,&amp;quot; Craig started spending a lot of time in bars and other seedy areas around town. Craig Andera [candera@ALUM.MIT.EDU ] Thu 7/11/2002 7:53 AM internal mailing list </summary>
+    <content type="html">&lt;h1>The Last Advertising Frontier&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/craig_dm.JPG" width="478" height="424">&lt;/p>&lt;p>My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each &amp;quot;hit,&amp;quot; Craig started spending a lot of time in bars and other seedy areas around town.&lt;/p>&lt;p>&lt;i>Craig Andera &lt;a href="mailto:[candera@ALUM.MIT.EDU">[candera@ALUM.MIT.EDU&lt;/a>]&lt;br>Thu &lt;span class="created">7/11/2002 7:53 AM&lt;/span>&lt;br>internal mailing list&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/133</id>
+    <title>The Last Advertising Frontier</title>
+    <updated>2002-07-11T07:00:00.000Z</updated>
+    <published>2002-07-11T07:00:00.000Z</published>
+    <summary>Here. My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each "hit," Craig started spending a lot of time in bars and other seedy areas around town.</summary>
+    <content type="html">&lt;h1>The Last Advertising Frontier&lt;/h1>
+&lt;a href="/12360">Here&lt;/a>. My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each "hit," Craig started spending a lot of time in bars and other seedy areas around town.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/132</id>
+    <title>Don Box's RSS Feed</title>
+    <updated>2002-07-10T07:00:00.000Z</updated>
+    <published>2002-07-10T07:00:00.000Z</published>
+    <summary>Here. 'nuf said</summary>
+    <content type="html">&lt;h1>Don Box's RSS Feed&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/rss.aspx">Here&lt;/a>. 'nuf said</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/130</id>
+    <title>Dynamic Forms for .NET</title>
+    <updated>2002-07-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-09T07:00:00.000Z</published>
+    <summary>Here. "This is a process that creates forms dynamically. The form description is held in an XML file, you pass the name of the file as a parameter to the process."</summary>
+    <content type="html">&lt;h1>Dynamic Forms for .NET&lt;/h1>
+&lt;a href="http://www.grimes.demon.co.uk/DynamicForms.zip">Here&lt;/a>. "This is a process that creates forms dynamically. The form description is held in an XML file, you pass the name of the file as a parameter to the process."</content>
+  </entry>
+</feed>

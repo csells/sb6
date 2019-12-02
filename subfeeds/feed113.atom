@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed113.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed112.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed114.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed113.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/819</id>
+    <title>Be Interviewed by Sys-Con Radio @ the PDC</title>
+    <updated>2003-09-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-15T07:00:00.000Z</published>
+    <summary>Here. Got something to say about Longhorn or.NET at the PDC in October? Sign up to be interviewed with the likes of Ken Getz, Jonathan Zuck, Scott Hanselman and Ingo Rammer.</summary>
+    <content type="html">&lt;h1>Be Interviewed by Sys-Con Radio @ the PDC&lt;/h1>
+&lt;a href="http://www.sys-con.com/dotnet/radio2003/schedule.cfm">Here&lt;/a>. Got something to say about Longhorn or .NET at the PDC in October? Sign up to be interviewed with the likes of Ken Getz, Jonathan Zuck, Scott Hanselman and Ingo Rammer.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/818</id>
+    <title>Longhorn Rocks!</title>
+    <updated>2003-09-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-15T07:00:00.000Z</published>
+    <summary>Here. Just testing...</summary>
+    <content type="html">&lt;h1>Longhorn Rocks!&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. Just testing...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/817</id>
+    <title>That's just freaky!</title>
+    <updated>2003-09-14T07:00:00.000Z</updated>
+    <published>2003-09-14T07:00:00.000Z</published>
+    <summary>Here. "aoccdrnig to a rscheearch at an Elingsh uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are..." [blogs.gotdotnet.com/EricGu]</summary>
+    <content type="html">&lt;h1>That's just freaky!&lt;/h1>
+&lt;a href="http://weblogs.asp.net/rosherove/posts/27471.aspx">Here&lt;/a>. "aoccdrnig to a rscheearch at an Elingsh uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are..."
+
+[blogs.gotdotnet.com/EricGu]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/816</id>
+    <title>FoxTrot pays homage to Tim Ewald's new blog</title>
+    <updated>2003-09-14T07:00:00.000Z</updated>
+    <published>2003-09-14T07:00:00.000Z</published>
+    <summary>Here. I mean, what *else* could Bill Amend *possibly* be referring to?!?</summary>
+    <content type="html">&lt;h1>FoxTrot pays homage to Tim Ewald's new blog&lt;/h1>
+&lt;a href="http://www.ucomics.com/foxtrot/2003/09/14/">Here&lt;/a>. I mean, what *else* could Bill Amend *possibly* be referring to?!?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12522</id>
+    <title>Google is Scary Smart, or Just Scary...</title>
+    <updated>2003-09-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-13T07:00:00.000Z</published>
+    <summary>Saturday, September 13, 2003 When I was a kid, the source of universal knowledge at home was the set of dusty encyclopedias that my Mom inherited from somewhere. Today, it's the Internet, via Google. That in itself makes Google the fulfillment of most sci-fi novels' description of the the-store-of-all-human knowledge (I wish the text of all books were up, but that'll happen in time...). Anyway, it didn't hit me just how comprehensive Google was 'til I typed in '&amp;quot;Joe Grammer&amp;quot; wife' yesterday (I was...</summary>
+    <content type="html">&lt;h1>Google is Scary Smart, or Just Scary...&lt;/h1>
+&lt;p>&lt;i>Saturday, &lt;span class="created">September 13, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>When I was a kid, the source of universal knowledge at home was 
+the set of dusty encyclopedias that my Mom inherited from somewhere. Today, it's 
+the Internet, via Google. That in itself makes Google the fulfillment of most 
+sci-fi novels' description of the the-store-of-all-human knowledge (I wish the 
+text of all books were up, but that'll happen in time...).&lt;br>&lt;br>Anyway, it 
+didn't hit me just how comprehensive Google was 'til I typed in '&amp;quot;Joe Grammer&amp;quot; 
+wife' yesterday (I was calling and wanted to be prepared to address his very 
+nice wife by name in case she answered the phone). In 0.39 seconds, Google gave 
+45 results, the 3rd of which contained Joe's wife's name! It was Joe himself 
+who'd mentioned his wife's name in a mailing list post but still, that's pretty 
+damn scary...&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/815</id>
+    <title>Google is Scary Smart, or Just Scary...</title>
+    <updated>2003-09-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-13T07:00:00.000Z</published>
+    <summary>Here. The one where Google is enormously useful and enormously scary at the same time.</summary>
+    <content type="html">&lt;h1>Google is Scary Smart, or Just Scary...&lt;/h1>
+&lt;a href="/12522">Here&lt;/a>. The one where Google is enormously useful and enormously scary at the same time.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/812</id>
+    <title>Hard Core Messaging with WSE 2.0, Pt. 2</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. Keith Ballinger from the Applied XML Developer's Conference, part 2.</summary>
+    <content type="html">&lt;h1>Hard Core Messaging with WSE 2.0, Pt. 2&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030912WebServicesKB/manifest.xml">Here&lt;/a>. Keith Ballinger from the Applied XML Developer's Conference, part 2.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/810</id>
+    <title>Respect for Marketing</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. The one where I take a look at all of the things that the typical marketing guys has to balance and thank goodness I just get to think about developers. : )</summary>
+    <content type="html">&lt;h1>Respect for Marketing&lt;/h1>
+&lt;a href="/12523">Here&lt;/a>. The one where I take a look at all of the things that the typical marketing guys has to balance and thank goodness I just get to think about developers. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/811</id>
+    <title>PDC2003 Blogging Site</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. Speaking at the PDC? Going to the PDC? Missing out on the PDC? Check out the PDC Bloggers site, which should keep you neck deep in news (but if you're not there, you're still missing a massive love fest... : ).</summary>
+    <content type="html">&lt;h1>PDC2003 Blogging Site&lt;/h1>
+&lt;a href="http://www.pdcbloggers.net">Here&lt;/a>. Speaking at the PDC? Going to the PDC? Missing out on the PDC? Check out the PDC Bloggers site, which should keep you neck deep in news (but if you're not there, you're still missing a massive love fest... : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/809</id>
+    <title>Why is the taskbar at the bottom of the screen?</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. Raymond explains why the taskbar defaults to the bottom of the screen (because old apps would position themselves under it a lot when it was on top). Since I defected from the Mac, I always move mine to the top and like it, but did have problems for *years* about apps moving up under there. For those few that still do, I've long since memorized the key sequence: Alt, Space, M, which flips a window into "Move Mode" and lets me use the arrows to move it down. I can understand why MS didn't want to teach...</summary>
+    <content type="html">&lt;h1>Why is the taskbar at the bottom of the screen?&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/raymondc/permalink.aspx/f3c5ba8a-1cfe-4c4c-83aa-f005d0d3524b">Here&lt;/a>. Raymond explains why the taskbar defaults to the bottom of the screen (because old apps would position themselves under it a lot when it was on top). Since I defected from the Mac, I always move mine to the top and like it, but did have problems for *years* about apps moving up under there.
+
+For those few that still do, I've long since memorized the key sequence: Alt, Space, M, which flips a window into "Move Mode" and lets me use the arrows to move it down. I can understand why MS didn't want to teach everyone that and instead just put the taskbar at the bottom. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/814</id>
+    <title>Where do you want to go today, fritter?</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. Hilarious PDC03 Red vs. Blue video!</summary>
+    <content type="html">&lt;h1>Where do you want to go today, fritter?&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/redvsblue">Here&lt;/a>. Hilarious PDC03 Red vs. Blue video!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12523</id>
+    <title>Respect for Marketing</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Even in my short time at Microsoft so far, I've have already learned a *ton* from marketing. Of course, I'm working with lots of marketing folks as we get closer to the PDC. Because of my role, I have to worry about what's good for the developer. Marketing guys, on the other hand, have to balance that with what's good for the administrator, what's good for the user, what's good for the company, what's good for the shareholders and what's good for a bunch of other folks I don't even know about. And, they hav...</summary>
+    <content type="html">&lt;h1>Respect for Marketing&lt;/h1>
+&lt;p>Even in 
+my short time at Microsoft so far, I've have already learned a *ton* from 
+marketing. Of course, I'm working with lots of marketing folks as we get closer 
+to the PDC. Because of my role, I have to worry about what's good for the 
+developer. Marketing guys, on the other hand, have to balance that with what's 
+good for the administrator, what's good for the user, what's good for the 
+company, what's good for the shareholders and what's good for a bunch of other 
+folks I don't even know about. And, they have to do it for all of the streams of 
+information coming out of the company, which now includes lots of informal 
+streams like newsgroups, message boards, user group talks and blogs. Anyone that 
+can balance all of these folks and still get developers what they need has my 
+unabashed respect.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/813</id>
+    <title>"Move over Petzold, Sells is here."</title>
+    <updated>2003-09-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-12T07:00:00.000Z</published>
+    <summary>Here. I'm sure it won't last, but the WinForms book has broken 1000 (908) and has an average 5-star rating with three reviews, saying very nice things like: "This book rocks!... All chapters are brilliant." "The localisation and resource usage in the managed world are clearly described and you won't lose hours trying to access resources in your code anymore!" "I stayed up all last night reading Chris' new book... I enjoyed every single page." And, of course, the quote that makes my life complete: "Move over...</summary>
+    <content type="html">&lt;h1>"Move over Petzold, Sells is here."&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/chrissells">Here&lt;/a>. I'm sure it won't last, but the WinForms book has broken 1000 (908) and has an average 5-star rating with three reviews, saying very nice things like:
+
+"This book rocks! ... All chapters are brilliant."
+
+"The localisation and resource usage in the managed world are clearly described and you won't lose hours trying to access resources in your code anymore!"
+
+"I stayed up all last night reading Chris' new book... I enjoyed every single page."
+
+And, of course, the quote that makes my life complete:
+
+"Move over Petzold, Sells is here."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12524</id>
+    <title>Let us pause on 9/11...</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>My 8-year old was proud to remind me that today was the two-year anniversary of 9/11. I was surprised that he knew and grateful to his school for taking the time to discuss it. He then went on to tell me how cool he thought the explosions were, which left me less pleased with his school. When I told him about my own experiences that day and how many people died, it immediately took all of the &amp;quot;coolness&amp;quot; right out of the day for him. George Bullock, a colleague at MS who's birthday happens to fall ...</summary>
+    <content type="html">&lt;h1>Let us pause on 9/11...&lt;/h1>
+&lt;p>My 
+8-year old was proud to remind me that today was the two-year anniversary of 
+9/11. I was surprised that he knew and grateful to his school for taking the 
+time to discuss it. He then went on to tell me how cool he thought the 
+explosions were, which left me less pleased with his school. When I told him 
+about my own experiences that day and how many people died, it immediately took 
+all of the &amp;quot;coolness&amp;quot; right out of the day for him.&lt;br>&lt;br>George Bullock, a 
+colleague at MS who's birthday happens to fall on 9/11, has also had the 
+&amp;quot;coolness&amp;quot; taken out of the day for him and sent around a mail that starts this 
+way:&lt;br>&lt;blockquote>&amp;quot;Let us pause on 9/11 to remember and honor the thousands 
+	killed, maimed, put out of work, and traumatized two years ago; also to 
+	honor the heroic, living and dead, who rose to the occasion on that terrible 
+	day. May God rest their souls and keep and protect their loved ones. May God 
+	also keep and protect our men and women serving here and abroad. Yes, there 
+	is much difference of opinion about what's happening in the world today; 
+	nevertheless, I think we all support the men and women of our armed forces 
+	and wish them a safe return home. They sacrifice a lot to serve their 
+	country.&amp;quot;&lt;/blockquote>&lt;p>Personally, I try very hard not to let the 
+terrorists get to me. Unfortunately, they have. Even time I get the anal probe 
+treatment at the airport or a personal freedom is taken away by the Patriot Act 
+or my sister-in-law is afraid to fly (and flat out refuses to fly on that day), 
+they win. More subtly, ever time a US politician uses &amp;quot;terrorism&amp;quot; to push their 
+own agenda, they also win. Please don't let them win. Have courage. Try to 
+understand what it was that drove them to terrorism to attract our attention. 
+Compare their lives to ours. But don't let them win. Don't let them take the 
+right to the pursuit of happiness out of our lives.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/805</id>
+    <title>Redmond man slams spammers for $250,000</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. It's great the a certain company in the Pacific Northwest has empowered technically savvy folks with the thousands of dollars needed to pursue these cases. Hopefully a few wins will cause ambulance chasers to smell blood in the water and start taking these cases in groups. Do spammers make enough money to activate lawyers against them?</summary>
+    <content type="html">&lt;h1>Redmond man slams spammers for $250,000&lt;/h1>
+&lt;a href="http://seattlepi.nwsource.com/business/139055_spamsuit11.html">Here&lt;/a>. It's great the a certain company in the Pacific Northwest has empowered technically savvy folks with the thousands of dollars needed to pursue these cases. Hopefully a few wins will cause ambulance chasers to smell blood in the water and start taking these cases in groups. Do spammers make enough money to activate lawyers against them?</content>
+  </entry>
+</feed>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed8.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed7.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed9.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed8.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2309</id>
+    <title>From "Oslo" to SQL Server Modeling</title>
+    <updated>2009-11-10T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-10T08:00:00.000Z</published>
+    <summary>Extra! Extra! Read all about it! Doug Purdy, my boss and one of the chiefs on the "Oslo" project has just announced the move from codename "Oslo" to SQL Server Modeling, which is the name we'll be using for starting now for the group of "M", "Quadrant" and Repository that you've come to know and love. Tune in on November 17th, the first day of the PDC, for the new unified Data Developer Center, which will include all manner of data technologies, including XML, DataReader, DataSet, LINQ to SQL, Data Services...</summary>
+    <content type="html">&lt;h1>From "Oslo" to SQL Server Modeling&lt;/h1>
+&lt;P>Extra! Extra! Read all about it!&lt;/P>
+&lt;P>Doug Purdy, my boss and one of the chiefs on the "Oslo" project has just announced &lt;A href="http://www.douglaspurdy.com/2009/11/10/from-oslo-to-sql-server-modeling/">the move from codename "Oslo" to SQL Server Modeling&lt;/A>, which is the name we'll be using for starting now for the group of "M", "Quadrant" and Repository that you've come to know and love.&lt;/P>
+&lt;P>Tune in on November 17th, the first day of the PDC, for &lt;A href="http://msdn.com/data">the new unified Data Developer Center&lt;/A>, which will include all manner of data technologies, including XML, DataReader, DataSet, LINQ to SQL, Data Services (aka "Astoria") and Entity Framework. One stop shopping!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2308</id>
+    <title>Chris Sells on .NET Rocks! talking about data</title>
+    <updated>2009-11-07T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-07T08:00:00.000Z</published>
+    <summary>I was on.NET Rocks! recently talking to Richard and Carl about data in Visual Studio (object-oriented, XML and relational), what tools Microsoft is already providing for managing your SQL Server schema and data migration and&amp;nbsp;where "Oslo" ("M", "Quadrant" and the Repository)&amp;nbsp;fits into the overall picture. It was fun and I think it turned out well. Enjoy.</summary>
+    <content type="html">&lt;h1>Chris Sells on .NET Rocks! talking about data&lt;/h1>
+I was on &lt;A href="http://www.dotnetrocks.com/default.aspx?ShowNum=494">.NET Rocks! recently talking to Richard and Carl about data&lt;/A> in Visual Studio (object-oriented, XML and relational), what tools Microsoft is already providing for managing your SQL Server schema and data migration and&amp;nbsp;where "Oslo" ("M", "Quadrant" and the Repository)&amp;nbsp;fits into the overall picture. It was fun and I think it turned out well. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2307</id>
+    <title>Questionnaire DSL with Microsoft "Oslo"</title>
+    <updated>2009-11-02T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-02T08:00:00.000Z</published>
+    <summary>Gerben van Loon, a lead developer at Avanade, has put together a nice overview of a DSL they've been building for describing questionnaires in "M", seeing how they flow in Quadrant and then executing them on their web site. Sweet stuff!</summary>
+    <content type="html">&lt;h1>Questionnaire DSL with Microsoft "Oslo"&lt;/h1>
+Gerben van Loon, a lead developer at Avanade, has put together &lt;A href="http://bloggingabout.net/blogs/gerben/archive/2009/10/30/questionnaire-dsl-with-microsoft-quot-oslo-quot-overview.aspx">a nice overview of a DSL they've been building for describing questionnaires in "M", seeing how they flow in Quadrant and then executing them on their web site&lt;/A>. Sweet stuff!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2306</id>
+    <title>Sweet State Machine DSL in "M"</title>
+    <updated>2009-10-30T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-10-30T07:00:00.000Z</published>
+    <summary>Kevin D. Wolf has built a sweet little language to describe state machines : The States of a Invoice are New, Reviewed, Submitted, Paid, Overdue and Canceled. An Invoice can transition from New to Reviewed and Canceled. An Invoice can transition from Reviewed to Submitted and Canceled. An Invoice can transition from Submitted to Paid, Overdue and Canceled. An Invoice can transition from Overdue to Paid and Canceled. He built this with a language definition in "M". What could be simpler? </summary>
+    <content type="html">&lt;h1>Sweet State Machine DSL in "M"&lt;/h1>
+&lt;P>&lt;A href="http://new.efficientcoder.net/">Kevin D. Wolf&lt;/A> has built &lt;A href="http://new.efficientcoder.net/2009/10/oslo-state-machine-editor-in.html">a sweet little language to describe state machines&lt;/A>:&lt;/P>
+&lt;P>&lt;EM>The States of a Invoice are New, Reviewed, Submitted, Paid, Overdue and Canceled.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>An Invoice can transition from New to Reviewed and Canceled.&lt;BR>An Invoice can transition from Reviewed to Submitted and Canceled.&lt;BR>An Invoice can transition from Submitted to Paid, Overdue and Canceled.&lt;BR>An Invoice can transition from Overdue to Paid and Canceled.&lt;/EM>&lt;/P>
+&lt;P>He built this with a language definition in "M". What could be simpler?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2305</id>
+    <title>"Oslo" at the 2009 PDC</title>
+    <updated>2009-10-28T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-10-28T07:00:00.000Z</published>
+    <summary>Lars Corneliussen, my friend and "Oslo" consigliere, has posted a nice update on what he's guessing "Oslo" might or might not be: Updates on what Oslo is and Quadrant not is (September 2009). The fact that he has to guess points to just how early we are in the development cycle. For our latest thoughts, I recommend the PDC 2009, where you should attend all of the following talks: Data Programming and Modeling for the Microsoft.NET Developer, Don Box, Chris Anderson Evolving ADO.NET Entity Framework in.NET 4...</summary>
+    <content type="html">&lt;h1>"Oslo" at the 2009 PDC&lt;/h1>
+&lt;P>Lars Corneliussen, my friend and "Oslo" consigliere, has posted a nice update on what he's guessing "Oslo" might or might not be: &lt;A href="http://startbigthinksmall.wordpress.com/2009/08/19/updates-on-what-oslo-is-and-quadrant-not-is-september-2009/">Updates on what Oslo is and Quadrant not is (September 2009)&lt;/A>. The fact that he has to guess points to just how early we are in the development cycle. For our latest thoughts, I recommend &lt;A href="http://microsoftpdc.com">the PDC 2009&lt;/A>, where you should attend all of the following talks:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/P09-04">Data Programming and Modeling for the Microsoft .NET Developer&lt;/A>, Don Box, Chris Anderson&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/FT10">Evolving ADO.NET Entity Framework in .NET 4 and Beyond&lt;/A>, Shyam Pather, Chris Anderson&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/FT12">ADO.NET Data Services: What&amp;#8217;s new with the RESTful data services framework&lt;/A>, Pablo Castro&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/FT50">Building Data-Driven Applications Using Microsoft Project Code Name "Quadrant" and Microsoft Project Code Name "M"&lt;/A>, Douglas Purdy, Chris Sells&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/FT34">Microsoft Project Code Name &amp;#8220;M&amp;#8221;: The Data and Modeling Language&lt;/A>, Jeff Pinkston, Don Box&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/SVR19">Microsoft Project Code Name &amp;#8220;Repository&amp;#8221;: Using Metadata to Drive Application Design, Development, and Management&lt;/A>, Shoshanna Budzianowski, James Baker&lt;/LI>
+&lt;LI>&lt;A href="http://microsoftpdc.com/Sessions/SVC28">The 'M'-Based System.Identity Model for Accessing Directory Services&lt;/A>, Gert Drapers, Kim Cameron&lt;/LI>&lt;/UL>
+&lt;P>Personally, I'm very much looking forward to this PDC. I get to give what I'm sure is the talk with the longest title, but even better, I get to see friends, old and new, and I love listening to good talks on technologies I just don't have the time to dive into any other time.&lt;/P>
+&lt;P>If you're going to PDC and you'd like to chat, &lt;A href="mailto:csells@microsoft.com?subject=Meet me at the PDC!">drop me a line&lt;/A> and we can set up some time. See you there!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2304</id>
+    <title>The New Microsoft Store Looks Cool</title>
+    <updated>2009-10-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-10-22T07:00:00.000Z</published>
+    <summary>And the folks in Scottsdale, AZ lined up overnight to be there when it opened and get their copies of Windows 7 (which goes on sale today and, if I may say so, rocks).</summary>
+    <content type="html">&lt;h1>The New Microsoft Store Looks Cool&lt;/h1>
+And &lt;A href="http://www.engadget.com/2009/10/22/microsoft-store-opens-to-scottsdale-campers-video/">the folks in Scottsdale, AZ lined up overnight to be there when it opened&lt;/A> and get their copies of &lt;A href="http://www.microsoft.com/windows/windows-7/default.aspx">Windows 7&lt;/A> (which goes on sale today and, if I may say so, rocks).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2303</id>
+    <title>"M" Language Type Definitions for 280 Popular (and not so popular) Data Models</title>
+    <updated>2009-10-11T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-10-11T07:00:00.000Z</published>
+    <summary>Holy "M" types, Batman! Somebody's been busy building M type definitions for tons of existing data models, including ATOM, AWK, BPEL, C/C++/C#/Java, COBOL, HTML, LaTeX, Make and the list goes on and on. I don't know how they did it -- it's an amazing task! Now that they've got some free time back, maybe they'll build M language definitions to parse the file formats. I'm just sayin'... : )</summary>
+    <content type="html">&lt;h1>"M" Language Type Definitions for 280 Popular (and not so popular) Data Models&lt;/h1>
+Holy "M" types, Batman! Somebody's been busy building M type definitions for tons of existing data models, including ATOM, AWK, BPEL, C/C++/C#/Java, COBOL, HTML, LaTeX, Make and &lt;A href="http://www.emn.fr/z-info/atlanmod/index.php/MsOsloM">the list goes on and on&lt;/A>. I don't know how they did it -- it's an amazing task! Now that they've got some free time back, maybe they'll build M language definitions to parse the file formats. I'm just sayin'... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2302</id>
+    <title>NHibernate DSL Built Using "Oslo"</title>
+    <updated>2009-09-24T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-09-24T07:00:00.000Z</published>
+    <summary>Felice has built a domain specific language (DSL) for defining NHibernate entities using "Oslo", including both a command-line compiler and a very full-featured Intellipad add-in. Nice!</summary>
+    <content type="html">&lt;h1>NHibernate DSL Built Using "Oslo"&lt;/h1>
+Felice has built &lt;A href="http://nhmodeller.selfip.com/">a domain specific language (DSL) for defining NHibernate entities using "Oslo"&lt;/A>, including both a command-line compiler and a very full-featured Intellipad add-in. Nice!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2301</id>
+    <title>Put Intellipad-like language editing features into your applications</title>
+    <updated>2009-09-18T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-09-18T07:00:00.000Z</published>
+    <summary>Bill Henning from Actipro Software has done it again, this time providing the components to drop real-time language creation features into your application for building custom grammars in the critically acclaimed SyntaxEditor control. Enjoy!</summary>
+    <content type="html">&lt;h1>Put Intellipad-like language editing features into your applications&lt;/h1>
+Bill Henning from Actipro Software has done it again, this time providing the components to drop real-time language creation features into your application for building custom grammars in &lt;A href="http://blog.actiprosoftware.com/post/2009/08/25/SyntaxEditor-for-WPFe28099s-MGrammar-add-on-adds-AST-construction-and-error-reporting-features.aspx">the critically acclaimed SyntaxEditor control&lt;/A>. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2300</id>
+    <title>The Downside of Transparency</title>
+    <updated>2009-09-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-09-15T07:00:00.000Z</published>
+    <summary>Ever since Chris Anderson built his blogging software and shared it with his colleagues, more and more Microsoft employees has been pushing hard on being as transparent to our customers as we can be. This has been a very much grass roots effort. I remember coming into Microsoft six years ago just when legal was busy giving everyone disclaimers to put on their personal blogs and telling us what we could and could not say. It was always a worry whether the next blog post would get you fired. I got in trouble ...</summary>
+    <content type="html">&lt;h1>The Downside of Transparency&lt;/h1>
+&lt;IMG align=right src="http://threeminds.organic.com/transparency.jpg"> 
+&lt;P>Ever since &lt;A href="http://simplegeek.com/">Chris Anderson&lt;/A> built his blogging software and shared it with his colleagues, more and more Microsoft employees has been pushing hard on being as transparent to our customers as we can be. This has been a very much grass roots effort. I remember coming into Microsoft six years ago just when legal was busy giving everyone disclaimers to put on their personal blogs and telling us what we could and could not say. It was always a worry whether the next blog post would get you fired. I got in trouble personally several times, but the brave pioneers before me laid the groundwork for people like me to comment on the internals of Microsoft culture, for Robert Scoble to call Steve Balmer out onto the carpet several times and for Rory Blyth to talk about penises, all on the Microsoft dime. Now blogging is just an accepted way to do things. It's not even questioned anymore; it's expected.&lt;/P>
+&lt;P>And by and large, this transparency is good for reasons that are obvious these days -- when our customers see how the sausage is made and have a say in the ingredients, they're happier eating it with their breakfasts.&lt;/P>
+&lt;P>As with all good things, however, these is a downside. For example, the product I've been working on for 4.5 years has gone through many transformations. This has to do with how new software is designed at Microsoft.&lt;/P>
+&lt;P>The tag line when we're hiring folks is always, "Don't you want to change the world?!" Of course, everyone does and that's good, because people coming in the door want to take big risks and do big things. If you're trying for the next Office or Windows, that's the kind of thinking you need. However, what that means is that we have a lot of folks building 1.0 software. We do this in my division with an organizational structure called an "incubation."&lt;/P>
+&lt;P>My product was in incubation mode for years and we started with zero assumptions. My first day on the job, I was asked to "think about synchronization." What did that mean? What problem was I trying to solve? Does replication count as synchronization? Does data import? I struggled with this for months before I got my head around the process of noodling with a technology enough to understand what problems there were in the space and how that fit with our general idea of what we might want to build into a product.&lt;/P>
+&lt;P>We tried a huge amount of stuff, often rebuilding shipping technologies to which we had ready source code access just so we could get a feel for how it worked (I personally built multiple data synchronization engines, a WPF-compatible XAML parser, a data binding engine and a set of universal data viewers&amp;nbsp;during that period, all of which were thrown away, as expected).&lt;/P>
+&lt;P>As we got further along, we started producing things that needed to be published, even if they weren't a core part of our product anymore (like &lt;A href="http://www.codeplex.com/MEF">MEF&lt;/A>&amp;nbsp;and &lt;A href="http://wpftutorial.net/XAML2009.html">some new features in XAML 4.0&lt;/A>). Once this started happening, we started to feel like we had a handle on what we were doing to move into "startup" mode, where we formed a team to make productization plans. At this point, we started telling folks what we thought we had, including analysts and "insider" customers, getting their feedback. Based on this feedback, we re-jiggered the product and the story and did it again. And again.&lt;/P>
+&lt;P>Eventually, we move out of startup mode to become a real product team with dev, test, PM and UA splits (up 'til then everyone does everything or, as we liked to say, "everyone shovels"). Eventually in this mode, you publish some set of bits that are your best guess at the time of what we think we're eventually going to ship. In our case, it was the October 2008&amp;nbsp;"Oslo" SDK CTP, guaranteed only to take up space on your hard drive. At the time, we'd been telling the "Oslo" story for more than a year and it had evolved a great deal. Since we published that initial CTP, we've published a few more, along with &lt;A href="http://msdn.com/oslo/">an entire web site filled with articles, videos, specifications, samples, etc&lt;/A>.&lt;/P>
+&lt;P>I mean, we did it big. We were part of the keynote at the 2008 PDC and we had lots of folks on our team that are very visible in the community, including Don Box, Chris Anderson and Doug Purdy. These are the heavy hitters, so when they said something, folks listened.&lt;/P>
+&lt;P>And we definitely got a lot of community involvement -- way more than we expected, in fact. With that involvement, we got a ton of feedback, which is the benefit to us of releasing early and often. We take that feedback and we make changes to our product -- sometimes big changes. In this particular case, we were building on all kinds of SQL Server-related technologies, so because of pressure to build the absolute best thing we possibly could for our customers, &lt;A href="http://www.douglaspurdy.com/2009/08/17/on-oslo/">we actually merged the division that owned "Oslo" (and WF, AD, WCF, BizTalk, etc) with the SQL Server division&lt;/A>.&lt;/P>
+&lt;P>Of course, those are the kinds of changes that our customers don't see. What they see is that things are changing and that they're not quite sure what our plans are. That's one big downside:&lt;/P>
+&lt;P>&lt;EM>&lt;STRONG>When you share early information, sometimes it's half-baked, it often changes and is almost always confusing.&lt;/STRONG>&lt;/EM>&lt;/P>
+&lt;P>As an example, &lt;A href="http://codebetter.com/blogs/jeremy.miller/archive/2009/09/09/sorry-but-i-just-don-t-get-oslo.aspx">Jeremy Miller recently had this to say about "Oslo"&lt;/A> and our communication about it's purpose in life. Believe it or not, this is helpful feedback and it's my team's responsibility to understand what exactly is holding folks up and get it fixed in the way we tell the story and in the product itself.&lt;/P>
+&lt;P>Another part of my team's responsibility, of course, is communicating what it is the product does so that folks can understand it and give us feedback. That means that the first people that know how confusing a product is are the folks writing the documentation and tutorials, building the videos and producing the samples. And believe me, we act as customers on the team as well, logging bugs and making complaints and bugging the developers and PMs directly, hoping to fix everything before customers even see it. Of course, we can't do that all the time (or even most of the time), so often:&lt;/P>
+&lt;P>&lt;EM>&lt;STRONG>We produce materials that tell the story in the very best way we know how with the current set of bits.&lt;/STRONG>&lt;/EM>&lt;/P>
+&lt;P>&lt;A href="http://www.kraigbrockschmidt.com/luminarity/post/2009/09/08/What-Exactly-Does-One-Do-With-e2809cOsloe2809d.aspx">Kraig's recent "Oslo" blog post&lt;/A> is an example of this. This is an important part of the process, too, actually. We, as Microsoft employees, can complain to the folks producing the software&amp;nbsp;'til we're blue in the face, but often real changes aren't made 'til real customers complain. As a consequence of this:&lt;/P>
+&lt;P>&lt;EM>&lt;STRONG>We take the slings and arrows of our customers and thank them for taking the time to shoot us.&lt;/STRONG>&lt;/EM>&lt;/P>
+&lt;P>This one can really hurt, actually. I'm a professional, but I take it personally when I say something that doesn't resonate with my audience (at a recent conference, I threw away an entire completed slide deck and started over only days before the deadline so I could tell a better story) and the audience takes it personally when I show them something that they don't understand.&lt;/P>
+&lt;P>In fact, everyone in marketing, DPE, UA and every part of the team that interacts with customers directly or via the software we're producing, including the devs and test engineers, all take it personally. We care deeply about building products that delight and empower our customers, which is why we push so hard on transparency from the bottom -- the sooner we hear your complaints, no matter how confusing we might be, the better able we are to build something you love.&lt;/P>
+&lt;P>I'll tell you though, if we could build something you'd love without giving you an early look, we might want to do that because:&lt;/P>
+&lt;P>&lt;EM>&lt;STRONG>When a customer is confused or disappointed by an early look at a product, they might not want to look at it again for a really long time, if at all.&lt;/STRONG>&lt;/EM>&lt;/P>
+&lt;P>Early looks are a double-edged sword. We want the early feedback to make our product better, but if you don't come to look at it again, you'll never know we made it better.&lt;/P>
+&lt;P>Still, transparency is absolutely worth the downsides. Keeps those cards and letters comin'! : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2299</id>
+    <title>Kraig Brockschmidt blogging on "Oslo"</title>
+    <updated>2009-09-08T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-09-08T07:00:00.000Z</published>
+    <summary>Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) " Inside OLE," has been a part of the "Oslo" community team for a while and is now blogging in the way that only he can. He's building some samples as he explores the feet on the ground experience and you should check it out. Enjoy!</summary>
+    <content type="html">&lt;h1>Kraig Brockschmidt blogging on "Oslo"&lt;/h1>
+Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) "&lt;A href="http://www.amazon.com/Inside-Microsoft-Programming-Kraig-Brockschmidt/dp/1556158432/">Inside OLE&lt;/A>," has been a part of the "Oslo" community team for a while and is now &lt;A href="http://www.kraigbrockschmidt.com/luminarity/">blogging in the way that only he can&lt;/A>. He's building some samples as he explores the feet on the ground experience and you should check it out. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2298</id>
+    <title>Add "Search the Internet" Back to the Win7 Start Menu</title>
+    <updated>2009-09-03T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2009-09-03T07:00:00.000Z</published>
+    <summary>Windows 7 took away a feature I use all the time, as shown on the right: Search the Internet. Here's what I did all day, every day in Windows Vista: Ctrl+Esc to bring up the Start menu, then I start typing. If I'm searching on my HD, I immediately get matches and I can choose one with just the arrows and the Enter key. If I'm typing in the name of a program in the Start menu, I get those matches and choose one. If I want "calc" or "notepad" I can just type those and those work. However, 80% of the time, I w...</summary>
+    <content type="html">&lt;h1>Add "Search the Internet" Back to the Win7 Start Menu&lt;/h1>
+&lt;IMG align=right src="/public/spout/searchtheinternet.jpg"> 
+&lt;P>Windows 7 took away a feature I use all the time, as shown on the right: Search the Internet.&lt;/P>
+&lt;P>Here's what I did all day, every day in Windows Vista: Ctrl+Esc to bring up the Start menu, then I start typing. If I'm searching on my HD, I immediately get matches and I can choose one with just the arrows and the Enter key. If I'm typing in the name of a program in the Start menu, I get those matches and choose one. If I want "calc" or "notepad" I can just type those and those work.&lt;/P>
+&lt;P>However, 80% of the time, I want to search the internet, so enter my search term, optionally including attributes like "site:", I press, down-arrow once, highlight "Search the Internet" and press Enter. This brings up my default browser with my search results in my default search engine without me having to move the mouse or open the browser and wait for the home page or even decide where I want the search results to come from until after I've entered my search phrase.&lt;/P>
+&lt;P>And we took it out of Windows 7. : (&lt;/P>
+&lt;P align=left>But, Shawn VanNess has shown me how to put it back! : )&lt;/P>
+&lt;P align=left>Download &lt;a href="/public/tools/AddSearchInternetLinkInStartMenu.zip">this zip file&lt;/A>, execute the .reg file, press Yes and OK a bunch, kill and restart the explorer.exe process and the next time you do the Ctrl+Esc+type+something dance, you'll see your old friend "Search the Internet" right back on the Start menu where Bill intended it to be. Thanks, Shawn!&lt;/P>
+&lt;p>Update: This post has been translated to &lt;a href="http://www.autoteiledirekt.de/science/tilfoj-sog-pa-internettet-tilbage-til-menuen-win7-start">Danish&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2297</id>
+    <title>Amanda Laucher on Using Oslo for DSLs</title>
+    <updated>2009-09-02T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-09-02T07:00:00.000Z</published>
+    <summary>Amanda Laucher talks about Oslo and its tools, Intellipad, m.exe and mg.exe&amp;nbsp;- the "M" compilers - and how they can be used to create a DSL. She demonstrates the creation of a demo DSL in Oslo, and she does it in a very approachable way. [ed: Quadrant is available with the May CTP.]</summary>
+    <content type="html">&lt;h1>Amanda Laucher on Using Oslo for DSLs&lt;/h1>
+&lt;A href="http://www.infoq.com/presentations/Creating-DSLs-in-Oslo-Amanda-Laucher">Amanda Laucher talks about Oslo and its tools&lt;/A>, Intellipad, m.exe and mg.exe&amp;nbsp;- the "M" compilers - and how they can be used to create a DSL. She demonstrates the creation of a demo DSL in Oslo, and she does it in a very approachable way. [ed: Quadrant is available with &lt;a href="http://go.microsoft.com/?linkid=9648442">the May CTP&lt;/a>.]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2296</id>
+    <title>SQL Script to Uninstall an "M" Image</title>
+    <updated>2009-07-24T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-24T07:00:00.000Z</published>
+    <summary>"In the May CTP bits, we started working on parts of uninstall support for schema created by an image, but didn&amp;#8217;t expose it as a user-visible feature as we will in future CTPs. So if you want to get your hands on this functionality right now, give this SQL script a try. This creates a stored procedure creatively named 'Uninstall,' which takes one argument, the id of the image to uninstall which can be obtained from the [Language.Catalog.Runtime].[Images] table." </summary>
+    <content type="html">&lt;h1>SQL Script to Uninstall an "M" Image&lt;/h1>
+&lt;P>"In the May CTP bits, we started working on parts of uninstall support for schema created by an image, but didn&amp;#8217;t expose it as a user-visible feature as we will in future CTPs. So if you want to get your hands on this functionality right now, &lt;A href="http://blogs.msdn.com/modelcitizen/archive/2009/07/23/sql-script-to-uninstall-an-m-image.aspx">give this SQL script a try&lt;/A>. This creates a stored procedure creatively named 'Uninstall,' which takes one argument, the id of the image to uninstall which can be obtained from the [Language.Catalog.Runtime].[Images] table."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2293</id>
+    <title>Use the "Oslo" Repository to Store Service Config</title>
+    <updated>2009-07-10T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-10T07:00:00.000Z</published>
+    <summary>Mikael H&amp;#229;kansson has built a WCF ServiceHostFactory to load service configurations from the "Oslo" Repository, which allows you to configure your services with "Quadrant". And he does it even though the Service.ServiceModel type that has been removed from the May CTP ( Keith Short talks about why ). Check it out!</summary>
+    <content type="html">&lt;h1>Use the "Oslo" Repository to Store Service Config&lt;/h1>
+Mikael H&amp;#229;kansson has built &lt;A href="http://blogical.se/blogs/mikael/archive/2009/07/07/how-to-use-the-oslo-repository-to-store-your-service-configuration.aspx">a WCF ServiceHostFactory to load service configurations from the "Oslo" Repository&lt;/A>, which allows you to configure your services with "Quadrant". And he does it even though the Service.ServiceModel type that has been removed from the May CTP (&lt;A href="http://blogs.msdn.com/keith_short/archive/2009/07/09/what-happened-to-the-service-model.aspx">Keith Short talks about why&lt;/A>). Check it out!</content>
+  </entry>
+</feed>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed142.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed141.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed143.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed142.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/436</id>
+    <title>The Human Side of Microsoft</title>
+    <updated>2003-02-12T08:00:00.000Z</updated>
+    <published>2003-02-12T08:00:00.000Z</published>
+    <summary>My attempt to get a recording of an interview at Microsoft was a failure, but my attempt to show their human side was still a success.</summary>
+    <content type="html">&lt;h1>The Human Side of Microsoft&lt;/h1>
+My attempt to get a recording of an interview at Microsoft was a failure, but my attempt to &lt;a href="/12394">show their human side&lt;/a> was still a success.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/437</id>
+    <title>eXtensible C# Provides Compile-Time Attributes</title>
+    <updated>2003-02-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-12T08:00:00.000Z</published>
+    <summary>Here. eXtensible C# provides a set of compile-time attributes to do things like inject code (like to check for a null value), analyze code at compile-time and even obfuscate. Very cool.</summary>
+    <content type="html">&lt;h1>eXtensible C# Provides Compile-Time Attributes&lt;/h1>
+&lt;a href="http://www.resolvecorp.com/products.htm">Here&lt;/a>. eXtensible C# provides a set of compile-time attributes to do things like inject code (like to check for a null value), analyze code at compile-time and even obfuscate. Very cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/438</id>
+    <title>TaskVision: Web Deployed WinForms Sample</title>
+    <updated>2003-02-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-12T08:00:00.000Z</published>
+    <summary>Here. TaskVision is a full-featured WinForms sample that supports auto-updating over the web and online and offline functionality, as well as some other cool.NET stuff. It includes most of the source for the client and the server as well as a lengthly write-up on just what makes it cool. Worth checking out as an alternative to href-exes (TaskVision requires one install and auto-updates after that).</summary>
+    <content type="html">&lt;h1>TaskVision: Web Deployed WinForms Sample&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/wnf_taskvision.asp">Here&lt;/a>. TaskVision is a full-featured WinForms sample that supports auto-updating over the web and online and offline functionality, as well as some other cool .NET stuff. It includes most of the source for the client and the server as well as a lengthly write-up on just what makes it cool.
+
+Worth checking out as an alternative to href-exes (TaskVision requires one install and auto-updates after that).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/435</id>
+    <title>Optimizeit</title>
+    <updated>2003-02-12T08:00:00.000Z</updated>
+    <published>2003-02-12T08:00:00.000Z</published>
+    <summary>Here. From jt: Pofiler from Borland for the Microsoft.NET Framework.</summary>
+    <content type="html">&lt;h1>Optimizeit&lt;/h1>
+&lt;a href="http://www.borland.com/opt_profiler/">Here&lt;/a>. From jt: Pofiler from Borland for the Microsoft .NET Framework.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/434</id>
+    <title>.Net Microsoft patent</title>
+    <updated>2003-02-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-11T08:00:00.000Z</published>
+    <summary>Here. From Sorin J: This may be yesterday's news, anyway, Microsoft has applied for a patent covering many.net related technologies.</summary>
+    <content type="html">&lt;h1>.Net Microsoft patent&lt;/h1>
+&lt;a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=/netahtml/PTO/srchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1='20030028685'.PGNR.&amp;OS=DN/20030028685&amp;RS=DN/20030028685">Here&lt;/a>. From Sorin J: This may be yesterday's news, anyway, Microsoft has applied for a patent covering many .net related technologies.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/432</id>
+    <title>Kill Long URLs!</title>
+    <updated>2003-02-11T08:00:00.000Z</updated>
+    <published>2003-02-11T08:00:00.000Z</published>
+    <summary>From Steven Livingstone: Playing around with some.Net so I figured this app would be useful to some of you folk who write HUGE url's in emails (yeah, like me). There's also some online encryption and digital signing at http://sightkeys.com/encrypt and http://sightkeys.com/encrypt/sign.aspx Gimme a shout if you like or dislike or have anything to say. Cheers,
+Steven
+http://deltabis.com</summary>
+    <content type="html">&lt;h1>Kill Long URLs!&lt;/h1>
+From Steven Livingstone: Playing around with some .Net so I figured this app would be useful to some of you folk who write HUGE url's in emails (yeah, like me). 
+
+There's also some online encryption and digital signing at http://sightkeys.com/encrypt and http://sightkeys.com/encrypt/sign.aspx
+
+Gimme a shout if you like or dislike or have anything to say.
+
+Cheers,
+Steven
+http://deltabis.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/431</id>
+    <title>Windows Forms Smart Client Sample</title>
+    <updated>2003-02-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-11T08:00:00.000Z</published>
+    <summary>Here. From David: A new microsoft sample that demonstrates the following:
+Application offline and online model Application update model via HTTP (no-touch deployment) Authorization to control user access to application features Data collision handling Printing and Print Preview Windows XP Themes Dynamic properties Localization support Accessibility support (limited) Forms authentication using a database for user names/passwords Asynchronous XML Web service class ADO.NET data access using SQL stored procedur...</summary>
+    <content type="html">&lt;h1>Windows Forms Smart Client Sample&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/wnf_taskvision.asp">Here&lt;/a>. From David: A new microsoft sample that demonstrates the following:
+Application offline and online model 
+Application update model via HTTP (no-touch deployment) 
+Authorization to control user access to application features 
+Data collision handling 
+Printing and Print Preview 
+Windows XP Themes 
+Dynamic properties 
+Localization support 
+Accessibility support (limited) 
+Forms authentication using a database for user names/passwords 
+Asynchronous XML Web service class 
+ADO.NET data access using SQL stored procedures 
+Graphics development using GDI+ 
+Integration between .NET Framework-based code and COM applications (COM interop) 
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/429</id>
+    <title>Rapid Development with TierDeveloper 2.0</title>
+    <updated>2003-02-10T08:00:00.000Z</updated>
+    <published>2003-02-10T08:00:00.000Z</published>
+    <summary>Here. From Zahid Iqbal: TierDeveloper is an object to relational mapping and code generation tool that lets you map middle-tier objects to your database tables, embed powerful SQL in them, and generate fully-working.NET (C# and VB.NET), Java and EJB components. It also generates a fully-functional ASP.NET and JSP application to let you test generated components, and design documents in HTML to cut down your learning curve.</summary>
+    <content type="html">&lt;h1>Rapid Development with TierDeveloper 2.0&lt;/h1>
+&lt;a href="http://www.alachisoft.com/overview.htm">Here&lt;/a>. From Zahid Iqbal: TierDeveloper is an object to relational mapping and code generation tool that lets you map middle-tier objects to your database tables, embed powerful SQL in them, and generate fully-working .NET (C# and VB.NET), Java and EJB components. It also generates a fully-functional ASP.NET and JSP application to let you test generated components, and design documents in HTML to cut down your learning curve.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/430</id>
+    <title>"chris sells is feeling a little burned out"</title>
+    <updated>2003-02-10T08:00:00.000Z</updated>
+    <published>2003-02-10T08:00:00.000Z</published>
+    <summary>Here. My Googlism don't cut me no slack... Come on, I just finished the book! I'm allowed to be a little burned out. : )</summary>
+    <content type="html">&lt;h1>"chris sells is feeling a little burned out"&lt;/h1>
+&lt;a href="http://www.googlism.com/index.htm?ism=chris+sells&amp;type=1">Here&lt;/a>. My Googlism don't cut me no slack... Come on, I just finished the book! I'm allowed to be a little burned out. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/428</id>
+    <title>Even Sun Can't Use Java</title>
+    <updated>2003-02-09T08:00:00.000Z</updated>
+    <published>2003-02-09T08:00:00.000Z</published>
+    <summary>From Chad Brockman: All I can say is 'wow' http://www.internalmemos.com/memos/memodetails.php?memo_id=1321 http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&amp;tid=108
+</summary>
+    <content type="html">&lt;h1>Even Sun Can't Use Java&lt;/h1>
+From Chad Brockman: All I can say is 'wow'
+
+http://www.internalmemos.com/memos/memodetails.php?memo_id=1321
+
+http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&amp;tid=108
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/427</id>
+    <title>SideWinder Screenshots</title>
+    <updated>2003-02-08T08:00:00.000Z</updated>
+    <published>2003-02-08T08:00:00.000Z</published>
+    <summary>Here. From jt: Development environment from Borland for building applications on the.NET Framework.</summary>
+    <content type="html">&lt;h1>SideWinder Screenshots&lt;/h1>
+&lt;a href="http://www.drbob42.net/SideWinder/">Here&lt;/a>. From jt: Development environment from Borland for building applications on the .NET Framework.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/425</id>
+    <title>Saving Your Career</title>
+    <updated>2003-02-07T08:00:00.000Z</updated>
+    <published>2003-02-07T08:00:00.000Z</published>
+    <summary>Here. A built-in Outlook XP feature to bring back those emails you wish you hadn't sent out 2 seconds after you sent them.</summary>
+    <content type="html">&lt;h1>Saving Your Career&lt;/h1>
+&lt;a href="/12561">Here&lt;/a>. A built-in Outlook XP feature to bring back those emails you wish you hadn't sent out 2 seconds after you sent them.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/426</id>
+    <title>Running Multiple Versions of .NET Side-by-Side</title>
+    <updated>2003-02-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-07T08:00:00.000Z</published>
+    <summary>Here. A nice summary of what's going on when you attempt to run two versions of.NET side-by-side.</summary>
+    <content type="html">&lt;h1>Running Multiple Versions of .NET Side-by-Side&lt;/h1>
+&lt;a href="http://www.3leaf.com/default/articles/ea/SBS.aspx">Here&lt;/a>. A nice summary of what's going on when you attempt to run two versions of .NET side-by-side.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12561</id>
+    <title>Saving Your Career</title>
+    <updated>2003-02-07T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-02-07T08:00:00.000Z</published>
+    <summary>Friday, Feb 7, 2003 In response to Never Send An Email In Anger, Lars Bergstrom recommended that I set up a rule that defers sending an email for 1 minute. I set it for 2 minutes under Outlook XP like so: Tools-&amp;gt;Rules Wizard New Start From A Blank Rule Check messages after sending Which condition(s) do you want to check? -&amp;gt; None This rule will be applied to every message you send. Is this correct? -&amp;gt; Yes What do you want to do with this message? -&amp;gt; defer delivery by a number of minutes a number ...</summary>
+    <content type="html">&lt;h1>Saving Your Career&lt;/h1>
+&lt;p>&lt;i>
+&lt;span class="created">Friday, Feb 7, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>In response to &lt;a href="/12574">Never 
+Send An Email In Anger&lt;/a>, Lars Bergstrom recommended that I set up a rule that 
+defers sending an email for 1 minute. I set it for 2 minutes under Outlook XP 
+like so:&lt;/p>&lt;ul>&lt;li>Tools-&amp;gt;Rules Wizard&lt;/li>&lt;li>New&lt;/li>&lt;li>Start From A Blank 
+	Rule&lt;/li>&lt;li>Check messages after sending&lt;/li>&lt;li>Which condition(s) do you 
+	want to check? -&amp;gt; None&lt;/li>&lt;li>This rule will be applied to every message 
+	you send. Is this correct? -&amp;gt; Yes&lt;/li>&lt;li>What do you want to do with this 
+	message? -&amp;gt; defer delivery by a number of minutes&lt;/li>&lt;li>a number of 
+	minutes -&amp;gt; 2&lt;/li>&lt;li>Finish&lt;/li>&lt;/ul>&lt;p>And it works like a charm. It's 
+always w/in the first second that I wish I could recall a message, so two 
+minutes should be more than enough. Wahoo!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/424</id>
+    <title>.Net Framework XML Namespaces and Classes</title>
+    <updated>2003-02-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-06T08:00:00.000Z</published>
+    <summary>Here. From Matthew Lewis: First of a series outlining the core namespaces and classes that cohesively implement the standards based XML processors in the Microsoft.NET Framework. This session will discuss each class in detail.</summary>
+    <content type="html">&lt;h1>.Net Framework XML Namespaces and Classes&lt;/h1>
+&lt;a href="http://www.only4gurus.com/download.asp?ID=879">Here&lt;/a>. From Matthew Lewis: First of a series outlining the core namespaces and classes that cohesively implement the standards based XML processors in the Microsoft .NET Framework. 
+This session will discuss each class in detail.</content>
+  </entry>
+</feed>

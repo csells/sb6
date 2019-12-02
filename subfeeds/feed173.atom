@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed173.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed172.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed174.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed173.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12372</id>
+    <title>Bill's Money</title>
+    <updated>2001-10-07T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-10-07T07:00:00.000Z</published>
+    <summary>In a recent interview with Barbara Walters, Bill Gates was asked how he felt about Ted Turner's one billion dollar donation to the United Nation. This is what he had to say: &amp;#147;Certainly, my giving will be in the same league as Ted&amp;#146;s, and beyond. &amp;#133; During my lifetime, you know, the money will be given away.&amp;#148; He further went on to say: &amp;#147;I don&amp;#146;t believe in passing on major wealth to (one&amp;#146;s) children, and therefore everything that I&amp;#146;m earning is going toward the causes tha...</summary>
+    <content type="html">&lt;h1>Bill's Money&lt;/h1>
+        &lt;p>
+            &lt;a href="http://www.abcnews.com/sections/scitech/gates2020_0130/">In a recent 
+                interview with Barbara Walters&lt;/a>, Bill Gates was asked how he felt about 
+            Ted Turner's one billion dollar donation to the United Nation. This is what he 
+            had to say:&lt;/p>
+        &lt;blockquote>
+            &lt;p>
+                &amp;#147;Certainly, my giving will be in the same league as Ted&amp;#146;s, and 
+                beyond. &amp;#133; During my lifetime, you know, the money will be given 
+                away.&amp;#148;
+            &lt;/p>
+        &lt;/blockquote>
+        &lt;p>
+            He further went on to say:&lt;/p>
+        &lt;blockquote>
+            &lt;p>
+                &amp;#147;I don&amp;#146;t believe in passing on major wealth to (one&amp;#146;s) children, 
+                and therefore everything that I&amp;#146;m earning is going toward the causes that 
+                I think can help out.&amp;#148;
+            &lt;/p>
+        &lt;/blockquote>
+        &lt;p>
+            So far, Bill has given several hundred million dollars to libraries to provide 
+            lower income children with access to PCs and the Internet. Do you have an idea 
+            for a charity worthy of Bill's Money? Post your comments here and I'll keep track of them for Bill. When he's 
+            ready, he'll know where to come.
+        &lt;/p>
+
+		&lt;p>
+            P.S. Just so you know, Bill has never once supported anything from this 
+			page and as far as I know, he has no idea this page even exists. 
+			Don't get your hopes up.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12600</id>
+    <title>Flattery</title>
+    <updated>2001-09-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-09-17T07:00:00.000Z</published>
+    <summary>September 17th, 2001 Is it imitation or nudity that's the sincerest form of flattery? Either way, it looks like Robert Scoble is naked outside where the neighbors could see (unlike mine, which was inside and very private : ). </summary>
+    <content type="html">&lt;h1>Flattery&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">September 17th, 2001&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            Is it imitation or nudity that's the sincerest form of flattery? Either way, it 
+            looks like &lt;a href="http://scobleizer.manilasites.com/discuss/msgReader$337">
+                Robert Scoble is naked outside&lt;/a> where the neighbors could see (unlike &lt;A href="/public/fun/centerfold/">
+                mine&lt;/A>, which was inside and very private : ).
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12430</id>
+    <title>CorPub</title>
+    <updated>2001-09-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-09-13T07:00:00.000Z</published>
+    <summary>Oct 10, 2001 I've updated CorPub to show *all* managed AppDomains by initializing the COR debugging sub-system prior to enumerating them. Thanks to Atif Aziz for the tip. September 13, 2001 I built the CorPub utility when my friend Jason pointed me at the.NET corpub.idl interfaces (his exact words were "ICorPublishProcess rocks!"). CorPub lists the managed processes on the current machine and the AppDomains in each process, as follows: Managed process 0xa54: D:\project\mine\RegexPlorer\bin\Debug\RegexPlorer...</summary>
+    <content type="html">&lt;h1>CorPub&lt;/h1>
+&lt;P>
+        &lt;EM>Oct 10, 2001&lt;/EM>
+    &lt;/P>
+    &lt;P>
+        I've updated CorPub to show *all* managed AppDomains by initializing the COR 
+        debugging sub-system prior to enumerating them. Thanks to &lt;A href="mailto:atif.aziz@skybow.com">
+            Atif Aziz&lt;/A> for the tip.
+    &lt;/P>
+    &lt;p>
+        &lt;i>&lt;span class="created">September 13, 2001&lt;/span>&lt;/i>
+    &lt;/p>
+    &lt;p>
+        I built &lt;a href="/public/tools/CorPub.zip">the CorPub utility&lt;/a> when my friend Jason 
+        pointed me at the .NET corpub.idl interfaces (his exact words were 
+        "ICorPublishProcess rocks!"). CorPub lists the managed processes on the current 
+        machine and the AppDomains in each process, as follows:
+    &lt;/p>
+    &lt;pre>Managed process 0xa54: D:\project\mine\RegexPlorer\bin\Debug\RegexPlorer.exe
+	AppDomain 0x1: RegexPlorer.exe
+
+Managed process 0xdc8: C:\vs.net\Common7\IDE\devenv.exe
+	AppDomain 0x1: DefaultDomain
+
+Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
+	AppDomain 0x1: DefaultDomain&lt;/pre>
+    &lt;p>
+        It's fun for spelunking. Enjoy.
+    &lt;/p>
+    &lt;p>
+        NOTE: .NET beta 2 is required to run this utility.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12601</id>
+    <title>Give Comfort</title>
+    <updated>2001-09-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-09-11T07:00:00.000Z</published>
+    <summary>September 11th, 2001 The World Trade Center and the Pentagon were attacked today when hi-jacked commercial airlines crashed into them, destroying both of the towers and damaging the Pentagon. I can't possibly know what the people who had friends and families in those buildings are going through right now, but my thoughts and prayers are with them. If there's anything you can do today or in the coming weeks or months to help those people to recover from their loss, please put aside your computers and your wo...</summary>
+    <content type="html">&lt;h1>Give Comfort&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">September 11th, 2001&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            The World Trade Center and the Pentagon were attacked today when hi-jacked 
+            commercial airlines crashed into them, destroying both of the towers and 
+            damaging the Pentagon. I can't possibly know what the people who had friends 
+            and families in those buildings are going through right now, but my thoughts 
+            and prayers are with them. If there's anything you can do today or in the 
+            coming weeks or months to help those people to recover from their loss, please 
+            put aside your computers and your work and do it. I will be doing the same. 
+            Thank you.
+        &lt;/p>
+        &lt;p>
+            If you're interested, both &lt;a href="http://s1.amazon.com/exec/varzea/paypage/PKAXFNQH7EKCX">
+                Amazon.com&lt;/a> and &lt;a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/relief-outside">
+                PayPay.com&lt;/a> have set up disaster relief donation funds. 100% of all 
+            donations go directly to the American Red Cross.
+        &lt;/p>
+        &lt;p>
+            &lt;a href="http://www.redcross.org/">
+            &lt;IMG src="/public/spout/tragedybanner2.jpg" border="0" width="468" height="60">&lt;/a>
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12602</id>
+    <title>Q&amp;A: .NET Cross Language Inheritance?</title>
+    <updated>2001-08-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-23T07:00:00.000Z</published>
+    <summary>August 23rd, 2001 Q: D.J. Stachniak writes: I missed the Conference.NET, but I've been reading through the PowerPoint presentations posted on DevelopMentor's web site. I noticed in the C++ In A Managed World presentation that there is a slide (page 62 specifically) which says ".NET supports real inheritance across languages - Although, that doesn't mean you should use it..." Would anyone like to take a crack and explain to me why cross language inheritance might be bad? </summary>
+    <content type="html">&lt;h1>Q&amp;A: .NET Cross Language Inheritance?&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">August 23rd, 2001&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;h2>
+            Q: D.J. Stachniak writes:
+        &lt;/h2>
+        &lt;p class="MsoPlainText">
+            I missed the Conference.NET, 
+            but I've been reading through &lt;a href="http://www.develop.com/conferences/conferencedotnet/materials/default.asp">
+                the PowerPoint presentations&lt;/a> posted on DevelopMentor's web site. I 
+            noticed in the &lt;a href="http://www.develop.com/conferences/conferencedotnet/materials/M4.pdf">
+                C++ In A Managed World presentation&lt;/a> that there is a slide (page 62 
+            specifically) which says ".NET supports real inheritance across languages - 
+            Although, that doesn't mean you should use it..."
+            &lt;br>
+            &lt;br>
+            Would anyone like to take a crack and explain to me why cross language 
+            inheritance might be bad?
+        &lt;/p>
+        &lt;h2>
+            A: Chris responds:
+        &lt;/h2>
+        &lt;p>
+            At the Microsoft PDC in 1993 (also known as the "COM PDC"), Kraig B. introduced 
+            COM by saying that it didn't have inheritance, but that was a good thing, 
+            because of the fragile base class problem. This problem says that derived 
+            objects, by definition, need to have incestuous knowledge of their base 
+            classes, including full understanding of the implied contract (which often 
+            requires to source to determine). What made this relationship fragile was that 
+            reliance on the implied contract caused all kinds of trouble when it changed, 
+            implying that it was knowledge of the source that caused this problem.
+        &lt;/p>
+        &lt;p>
+            Of course, that's not the case. We often experiment with components that we 
+            don't have the source for and made decisions based on implied contracts that 
+            can easily change version to version. I would call this the "fragile use" 
+            problem, but it's more commonly called "DLL Hell." The idea that components can 
+            be replaced in the field without breaking things has long been known as a 
+            fallacy, and it doesn't matter if you've got the source or whether you're doing 
+            inheritance, aggregation or mere creation.
+        &lt;/p>
+        &lt;p>
+            Eiffel's Design by Contract is a good step towards detecting problems, but 
+            that's an Eiffel-only thing. A good step towards reducing DLL Hell is the 
+            aggressive versioning and side-by-side installation of multiple versions that 
+            .NET supports. If your client or derived class binds to a specific version of a 
+            component, then there's no need to worry about it changing out from under you. 
+            Lack of source makes it harder to derive than to merely use, but assuming you 
+            can make things work empirically, cross-language inheritance might actually 
+            work in .NET (but don't hold me to that : ).
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12603</id>
+    <title>Conference.NET: Notes from the Field</title>
+    <updated>2001-08-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-17T07:00:00.000Z</published>
+    <summary>August 17th, 2001 In talking to fellow DevelopMentor instructor Craig Andera today, I realized that those of you who didn't get to attend DevelopMentor's Conference.NET this week, must've hoped that DevelopMentor's inaugural conference would suck so that you didn't miss anything good. Well, I'm pleased to tell you that it didn't suck. In fact, it was awesome. In further fact, I can't say that I've ever had more fun at a conference. Of course, I couldn't be everywhere, but here's what happened to me: Day 1: ...</summary>
+    <content type="html">&lt;h1>Conference.NET: Notes from the Field&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">August 17th, 2001&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            In talking to fellow DevelopMentor instructor Craig Andera today, I realized 
+            that those of you who didn't get to attend
+                DevelopMentor's Conference.NET this week, must've hoped that 
+            DevelopMentor's inaugural conference would suck so that you didn't miss 
+            anything good. Well, I'm pleased to tell you that it didn't suck. In fact, it 
+            was awesome. In further fact, I can't say that I've ever had more fun at a 
+            conference. Of course, I couldn't be everywhere, but here's what happened to 
+            me:
+        &lt;/p>
+        &lt;h2>
+            Day 1: Chris Doesn't Suck
+        &lt;/h2>
+        &lt;p>
+            Monday started with a rousing keynote from David Chappel, the industry's 
+            best-dressed speaker (not a high bar in our industry, of course, but even I 
+            have to admit that he's very good looking : ). &lt;a href="http://www.devx.com/free/hotlinks/2001/ednote081501.asp">
+                An overview of his talk is available here&lt;/a>, but what I most remember is 
+            that he pegged C++ as for dinosaurs only. While I certainly see his point,
+            &lt;a href="/public/writing/#mcxx">
+                Microsoft's Managed Extensions to C++&lt;/a> are going to enable a lot of 
+            people to enter the world of .NET without rewriting large code bases, which is 
+            going to make it enormously popular. This was further evidenced by the volume 
+            of MC++ questions that I fielded all week long (one attendee left the lab 
+            unhappy with the answer he'd gotten from a C# bigot and dragged me back there 
+            to examine his problem). Like VB before it, I predict MC++ to be the .NET love 
+            that dares not speak its name. Of course, David's comments weren't exactly 
+            designed to fill my day-long MC++ tutorial later that day...
+        &lt;/p>
+        &lt;p>
+            Further compounding my potential attendance problem was going to be Don Box. 
+            Don's an amazing man. He has the ability to dive completely into a technology, 
+            understanding it better than the designers, while still remembering the 
+            technical details of every other technology he's ever ingested and completely 
+            belittling any value they might have had when compared to his latest fetish. &lt;a href="http://www.devx.com/free/hotlinks/2001/ednote081501.asp" target="_parent">
+                In his talk&lt;/a>, C++ didn't respect the programmer, VB was the bane of 
+            every other programmer, COM was a mess and of course people had trouble getting 
+            DCOM to work over the Internet (how could it work when our neck-bearded network 
+            administrators had been replaced with kids pulled away from flipping burgers by 
+            the siren song of readily available MS networking certification?). Of course, 
+            to Don, only .NET and C# are at all useful to the reasonable, thinking 
+            developer. My biggest issue with Don is how right he usually is, but when he 
+            singled me out as destined to be the world's last C++ programmer by painting an 
+            image of me in a '76 Ford truck sporting a gun rack and a bumper sticker 
+            reading, "You can have my C++ when you pry it from my cold dead fingers," I 
+            knew that those attendees who hadn't yet decided weren't likely to show up in 
+            my MC++ tutorial...
+        &lt;/p>
+        &lt;p>
+            The last 2/3rds of my day was spent teaching my first real material in about 
+            three years. Oh, I'd given the odd conference talk now and again, but after 
+            years on the sidelines managing the development of 
+                Gen&amp;lt;X&amp;gt;, I was nervous. After all that time, could I still manage 
+            to entertain and educate a room full of people on a topic that the keynote 
+            speakers had spent all morning panning? As it turns out, I can. Oh, I can't say 
+            I was brilliant, but I didn't suck, and that was enough.
+        &lt;/p>
+        &lt;h2>
+            Day 2: Chris Has a Bad Hair Day
+        &lt;/h2>
+        &lt;p>
+            Day 1 ended with lots of celebration of my not sucking. I got to hang out with &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201616181/chrissells">
+                dear friends from as far back as 3rd grade&lt;/a> and enjoy a bit more alcohol 
+            than was strictly necessary. After finally collapsing into bed at around 
+            5:30am, I was hardly in any shape for my 8am business breakfast (note to self: 
+            never let the commission-based sales guy schedule the meetings -- they're just 
+            too damn eager). Needless to say I grabbed every minute of sleep that I could, 
+            but because of my short, deathlike REM, my hair was remarkably unmussed when I 
+            showed up without a shower (and even managed to make a point or two without 
+            falling asleep in my waffle). After two hours of scintillating business 
+            wrangling, I retired to my room to grab some quick Zs before returning to 
+            "office hours" in the lab. The lab was really great, because it contained a 
+            couple of hundred PCs with exercises from each of the conference talks so that 
+            attendees could practice what they'd learned, getting help from the rotating 
+            speakers pulling lab monkey duty and answering attendee questions about designs 
+            scrawled on cocktail napkins. This was also where I learned that my continued 
+            lack of a shower had finally made it's way to my hair. After thirty minutes of 
+            frightened stares, I stopped by the gift shop to buy a hat (stupid looking, but 
+            better than the &lt;a href="http://us.imdb.com/EGallery?source=ss&amp;amp;group=0217869&amp;amp;photo=9&amp;amp;path=gallery&amp;amp;path_key=0217869">
+                Elijah Prince&lt;/a> "do" I was sporting) on the way to my first Birds of a 
+            Feather talk.
+        &lt;/p>
+        &lt;p>
+            The BOF that I was to do with Brian Randell, a died in the wool VB guy, was 
+            entitled "WinForms: Love it or leave it," and it was designed for two things: 
+            1) to leave things very open to audience participation and 2) to make sure that 
+            Brian and I could show up without any preparation whatsoever. You see, both of 
+            us had fallen in love with WinForms, but we hadn't gotten to do much with it. 
+            We showed some fun demos, though. Mine was dedicated to the splitting and 
+            docking that WinForms has built into it (a thing of beauty!). Brian's was 
+            dedicated to the new opacity property setting which makes windows imperceptible 
+            (how very useful...). So, after me making fun of Brian about this fetish, he 
+            was getting a bit tense. Then, when the WinForms designer decided to crap out 
+            because of a license file problem, causing Brian to have to shut down the IDE, 
+            delete files manually, restart the IDE, etc, he got even more tense. When Don 
+            decided to rub it in with his standard, "You know, when I use Emacs, that never 
+            happens," Brian snapped. Before I even had a chance to draw a breath to put Don 
+            back in his place, Brian came right back with, "And how many products did you 
+            ship last year, Don?" A low moan swept the audience and Don turned tail and ran 
+            (after waiting a few minutes to let the ruckus die down). It was an awesome 
+            site to behold! I gained much respect for Brian that day.
+        &lt;/p>
+        &lt;p>
+            I also gained much respect for WinForms. In spite of all of the hype about 
+            ASP.NET and Web Services, the thin-client backlash was in full swing at this 
+            BOF. Our room started out full and just gained people as it went on. Somewhere 
+            in the middle it became standing room only and still people came. And they 
+            didn't just sit there, either. They all participated in a very rousing 
+            discussion first about MFC/VB vs. WinForms and then onto the more interesting 
+            thin vs. rich client. These people were very tired of the limitations of HTML 
+            3.2 and cross-platform DHTML and anxious to get back to a real development 
+            environment for UIs. &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0107B&amp;amp;L=DOTNET&amp;amp;P=R49813&amp;amp;D=0&amp;amp;H=0&amp;amp;O=T&amp;amp;T=1">
+                Truly, the Renaissance for rich UIs has begun&lt;/a>.
+        &lt;/p>
+        &lt;h2>
+            Day 3: Jason Whittington is Accused of Slut-like Ignorance
+        &lt;/h2>
+        &lt;p>
+            Day 3 was a big day for me. It started with a talk on a subject near and dear 
+            to my heart, &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201309777/chrissells">
+                generative programming&lt;/a>. This is a relatively new term for the 
+            technology ideas we'd been using for years in building Gen&amp;lt;X&amp;gt;. Again, my 
+            room was full, not only of attendees but also of two of the software engineers 
+            from the Gen&amp;lt;X&amp;gt; team (Chris Tavares
+            and &lt;A href="mailto:shawnv@adoguy.com">Shawn Vanness&lt;/A>). The audience was 
+            certainly spending a lot of time nodding their heads and understanding the 
+            benefits of generative programming, but when I showed them
+                how far we had taken it and 
+                all of the things for which we were using Gen&amp;lt;X&amp;gt;, that took them 
+            right over the top.
+        &lt;/p>
+        &lt;p>
+            And then, right after getting to pitch my favorite technology, I got to proceed 
+            right to my next BOF, where I would get to tilt at my own personal windmill -- 
+            non-deterministic finalization. Those of you who know me or my programming 
+            style know that I'm absolutely in love with the idea of objects managing their 
+            own resources and them being notified immediately when the last client is done 
+            with them, either via COM-style reference counting or via a C++ destructor. 
+            This kind of deterministic finalization allows for very aggressive reclamation 
+            of resources, even in the face of exceptions or forgetful programmers. 
+            Non-deterministic finalization, on the other hand, leaves notification that an 
+            object is no longer in use to a background thread managed by a garbage 
+            collector. Because &lt;i>when &lt;/i>the GC will get around to notifying an object is 
+            non-deterministic and empirically takes a long time, this means that resources 
+            can no longer be claimed by automatic means, instead leaving it to the client 
+            to manually notify the object via a Close or Dispose method. In my opinion, 
+            this is not a robust technique in the face of exceptions or forgetful 
+            programmers.
+        &lt;/p>
+        &lt;p>
+            This issue has been the bane of my existence for years. When Java was first 
+            becoming popular, I was studying to become DevelopMentor's first Java 
+            instructor. And at first, I really liked it. Then I discovered that Java had 
+            non-deterministic destruction and &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201695898/chrissells">
+                my life turned to ATL instead&lt;/a>. Fast forward a few years to an early 
+            design preview of .NET where I learn that Microsoft was "leveraging" many of 
+            the ideas of Java in its new runtime, including my favorite: non-deterministic 
+            finalization. I try to explain the problems inherent in this decision, but 
+            apparently, they've been all through this and &lt;a href="http://www.ddj.com/news/fullstory.cgi?id=4609">
+                Bill Gates has already made the decision for them&lt;/a>. Of course, I don't 
+            know this, so I kept fighting the good fight with &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0007&amp;amp;L=dotnet&amp;amp;F=&amp;amp;S=&amp;amp;P=26432">
+                one of the first emails&lt;/a> on &lt;a href="http://discuss.develop.com/dotnet.html">
+                DevelopMentor's .NET mailing list&lt;/a>. This caused quite a stir, consuming 
+            much bandwidth to this day and eventually culminating in a &lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0010A&amp;amp;L=DOTNET&amp;amp;P=R28572">
+                long, explanatory email from Brian Harry&lt;/a>, a PM on the .NET team. This 
+            email was intelligent and thoughtful and annoyed me no end because it put the 
+            final nail into the coffin containing my hope for DF in v1.0 of .NET, which 
+            we're going to be living with for years. In fact, this email annoyed me so much 
+            that, on Day 2, I referred to it as "Brian Harry's 'little' email." After all, 
+            the room was nearly empty except for a few of my very close friends and one 
+            attendee who I hadn't met. I met him 5 seconds later. It was, of course, Brian 
+            Harry. Remember, this was the day I had almost zero sleep, so I wasn't exactly 
+            on top of my game. What an inauspicious way to meet your arch-enemy... [1].
+        &lt;/p>
+        &lt;p>
+            Now, I told you that story so that I could tell you this one.
+        &lt;/p>
+        &lt;p>
+            The BOF was to be a debate between me (pro-DF) and &lt;a href="http://staff.develop.com/jasonw/">
+                Jason Whittington&lt;/a> (pro-garbage collection), with Don as the master of 
+            ceremonies. Imagine a thoughtful, reasoned exchange of ideas between calm, 
+            measured adults. Now throw that image away. Instead, Don introduced the BOF by 
+            saying that there was the right way of thinking and the Chris way of thinking 
+            and that I had been lured into the packed room (containing, as backup for the 
+            side of evil, Brian Harry) for an "intervention." Now, it's not as if some of 
+            us didn't try to be thoughtful and reasoned. For example, Jason gave us all 
+            kinds of background into the history and practice of garbage collection and how 
+            it works under .NET. In fact, if you haven't yet had a chance to read &lt;a href="http://www.develop.com/conferences/conferencedotnet/materials/C2.pdf">
+                Jason's GC talk from Conference.NET&lt;/a>, you should. It's great. 
+            Unfortunately, the passions in the audience and in the other side of the 
+            debate, i.e. me, left little time for Jason's approach. Instead, Don and I and 
+            the audience went back and forth, invoking stories of ASP.NET applications 
+            written by the cream of the crop at DevelopMentor that leaked so many resources 
+            as to make them unusable, laments of the semantic incorrectness of tying 
+            resource management to object lifetime and analogies of deck chairs on boats 
+            that did and didn't sink. It was somewhere between a gospel revival and a 
+            schlock talk show (in fact, at one particularly cantankerous moment, the 
+            audience was literally chanting "&lt;a href="http://www.studiosusa.com/jerry/">Jerry! 
+                Jerry!&lt;/a>"). At one point, I got so worked up during Jason's attempts to 
+            shed some actual light on the topic that I interrupted him exclaim, "Jason 
+            Whittington, you ignorant slut!" It was one of the highlights of my life...
+        &lt;/p>
+        &lt;p>
+            But that was not to be the highlight of the show. Oh no. The most amazing thing 
+            about the show was later that evening at the close of conference party, where 
+            DevelopMentor introduced the .NET Band: The Band on the Runtime, made up of 
+            speakers and attendees who were also accomplished musicians. It was an awesome 
+            mix of showmanship, musicality and &lt;A href="/public/fun/#conf.net.songs">parody lyrics&lt;/A>
+            that caused the audience to sing along, wave their candles (in lieu of 
+            lighters), jump on stage and scream for an encore. When it was over, I was so 
+            moved that, in spite of my long friendship with Don and my pride in never 
+            seeing him as the hi-tech rock star that most folks do, I had to rush backstage 
+            to shake his hand and to be in his presence. I felt like a giddy school girl 
+            hoping to snatch a sweaty handkerchief from across his brow (which I'll be 
+            auctioning off at eBay when I'm good and ready...).
+        &lt;/p>
+        &lt;h2>
+            Day n: The Rest of My Life
+        &lt;/h2>
+        &lt;p>
+            I have to say that I was deeply affected this week at Conference.NET. I'd like 
+            to thank everyone who organized it and hosted it and made it happen. And those 
+            of you who had the chance to go, but didn't? Well, on your heads be it. Don't 
+            make that mistake again next year...
+        &lt;/p>
+        &lt;h2>
+            Related Links
+        &lt;/h2>
+        &lt;ul>
+            &lt;li>
+                &lt;a href="http://technetcast.ddj.com/tnc_catalog.html?item_id=1286">Conference.NET 
+                    Keynote and General Session audio recordings&lt;/a>
+            &lt;li>
+                &lt;a href="http://www.develop.com/conferences/conferencedotnet/materials/default.asp">
+                    Conference.NET Materials&lt;/a>
+            &lt;li>
+                &lt;a href="http://www.devx.com/free/hotlinks/2001/ednote081501.asp">Rational 
+                    Exuberance for .NET&lt;/a>: DevX coverage of David Chappel's keynote and 
+            Don Box's general session.
+            &lt;li>
+                &lt;a href="http://www.ddj.com/news/fullstory.cgi?id=4609">The Once 
+                    and Future Common Language Runtime&lt;/a>: Dr. Dobb's coverage of Brian 
+            Harry's keynote.
+            &lt;li>
+                &lt;a href="http://news.zdnet.co.uk/story/0,,t269-s2093679,00.html">Microsoft 
+                    splits C# and Visual Basic roadmaps&lt;/a>: Brian Harry's Conference.NET 
+            hallway conversations.
+            &lt;li>
+                &lt;A href="/public/fun/#conf.net.songs">Conference.NET Parody Song Lyrics&lt;/A>
+            &lt;li>
+                The Band on the Runtime &lt;a href="http://photos.msn.com/ups/GuestTOU.aspx?ru=http://photos.msn.com/Viewing/Album.aspx?COHOhSnerv23fXmw0GEbEgJUKGxN9AKmt6O0Uo*qqxjns6NkiGoKrSVokBiYLn5zAckNcBbPJf5rTwyrL14DcXAnAEi63mw8L9to9oBfmbCjg1O4Wu13727Cg1leBi06">
+                    pictures&lt;/a>
+            &lt;/li>
+        &lt;/ul>
+        &lt;p>
+            &lt;i>[1] As it turns out, it didn't take long to make up with Mr. Harry and I soon 
+                found him to be reasoned and intelligent. Even worse, I found that I liked him. 
+                Damn it!&lt;/i>
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12640</id>
+    <title>Don Gives a SOAP Talk</title>
+    <updated>2001-08-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/tub2.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-15T07:00:00.000Z</published>
+    <summary>TechEd Barcellona, Spain 8/15/2001 </summary>
+    <content type="html">&lt;h1>Don Gives a SOAP Talk&lt;/h1>
+&lt;p align="center">&lt;img border="0" src="/public/fun/tub2.JPG" width="609" height="467"> &lt;/p>&lt;p>&lt;i>TechEd Barcellona, Spain 
+8/15/2001&lt;/i> &lt;/p>&lt;hr>&lt;h2>&lt;span style="FONT-WEIGHT: 400">
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12627</id>
+    <title>Centerfold</title>
+    <updated>2001-08-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-15T07:00:00.000Z</published>
+    <summary>WARNING: Do not follow this link if you don't want to see me naked! </summary>
+    <content type="html">&lt;h1>Centerfold&lt;/h1>
+&lt;p>WARNING: Do not 
+
+&lt;a href="/public/fun/centerfold/">follow this link&lt;/a> if you don't want to see me 
+
+naked! &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12619</id>
+    <title>This Picture Needs a Caption</title>
+    <updated>2001-08-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/ComIsLove.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-15T07:00:00.000Z</published>
+    <summary>Chris riding The Incredible Hulk roller coaster in FLA in 2000. Notice the "COM is Love" t-shirt. I really wanted to say something funny or ironic in the title of this picture, but words failed me. Got one? </summary>
+    <content type="html">&lt;h1>This Picture Needs a Caption&lt;/h1>
+&lt;p 
+
+align="center">&lt;img border="0" src="/public/fun/ComIsLove.JPG" width="450" 
+
+height="468"> &lt;/p>&lt;p>Chris riding The Incredible Hulk roller coaster in FLA in 
+
+2000. Notice the "COM is Love" t-shirt. I really wanted to say something funny 
+
+or ironic in the title of this picture, but words failed me. &lt;a 
+
+href="mailto:csells@sellsbrothers.com?subject=I have a caption for your 'COM 
+
+is Love' roller coaster picture!">Got one?&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12618</id>
+    <title>Conference.NET Song Lyrics</title>
+    <updated>2001-08-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-15T07:00:00.000Z</published>
+    <summary>King of the Code Sung to "King of the Road" Platform for sale or rent who cares where all the others went no more pointer, pushes, pops or peaks I ain't got no memory leaks I wrote ten lines of C# today I was more productive than yesterday I'm a programmer of mean by no means I'm a king of the code I feel sorry for those guys at Sun DOTNET has got them on the run But when I hear Scott McNeally whine I say stick your VM where the Sun don't shine Most folks agree VB DOT NET Is the best version of Java that we...</summary>
+    <content type="html">&lt;h1>Conference.NET Song Lyrics&lt;/h1>
+&lt;h3>King of the Code &lt;/h3>&lt;p>&lt;i>Sung to "King of the Road"&lt;/i> 
+
+&lt;/p>&lt;p>Platform for sale or rent &lt;br>who cares where all the others went 
+
+&lt;br>no more pointer, pushes, pops or peaks &lt;br>I ain't got no memory leaks 
+
+&lt;br>I wrote ten lines of C# today &lt;br>I was more productive than yesterday 
+
+&lt;br>I'm a programmer of mean by no means &lt;br>I'm a king of the code &lt;br>&lt;br>I 
+
+feel sorry for those guys at Sun &lt;br>DOTNET has got them on the run &lt;br>But 
+
+when I hear Scott McNeally whine &lt;br>I say stick your VM where the Sun don't 
+
+shine &lt;br>Most folks agree VB DOT NET &lt;br>Is the best version of Java that 
+
+we've seen yet &lt;br>I'm a programmer of mean by no means &lt;br>I'm a king of the 
+
+code &lt;br>&lt;br>You C guys think all this stuff is new &lt;br>A friendly runtime 
+
+that hides the goo &lt;br>I'm a VB guy, better watch out for me &lt;br>'cause I've 
+
+been writing managed code since 93 &lt;br>Database code's busted -- no time to 
+
+cry &lt;br>Patch it all to the newest API &lt;br>I'm a programmer of mean by no 
+
+means &lt;br>I'm a king of the code &lt;br>&lt;br>New waves they come and go so fast 
+
+&lt;br>COM was love, but love don't last &lt;br>If COM was love than what's DOTNET 
+
+&lt;br>It's love without the cigarette &lt;br>DOTNET will be here till we all get 
+
+bored &lt;br>Then we'll throw it away and invent DOT-ORG &lt;br>I'm a programmer of 
+
+mean by no means &lt;br>I'm a king of the code &lt;/p>&lt;h3>Wild Side &lt;/h3>&lt;p>Bill G 
+
+came from Seattle WA &lt;br>Spread .NET across the USA &lt;br>Plucked out pointers 
+
+on the way &lt;br>Shaved ref counting - started sporting GC &lt;br>He said Hey babe 
+
+take a walk on the wild side &lt;br>Hey babe take a walk on the wild side 
+
+&lt;br>&lt;br>Chris Sells never once threw one away &lt;br>In the end, he had to pay 
+
+and pay &lt;br>An object here, and object there &lt;br>Memory is the place where 
+
+they say &lt;br>Hey Chrissie, take a walk on the wild side &lt;br>I say hey babe, 
+
+let's going back home and finalize &lt;br>&lt;br>And the .NET girls go &lt;br>Do do do 
+
+do do do do do do do &lt;br>do do do do do do do do do &lt;br>doooooooooooooooo ah 
+
+&lt;br>&amp;nbsp; &lt;br>&amp;lt;break&amp;gt;The musical stylings of Francesco 
+
+Balena&amp;lt;/break&amp;gt; &lt;br>&lt;br>Jon Flanders came from out of the heartland 
+
+&lt;br>With ASP he's was everybody's darling &lt;br>But he never lost his head 
+
+&lt;br>Even when they told him COM was dead &lt;br>I said hey Jon, take a walk on 
+
+the wild side &lt;br>I believe they call it Interop-O-cide &lt;br>&lt;br>Brian Randell 
+
+came and hit the streets &lt;br>Hoping .NET would bring inter-language peace 
+
+&lt;br>He hates it when those bigots say &lt;br>C#'s for work, VB's for play &lt;br>I 
+
+say hey Brian, take a walk on the wild side &lt;br>It's curly braces that make 
+
+your code bonafide &lt;br>&lt;br>My friend Don Box, he's just coding away &lt;br>Though 
+
+he was James Joyce for a day &lt;br>Yeah I guess Don's pretty smart &lt;br>But he 
+
+mistakes his code for art &lt;br>I say Hey Don, take a walk on the wild side 
+
+&lt;br>You're just a liquor salesman, it can't be denied &lt;br>&lt;br>And the .NET 
+
+girls go .... &lt;br>&lt;br>And the .NET girls go &lt;br>Do do do do do do do do do do 
+
+&lt;br>Do do do do do do do do do do &lt;br>Do do do do do do do do do do &lt;br>Do do 
+
+do do do do do do do do &lt;br>Do do do do do do do do do do &lt;/p>&lt;h3>Bill G and 
+
+the Feds &lt;/h3>&lt;p>&lt;i>Sung to "Bennie and the Jets"&lt;/i> &lt;/p>&lt;p>Hey kids - you 
+
+wanna see a scene-o &lt;br>Let's watch Billy Gates get it on with Janet Reno 
+
+&lt;br>We're talking anti-trust now - so stick around &lt;br>Gonna rack legal bills 
+
+that know no bound &lt;br>Hey Joel Kline he's on the case &lt;br>Oh man he's so 
+
+spaced out &lt;br>B-B-B-Bill G and the Feds &lt;br>Billy he's so silly and litigical 
+
+&lt;br>The center of a courtroom scene &lt;br>He's got those Harvard roots, class 
+
+action suits &lt;br>You know I read it in a magazine - oh yea &lt;br>B-B-B-Bill G 
+
+and the Feds &lt;br>&lt;br>Hey kids, go crank up your browsers &lt;br>You're in for 
+
+nasty weather, gonna make you wet your trousers We're &lt;br>gonna stifle 
+
+competition with such as sense of ease Gonna bring those &lt;br>bastards from 
+
+Netscape down to their knees Hey Judge Jackson, have you &lt;br>heard this case 
+
+Oh man, his ruling was so spaced out &lt;br>B-B-B-Bill G and the Feds &lt;br>Billy 
+
+he's so silly and litigical &lt;br>The center of a courtroom seen &lt;br>He's got 
+
+those Harvard roots, class action suits &lt;br>You know I read it in a magazine - 
+
+oh yea &lt;br>B-B-B-Bill G and the Feds &lt;br>&lt;br>Bill G, Bill G, Bill G, Bill G 
+
+and the Feds... &lt;br>Bill G, Bill G, Bill G, Bill G and the Feds... 
+
+&lt;/p>&lt;p>&lt;i>DevelopMentor's Conference.NET &lt;br>Sung by the .NET Band on the 
+
+Runtime&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12644</id>
+    <title>Mr. June, 2000</title>
+    <updated>2001-08-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/centerfold/sells_centerfold.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-15T07:00:00.000Z</published>
+    <summary>Nothing comes between me and my technology... All pictures courtesy of Jason Whittington's most excellent PhotoShop skills. See the parody by Ted Neward inspired by this picture. </summary>
+    <content type="html">&lt;h1>Mr. June, 2000&lt;/h1>
+    &lt;center>
+        &lt;font size="5">Nothing comes between me and my technology...
+        &lt;/font>
+        &lt;p>
+            &lt;img src="/public/fun/centerfold/sells_centerfold.jpg" width="485" height="835">
+            &lt;br>
+            &lt;input type="button" value="Over &amp;gt;&amp;gt;" onclick="window.navigate('/news/showTopic.aspx?ixTopic=12645')">
+        &lt;p>
+            All pictures courtesy of &lt;a href="http://staff.develop.com/jasonw">Jason 
+                Whittington's&lt;/a>
+        most excellent PhotoShop skills.
+        &lt;p>&lt;a href="/12359">See the parody by Ted Neward inspired by this 
+        picture.&lt;/a>&lt;/p>
+    &lt;/center></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12432</id>
+    <title>.NET XML Checker and Validator</title>
+    <updated>2001-08-08T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-08T07:00:00.000Z</published>
+    <summary>Aug 8, 2001 xmlValid is simple command line utility that will check an xml file for well-formedness and, optionally, will validate it against a supplied XML schema file (xsd). I built it to check that my site's HTML files were well-formed (and therefore XHTML-compliance), but it's got all kinds of other uses, including checking.NET.config files. Source is included. Enjoy. Usage: xmlValid.exe xmlFile [xsdFile] Note that this utility requires.NET beta 2 to be installed. </summary>
+    <content type="html">&lt;h1>.NET XML Checker and Validator&lt;/h1>
+&lt;p>
+        &lt;i>&lt;span class="created">Aug 8, 2001&lt;/span>&lt;/i>
+    &lt;/p>
+    &lt;p>
+        &lt;a href="/public/tools/xmlValid.zip">xmlValid&lt;/a> is simple command line utility that will 
+        check an xml file for well-formedness and, optionally, will validate it against 
+        a supplied XML schema file (xsd). I built it to check that my site's HTML files 
+        were well-formed (and therefore XHTML-compliance), but it's got all kinds of 
+        other uses, including checking .NET .config files. Source is included. Enjoy.
+    &lt;/p>
+    &lt;pre>Usage: xmlValid.exe xmlFile [xsdFile]&lt;/pre>
+    &lt;p>
+        Note that this utility requires .NET beta 2 to be installed.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12433</id>
+    <title>Setting the Completion Character</title>
+    <updated>2001-08-07T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-07T07:00:00.000Z</published>
+    <summary>Aug 7, 2001 Whenever I set up a new machine (which happens a lot as WinXP and.NET go through their beta &amp;amp; RC cycles), I always need to manually set up the completion character (to TAB, of course) in the Registry. Shawn VanNess posted a.rgs file that would set this up without the lengthy search through the Registry. Inspired by Shawn, here's my own completionChar.reg that doesn't require a program to parse.rgs files (which doesn't come with Windows). BTW, if you don't know about the command shell's Compl...</summary>
+    <content type="html">&lt;h1>Setting the Completion Character&lt;/h1>
+&lt;p>
+        &lt;i>&lt;span class="created">Aug 7, 2001&lt;/span>&lt;/i>
+    &lt;/p>
+    &lt;p>
+        Whenever I set up a new machine (which happens a lot as WinXP and .NET go 
+        through their beta &amp;amp; RC cycles), I always need to manually set up the 
+        completion character (to TAB, of course) in the Registry. &lt;a href="mailto:shawnv@comguru.com">
+            Shawn VanNess&lt;/a> &lt;a href="http://discuss.microsoft.com/SCRIPTS/WA-MSD.EXE?A2=ind0001B&amp;amp;L=ATL&amp;amp;P=R3986">
+            posted a .rgs file&lt;/a> that would set this up without the lengthy search 
+        through the Registry. Inspired by Shawn, here's my own &lt;a href="/public/tools/completionChar.reg">
+            completionChar.reg&lt;/a> that doesn't require a program to parse .rgs files 
+        (which doesn't come with Windows).
+    &lt;/p>
+    &lt;p>
+        BTW, if you don't know about the command shell's Completion Character, stop 
+        right now, run the &lt;a href="/public/tools/completionChar.reg">completionChar.reg&lt;/a> file, 
+        start up a WinNT/Win2K/WinXP command shell, type "cd c:\p[TAB]" and watch while 
+        the shell expands it to "cd C:\Program Files\" for you. If you have other 
+        directories that start with "c:\p", continue to hit [TAB] to cycle through 
+        them. This works for any directory or file name and it boosts my productivity 
+        by about 100% on the command line. I can't live without it!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12604</id>
+    <title>What I Love Best About .NET</title>
+    <updated>2001-08-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-06T07:00:00.000Z</published>
+    <summary>Monday, 8/6/01 DevelopMentor has long attracted smart folks. Really smart folks. These are the caliber of people that forces you to look up every once and a while and question your own worthiness. With this many high-caliber people together, you'd think they'd be able to look objectively at the world and avoid such religious arguments as "What's the best language?", "What's the best platform?" and "What's the best editor?" Nope. We get into arguments like this (and even more esoteric) stuff all the time. Oh...</summary>
+    <content type="html">&lt;h1>What I Love Best About .NET&lt;/h1>
+&lt;p>
+            &lt;i>&lt;span class="created">Monday, 8/6/01&lt;/span>&lt;/i>
+        &lt;/p>
+        &lt;p>
+            DevelopMentor has long attracted smart 
+                folks. &lt;i>Really &lt;/i>smart folks. These are the caliber of people that forces 
+                you to look up every once and a while and question your own worthiness. With 
+                this many high-caliber people together, you'd think they'd be able to look 
+                objectively at the world and avoid such religious arguments as "What's the best 
+                language?", "What's the best platform?" and "What's the best editor?"
+        &lt;/p>
+        &lt;p>
+            Nope.
+        &lt;/p>
+        &lt;p>
+            We get into arguments like this (and even more esoteric) stuff &lt;i>all the time&lt;/i>. 
+            Oh, open debate is healthy and we eventually come to a reasoned, balanced 
+            decision, blah, blah, blah, but these kinds of arguments made me realize that 
+            the thing I love most about .NET is that one of the most contentious arguments 
+            has just gone away: "What's the best language?" In the old days, this boiled 
+            down to VB vs. C++, otherwise known as practical vs. theoretical, simple vs. 
+            complicated or even, my personal favorite, journalism major vs. computer 
+            scientist. The argument was a real one, though, because VB6 and below put a 
+            real straight jacket on you when it came to real object-oriented features (the 
+            lack of implementation inheritance springs to mind), whereas C++ was so hard 
+            for so many people, it was almost impossible to build correct code with it. 
+            Much mud was thrown during these debates and no progress was ever made.
+        &lt;/p>
+        &lt;p>
+            Until now.
+        &lt;/p>
+        &lt;p>
+            Now, we have the same "What's the best language" arguments over VB.NET vs. C#, 
+            but they always peter out very quickly. While it's true that VB.NET makes it 
+            much easier to build late binding component clients and C# allows unsafe code 
+            sections, neither of these features is enough for us to avoid agreeing that, 
+            modulo syntax, the two languages overlap by about 90%. Which means, and now I'm 
+            coming to the part that really makes me love .NET, &lt;i>I get to work with lots more 
+                smart people at DevelopMentor.&lt;/i> Before, it was about the &lt;a href="http://www.randomhouse.com/catalog/display.pperl?isbn=0394800893">
+                star-bellied Sneetches and the plain-bellied Sneetches&lt;/a>. Since I felt I 
+            was one with a star on his belly (doesn't everyone feel that way?), I couldn't 
+            work with those without stars upon thars! Well, Sylvester McMonkey McBean, you 
+            can teach a Sneetch! [1]
+        &lt;/p>
+        &lt;p>
+            I just got off the phone with a good friend of mine who I've never been able to 
+            work with before, because we've always had a great divide between us caused by 
+            my C++ bias. Now, for the first time, we get to work together! He can do his 
+            stuff in VB and I can either work with it directly, or I can easily port it to 
+            C#, because &lt;i>all the classes and functions that he's going use in VB are going to 
+                be identical to what I would do in C#.&lt;/i> So, while 90% of the language 
+            features overlap, there's 99.999% overlap in the framework and how to use it 
+            between the two languages. To answer Rodney King's immortal question, "Yes. 
+            Finally, thank .NET, we can all just get along."
+        &lt;/p>
+        &lt;p>
+            &lt;i>&lt;a>[1] &lt;/a>Those of you with kids will understand...&lt;/i>
+        &lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12434</id>
+    <title>NullScript Used to Reverse Engineer Gen&amp;lt;X&amp;gt;</title>
+    <updated>2001-08-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-06T07:00:00.000Z</published>
+    <summary>Wow. I'm impressed as all get out. Hugh Brown has reverse-engineered Gen&amp;lt;X&amp;gt; as one of the tests of his NullScript implementation. I wish I would have had this when I started Gen&amp;lt;X&amp;gt; a couple of years ago. It would've saved me figuring out how ASP did it. My thinking along these lines years ago led me to go the opposite way, i.e. I built a front-end ASP parser that generated script for VBS. I called it TextBox (which, as a Win32 programmer, I should've realized was a terrible name...). </summary>
+    <content type="html">&lt;h1>NullScript Used to Reverse Engineer Gen&amp;lt;X&amp;gt;&lt;/h1>
+    &lt;p align="left">
+        Wow. I'm impressed as all get out. &lt;a href="mailto:HughDBrown@yahoo.com">Hugh Brown&lt;/a>
+        has reverse-engineered Gen&amp;lt;X&amp;gt; as one of the tests of his &lt;a href="http://www.iwebthereforeiam.com/projects/NullScript.asp">
+            NullScript&lt;/a> implementation. I wish I would have had this when I started 
+        Gen&amp;lt;X&amp;gt; a couple of years ago. It would've saved me figuring out how ASP 
+        did it.
+    &lt;/p>
+    &lt;p align="left">
+        My thinking along these lines years ago led me to go the opposite way, i.e. I 
+        built a front-end ASP parser that generated script for VBS. I called it &lt;a href="/12659">
+            TextBox&lt;/a> (which, as a Win32 programmer, I should've realized was a 
+        terrible name...).
+    &lt;/p></content>
+  </entry>
+</feed>

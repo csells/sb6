@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed131.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed130.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed132.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed131.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/588</id>
+    <title>My First Month @ MS</title>
+    <updated>2003-05-24T07:00:00.000Z</updated>
+    <published>2003-05-24T07:00:00.000Z</published>
+    <summary>Here. The one where I play junior anthropologist in my ongoing attempt to understand and become a productive member of MS society.</summary>
+    <content type="html">&lt;h1>My First Month @ MS&lt;/h1>
+&lt;a href="/12553">Here&lt;/a>. The one where I play junior anthropologist in my ongoing attempt to understand and become a productive member of MS society.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/589</id>
+    <title>My First Meeting with a Senior VP</title>
+    <updated>2003-05-24T07:00:00.000Z</updated>
+    <published>2003-05-24T07:00:00.000Z</published>
+    <summary>Here. The one where I have my first meeting with an MS Sr. VP on the anniversary of my first month as an employee.</summary>
+    <content type="html">&lt;h1>My First Meeting with a Senior VP&lt;/h1>
+&lt;a href="/12552">Here&lt;/a>. The one where I have my first meeting with an MS Sr. VP on the anniversary of my first month as an employee.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12552</id>
+    <title>My First Meeting with a 
+Senior VP</title>
+    <updated>2003-05-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-05-24T07:00:00.000Z</published>
+    <summary>On the anniversary of my first month at MS, I took my first meeting with a Sr. Vice President. I'm told that's a big deal. One colleague who'd been at MS for a few years said, &amp;quot;Wow. You must be important. I expect that the first time I'll be in a meeting with a Sr. VP will be at my firing.&amp;quot; In my case, it's not that I'm important (I'm not) that got me involved with such a meeting; it's that I have recently been asked to participate in a project that needed to meet with the VP to clarify some revie...</summary>
+    <content type="html">&lt;h1>My First Meeting with a 
+Senior VP&lt;/h1>
+&lt;p>On &lt;a href="#myFirstMonthAtMs">
+the anniversary of my first month at MS&lt;/a>, I took my first meeting with a Sr. 
+Vice President. I'm told that's a big deal. One colleague who'd been at MS for a 
+few years said, &amp;quot;Wow. You must be important. I expect that the first time I'll 
+be in a meeting with a Sr. VP will be at my firing.&amp;quot; In my case, it's not that 
+I'm important (I'm not) that got me involved with such a meeting; it's that I 
+have recently been asked to participate in a project that needed to meet with 
+the VP to clarify some review feedback . Or, in other words, it was a pretty 
+pedestrian &amp;quot;here's what we've come up with since the last time we met&amp;quot; kind of 
+meeting. What made it interesting was that it was with a &lt;a href="http://msdn.microsoft.com/blogs/ericr/">
+Eric&lt;/a>.&lt;/p>&lt;p>Imagine a company run as a strict meritocracy that's one of the 
+most important and profitable in it's industry. Now imagine that this company 
+has been around for a while and has acquired tens of thousands of employees in a 
+multi-layered hierarchy, with only the best and the brightest surviving and the 
+best of the best rising to the top. That's MS. Billg is layer 1. Eric is at 
+layer 4 w/ a small number of peers. I'm at layer 9 or, as I like to call it, 
+&amp;quot;the bottom.&amp;quot; By all rights, that means that Eric should be &amp;quot;5&amp;quot; smarter than me, 
+and I can see him fitting comfortably into that category.&lt;/p>&lt;p>Had Eric wanted 
+to shred us, I'm sure he could have. Luckily, it was a nice, calm, productive 
+meeting w/ him cutting quickly to the main points (in spite of the fact that he 
+was reading and making notes on our handouts while still listening to our 
+presentation). He also make some pretty interesting comments, especially 
+considering how little time I'm guessing he's had to think about the problem 
+space. At least one comment put me on a path that I like much better than the 
+one I was on (although we'll see how he feels about it at the next review). The 
+comment that startled me most, however, was when he said that he read my site. 
+If this is my last post from inside the big house, you'll know how much he liked 
+it. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/586</id>
+    <title>C#Builder and Borland Data Providers for .NET</title>
+    <updated>2003-05-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-05-23T07:00:00.000Z</published>
+    <summary>Here. From Pär: Connecting Borland C#Builder to DB2 UDB with Borland Data Providers for the Microsoft.NET Framework. </summary>
+    <content type="html">&lt;h1>C#Builder and Borland Data Providers for .NET&lt;/h1>
+&lt;a href="http://www7b.software.ibm.com/dmdd/library/techarticle/0305swart1/0305swart1.html">Here&lt;/a>. From Pär: Connecting Borland C#Builder to DB2 UDB with Borland Data Providers for the Microsoft .NET Framework. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/587</id>
+    <title>CodeSmith 2.0 Released</title>
+    <updated>2003-05-23T07:00:00.000Z</updated>
+    <published>2003-05-23T07:00:00.000Z</published>
+    <summary>Here. Eric has released a new version of CodeSmith w/ the expiration date removed. This version also includes the CollectionGen functionality, along w/ a whole lot more.</summary>
+    <content type="html">&lt;h1>CodeSmith 2.0 Released&lt;/h1>
+&lt;a href="http://dotnetweblogs.com/ericjsmith/Category/81.aspx">Here&lt;/a>. Eric has released a new version of CodeSmith w/ the expiration date removed. This version also includes the CollectionGen functionality, along w/ a whole lot more.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/585</id>
+    <title>New code generation tool - dbcodegen</title>
+    <updated>2003-05-22T07:00:00.000Z</updated>
+    <published>2003-05-22T07:00:00.000Z</published>
+    <summary>Here. From Ricky Datta: New command line tool for
+generating ado.net C# wrapper
+functions for SQL Server
+stored procedures.</summary>
+    <content type="html">&lt;h1>New code generation tool - dbcodegen&lt;/h1>
+&lt;a href="http://www.dbcodegen.com">Here&lt;/a>. From Ricky Datta: New command line tool for
+generating ado.net C# wrapper
+functions for SQL Server
+stored procedures.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/584</id>
+    <title>Windows Application Verifier</title>
+    <updated>2003-05-21T07:00:00.000Z</updated>
+    <published>2003-05-21T07:00:00.000Z</published>
+    <summary>Here. "The Windows Application Verifier (AppVerifier) examines executable programs for common application quality issues. Running this tool on an application aids a tester in detecting issues dealing with stability, security, and compatibility." This tool should be required for all QA departments, just like FxCop is required for all.NET developers. [staff.develop.com/candera/weblog2]</summary>
+    <content type="html">&lt;h1>Windows Application Verifier&lt;/h1>
+&lt;a href="http://www.microsoft.com/windowsxp/appexperience/appverifier.asp">Here&lt;/a>. "The Windows Application Verifier (AppVerifier) examines executable programs for common application quality issues. Running this tool on an application aids a tester in detecting issues dealing with stability, security, and compatibility."
+
+This tool should be required for all QA departments, just like FxCop is required for all .NET developers.
+
+[staff.develop.com/candera/weblog2]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12553</id>
+    <title>My First Month @ MS</title>
+    <updated>2003-05-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-05-21T07:00:00.000Z</published>
+    <summary>Wed, May 21, 2003 Today marks the 1-month anniversary of my assimilation. For those expecting references to my &amp;quot;scars,&amp;quot; you can be as surprised as I am that there aren't any. In fact, my coming to MS has not really been a big deal. Oh, folks were nice and I got emails from all manner of internal and external folks with nothing but good wishes, but, somehow, I expected something different. Frankly, given the world's impression of MS, I think I expected hazing. In fact, I woke up this morning with m...</summary>
+    <content type="html">&lt;h1>My First Month @ MS&lt;/h1>
+&lt;p>&lt;i>
+Wed, &lt;span class="created">May 21, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>Today marks the 1-month anniversary of my 
+assimilation. For those expecting references to my &amp;quot;scars,&amp;quot; you can be as 
+surprised as I am that there aren't any. In fact, my coming to MS has not really 
+been a big deal. Oh, folks were nice and I got emails from all manner of 
+internal and external folks with nothing but good wishes, but, somehow, I 
+expected something different. Frankly, given the world's impression of MS, I 
+think I expected hazing. In fact, I woke up this morning with memories of dreams 
+involving all kinds of bizarre knowledge- and activity-based initiation rites 
+lead by &lt;a href="http://blogs.gotdotnet.com/saraw/">my 
+grand-boss&lt;/a> that reminded me of a cross between &lt;a href="http://www.phideltatheta.org/">
+my college fraternity&lt;/a> and &lt;a href="http://www.fearfactor.com">
+Fear Factor&lt;/a> (although maybe I was still reliving &lt;a href="http://www.pbase.com/twwilliams/msdn_scavenger_hunt">
+my MSDN &amp;quot;morale event&amp;quot; experience&lt;/a> : ).&lt;/p>&lt;p>Why did I expect all kinds of 
+horrible things? Because MS is a very intimidating company; they play to &lt;i>&lt;b>
+win&lt;/b>&lt;/i>, seemingly at all costs. This A+ personality trait is certainly 
+reflected inside the company, but there's something else there, too. The part 
+that surprised me was that job #1 seems to be exactly what I would pick: do &amp;quot;the 
+right thing&amp;quot; for the customer.&lt;/p>&lt;p>In fact, doing the right thing is so 
+important that MS builds a &amp;quot;customer advocate&amp;quot; position right into the heart of 
+their culture; these people are called &amp;quot;Program Managers&amp;quot; (PMs). PMs are not to 
+be confused with &amp;quot;Product Managers,&amp;quot; who are marketing folks. Of course, MS has 
+all the standard positions, e.g. marketing, managers, developers, testers, 
+documentation, etc, but they also have this PM position that, as far as I can 
+see, forms the glue for the company and affects everything else. The PM's job is 
+wake up in the morning and think to him/herself, &amp;quot;What's the right thing to do 
+today?&amp;quot; The range of things that fall into this category is far too wide to even 
+give you the bounds, but essentially it's whatever someone else isn't already 
+doing (or isn't doing to their satisfaction : ). Once they identify the right 
+thing to do, they can attempt to take &amp;quot;ownership&amp;quot; of making it happen (your boss 
+gets a say in how you spend your time).&lt;/p>&lt;p>Once ownership is acquired, that's 
+when things get interesting. PMs have all kinds of responsibility, but no 
+authority. While this kind of position is generally one to avoid in the world of 
+corporate politics, the internal product cycle training video I watched a couple 
+of weeks ago points out that &amp;quot;responsibly without authority&amp;quot; is by design. 
+Instead of ruling by fiat, PMs have to wander around the company finding folks 
+that are involved with what they're doing to get their &amp;quot;buy in&amp;quot; and their help. 
+The way to do that is through old-fashion politics, i.e. gathering consensus, 
+persuasion, trading favors, brow-beating, table thumping, complaining up your 
+own management chain, complaining up your opponent's management chain, etc. It's 
+not just a popularity contest, although being liked certainly helps. It's also 
+about your reputation, as established by your technical chops and your ability 
+to produce, among other things. Under-achievers need not apply.&lt;/p>&lt;p>In other 
+cultures where the hierarchy is all, such meritocracy can't really work (in 
+spite of lip service to the contrary). There's often too much of an attitude of 
+&amp;quot;who the hell are you to tell me what to do?&amp;quot; to even be allowed to present your 
+case. Luckily, since there's a whole bunch of folks wandering the halls looking 
+for favors, the MS culture makes it OK to work in this manner. That's why the 
+role of PM forms to key to the culture, imo. Oh sure, MS is a real company with 
+a well-established hierarchical chain of command (there're currently 7 people 
+between me and Billg), but hierarchy is only one part of the organization, and 
+arguably not the dominant one (although I'm still new : ).&lt;/p>&lt;p>In a way, the 
+whole system is kind of like the legal system. In the court room, lawyers from 
+each side argue before a jury, each using every trick in the book to push their 
+agenda and the law is only part of the equation. The jury decides who's right.&lt;/p>&lt;p>
+At MS, multiple PMs all wrangle with each other, each using every trick in the 
+book to push their agenda and technology is only part of the equation. 
+Sometimes, it's the folks inside of MS that serve as the jury. Sometimes, it's 
+the market itself that serves as the jury. In the latter case, that's why you 
+sometimes see multiple products from MS that seemingly serve the same purpose, 
+e.g. C++ vs. C#. Those are two groups that both think that they've got the best 
+way to accomplish their goals and they've both made strong enough cases 
+internally to be allowed to compete externally. Probably the reason that each 
+product exists in the first place is because one day some PM probably woke up 
+and said, &amp;quot;MS really needs a C++ compiler&amp;quot; or &amp;quot;.NET really needs a C-like 
+language that's not as hard to use as C++,&amp;quot; and look what they got themselves 
+into. : )&lt;/p>&lt;p>Of course, it's not just PMs that have the responsibility to 
+constantly be on the lookout for the right thing. Everyone is supposed to get up 
+every day with this attitude. It's just that PMs only get to persuade; they 
+don't get to order things to be done (unless they get staff). Since MS is filled 
+with folks all aiming to do the right thing, everyone is constantly committing 
+to help with new ideas. That's why you see MS folks at conferences always busy 
+and always rushing back to their rooms to check their email; they've committed 
+to do way more than a normal human can do because as the &amp;quot;right things&amp;quot; come 
+along, it's darn hard to say &amp;quot;no.&amp;quot; That's why I started this spout entry on a 
+Wednesday but I'm finishing it at 8am on a Saturday while the rest of my family 
+sleeps. Even in the last month, I've accumulated a bunch of projects of varying 
+sizes, all of them &amp;quot;right&amp;quot; as far as I was concerned.&lt;/p>&lt;p>According to the 
+training video, in spite of this overwork and the recent lack of any expectation 
+of riches, folks that come to MS don't seem to ever want to leave. It's that 
+darn culture of the PM again. I've worked at large companies that run by fiat 
+and they suck. Hell, I've worked at small companies that work by fiat and they 
+suck, too. Is it any wonder that, assuming you have merit, once you find a 
+stable, interesting, friendly company judging you on your merit that you're 
+loathe to leave? I find myself cataloging the skills that I think I'll need to 
+be successful at MS and it seems like I've been preparing for this job since I 
+was 12 years old. I've hopped from company to company looking for the perfect 
+fit. DM provided that fit during the boom. Is MS going to provide it from now 
+on?&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/583</id>
+    <title>Managing Editor</title>
+    <updated>2003-05-20T07:00:00.000Z</updated>
+    <published>2003-05-20T07:00:00.000Z</published>
+    <summary>From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/blogs - a simple Web-based interface to read RSS feeds. Team PerfectXML will be adding some features (such as adding blog entries to favorites, searching, and other customizations), till then enjoy the RSSConnect at http://www.PerfectXML.com/RSSConnect </summary>
+    <content type="html">&lt;h1>Managing Editor&lt;/h1>
+From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/blogs - a simple Web-based interface to read RSS feeds. Team PerfectXML will be adding some features (such as adding blog entries to favorites, searching, and other customizations), till then enjoy the RSSConnect at http://www.PerfectXML.com/RSSConnect
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/581</id>
+    <title>Applied XML Conference Message Board</title>
+    <updated>2003-05-19T07:00:00.000Z</updated>
+    <published>2003-05-19T07:00:00.000Z</published>
+    <summary>Here. Want to discuss the upcoming topics with your fellow attendees? Join the conference's message board and have at it!</summary>
+    <content type="html">&lt;h1>Applied XML Conference Message Board&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=102281">Here&lt;/a>. Want to discuss the upcoming topics with your fellow attendees? Join the conference's message board and have at it!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/582</id>
+    <title>30+ People Already Going to the Applied XML Conf.</title>
+    <updated>2003-05-19T07:00:00.000Z</updated>
+    <published>2003-05-19T07:00:00.000Z</published>
+    <summary>Here. I don't mean to rush anyone, but there's already about 30 people signed up for the Applied XML conference. Some of this includes speakers, of course, because they always attend the conference, too, but plenty of folks have already registered just since 5pm on Friday. 'nuf said.</summary>
+    <content type="html">&lt;h1>30+ People Already Going to the Applied XML Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. I don't mean to rush anyone, but there's already about 30 people signed up for the Applied XML conference. Some of this includes speakers, of course, because they always attend the conference, too, but plenty of folks have already registered just since 5pm on Friday. 'nuf said.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/580</id>
+    <title>System Security</title>
+    <updated>2003-05-19T07:00:00.000Z</updated>
+    <published>2003-05-19T07:00:00.000Z</published>
+    <summary>Here. From Carlos Aquino: Do you think that your system is safe and sound? Think twice. Security must be a full-time task on all developers and administrators agenda. Learn more with this whitepapers and guides collection.
+</summary>
+    <content type="html">&lt;h1>System Security&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=Security">Here&lt;/a>. From Carlos Aquino: Do you think that your system is safe and sound? Think twice. Security must be a full-time task on all developers and administrators agenda. Learn more with this whitepapers and guides collection.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/579</id>
+    <title>Cracking VM Programs w/ a Hammer</title>
+    <updated>2003-05-17T07:00:00.000Z</updated>
+    <published>2003-05-17T07:00:00.000Z</published>
+    <summary>Here. Apparently, if you're allowed to cause physical faults in the hardware, you can crack even VM programs running on that hardware. Yet another reason that physical security is necessary for logical security. [lambda.weblogs.com]</summary>
+    <content type="html">&lt;h1>Cracking VM Programs w/ a Hammer&lt;/h1>
+&lt;a href="http://www.cs.princeton.edu/~appel/papers/memerr.pdf">Here&lt;/a>. Apparently, if you're allowed to cause physical faults in the hardware, you can crack even VM programs running on that hardware. Yet another reason that physical security is necessary for logical security.
+
+[lambda.weblogs.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/578</id>
+    <title>Extreme Optimization #1</title>
+    <updated>2003-05-17T07:00:00.000Z</updated>
+    <published>2003-05-17T07:00:00.000Z</published>
+    <summary>Here. Jeffrey Sax optimizes already optimized C# code by 1249%. That *is* extreme.</summary>
+    <content type="html">&lt;h1>Extreme Optimization #1&lt;/h1>
+&lt;a href="http://www.codeproject.com/csharp/IPLookupOptimise.asp">Here&lt;/a>. Jeffrey Sax optimizes already optimized C# code by 1249%. That *is* extreme.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/577</id>
+    <title>My First Talk As A Microsoft Employee</title>
+    <updated>2003-05-16T07:00:00.000Z</updated>
+    <published>2003-05-16T07:00:00.000Z</published>
+    <summary>Here. The one where I'm glad my first talk after taking the red pill was for a small group...</summary>
+    <content type="html">&lt;h1>My First Talk As A Microsoft Employee&lt;/h1>
+&lt;a href="/12554">Here&lt;/a>. The one where I'm glad my first talk after taking the red pill was for a small group...</content>
+  </entry>
+</feed>

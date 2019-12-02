@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed57.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed56.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed58.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed57.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1606</id>
+    <title>More Peer Pressure for Ian...</title>
+    <updated>2004-11-27T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-27T08:00:00.000Z</published>
+    <summary>I really wish Ian would port his TopDraw sample to the Avalon CTP...</summary>
+    <content type="html">&lt;h1>More Peer Pressure for Ian...&lt;/h1>
+I really wish Ian would port &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/02/13/zoomxaml">his TopDraw sample&lt;/A> to the Avalon CTP...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1605</id>
+    <title>DirectX Mesh (.x) to XAML Converter Update for CTP</title>
+    <updated>2004-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-26T08:00:00.000Z</published>
+    <summary>Ian gives into peer pressure (I love the Internet : ) and posts an update to his DirectX mesh (.x) files to XAML conversion tool that works with the Avalon CTP. Now that we have an Avalon that works with WinXP and VS05, what's holding you back? </summary>
+    <content type="html">&lt;h1>DirectX Mesh (.x) to XAML Converter Update for CTP&lt;/h1>
+&lt;P>Ian gives into peer pressure (I love the Internet : ) and posts an update to his &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/11/25/dxmesh2xaml2">DirectX mesh (.x) files to XAML conversion tool that works with the Avalon CTP&lt;/A>.&lt;/P>
+&lt;P>Now that we have an Avalon that works with WinXP and VS05, what's holding &lt;EM>you &lt;/EM>back?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1604</id>
+    <title>Hurray for IE QA!</title>
+    <updated>2004-11-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-26T08:00:00.000Z</published>
+    <summary>From securityfocus.com : "It appears that the overall quality of code, and more importantly, the amount of QA, on various browsers touted as 'secure', is not up to par&amp;nbsp;with MSIE; the type of a test I performed requires no human interaction&amp;nbsp;and involves nearly no effort. Only MSIE appears to be able to&amp;nbsp;consistently handle [*] malformed input well, suggesting this is the&amp;nbsp;only program that underwent rudimentary security QA testing with a&amp;nbsp;similar fuzz utility. "This is of course not to ...</summary>
+    <content type="html">&lt;h1>Hurray for IE QA!&lt;/h1>
+&lt;P>&lt;A href="http://www.securityfocus.com/archive/1/378632/2004-10-15/2004-10-21/0">From securityfocus.com&lt;/A>:&lt;/P>
+&lt;P>"It appears that the overall quality of code, and more importantly, the amount of QA, on various browsers touted as 'secure', is not up to par&amp;nbsp;with MSIE; the type of a test I performed requires no human interaction&amp;nbsp;and involves nearly no effort. Only MSIE appears to be able to&amp;nbsp;consistently handle [*] malformed input well, suggesting this is the&amp;nbsp;only program that underwent rudimentary security QA testing with a&amp;nbsp;similar fuzz utility.&lt;/P>
+&lt;P>"This is of course not to say MSIE is more secure; it does have a number of problems, mostly related to its security architecture and various features absent in other browsers. But the quality of core code appears to be far better than of its 'secure' competitors.&lt;/P>
+&lt;P>"[*] Over the course of about 2 hours; I cannot rule out it would exhibit problems in a longer run."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1603</id>
+    <title>Some Love for the Smart Client Offline App. Block</title>
+    <updated>2004-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-26T08:00:00.000Z</published>
+    <summary>Richard Childress has posted on his experiences with the Smart Client Offline Application Block as valuable for not only solving his domain-specific problem, but also in getting.NET to be used at all: "Working in IT, where we try to only write code that helps run our business, it's a Great Thing when you don't have to write plumbing code. Writing a class here and another class there, while leveraging a big chunk of code that we didn't write to solve a problem, is golden. This block, itself, is actually help...</summary>
+    <content type="html">&lt;h1>Some Love for the Smart Client Offline App. Block&lt;/h1>
+&lt;P>Richard Childress has posted on &lt;A href="http://www25.brinkster.com/rchildress/postView.aspx?id=98">his experiences with the Smart Client Offline Application Block&lt;/A> as valuable for not only solving his domain-specific problem, but also in getting .NET to be used at all:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>"Working in IT, where we try to only write code that helps run our business, it's a Great Thing when you don't have to write plumbing code. Writing a class here and another class there, while leveraging a big chunk of code that we didn't write to solve a problem, is golden. This block, itself, is actually helping drive the case for starting to incorporate the framework into our app(s). The value is unquestionable."&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1602</id>
+    <title>Useful Avalon Application: Pong</title>
+    <updated>2004-11-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-25T08:00:00.000Z</published>
+    <summary>As cool as XamlPad and Bouncing Boing Ball are, I've had at least one blog comment from someone looking for a useful Avalon CTP application (something not targeted at developers, I'm guessing). Well look no more, because we have Pong! What more use can we expect from our computers than that?!? : ) </summary>
+    <content type="html">&lt;h1>Useful Avalon Application: Pong&lt;/h1>
+&lt;P>As cool as &lt;A href="http://www.simplegeek.com/PermaLink.aspx/f873638f-a3ec-4574-932d-d939b336ead2">XamlPad&lt;/A> and &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/11/23/268252.aspx">Bouncing Boing Ball&lt;/A> are, I've had at least one blog comment from someone looking for a &lt;EM>useful&lt;/EM> Avalon CTP application (something not targeted at developers, I'm guessing). Well look no more, because &lt;A href="http://www.bluebytesoftware.com/blog/PermaLink.aspx?guid=93dae8e0-9c0d-45c6-b406-b95722400985">we have Pong&lt;/A>! What more use can we expect from our computers than that?!? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1601</id>
+    <title>Microsoft Amnesty for Software Pirates</title>
+    <updated>2004-11-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-25T08:00:00.000Z</published>
+    <summary>Wow. This is nice of us...</summary>
+    <content type="html">&lt;h1>Microsoft Amnesty for Software Pirates&lt;/h1>
+Wow. &lt;A href="http://news.zdnet.com/2100-3513_22-5466487.html">This is nice of us&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1600</id>
+    <title>Interactive Programming Addiction</title>
+    <updated>2004-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-24T08:00:00.000Z</published>
+    <summary>So, I've never done anything with Python, so I've never really figured out what the big deal was. However, if the interactive Python development environment is anything like the experience of XamlPad, I'm glad I haven't tried it, otherwise I'd never be able to go back. Oh my god, that interactive model is wonderful! I sat down this afternoon to port my Longhorn Solitaire code to the Avalon CTP and had to completely re-write my GridPanel layout code to use the new Grid because the GridPanel is deprecated. Ho...</summary>
+    <content type="html">&lt;h1>Interactive Programming Addiction&lt;/h1>
+&lt;P>So, I've never done anything with Python, so I've never really figured out what the big deal was. However, if the interactive Python development environment is anything like the experience of XamlPad, I'm glad I haven't tried it, otherwise I'd never be able to go back.&lt;/P>
+&lt;P>Oh my god, that interactive model is wonderful! I sat down this afternoon to port my Longhorn Solitaire code to the Avalon CTP and had to completely re-write my GridPanel layout code to use the new Grid because the GridPanel is deprecated. However, I didn't know a thing about the Grid, so found &lt;A href="http://winfx.msdn.microsoft.com/?//winfx.msdn.microsoft.com/winfx/ref/ns/system.windows.controls/c/grid/grid.aspx#layout_tasks_grid_markup">a great little Grid sample from the WinFX SDK&lt;/A> and started &lt;A href="http://www.simplegeek.com/PermaLink.aspx/f873638f-a3ec-4574-932d-d939b336ead2">the latest version of XamlPad&lt;/A> and taught myself how to use the Grid interactively.&lt;/P>
+&lt;P>Every time I added an element or attribute, I saw the results in real-time. If I screwed up the syntax, I got a red error message in the status bar. I can't tell you how much pleasure I got adding &amp;lt;ColumnDefinition&amp;gt; and &amp;lt;RowDefinition&amp;gt; elements and setting the Grid.Row and Grid.Column attributes on my cell elements,&amp;nbsp;watching things move around the screen and figuring out Grid the content model. It was fabulous! All development should be like this...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1597</id>
+    <title>XAML Viewer for Visual Studio 2005 Beta 1</title>
+    <updated>2004-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-24T08:00:00.000Z</published>
+    <summary>As cool as Chris Anderson's XamlPad sample is, I think Gaston "I'm a VS man" Milano has done him one better with a XAML viewer integrated directly into Visual Studio 2005 beta 1. Wahoo! </summary>
+    <content type="html">&lt;h1>XAML Viewer for Visual Studio 2005 Beta 1&lt;/h1>
+&lt;P>As cool as &lt;A href="http://www.simplegeek.com/PermaLink.aspx/f873638f-a3ec-4574-932d-d939b336ead2">Chris Anderson's XamlPad sample&lt;/A> is, I think Gaston "I'm a VS man" Milano has done him one better with &lt;A href="http://weblogs.asp.net/gmilano/archive/2004/11/24/269082.aspx">a XAML viewer integrated directly into Visual Studio 2005 beta 1&lt;/A>. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1599</id>
+    <title>Channel9: Way Cool Visual C# Express Demo</title>
+    <updated>2004-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-24T08:00:00.000Z</published>
+    <summary>It's amazing to me how much stuff they've packed into Visual C# Express. In this Channel9 demo from Dan Fernandez, I learned about a ton of VS05 features&amp;nbsp;that I didn't know about. I hope they all work from the non-Express product...</summary>
+    <content type="html">&lt;h1>Channel9: Way Cool Visual C# Express Demo&lt;/h1>
+It's amazing to me how much stuff they've packed into Visual C# Express. In this Channel9 demo from Dan Fernandez, I learned about &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=14793">a ton of VS05 features&amp;nbsp;that I didn't know about&lt;/A>. I hope they all work from the non-Express product...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1598</id>
+    <title>Getting to the Avalon Visual Tree</title>
+    <updated>2004-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-24T08:00:00.000Z</published>
+    <summary>It's a common Avalon question: how does XAML get translated into an Avalon visual tree, i.e. the set of Avalon objects? In this post, Zhanbo Sun, an SDE/T on the Avalon team, not only shows an example of this translation, but provides the code so that you can see it for yourself. Maybe Chris Anderson will add this feature to XamlPad so that you can see it interactively or maybe Gaston Milano will add it to his VS XAML Viewer so that you can see it inside of Visual Studio... [hint, hint]</summary>
+    <content type="html">&lt;h1>Getting to the Avalon Visual Tree&lt;/h1>
+It's a common Avalon question: how does XAML get translated into an Avalon visual tree, i.e. the set of Avalon objects? &lt;A href="http://longhornblogs.com/zhanbos/archive/2004/11/23/7571.aspx">In this post&lt;/A>, Zhanbo Sun, an SDE/T on the Avalon team, not only shows an example of this translation, but provides the code so that you can see it for yourself. Maybe Chris Anderson will add this feature to &lt;A href="http://www.simplegeek.com/PermaLink.aspx/f873638f-a3ec-4574-932d-d939b336ead2">XamlPad&lt;/A> so that you can see it interactively or maybe Gaston Milano will add it to his &lt;A href="http://weblogs.asp.net/gmilano/archive/2004/11/24/269082.aspx">VS XAML Viewer&lt;/A> so that you can see it inside of Visual Studio... [hint, hint]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1595</id>
+    <title>Avalon + WinForms Sitting In A Tree...</title>
+    <updated>2004-11-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-23T08:00:00.000Z</published>
+    <summary>Chris Anderson has posted two samples of Avalon and Windows Forms&amp;nbsp;integration ( a simple one and a more complicated one ). Both are presented in a form that's easy to use with his ClickOnce XamlPad Clone. Enjoy.</summary>
+    <content type="html">&lt;h1>Avalon + WinForms Sitting In A Tree...&lt;/h1>
+Chris Anderson has posted two samples of Avalon and Windows Forms&amp;nbsp;integration (&lt;A href="http://www.simplegeek.com/PermaLink.aspx/35d50b50-868c-4e39-9bcb-2d865138376f">a simple one&lt;/A> and &lt;A href="http://www.simplegeek.com/PermaLink.aspx/ec866c94-92cf-49fa-bc39-79ba849100d5">a more complicated one&lt;/A>). Both are presented in a form that's easy to use with &lt;A href="http://blog.simplegeek.com/avalon/xp.deploy">his ClickOnce XamlPad Clone&lt;/A>. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1596</id>
+    <title>Avalon CTP Sample: 3D Animation Studio</title>
+    <updated>2004-11-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-23T08:00:00.000Z</published>
+    <summary>Karsten has updated his 3D animation play toy to the Avalon CTP.</summary>
+    <content type="html">&lt;h1>Avalon CTP Sample: 3D Animation Studio&lt;/h1>
+Karsten has updated his &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/11/23/268626.aspx">3D animation play toy&lt;/A> to the Avalon CTP.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1592</id>
+    <title>Using VC#/VB Express w/ the Avalon CTP</title>
+    <updated>2004-11-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-22T08:00:00.000Z</published>
+    <summary>Rob Relyea, a Lead PM on the Avalon team, has posted a set of instructions for using the Avalon CTP project templates from Visual C# Express and Visual Basic Express.</summary>
+    <content type="html">&lt;h1>Using VC#/VB Express w/ the Avalon CTP&lt;/h1>
+Rob Relyea, a Lead PM on the Avalon team, has posted a set of instructions for &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/11/22/7450.aspx">using the Avalon CTP project templates from Visual C# Express and Visual Basic Express&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1594</id>
+    <title>Avalon CTP Sample #2: 3D Bouncing Boing Demo</title>
+    <updated>2004-11-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-22T08:00:00.000Z</published>
+    <summary>Daniel Lehenbauer, an SDE on the Avalon team, has ported his 3D Bouncing Ball Boing demo to the Avalon CTP. The hits, they just keep on coming. : )</summary>
+    <content type="html">&lt;h1>Avalon CTP Sample #2: 3D Bouncing Boing Demo&lt;/h1>
+Daniel Lehenbauer, an SDE on the Avalon team, has ported his &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/11/23/268252.aspx">3D Bouncing Ball Boing demo to the Avalon CTP&lt;/A>. The hits, they just keep on coming. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1593</id>
+    <title>Getting to Know Avalon - A Guided Tour of the SDK</title>
+    <updated>2004-11-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-22T08:00:00.000Z</published>
+    <summary>Tim Sneath, Avalon evangelist and all around charming fellow (maybe because his name reminds me of a Dr. Suess character?), posted a nice little tour of Avalon via the the WinFX SDK. Enjoy.</summary>
+    <content type="html">&lt;h1>Getting to Know Avalon - A Guided Tour of the SDK&lt;/h1>
+Tim Sneath, Avalon evangelist and all around charming fellow (maybe because his name reminds me of a Dr. Suess character?), posted &lt;A href="http://weblogs.asp.net/tims/archive/2004/11/22/268197.aspx">a nice little tour of Avalon via the the WinFX SDK&lt;/A>. Enjoy.</content>
+  </entry>
+</feed>

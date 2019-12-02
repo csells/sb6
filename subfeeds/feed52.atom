@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed52.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed51.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed53.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed52.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1680</id>
+    <title>DeepWinFX: Avalon Menus</title>
+    <updated>2005-02-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-04T08:00:00.000Z</published>
+    <summary>Deepak gives a very simple intro to building menus in Avalon, effectively answering the common questions I normally get about this very subject.</summary>
+    <content type="html">&lt;h1>DeepWinFX: Avalon Menus&lt;/h1>
+Deepak gives &lt;A href="http://www.deepwinfx.com/Article.aspx?Article=3">a very simple intro to building menus in Avalon&lt;/A>, effectively answering the common questions I normally get about this very subject.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1678</id>
+    <title>Keeping the Windows Forms Designer from Eating You</title>
+    <updated>2005-02-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-03T08:00:00.000Z</published>
+    <summary>Shawn Burke, Dev. Manager on the Windows Forms team, thinks that MS has finally figured out the problem with controls disappearing from the Designer and points to a fix, mentions an SP for VS03 and promises these fixes applied to VS05. Shawn, on behalf of the Windows Forms developer community, I'd like to just say: Wahoo! </summary>
+    <content type="html">&lt;h1>Keeping the Windows Forms Designer from Eating You&lt;/h1>
+&lt;P>Shawn Burke, Dev. Manager on the Windows Forms team, thinks that &lt;A href="http://www.shawnburke.com/default.aspx?document=183">MS has finally figured out the problem with controls disappearing from the Designer and points to a fix&lt;/A>, mentions an SP for VS03 and promises these fixes applied to VS05.&lt;/P>
+&lt;P>Shawn, on behalf of the Windows Forms developer community, I'd like to just say: Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1676</id>
+    <title>London Avalon Enthusiasts Dinner</title>
+    <updated>2005-02-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-03T08:00:00.000Z</published>
+    <summary>Kevin Moore, a PM on the Avalon team, is in London for one night (Feb. 28) and wants to gather the Avalon enthused together for dinner. Microsoftie's have expense accounts for this kind of thing, so if you can stand to listen to Avalon talk over shepherd's pie, you should let him know!</summary>
+    <content type="html">&lt;h1>London Avalon Enthusiasts Dinner&lt;/h1>
+Kevin Moore, a PM on the Avalon team, is in London for one night (Feb. 28) and wants to gather the Avalon enthused together for dinner. Microsoftie's have expense accounts for this kind of thing, so if you can stand to listen to Avalon talk over shepherd's pie, &lt;A href="http://blogs.msdn.com/okoboji/archive/2005/02/01/365234.aspx">you should let him know&lt;/A>!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1677</id>
+    <title>Feb 15h, Founder's Last Portland Nerd Dinner</title>
+    <updated>2005-02-03T08:00:00.000Z</updated>
+    <published>2005-02-03T08:00:00.000Z</published>
+    <summary>Here. Come and see Jim Blizzard off right. As the founder of the Portland Nerd Dinner, he will be sorely missed. If you want to contribute to the planning of our founder's last dinner, drop Rich a line. We've got some fun stuff planned, but could always use more. : ) </summary>
+    <content type="html">&lt;h1>Feb 15h, Founder's Last Portland Nerd Dinner&lt;/h1>
+&lt;a href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=c7d67e44-9c36-4a49-9be9-96fff7ec29bd">Here&lt;/a>. &lt;P>Come and see Jim Blizzard off right. As the founder of the Portland Nerd Dinner, he will be sorely missed. If you want &lt;A href="mailto:donations@theclaussens.com">to contribute to the planning of our founder's last dinner, drop Rich a line&lt;/A>. We've got some fun stuff planned, but could always use more. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1675</id>
+    <title>Aurora XAML Editor Updated for Avalon Nov. CTP</title>
+    <updated>2005-01-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-31T08:00:00.000Z</published>
+    <summary>Mobiform has updated their Aurora XAML editor for using on the November 2004 CTP of Avalon.</summary>
+    <content type="html">&lt;h1>Aurora XAML Editor Updated for Avalon Nov. CTP&lt;/h1>
+Mobiform has updated &lt;A href="http://www.mobiform.com/2005/XAML/xamlhome.htm#aurora">their Aurora XAML editor&lt;/A> for using on the November 2004 CTP of Avalon.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1673</id>
+    <title>Awaiting and Dreading Subtext</title>
+    <updated>2005-01-30T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-01-30T08:00:00.000Z</published>
+    <summary>If you follow the link to the subtext demo that Preston Bannister mentions, you'll see my idea of hell, i.e. manipulating code primarily with a mouse. Have you ever seen those guys -- you know who I mean -- those guys that want to copy a chunk of code and reach for the mouse, almost select the text, almost select the text again, finally select the text they want, go to the Edit menu, choose Copy, click on the place near where they want the code to be, click again, finally click in the right place, go to the...</summary>
+    <content type="html">&lt;h1>Awaiting and Dreading Subtext&lt;/h1>
+&lt;P>If you follow the link to &lt;A href="http://subtextual.org/demo1.html">the subtext demo&lt;/A> that &lt;A href="http://bannister.us/weblog/?p=192">Preston Bannister mentions&lt;/A>, you'll see my idea of hell, i.e. manipulating code primarily with a mouse. Have you ever seen those guys -- you know who I mean -- those guys that want to copy a chunk of code and reach for the mouse, almost select the text, almost select the text again, finally select the text they want, go to the Edit menu, choose Copy, click on the place near where they want the code to be, click again, finally click in the right place, go to the Edit menu and choose Paste and by that time, you've died of old age? It's all I can do not to tackle these people so I can use the combinations of Ctrl, Shift, Alt and the arrows to select the text and move the cursor to the spot where it belongs, using Ctrl+C and Ctrl+V, never touching the mouse,&amp;nbsp;like BillG intended.&lt;/P>
+&lt;P>So, watching the subtext demo, which was nearly all copy and paste using the mouse made me want to tackle the guy doing the demo, especially since I couldn't run it at a higher speed (my very favorite WMP feature).&lt;/P>
+&lt;P>On the other hand, I loved the idea of the code always being executed with live, example data to show me instant code coverage and I loved the idea of the code always being executable. If I could get a structured editor that let me copy and link using the keyboard (and it used some language I could actually ship, at least in some transformation mode), I'd use it in a heartbeat.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1674</id>
+    <title>XAML Experience Highly Desired in Concord, MA</title>
+    <updated>2005-01-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-30T08:00:00.000Z</published>
+    <summary>Here. Holy cow; there are already jobs for XAML folk...</summary>
+    <content type="html">&lt;h1>XAML Experience Highly Desired in Concord, MA&lt;/h1>
+&lt;a href="http://www.jobfind.com/JobSeekerX/SearchJobs.asp?Jobs_CategoryId=777&amp;JobKeywords_Keyword=xaml">Here&lt;/a>. Holy cow; there are already &lt;A href="http://www.jobfind.com/JobSeekerX/SearchJobs.asp?Jobs_CategoryId=777&amp;amp;JobKeywords_Keyword=xaml">jobs for XAML folk&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1671</id>
+    <title>Schools Ban Camera Phones Amid 'Happy Slapping' Craze</title>
+    <updated>2005-01-27T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-01-27T08:00:00.000Z</published>
+    <summary>I can't really improve on this: " Head teachers have banned children from using video phones to stop them slapping other pupils in the face and recording the attacks on their mobiles." </summary>
+    <content type="html">&lt;h1>Schools Ban Camera Phones Amid 'Happy Slapping' Craze&lt;/h1>
+I can't really improve on this: "&lt;SPAN class=article>Head teachers have banned children from using video phones to &lt;A href="http://news.scotsman.com/latest.cfm?id=4030257">stop them slapping other pupils in the face and recording the attacks on their mobiles&lt;/A>."&lt;/SPAN></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1672</id>
+    <title>SolFX: Much Improved Performance</title>
+    <updated>2005-01-27T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-01-27T08:00:00.000Z</published>
+    <summary>I'm updated SolFX to use DrawingBrushes instead of Canvases and to use a much simpler card back, so performance is much improved. In fact, it's so much improved that I'm starting to think about other things that it needs...</summary>
+    <content type="html">&lt;h1>SolFX: Much Improved Performance&lt;/h1>
+I'm &lt;a href="/12650">updated SolFX&lt;/A> to use DrawingBrushes instead of Canvases and to use a much simpler card back, so performance is much improved. In fact, it's so much improved that I'm starting to think about other things that it needs...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1669</id>
+    <title>Ari Bixhorn on Indigo</title>
+    <updated>2005-01-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-25T08:00:00.000Z</published>
+    <summary>Ari Bixhorn, Lead Product Manager on the Indigo team, talks about his hopes and dreams for Indigo.</summary>
+    <content type="html">&lt;h1>Ari Bixhorn on Indigo&lt;/h1>
+Ari Bixhorn, Lead Product Manager on the Indigo team, talks about &lt;A href="http://www.ftponline.com/vsm/2005_03/magazine/departments/guestop/">his hopes and dreams for Indigo&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1668</id>
+    <title>I Can't Promise To Answer All Of Your Prayers, But I Promise To Always Listen</title>
+    <updated>2005-01-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-25T08:00:00.000Z</published>
+    <summary>I didn't know that I'd been nominated, but apparently I was canonized yesterday as the Patron Saint of Smart Client Applications. I promise to be a firm but fair Deity. : ) </summary>
+    <content type="html">&lt;h1>I Can't Promise To Answer All Of Your Prayers, But I Promise To Always Listen&lt;/h1>
+&lt;P>I didn't know that I'd been nominated, but apparently I was canonized yesterday as &lt;A href="http://www.codinghorror.com/blog/archives/000193.html">the Patron Saint of Smart Client Applications&lt;/A>. I promise to be a firm but fair Deity. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1670</id>
+    <title>Avalon Property Triggers</title>
+    <updated>2005-01-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-25T08:00:00.000Z</published>
+    <summary>Joe Marini, the king of code-less Avalon, has done it again, this time adding interactivity to his samples using Avalon property triggers, all w/o a line of code.</summary>
+    <content type="html">&lt;h1>Avalon Property Triggers&lt;/h1>
+Joe Marini, the king of code-less Avalon, has done it again, this time &lt;A href="http://www.joemarini.com/tutorials/tutorialpages/xamlpropertytriggers.php">adding interactivity to his samples using Avalon property triggers&lt;/A>, all w/o a line of code.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1667</id>
+    <title>Jason Olson's Microsoft Interview Advice</title>
+    <updated>2005-01-23T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-01-23T08:00:00.000Z</published>
+    <summary>Jason Olson recently interviewed for an SDE/T position (Software Development Engineer in Test) at Microsoft and although he didn't get it, he provides some words of advice for folks about to interview for the first time.</summary>
+    <content type="html">&lt;h1>Jason Olson's Microsoft Interview Advice&lt;/h1>
+Jason Olson recently interviewed for an SDE/T position (Software Development Engineer in Test) at Microsoft and although he didn't get it, he provides &lt;A href="/12381">some words of advice for folks about to interview for the first time&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12381</id>
+    <title>Jason Olson's Microsoft Interview Advice</title>
+    <updated>2005-01-21T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2005-01-21T08:00:00.000Z</published>
+    <summary>Jason Olson recently interviewed for an SDE/T position (Software Development Engineer in Test) at Microsoft and although he didn't get it, he provides the following words of advice for folks about to interview for the first time: Just Do It Remember, no matter how much you might know your interviewer, it is important to not forget that it is still in interview Pseudocode! Pseudocode! Pseudocode! But, as long as you verbalize what you're thinking you should be in pretty good shape Bring an energy bar or some...</summary>
+    <content type="html">&lt;h1>Jason Olson's Microsoft Interview Advice&lt;/h1>
+
+&lt;p>Jason Olson recently interviewed for an SDE/T position (Software Development 
+Engineer in Test) at Microsoft and although he didn't get it, he provides the 
+following words of advice for folks about to interview for the first time:&lt;/p>
+&lt;ul>
+	&lt;li>Just Do It&lt;/li>
+	&lt;li>Remember, no matter how much you might know your interviewer, it is 
+	important to not forget that it is still in interview&lt;/li>
+	&lt;li>Pseudocode! Pseudocode! Pseudocode!&lt;/li>
+	&lt;li>But, as long as you verbalize what you're thinking you should be in 
+	pretty good shape&lt;/li>
+	&lt;li>Bring an energy bar or something to snack on between breaks in order to 
+	keep your energy level up&lt;/li>
+	&lt;li>[B]ring a bottle&amp;nbsp;of water and keep it filled up&lt;/li>
+	&lt;li>A lunch interview is still an interview!&lt;/li>
+	&lt;li>Know the position you're interviewing for &lt;i>[ed: unless you're 
+	interviewing for an editing position, in which case you should know the 
+	position for which you're interviewing]&lt;/i>&lt;/li>
+	&lt;li>Your interview day is not only your opportunity to be interviewed, but 
+	also your opportunity to interview the team/company&lt;/li>
+&lt;/ul>
+&lt;p>You can read
+&lt;a href="http://geekswithblogs.net/jolson/archive/2005/01/21/20636.aspx">
+the full story&lt;/a> on his web site.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1666</id>
+    <title>20 is the new 30</title>
+    <updated>2005-01-20T08:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2005-01-20T08:00:00.000Z</published>
+    <summary>I find the idea of kids coming home from college to live with their parents again with they start a career, save for a house and build a relationship to be interesting. I like my kids, so wouldn't mind this (although they're not teenagers yet, so who knows if I'll still like 'em? : ).</summary>
+    <content type="html">&lt;h1>20 is the new 30&lt;/h1>
+I find the idea of &lt;A href="http://budgetingbabe.blogspot.com/2005/01/twixting.html">kids coming home from college to live with their parents again&lt;/A> with they start a career, save for a house and build a relationship to be interesting. I like my kids, so wouldn't mind this (although they're not teenagers yet, so who knows if I'll still like 'em? : ).</content>
+  </entry>
+</feed>

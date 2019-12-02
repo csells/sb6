@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed154.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed153.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed155.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed154.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/263</id>
+    <title>Caught in .NET</title>
+    <updated>2002-09-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-27T07:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: "However, in the absence of some well-founded objections, the terrible murmur that I keep hearing, the one with apocalyptic consequences for the thinking programmers of the world, will come to be accepted as Gospel. You know, the one that says that, in.NET, Microsoft has made a pretty good implementation of a rather elegant design..."</summary>
+    <content type="html">&lt;h1>Caught in .NET&lt;/h1>
+&lt;a href="http://www.ddj.com/documents/s=7532/ddj0209o/0209o.htm">Here&lt;/a>. From Andrew Webb: "However, in the absence of some well-founded objections, the terrible murmur that I keep hearing, the one with apocalyptic consequences for the thinking programmers of the world, will come to be accepted as Gospel. You know, the one that says that, in .NET, Microsoft has made a pretty good implementation of a rather elegant design..."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/262</id>
+    <title>.NET Rocks Interviews Juval Löwy</title>
+    <updated>2002-09-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-24T07:00:00.000Z</published>
+    <summary>Here..NET Rocks is a radio-style program that features interviews from various developer luminaries, e.g. Billy Hollis and Dan Appleman. This episode is an interview of Juval Löwy, who's way into.NET Enterprise Services, the.NET interop layer with COM+.</summary>
+    <content type="html">&lt;h1>.NET Rocks Interviews Juval Löwy&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. .NET Rocks is a radio-style program that features interviews from various developer luminaries, e.g. Billy Hollis and Dan Appleman. This episode is an interview of Juval Löwy, who's way into .NET Enterprise Services, the .NET interop layer with COM+.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/259</id>
+    <title>Why .NET will conquer the world</title>
+    <updated>2002-09-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-23T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger:.NET clearly bears a strong resemblance to Java. It offers many of the same features, while adding interesting additions of its own (code metadata, versioned assemblies, etc). Microsoft, however, is better positioned to create a cross-market software unification framework than Sun Microsystems ever was (or is). </summary>
+    <content type="html">&lt;h1>Why .NET will conquer the world&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1107-958923.html">Here&lt;/a>. From Keith Wedinger: .NET clearly bears a strong resemblance to Java. It offers many of the same features, while adding interesting additions of its own (code metadata, versioned assemblies, etc). Microsoft, however, is better positioned to create a cross-market software unification framework than Sun Microsystems ever was (or is). </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/261</id>
+    <title>Developers Re-examine Rich-Client Apps</title>
+    <updated>2002-09-23T07:00:00.000Z</updated>
+    <published>2002-09-23T07:00:00.000Z</published>
+    <summary>Here. From Michael Weinhardt: "Some corporate developers last week said they will consider switching from Web applications back to their old, familiar rich-client applications because of unpromoted features that they're just now discovering in Microsoft Corp.'s.Net framework." Carol Sliwa</summary>
+    <content type="html">&lt;h1>Developers Re-examine Rich-Client Apps&lt;/h1>
+&lt;a href="http://www.computerworld.com/softwaretopics/software/appdev/story/0,10801,74450,00.html">Here&lt;/a>. From Michael Weinhardt: "Some corporate developers last week said they will consider switching from Web applications back to their old, familiar rich-client applications because of unpromoted features that they're just now discovering in Microsoft Corp.'s .Net framework."
+
+Carol Sliwa</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/260</id>
+    <title>$50 million from HP, Microsoft for .Net</title>
+    <updated>2002-09-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-23T07:00:00.000Z</published>
+    <summary>Here. From Michael Weinhardt: "Hewlett-Packard and Microsoft plan to invest $50 million in a joint effort to sell corporate customers on the software giant's.Net Web services efforts."</summary>
+    <content type="html">&lt;h1>$50 million from HP, Microsoft for .Net&lt;/h1>
+&lt;a href="http://news.com.com/2100-1001-959066.html">Here&lt;/a>. From Michael Weinhardt: "Hewlett-Packard and Microsoft plan to invest $50 million in a joint effort to sell corporate customers on the software giant's .Net Web services efforts."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/258</id>
+    <title>IT Consultant</title>
+    <updated>2002-09-22T07:00:00.000Z</updated>
+    <published>2002-09-22T07:00:00.000Z</published>
+    <summary>Here. From Ramon: Hundreds of useful Microsoft resources, and technical documentation about, Great Plains, eEnterprise, Solomon, ASP resources,ASP links,ASP documents, ASPX, ASP.NET, VB, VB.NET, AD, Active Directory, etc... </summary>
+    <content type="html">&lt;h1>IT Consultant&lt;/h1>
+&lt;a href="http://www.only4gurus.com">Here&lt;/a>. From Ramon: Hundreds of useful Microsoft resources, and technical documentation about, Great Plains, eEnterprise, Solomon, ASP resources,ASP links,ASP documents, ASPX, ASP.NET, VB, VB.NET, AD, Active Directory, etc... </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/257</id>
+    <title>NUnit 2.0 RC3 available</title>
+    <updated>2002-09-20T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-09-20T07:00:00.000Z</published>
+    <summary>Here. From Bernard Vander Beken: From the release notes of this unit testing framework: "This barring any unforeseen new critical bugs will be the last V2.0 release candidate. We will not
+be adding any additional features until V2.0 is released which we expect now to be sometime around 26 September, 2002."</summary>
+    <content type="html">&lt;h1>NUnit 2.0 RC3 available&lt;/h1>
+&lt;a href="http://sourceforge.net/project/shownotes.php?release_id=111615">Here&lt;/a>. From Bernard Vander Beken: From the release notes of this unit testing framework:
+
+"This barring any unforeseen new critical bugs will be the last V2.0 release candidate. We will not
+be adding any additional features until V2.0 is released which we expect now to be sometime around 26 September, 2002."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/256</id>
+    <title>.NET Framework 1.1 Beta Available</title>
+    <updated>2002-09-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-19T07:00:00.000Z</published>
+    <summary>"The beta of the.NET Framework version 1.1 SDK and Redistributable is now available, along with the add-on to build and run J# applications. We encourage you to download these and provide us with feedback. You may register for the beta program to access these downloads at http://www.betaplace.com. Use the following userID and password to gain access to the site: ID: SDKBETA Password: SIGNMEUP" [Brian Harry, DOTNET-CLR]</summary>
+    <content type="html">&lt;h1>.NET Framework 1.1 Beta Available&lt;/h1>
+"The beta of the .NET Framework version 1.1 SDK and Redistributable is 
+now available, along with the add-on to build and run J# applications. 
+We encourage you to download these and provide us with feedback.  You 
+may register for the beta program to access these downloads at 
+http://www.betaplace.com.  Use the following userID and password to gain 
+access to the site: 
+
+ID: SDKBETA 
+Password: SIGNMEUP"
+
+[Brian Harry, DOTNET-CLR]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/255</id>
+    <title>.NET Framework 1.1 Beta Overview</title>
+    <updated>2002-09-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-19T07:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: Even if you don't want to download the beta, this article gives a nice overview of what to expect in the 1.1 version of.NET Framework. Note the 'Developer Tools Roadmap' link at top-right of the Beta Overview page. www.gotdotnet.com has an article about forwards and backwards compatibility between 1.0 and 1.1.
+</summary>
+    <content type="html">&lt;h1>.NET Framework 1.1 Beta Overview&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/netframework/productinfo/next/overview.asp">Here&lt;/a>. From Andrew Webb: Even if you don't want to download the beta, this article gives a nice overview of what to expect in the 1.1 version of .NET Framework.
+
+Note the 'Developer Tools Roadmap' link at top-right of the Beta Overview page.
+
+www.gotdotnet.com has an article about forwards and backwards compatibility between 1.0 and 1.1.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/254</id>
+    <title>Charles Simonyi Intentional Software Startup</title>
+    <updated>2002-09-18T07:00:00.000Z</updated>
+    <published>2002-09-18T07:00:00.000Z</published>
+    <summary>Here. "Intentional Software Corporation (ISC) is a software engineering company dedicated to assisting software developers in capturing the tremendous latent value that is usually lost in the design and development process. Another name for this latent value is the intent behind the software, so we call this approach Intentional Software." I've been following Charles work for years, starting with Hungarian Notation (a really good idea at the time, believe me : ) and culminating in his more recent Intentiona...</summary>
+    <content type="html">&lt;h1>Charles Simonyi Intentional Software Startup&lt;/h1>
+&lt;a href="http://intentsoft.com">Here&lt;/a>. "Intentional Software Corporation (ISC) is a software engineering company dedicated to assisting software developers in capturing the tremendous latent value that is usually lost in the design and development process. Another name for this latent value is the intent behind the software, so we call this approach Intentional Software."
+
+I've been following Charles work for years, starting with Hungarian Notation (a really good idea at the time, believe me : ) and culminating in his more recent Intentional Programming efforts. I'm very interested in what kinds of tools he's going to be bringing to the world.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/252</id>
+    <title>Keep your Beans out of .Net</title>
+    <updated>2002-09-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-17T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger: What if your current application is currently a Java EJB (Enterprise JavaBeans) implementation? Is it worth the cost and effort to migrate to Microsoft's new platform?</summary>
+    <content type="html">&lt;h1>Keep your Beans out of .Net&lt;/h1>
+&lt;a href="http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2880161,00.html">Here&lt;/a>. From Keith Wedinger: What if your current application is currently a Java EJB (Enterprise JavaBeans) implementation? Is it worth the cost and effort to migrate to Microsoft's new platform?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/253</id>
+    <title>Project Mono Dumps GTK, QT, Cocoa Support</title>
+    <updated>2002-09-17T07:00:00.000Z</updated>
+    <published>2002-09-17T07:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: Project Mono has decided that implementing WinForms natively on platforms is just too hard. They are instead going to implement a Win32 version and use WINE Lib for the linux / mac implementation. We'll see if they stay this way. IMO, if things don't change, WinForms on Project Mono has now become about as important as Microsoft 'Bob'. Who wants to run on top of the WINE code? It has problems running normal Win32 apps, let alone.NET apps.</summary>
+    <content type="html">&lt;h1>Project Mono Dumps GTK, QT, Cocoa Support&lt;/h1>
+&lt;a href="http://www.go-mono.com/winforms.html">Here&lt;/a>. From Jesse Ezell: Project Mono has decided that implementing WinForms natively on platforms is just too hard. They are instead going to implement a Win32 version and use WINE Lib for the linux / mac implementation. We'll see if they stay this way. IMO, if things don't change, WinForms on Project Mono has now become about as important as Microsoft 'Bob'. 
+
+Who wants to run on top of the WINE code? It has problems running normal Win32 apps, let alone .NET apps.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/250</id>
+    <title>Official Transparent Prevalence Implementation</title>
+    <updated>2002-09-16T07:00:00.000Z</updated>
+    <published>2002-09-16T07:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: Bamboo.Prevalence now contains support for the transparent prevalence concept. In the end, it was decided to use proxies rather than context bound objects, but you still get a completely transparent object persistance system.</summary>
+    <content type="html">&lt;h1>Official Transparent Prevalence Implementation&lt;/h1>
+&lt;a href="http://bbooprevalence.sourceforge.net/">Here&lt;/a>. From Jesse Ezell: Bamboo.Prevalence now contains support for the transparent prevalence concept. In the end, it was decided to use proxies rather than context bound objects, but you still get a completely transparent object persistance system.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/251</id>
+    <title>.NET Compact Framework Tools and Samples</title>
+    <updated>2002-09-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-16T07:00:00.000Z</published>
+    <summary>Here. From Jim Wilson: The DevelopMentor.NET Compact Framework Tools and Samples page is finally available. Check it out to see if there is something that you need or if you have something that you think would be helpful to others please post it.</summary>
+    <content type="html">&lt;h1>.NET Compact Framework Tools and Samples&lt;/h1>
+&lt;a href="http://www.dotnetcf.com">Here&lt;/a>. From Jim Wilson: The DevelopMentor .NET Compact Framework Tools and Samples page is finally available.  Check it out to see if there is something that you need or if you have something that you think would be helpful to others please post it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12645</id>
+    <title>"Spend A Day With .NET" Winning Entries</title>
+    <updated>2002-09-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/daywithdotnet/Stoyan%20screen%20shot.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-09-15T07:00:00.000Z</published>
+    <summary>Sorry it took so long to judge the entries, but I was overwhelmed. That'll teach me to host an international, pan-galactic, cross-universe coding contest. : ) Grand Prize Winner and Best Developer Tool: Stoyan Damov Stoyan wins the grand prize of free admission to the Web Services DevCon. His entry is shown here: KbView allows the user to pick a technology or set of technologies that s/he is interested in and see what's new in that space. Once the articles are fetched, they're listed on the right hand side,...</summary>
+    <content type="html">&lt;h1>"Spend A Day With .NET" Winning Entries&lt;/h1>
+&lt;p>Sorry it took so long to judge the entries, but I was overwhelmed. That'll 
+teach me to host &lt;a href="/12646">an international, pan-galactic, cross-universe 
+coding contest&lt;/a>. : )&lt;/p>
+&lt;h2>Grand Prize Winner and Best Developer Tool: 
+&lt;a href="mailto:Stoyan.Damov@rila.com">Stoyan Damov&lt;/a>&lt;/h2>
+&lt;p>Stoyan wins the grand prize of free admission to the
+&lt;a href="/conference">Web Services DevCon&lt;/a>. His entry is shown here:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Stoyan%20screen%20shot.JPG" width="679" height="390">&lt;/p>
+&lt;p>KbView allows the user to pick a technology or set of technologies that s/he 
+is interested in and see what's new in that space. Once the articles are 
+fetched, they're listed on the right hand side, where they can be shown directly 
+in the text viewer below or they can be hosted in a separate IE window. Also, 
+once the article has been downloaded, it's cached for quick access for next time. 
+This is an app that I will use. Great work, Stoyan!&lt;/p>
+&lt;h2>Best Rookie: &lt;a href="mailto:sorinj@softhome.net">Sorin Jianu&lt;/a>&lt;/h2>
+&lt;p>&lt;span style="font-size: 12.0pt; font-family: Times New Roman">Sorin wins a year 
+subscription to MSDN Universal for his submission:&lt;/span>&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Sorin%20Jianu%20screen%20shot.JPG" width="471" height="430">&lt;/p>
+&lt;p>Sorin's submission is a functional proxy server and represents his first .NET 
+project ever. It's fully asychronous and uses non-blocking I/O. It's quite a 
+testament to what can be done in .NET in a single day.&lt;/p>
+&lt;h2>Most Polished: &lt;a href="mailto:jeffb@onlinetoolworks.com">Jeff Braunstein&lt;/a>&lt;/h2>
+&lt;p>Jeff wins a 12-month 
+subscription (5 points) to Safari Tech Books Online for his entry:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Jeff%20Brawstein%20screen%20shot.JPG" width="547" height="359">&lt;/p>
+&lt;p>Jeff's entry was the most polished I got, both in the UI as shown above, but 
+also in the documentation, which included a market justification. I can see Jeff 
+selling a version of this tool soon. The UI above is a front end to an NT 
+service, also written in .NET, that takes jobs off of an MSMQ queue for batch 
+dispatch. Because of the flexible architecture, these jobs can be spawned on a 
+single machine or across multiple machines.&lt;/p>
+&lt;h2>Best VS.NET Add-In: &lt;a href="mailto:iioffe@bezeqint.net">Igal Ioffe&lt;/a>&lt;/h2>
+&lt;p>&lt;span style="font-size: 12.0pt; font-family: Times New Roman">Igal wins a 
+signed box copy of Visual Studio .NET for his VS.NET add-in:&lt;/span>&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Igal%20Ioffe%20screenshot.JPG" width="561" height="300">&lt;/p>
+&lt;p>Igal's submission is simple, but effective. I often mail snippets of code 
+around and now I can do it with the context menu from without VS.NET.&lt;/p>
+&lt;h2>Best Consumption of XML: &lt;a href="mailto:dejan@jelovic.com">Dejan Jelovic&lt;/a>&lt;/h2>
+&lt;p>Dejan won his pick of a combination of things, but I couldn't talk him into 
+taking anything -- he just wanted to compete. His application is a fully 
+functional RSS reader:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Dejan%20screenshot.JPG" width="676" height="379">&lt;/p>
+&lt;p>Dejan's RSS reader has two tabs, one for the RSS feed administration itself, 
+persisted between sessions, and one for the combination of the content for all 
+of your feeds in a single web page, cached between sessions.&lt;/p>
+&lt;h2>Best Use of SQL: &lt;a href="mailto:simon.wilson@objectnation.com">Simon E.P. Wilson&lt;/a>, Markus Burri &amp;amp; Thomas Schwarz&lt;/h2>
+&lt;p>Simon, Markus and Thomas win a 10-user copy of rmTrack for their SQL Stored 
+Procedure code generator:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/SPInvoke.jpg" width="756" height="579">&lt;/p>
+&lt;p>Once the settings are chosen, the generated code lets the user make calls 
+into the stored procedure from their .NET language of choice almost as if the 
+function was a native .NET method:&lt;/p>
+&lt;pre>class MyApp {
+    static void Main(string[] args) {
+        // Create Connection
+        SqlConnection conn = new SqlConnection(@&amp;quot;...");
+        conn.Open();      
+
+&lt;b>        // Invoke the Stored Procedure
+        SalesByCategory.Result res = SalesByCategory.Invoke(conn, "Beverages", "");
+&lt;/b>
+        // Show Results
+        foreach (SalesByCategory.Row row in res.Rows) {
+            Console.WriteLine("{0} : {1}", row.ProductName, row.TotalPurchase);
+        }&lt;/pre>
+&lt;pre>        conn.Close();
+    }
+}&lt;/pre>
+&lt;h2>Honorable Mention&lt;/h2>
+&lt;p>There were so many other great entries that I couldn't narrow it to just the 
+big prize winners. The following were each awarded their pick of a book or a 
+free software package:&lt;/p>
+&lt;ul>
+  &lt;li>&lt;b>Best Use of XML, &lt;a href="mailto:AdamCogan@ssw.com.au">Adam Cogan&lt;/a>&lt;/b>: This entry was cool because it used a 
+  smart client to gather information about a user's system, email to deliver it 
+  and XML to make server-side processing a snap (&lt;a href="/public/fun/daywithdotnet/Adam%20Cogan%203%20screenshot.JPG">screen 
+  shot&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Web Service Client, &lt;a href="mailto:darrel@tavis.ca">Darrel Miller&lt;/a>&lt;/b>: I liked Darrel's 
+  application because of the nice mix of a smart client front-end to capture all 
+  settings to make a single, atomic web service call and the production of a web 
+  site based on the  posted data (&lt;a href="/public/fun/daywithdotnet/Darrel%20Miller%20screenshot.JPG">screen 
+  shot 1&lt;/a>, &lt;a href="/public/fun/daywithdotnet/Darrel%20Miller%20screenshot%202.JPG">screen shot 2&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Technical Insight, &lt;a href="mailto:glombard@everdreamcorp.com">Gert Lombard&lt;/a>&lt;/b>: Gert's command line parser 
+  was near and dear to me for two reasons. One, he'd built a command line parser 
+  based on .NET's Reflection, &lt;a href="http://www.genghisgroup.com">just like 
+  I've done&lt;/a> in Genghis with the CommandLineParser class, and two, he built it because he fell in love with Reflection, 
+  just like I did (&lt;a href="/public/fun/daywithdotnet/Gert%20screen%20shot.JPG">screen shot&lt;/a>,
+  &lt;a href="http://codeblast.com/~gert/dotnet/sells.html">source&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Game Library, &lt;a href="mailto:richard@caetano.com">Richard Caetano&lt;/a>&lt;/b>: Richard's entry wasn't quite 
+  complete, but I love Poker as much as I love .NET, so I thought I'd point out 
+  that he's provided a complete managed card drawing library, in case anyone 
+  needs one (&lt;a href="http://www.stronglytyped.com/npoker/">screen 
+  shot and source&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Entry From High School Student, &lt;a href="mailto:rd933@msn.com">Ryan Dawson&lt;/a>&lt;/b>: I'm not sure I 
+  should be encouraging such behavior, but I certainly spent my fair share alone 
+  in my parent's basement with my computer and I turned out all right (didn't 
+  I?!?), so I thought I'd mention that Ryan was the only high school student 
+  (that I know of) that submitted an entry. Also, he used
+  &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms08162002.asp">
+  my pi calculator&lt;/a> to calculate 20K digits of pi for extra credit, so 
+  clearly things are working out for him. Remember to cite your sources, Ryan! : 
+  )&lt;/li>
+&lt;/ul></content>
+  </entry>
+</feed>

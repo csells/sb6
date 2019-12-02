@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed135.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed134.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed136.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed135.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/531</id>
+    <title>Hippo.NET Build Tool Released</title>
+    <updated>2003-04-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-25T07:00:00.000Z</published>
+    <summary>Here. From Jan Tielens: Hippo.NET is a tool for streamlining the build process of.NET projects in a team envirionment. It provides continuous integration by monitoring the shared Visual SourceSafe database and starting the build process when changes are detected. An important design goal is to provide a nice and easy-to-use user interface, to monitor builds and trigger the build process when needed. Now you can download a stable version of this tool, with full source code. Current features are:
+- Client/ser...</summary>
+    <content type="html">&lt;h1>Hippo.NET Build Tool Released&lt;/h1>
+&lt;a href="http://hipponet.sf.net/">Here&lt;/a>. From Jan Tielens: Hippo.NET is a tool for streamlining the build process of .NET projects in a team envirionment. It provides continuous integration by monitoring the shared Visual SourceSafe database and starting the build process when changes are detected. An important design goal is to provide a nice and easy-to-use user interface, to monitor builds and trigger the build process when needed.
+
+Now you can download a stable version of this tool, with full source code.
+
+Current features are:
+- Client/server model 
+- Trigger build from remote clients 
+- Implements the build process proposed by Microsoft 
+- Automatic build number updates in AssemblyInfo files 
+- Build history information 
+- Current activity information 
+- Fully configurable 
+- Rich Windows Forms UI </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/532</id>
+    <title>My First Week @ MS</title>
+    <updated>2003-04-25T07:00:00.000Z</updated>
+    <published>2003-04-25T07:00:00.000Z</published>
+    <summary>Here. The one where I list what I learned my first week at the source of all software.</summary>
+    <content type="html">&lt;h1>My First Week @ MS&lt;/h1>
+&lt;a href="/12555">Here&lt;/a>. The one where I list what I learned my first week at the source of all software.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12555</id>
+    <title>My First Week @ MS</title>
+    <updated>2003-04-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-04-25T07:00:00.000Z</published>
+    <summary>Friday, April 25, 2003 After my first week at Microsoft *everyone* wanted to know how it went, both internally and externally. I learned some things: I learned that folks at MS will call a meeting for lots and lots of reasons, including at the slightest sign of confrontation or hurt feelings. For a guy that hasn't really attended a meeting in the last decade, this is quite a switch : ) I learned how to schedule a meeting w/ multiple people and a conference room (listed as &amp;quot;conf room &amp;lt;bld&amp;gt;&amp;quot; i...</summary>
+    <content type="html">&lt;h1>My First Week @ MS&lt;/h1>
+&lt;p>&lt;i>
+&lt;span class="created">Friday, April 25, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>After my first week at Microsoft *everyone* wanted to 
+know how it went, both internally and externally. I learned some things:&lt;/p>&lt;ul>&lt;li>
+	I learned that folks at MS will call a meeting for lots and lots of reasons, 
+	including at the slightest sign of confrontation or hurt feelings. For a guy 
+	that hasn't really attended a meeting in the last decade, this is quite a 
+	switch : )&lt;/li>&lt;li>I learned how to schedule a meeting w/ multiple people 
+	and a conference room (listed as &amp;quot;conf room &amp;lt;bld&amp;gt;&amp;quot; in the address book), all 
+	with conflicting schedules and all remotely using Outlook Web Access and 
+	without a SmartCard (I was pretty proud of that one, actually : )&lt;/li>&lt;li>I 
+	learned that no one uses the phone for anything -- instead, they schedule 
+	meetings&lt;/li>&lt;li>I learned that it's the person that wants something that 
+	does the actually scheduling of the meeting&lt;/li>&lt;li>I learned that it's OK 
+	to open your laptop in a meeting, otherwise when would you get any work 
+	done?&lt;/li>&lt;li>I learned that it causes quite a stir when you disagree with 
+	the technical lead of one of the major pieces of technology that you're 
+	supposed to be taking to the world&lt;/li>&lt;li>I learned that it's darn hard to 
+	find out who to talk to your first week, and that you should take your boss 
+	to most of your initial meetings so that s/he can make sure you're getting 
+	what you need to get from them&lt;/li>&lt;li>I learned that you can mix Exchange 
+	and POP3/SMTP to keep your new and your old email addresses going, if you 
+	use Office 11 and if you are willing to give up calendar and follow up 
+	notifications on your POP3/SMTP account (have I missed something?). I also 
+	learned that internal MS support doesn't help w/ such things.&lt;/li>&lt;li>I 
+	learned that internal MS support is the greatest support in the whole darn 
+	world. These people don't let you off the phone 'til everything works. 
+	They're amazing&lt;/li>&lt;li>I learned that you can volunteer for absolutely 
+	anything you think is cool or important so long as you get everything else 
+	done, too&lt;/li>&lt;li>I learned that it's not good to ask for NDA access to 
+	super-secret bits for your friends the week before you start working there 
+	(OK, I'm pretty sure I knew that before, but I had to try... : )&lt;/li>&lt;li>I 
+	learned that the right folks hanging out at lunch can make all kinds of 
+	interesting things happen&lt;/li>&lt;li>I learned that MS and it's employees is 
+	the most charitable company in the country (world?)&lt;/li>&lt;li>I learned that 
+	the internal resources for MS employees are unbelievable. I could work their 
+	my whole life and never take advantage of all of them&lt;/li>&lt;li>I learned that 
+	it's important to sign up for your benefits immediately if you're going to 
+	be remote w/o a SmartCard for a while, otherwise your son may wake you up in 
+	the middle of the night with a hard toothache and when you take him to the 
+	dentist the next day, the dentist won't be able to confirm your dental 
+	insurance (as one example : )&lt;/li>&lt;li>I learned that most everyone at MS is 
+	very nice (even when they're telling you to f-off)&lt;/li>&lt;li>I learned that 
+	everyone (and I'm no exception) has a hard time fitting in at first. One 
+	interviewer told me that his first 6 months at MS were the worst of his 
+	life. I pray that it doesn't last that long for me&lt;/li>&lt;li>I learned that 
+	after the initial period that few that survive it would ever think of 
+	leaving. I absolutely see how that could be&lt;/li>&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/530</id>
+    <title>NAnt 0.8.2 released</title>
+    <updated>2003-04-24T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-04-24T07:00:00.000Z</published>
+    <summary>Here. From Matthew Mastracci: NAnt 0.8.2 was recently released. Note that this release has support for both the Microsoft.NET framework v1.1 and Mono. See the download link above or the NAnt homepage: http://nant.sourceforge.net/</summary>
+    <content type="html">&lt;h1>NAnt 0.8.2 released&lt;/h1>
+&lt;a href="http://sourceforge.net/project/showfiles.php?group_id=31650">Here&lt;/a>. From Matthew Mastracci: NAnt 0.8.2 was recently released.   Note that this release has support for both the Microsoft.NET framework v1.1 and Mono.
+
+See the download link above or the NAnt homepage:
+
+http://nant.sourceforge.net/</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/529</id>
+    <title>Imax Plugging 'Matrix' Sequels Into Large Screen</title>
+    <updated>2003-04-24T07:00:00.000Z</updated>
+    <published>2003-04-24T07:00:00.000Z</published>
+    <summary>Here. It's not that I don't love close-ups of extreme-sized beavers, but this could run a close 2nd. : )</summary>
+    <content type="html">&lt;h1>Imax Plugging 'Matrix' Sequels Into Large Screen&lt;/h1>
+&lt;a href="http://story.news.yahoo.com/news?tmpl=story2&amp;u=/nm/20030424/en_nm/film_matrix_dc">Here&lt;/a>. It's not that I don't love close-ups of extreme-sized beavers, but this could run a close 2nd. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/527</id>
+    <title>New MSDN DevCenters</title>
+    <updated>2003-04-23T07:00:00.000Z</updated>
+    <published>2003-04-23T07:00:00.000Z</published>
+    <summary>Here. I'm sure that this is all over the web by now, but I couldn't help but congratulate my new team on a wonderful revamp of their most important content into Developer Centers (DevCenters) for architecture, web services, VS, VB, VC++, C#, J#,.NET and Windows Server 2003. It looks great, guys. Congrats!</summary>
+    <content type="html">&lt;h1>New MSDN DevCenters&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/developercenters/">Here&lt;/a>. I'm sure that this is all over the web by now, but I couldn't help but congratulate my new team on a wonderful revamp of their most important content into Developer Centers (DevCenters) for architecture, web services, VS, VB, VC++, C#, J#, .NET and Windows Server 2003. It looks great, guys. Congrats!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/528</id>
+    <title>Programming WinForms with MC++</title>
+    <updated>2003-04-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-23T07:00:00.000Z</published>
+    <summary>Here. Sam Gentile and I wrote a piece on building WinForms apps in MC++ using the new designer support in VS.NET 2003. Unfortunately, it acquired some small errors along the publishing path, e.g. STA does not stand for "spanning three algorithm" in this case. However, the errors are minor and C++ programmers interested in the.NET forms engine should definately take a look.</summary>
+    <content type="html">&lt;h1>Programming WinForms with MC++&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vctchWindowsFormsForManagedCProgrammers.asp">Here&lt;/a>. Sam Gentile and I wrote a piece on building WinForms apps in MC++ using the new designer support in VS.NET 2003. Unfortunately, it acquired some small errors along the publishing path, e.g. STA does not stand for "spanning three algorithm" in this case. However, the errors are minor and C++ programmers interested in the .NET forms engine should definately take a look.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/526</id>
+    <title>Edgar Codd dies at 79</title>
+    <updated>2003-04-23T07:00:00.000Z</updated>
+    <published>2003-04-23T07:00:00.000Z</published>
+    <summary>Here. Mr. Codd was one of the great ones. His ideas will continue to affect us for the as far into the future as I can imagine. Thank you, Mr. Codd.</summary>
+    <content type="html">&lt;h1>Edgar Codd dies at 79&lt;/h1>
+&lt;a href="http://rss.com.com/2100-1012-997975.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. Mr. Codd was one of the great ones. His ideas will continue to affect us for the as far into the future as I can imagine. Thank you, Mr. Codd.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/524</id>
+    <title>Are You a Koan Head?</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Here. The New York Village Voice mentions sellsbrothers.com/fun/msiview. Whoa.</summary>
+    <content type="html">&lt;h1>Are You a Koan Head?&lt;/h1>
+&lt;a href="http://www.villagevoice.com/issues/0316/edwinter.php">Here&lt;/a>. The New York Village Voice mentions sellsbrothers.com/fun/msiview. Whoa.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12393</id>
+    <title>My Dad's All Set to Work At Microsoft</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Tue, Apr 22, 2003 My Dad, a long-time draftsman in a civil engineering firm in Fargo, ND, had this to say about manhole covers: &amp;quot;It's like this. Sanitary manhole covers are usually round (and solid, i.e. VERY heavy) but Storm sewer manhole and Inlet covers are usually square or rectangular grates which let water in. The deciding factor is where they are placed relative to the curb line. All covers are actually installed on a concrete generic 'Mexican Hat' structure which can be centered or offset to on...</summary>
+    <content type="html">&lt;h1>My Dad's All Set to Work At Microsoft&lt;/h1>
+&lt;p>&lt;i>Tue, &lt;span class="created">Apr 22, 2003&lt;/span>&lt;/i>&lt;/p>
+&lt;p>My Dad, a long-time draftsman in a civil engineering firm in Fargo, ND, had 
+this to say about manhole covers:&lt;/p>
+&lt;p>&amp;quot;It's like this. Sanitary manhole covers are usually round (and solid, i.e. 
+VERY heavy) but Storm sewer manhole and Inlet covers are usually square or 
+rectangular grates which let water in. The deciding factor is where they are 
+placed relative to the curb line. All covers are actually installed on a 
+concrete generic 'Mexican Hat' structure which can be centered or offset to one 
+side. The structure fits on the round concrete casting (5' - 8&amp;quot; diameter) and 
+can be made to accept any solid or grated casting. If this part of the world, 
+where river flooding is fairly common, Sanitary manholes and lift stations are 
+either raised above potential flood limits if possible or sealed and bolted 
+shut, making them much more difficult to open. It's also a very good idea to 
+vent Sanitary manholes and lift station with a portable fan to avoid being 
+overcome by methane and other gasses trapped in them.&amp;quot;&lt;/p>
+&lt;p>Anyone wonder where I got it? : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/520</id>
+    <title>Microsoft XSD Inference 1.0</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Here. Because I don't believe humans can know how to write XSD files from scratch *and* remember where their car keys are, I've been dying for an XSD inference tool that can take a bunch of XML files and produce a starting point XSD. Towards that end, I fed the 200+ XML files for Dave's Quick Search Taskbar Toolbar Deskbar (dqsd.net) into the MS XSD Inference tool. The result was good enough to work with xsd.exe to generate C# classes and to impress Glenn Carr (Dave's XML guy). Highly recommended.</summary>
+    <content type="html">&lt;h1>Microsoft XSD Inference 1.0&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/xmltools/">Here&lt;/a>. Because I don't believe humans can know how to write XSD files from scratch *and* remember where their car keys are, I've been dying for an XSD inference tool that can take a bunch of XML files and produce a starting point XSD.
+
+Towards that end, I fed the 200+ XML files for Dave's Quick Search Taskbar Toolbar Deskbar (dqsd.net) into the MS XSD Inference tool. The result was good enough to work with xsd.exe to generate C# classes and to impress Glenn Carr (Dave's XML guy).
+
+Highly recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/519</id>
+    <title>My Dad's All Set to Work At Microsoft</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>The one where my Dad answers the Microsoft manhole interview question and we judge just how far from the tree this acorn has fallen.</summary>
+    <content type="html">&lt;h1>My Dad's All Set to Work At Microsoft&lt;/h1>
+The one where &lt;a href="/12393">my Dad answers the Microsoft manhole interview question&lt;/a> and we judge just how far from the tree this acorn has fallen.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/518</id>
+    <title>Write Access to RegexD Source</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Here. I've had a bunch of requests for write access to the RegexD source. I provide read-only access to the RegexD source via a.zip file in the RegexD GotDotNet workspace. If you want write access, add your code to the snapshot of code in the workspace and send it to me for review. If it passes muster, I'll add you as a read/write member of the workspace.
+This helps me to ensure that only good code makes it into RegexD. Thanks!</summary>
+    <content type="html">&lt;h1>Write Access to RegexD Source&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">Here&lt;/a>. I've had a bunch of requests for write access to the RegexD source. I provide read-only access to the RegexD source via a .zip file in the RegexD GotDotNet workspace. If you want write access, add your code to the snapshot of code in the workspace and send it to me for review. If it passes muster, I'll add you as a read/write member of the workspace.
+This helps me to ensure that only good code makes it into RegexD. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/517</id>
+    <title>Borland details .NET development tools</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Here. Yet another signal of the inevitability of.NET.</summary>
+    <content type="html">&lt;h1>Borland details .NET development tools&lt;/h1>
+&lt;a href="http://www.infoworld.com/article/03/04/21/HNborlandc_1.html">Here&lt;/a>. Yet another signal of the inevitability of .NET.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12350</id>
+    <title>"Software Legend" Silliness</title>
+    <updated>2003-04-22T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/BradsPhoto.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2003-04-22T07:00:00.000Z</published>
+    <summary>Brad Abrams make Jeffrey Richter and me stand in front our of &amp;quot;software legend&amp;quot; stand-up cut outs yesterday so that he could take a picture. I've already gotten crap from my new team at MS for being one of these guys. I assume it's the shock and awe... : ) Brad Abrams Tue 4/22/2003 10:09 PM </summary>
+    <content type="html">&lt;h1>"Software Legend" Silliness&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/BradsPhoto.jpg" width="576" height="432">&lt;/p>
+&lt;p>&lt;a href="http://blogs.gotdotnet.com/BradA/">Brad Abrams&lt;/a> 
+make Jeffrey Richter and me stand in front our of
+&lt;a href="http://www.softwarelegends.com">&amp;quot;software legend&amp;quot;&lt;/a> 
+stand-up cut outs yesterday so that he could take a picture. I've already gotten 
+crap from my new team at MS for being one of these guys. I assume it's the shock 
+and awe... : )&lt;/p>
+&lt;p>&lt;i>Brad Abrams&lt;br>
+Tue &lt;span class="created">4/22/2003 10:09 PM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+</feed>

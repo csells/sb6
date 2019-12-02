@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed16.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed15.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed17.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed16.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2191</id>
+    <title>Oslo Defined</title>
+    <updated>2008-09-06T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-09-06T07:00:00.000Z</published>
+    <summary>I've spent the last 3.5 years of my life working in various roles on a project that is now called "Oslo." Both Don and Doug have posted definitions. See you at the PDC! </summary>
+    <content type="html">&lt;h1>Oslo Defined&lt;/h1>
+&lt;P>I've spent the last 3.5 years of my life working in various roles on a project that is now called "Oslo." Both &lt;A href="http://www.pluralsight.com/community/blogs/dbox/archive/2008/09/06/oslo.aspx">Don&lt;/A> and &lt;A href="http://douglaspurdy.com/2008/09/06/what-is-oslo/">Doug&lt;/A> have posted definitions.&lt;/P>
+&lt;P>See you at the PDC!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2190</id>
+    <title>I don't pretend to understand advertising</title>
+    <updated>2008-09-05T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-09-05T07:00:00.000Z</published>
+    <summary>I've always liked the Mac vs. PC ads.&amp;nbsp;They're clever, they make me laugh and I like both actors ( Accepted is very under rated, IMO). Of course, I actually prefer my PC running Windows to a Macintosh (I had a Mac IIcx back in the day), I prefer Vista to XP and I'm a Microsoft employee, so I don't have any trouble seeing the exaggeration, but there's always a kernel of truth, which is what makes them funny. The part that kinda annoys me is that Apple seems to be claiming they have no such problems, whic...</summary>
+    <content type="html">&lt;h1>I don't pretend to understand advertising&lt;/h1>
+&lt;P>I've always liked &lt;A href="http://en.wikipedia.org/wiki/Get_a_Mac">the Mac vs. PC ads&lt;/A>.&amp;nbsp;They're clever, they make me laugh and I like both actors (&lt;A href="http://www.imdb.com/title/tt0384793/">Accepted&lt;/A> is very under rated, IMO). Of course, I actually prefer my PC running Windows to a Macintosh (I had a Mac IIcx back in the day), I prefer Vista to XP and I'm a Microsoft employee, so I don't have any trouble seeing the exaggeration, but there's always a kernel of truth, which is what makes them funny. The part that kinda annoys me is that Apple seems to be claiming they have no such problems, which is, of course, not true.&lt;/P>
+&lt;P>The Mac vs. PC ads I understand: they're meant to put down the PC by having the PC guy look like an idiot, leaving the Mac guy to seem non-threatening and therefore better by comparison.&lt;/P>
+&lt;P>On the other hand, I can't say I understand &lt;A href="http://www.youtube.com/watch?v=afR5J7eskno">the latest Windows ad with Jerry and Bill&lt;/A>. I did enjoy it, however. Not only did Bill seem much friendlier and more approachable than I've ever seen him, but the image of someone in the shower with their shoes and socks on made me laugh, as did the image of Bill wiggling his butt in a &lt;A href="http://en.wikipedia.org/wiki/Deep_Throat">Deep Throat&lt;/A> sorta way.&lt;/P>
+&lt;P>And the commercials are having an effect: they're being talked about and folks are interested in the next one. How often do you hear about folks looking forward to a commercial? That in and of itself is an achievement.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2189</id>
+    <title>Programming WPF goes into 3rd printing</title>
+    <updated>2008-09-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-09-04T07:00:00.000Z</published>
+    <summary>Get 'em while they're hot! </summary>
+    <content type="html">&lt;h1>Programming WPF goes into 3rd printing&lt;/h1>
+&lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Get 'em while they're hot!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2188</id>
+    <title>Where did my old Word command go in new Word?</title>
+    <updated>2008-08-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-08-27T07:00:00.000Z</published>
+    <summary>I've been using Word for a long time and my fingers knew where the commands were that I used even though my brain didn't. Most of the those commands I've mapped to the new Ribbon-enabled Word without a problem, but sometimes I still search. For those times, the Office guys have put up a cool tool that shows me where the new version of each command is located in the new Word. Enjoy.</summary>
+    <content type="html">&lt;h1>Where did my old Word command go in new Word?&lt;/h1>
+I've been using Word for a long time and my fingers knew where the commands were that I used even though my brain didn't. Most of the those commands I've mapped to the new Ribbon-enabled Word without a problem, but sometimes I still search. For those times, the Office guys have put up &lt;A href="http://office.microsoft.com/assistance/asstvid.aspx?assetid=XT100766331033&amp;amp;vwidth=1044&amp;amp;vheight=788&amp;amp;type=flash&amp;amp;CTT=11&amp;amp;Origin=HA100744321033">a cool tool that shows me where the new version of each command is located in the new Word&lt;/A>. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2187</id>
+    <title>DVDFab + My Own DVDs = Couch Convenience</title>
+    <updated>2008-08-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2008-08-18T07:00:00.000Z</published>
+    <summary>I don't know if it's legal or not, but if you use DVDFab with the Mobile option set to XVID video + MP3 audio (both supported by the XBOX 360 if you have the latest updates installed), you can rip the movie from your DVD (no menus, extras, etc) onto a network share (I use my Windows Home Server box), scroll through them on my XBOX 360 and play them back with a/v quality high enough that I can't tell the difference (and I don't have the quality cranked as high as it goes by any means). Each movie takes rough...</summary>
+    <content type="html">&lt;h1>DVDFab + My Own DVDs = Couch Convenience&lt;/h1>
+&lt;P>I don't know if it's legal or not, but if you use &lt;A href="http://www.dvdfab.com/">DVDFab&lt;/A> with the Mobile option set to &lt;A href="http://en.wikipedia.org/wiki/Xvid">XVID video&lt;/A> + &lt;A href="http://en.wikipedia.org/wiki/Mp3">MP3 audio&lt;/A> (both supported by the XBOX 360 if you have the latest updates installed), you can rip the movie from your DVD (no menus, extras, etc) onto a network share (I use my &lt;A href="http://www.microsoft.com/windows/products/winfamily/windowshomeserver/default.mspx">Windows Home Server&lt;/A> box), scroll through them on my &lt;A href="http://www.xbox.com/en-US/">XBOX 360&lt;/A> and play them back with a/v quality high enough that I can't tell the difference (and I don't have the quality cranked as high as it goes by any means).&lt;/P>
+&lt;P>Each movie takes roughly 1GB, so I can get all of my DVDs stored for the cost of two weeks' worth of lattes (although I'm really just using the spare space on my 1.4TB of WHS storage). Plus, since I'm still in the 30-day trial period of DVDFab, if I hurry, I could rip them all for free (although for the $40, &lt;A href="http://www.dvdfab.com/dvd-fab-gold.htm">DVDFab Gold&lt;/A> is definitely worth the price). It generally takes about 45 minutes per movie, so I'll be flipping a lot of DVDs during the next 30 days and I haven't bothered to figure out how to get DVD metadata, e.g. cover art, etc, but other than that, the experience is a wonderful one. In fact, since I hate going through all the previews and menus, just picking the movie from a list and having it playing immediately is a better experience that a DVD in many ways.&lt;/P>
+&lt;P>The only thing that could make this better is if WHS or &lt;A href="http://www.microsoft.com/windows/products/winfamily/mediacenter/default.mspx?WT.srch=1">Windows Media Center Edition&lt;/A> had this feature built in. I'm guessing I'm breaking some laws by doing this, but to me, it sounds like fair use. I'm backing up the DVDs that I already own to a HDD. The fact that I can watch them without getting out of my couch doesn't change the fact that the DVDs are right there on my shelf, purchased fair and square.&lt;/P>
+&lt;P>Oh, well, if the police want to come for me, they know &lt;A href="http://www.ci.oswego.or.us/">where I am&lt;/A>. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2186</id>
+    <title>Digigirlz Rock!</title>
+    <updated>2008-08-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-08-14T07:00:00.000Z</published>
+    <summary>I gave a talk to the Digigirlz yesterday and it was a blast. It was 25 high school girls that were on the Microsoft campus all week learning various technologies to promote women in IT. The girls are nominated by their teachers for aptitude and attitude and these girls had both in spades. Vijaye Raji and I were giving the talk, me primarily the pretty front man while he drove the slides, typed the code and made sure I didn't get things very wrong (he knew the environment and the language far better than I)....</summary>
+    <content type="html">&lt;h1>Digigirlz Rock!&lt;/h1>
+&lt;P>I gave a talk to the &lt;A href="http://www.microsoft.com/about/diversity/programs/camps.mspx">Digigirlz&lt;/A> yesterday and it was a blast. It was 25 high school girls that were on the Microsoft campus all week learning various technologies to promote women in IT. The girls are nominated by their teachers for aptitude and attitude and these girls had both in spades.&lt;/P>
+&lt;P>Vijaye Raji and I were giving the talk, me primarily the pretty front man while he drove the slides, typed the code and made sure I didn't get things very wrong (he knew the environment and the language far better than I). We were teaching general programming basics using a variant of BASIC that was especially well suited to new programmers. We spent two hours showing them how to do turtle graphics and how to write a game (Pong) all from scratch and we all had a blast doing it.&lt;/P>
+&lt;P>And these girls were sharp! I'm used to pacing material for rooms of adult software engineers, but I didn't have enough. I had to take feature requests from the audience and figure out how to implement them on the fly while they followed along, programming their own versions of the game as we went. They were hands on the whole time and eventually I enlisted their help to tell us what code to write. Mind you, this was a language they'd only learned minutes before, but they didn't have any trouble at all.&lt;/P>
+&lt;P>They laughed and asked questions and answered my questions and were engaged the whole time (well, most of them -- some were seduced by the siren song of the high speed internet connection : ). I figured I was doing OK when one of the girls asked me if I ever thought about being a teacher.&lt;/P>
+&lt;P>"Naw," I said. "I hate kids..."&lt;/P>
+&lt;P>They didn't buy it... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2185</id>
+    <title>Digital Video Camera and Editing S/W for a Kid?</title>
+    <updated>2008-08-03T07:00:00.000Z</updated>
+    <published>2008-08-03T07:00:00.000Z</published>
+    <summary>My youngest likes to record video, but has been doing so on busted equipment and doesn't have anyone that knows what to do with it once he's got it. His birthday's coming up and I'd like to get him a DV camera and sit down and learn a piece of editing software that folks recommend so I know he'll be able to do cool things with the resulting video. Does anyone have any recommendations? Is the video editing software that comes with XP any good (that's what he runs on his laptop)? How about the one that comes ...</summary>
+    <content type="html">&lt;h1>Digital Video Camera and Editing S/W for a Kid?&lt;/h1>
+&lt;P>My youngest likes to record video, but has been doing so on busted equipment and doesn't have anyone that knows what to do with it once he's got it. His birthday's coming up and I'd like to get him a DV camera and sit down and learn a piece of editing software that folks recommend so I know he'll be able to do cool things with the resulting video.&lt;/P>
+&lt;P>Does anyone have any recommendations? Is the video editing software that comes with XP any good (that's what he runs on his laptop)? How about the one that comes with Vista?&lt;/P>
+&lt;P>Thanks!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2184</id>
+    <title>Oslo talks at the PDC</title>
+    <updated>2008-08-01T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-08-01T07:00:00.000Z</published>
+    <summary>After 3.5 years, my team's work in Microsoft's Connected Systems Division will finally see the light of day! Here are the related talks we're giving at this year's PDC : "Oslo:" Managing Software + Services Applications Presenter: Oliver Sharp Hosting Workflows and Services in "Oslo" Presenter: Ford McKinstry "Oslo:" Customizing and Extending the Visual Design Experience Presenter: Florian Voss A Lap around "Oslo" Presenter(s): Chris Anderson, Don Box "Oslo:" The Language Presenter(s): Don Box, David Langwo...</summary>
+    <content type="html">&lt;h1>Oslo talks at the PDC&lt;/h1>
+&lt;P>After 3.5 years, my team's work in Microsoft's Connected Systems Division will finally see the light of day! Here are the related talks we're giving at &lt;A href="http://microsoftpdc.com/">this year's PDC&lt;/A>:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/BB17/">"Oslo:" Managing Software + Services Applications&lt;/A>&lt;BR>Presenter: Oliver Sharp&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/BB18/">Hosting Workflows and Services in "Oslo"&lt;/A>&lt;BR>Presenter: Ford McKinstry&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL%2018/">"Oslo:" Customizing and Extending the Visual Design Experience&lt;/A>&lt;BR>Presenter: Florian Voss &lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL%2023/">A Lap around "Oslo"&lt;/A>&lt;BR>Presenter(s): Chris Anderson, Don Box&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL%2027/">"Oslo:" The Language&lt;/A>&lt;BR>Presenter(s): Don Box, David Langworthy&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL%2028/">"Oslo:" Repository and Schemas&lt;/A>&lt;BR>Presenter(s): Martin Gudgin, Chris Sells&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL%2021/">Extending Windows Workflow Foundation v.Next with Custom Activities&lt;/A>&lt;BR>Presenter: Matt Winkler&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL06/">Workflow Services&lt;/A>&lt;BR>Presenter: Ed Pinto&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL17/">Windows Workflow Foundation: Futures&lt;/A>&lt;BR>Presenter: Kenny Wolf &lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2183</id>
+    <title>George Carlin, Rest In Peace</title>
+    <updated>2008-06-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-06-23T07:00:00.000Z</published>
+    <summary>When I was a teenager, some kids were sneaking out to get drunk or have sex. I was sneaking into my parents' record collection to listen to George Carlin. Unfortunately, unleashing my version of his brand of humor on my peers was one of the things that kept me from being invited for parties or sex, but I still dearly loved the man and was very sorry to hear that he passed away yesterday. Certain situations still trigger George Carlin responses whether I want them to or not; he is permanently lodged in my br...</summary>
+    <content type="html">&lt;h1>George Carlin, Rest In Peace&lt;/h1>
+&lt;P>When I was a teenager, some kids were sneaking out to get drunk or have sex. I was sneaking into my parents' record collection to listen to &lt;A href="http://en.wikipedia.org/wiki/George_Carlin">George Carlin&lt;/A>. Unfortunately, unleashing my version of his brand of humor on my peers was one of the things that kept me from being invited for parties or sex, but I still dearly loved the man and was very sorry to hear that &lt;A href="http://ap.google.com/article/ALeqM5ina7M8zC1QQGSxe-e-PxBrf9kl0gD91G3D780">he passed away yesterday&lt;/A>.&lt;/P>
+&lt;P>Certain situations still trigger George Carlin responses whether I want them to or not; he is permanently lodged in my brain. And of all the things he's done, his &lt;A href="http://www.youtube.com/watch?v=dLN6c_U0Acg">incomplete list of impolite words&lt;/A> is stuck in there furthest (*not* safe for work!).&lt;/P>
+&lt;P>I'll miss you, George. Give whatever all-powerful being you run into in the next life a piece of your mind about the state they've left us in here on Earth.&lt;/P>
+&lt;p>Update: &lt;a href="http://www.funnyordie.com/videos/80fc8238cc">a very NSFW GC highlight video series&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2181</id>
+    <title>Bill's Last Review</title>
+    <updated>2008-06-13T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2008-06-13T07:00:00.000Z</published>
+    <summary>The last coupla months have been crazy. We've been warming up our PDC message with a series of SDR (Software Design Reviews) where we invite folks from the community, influencers, important customers, etc, to come and hear what we think the story is for our new technology before we blow it in front of a live PDC audience. There's a ton of prep to make sure we're as polished and as thought through as possible and that we're presenting as well possible, so there's been a ton of work on what the story is and h...</summary>
+    <content type="html">&lt;h1>Bill's Last Review&lt;/h1>
+&lt;P>The last coupla months have been crazy. We've been warming up our PDC message with a series of SDR (Software Design Reviews) where we invite folks from the community, influencers, important customers, etc, to come and hear what we think the story is for our new technology before we blow it in front of a live PDC audience. There's a ton of prep to make sure we're as polished and as thought through as possible and that we're presenting as well possible, so there's been a ton of work on what the story is and how to present it properly. The latter means that I run a little internal training course called "Sells University" which is kind of an "extreme presentation skills" workshop&amp;nbsp;I run, complete with Sells U hats and t-shirts (the alumni parties are fun : ).&lt;/P>
+&lt;P>Still we don't always get it right, which means mining the feedback (loud, enthusiastic and extensive feedback) to see what we can improve for the next time.&lt;/P>
+&lt;P>Sometimes the "next time," is something called a "BillG Review." This is where we get together our best folks, our best bits and our best story and we bring the all together for BillG himself for up to 4 hours of dog 'n' pony show. Normally this is as much about forcing teams together that should've been together all along as it is about the actual presentation to Bill, but either way, it's generally a month or more of hard work.&lt;/P>
+&lt;P>This time, we had two weeks.&lt;/P>
+&lt;P>"Chris, how'd you like to put together the demo for Bill's last review?" was what &lt;A href="http://douglaspurdy.com/">Doug&lt;/A> asked me. I'd been to a BillG before, but had never been that involved, so I really had no idea what the effort was going to be. When faced with a new challenge and little information, I did what I always do: "I'd be happy to," I said.&lt;/P>
+&lt;P>And so began two weeks of 14+ hour days, meeting every day with execs up to the VP-level, figuring out what the story was, who'd say what, the mix of demo to slides, what he'd heard before, what he'll want to hear, rat holes we want to avoid, rot holes we want to engage him on (called "drawing the foul" in softie-speak), timing, etc.&lt;/P>
+&lt;P>And those are just the daily meetings -- the rest of the time is spent actually getting the bits to work, which means integrating technologies across teams and divisions, often for the first time. Can't have Bill saying, "But why didn't you just use such and so -- they've already solved that problem?" so we have to make stuff work, even if it's alpha and hasn't been made to work together yet or isn't stable when you bring it together. So I'm pulling in all my friends and their friends to set up conference calls to make these bits work with those bits and using the name "BillG" like a club to motivate folks that are already very very busy.&lt;/P>
+&lt;P>And it worked. It was more than full-time for two solid weeks, but we got a stack of bits working reliably and repeatably to demonstrate the goals of our work. It was chewing gum and bailing wire, but it got the point across. And the demo I worked on was just 15 minutes of a two hour review; there were dozens of other folks working on the rest of it.&lt;/P>
+&lt;P>The BillG review itself? Imagine the nicest conference room you've ever been to, with giant leather chairs, a podium, a huge retractable projection screen, miles of white board and acres of windows looking out over the green Microsoft campus. Imagine our Sr. VP checking in on us minutes beforehand to straighten out any questions we need answered (we spent 30 minutes guessing where Bill would sit and arranging ourselves accordingly). Then imagine Bill himself coming in like a ninja, appearing in his designated seat as if he'd teleported to it from his previous meeting (and maybe he did). No introductions, no fanfare, just "We'll get right to it, Bill."&lt;/P>
+&lt;P>And he listened, laughing a little from time to time, asking the odd question. I'd been at one of these before, but sitting along the wall, looking at the back of Bill's head. This time I was at the big boy's table. Last time, I'd tracked f-bombs, keeping a running total in my head: the higher the number, the worse you're doing. The last time, we had one/hour, which was considered to be outstanding. This time, zero. Even though the demo I'd prepared didn't go off flawlessly (there was a continuous reset in the underlying communications stack we were using that we'd never seen before), he got enough of the demo to appreciate our intent and was interested enough in the the rest of the material to seem pleased.&lt;/P>
+&lt;P>Near the end, he started talking more, synthesizing our work with the work going on in the rest of the company, making startling leaps that I'd never considered (and I've got pipe dreams in my head for the upcoming release and the one after that). We agreed some. We pushed back some. We asked him for help making some things happened.&lt;/P>
+&lt;P>And then he was gone, 30 minutes over his time, but off to somewhere else he had to be.&lt;/P>
+&lt;P>And then gushing started. We kicked ourselves for the little hiccup in our demo, but really we'd shown him what we wanted to show him and we felt good about it.&lt;/P>
+&lt;P>Was it really Bill's last review? Well, probably not. He's still got a few weeks left in his official role as chief software architect and I hear he still wants to work part-time on his pet projects (I was surprised to learn that we were one of those), but it's certainly one of the last. I can say that I worked to put together part of a BillG review while he was still around.&lt;/P>
+&lt;P>I still can't say that I've actually *met* the man, though. sigh.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2182</id>
+    <title>Losing weight the old fashioned way: tonsilectomy</title>
+    <updated>2008-06-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-06-13T07:00:00.000Z</published>
+    <summary>Today is my last day of time off work from a tonsillectomy a week ago Thursday. I'm down to about 20mg of OxyContin/day (from 60mg) and hope to have that down to nothing by Monday (although I still have half a jug for my next party : ). Why would a grown man fresh off two SDRs and a BillG review feel the need to have his tonsils pulled? Well, I've been trying to talk someone into taking them for a coupla years now, even since the recurring strep throat started, but no luck. This time it was because I wasn't...</summary>
+    <content type="html">&lt;h1>Losing weight the old fashioned way: tonsilectomy&lt;/h1>
+&lt;P>Today is my last day of time off work from a tonsillectomy a week ago Thursday. I'm down to about 20mg of OxyContin/day (from 60mg) and hope to have that down to nothing by Monday (although I still have half a jug for my next party : ).&lt;/P>
+&lt;P>Why would a grown man fresh off two SDRs and a BillG review feel the need to have his tonsils pulled? Well, I've been trying to talk someone into taking them for a coupla years now, even since the recurring strep throat started, but no luck. This time it was because I wasn't sleeping properly.&lt;/P>
+&lt;P>A few months ago at a routine checkup, my doctor was working her way down a standard questionnaire, asking me if I had this problem or that problem. I'd been swimming a lot and had lost a few pounds recently, so mostly I didn't have any health problems. Until she got to sleep:&lt;/P>
+&lt;P>"Are you having any trouble sleep?"&lt;/P>
+&lt;P>"Well, I've been waking up about 4am every morning, no matter when I go to bed."&lt;/P>
+&lt;P>"Any stress?"&lt;/P>
+&lt;P>"I work at Microsoft," I said, figuring that was answer enough.&lt;/P>
+&lt;P>She laughed. "I mean anything out of the ordinary?"&lt;/P>
+&lt;P>I couldn't think of anything that would explain it, so I said so.&lt;/P>
+&lt;P>"Have you ever had a sleep study?"&lt;/P>
+&lt;P>"Well, one time I recorded a chapter of my social studies text book and listened to it all night while I slept. I got an A on that test."&lt;/P>
+&lt;P>Now she was just tired of my lip, so she explained &lt;A href="http://www.talkaboutsleep.com/sleep-basics/viewasleepstudy.htm">what she meant&lt;/A>. And then she signed me up. And I went. And it sucked. Imagine trying to get sleep while tied up (and not in a good way!).&lt;/P>
+&lt;P>The diagnosis of my sleep study was "severe &lt;A href="http://en.wikipedia.org/wiki/Sleep_apnea">sleep apnea&lt;/A>," as defined by more than 10 episodes an hour when I stop breathing and more than 10% decrease in oxygen to my brain. I was at 31 and 17% respectively, the sleep tech told me as they strapped me in for sleep study #2, this time with a &lt;A href="http://en.wikipedia.org/wiki/CPAP">C-PAP machine&lt;/A>. Now imagine sleeping while being tied up and gagged.&lt;/P>
+&lt;P>Apparently the gag improved my sleep enough that it "cured" my sleep apnea so, without benefit of advice from an actual sleep doctor yet, I was set up with my own C-PAP machine, where I could gag myself every night before going to sleep. And not just gag myself, but strap on a hockey mask while someone blows into your mouth all night long. And now try to sleep while this is happening. My father got one and complained bitterly about it for a full year 'til he got used to it.&lt;/P>
+&lt;P>So, being even more stubborn than my father (which, if you knew my father, is stubborn on a Biblical scale), I asked for a second opinion. Or at least a first opinion from an actual sleep doctor (and not just a tech).&lt;/P>
+&lt;P>And I got one. There are other treatments besides C-PAP machines for sleep apnea, among them tonsillectomy (can work depending on the patient), some kind of dental appliance (generally not very successful) and, I kid you not, learning to play the &lt;A href="http://en.wikipedia.org/wiki/Didgeridoo">digeridoo&lt;/A>. This last one had me particularly interested as I've always wanted to do that anyway. (Come on! Breathing in and out at the same time and making weird noises! It's like sex without the mess!)&lt;/P>
+&lt;P>"Well, let's see if a tonsillectomy would help you," the doctor said, leaning in for a look down my throat. He shined his little light in and then started backward as if scared. "Oh, yeah... You'll want to have those looked at," he said, his eyes all big.&lt;/P>
+&lt;P>"What?" I asked, a little worried.&lt;/P>
+&lt;P>"Those are within the range where should talk to an ear-nose-throat doctor about having them removed," he said, hastily writing out a recommendation and stealing a look at my throat out of the corner of his eye as he did so.&lt;/P>
+&lt;P>And so I went to the ENT doctor, a young'un one step up from Doogie Howser (or maybe just having celebrated my 39th birthday, everyone is starting to look really young to me...). He explained how things worked inside the mouth and throat. He looked at my nose. He looked in my ears. He understood my dislike of the C-PAP machine.&amp;nbsp;He described the four-point scale they used for measuring tonsils, asked me to open wide and, like the other doctor, started backward after a 500ms look.&lt;/P>
+&lt;P>"Those are huge!" Doogie said.&lt;/P>
+&lt;P>"Really?"&lt;/P>
+&lt;P>"Yeah!" I swear his pupils were dilated in some kind of fight or flight response.&lt;/P>
+&lt;P>"So, on the four-point scale?"&lt;/P>
+&lt;P>"4+. Huge!" he said. "Most people have a bunch of space around their tonsils to let he air in. How are you able to breath at all?"&lt;/P>
+&lt;P>"OK, doc. What do you think we should do?"&lt;/P>
+&lt;P>"We should take 'em out! Here's how it's going to work..." and he started describing the surgery, which was to include removing my tonsils, shaving back my uvula and fixing my &lt;A href="http://en.wikipedia.org/wiki/Deviated_septum">deviated septum&lt;/A>.&lt;/P>
+&lt;P>"Will I ever be able to sing?"&lt;/P>
+&lt;P>"Sure," he said. "That shouldn't be a problem."&lt;/P>
+&lt;P>"Great. I've always wanted to be able to sing!"&lt;/P>
+&lt;P>He laughed. "Well, no promises there." And then he started to describe the complications. Up until then, I was fine with him talking about permanent non-trivial surgery to correct a problem that I could be using an external (infernal!) machine to correct otherwise. But when he started talking about "uncontrolled bleeding" and "rushing to the emergency room as [my] stomach filled with blood," well, that was a bit much after no breakfast that morning.&lt;/P>
+&lt;P>"Are you OK?" he said, a concerned look on his face. "You've gone all white."&lt;/P>
+&lt;P>"Ah, no, actually, I'm not. I'm feeling a bit faint..."&lt;/P>
+&lt;P>So Doogie had me put my head between my knees and breath deeply. And when that didn't work, he popped some smelling salts under my nose. That hurts! But that didn't work either.&lt;/P>
+&lt;P>"Huh. That normally works," he said, dumbfounded at the giant man getting ready to pass out in his office. "Nurse! Bring me some juice!"&lt;/P>
+&lt;P>After recovering from the mere idea of uncontrolled bleeding down the back of my throat (which still makes me a little queasy just typing it), he said, "Well, let's not talk about that any more. You'll come in and I'll take care of it, OK?"&lt;/P>
+&lt;P>That sounded good to me, so I scheduled the surgery for 6/5, a week after the BillG and a few days after my birthday (my own gift to myself : ).&lt;/P>
+&lt;P>So, I had a few weeks to shutdown my work because the doctor said that I would be out for "at least" two weeks recovering. "And you'll be on heavy medications, too. Kids bounce back in a day or two, but this is *very* painful surgery for adults."&lt;/P>
+&lt;P>Great. Never had any surgery other than my wisdom teeth and now I get a doozy.&lt;/P>
+&lt;P>I started informing those around me of my impending doom. And then the advice started.&lt;/P>
+&lt;P>"The first week was really easy. It's the *second* week that's hard."&lt;/P>
+&lt;P>"My throat hurt so much that I just didn't eat for two weeks. I lost 30 pounds!"&lt;/P>
+&lt;P>"Those drugs will lower your IQ by like 30 points."&lt;/P>
+&lt;P>"I wonder if your voice will change? Mine did."&lt;/P>
+&lt;P>"I had a tonsillectomy as an adult and I still can't say my Ls properly."&lt;/P>
+&lt;P>As a professionally speaker, I didn't mind the idea of my voice changing a little (hopefully deeper), but losing my Ls? Good lord!&lt;/P>
+&lt;P>I was not to eat or drink starting midnight the night before my surgery, so I didn't. Normally the sleep deprivation has acted as an appetite suppressant, so that and the exercise has caused me to lose 43 pounds in the last 6 months. Missing a few coupla meals hasn't been an issue, but by 3pm the next morning, sitting on the hospital bed in a hospital gown, my ass hanging out while every nurse and doctor in the place asked me if I'd avoided food and water of any kind and I started to get damn hungry, hoping for the surgery just to have something else to do (although Melissa let me win a few hands of gin, which was nice).&lt;/P>
+&lt;P>Then the nice anesthesiologist came and slipped me a little something. I felt completely normal for about 10 minutes and then I woke up in the recovery room, the nurses asking me if I could help them move from the gurney to the bed. Seriously. That was my entire surgical experience. Melissa was there, making sure my stuff came with me and asking if I was OK.&lt;/P>
+&lt;P>Oh, and I was feeling no pain. I don't remember much from those first few hours. I could talk, which apparently was very unusual. I could walk. I remember my sister-in-law bringing my boys by for a visit and them waking me up every five minutes so I didn't spill my juice all over myself. I remember several pretty nurses waking me up every hour or so to adjust this sensor or give me that medication. I don't remember what I said to them, but I do remember making them laugh, which made the increasing pain of my throat more bearable.&lt;/P>
+&lt;P>We figured out my pain dosage that first night, 10mg of &lt;A href="http://en.wikipedia.org/wiki/Oxycodone">OxyContin&lt;/A> every 4 hours mixed with intravenous morphine to take the edge off. I was disappointed that I didn't get any kind of "high," though. I just felt fuzzy headed and sleepy. Is that what Rush liked? I don't get it. I tell you though that the tennis elbow I'd given myself with the free weights in my garage was *completely* cured.&lt;/P>
+&lt;P>In that first 12 hours, it was my job to be able to walk, go to the bathroom on my own and manage my own pain via oral medications. And I did so. In fact, I was recovering so quickly, the doctor came by and gave me permission to go home hours early. I'd told him the night before that, if my voice had to change, could he push it toward Barry White? Oh, and I'd like to be able to say all my letters if possible. That morning, he asked, "Have you tried it? Can you still say your Ls?"&lt;/P>
+&lt;P>And then, because I couldn't not, I channeled &lt;A href="http://www.imdb.com/title/tt0085334/">A Christmas Story&lt;/A>&amp;nbsp;for demonstration purposes: "Fa ra ra ra ra ra ra ra ra!" willing to endure the pain in my throat for the cheap laugh. And I got it. : )&lt;/P>
+&lt;P>I came home a week ago Friday and have been largely ignoring my work, sleeping most of the time, getting up mainly for drugs every four hours and a little food (&lt;A href="http://www.nissinfoods.com/topramen/">Top Ramen&lt;/A>, Popsicles and water). The combo put me to sleep within an hour, giving me just time enough to send the random pathetic email or IM before collapsing again. Gradually I've been cutting back on pain meds and eating more, my throat just a minor annoyance at this point. It still hurts and my voice is still scratchy, but&amp;nbsp;a quick&amp;nbsp;chug of OC and I'm back in the game, mostly awake during the day and asleep at night.&lt;/P>
+&lt;P>I went in for my week check-in with the ENT guy yesterday. He was delighted to tell me about micro-pustules and puss inflammation that had riddled my tonsils. Not only where they "huge," but apparently my body's been fighting them off as a low level infection for who knows how long. While telling me this, the doctor put a bib around me and handed me a tray to hold as I looked at him questioningly.&lt;/P>
+&lt;P>"Oh, I don't think you're going to throw up," he said, rummaging for some instruments in a drawer. "I just need you to hold the splints when I take them out."&lt;/P>
+&lt;P>As part of fixing my deviated septum, Doogie had put splits in my nose so that things would heal open. At the mention of "splint," I thought of a little stick to hold my nostril open like the pole in the center of a tent. I thought he'd reach in, cut it in two and pull out a couple of tiny toothpicks. Well, he reached in, stretched my nostril to uncomfortable proportions, clipped the thread holding the split in and started pulling.&lt;/P>
+&lt;P>Have you seen the scene from &lt;A href="http://www.imdb.com/title/tt0100802/">Total Recall&lt;/A> where Arnold reaches up into his nose and pulls out that giant tracking device? Yeah. Think that except the split was longer. The doctor kept pulling and it kept coming out until it fell with a thump into the tray.&lt;/P>
+&lt;P>"That was in my nose?!"&lt;/P>
+&lt;P>"Yep. And there's another one on the other side," he said, reaching for the other side.&lt;/P>
+&lt;P>"There is?!"&lt;/P>
+&lt;P>"Yeah. Didn't I tell you? Oh, I guess you were asleep when I put them in," he said, pulling another canoe out of my other nostril.&lt;/P>
+&lt;P>"Oh my god!" I said, looking down at the snot covered railroad ties in the tray I was holding.&lt;/P>
+&lt;P>"Are you OK? You look a little pale. OK, head back..." He was much more comfortable getting the color back into my face the second time, having practiced on me before.&lt;/P>
+&lt;P>"Nurse! Cold compresses!"&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2180</id>
+    <title>$200 Off Early Registration for PDC2008!</title>
+    <updated>2008-05-28T07:00:00.000Z</updated>
+    <published>2008-05-28T07:00:00.000Z</published>
+    <summary>I love the smell of the PDC in the morning! </summary>
+    <content type="html">&lt;h1>$200 Off Early Registration for PDC2008!&lt;/h1>
+&lt;P>I love the smell of &lt;A href="http://microsoft.com/pdc">the PDC&lt;/A> in the morning!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2179</id>
+    <title>The Next Generation</title>
+    <updated>2008-05-18T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-05-18T07:00:00.000Z</published>
+    <summary>When I was in high school, "game programmer" meant at best BASIC or at worst 6502 assembly language, but either way, lots of text manipulation. These days, high school-age programmers are going to camps and programming competitions having spent their time in drag-n-drop programming environments like Game Maker. They've been doing work flow for 7 versions already! Yesterday, I was a judge and the keynote speaker at a high school game programming contest. After asking a bunch of the 25 teams questions about t...</summary>
+    <content type="html">&lt;h1>The Next Generation&lt;/h1>
+&lt;P>When I was in high school, "game programmer" meant at best BASIC or at worst 6502 assembly language, but either way, lots of text manipulation. These days, high school-age programmers are going to camps and programming competitions having spent their time in drag-n-drop programming environments like &lt;A href="http://www.yoyogames.com/gamemaker">Game Maker&lt;/A>. They've been doing work flow for 7 versions already!&lt;/P>
+&lt;P>Yesterday, I was a judge and the keynote speaker at a high school game programming contest. After asking a bunch of the 25 teams questions about their games, I was asked to speak about careers in software to 100 high school computer geeks. My people!&lt;/P>
+&lt;DIV>I started by introducing my youngest son as the "slide monkey" to warm applause and them myself as a Microsoft employee to... silence. So, I said: "How many of you think that Microsoft is..." and then I put my face down to the podium microphone and said in a voice from God, "EVIL?". Half of them raised their hands, all of them laughed and I had them engaged for the next 20 minutes.&lt;/DIV>
+&lt;DIV>&amp;nbsp;&lt;/DIV>
+&lt;DIV>Instead of listing various careers and their duties, I had dug through literally 13 years worth of bad Internet humor (641 emails) that I'd saved over the years and &lt;A HREF="/public/spout/SoftwareCareers.zip">used all the silly, stupid, funny pictures to illustrate the various careers&lt;/A>, like an x-ray of Homer's tiny brain (Architect), a picture of some hand puppets chasing a kitten (Legal), street signs that said "left turn" and "keep right" at the same time (User Assistance), etc. A couple pictures I had to clean up, like that one that said "Every time you masturbate, God kills a kitten," but even so, the pictures worked: they were listening to me.&lt;/DIV>
+&lt;DIV>&amp;nbsp;&lt;/DIV>
+&lt;DIV>While I had their attention, I told them two things. First, I told them that Microsoft was hiring. : )&amp;nbsp; Second, and most importantly, I told them not to worry about the money, but to pick a job that's going to get them excited every day. Pick the job that's the most *fun*. And when that one isn't fun anymore, pick another one! I tried to put every ounce of sincerity I had into it, because I believe it. I love my work, I love who I work with and I think everyone should have that. I know it's silly, but if I could inspire just one person to reject some high paying job that's going to make them miserable in favor of a starvation-wages job that they'll love, then I'm happy.&lt;/DIV>
+&lt;DIV>&amp;nbsp;&lt;/DIV>
+&lt;DIV>And to illustrate the downside of picking the wrong job, I closed my talk showing a little boy balling his eyes out (although in his case, it was because of Santa's tombstone behind him : )&lt;/DIV>
+&lt;DIV>&amp;nbsp;&lt;/DIV>
+&lt;DIV>What a good way to spend the day. Highly recommended.&lt;/DIV></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2178</id>
+    <title>Why I Love My Tribe and Want You To Join It!</title>
+    <updated>2008-04-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-04-30T07:00:00.000Z</published>
+    <summary>Recently, I went to lunch with some friends of mine from the DevelopMentor Software days (wow, *that* was a long time ago) and they accused me of "radio silence" for the last two years. "What?" I said. "I blog all the time!" "Oh yeah? What have you been working on again?" "Uhhh..." I've mentioned my work on this blog in passing as "model-driven" this or "data-driven" that, but never the details. And I still can't tell you those kinds of details. But what I can tell you is how I spend my days, because they a...</summary>
+    <content type="html">&lt;h1>Why I Love My Tribe and Want You To Join It!&lt;/h1>
+&lt;P>Recently, I went to lunch with some friends of mine from the DevelopMentor Software days (wow, *that* was a long time ago) and they accused me of "radio silence" for the last two years.&lt;/P>
+&lt;P>"What?" I said. "I blog all the time!"&lt;/P>
+&lt;P>"Oh yeah? What have you been working on again?"&lt;/P>
+&lt;P>"Uhhh..."&lt;/P>
+&lt;P>I've mentioned my work on this blog in passing as "model-driven" this or "data-driven" that, but never the details. And I still can't tell you those kinds of details.&lt;/P>
+&lt;P>But what I can tell you is how I spend my days, because they are *glorious* days.&lt;/P>
+&lt;P>Have you ever had one of those jobs where you're energized about coming to work every single day, because whatever you're doing, it *really* needs doing and it's going to be different than yesterday?&lt;/P>
+&lt;P>You might be pushing to finish writing a talk for an upcoming SDR (Software Design Review) or getting that last bit of code checked in before a big internal drop, digging into security threat modeling for the first time or complaining that the thing your team is building is too damn hard to use, only to be told, "fine, then, fix it!"&lt;/P>
+&lt;P>You could be holding the hand of a new Jr. PM just joining the team or busting the balls of some Sr. Architect that thinks he's all that and a box of Cracker Jacks, interviewing the next set of folks that are dying to be on your team and turning some away because as much work as you have to do, it's better to leave it undone than to lower the bar even an inch on the quality standards you're committed to living up to.&lt;/P>
+&lt;P>You could be building your own sub-system that we already have 8 of inside the company, but you need some source code you understand and that you can experiment with so that you can add the one or two features you think could really make a difference, only to find out you've just built the thing that your management wants to base the next-gen version of that very sub-system on.&lt;/P>
+&lt;P>You might be meeting your boss in the ProClub locker room when you're half naked or soaking in the hot tub laughing about some trick you pulled in a meeting, listing the customers that need special attention or cornering an executive in the elevator asking for a really cool thing we have to do for the PDC, damn the cost.&lt;/P>
+&lt;P>You're definitely going to be going into work with the smartest, nicest, most fun, more interesting, most sincerely quality-focused people you've ever known. After Don had first come to Microsoft for a while, he told me that he'd found his "tribe." I'd been at DevelopMentor during it's heyday, so I couldn't imagine ever finding another group of people I enjoy working with that much. I was wrong. My tribe (of which Don is one of the chiefs) gets so much accomplished because we lean on each other, we trust each other and we spend *so* much time laughing with each other (and *at* each other : ).&lt;/P>
+&lt;P>Most of you will be able to see the thing I've been working on with my tribe at the PDC. Or, if you'd like to help us build it, &lt;A href="http://douglaspurdy.com/2008/04/29/new-languages-compilers/">we're always looking for new tribe members&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2177</id>
+    <title>Nobody Knows Shoes: The Book -- Pure Genius!</title>
+    <updated>2008-03-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-03-22T07:00:00.000Z</published>
+    <summary>I friend of mine dropped a book with a funny cover in my lap and said, "Hey, check this out." I threw it on my pile and didn't get back to it for a few days. When I did, I didn't know what to make of it. It was like The Grapes of Wrath by Rory Blyth, with illustrations by a drunk Salvador Dali. It took a few pages, but I eventually figured out that "Shoes" was a cross-platform GUI framework for Ruby and </summary>
+    <content type="html">&lt;h1>Nobody Knows Shoes: The Book -- Pure Genius!&lt;/h1>
+&lt;P>I friend of mine dropped &lt;A href="http://www.lulu.com/content/1365064">a book with a funny cover&lt;/A> in my lap and said, "Hey, check this out." I threw it on my pile and didn't get back to it for a few days. When I did, I didn't know what to make of it. It was like &lt;A href="http://books.google.com/books?id=fk7SawIjG3IC&amp;amp;dq=grapes+of+wrath&amp;amp;pg=PP1&amp;amp;ots=rrXRrO0QeL&amp;amp;sig=eDw4XNyXJoCrATWoFjrfczgKlKA&amp;amp;hl=en&amp;amp;prev=http://www.google.com/search?q=Grapes+of+Wrath&amp;amp;rls=com.microsoft:*&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&amp;amp;sa=X&amp;amp;oi=print&amp;amp;ct=title&amp;amp;cad=one-book-with-thumbnail">The Grapes of Wrath&lt;/A> by &lt;A href="http://www.neopoleon.com/">Rory Blyth&lt;/A>, with illustrations by a drunk &lt;A href="http://images.google.com/images?hl=en&amp;amp;rls=com.microsoft:*&amp;amp;resnum=0&amp;amp;q=Salvador+Dali&amp;amp;um=1&amp;amp;ie=UTF-8">Salvador Dali&lt;/A>.&lt;/P>
+&lt;P>It took a few pages, but I eventually figured out that "Shoes" was a cross-platform GUI framework for Ruby and this 52-page book was a tutorial for it. By page 15, I knew the major concepts. By page 20, I could write my first program. By the end, 30 minutes after I'd started reading, I knew the whole thing.&lt;/P>
+&lt;P>But it was page 24 that completely blew me away. The use of pictures of dominoes and matches to illustrate layout in stacks and flows was genius. This wasn't just a random collection of wacky illustrations and&amp;nbsp; non-traditional font choices -- the author of this book really knew how to tell a story.&lt;/P>
+&lt;P>It wasn't that I wanted to program Shoes, so went looking for a tutorial. It was the tutorial that made me want to program Shoes. Now *that's* writing.&lt;/P>
+&lt;P>P.S. This book is not from a publisher -- it's self-published through &lt;A href="http://LuLu.com">LuLu.com&lt;/A>&amp;nbsp;for cost. There is no bar code, copyright page, Table of Contents or index. It's just the stuff you actually need to get started programming a completely new thing. And, if you don't want to shell out the $8.72 to read a paper copy, you can read &lt;A href="http://hackety.org/press/">the HTML and PDF versions&lt;/A> instead.&lt;/P></content>
+  </entry>
+</feed>

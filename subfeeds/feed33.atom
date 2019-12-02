@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed33.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed32.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed34.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed33.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1940</id>
+    <title>PM Skill #5: Unblock Others First</title>
+    <updated>2006-01-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-16T08:00:00.000Z</published>
+    <summary>PMs often come from the ranks of engineers who've been "promoted" (aka taken away from the code to go to meetings). Many fight this trend, reverting to their old close-the-door-and-solve-the-problem habits to solve problems, which, as I've mentioned, doesn't work at all well when you're managing a team. Even worse, a PM has to do something that's very weird to most people -- they have to help other folks get their work done before they tackle their own work. I call this "unblock others first." This has impl...</summary>
+    <content type="html">&lt;h1>PM Skill #5: Unblock Others First&lt;/h1>
+&lt;P>PMs often come from the ranks of engineers who've been "promoted" (aka taken away from the code to go to meetings). Many fight this trend, reverting to their old close-the-door-and-solve-the-problem habits to solve problems, which, as &lt;A href="/1925">I've mentioned&lt;/A>, doesn't work at all well when you're managing a team.&lt;/P>
+&lt;P>Even worse, a PM has to do something that's very weird to most people -- they have to help other folks get their work done before they tackle their own work. I call this &lt;STRONG>"unblock others first."&lt;/STRONG> This has implications:&lt;/P>
+&lt;UL>
+&lt;LI>You have to &lt;STRONG>be in constant communication&lt;/STRONG> with all the folks on your team via meetings, 1:1s, phone calls, IM, email, etc. However your teammates like to communicate, you have to be ready to receive and respond quickly. The longer you wait, they longer they're blocked and the further out your ship date goes.&lt;/LI>
+&lt;LI>You have to learn to &lt;STRONG>be interrupt driven and good at switching between tasks&lt;/STRONG> or you're never going to be able to swap into the tasks you're being asked to help with and then back into your own tasks. This is very counter to engineering work, where you have to be able to keep lots of ideas in your head all at once while you work on a deep technical task and interruptions are the enemy.&lt;/LI>
+&lt;LI>You still have to &lt;STRONG>balance your interrupt-driven PM time with your concentrated technical time&lt;/STRONG>, or you're never going to be able to stay technical enough to keep up with your team. This is the one I struggle with the most. How can I be responsive to unblock my teammates while still having uninterrupted time to myself for technical work?&lt;/LI>&lt;/UL>
+&lt;P>This last question is the fundamental contradiction when you're a product PM and it's one that different PMs balance differently. Some swing a lot toward the technical and risk losing touch with their team and thereby building the wrong thing or missing their dates. Some swing toward the management, losing touch with the technology and losing the respect of their developers. Of the two, swinging too much toward the technology is the biggest danger, but only by a little.&lt;/P>
+&lt;P>I deal with this by trying to set aside at most a day here or there where I can ignore my team and concentrate on something technical, but I have a very hard time actually doing it. Frankly, I love the constant task switch that goes w/ PMing and I get bored if I go too long without it.&lt;/P>
+&lt;P>"Hi. My name is Chris and I'm a PM. Can I get a hug?" : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1941</id>
+    <title>A Toast to WPF</title>
+    <updated>2006-01-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-01-16T08:00:00.000Z</published>
+    <summary>Here's a review you don't get very often: "Your WPF book is excellent. So good that I actually chose to read it instead of watching in flight entertainment from my trip to London in Dec... I liked it so much that I asked for some champaign, and continued to read it non-stop till I reached London from UK. Here&amp;#8217;s a photo. Good job!" I'm glad to here our book goes nicely with a glass of champagne, although maybe Parimal will change his mind when he sobers up or the jet lag wears off. : ) </summary>
+    <content type="html">&lt;h1>A Toast to WPF&lt;/h1>
+&lt;P>Here's a review you don't get very often:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>&lt;EM>"Your WPF book is excellent. So good that I actually chose to read it instead of watching in flight entertainment from my trip to London in Dec... I liked it so much that I asked for some champaign, and continued to read it non-stop till I reached London from UK. Here&amp;#8217;s a photo. Good job!"&lt;/EM>&lt;/P>&lt;EM>&lt;IMG src="/public/writing/wpfbook/atoasttowpf.jpg"> &lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>I'm glad to here &lt;A HREF="/public/writing/wpfbook/">our book&lt;/A> goes nicely with a glass of champagne, although maybe Parimal will change his mind when he sobers up or the jet lag wears off. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1942</id>
+    <title>My Son's First Computer Program</title>
+    <updated>2006-01-16T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-01-16T08:00:00.000Z</published>
+    <summary>Wonderful things happen when I tell me kids to stop playing video games and to stop watching TV (I try to limit them to an hour of each/day). I mean, aweful things happen at first -- you'd think I stuck a sharp stick in their eye. But, after the hollowing stops (and the pull the stick out), the imagination kicks in and they think of stuff to do. Today (they were home from school on MLK Day) John asked if he could write a program. Now, as you may or may not recall (or as you may or may not care), I just move...</summary>
+    <content type="html">&lt;h1>My Son's First Computer Program&lt;/h1>
+&lt;P>Wonderful things happen when I tell me kids to stop playing video games and to stop watching TV (I try to limit them to an hour of each/day). I mean, aweful things happen at first -- you'd think I stuck a sharp stick in their eye. But, after the hollowing stops (and the pull the stick out), the imagination kicks in and they think of stuff to do. Today (they were home from school on MLK Day) John asked if he could write a program.&lt;/P>
+&lt;P>Now, as you may or may not recall (or as you may or may not care), I just moved a few months ago and I haven't built enough shelves to hold all my books yet, so my copy of &lt;A href="http://www.amazon.com/gp/product/1931841160/">Microsoft C# Programming for the Absolute Beginner&lt;/A>, by Andy Harris (which I'd purchased in case this day every came) was buried who knows where. I scoured every book box stacked in the closet in my office and every book box I could get to in the garage before risking an antique painting and crawling behind four matteress to dig through the one box I just couldn't reach to find it (why is it that whatever you're looking for is always in the last place you look?!?).&lt;/P>
+&lt;P>Once I'd found it, I handed it to John so that I could ready the computer for his programming genius. I knew right where to go to get &lt;A href="http://msdn.microsoft.com/vstudio/express/visualcsharp/">Visual C# Express&lt;/A>&amp;nbsp;and I loaded on MSDN Express and SQL Server Express, just in case (Mozart's dad got him more than one instrument, didn't he?!?). Of course, I got to the spot where I needed 1.7GB on the C drive (even though I was installing on the E drive) and I only had 1GB, so I had to clean the drive and uninstall a bunch of stuff, all the while John's pestering me, "Do I have to read this part called Intro? What's .NET? What does the C in C# stand for? I don't want to &lt;EM>read &lt;/EM>stuff, I just want to &lt;EM>do &lt;/EM>stuff!" Clearly, Mr. Harris had a different audience in mind when he used the phrase "absolute beginner."&lt;/P>
+&lt;P>So, after about an hour of searching and uninstalling, downloading and installing, and then showing him the difference between the development environment, the documentation, debugging and running, I was ready to give up the driver's seat and let John try his hand. Here's his first program:&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">using&lt;/SPAN>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes"> System;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">namespace&lt;/SPAN>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes"> ConsoleApplication1 {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">class&lt;/SPAN> &lt;SPAN style="COLOR: teal">Program&lt;/SPAN> {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">static&lt;/SPAN> &lt;SPAN style="COLOR: blue">void&lt;/SPAN> &lt;?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" />&lt;st1:place w:st="on">Main&lt;/st1:place>(&lt;SPAN style="COLOR: blue">string&lt;/SPAN>[] args) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.Write(&lt;SPAN style="COLOR: maroon">"Hi, &lt;STRONG>Mom&lt;/STRONG>!"&lt;/SPAN>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">}&lt;/SPAN>&lt;/P>
+&lt;P>
+&lt;P>&lt;EM>sigh.&lt;/EM>&lt;/P>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1938</id>
+    <title>Survey: The Future of Publishing</title>
+    <updated>2006-01-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-01-12T08:00:00.000Z</published>
+    <summary>Karen Gettman, my editor at Addison-Wesley, called and asked me a bunch of questions about the future of publishing yesterday. After our discussion, she asked if I knew anyone else and I volunteered to put a survey up on my web site. To answer this survey, send the questions below and your answers to Karen.Gettman@AWL.com. Also, include your phone number so Karen can call to follow up (she finds the phone conversations to be most illuminating when it comes to really figuring out how people want to get to in...</summary>
+    <content type="html">&lt;h1>Survey: The Future of Publishing&lt;/h1>
+&lt;P>Karen Gettman, my editor at Addison-Wesley, called and asked me a bunch of questions about the future of publishing yesterday. After our discussion, she asked if I knew anyone else and I volunteered to put a survey up on my web site.&lt;/P>
+&lt;P>To answer this survey, send the questions below and your answers to &lt;A href="mailto:Karen.Gettman@AWL.com">Karen.Gettman@AWL.com&lt;/A>. Also, include your phone number so Karen can call to follow up (she finds the phone conversations to be most illuminating when it comes to really figuring out how people want to get to info -- we spent a bunch of time talking about hardware and software for ebooks). Thanks from Karen for your help!&lt;/P>
+&lt;OL>
+&lt;LI>How do you learn about things to keep current in your job?&lt;/LI>
+&lt;LI>What questions have you recently had and how did you search for the answers?&lt;/LI>
+&lt;LI>How do #1 and #2 work well and poorly today?&lt;/LI>
+&lt;LI>How would you like your information "served up?"&lt;/LI>
+&lt;LI>What part of content (besides the content itself) do you value the most (name of its creator, form factor, etc.)?&lt;/LI>&lt;/OL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1939</id>
+    <title>PM Skill #4: Exhibiting the Behavior You Want</title>
+    <updated>2006-01-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-12T08:00:00.000Z</published>
+    <summary>At our last team milestone, we had stepped up the pace in the last two weeks to make sure that we were done in time for a demo by one of our internal stakeholders (demoing your stuff is a wonderful way to communicate, but having other folks build on your stuff to demo their stuff is even better [so long as they remember to mention your stuff]). When we decided to step up the pace, I let everyone on the team know that I was available 24/7 until the demo, providing all my contact numbers. I was actively worki...</summary>
+    <content type="html">&lt;h1>PM Skill #4: Exhibiting the Behavior You Want&lt;/h1>
+&lt;P>At our last team milestone, we had stepped up the pace in the last two weeks to make sure that we were done in time for a demo by one of our internal &lt;A href="/1936">stakeholders&lt;/A> (demoing your stuff is a wonderful way to &lt;A href="/1924">communicate&lt;/A>, but having other folks build on your stuff to demo their stuff is even better [so long as they remember to mention your stuff]). When we decided to step up the pace, I let everyone on the team know that I was available 24/7 until the demo, providing all my contact numbers. I was actively working on a chunk of the implementation, so I would send out status and check-in mails whenever I had completed something, often in the middle of the night or early in the morning (I didn't get much sleep for those two weeks). When folks had questions, I was there to answer them, day or night. I was working long and focused hours and I was making good progress against my goals to meet the deadline for the demo.&lt;/P>
+&lt;P>In other words, while I never once asked the team to double their work efforts, once we'd all agreed to meet the shortened deadline, I stepped up my pace, let them know I'd stepped up my pace and expected them to do the same. This is the same no matter what behavior you want, whether it's working long hours (only temporarily, though, else you'll burn out your team), showing up to meetings on time or getting powered sugar on your keyboard. Some individual members of your team may not change their behavior, but they definitely won't if you're not willing to.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1937</id>
+    <title>.NET 2.0 Breaks NTD</title>
+    <updated>2006-01-11T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-01-11T08:00:00.000Z</published>
+    <summary>Charles Sterling, Developer Evangelist, points out a problem with.NET 2.0 and No-Touch Deployment applications&amp;nbsp;over the internet (where "problem" = "breaks completely").</summary>
+    <content type="html">&lt;h1>.NET 2.0 Breaks NTD&lt;/h1>
+Charles Sterling, Developer Evangelist, points out &lt;A href="http://blogs.msdn.com/charles_sterling/archive/2005/12/29/507917.aspx">a problem with .NET 2.0 and No-Touch Deployment applications&amp;nbsp;over the internet&lt;/A> (where "problem" = "breaks completely").</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1936</id>
+    <title>PM Skill #3: Getting Things Done</title>
+    <updated>2006-01-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-11T08:00:00.000Z</published>
+    <summary>Fundamentally, a PM's job is to get things done. If you're going to plan and ship while keeping your team happy, you've got to plan, ship and keep your team happy. All of this pre-supposes you can get things done. Getting things done isn't magic. For example, I'm sure everyone reading these words can get something done all on their own. However, when you're a PM, you've got to lead a team to get something done and that's a little trickier. Here's what I do: Identify a problem, e.g. I don't like doing Sudoku...</summary>
+    <content type="html">&lt;h1>PM Skill #3: Getting Things Done&lt;/h1>
+&lt;P>Fundamentally, a PM's job is to get things done. If you're going to plan and ship while keeping your team happy, you've got to plan, ship and keep your team happy. All of this pre-supposes you can get things done.&lt;/P>
+&lt;P>Getting things done isn't magic. For example, I'm sure everyone reading these words can get something done all on their own. However, when you're a PM, you've got to lead a team to get something done and that's a little trickier. Here's what I do:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;B>Identify a problem&lt;/B>, e.g. I don't like doing Sudoku with pencil &amp;amp; paper. 
+&lt;LI>&lt;B>Identify a solution&lt;/B>, e.g. put Sudoku into Windows. 
+&lt;LI>&lt;B>Identify your customers&lt;/B>, e.g. Sudoku freaks that would prefer a better experience than pencil &amp;amp; paper. 
+&lt;LI>Figure out the folks that care one way or the other, e.g. the people that decide what goes into Windows and &lt;B>pitch your solution&lt;/B>, either convincing them it should be done or convincing yourself it shouldn't. In most cases, your solution will need to change a bit to match your agenda to theirs. 
+&lt;LI>If you still think it's a good idea, find the folks that need to approve of the work (it may be the same folks that decide) and &lt;B>negotiate what success looks like&lt;/B>, e.g. a user of Windows can choose Sudoku from the Games menu of the next version of Windows and have a happy Sudoku playing experience. 
+&lt;LI>Find the folks that need to help, e.g. the people that actually puts things into Window, and &lt;B>plan the work&lt;/B>, e.g. write Sudoku, debug Sudoku, test Sudoku, get it into the manifest of files that make up the Windows setup, etc. 
+&lt;LI>By now, you've got a group of people involved with your idea. At Microsoft, these people are called &lt;I>stakeholders&lt;/I>, and form the team of folks getting things done, whether it's approving the work, enabling the work, doing the work or using the work. With these stakeholders, you need to &lt;B>schedule the work&lt;/B>. Scheduling accurately is a whole other topic, but to get things moving, you basically need an owner for each and every task in your plan and you need that owner to commit to a date, e.g. you (the PM) bill spec Sudoku by 1/1/06, Bob will write Sudoku by 2/1/06, Pete will test it as Bob writes it, etc. Also, if the work is more than a month or so, break it into milestones so that people see steady progress. 
+&lt;LI>If these people aren't enough to get the job done in a reasonable time frame (as determined by your schedule), you'll need to &lt;B>get additional resources&lt;/B>, either by hiring or convincing other people that already work with you to spend their precious time working on your idea. 
+&lt;LI>Now that you've got a set of tasks and a schedule, you need to &lt;B>execute&lt;/B>. That means making sure everyone's got what they need to do their work, including time, tools, the right information, etc. This also means gathering information about how folks are doing and sharing it with the stakeholders (a lot of them, like your boss or his boss, won't be doing the work, but will care about it). Finally, executing as a PM means holding the schedule up in front of the individual faces on your team every once in a while and "motivating" them into living up to their commitments, where "motivation" includes encouragement, bribery, shame, nagging, reminding them what problem you're trying to solve so as to keep them on track, etc. 
+&lt;LI>When you've met your criteria of success (which will involve more stakeholders, time, tasks and/or resources than you thought), &lt;B>ship it&lt;/B>. Do not forget this step! I know it's silly, but unless you've got an ever-decreasing list of tasks that shows you're getting closer to a real ship date instead of further, you've lost one of your major executing motivations. In fact, getting close to a goal is so important for the health of your project and your team, that you should have as much shipping in your schedule as possible, which is why must non-trivial projects are broken down into milestones, each of which you'll share with some set of your stakeholders, e.g. daily builds stay internal while betas are shared with customers. 
+&lt;LI>After you've shipped, don't forget to &lt;B>post-mortem&lt;/B>. In fact, I like to do port-mortems after each milestone. This allows you to decide what went well and poorly so you know what to repeat and what to avoid in the future. In addition to increasing your team's knowledge so that you can do better next time (or at least not do any worse), the post-mortem is a great time to really highlight the team's accomplishments, making sure to point out the work that individuals did. People need to know that their work is appreciated. That's not to say you need to plunk down a chunk of Lucite on their desk, but a simple "thank you" with specifics in front of a crowd goes a long way. &lt;/LI>&lt;/OL>
+&lt;P>As an example, after the 2005 PDC, I wanted to make sure that Avalon and Indigo worked very well together. Obviously, that's not something I can do myself (I have check-in rights to neither team's source code). I'm not done with this work yet, but here's how it's coming along:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;B>Problem&lt;/B>: Avalon and Indigo didn't work together during my PDC talk as I would've liked. 
+&lt;LI>&lt;B>Solution&lt;/B>: Getting a set of Avalon/Indigo technology samples into the SDK (a &lt;EM>technology sample&lt;/EM> is minimalistic, the SDK already has a bunch of Avalon/Indigo &lt;EM>application samples&lt;/EM>, which attempt to show something more akin to real-world usage).
+&lt;LI>&lt;B>Customers&lt;/B>: Developers using Avalon and Indigo together. 
+&lt;LI>&lt;B>Pitch&lt;/B>: I made my pitch to the people in charge of the SDK samples for Avalon and Indigo. They liked the idea and became my first stakeholders. They also reminded me that WinFX included Workflow, which quadrupled the pairings of technologies, i.e. from Avalon/Indigo to Avalon/Indigo, Avalon/WF, Indigo/WF and Avalon/Indigo/WF, and required an extra stakeholder. They also reminded me that I'll want to get someone from the SDK team itself involved, because I'll want to make sure there's a special section in the SDK samples that lists integration samples separately from the individual technology samples. 
+&lt;LI>&lt;B>Success&lt;/B>: A set of samples that show the "right" way to integrate the technologies and meet the standard sample bar of quality, e.g. they compile, they run, they pass FxCop, etc. This definition of success reminds us that the problem isn't that we don't have enough samples, but that the pieces of WinFX don't work together well enough, which is why getting architects from each technology into the room together to decide what's "right" (and changing the technologies appropriately) is the real job. Getting samples into the SDK is just the thing we're doing to motivate this activity. 
+&lt;LI>&lt;B>Plan&lt;/B>: We've got a list of samples that cover integration scenarios, what technology pairing they each cover, who owns &amp;#8216;em, who's authoring &amp;#8216;em and milestone dates, e.g. code complete, architectural review, submission, SDK drop release date. 
+&lt;LI>&lt;B>Schedule:&lt;/B> We composed the schedule by looking at the samples we wanted to do, picking the releases of the SDK that we wanted to hit (different releases had different features that we wanted to integrate together) and then backing it up from their, i.e. if we want to hit the Foo CTP, the submission deadline is n, we'll need m weeks to turn around architectural feedback, so we need to be code complete and have the review on n-m, etc. 
+&lt;LI>&lt;B>Resources&lt;/B>: Remember that this project started with just me, but now includes a decision-maker (or two) from Avalon, Indigo, Workflow and the SDK as well as sample authors and point people to get individual tasks done. In addition, there's my boss and the bosses of all of the folks doing the work that have to approve how folks spend their time, all of whom have to be kept informed and can have input to the process. Some folks are part of the team because they were convinced of the importance of the work and some are part of the team because their bosses were convinced and asked them to participate, but none of them work for me. It's common for a PM to run a project composed entirely of people that don't work for them, so sharpen up your people skills. 
+&lt;LI>&lt;B>Execute:&lt;/B> We meet semi-weekly to make sure we're still on track and to identify any addition tasks and owners, e.g. adding the new section to the SDK, etc. Also, I'm the author of a bunch of the samples, so I have to meet the deadlines personally. As the PM, if I don't meet my own deadlines, I've got no leg to stand on when I ask others to meet theirs. 
+&lt;LI>&lt;B>Ship:&lt;/B> We're coming up on the first code complete deadline, which was delayed a bit because we needed a stable internal build of a WinFX CTP that we're targeting to have the first set of samples placed into. Once we get the first set running on the right CTP, we'll review, fix problems in the samples, file architectural issues we discover in the review process as bugs against the individual technologies, submit the samples to the SDK team for their quality check and out it goes! 
+&lt;LI>&lt;B>Post-Mortem:&lt;/B> We haven't done this yet, but I things I expect to see come out of it is how to keep this work going. There are lots of combinations of technologies that we promote at Microsoft and there needs to be a way to make sure that they work well together, which, after all, was the whole point of this exercise. &lt;/LI>&lt;/OL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1934</id>
+    <title>The "Famous" Book Fight</title>
+    <updated>2006-01-10T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-01-10T08:00:00.000Z</published>
+    <summary>So, I read Rory's latest comic and laughed. A lot. However, I haven't posted it because I figured anyone who'd be amused would've already seen it. And then I got a ping from a marketing friend of mine who'd seen it and wondered what I thought. Granted, he's a marketing guy in the IT field, but still -- he's a *marketing* guy. I mean, I don't read their bait &amp;amp; switch blogs, so what's he doing reading our geek-out blogs?!? Rory, dude, I expect to see you in Time magazine one day. Don't forget the little p...</summary>
+    <content type="html">&lt;h1>The "Famous" Book Fight&lt;/h1>
+&lt;P>So, I read &lt;A href="http://neopoleon.com/blog/posts/17092.aspx">Rory's latest comic&lt;/A> and laughed. A lot. However, I haven't posted it because I figured anyone who'd be amused would've already seen it.&lt;/P>
+&lt;P>And then I got a ping from a marketing friend of mine who'd seen it and wondered what I thought. Granted, he's a marketing guy in the IT field, but still -- he's a *marketing* guy. I mean, I don't read their bait &amp;amp; switch blogs, so what's he doing reading our geek-out blogs?!?&lt;/P>
+&lt;P>Rory, dude, I expect to see you in Time magazine one day. Don't forget the little people (even if they need help carrying their ego : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1935</id>
+    <title>A Mac that runs Windows?!?!?!?</title>
+    <updated>2006-01-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-10T08:00:00.000Z</published>
+    <summary>Holy shit! I Macintosh that runs Windows!!! "After Jobs' presentation, Apple Senior Vice President Phil Schiller addressed the issue of running Windows on Macs, saying there are no plans to sell or support Windows on an Intel-based Mac. 'That doesn't preclude someone from running it on a Mac. They probably will,' he said. 'We won't do anything to preclude that.'" I can't tell you how long I've waited for a laptop built by Apple running Windows built by Microsoft. </summary>
+    <content type="html">&lt;h1>A Mac that runs Windows?!?!?!?&lt;/h1>
+&lt;P>Holy shit! &lt;A href="http://news.com.com/2100-1014_3-5733756-2.html">I Macintosh that runs Windows!!!&lt;/A>&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"After Jobs' presentation, Apple Senior Vice President Phil Schiller addressed the issue of running Windows on Macs, saying there are no plans to sell or support Windows on an Intel-based Mac. 'That doesn't preclude someone from running it on a Mac. They probably will,' he said. 'We won't do anything to preclude that.'"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I can't tell you how long I've waited for a laptop built by Apple running Windows built by Microsoft.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1933</id>
+    <title>Larry O'Brien on WPF</title>
+    <updated>2006-01-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-01-06T08:00:00.000Z</published>
+    <summary>Suddenly, I think Larry O'Brien is smart : "The book, in this case, is Chris Sells and Ian Griffiths' 'Programming Windows Presentation Foundation.' Sells and Griffiths are two top-notch authors, who separately wrote two of the better books on Windows Forms. This book, published by O'Reilly and adorned with a Kudu engraving, probably does about as good a job as possible in introducing a new display framework that is intended to replace, well, everything from User to GDI to GDI+. And, it seems clear, to repl...</summary>
+    <content type="html">&lt;h1>Larry O'Brien on WPF&lt;/h1>
+&lt;P>Suddenly, I think &lt;A href="http://www.sdtimes.com/fullcolumn/column-20051215-02.html">Larry O'Brien is smart&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The book, in this case, is Chris Sells and Ian Griffiths' 'Programming Windows Presentation Foundation.' Sells and Griffiths are two top-notch authors, who separately wrote two of the better books on Windows Forms. This book, published by O'Reilly and adorned with a Kudu engraving, probably does about as good a job as possible in introducing a new display framework that is intended to replace, well, everything from User to GDI to GDI+. And, it seems clear, to replace Flash as well."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>You go, Larry!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1931</id>
+    <title>I'm really digging live.com</title>
+    <updated>2006-01-05T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-05T08:00:00.000Z</published>
+    <summary>I've tried all the portal sites at one time or another (yahoo, google, etc), but none of them have ever stuck 'til now. Since I gave up on subscribing to blogs, I find myself surfing to two sites every day: slashdot.org and live.com. I like getting the news headlines and I really like the gadgets &amp;nbsp;(not one, but *two* versions of Wahoo! [both of which end in "tris" for some reason...]). It's not perfect (the menu on the left obscures some text, there's no auto scrolling while you drag and it doesn't see...</summary>
+    <content type="html">&lt;h1>I'm really digging live.com&lt;/h1>
+&lt;P>I've tried all the portal sites at one time or another (yahoo, google, etc), but none of them have ever stuck 'til now. Since I gave up on subscribing to blogs, I find myself surfing to two sites every day: &lt;A href="http://slashdot.org">slashdot.org&lt;/A> and &lt;A href="http://live.com">live.com&lt;/A>. I like getting the news headlines and I really like &lt;A href="http://microsoftgadgets.com/Gallery/">the gadgets&lt;/A>&amp;nbsp;(not one, but *two* versions of 
+&lt;a href="/12661">Wahoo!&lt;/a> [both of which end in "tris" for some reason...]).&lt;/P>
+&lt;P>It's not perfect (the menu on the left obscures some text, there's no auto scrolling while you drag and it doesn't seem to like my smart phone), but it's definitely "sticky," at least for me.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1930</id>
+    <title>Mobile Movie Listing Sites Compared</title>
+    <updated>2006-01-05T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-01-05T08:00:00.000Z</published>
+    <summary>On a recent mailing list discussion, folks posted a large number of URLs for mobile movie listing sites. Since searching for movies is one of the things I like to do on my smart phone, I did a quick compare and contrast, looking for the site that would give me a quick list of movies by my house. Here's what I found: Yahoo Mobile : once I chose my location, it showed me theaters, not movies in my location. I don't pick the movie I want to see by theater, I pick it by title and time. Google Mobile Search (XHT...</summary>
+    <content type="html">&lt;h1>Mobile Movie Listing Sites Compared&lt;/h1>
+&lt;P>On a recent mailing list discussion, folks posted a large number of URLs for mobile movie listing sites. Since searching for movies is one of the things I like to do on my smart phone, I did a quick compare and contrast, looking for the site that would give me a quick list of movies by my house. Here's what I found:&lt;/P>
+&lt;P>&lt;A href="http://acid1.oa.yahoo.com/mbl/mov/home">Yahoo Mobile&lt;/A>: once I chose my location, it showed me theaters, not movies in my location. I don't pick the movie I want to see by theater, I pick it by title and time.&lt;/P>
+&lt;P>&lt;A href="http://www.google.com/xhtml">Google Mobile Search (XHTML)&lt;/A>: required me to enter "movies &amp;lt;zip&amp;gt;", but once I did, showed me a nice list of movies (in random order) along with running times and a rating (although I have no idea where the ratings come from), the genre and the maturity rating. Clicking on a movie showed me a list of times by theater, an address and a phone number. Once I save the URL into my smart phone favorites, this site could be handy...&lt;/P>
+&lt;P>&lt;A href="http://mobile.fandango.com/">Fandango Mobile&lt;/A>: crashed when I entered my zip code.&lt;/P>
+&lt;P>&lt;A href="http://www.hollywood.com/avantgo">Hollywood Mobile&lt;/A>: asked for a zip code, then showed me a list of movies. Clicking on a movie didn't show the theater closest to my house, so that dropped it from my list of potentials.&lt;/P>
+&lt;P>&lt;A href="http://wireless.metacritic.com/avantgo">Metracritic Mobile&lt;/A>: shows movie reviews, but doesn't allow me to enter a zip code to show movies near my house.&lt;/P>
+&lt;P>&lt;A href="http://palm.moviefone.com/main.adp?uid=5300">Moviefone Mobile&lt;/A>: can find movies by movie or theater in a cute tabbed interface. However, instead of showing me all the movies, it made me pick by category. Once I picked a category and a movie, it showed the local theaters and times.&lt;/P>
+&lt;P>&lt;A href="http://www.imdb.com/showtimes/">IMDB Showtimes &amp;amp; Tickets&lt;/A>: until this review, I&amp;#8217;ve been using IMDB for my movie times. It's designed for a desktop browser (they don't have a mobile version I know about), but for a given zip code, you get all the movies, the IMDB rating, the maturity rating and the local theaters. You can also choose to look at the results by theater and easily change the day (e.g. tomorrow's movies) or sort by theater. There's a lot of scrolling around on a phone, but before this review, it was the one I used.&lt;/P>
+&lt;P>Of all of the sites, IMDB has the most capability, but it's awkward on the phone. I think I'm going to see how the Google mobile movie search stands up to regular use.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1932</id>
+    <title>Bindows: Windows Implemented in AJAX</title>
+    <updated>2006-01-05T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-01-05T08:00:00.000Z</published>
+    <summary>Holy User32 in a browser window, Batman! I don't know what it's like to use an app built this way, but looking at the samples blows me away... </summary>
+    <content type="html">&lt;h1>Bindows: Windows Implemented in AJAX&lt;/h1>
+&lt;P>&lt;A href="http://www.bindows.net/">Holy User32 in a browser window, Batman!&lt;/A>&lt;/P>
+&lt;P>I don't know what it's like to use an app built this way, but looking at the samples blows me away...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1929</id>
+    <title>A Quote With Which To Kick Off The Year</title>
+    <updated>2006-01-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-01-01T08:00:00.000Z</published>
+    <summary>"Health nuts are going to feel stupid someday, lying in hospitals dying of nothing." --Redd Foxx Happy New Year! </summary>
+    <content type="html">&lt;h1>A Quote With Which To Kick Off The Year&lt;/h1>
+&lt;p>"Health nuts are going to feel stupid someday, lying in hospitals dying of nothing."&lt;BR />--Redd Foxx&lt;/p>
+&lt;p>Happy New Year!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1927</id>
+    <title>"Conjure our spirits in a magical language called Lisp"</title>
+    <updated>2005-12-29T08:00:00.000Z</updated>
+    <published>2005-12-29T08:00:00.000Z</published>
+    <summary>Even the first 10 minutes of the 1st lecture of the MIT lectures on "Structure and Interpretation of Computer Programs" is amazing. "In Computer Science, we're in the business of&amp;nbsp;formalizing&amp;nbsp;'how to'&amp;nbsp;imperative knowledge" aka "process." In the first 5 minutes, I've already implemented my own square root function, which works surprisingly well: class Program { static double MySquareRoot(double x) { double margin = 0.10; double g = x / 2.0; while( System.Math.Abs(g * g - x) > margin ) { g = (g ...</summary>
+    <content type="html">&lt;h1>"Conjure our spirits in a magical language called Lisp"&lt;/h1>
+&lt;P>Even the first 10 minutes of the 1st lecture of &lt;A href="http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/">the MIT lectures on "Structure and Interpretation of Computer Programs"&lt;/A> is amazing.&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>"In Computer Science, we're in the business of&amp;nbsp;formalizing&amp;nbsp;'how to'&amp;nbsp;imperative knowledge" aka "process."&lt;/P>&lt;/BLOCKQUOTE>
+&lt;p>In the first 5 minutes, I've already implemented my own square root function, which works surprisingly well:&lt;/p>
+&lt;p>&lt;pre>class Program {
+  static double MySquareRoot(double x) {
+    double margin = 0.10;
+    double g = x / 2.0;
+    while( System.Math.Abs(g * g - x) > margin ) {
+      g = (g + x / g) / 2.0;
+    }
+    return g;
+  }
+
+  static void Main(string[] args) {
+    double x = 44523.0;
+    System.Console.WriteLine("sqrt({0})= {1}", x, System.Math.Sqrt(x));
+    System.Console.WriteLine("MySquareRoot({0})= {1}", x, MySquareRoot(x));
+  }
+}
+&lt;/pre>
+&lt;P>I can't possibly believe that I would've understood the implications of the lecture as a freshman, but now, it's like Moses and the stone tablets. Priceless.&lt;/P>
+&lt;P>[&lt;A href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html">via Joel Spolsky&lt;/A>]&lt;/P></content>
+  </entry>
+</feed>

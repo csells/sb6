@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed98.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed97.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed99.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed98.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1034</id>
+    <title>MSDN TV: Introducing ClickOnce</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut in the next version of the.NET Framework, codename "Whidbey." Hear Jamie Cool from the Windows Forms team introduce the technology he first built in prototype form as the AppUpdater Component.</summary>
+    <content type="html">&lt;h1>MSDN TV: Introducing ClickOnce&lt;/h1>
+ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut in the next version of the .NET Framework, codename "Whidbey." &lt;A href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040108ClickOnceJC/manifest.xml">Hear Jamie Cool from the Windows Forms team introduce the technology&lt;/A> he first built in &lt;A href="http://www.windowsforms.net/articles/appupdater.aspx">prototype form as the AppUpdater Component&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1035</id>
+    <title>Pentium Run at Over 5GHz</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Here. Tom's Hardware is hosting a video of a guy moving heaven, earth and liquid nitrogen to get his PC over 5GHz. I don't know the right term, but the arrangement of the shots and the music made me laugh all the way through. And the ending is worth sticking around for. : ) BTW, I'm sure I overhyped this so you won't enjoy it like I did, but that's OK; I'm posting this with a smile. : ) </summary>
+    <content type="html">&lt;h1>Pentium Run at Over 5GHz&lt;/h1>
+&lt;a href="http://www12.tomshardware.com/images/thg_video_11_5ghz.zip">Here&lt;/a>. &lt;P>Tom's Hardware is hosting a video of a guy moving heaven, earth and liquid nitrogen to get his PC over 5GHz. I don't know the right term, but the arrangement of the shots and the music made me laugh all the way through. And the ending is worth sticking around for. : )&lt;/P>
+&lt;P>BTW, I'm sure I overhyped this so you won't enjoy it like I did, but that's OK; I'm posting this with a smile. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1033</id>
+    <title>My First .NET Tool Gets An Update</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Here. Given Aaron's wonderful set of.NET XML tools, I don't know why Tony Malandain found my little xmlValid tool for checking XML well-formedness and schema validness, but he did and then added the ability to take XML input from stdin (he apparently uses it to check compressed SVG files). What makes this kind of unusual is that I built this tool almost 2.5 years ago. In fact, it was the first.NET tool I posted on my site. Before that, it was all C++ and COM, although almost none of that has gone up since. ...</summary>
+    <content type="html">&lt;h1>My First .NET Tool Gets An Update&lt;/h1>
+&lt;a href="/12432">Here&lt;/a>. &lt;P>Given &lt;A href="http://staff.develop.com/aarons/xmllinks.htm#samples-dotnet">Aaron's wonderful set of .NET XML tools&lt;/A>, I don't know why Tony Malandain found my little xmlValid tool for checking XML well-formedness and schema validness, but he did and then added the ability to take XML input from stdin (he apparently uses it to check compressed SVG files).&lt;/P>
+&lt;P>What makes this kind of unusual is that I built this tool almost 2.5 years ago. In fact, it was the first .NET tool I posted on my site. Before that, it was all C++ and COM, although almost none of that has gone up since. It was kind of fun digging into that code again. I spent a bunch of time rearranging it to map more closely to my current .NET coding style not because it added any more functionality but because I couldn't stand not to. This developer thing is just a sickness, isn't it? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1032</id>
+    <title>Surprised by Microsoft's Openness</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Here. The one where even I'm surprised at how open Microsoft is willing to be.</summary>
+    <content type="html">&lt;h1>Surprised by Microsoft's Openness&lt;/h1>
+&lt;a href="/12509">Here&lt;/a>. The one where even I'm surprised at how open Microsoft is willing to be.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1028</id>
+    <title>Stereolize Pumps Up Presentations</title>
+    <updated>2004-01-07T08:00:00.000Z</updated>
+    <published>2004-01-07T08:00:00.000Z</published>
+    <summary>Not only does Longhorn intimidate me by removing my safe, comfortable barriers to building difficult applications, Stereolize does the same for presentations, but seems to require a music composer as well as a graphic designer. Yikes!</summary>
+    <content type="html">&lt;h1>Stereolize Pumps Up Presentations&lt;/h1>
+Not only does &lt;a href="/12514">Longhorn intimidate me&lt;/A> by removing my safe, comfortable barriers to building difficult applications, &lt;A href="http://www.stereolize.com">Stereolize&lt;/A> &lt;A href="http://www.stereolize.com/Clients/Ventuz/Movies/VentuzTrailer_complete.wmv">does the same for presentations&lt;/A>, but seems to require a music composer as well as a graphic designer. Yikes!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1029</id>
+    <title>Vector Graphics &amp; Declarative Animation w/ Avalon</title>
+    <updated>2004-01-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-07T08:00:00.000Z</published>
+    <summary>Don "XML" shows how to use graphic primitives and animation declaratively in Avalon, building an analog clock in the process. Cool!</summary>
+    <content type="html">&lt;h1>Vector Graphics &amp; Declarative Animation w/ Avalon&lt;/h1>
+Don "XML" shows how to &lt;A href="http://www.donxml.com/VectorGraphicsAndDeclarativeAnimationWithAvalon.htm">use graphic primitives and animation declaratively in Avalon&lt;/A>, building an analog clock in the process. Cool!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1027</id>
+    <title>Breaking the Mental Logjam</title>
+    <updated>2004-01-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-06T08:00:00.000Z</published>
+    <summary>Here. As I've mentioned, one of the biggest problems I see with Longhorn is deciding exactly what to do with all of the new capabilities. So, when Carter Maslan showed me some internal training videos showing off some uses of Longhorn in potential real-world applications, I just knew we had to get them out to the world. The first such "concept video" is centered around commercial real estate (available at 320x240 and 640x480 ) and Carter's got more planned in other industries, including manufacturing, telec...</summary>
+    <content type="html">&lt;h1>Breaking the Mental Logjam&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/productinfo/">Here&lt;/a>. &lt;P>&lt;a href="/12514">As I've mentioned&lt;/A>, one of the biggest problems I see with Longhorn is deciding exactly what to do with all of the new capabilities. So, when Carter Maslan showed me some internal training videos showing off some uses of Longhorn in potential real-world applications, I just knew we had to get them out to the world.&lt;/P>
+&lt;P>The first such "concept video" is centered around commercial real estate (available at &lt;A href="http://download.microsoft.com/download/f/d/9/fd9418b1-9440-40ce-8844-845d6fbfaf62/CommercialRealEstate-320x240.wmv">320x240&lt;/A> and &lt;A href="http://download.microsoft.com/download/6/a/a/6aa5bc74-59a4-4673-82e7-4ae2d54e1471/CommercialRealEstate-640x480.wmv">640x480&lt;/A>) and Carter's got more planned in other industries, including manufacturing, telecom, financial services and more. The goal is to help break the mental logjam around how we build Windows and web applications today to get folks thinking about the possibilities that Longhorn provides. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1026</id>
+    <title>Don Box on .NET Rocks!</title>
+    <updated>2004-01-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-05T08:00:00.000Z</published>
+    <summary>Here. I haven't heard this yet, but I just know it'll be fun. Once you get Don started talking, it's hard for me to stop and interesting things almost always pop out. : )</summary>
+    <content type="html">&lt;h1>Don Box on .NET Rocks!&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks/">Here&lt;/a>. I haven't heard this yet, but I just know it'll be fun. Once you get Don started talking, it's hard for me to stop and interesting things almost always pop out. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1025</id>
+    <title>On Genghis, WinForms and Moving Towards Avalon</title>
+    <updated>2004-01-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-03T08:00:00.000Z</published>
+    <summary>Here. Inspired by my pending interview of Don Box, Paolo Severini sent along an interview for me on Genghis, WinForms and how to move towards Avalon (although not in that order). The questions were so good, I thought I'd share them. Thanks, Paola!</summary>
+    <content type="html">&lt;h1>On Genghis, WinForms and Moving Towards Avalon&lt;/h1>
+&lt;a href="/12510">Here&lt;/a>. Inspired by &lt;A href="/1016">my pending interview of Don Box&lt;/FONT>&lt;/A>, Paolo Severini sent along an interview for me on Genghis, WinForms and how to move towards Avalon (although not in that order). The questions were so good, I thought I'd share them. Thanks, Paola!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12510</id>
+    <title>On Genghis, WinForms and How to Move Towards Avalon</title>
+    <updated>2004-01-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-03T08:00:00.000Z</published>
+    <summary>Saturday, January 3rd, 2004 Inspired by my pending interview of Don Box, Paolo Severini sent along an interview for me. Paul: Being a faithful reader of your books, articles and of your blog, I'd like to ask you a few questions about LH, Avalon and the future of WinForms. Before all, let me say that I'm really fascinated by Longhorn, and especially by Avalon. I installed the PDC stuff as soon as I received it through my MSDN subscription and I've begun exploring it with &amp;quot;pure geek&amp;quot; enthusiasm. Eve...</summary>
+    <content type="html">&lt;h1>On Genghis, WinForms and How to Move Towards Avalon&lt;/h1>
+&lt;p>&lt;i>Saturday, 
+&lt;span class="created">January 3rd, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>Inspired by &lt;a href="/1016">
+my pending interview of Don Box&lt;/a>, Paolo Severini sent along an interview for 
+me.&lt;/p>&lt;p>&lt;i>Paul: Being a faithful reader of your books, articles and of your 
+blog, I'd like to ask you a few questions about LH, Avalon and the future of 
+WinForms. Before all, let me say that I'm really fascinated by Longhorn, and 
+especially by Avalon. I installed the PDC stuff as soon as I received it through 
+my MSDN subscription and I've begun exploring it with &amp;quot;pure geek&amp;quot; enthusiasm. 
+Everything is extremely interesting, but I'm now not sure what to do with it.&lt;/i>&lt;/p>&lt;p>
+Chris: I know what you mean, Paul. &lt;a href="#I_dont_know_UIs,_but_I_know_what_I_like...">
+I'm going through that myself&lt;/a>. Suddenly having so many fewer barriers tends 
+to throw off the engineer in me. I'm working through it by begging &lt;a href="http://msdn.microsoft.com/longhorn/understanding/ux">
+the Longhorn User Experience team&lt;/a> for guidance, &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321193806/chrissells">
+learning Adobe Illustrator&lt;/a>, &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/1566091594/ref=ase_chrissells/">
+reading graphic design books&lt;/a> and trying to open my mind to the graphic 
+designer inside us all (I hope : ).&lt;/p>&lt;p>&lt;i>Paul: Paraphrasing one of the 
+questions you proposed to Don Box: what should a WinForms programmer *really* do 
+today to prepare for Avalon?&lt;/i>&lt;/p>&lt;p>Chris: If you want to write code today 
+that'll work well on Longhorn tomorrow, write WinForms today. WinForms in 
+Whidbey gets tons more features and I expect they'll be some cool new 
+Longhorn-specific stuff when the time is right. If, when you're preparing a 
+Longhorn version of your application, you'd like to host Avalon controls from 
+your WinForms app or even build Avalon apps that host your WinForms controls, 
+you'll be able to do that in Longhorn via WinForms/Avalon interop.&lt;br>&lt;br>For 
+maximum flexibility in the code you write now, be very thorough about separating 
+the data from the view of the data so that you can write a 100% Avalon front end 
+to replace your WinForms front end if such is your need. Likewise, be very 
+thorough about separating the data from the storage of the data is that you can 
+take advantage of WinFS.&lt;br>&lt;br>&lt;i>Paul: I'm very grateful to MS for having 
+disclosed their future technologies so soon, and more generally, to have become 
+so &amp;quot;opened&amp;quot; to outsider's eyes, with so many devs and PMs now blogging about 
+their work.&lt;/i>&lt;/p>&lt;p>Chris: Me, too. Without this openness, I'd get into lots 
+more trouble. : )&lt;/p>&lt;p>&lt;i>Paul: But I somehow also think that maybe LH was 
+presented a bit too soon. Since it's not planned to be released before 2006, 
+chances are that the shipped version could be significantly different. (Will it? 
+Is it already? Can you write anything about that? :-).&lt;/i>&lt;/p>&lt;p>Chris: I used 
+to think that we were unveiling Longhorn too soon, too. However, the later in 
+the development process we get it out to reviewers, the fewer major changes 
+we'll be able to make based of your feedback. What that means, of course, is 
+that some major things are going to change between now and release, but those 
+changes will be based on decisions that include feedback from you. The downside 
+is that you'll have to relearn some of the things you learn with these bits. 
+Hopefully, the upside is that most of what you have to unlearn will be replaced 
+with something significantly better.&lt;br>&lt;br>&lt;i>Paul: Furthermore, even when the 
+new presentation subsystem will ship, it seems like it won't be easy to write 
+code that supports both the new and the old platforms, being they so different, 
+and that could slow down its widespread acceptance even more. So I'm afraid that 
+we'll all have a difficult time writing user interfaces, having to decide 
+whether to take advantage of the new features or simply stay with the old 
+portable libraries. After all, there are today still (too many) people running 
+Windows 9x. And Windows XP is such a great OS that won't universally be replaced 
+so soon.&lt;/i>&lt;/p>&lt;p>Chris: I've already mentioned how well WinForms will work 
+under Longhorn, so I think I've answered part of your question. However, you're 
+asking something deeper here, i.e. when do I give up the old &amp;quot;way&amp;quot; that has more 
+ubiquitous support for the new &amp;quot;way?&amp;quot; In this case, you're talking about .NET 
+and Longhorn, but you could as easily be talking about DOS and Windows or Win32 
+and .NET. This is the eternal struggle and the reason that we need software 
+engineers in the first place. As with all such questions, the answer is &amp;quot;it 
+depends.&amp;quot;&lt;/p>&lt;p>My general purpose answer is to always pick the newest thing 
+that meets my requirements. The newer the technology you pick, the longer the 
+shelf life. Can I build cool, scalable apps that take advantage of the high 
+resolution monitors and GPUs of tomorrow in DOS? Absolutely. Do I want to? Hell 
+no. Can I do it in WinForms? Yes, although it'll still be harder than doing it 
+on Avalon. Will I increase my available market by targeting DOS today? The 
+answer used to be &amp;quot;yes,&amp;quot; but for a while now it's been &amp;quot;no.&amp;quot; What about 
+WinForms? The answer is definitely &amp;quot;yes&amp;quot; today and will be for a while yet, even 
+after Longhorn ships.&lt;/p>&lt;p>The answer to the question of when to adopt new 
+technology has too many variables for me to provide any general advice better 
+than &amp;quot;as soon as possible.&amp;quot; Of course, Microsoft wants the answer to that 
+question to be &amp;quot;sooner rather than later,&amp;quot; and we're working to make Longhorn 
+kick-ass for developers, business users and consumers so that ubiquity is taken 
+out of the equation as soon as possible. Please use all channels of 
+communication you have into the company to help us make sure we're doing that. &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">
+The WinFX newsgroups are one good place for such feedback.&lt;/a> They are heavily 
+monitored by all of the WinFX teams and the Longhorn User Experience (Aero) 
+Team.&lt;br>&lt;br>&lt;i>Paul: I found out that the PDC build of Avalon doesn't really 
+work in kernel mode but simply uses two (unmanaged) DLLs, milcore and milrender 
+built upon the old GDI APIs (to the point that it is actually possible to run 
+Avalon on XP). Of course, that's bound to change, as Chris Anderson wrote, with 
+the new video driver model and when the desktop composition stuff will get 
+turned on. But wouldn't it be nice if a subset of Avalon ran on XP? After all, 
+not every app will take advantage of its more advanced features.&lt;/i>&lt;/p>&lt;p>
+Chris: Before I answer this question, I just wanted to point out that GDI is not 
+part of the Avalon rendering path. Instead, Avalon is built on DirectX, which is 
+built directly on the drivers. GDI is still supported, of course, but it's a 
+parallel rending path to Avalon's.&lt;/p>&lt;p>The answer to the core question, i.e. 
+why not ship Avalon on XP, is one of resources. Chris Anderson once told me that 
+something like a &lt;i>man millennia &lt;/i>has gone into the development of Avalon 
+thus far. Even if Chris was exaggerating for effect, that's still one hell of a 
+lot of work. That work has gone into building an architecture that allows 
+application developers to take advantage of features present all the way down to 
+the hardware level, including changes at every point in the presentation stack. 
+What kind of work do you think it would take to make a subset of that available 
+under Windows XP? Or Windows 2000? Or Windows 98? What kind of work do you think 
+it would take to support those features on those down-level operating systems in 
+their subsetted states? If we're looking at a release years into the future 
+already, how many more years are we willing to wait to release Avalon in a form 
+that works in a subsetted form on those OSes? And what will we ship to our 
+customers expected a new OS in the meantime?&lt;/p>&lt;p>It may be that you could come 
+up with answers that you love to these questions. Would our other customers 
+answer them the same way? Would our shareholders answer them the same way? Would 
+your answers best position us against our competitors?&lt;/p>&lt;p>Even if you got a 
+subset of Avalon that works across .NET platforms today, would it really enable 
+you to be more successful at your business or is it an engineering &amp;quot;gosh that'd 
+be neat?&amp;quot;&lt;/p>&lt;p>I know that our product teams really listen to our customers 
+these days, so if you've got specific scenarios that you need enabled to be 
+successful, &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">
+please let them know&lt;/a>.&lt;/p>&lt;p>&lt;i>Paul: Furthermore, if XAML is, in the end, 
+only a way to glue together a graph of CLR objects, why don't use it also to 
+build WinForms UI? Both these options would make the transition much easier.&lt;/i>&lt;/p>&lt;p>
+Now that's a question I can provide a more satisfactory answer to, I think 
+(sorry about that last answer : ). In the Longhorn PDC bits today, &lt;a href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/appcore/tasks/migration_window_in_longhorn.aspx">
+you can generate WinForms apps using XAML&lt;/a> for the very reason you state. 
+Likewise, if you'd like to try a subset of XAML in today's version of the .NET 
+Framework, there are not &lt;a href="http://www.xamlon.com">one&lt;/a>, 
+but &lt;a href="http://www.zaml.com">two&lt;/a> 3rd parties providing 
+early access to projects to allow this to happen. Given the amount of work that 
+has gone into, and will go into, getting Avalon out the door, I doubt very much 
+that their versions of XAML will be full-featured, but it may help ease the 
+transition, as you say.&lt;br>&lt;br>&lt;i>Paul: That brings me to ask you about the 
+future of WinForms (about which I'm now reading your book and really enjoying 
+it). In the near future I will surely have to write WinForms code. But is it 
+still worthwhile to spend time studying and trying to improve it? (I personally 
+think so). Or should I rather concentrate my interest learning everything about 
+the new LH technologies? So I'm back on the question about how to prepare for 
+Avalon...&lt;/i>&lt;/p>&lt;p>Chris: I'd say that it absolutely makes sense to continue to 
+write WinForms applications for years to come. Not only in WinForms a great 
+platform for client applications today, but in Whidbey, it about doubles in size 
+and capability. Plus, WinForms applications will continue to work great under 
+Longhorn and will form the core of an application that needs to take advantage 
+of Longhorn features under Longhorn but continue to work on the rest of the .NET 
+platform. Unless you are planning to target &lt;i>only&lt;/i> Longhorn, WinForms is &lt;i>
+absolutely&lt;/i> where you should be spending your client development effort today 
+and for years to come.&lt;br>&lt;br>&lt;i>Paul: Speaking of WinForms, one of the things 
+I've never liked is the absence of windowless controls. It has been said that 
+windowed and windowless controls are difficult to make live together, and that's 
+true. But windowless controls are sometimes very useful (and cool! just think to 
+the Windows Media Player UI). I found in your Genghis page that the &amp;quot;Windowless 
+control architecture&amp;quot; feature is still &amp;quot;opened&amp;quot; and I'd like to try to work on 
+it. (In the past, I wrote an ActiveX control container that supported windowless 
+controls, so I wouldn't start from zero).&lt;/i>&lt;/p>&lt;p>Chris: Windowless controls 
+were meant mostly as an optimization when creating thousands of Window handles 
+brought the platform to its knees. Some folks also used windowless controls as a 
+good way to fake non-rectangular controls. In modern implementations of User32, 
+neither is much of an issue, so windowless controls provide a service that is no 
+longer required in most cases. In the specialized cases where it is still 
+necessary, I find that building an aggregate control that does the drawing of 
+multiple controls that you would have made windowless in the past solves most of 
+my needs in this area, although your mileage may vary. Given that Genghis has 
+most of the rest of the features that I wanted for it, but no windowless control 
+architecture, I'd say that folks seem to agree with me that windowless controls 
+are no longer as important as they once were.&lt;br>&lt;br>&lt;i>Paul: But I also noticed 
+that the Genghis project has been still for a few months, so I'm now wondering 
+if it is still alive and if my project still makes sense now that Avalon is on 
+its way. May you give me an advice?&lt;/i>&lt;/p>&lt;p>Chris: I was waiting for a wizard 
+that would generate MDI, SDI and multi-SDI applications before shipping the next 
+drop of Genghis, but there are enough new things and fixes that we should have 
+another version of Genghis out in a week or so. If you or anyone would like to 
+build the wizard (or just send &lt;a href="mailto:scottden?subject=Can you hurry up with the Genghis SDI, MDI, Multi-SDI wizard please?!?">
+Scott Densmore&lt;/a> email begging him to finish the one he already started and 
+has promised to me several times) that'd be great.&lt;/p>&lt;p>&lt;i>Thanks for your 
+wonderful job and for the time you dedicated to this mail. I just hope my 
+English was understandable... :-)&lt;/i>&lt;/p>&lt;p>&lt;i>Best regards from Italy,&lt;br>Have 
+a wonderful new year!&lt;br>--Paolo Severini&lt;/i>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1024</id>
+    <title>WinFS: Stamping out the Roach Motel</title>
+    <updated>2004-01-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-03T08:00:00.000Z</published>
+    <summary>For those of you unfamiliar with Don's reference, a "roach motel" lets roaches in, but never lets them out. That's exactly what most apps do today, i.e. take data in from users or import routines, but never let it out again. As Don states, one of the chief benefits of WinFS is that data that apps store in it will be available to other apps, thereby letting the roaches out of the hotel. Where Don's analogy breaks down is that in the case of application data, letting the roaches back out of the hotel is actua...</summary>
+    <content type="html">&lt;h1>WinFS: Stamping out the Roach Motel&lt;/h1>
+&lt;P>For those of you unfamiliar with Don's reference, a "roach motel" lets roaches in, but never lets them out. That's exactly what most apps do today, i.e. take data in from users or import routines, but never let it out again. &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-01-03T08:24:34Z">As Don states&lt;/A>, one of the chief benefits of WinFS is that data that apps store in it &lt;EM>will &lt;/EM>be available to other apps, thereby letting the roaches out of the hotel. Where Don's analogy breaks down is that in the case of application data, letting the roaches back out of the hotel is actually a &lt;EM>good &lt;/EM>thing. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1023</id>
+    <title>ImCli Classes Updated for MSNP8</title>
+    <updated>2004-01-02T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-01-02T08:00:00.000Z</published>
+    <summary>Here. Plenty of folks have asked for updates to my IM client classes to support the new MSNP8 protocol, but only Robert M. Wagner Jr. made the changes and sent them to me. Thanks, Robert! </summary>
+    <content type="html">&lt;h1>ImCli Classes Updated for MSNP8&lt;/h1>
+&lt;a href="/12426">Here&lt;/a>. &lt;P>Plenty of folks have asked for updates to &lt;a href="/12426">my IM client classes&lt;/A> to support the new MSNP8 protocol, but only Robert M. Wagner Jr. made the changes and sent them to me. Thanks, Robert!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1021</id>
+    <title>testing</title>
+    <updated>2004-01-01T08:00:00.000Z</updated>
+    <published>2004-01-01T08:00:00.000Z</published>
+    <summary>this is a test </summary>
+    <content type="html">&lt;h1>testing&lt;/h1>
+this &lt;A HREF="/tools">is a test&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1022</id>
+    <title>testing</title>
+    <updated>2004-01-01T08:00:00.000Z</updated>
+    <published>2004-01-01T08:00:00.000Z</published>
+    <summary>this is a test </summary>
+    <content type="html">&lt;h1>testing&lt;/h1>
+this &lt;A HREF="/tools">is a test&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1020</id>
+    <title>Web's inventor gets a knighthood</title>
+    <updated>2003-12-31T08:00:00.000Z</updated>
+    <published>2003-12-31T08:00:00.000Z</published>
+    <summary>Tim Berners-Lee is dubbed a knight for inventing the web. Plus, he's really nice about it, so it's hard to be pissed off at him as my contribution to Tetris implementations doesn't help me make the cut... : )</summary>
+    <content type="html">&lt;h1>Web's inventor gets a knighthood&lt;/h1>
+&lt;a href="http://news.bbc.co.uk/1/hi/technology/3357073.stm">Tim Berners-Lee is dubbed a knight for inventing the web&lt;/a>. Plus, he's really nice about it, so it's hard to be pissed off at him as &lt;A href="/12661">my contribution to Tetris implementations&lt;/A> doesn't help me make the cut... : )</content>
+  </entry>
+</feed>

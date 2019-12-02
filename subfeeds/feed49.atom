@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed49.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed48.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed50.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed49.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1718</id>
+    <title>Super Friends + Office Space == Hilarity</title>
+    <updated>2005-03-02T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-02T08:00:00.000Z</published>
+    <summary>What could possibly be better than a snippet of the old Super Friends cartoon with dialog from the movie Office Space? Life is good. : ) [ via Shawn Morrissey ] </summary>
+    <content type="html">&lt;h1>Super Friends + Office Space == Hilarity&lt;/h1>
+&lt;P>What could possibly be better than &lt;A href="http://www.boingboing.net/2005/03/02/superfriendsoffice_s.html">a snippet of the old Super Friends cartoon with dialog from the movie Office Space&lt;/A>? Life is good. : )&lt;/P>
+&lt;P>[&lt;A href="http://weblogs.asp.net/shawnmor">via Shawn Morrissey&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1717</id>
+    <title>Clemens Weekend with Indigo</title>
+    <updated>2005-03-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-01T08:00:00.000Z</published>
+    <summary>Clemens Vasters, international man of mystery, has given up his normal weekend activities of partying and espionage to give us three pieces exploring Indigo : A Weekend With Indigo. Part 1: Simple Messaging A Weekend With Indigo. Part 2: Fun with Messaging and Explicit Addressing A Weekend With Indigo. Part 3: Hard-Core Messaging. Duplex Conversations.</summary>
+    <content type="html">&lt;h1>Clemens Weekend with Indigo&lt;/h1>
+&lt;P>Clemens Vasters, international man of mystery, has given up his normal weekend activities of partying and espionage to give us &lt;A href="http://staff.newtelligence.net/clemensv/PermaLink,guid,41d6ef20-e3e1-4277-bd3e-2cf414d209bd.aspx">three pieces exploring Indigo&lt;/A>:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;SPAN class=itemTitleStyle>&lt;A class=TitleLinkStyle href="http://staff.newtelligence.net/clemensv/PermaLink,guid,5df62c43-67fb-488e-a70e-c29b9055a984.aspx">A Weekend With Indigo. Part 1: Simple Messaging&lt;/A>&lt;/SPAN> &lt;/LI>
+&lt;LI>&lt;SPAN class=itemTitleStyle>&lt;A class=TitleLinkStyle href="http://staff.newtelligence.net/clemensv/PermaLink,guid,b2d3cfa1-f3c3-4aed-8ec7-503fe5c21f51.aspx">A Weekend With Indigo. Part 2: Fun with Messaging and Explicit Addressing&lt;/A>&lt;/SPAN> &lt;/LI>
+&lt;LI>&lt;SPAN class=itemTitleStyle>&lt;A class=TitleLinkStyle href="http://staff.newtelligence.net/clemensv/PermaLink,guid,41d6ef20-e3e1-4277-bd3e-2cf414d209bd.aspx">A Weekend With Indigo. Part 3: Hard-Core Messaging. Duplex Conversations.&lt;/A>&lt;/SPAN> &lt;/LI>&lt;/UL>
+&lt;P>Thanks for helping to make the world safe for messaging, Clemens! : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1716</id>
+    <title>Tom's a Big Thinktecture Fan</title>
+    <updated>2005-03-01T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-01T08:00:00.000Z</published>
+    <summary>Here. I don't know how Tom ended up with this shirt... </summary>
+    <content type="html">&lt;h1>Tom's a Big Thinktecture Fan&lt;/h1>
+&lt;a href="/12337">Here&lt;/a>. &lt;P>&lt;IMG height=467 src="/public/fun/imagE_028.jpg" width=458 border=0>&lt;/P>
+&lt;P>I don't know how &lt;a href="/12337">Tom ended up with this shirt&lt;/A>...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12337</id>
+    <title>Tom's a Big Thinktecture Fan</title>
+    <updated>2005-03-01T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/imagE_028.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-01T08:00:00.000Z</published>
+    <summary>My #2 son, Tom, is apparently on the road to independent consulting... Mama's, don't let your babies grow up to be computer boys... P.S. I do not dress my children and, in this case, I don't know how he even ended up with this shirt... cell phone picture </summary>
+    <content type="html">&lt;h1>Tom's a Big Thinktecture Fan&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/imagE_028.jpg" width="458" height="467">&lt;/p>
+&lt;p>My #2 son, Tom, is apparently
+&lt;a href="http://www.thinktecture.com/">on the road to 
+independent consulting&lt;/a>... Mama's, don't let your babies grow up to be 
+computer boys...&lt;/p>
+&lt;p>P.S. I do not dress my children and, in this case, I don't know how he even 
+ended up with this shirt...&lt;/p>
+&lt;p>&lt;i>cell phone picture&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1714</id>
+    <title>2D and 3D Chess for Nov. '04 Avalon CTP</title>
+    <updated>2005-02-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-28T08:00:00.000Z</published>
+    <summary>Valentin Iliescu has updated his 2D and 3D Avalon Chess for the November 2004 CTP. Enjoy!</summary>
+    <content type="html">&lt;h1>2D and 3D Chess for Nov. '04 Avalon CTP&lt;/h1>
+Valentin Iliescu has updated his &lt;A href="http://www.valil.com/avalon/">2D and 3D Avalon Chess&lt;/A> for the November 2004 CTP. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1715</id>
+    <title>Let MS make sure your .NET 1.x app run on .NET 2.0</title>
+    <updated>2005-02-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-28T08:00:00.000Z</published>
+    <summary>Assuming you don't have the luxury of dipping the machines your.NET 1.x applications run on in Lucite, you are going to have to make sure that your apps run under.NET 2.0. Normally, that means testing your applications under.NET 2.0 and making changes. However, right now, Jay Roxe at Microsoft is beefing up the.NET 2.0 compatibility test suite, so if there are compatibility problems in your apps, there's a good chance* that MS will actually apply fixes to the.NET 2.0 framework itself instead of requiring yo...</summary>
+    <content type="html">&lt;h1>Let MS make sure your .NET 1.x app run on .NET 2.0&lt;/h1>
+&lt;P>Assuming you don't have the luxury of dipping the machines your .NET 1.x applications run on in Lucite, you are going to have to make sure that your apps run under .NET 2.0. Normally, that means testing your applications under .NET 2.0 and making changes. However, right now, Jay Roxe at Microsoft is beefing up the .NET 2.0 compatibility test suite, so if there are compatibility problems in your apps, there's a good chance* that MS will actually apply fixes to the .NET 2.0 framework itself instead of requiring you to make changes to your app.&lt;/P>
+&lt;P>Jay's especially interested in "corporate-scale" applications, but I'm sure he'll consider whatever you've got. Don't be shy! &lt;A href="http://blogs.msdn.com/jroxe/archive/2005/02/17/375715.aspx">Get your apps into consideration for the .NET 2.0 compatibility test suite today!&lt;/A>&lt;/P>
+&lt;P>&lt;EM>&lt;STRONG>* "good chance" == chance &amp;gt; 0, no guarantees, some restrictions apply, void where prohibited, use at your own risk, blah, blah, blah...&lt;/STRONG>&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12478</id>
+    <title>On Being Socially Re-engineered</title>
+    <updated>2005-02-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-23T08:00:00.000Z</published>
+    <summary>I do not consider myself weak-minded. For example, even though I've tried to let it happen, I've never been able to be hypnotized. Also, I'm often considered to be close-minded (although I do change my mind when valid arguments are presented, but most folks don't argue very well, I find). So, why did a terrible &amp;quot;High Risk Driver&amp;quot; course change my driving habits? The course started as you'd expect: a room full of 18-25 year olds that did not want to show up anywhere on a Saturday morning, least of ...</summary>
+    <content type="html">&lt;h1>On Being Socially Re-engineered&lt;/h1>
+&lt;p align="left">I do not consider myself weak-minded. For example, even though I've tried to let it happen, I've never been able to be hypnotized. Also, I'm often considered to be close-minded (although I do change my mind when valid arguments are presented, but most folks don't argue very well, I find). So, why did &lt;a href="#Death_As_A_Possible_Consequence">a terrible &amp;quot;High Risk Driver&amp;quot; course&lt;/a> change my driving habits?&lt;/p>&lt;p align="left">The course started as you'd expect: a room full of 18-25 year olds that did not want to show up anywhere on a Saturday morning, least of all at the local level 1 trauma center for 8+ hours of lecture. The main instructor was a high-energy trauma nurse that professed an vast personal experience with all things alcoholic. The traffic cop drove a motorcycle, which he made great pains to point out was the most dangerous vehicle to drive, and told a story about how he let a friend of his drive while they were both too tired in spite of his personal expertise in all matter of influence while driving, e.g. alcohol, drugs, cell phones, sleep deprivation, etc.&lt;/p>&lt;p align="left">Of course, there was the obligatory &amp;quot;Faces of Death&amp;quot; presentation through-out the day, but they were slides, not videos, so didn't compare to the movies I saw in driver's education class at age 16. Even the stories of the people in the pictures, while sad, seemed as much about capricious bad luck as about actual bad decision making. Some of the people from the stories even came to speak to us in their wheel chairs (except one guy that came in a suit and passed his business card around), but by far the most convincing and articulate of this bunch got his injury from a diving accident (that's &lt;i>diving&lt;/i> not &lt;i>driving&lt;/i>).&lt;/p>&lt;p align="left">The crowning event for the day was the tour of the trauma center itself. It was filled with people who'd suffered traumas, but the vast majority of them were there for non-traffic related injuries (unless you count the guy that rode a sled into a &lt;i>parked &lt;/i>car on the one day we had any snow this year). How looking at the new, state-of-the-art MRI machine or seeing nurses drink coffee on a raised platform in the middle of the room helped us learn to drive more carefully, I have no idea.&lt;/p>&lt;p align="left">And yet, despite my best efforts to avoid engaging with the materials of the class, I find that I am driving more carefully. I was always good at keeping my eyes on traffic and watching for kids and animals on the road, being quick to slow or swerve when necessary and rarely getting mad at the other drivers for bone-headed moves (unlike my wife, who curses every 3rd driver : ). However, now I find myself nearer the speed limit more often, sometimes under but always within 5 or 10 miles. And now, while I do still change lanes, it's most often when I'm behind something large that gets in line of sight and not to get ahead a car length of two.&lt;/p>&lt;p align="left">So, what changed my habits? It wasn't the lame course as a whole, but it might have been one or two moments. It might've been when the traffic cop, when asked for the most dangerous driving habits, listed speeding and aggressive driving, which I'd previously considered the least dangerous.&lt;/p>&lt;p align="left">It might've been the statistics. It's not like they showed many convincing statistics at all, but the mere fact that they had been giving this lame course 4-6 times/year for the last &lt;i>17 years&lt;/i> spoke to me about the need for some kind of intervention. Obviously, the sponsors of this course thought it was having some kind of effect, else why continue it?&lt;/p>&lt;p align="left">Or it might've been the company. I mean, their were some real losers in the room, including a 16-year old that admitted to a long list of bad decisions right out of your favorite gang movie. Frankly, to be lumped in with this crowd was just plain embarrassing.&lt;/p>&lt;p align="left">However, when all was said and done, I think it was the math. The traffic cop timed himself doing his 10-mile commute going the speed limit and going 15 miles over the speed limit. The difference w/ zero other traffic on the road? 2 minutes. Do I really need to engage in what are considered the most dangerous driving habits, risk my insurance, my car, my license, my life and the lives of the people around me for &lt;b>&lt;i>2 lousy minutes&lt;/i>&lt;/b>?!? That's a bet I can only lose.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1713</id>
+    <title>On Being Socially Re-engineered</title>
+    <updated>2005-02-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-23T08:00:00.000Z</published>
+    <summary>Here. The one where, despite my best efforts, the lame "High Risk Driving" course actually changes my driving habits.</summary>
+    <content type="html">&lt;h1>On Being Socially Re-engineered&lt;/h1>
+&lt;a href="/12478">Here&lt;/a>. The one where, despite my best efforts, &lt;a href="/12478">the lame "High Risk Driving" course actually changes my driving habits&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12380</id>
+    <title>Scott Hanselman's Great .NET Developer Questions</title>
+    <updated>2005-02-22T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2005-02-22T08:00:00.000Z</published>
+    <summary>Scott Hanselman has posted a set of questions that he thinks &amp;quot;great&amp;quot;.NET developers should be able to answer in an interview. He even splits it up into various categories, including: Everyone who writes code Mid-Level.NET Developer Senior Developers/Architects C# Component Developers ASP.NET (UI) Developers Developers using XML Am I the only one that skipped ahead to &amp;quot;Senior Developers/Architects&amp;quot; to see if I could cut Scott's mustard? </summary>
+    <content type="html">&lt;h1>Scott Hanselman's Great .NET Developer Questions&lt;/h1>
+
+&lt;p>Scott Hanselman has posted
+&lt;a href="http://www.hanselman.com/blog/WhatAGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx">
+a set of questions&lt;/a> that he thinks &amp;quot;great&amp;quot; .NET developers should be able to 
+answer in an interview. He even splits it up into various categories, including:&lt;/p>
+&lt;ul>
+	&lt;li>Everyone who writes code&lt;/li>
+	&lt;li>Mid-Level .NET Developer&lt;/li>
+	&lt;li>Senior Developers/Architects&lt;/li>
+	&lt;li>C# Component Developers&lt;/li>
+	&lt;li>ASP.NET (UI) Developers&lt;/li>
+	&lt;li>Developers using XML&lt;/li>
+&lt;/ul>
+&lt;p>Am I the only one that skipped ahead to &amp;quot;Senior Developers/Architects&amp;quot; to see 
+if I could cut Scott's mustard?&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1712</id>
+    <title>The Convergence of Documents Media and Application</title>
+    <updated>2005-02-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-21T08:00:00.000Z</published>
+    <summary>Ron DeSerranno, founder and CEO of Mobiform, a company that's been busy building Avalon and XAML tools since the October 2003 PDC, is giving a talk on how "Avalon in conjunction with XAML will revolutionize the user experience on the web and in desktop applications. XAML and Avalon provide a powerful framework that can provide 2D and 3D graphics, fixed document format, animation and multimedia in a single markup language." The talk is at the TechVibes MASSIVE 2005 (clearly named by marketing folks : ), Marc...</summary>
+    <content type="html">&lt;h1>The Convergence of Documents Media and Application&lt;/h1>
+&lt;P>Ron DeSerranno, founder and CEO of Mobiform, a company that's been busy building Avalon and XAML tools since the October 2003 PDC, is giving &lt;A href="http://www.techvibes.com/massive/speakerslist.asp?page=2">a talk&lt;/A> on how "Avalon in conjunction with XAML will revolutionize the user experience on the web and in desktop applications. XAML and Avalon provide a powerful framework that can provide 2D and 3D graphics, fixed document format, animation and multimedia in a single markup language."&lt;/P>
+&lt;P>The talk is at the TechVibes MASSIVE 2005 (clearly named by marketing folks : ), March 30th in Vancouver, BC. Drink a pint for me, eh? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1711</id>
+    <title>I'm with Shawn -- Constantine was Good</title>
+    <updated>2005-02-19T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-19T08:00:00.000Z</published>
+    <summary>Here. After a movie dry spell that's lasted since Thanksgiving, I agree with Shawn and was pleasantly surprised with Constantine. I liked it enough that I'd see it again. It's not great, but it's good and the guy playing Satan is fabulous.</summary>
+    <content type="html">&lt;h1>I'm with Shawn -- Constantine was Good&lt;/h1>
+&lt;a href="http://adoguy.com/content.aspx?id=rantview&amp;rantid=177">Here&lt;/a>. After a movie dry spell that's lasted since Thanksgiving, &lt;A href="http://adoguy.com/content.aspx?id=rantview&amp;amp;rantid=177">I agree with Shawn&lt;/A> and was pleasantly surprised with &lt;A href="http://www.imdb.com/title/tt0360486/">Constantine&lt;/A>. I liked it enough that I'd see it again. It's not great, but it's good and the guy playing Satan is &lt;EM>fabulous&lt;/EM>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1709</id>
+    <title>What's New in the VS05 Toolbox for Windows Apps</title>
+    <updated>2005-02-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-18T08:00:00.000Z</published>
+    <summary>Dino Esposito takes you on "a whistle-stop tour of the new controls slated for Windows Forms 2.0 to make writing code more productive and pleasant than ever." Woo-Woo! : )</summary>
+    <content type="html">&lt;h1>What's New in the VS05 Toolbox for Windows Apps&lt;/h1>
+Dino Esposito takes you on "a whistle-stop tour of &lt;A href="http://www.devx.com/codemag/Article/27094">the new controls slated for Windows Forms 2.0&lt;/A> to make writing code more productive and pleasant than ever." Woo-Woo! : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1710</id>
+    <title>Building a Tabbed Browser with Windows Forms 2.0</title>
+    <updated>2005-02-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-18T08:00:00.000Z</published>
+    <summary>Wei-Meng Lee shows you how to take advantage of the new web browser and control support in Windows Forms 2.0 to build a tabbed browser using Internet Explorer.</summary>
+    <content type="html">&lt;h1>Building a Tabbed Browser with Windows Forms 2.0&lt;/h1>
+Wei-Meng Lee shows you how to take advantage of the new web browser and control support in Windows Forms 2.0 to &lt;A href="http://www.devx.com/webdev/Article/27296">build a tabbed browser using Internet Explorer&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1703</id>
+    <title>Joe's Codeless Avalon XAML Samples Updated</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>Joe Marini, has updated his famous XAML-only Avalon samples for the Nov. 2004 CTP. Thanks, Joe!</summary>
+    <content type="html">&lt;h1>Joe's Codeless Avalon XAML Samples Updated&lt;/h1>
+Joe Marini, has &lt;A href="http://www.joemarini.com/articles/xamlsamplesupdated20050215.php">updated his famous XAML-only Avalon samples&lt;/A> for the Nov. 2004 CTP. Thanks, Joe!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1707</id>
+    <title>Windows Forms Threading Techniques</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>It seems that there are any number of ways to do multi-threading in Windows Forms. Here are some of the interesting techniques: Give Your.NET-based Application a Fast and Responsive UI with Multiple Threads, Ian Griffiths A number of Ted Pattison's Basic Instincts column pieces cover threading Safe, Simple Multithreading in Windows Forms 1.x ( part 1, part 2 and part 3 ), Chris Sells &lt;A href="http://www.mike</summary>
+    <content type="html">&lt;h1>Windows Forms Threading Techniques&lt;/h1>
+&lt;P>It seems that there are any number of ways to do multi-threading in Windows Forms. Here are some of the interesting techniques:&lt;/P>
+&lt;UL>
+&lt;li>&lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/02/Multithreading/">Give Your .NET-based Application a Fast and Responsive UI with Multiple Threads&lt;/a>, Ian Griffiths&lt;/li>
+&lt;li>A number of &lt;a href="http://msdn.microsoft.com/msdnmag/find/default.aspx?type=Ti&amp;phrase=Basic%20Instincts&amp;words=exact">Ted Pattison's Basic Instincts column pieces&lt;/a> cover threading&lt;/li>
+&lt;LI>Safe, Simple Multithreading in Windows Forms 1.x (&lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms06112002.asp">part 1&lt;/A>, &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms08162002.asp">part 2&lt;/A> and &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms01232003.asp">part 3&lt;/A>), Chris Sells&lt;/LI>
+&lt;LI>&lt;A href="http://www.mikedub.net/mikeDubSamples/SafeReallySimpleMultithreadingInWindowsForms20/SafeReallySimpleMultithreadingInWindowsForms20.htm">Safe, Even Simpler Multithreading in Windows Forms 2.0&lt;/A>, Mike Weinhardt&lt;/LI>
+&lt;LI>&lt;A href="http://www.devx.com/codemag/Article/20639?trk=DXRSS_DOTNET">Asynchronous Windows Forms Programming&lt;/A>, Juval Lwy (provides a BackgroundWorker component for Windows Forms 1.x)&lt;/LI>
+&lt;LI>&lt;A href="http://www.codeproject.com/useritems/threadsafeforms.asp">Making windows forms thread safe&lt;/A>, R&amp;#252;diger Klaehn (generates a proxy class to do synchronization)&lt;/LI>
+&lt;li>&lt;a href="http://spaces.msn.com/members/mwadams/Blog/cns!1pAMOzaH98ZfHK1uhQS5Bd5g!124.entry">The Daemon Inside&lt;/a> and &lt;a href="http://spaces.msn.com/members/mwadams/Blog/cns!1pAMOzaH98ZfHK1uhQS5Bd5g!133.entry">When to go async?&lt;/a>, Matthew Adams&lt;/li>
+&lt;/UL></content>
+  </entry>
+</feed>

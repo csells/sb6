@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed102.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed101.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed103.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed102.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/976</id>
+    <title>XAML's Extended Attribute Syntax</title>
+    <updated>2003-11-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-29T08:00:00.000Z</published>
+    <summary>Here. The one where I fall in love with XAML's extended attribute syntax.</summary>
+    <content type="html">&lt;h1>XAML's Extended Attribute Syntax&lt;/h1>
+&lt;a href="/12513">Here&lt;/a>. The one where I fall in love with XAML's extended attribute syntax.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12513</id>
+    <title>The Wonder that is XAML's Extended Attribute Syntax</title>
+    <updated>2003-11-29T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/xaml1.JPG"/>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-29T08:00:00.000Z</published>
+    <summary>Saturday, November 29, 2003 I've been playing with GridPanel today and really like how elegant it is. If I say the following: &amp;lt;GridPanel&amp;gt; &amp;lt;SimpleText&amp;gt;Testing&amp;lt;/SimpleText&amp;gt; &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt; &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt; &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+&amp;lt;/GridPanel&amp;gt; I get the equivalent of an HTML table with four rows with each SimpleText element forming a cell like so (augmented with Border elements not shown above to accentuate the cells): If I wan...</summary>
+    <content type="html">&lt;h1>The Wonder that is XAML's Extended Attribute Syntax&lt;/h1>
+&lt;p>&lt;i>Saturday, 
+&lt;span class="created">November 29, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>I've been playing with GridPanel today and really 
+like how elegant it is. If I say the following:&lt;/p>
+&lt;pre>&amp;lt;GridPanel&amp;gt;
+  &amp;lt;SimpleText&amp;gt;Testing&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+&amp;lt;/GridPanel&amp;gt;&lt;/pre>&lt;p>I get the equivalent of an HTML table with four rows with 
+each SimpleText element forming a cell like so (augmented with Border elements 
+not shown above to accentuate the cells):&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/xaml1.JPG" width="113" height="92">&lt;/p>&lt;p>
+If I want to split the data into columns, I can do that using the Columns 
+attribute:&lt;/p>
+&lt;pre>&amp;lt;GridPanel &lt;b>Columns=&amp;quot;2&amp;quot;&lt;/b>&amp;gt;
+  &amp;lt;SimpleText&amp;gt;Testing&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+&amp;lt;/GridPanel&amp;gt;&lt;/pre>&lt;p>Which gives me two rows of two columns each:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/xaml2.JPG" width="113" height="61">&lt;/p>&lt;p>
+That's all nice and simple, but still flexible. For example, if I want to set 
+the Testing string to cover two columns, I can give it an ID in the XAML and 
+call the GridPanel.SetColumnSpan static method in code, e.g. when the Window 
+loads:&lt;/p>
+&lt;pre>&amp;lt;!-- xaml --&amp;gt;
+&amp;lt;Window ... &lt;b>Loaded=&amp;quot;window1_Loaded&amp;quot;&lt;/b>&amp;gt;
+  &amp;lt;GridPanel Columns=&amp;quot;2&amp;quot;&amp;gt;
+    &amp;lt;SimpleText &lt;b>ID=&amp;quot;testingSimpleText&amp;quot;&lt;/b>&amp;gt;Testing&amp;lt;/SimpleText&amp;gt;
+    &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt;
+    &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt;
+    &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;/GridPanel&amp;gt;
+&amp;lt;/Window&amp;gt;&lt;/pre>
+&lt;pre>// C#
+&lt;b>void window1_Loaded(...) {
+  GridPanel.SetColumnSpan(testingSimpleText, 2);
+}&lt;/b>&lt;/pre>&lt;p>This code yields 3 rows arranged as follows:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/xaml3.JPG" width="113" height="76">&lt;/p>&lt;p>
+This is all fine and makes you appreciate the elegance of the GridPanel. 
+However, that's not what inspired me to write this entry.&lt;/p>&lt;p>Remember that 
+the SimpleText element serves as a cell in the GridPanel. Even better, the 
+SimpleText element doesn't know it's serving as a cell in a GridPanel. The 
+architecture of Avalon is loosely-couple so that all of the elements don't need 
+to have intimate knowledge of each other. This loose coupling is really great 
+for future elements that some developer wants to host in a GridPanel or that 
+want to host SimpleText elements. Still, I'd like to be able to set GridPanel-related 
+properties for each &amp;quot;cell&amp;quot; on the cell element itself, even if the cell element 
+doesn't know it's a child of a GridPanel. And that's what the extended attribute 
+syntax in XAML lets me do. Instead of writing the code, I can just do this:&lt;/p>
+&lt;pre>&amp;lt;GridPanel Columns=&amp;quot;2&amp;quot;&amp;gt;
+  &amp;lt;SimpleText &lt;b>GridPanel.ColumnSpan=&amp;quot;2&amp;quot;&lt;/b>&amp;gt;Testing&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt;
+  &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+&amp;lt;/GridPanel&amp;gt;&lt;/pre>&lt;p>This dotted attribute syntax allows me to set a GridPanel 
+setting for the SimpleText element w/o any knowledge from the GridPanel of the 
+SimpleText or vice versa. That means that if I define the FooBar element 
+tomorrow, I can set it's GridPanel.ColumnSpan on it when it's used inside a 
+GridPanel w/o extending GridPanel. This also means that if FooBar has a Quux 
+per-child property, I can set the FooBar.Quux attribute of the SimpleText 
+element w/o extending SimpleText. Nice!&lt;/p>&lt;p>BTW, if you'd like to see the code 
+that provides the GridPanel in &amp;quot;outline mode&amp;quot; as above, it looks like this:&lt;/p>
+&lt;pre>&lt;b>&amp;lt;Border Background=&amp;quot;black&amp;quot; Width=&amp;quot;100%&amp;quot; Height=&amp;quot;100%&amp;quot;&amp;gt;
+&lt;/b>  &amp;lt;GridPanel Columns=&amp;quot;2&amp;quot;&amp;gt;
+&lt;b>    &amp;lt;Border Background=&amp;quot;white&amp;quot; GridPanel.ColumnSpan=&amp;quot;2&amp;quot;&amp;gt;
+&lt;/b>      &amp;lt;SimpleText &amp;gt;Testing&amp;lt;/SimpleText&amp;gt;
+&lt;b>    &amp;lt;/Border&amp;gt;
+    &amp;lt;Border Background=&amp;quot;white&amp;quot;&amp;gt;
+&lt;/b>      &amp;lt;SimpleText&amp;gt;1&amp;lt;/SimpleText&amp;gt;
+&lt;b>    &amp;lt;/Border&amp;gt;
+    &amp;lt;Border Background=&amp;quot;white&amp;quot;&amp;gt;
+&lt;/b>      &amp;lt;SimpleText&amp;gt;2&amp;lt;/SimpleText&amp;gt;
+&lt;b>    &amp;lt;/Border&amp;gt;
+    &amp;lt;Border Background=&amp;quot;white&amp;quot;&amp;gt;
+&lt;/b>      &amp;lt;SimpleText&amp;gt;3&amp;lt;/SimpleText&amp;gt;
+&lt;b>    &amp;lt;/Border&amp;gt;
+&lt;/b>  &amp;lt;/GridPanel&amp;gt;
+&lt;b>&amp;lt;/Border&amp;gt;&lt;/b>&lt;/pre>&lt;p>Notice that the GridPanel.ColumnSpan is on the Border 
+element, not the SimpleText element. That's because it's the Border that's the 
+cell of the GridPanel, not the SimpleText.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/972</id>
+    <title>WinForms SDI and MDI wizards?</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. I noticed that Stephane Rodriguez put an SDI and MDI wizard up on CodeProject. I've been *dying* for those forever, but I couldn't get his to work. Anyone come up with a simplified set up for them? Anyone interested in porting them to Genghis?</summary>
+    <content type="html">&lt;h1>WinForms SDI and MDI wizards?&lt;/h1>
+&lt;a href="http://www.codeproject.com/csharp/sdimdiwizards.asp">Here&lt;/a>. I noticed that Stephane Rodriguez put an SDI and MDI wizard up on CodeProject. I've been *dying* for those forever, but I couldn't get his to work. Anyone come up with a simplified set up for them? Anyone interested in porting them to Genghis?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/970</id>
+    <title>WksSync Updated</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. Ethan Brown has done a massive update to the wkssync tool, the command line tool for accessing source from GotDotNet workspaces. Thanks, Ethan!</summary>
+    <content type="html">&lt;h1>WksSync Updated&lt;/h1>
+&lt;a href="http://urbanasylum.dynu.com/JustTheFacts/archives/000199.html">Here&lt;/a>. Ethan Brown has done a massive update to the wkssync tool, the command line tool for accessing source from GotDotNet workspaces. Thanks, Ethan!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/975</id>
+    <title>Avalon Performance Tips and Tricks on Build 4051</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. Markus Mielke, a PM doing performance for the Avalon team, lists some pointers on perf in the PDC build of Longhorn and provides a place for you to send in your perf complaints (him).</summary>
+    <content type="html">&lt;h1>Avalon Performance Tips and Tricks on Build 4051&lt;/h1>
+&lt;a href="http://longhornblogs.com/mmielke/posts/1513.aspx">Here&lt;/a>. Markus Mielke, a PM doing performance for the Avalon team, lists some pointers on perf in the PDC build of Longhorn and provides a place for you to send in your perf complaints (him).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/973</id>
+    <title>Best of the Microsoft PDC 2003</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. If you missed the PDC, the WSA is sponsoring a day-long "Best of” in Redmond on December 16, 2003. Learn about the new technologies coming in Microsoft's "Longhorn", "Whidbey" and "Yukon" directly from the leaders driving the evolution of the Microsoft platform and tools, including Don Box, Scott Guthrie and John Shewchuk.</summary>
+    <content type="html">&lt;h1>Best of the Microsoft PDC 2003&lt;/h1>
+&lt;a href="http://www.wsa.org/events/event.asp?EventID=346">Here&lt;/a>. If you missed the PDC, the WSA is sponsoring a day-long "Best of” in Redmond on December 16, 2003. Learn about the new technologies coming in Microsoft's "Longhorn", "Whidbey" and "Yukon" directly from the leaders driving the evolution of the Microsoft platform and tools, including Don Box, Scott Guthrie and John Shewchuk.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/974</id>
+    <title>ComputerWorld: Orbiz Developer's View of Longhorn</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. ComputerWorld corralled an Orbiz developer and took down his observations about Longhorn from a developer point of view. It’s interesting to see the perspective.</summary>
+    <content type="html">&lt;h1>ComputerWorld: Orbiz Developer's View of Longhorn&lt;/h1>
+&lt;a href="http://www.idg.co.nz/cw.nsf/86F32CF20B7AA0AACC256D8E00807C09/5CA421E7A3BE6214CC256DE300807580?OpenDocument">Here&lt;/a>. ComputerWorld corralled an Orbiz developer and took down his observations about Longhorn from a developer point of view. It’s interesting to see the perspective.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/971</id>
+    <title>Xamlon Beta: XAML for the .NET Framework 1.1</title>
+    <updated>2003-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-26T08:00:00.000Z</published>
+    <summary>Here. XAML is the Longhorn mark-up language for declaring object types and instances and hooking them up to code. While it's most often used for declarative Avalon UI, it's useful for more than that. In fact, one enterprising 3rd party has just released a beta tool that provides a XAML subset for.NET 1.1. It's not quite the same, but interesting never the less.</summary>
+    <content type="html">&lt;h1>Xamlon Beta: XAML for the .NET Framework 1.1&lt;/h1>
+&lt;a href="http://www.xamlon.com/">Here&lt;/a>. XAML is the Longhorn mark-up language for declaring object types and instances and hooking them up to code. While it's most often used for declarative Avalon UI, it's useful for more than that. In fact, one enterprising 3rd party has just released a beta tool that provides a XAML subset for .NET 1.1. It's not quite the same, but interesting never the less.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12415</id>
+    <title>ADO.NET 
+	CsvFileTester</title>
+    <updated>2003-11-25T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/screenshot.jpg"/>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-25T08:00:00.000Z</published>
+    <summary>CsvFileTester is a tool inspired by Shawn Wildermuth's ExcelFileTester, which he wrote 'cuz I kept asking him how to do queries on.xls files. However, because the Excel query language has no where or order by clauses, I gave that up in favor of comma-separated text files. I wrote CsvFileTester (with Shawn's help) to explore the ADO.NET/ODBC/JET support for CSV files and I was amazed at how comprehensive the support was. And, since I can never remember the syntax and limitations between one use of Jet expres...</summary>
+    <content type="html">&lt;h1>ADO.NET 
+	CsvFileTester&lt;/h1>
+
+    &lt;img src="/public/tools/screenshot.jpg" width="580" height="322">
+    &lt;P>&lt;a href="/public/tools/CsvFileTest.zip">CsvFileTester&lt;/a> is a tool inspired by &lt;A href="http://adoguy.com/content.aspx?id=answers/answer&amp;amp;QID=53">
+        Shawn Wildermuth's ExcelFileTester&lt;/A>, which he wrote 'cuz I kept asking him 
+      how to do queries on .xls files. However, because the Excel query language has 
+      no where or order by clauses, I gave that up in favor of comma-separated text 
+      files.&lt;/P>
+    &lt;P>I wrote CsvFileTester (with Shawn's help) to explore the ADO.NET/ODBC/JET 
+      support for CSV files and I was amazed at how comprehensive the support was. 
+      And, since I can never remember the syntax and limitations between one use of 
+      Jet expression syntax and the next, I put a bunch of samples in the combobox.&lt;/P>
+	&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/968</id>
+    <title>ADO.NET CSV File Tester</title>
+    <updated>2003-11-25T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-25T08:00:00.000Z</published>
+    <summary>Here. I wrote CsvFileTester to explore the ADO.NET/ODBC/JET support for CSV files and I was amazed at how comprehensive the support was. And, since I can never remember the syntax and limitations between one use of Jet expression syntax and the next, I put a bunch of samples into the program itself.</summary>
+    <content type="html">&lt;h1>ADO.NET CSV File Tester&lt;/h1>
+&lt;a href="/12415">Here&lt;/a>. I wrote CsvFileTester to explore the ADO.NET/ODBC/JET support for CSV files and I was amazed at how comprehensive the support was. And, since I can never remember the syntax and limitations between one use of Jet expression syntax and the next, I put a bunch of samples into the program itself.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/969</id>
+    <title>Oh Lord, I've Been ASSified...</title>
+    <updated>2003-11-25T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-11-25T08:00:00.000Z</published>
+    <summary>Here. Rory does it again. : )</summary>
+    <content type="html">&lt;h1>Oh Lord, I've Been ASSified...&lt;/h1>
+&lt;a href="http://neopoleon.com/blog/posts/1624.aspx">Here&lt;/a>. Rory does it again. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12514</id>
+    <title>I don't know UIs, but I know what I like...</title>
+    <updated>2003-11-24T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/spout/winforms01232003-fig01.gif"/>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-24T08:00:00.000Z</published>
+    <summary>Monday, November 24, 2003 The user in me sees Longhorn and dreams of software without limits. The engineer in me sees Longhorn and is scared of software without limits. An engineer's days are defined by requirements and restrictions. Those restrictions come not only from the capabilities of the tools and technologies being bolted together, but also accepted practice. For years, I've been comfortable designing &amp;quot;rich&amp;quot; client applications because a) my tools and technologies haven't let me do much th...</summary>
+    <content type="html">&lt;h1>I don't know UIs, but I know what I like...&lt;/h1>
+&lt;p>&lt;i>Monday, &lt;span class="created">November 24, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>The user in me sees Longhorn and dreams of software without 
+limits. The engineer in me sees Longhorn and is scared of software without 
+limits. An engineer's days are defined by requirements and restrictions. Those 
+restrictions come not only from the capabilities of the tools and technologies 
+being bolted together, but also accepted practice. For years, I've been 
+comfortable designing &amp;quot;rich&amp;quot; client applications because a) my tools and 
+technologies haven't let me do much that was really &amp;quot;rich&amp;quot; and b) because &amp;quot;rich&amp;quot; 
+was pre-defined by existing applications.&lt;/p>&lt;p>In fact, when I started 
+programming Windows 3.1, I adopted a single 3-step UI design process:&lt;/p>&lt;ol>&lt;li>
+	Figure out the the requirements of the particular UI doodad I needed&lt;/li>&lt;li>
+	Find my favorite example of it in Visual Studio, Word or Outlook&lt;/li>&lt;li>
+	Make User/MFC/WTL/WinForms do that&lt;/li>&lt;/ol>&lt;p>It doesn't take much to 
+design an application that looks like this:&lt;/p>&lt;img alt="" src="/public/spout/winforms01232003-fig01.gif" border="0" width="240" height="200">&lt;p>
+or even one that looks like this:&lt;/p>&lt;img alt="" src="/public/spout/winforms11202003-fig02.gif" border="0" width="345" height="228">&lt;p>
+when the process is merely aping existing apps. I was even encouraged to use 
+this kind of UI design by books with color pictures from well respected authors:&lt;/p>&lt;p>&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/1893115941/joelonsoftware">&lt;img style="MARGIN-LEFT: 5px" height="140" alt="User Interface Design for Programmers" src="/public/spout/UI_For_Programmers.jpg" width="112" border="0">&lt;/a>&lt;/p>&lt;p>
+When the web came along, things were scary because all the guidelines were gone. 
+However, at first the limitations were strict, so I didn't have any trouble 
+building sites that looked like this:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.1.jpg" width="427" height="421">&lt;/p>&lt;p>
+but when a few years later, the limitations faded away and I was expected to 
+conceive of and implement stuff like this:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.3.jpg" width="462" height="623">&lt;/p>&lt;p>
+I didn't have a clue. Luckily, the web &amp;quot;way&amp;quot; settled down over the years so that 
+we figured out basically how to design web sites:&lt;/p>&lt;p>&lt;font face="Verdana, Arial, Helvetica, sans-serif" size="2">&lt;b>&lt;font size="1">&lt;a href="http://www.sensible.com/buythebook.html">&lt;img height="121" alt="Book cover: Don't Make Me Think!" hspace="10" src="http://www.sensible.com/DMMT%20cover%203d%20140h.jpg" width="92" border="0">&lt;/a>&lt;/font>&lt;/b>&lt;/font>&lt;/p>&lt;p>
+Plus, limitations took hold as we realized that you could build pretty much 
+anything you wanted unless you wanted it to work on someone's machine besides 
+yours, which turned the screws down pretty tightly.&lt;/p>&lt;p>Still, while the 
+emerging conventions helped me figure out what I wanted my own web site to look 
+like in general, I had to *pay* for help from a otherly-skilled professional 
+before I could get the specifics:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.9.jpg" width="496" height="475">&lt;/p>&lt;p>
+This is where it got scary until I had the one application designed for which I 
+would ever need a designer. With my web site out of the way, it was smooth 
+sailing.&lt;/p>&lt;p>That is, until Longhorn and Avalon came along.&lt;/p>&lt;p>Avalon drops 
+the bottom out of the limitations and the guidelines again, leaving guys like me 
+in a lurch. Oh sure, I've done pretty much everything there is to do in this 
+industry, from coder to President, from docs to QA, from project management to 
+*shudder* marketing. However, what I haven't done and always hoped to avoid was 
+design the graphics that go along with an application. Those were always things 
+that I could hire done, most often as a deductible expense.&lt;/p>&lt;p>But now what 
+do I do? MS doesn't provide MSDN authors a &amp;quot;graphic artist&amp;quot; budget. We do have 
+very talented graphic artists at MSDN, but what's my boss going to say when 
+they're swamped doing graphics for my pet projects and not the public-facing web 
+site?&lt;/p>&lt;p>And standard bitmap graphic artifacts aren't enough; I need *vector* 
+graphics. Even I can see that while this is fine:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.4.jpg" width="593" height="438">&lt;/p>&lt;p>
+nobody is expanding sol.exe's main window to get more &amp;quot;green space&amp;quot;:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.8.jpg" width="593" height="438">&lt;/p>&lt;p>
+To solve problems like these, we need vector graphics that look good when 
+they're scaled, which I understand is roughly 10x harder than bitmaps (which are 
+already beyond me).&lt;/p>&lt;p>But just the graphics aren't enough, either. MS is 
+busy redesigning the Windows &amp;quot;user experience&amp;quot; to include the best of Windows 
+and the web:&lt;/p>&lt;p>&lt;img alt="" src="/public/spout/apparchetypes2.gif" border="0" width="450" height="358">&lt;/p>&lt;p>
+Apps are supposed to behavior sensibly (which I can handle) *and* look cool 
+(where do I learn to make *that* happen?!?).&lt;/p>&lt;p>In fact, taking the next step 
+from the budding UX guidelines, we seem to be heading into a place where if I 
+want to build my own sol to fix the scaling, I'll be trying to fit a &amp;quot;menu 
+system&amp;quot; on the front like the gaming guys do:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.6.jpg" width="367" height="242">&lt;/p>&lt;p>
+and like so:&lt;/p>&lt;p>&lt;img border="0" src="/public/spout/img.7.jpg" width="384" height="259">&lt;/p>&lt;p>
+In fact, I've heard tell that there's a special guy that designs these pre-game 
+antics separately from the rest of the game just so folks think the game is cool 
+as soon as it starts, long before you're actually playing it. How can I stand up 
+to that kind of pressure? I was pretty damn happy with myself when I made blocks 
+fall and stack:&lt;/p>&lt;p>&lt;a href="/public/wahoo/wahoo.exe">&lt;img height="590" hspace="10" src="/public/spout/wahoo.JPG" width="281" border="0">&lt;/a>&lt;/p>&lt;p>
+And while this is the only scalable game of its kind of which I know (I was 
+ready for Avalon a while ago, apparently : ), it still has the standard un-cool 
+&amp;quot;menu system&amp;quot; that Windows comes with out of the box.&lt;/p>&lt;p>And there's no 
+relief in sight! Avalon, by taking advantage of 3D hardware and displays that 
+haven't even been invented yet, along with intrinsic support for every kind of 
+media and animation that I'm familiar with, blows right by the limitations we've 
+grown to know and love in Windows and web applications. Now we're into the world 
+of game programmers, where if you can imagine it, you can do it.&lt;/p>&lt;p>But where 
+am I going to get the graphics for what I can imagine?&lt;/p>&lt;p>How do I imagine a 
+user experience when MS is literally still writing the book on it and they 
+haven't shipped a Longhorn Visual Studio, Word *or* Outlook?&lt;/p>&lt;p>Graphic/user 
+experience designers of the world, please be gentle; the engineers are spooked 
+and could stampede at any moment...&lt;/p>&lt;p>&lt;a href="/967">
+Know where I can get some graphics/user experience designers cheap?&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/966</id>
+    <title>SYS-CON RADIO @ the PDC</title>
+    <updated>2003-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-24T08:00:00.000Z</published>
+    <summary>Here. SYS-CON interviewed me and a bunch of my friends at the PDC. It's somewhat painful to listen to me with a cold, but fun to listen to folks like Dan Appleman, Scott Hanselman, Chris Kinsman, Jeff Prosise, Ingo Rammer, Brent Rector, John Robbins, David Treadwell, Shawn Wildermuth and a whole bunch more.</summary>
+    <content type="html">&lt;h1>SYS-CON RADIO @ the PDC&lt;/h1>
+&lt;a href="http://www.sys-con.com/dotnet/radio2003/interviews.cfm">Here&lt;/a>. SYS-CON interviewed me and a bunch of my friends at the PDC. It's somewhat painful to listen to me with a cold, but fun to listen to folks like Dan Appleman, Scott Hanselman, Chris Kinsman, Jeff Prosise, Ingo Rammer, Brent Rector, John Robbins, David Treadwell, Shawn Wildermuth and a whole bunch more.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/967</id>
+    <title>I don't know UIs, but I know what I like...</title>
+    <updated>2003-11-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-24T08:00:00.000Z</published>
+    <summary>Here. The one where I declare an official, immediate need for all those unemployed web site designers to get to work on Avalon ASAP.</summary>
+    <content type="html">&lt;h1>I don't know UIs, but I know what I like...&lt;/h1>
+&lt;a href="/12514">Here&lt;/a>. The one where I declare an official, immediate need for all those unemployed web site designers to get to work on Avalon ASAP.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/965</id>
+    <title>Chris Anderson: Must Read Avalon Blog</title>
+    <updated>2003-11-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-21T08:00:00.000Z</published>
+    <summary>Here. I'm going to save myself a lot of posts and just tell you now: if you're into Avalon, read Chris Anderson's posts.</summary>
+    <content type="html">&lt;h1>Chris Anderson: Must Read Avalon Blog&lt;/h1>
+&lt;a href="http://www.simplegeek.com">Here&lt;/a>. I'm going to save myself a lot of posts and just tell you now: if you're into Avalon, read Chris Anderson's posts.</content>
+  </entry>
+</feed>

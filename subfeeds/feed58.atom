@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed58.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed57.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed59.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed58.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1591</id>
+    <title>MSDN DevChat on Real World No-Touch Deployment</title>
+    <updated>2004-11-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-21T08:00:00.000Z</published>
+    <summary>Robi Khan and Mark Levison from Databeacon will be doing a MSDN DevChat on their recent commercial application using No-Touch Deployment. It's on Wednesday, November 24, 2004 at 10am PST. I'll be watching and you can sign up here. </summary>
+    <content type="html">&lt;h1>MSDN DevChat on Real World No-Touch Deployment&lt;/h1>
+&lt;P>&lt;A href="http://dotnetjunkies.com/WebLog/mlevison/archive/2004/11/19/32792.aspx">Robi Khan and Mark Levison&lt;/A> from Databeacon will be doing a MSDN DevChat on their recent commercial application using No-Touch Deployment. It's on Wednesday, November 24, 2004 at 10am PST. I'll be watching and you can &lt;A href="http://msevents.microsoft.com/cui/WebCastEventDetails.aspx?culture=en-CA&amp;amp;EventID=1032259860&amp;amp;EventCategory=2">sign up here&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1590</id>
+    <title>A Reason For A Home Gigabit Network</title>
+    <updated>2004-11-19T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-19T08:00:00.000Z</published>
+    <summary>I finally figured out why I need a gigabit LAN, especially at my house: the Windows Media Center Extender ( mine's for my XBOX, which I bought especially for this purpose). It lets you get at the music, video, pictures, radio, PVR, live TV and pretty much everything else that Media Center exposes, but from any TV in the house and all with the fabulous 10-fit UI that MCE provides. I had to duct tape down the extra long wire from my office to my bedroom (I explicitly left out a network connection in the bedro...</summary>
+    <content type="html">&lt;h1>A Reason For A Home Gigabit Network&lt;/h1>
+I finally figured out why I need a gigabit LAN, especially at my house: the Windows Media Center Extender (&lt;A href="http://www.microsoft.com/windowsxp/mediacenter/evaluation/devices/xboxextenderkit.mspx">mine's for my XBOX&lt;/A>, which I bought especially for this purpose). It lets you get at the music, video, pictures, radio, PVR, live TV and pretty much everything else that Media Center exposes, but from any TV in the house and all with the fabulous 10-fit UI that MCE provides. I had to duct tape down the extra long wire from my office to my bedroom (I explicitly left out a network connection in the bedroom when I wired the place -- who knew?) and my megabit LAN works just fine, but I can see needing more when I put one of these things on every TV in the house, which is pretty likely, since it rocks so hard. Wahoo!
+&lt;p />
+Oh, and as if that weren't enough, the XBOX Media Center Extender kit comes with a remote and remote sensor that works for playing DVDs, too, thus saving you the trouble of buying both. I'm in love!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1589</id>
+    <title>Avalon CTP Sample and Tool: XamlPad Clone</title>
+    <updated>2004-11-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-19T08:00:00.000Z</published>
+    <summary>Chris Anderson cloned an internal app for the Avalon CTP called "XamlPad" and posted it on his site. Enjoy. This just in: Chris has posted a version of his XamlPad Clone on a server via ClickOnce so you can just run it directly (and it works, too! Wahoo!). Plus, Ian's posted a hack to the sample that Chris's XamlPad Clone comes with. Fun. : )</summary>
+    <content type="html">&lt;h1>Avalon CTP Sample and Tool: XamlPad Clone&lt;/h1>
+Chris Anderson cloned an internal &lt;A href="http://www.simplegeek.com/permalink.aspx/6a8e0cf6-b211-4cb0-9a67-1fe42cdef146">app for the Avalon CTP called "XamlPad"&lt;/A> and posted it on his site. Enjoy.
+&lt;p />
+This just in: &lt;a href="http://www.simplegeek.com/permalink.aspx/5ee9126c-1ecd-48c4-ab2a-97e1f9cc61ed">Chris has posted a version of his XamlPad Clone on a server via ClickOnce&lt;/a> so &lt;a href="http://blog.simplegeek.com/avalon/xp.deploy">you can just run it directly&lt;/a> (and it works, too! Wahoo!).
+&lt;p />
+Plus, &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/11/20/avalononxp">Ian's posted a hack to the sample that Chris's XamlPad Clone comes with&lt;/a>. Fun. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1588</id>
+    <title>November 2004 Avalon CTP Released</title>
+    <updated>2004-11-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-19T08:00:00.000Z</published>
+    <summary>Just in case you haven't noticed, MSDN Subscribers should download the Avalon Community Technology Preview, which enables Avalon to run under Windows XP and Windows Server 2003 and to integrate with Visual Studio 2005. Also, you can access the WinFX SDK that reference Avalon online. And as if that weren't enough, the Avalon evangelist and product teams have teamed up to give you an overview of what's new in this pre-release of Avalon. Of course, we're still on the way to beta, let alone an RTM of Avalon, so...</summary>
+    <content type="html">&lt;h1>November 2004 Avalon CTP Released&lt;/h1>
+&lt;P>Just in case you haven't noticed, &lt;A href="http://msdn.microsoft.com/subscriptions/">MSDN Subscribers should download the Avalon Community Technology Preview&lt;/A>, which enables Avalon to run under Windows XP and Windows Server 2003 and to integrate with Visual Studio 2005. Also, you can &lt;A href="http://winfx.msdn.microsoft.com/">access the WinFX SDK that reference Avalon online&lt;/A>. And as if that weren't enough, the Avalon evangelist and product teams have teamed up to give you an overview of &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/pillars/avalon/avnov04ctp/default.aspx">what's new in this pre-release of Avalon&lt;/A>. Of course, we're still on the way to beta, let alone an RTM of Avalon, so there's still plenty of time to give the Avalon team feedback about what you love and don't love in &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.avalon&amp;amp;lang=en&amp;amp;cr=US">the Avalon newsgroup&lt;/A>.&lt;/P>
+&lt;P>And as if that we're enough, here's some views and news about the Avalon CTP:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/11/19/7322.aspx">3rd public release of Avalon...a few details on the development experience&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.simplegeek.com/permalink.aspx/45454998-e17a-40b3-8ba5-06da16892e4d">Avalon CTP released!!!&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://weblogs.asp.net/tims/archive/2004/11/18/265965.aspx">And So It Starts Again... Avalon Community Technical Preview Released&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/karstenj/archive/2004/11/19/267039.aspx">Avalon is Back&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://news.com.com/Microsoft+gives+developers+a+glimpse+of+Avalon/2100-1016_3-5460239.html?part=rss&amp;amp;tag=5460239&amp;amp;subj=news.1016.5">Microsoft gives developers a glimpse of Avalon&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.eweek.com/article2/0,1759,1730324,00.asp?kc=EWRSS03119TX1K0000594">Microsoft Previews Avalon for Developers&lt;/A>&lt;/LI>
+&lt;li>&lt;a href="http://www.winnetmag.com/Article/ArticleID/44574/44574.html">Microsoft Releases Avalon Tech Preview for XP, 2003&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.microsoft-watch.com/article2/0,1995,1730502,00.asp?kc=MWRSS02129TX1K0000535">Early Avalon Build Is Out, But Not for Longhorn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://weblogs.asp.net/robburke/archive/2004/11/22/267956.aspx">Avalon CTP Release - bring on the 3D!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.internetnews.com/article.php/3439251">XAML Tidbits Previewed in Microsoft's Avalon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.informationweek.com/story/showArticle.jhtml?articleID=53701374">Microsoft's Avalon Will Make Networked Applications Smarter&lt;/a>&lt;/li>
+&lt;/UL>
+&lt;P>In the words of Chris Anderson, Architect on the Avalon team, "This is not the final API set, XAML spec, or anything else - this is a 'Technology Preview'". And still, I've spent all day installing in on my machine. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1586</id>
+    <title>Rich Salz on WSDL 2.0</title>
+    <updated>2004-11-18T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-11-18T08:00:00.000Z</published>
+    <summary>According to Rich Salz's reading of the WSDL 2.0 spec (Rich makes a living selling hardware to make XML smoke, so I think he knows), the following is legal WSDL 2.0: #include "wsdl.h" extern void hello_world(const char* text); It's hisjudgmentt that this is not a step forward and I'm having&amp;nbsp;a hard time finding fault with his argument. : ) </summary>
+    <content type="html">&lt;h1>Rich Salz on WSDL 2.0&lt;/h1>
+&lt;P>According to &lt;A href="http://www.xml.com/pub/a/2004/11/17/salz.html">Rich Salz's reading of the WSDL 2.0 spec&lt;/A> (Rich makes a living selling hardware to make XML smoke, so I think he knows), the following is legal WSDL 2.0:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">&lt;PRE>#include "wsdl.h"&lt;BR>extern void hello_world(const char* text);&lt;/PRE>&lt;/BLOCKQUOTE>
+&lt;P>It's hisjudgmentt that this is not a step forward and I'm having&amp;nbsp;a hard time finding fault with his argument. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1587</id>
+    <title>Scott Garvey's Discussion of Smart Clients</title>
+    <updated>2004-11-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-18T08:00:00.000Z</published>
+    <summary>Channel9 has a nice video of Scott Garvey, a Microsoft Smart Client Evangelist, talking about what's a smart client and what's not. Scott also discussed some examples of smart clients, e.g. eBay for "power sellers." For me, things boil down this way: if it's something I've got to spend significant time in, I really want it to be a smart client, otherwise I'm going to get frustrated. For example, Outlook Web Access is great for occasional use from any PC under the sun, but if I'm using it for more than 5 min...</summary>
+    <content type="html">&lt;h1>Scott Garvey's Discussion of Smart Clients&lt;/h1>
+Channel9 has a nice video of Scott Garvey, a Microsoft Smart Client Evangelist, talking about &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=29703">what's a smart client and what's not&lt;/A>. Scott also discussed some examples of smart clients, e.g. eBay for "power sellers."
+&lt;p />
+For me, things boil down this way: if it's something I've got to spend significant time in, I really want it to be a smart client, otherwise I'm going to get frustrated. For example, Outlook Web Access is great for occasional use from any PC under the sun, but if I'm using it for more than 5 minutes, I'm guaranteed to press a hotkey like Ctrl+A and get nothing like I expect, forcing me to find my laptop so I can get some real work done in Outlook.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1584</id>
+    <title>ZBB: Why Not Counting Bugs in the Last 48 Hours?</title>
+    <updated>2004-11-16T08:00:00.000Z</updated>
+    <published>2004-11-16T08:00:00.000Z</published>
+    <summary>Eric Lippert an SDE somewhere in the VS05 effort describes ZBB : "Zero Bug Bounce (ZBB) day is the day on which, even for a single instant, every bug in the database is either (a) postponable to the next release/version, (b) fresh -- discovered within the last 48 hours, or (c) not fixable right now." My question is, why not count the bugs in the last 48 hours? Are those somehow less valid than the bugs found 49 hours ago? And what's with 48 hours itself? Why not 36? Or 72? Pathetic product team wannabes wan...</summary>
+    <content type="html">&lt;h1>ZBB: Why Not Counting Bugs in the Last 48 Hours?&lt;/h1>
+&lt;P>Eric Lippert an SDE somewhere in the VS05 effort describes &lt;A href="http://blogs.msdn.com/ericlippert/archive/2004/11/15/257954.aspx">ZBB&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>"Zero Bug Bounce (ZBB) day is the day on which, even for a single instant, every bug in the database is either (a) postponable to the next release/version, (b) fresh -- discovered within the last 48 hours, or (c) not fixable right now."&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>My question is, why not count the bugs in the last 48 hours? Are those somehow less valid than the bugs found 49 hours ago? And what's with 48 hours itself? Why not 36? Or 72? Pathetic product team wannabes wanna know!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1585</id>
+    <title>Art Tips for Programmers</title>
+    <updated>2004-11-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-16T08:00:00.000Z</published>
+    <summary>As I think I've said before, as the capabilities of our UI platform expands, programmers are going to need to know a lot more about user experience and graphic art. Towards that goal, I offer a recent post on Slashdot that provides advise on how programmers can bone up for the latter. Anyone got any ideas about the former?</summary>
+    <content type="html">&lt;h1>Art Tips for Programmers&lt;/h1>
+As I think I've said before, as the capabilities of our UI platform expands, programmers are going to need to know a lot more about user experience and graphic art. Towards that goal, I offer a recent post on Slashdot that provides &lt;A href="http://slashdot.org/article.pl?sid=04/11/16/016244">advise on how programmers can bone up for the latter&lt;/A>. Anyone got any ideas about the former?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1583</id>
+    <title>Smart Client DevCenter: Rebooted</title>
+    <updated>2004-11-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-15T08:00:00.000Z</published>
+    <summary>Jonathan Wells, Matt Lusher&amp;nbsp;and I have re-launched the MSDN Smart Client Developer Center web site, kicking off the new site with four headlines of interest: Smart Clients Defined : just so we're all clear what the heck a smart client is Windows Forms Bug Reporting Challenge : the Windows Forms team is giving away branded backpacks and t-shirts to top Windows Forms 2.0 bug reporters &lt;A style="FONT-WEIGHT: bold" onclick=javascript:track</summary>
+    <content type="html">&lt;h1>Smart Client DevCenter: Rebooted&lt;/h1>
+&lt;P>Jonathan Wells, Matt Lusher&amp;nbsp;and I have re-launched &lt;A href="http://msdn.microsoft.com/smartclient/">the MSDN Smart Client Developer Center web site&lt;/A>, kicking off the new site with four headlines of interest:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A style="FONT-WEIGHT: bold" onclick=javascript:trackInfo(this); href="http://msdn.microsoft.com/smartclient/understanding/definition/default.aspx" LinkArea="Unassigned" LinkID="WP_Unassigned_C340A89F-C463-478F-8E3D-B8436F427EF9">Smart Clients Defined&lt;/A>: just so we're all clear what the heck a smart client is&lt;/LI>
+&lt;LI>&lt;A style="FONT-WEIGHT: bold" onclick=javascript:trackInfo(this); href="http://msdn.microsoft.com/smartclient/challenge/default.aspx" LinkArea="Unassigned" LinkID="WP_Unassigned_57543EF8-C92E-4537-8D1A-EFC0B3AE473B">Windows Forms Bug Reporting Challenge&lt;/A>: the Windows Forms team is giving away branded backpacks and t-shirts to top Windows Forms 2.0 bug reporters&lt;/LI>
+&lt;LI>&lt;A style="FONT-WEIGHT: bold" onclick=javascript:trackInfo(this); href="http://www.microsoft.com/technet/desktopdeployment/bddoverview.mspx" LinkArea="Unassigned" LinkID="WP_Unassigned_A98D2B8C-7E17-4FC0-A783-21CB4A2F31B1">Business Desktop Deployment Framework&lt;/A>: all you'd ever want to know about deploying Windows in an enterprise so that you've got a suitable platform on which to deploy smart client applications&lt;/LI>
+&lt;LI>&lt;A style="FONT-WEIGHT: bold" onclick=javascript:trackInfo(this); href="http://msdn.microsoft.com/smartclient/community/edletters/default.aspx" LinkArea="Unassigned" LinkID="WP_Unassigned_48112BD8-3DFB-428D-A7AC-321FED623857">Welcome to the MSDN Smart Client Developer Center: Rebooted&lt;/A>: a message from Jonathan Wells and me (Wells &amp;amp; Sells) about the goals of the Smart Client DevCenter and how to make the most of it&lt;/LI>&lt;/UL>
+&lt;P>Since the Smart Client DevCenter now has a Content Strategist (me), expect to see regular releases of articles and samples exploring smart client-related technologies, including but not limited to Windows Forms, the Compact Framework and Visual Studio Tools for Office.&lt;/P>
+&lt;P>And don't hesitate to send &lt;A href="mailto:jonwells@microsoft.com">Jonathan&lt;/A> or &lt;A href="mailto:csells@microsoft.com">me&lt;/A> your complaints and suggestions. We don't put this site up for our health, you know; we do it for you!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1581</id>
+    <title>Tons of Fun with Windows Media Encoder</title>
+    <updated>2004-11-13T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-11-13T08:00:00.000Z</published>
+    <summary>I've been wanting an easy way to capture screen demos and audio for a while and after stumbling across Jon Udell's post on Movies of Software, I thought I'd give Windows Media Encoder a try. Here's what I learned: I really like giving short little vignettes imagining an audience; I didn't think I would The preparation for recording a screen demo is the same as a real demo, i.e. I want to make sure I know what I'm going to demo before I do it The preparation does not include lighting or another person to run...</summary>
+    <content type="html">&lt;h1>Tons of Fun with Windows Media Encoder&lt;/h1>
+&lt;P>I've been wanting an easy way to capture screen demos and audio for a while and after stumbling across &lt;A href="http://www.oreillynet.com/pub/a/network/2004/11/11/primetime.html">Jon Udell's post on Movies of Software&lt;/A>, I thought I'd &lt;A href="http://www.microsoft.com/windows/windowsmedia/9series/encoder/default.aspx">give Windows Media Encoder&lt;/A> a try. Here's what I learned:&lt;/P>
+&lt;UL>
+&lt;LI>I really like giving short little vignettes imagining an audience; I didn't think I would&lt;/LI>
+&lt;LI>The preparation for recording a screen demo is the same as a real demo, i.e. I want to make sure I know what I'm going to demo before I do it&lt;/LI>
+&lt;LI>The preparation does not include lighting or another person to run a camera or a microphone, which means that I can do it on a whim at 5am on a Saturday morning&lt;/LI>
+&lt;LI>My built-in mic at normal speaking volume works great&lt;/LI>
+&lt;LI>Capturing a particular screen doesn't work very well because I'm likely to move between windows without knowing that I will ahead of time. Instead, I should capture a region of the screen, ideally something not too large so that it fits well in a video window&lt;/LI>
+&lt;LI>Medium quality may not be good enough. I did 13 minutes at medium quality, which resulted in a 3MB file and good audio, but the screen itself was nearly unreadable. Maybe the screen itself was too big?&lt;/LI>
+&lt;LI>Stop other apps before capturing a screen, otherwise you're bound to get slowdowns in the capture, particularly in the audio&lt;/LI>
+&lt;LI>Talking in my kitchen at normal volume for 13 minutes will waken my wife (sorry, sweetie)&lt;/LI>&lt;/UL>
+&lt;P>So, while I wasn't happy with &lt;A HREF="/public/video/x1demo.wmv">the results&lt;/A>, I'm very jazzed about the medium. Expect to see more.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1582</id>
+    <title>Outsourcing to Arkansas</title>
+    <updated>2004-11-13T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-13T08:00:00.000Z</published>
+    <summary>I love the idea of outsourcing to rural parts of the country because a) I like keeping jobs in the US if possible (although I'm not a protectionist by any stretch of the imagination), b) it gives the under-employed more choices and c) it's another step toward my dream employment environment. I see a future where people are listed like books on Amazon with ratings, reviews, descriptions (aka resumes), prices and availability, to be placed into a shopping cart to form ad hoc project teams based on the needs o...</summary>
+    <content type="html">&lt;h1>Outsourcing to Arkansas&lt;/h1>
+&lt;P>I love the idea of &lt;A href="http://news.com.com/2061-1022-5449083.html?tag=rsspr.5449099">outsourcing to rural parts of the country&lt;/A> because a) I like keeping jobs in the US if possible (although I'm not a protectionist by any stretch of the imagination), b) it gives the under-employed more choices and c) it's another step toward my dream employment environment.&lt;/P>
+&lt;P>I see a future where people are listed like books on Amazon with ratings, reviews, descriptions (aka resumes), prices and availability, to be placed into a shopping cart to form ad hoc project teams based on the needs of the project and not on the locale of the participant or something as restrictive as "employer." I admit that I this article is only a small step and may not even be in the direction I'm hoping for, but as I'd like to live in a rural area (central Oregon) and still get to do interesting work at reasonable pay, I'm more than happy to read into things.&lt;/P>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1579</id>
+    <title>Bill Wagner Using the Updater App Block</title>
+    <updated>2004-11-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-11T08:00:00.000Z</published>
+    <summary>"Bill Wagner takes us through using the more extensible Updater Application Block to automatically install and maintain applications. He also discusses the importance of validation and how to use post processing commands." [ via theserverside.net ] </summary>
+    <content type="html">&lt;h1>Bill Wagner Using the Updater App Block&lt;/h1>
+&lt;P>"Bill Wagner takes us through using the more extensible Updater Application Block to automatically install and maintain applications. He also discusses the importance of validation and how to use post processing commands."&lt;/P>
+&lt;P>[&lt;A href="http://www.theserverside.net/articles/showarticle.tss?id=UpdateAppBlock">via theserverside.net&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1578</id>
+    <title>A Guy Worth Hiring</title>
+    <updated>2004-11-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-11T08:00:00.000Z</published>
+    <summary>This guy deserves a flood of job offers. Make yours good! </summary>
+    <content type="html">&lt;h1>A Guy Worth Hiring&lt;/h1>
+&lt;P>&lt;A href="http://213.186.36.10/~al/alstudio/cv/en.htm">This guy&lt;/A> deserves a flood of job offers. Make yours good!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1580</id>
+    <title>ATOM is to RSS as XML is to SGML</title>
+    <updated>2004-11-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-11T08:00:00.000Z</published>
+    <summary>Tim Bray finally provides a technical reason for ATOM to exist that I can get behind. Once every RSS consumer in the world (which really isn't that many) also supports ATOM, we can move forward to a saner world.</summary>
+    <content type="html">&lt;h1>ATOM is to RSS as XML is to SGML&lt;/h1>
+Tim Bray finally provides &lt;A href="http://www.tbray.org/ongoing/When/200x/2004/11/11/AtomInnovation">a technical reason for ATOM to exist that I can get behind&lt;/A>. Once every RSS consumer in the world (which really isn't that many) also supports ATOM, we can move forward to a saner world.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1577</id>
+    <title>Concrete Examples of Software Factories?!?</title>
+    <updated>2004-11-07T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-11-07T08:00:00.000Z</published>
+    <summary>I've been reading each of the Software Factories articles with great interest. Part 1 and part 2 did a particularly good job describing the elements of the problem space, I thought. However, when I get to part 3, I was ready to see a solution. Instead what I got was a long abstract piece defining the bits of what makes up a software factory. This is the kind of thing I'd be ready to read after I was shown a concrete example or two of working, running software factories. Do other people like reading these lo...</summary>
+    <content type="html">&lt;h1>Concrete Examples of Software Factories?!?&lt;/h1>
+I've been reading each of &lt;A href="http://msdn.microsoft.com/architecture/overview/softwarefactories/">the Software Factories articles&lt;/A> with great interest. Part 1 and part 2 did a particularly good job describing the elements of the problem space, I thought. However, when I get to &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/softfact3.asp">part 3&lt;/A>, I was ready to see a solution. Instead what I got was a long abstract piece defining the bits of what makes up a software factory. This is the kind of thing I'd be ready to read after I was shown a concrete example or two of working, running software factories. Do other people like reading these long, abstract articles? I find them tedious unless they're filling in and generalizing the details of something that I've already got a handle on.</content>
+  </entry>
+</feed>

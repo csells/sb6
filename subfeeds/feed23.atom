@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed23.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed22.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed24.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed23.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2086</id>
+    <title>Programming WPF: Rough Cuts</title>
+    <updated>2007-03-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2007-03-10T08:00:00.000Z</published>
+    <summary>If you can't wait for Programming WPF to be on the shelves (I know I'm having trouble), then you can read the chapters as we write them. These chapters have not gone through the technical reviewing stage or the copy editing stage, but they've been through the baptism of fire that is co-author review and both Ian and I are nuts for grammar, so they should be pretty readable. Enjoy.</summary>
+    <content type="html">&lt;h1>Programming WPF: Rough Cuts&lt;/h1>
+If you can't wait for Programming WPF to be on the shelves (I know I'm having trouble), then you can &lt;A href="http://www.oreilly.com/catalog/9780596510381/">read the chapters as we write them&lt;/A>. These chapters have not gone through the technical reviewing stage or the copy editing stage, but they've been through the baptism of fire that is co-author review and both Ian and I are nuts for grammar, so they should be pretty readable. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2085</id>
+    <title>Mobile Video Conferencing! I want one!</title>
+    <updated>2007-03-08T08:00:00.000Z</updated>
+    <published>2007-03-08T08:00:00.000Z</published>
+    <summary>I gotta get one of these &amp;nbsp;(the video conferencing robot, not the dude)! </summary>
+    <content type="html">&lt;h1>Mobile Video Conferencing! I want one!&lt;/h1>
+&lt;P>I gotta get &lt;A href="http://www.headthere.com/products.html">one of these&lt;/A>&amp;nbsp;(the video conferencing robot, not the dude)!&lt;/P>&lt;IMG src="http://www.headthere.com/images/slide1.jpg"></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2084</id>
+    <title>Using my XBox 360 for Corp. Video Conferencing</title>
+    <updated>2007-03-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-03-03T08:00:00.000Z</published>
+    <summary>I've been having another adventure in social video conferencing, this time with my team in Redmond. It all started with Doug brought his 360 into our new conference room, which is just an office with a coupla white boards, some comfy chairs and a 37" LCD panel for projecting. Once we got the 360, I purchased a year Live Gold subscription and a live camera for $30, turning it into a video conferencing solution. Now, every morning at scrum, I'm sitting in my living room, telling folks in building 42 what I di...</summary>
+    <content type="html">&lt;h1>Using my XBox 360 for Corp. Video Conferencing&lt;/h1>
+&lt;P>I've been having another adventure in social video conferencing, this time with my team in Redmond. It all started with Doug brought his 360 into our new conference room, which is just an office with a coupla white boards, some comfy chairs and a 37" LCD panel for projecting.&lt;/P>
+&lt;P>Once we got the 360, I purchased a year Live Gold subscription and a live camera for $30, turning it into a video conferencing solution. Now, every morning at scrum, I'm sitting in my living room, telling folks in building 42 what I did yesterday, what I'm doing today and whether I'm blocked or not and they can see as well as hear me. When we go around the room, somebody turns the camera for me and it's my turn when we get to the LCD panel.&lt;/P>
+&lt;P>You might ask why we don't just use Live Messenger's video support and the answer is -- configuration and hardware. Live Messenger's video just never seems to work out of the box w/ people's s/w and h/w firewalls and even if it did, nobody's got a camera on their laptop. Now, the only thing my team mates need to do to see me is turn on the LCD panel and accept my request for video.&lt;/P>
+&lt;P>That's not to say that the experience is perfect. I'd love it if the xbox video conferencing:&lt;/P>
+&lt;UL>
+&lt;LI>Allowed each side to run video at full screen. I just don't need to look at myself and when we go picture-in-picture (the LCD is also used for projection), the video's not very useful.&lt;/LI>
+&lt;LI>Allowed me to remotely, instead of locally, select zoom regions.&lt;/LI>
+&lt;LI>Allowed me to control a camera that supported pan, tilt and zoom in hardware.&lt;/LI>
+&lt;LI>Supported noise cancellation. As it is, I still have to place a phone call to get onto the speaker phone in the room. If we try using the headset as a roaming mike, the feedback makes it unusable.&lt;/LI>&lt;/UL>
+&lt;P>However, for the $30 incremental cost of the camera + year of live, it's a solution good enough that we're using it more and more. Have I mentioned how much I love my xbox 360?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2083</id>
+    <title>Visual Studio Orcas March 2007 CTP</title>
+    <updated>2007-03-01T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-03-01T08:00:00.000Z</published>
+    <summary>And the hits they keep on comin': What's New in VS Orcas March CTP&amp;nbsp;VPC image &amp;nbsp;(includes the *long* list of what's new) Virtual PC 2007 (*free* but needed to play w/ the Orcas bits) Tim Sneath on Orcas + WPF Enjoy! </summary>
+    <content type="html">&lt;h1>Visual Studio Orcas March 2007 CTP&lt;/h1>
+&lt;P>And the hits they keep on comin':&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=B533619A-0008-4DD6-9ED1-47D482683C78&amp;amp;displaylang=en">What's New in VS Orcas March CTP&amp;nbsp;VPC image&lt;/A>&amp;nbsp;(includes the *long* list of what's new)&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/windows/products/winfamily/virtualpc/default.mspx">Virtual PC 2007&lt;/A> (*free* but needed to play w/ the Orcas bits)&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/tims/archive/2007/02/28/wpf-and-orcas.aspx">Tim Sneath on Orcas + WPF&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2082</id>
+    <title>Lutz Roeder's Reflector 5.0</title>
+    <updated>2007-02-19T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-02-19T08:00:00.000Z</published>
+    <summary>.NET Reflector 5.0.NET Reflector 5.0 Add-Ins.NET Reflector 5.0&amp;nbsp;new feature overview (PowerPoint&amp;nbsp;deck) Need I say more? </summary>
+    <content type="html">&lt;h1>Lutz Roeder's Reflector 5.0&lt;/h1>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.aisto.com/roeder/dotnet">.NET Reflector 5.0&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.codeplex.com/reflectoraddins">.NET Reflector 5.0 Add-Ins&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.aisto.com/roeder/paper/reflector5.ppt">.NET Reflector 5.0&amp;nbsp;new feature overview&lt;/A> (PowerPoint&amp;nbsp;deck)&lt;/LI>&lt;/UL>
+&lt;P>Need I say more?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2081</id>
+    <title>Detailed Time Zone Data</title>
+    <updated>2007-02-14T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-02-14T08:00:00.000Z</published>
+    <summary>A long time ago (2000), I was fascinated with turning a phone number into a time zone so I could tell what time it would be somewhere before I called and woke anyone up (this happened too often : ). As part of that work, I quickly realized that info in Windows for time zones wasn't detailed enough, so I began looking elsewhere. I found the Time Zone Map Group, which maintains time zone data for all over the world backward through time. This is an amazing accomplishment, since they have to account for every ...</summary>
+    <content type="html">&lt;h1>Detailed Time Zone Data&lt;/h1>
+&lt;P>A long time ago (2000), I was fascinated with turning a phone number into a time zone so I could tell what time it would be somewhere before I called and woke anyone up (this happened too often : ).&lt;/P>
+&lt;P>As part of that work, I quickly realized that info in Windows for time zones wasn't detailed enough, so I began looking elsewhere. I found the &lt;A href="ftp://elsie.nci.nih.gov/pub/">Time Zone Map Group&lt;/A>, which maintains time zone data for all over the world backward through time. This is an amazing accomplishment, since they have to account for every law change as each tin pot dictator comes to power, e.g. George W.&lt;/P>
+&lt;P>At the time, they had a custom format for the data (and they probably still do, as far as I know), so I wrote &lt;A href="/12660">a utility to translate the tz format into XML&lt;/A> for easy parsing. I literally haven't touched the tool since, but with the recent time zone law changes in the US, I thought folks might be interested. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2080</id>
+    <title>Slide your vote in for ScottH's Podcast</title>
+    <updated>2007-02-08T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-02-08T08:00:00.000Z</published>
+    <summary>I only listen to one podcast, so casting my vote for Hanselminutes on podcast alley's list of top podcasts was a no-brainer. Plus, when I voted, they had a free sample for K-Y Brand Intrigue, which is apparently the longest lasting premium personal lubricant. The opportunity for jokes here is boundless, so let's start w/ some obvious ones and I'll send a free copy of Programming WPF to the best one in the comments: I hesitate to think where the folks at podcast alley think we stow our MP3 players... I like ...</summary>
+    <content type="html">&lt;h1>Slide your vote in for ScottH's Podcast&lt;/h1>
+&lt;P>I only listen to one podcast, so &lt;A href="http://www.podcastalley.com/podcast_details.php?pod_id=18207#">casting my vote for Hanselminutes on podcast alley's list of top podcasts&lt;/A> was a no-brainer.&lt;/P>
+&lt;P>Plus, when I voted, they had a free sample for K-Y Brand Intrigue, which is apparently the longest lasting premium personal lubricant. The opportunity for jokes here is boundless, so let's start w/ some obvious ones and I'll send a free copy of Programming WPF to the best one in the comments:&lt;/P>
+&lt;UL>
+&lt;LI>I hesitate to think where the folks at podcast alley think we stow our MP3 players...&lt;/LI>
+&lt;LI>I like Scott, but come on...&lt;/LI>
+&lt;LI>What kind of gadgets has Scott been reviewing lately?!?&lt;/LI>&lt;/UL>
+&lt;P>Enjoy. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2079</id>
+    <title>.NET: Decompressing zip file entries into memory</title>
+    <updated>2007-02-04T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-02-04T08:00:00.000Z</published>
+    <summary>I knew that the J# libraries in.NET had zip file support, but I couldn't find any samples that showed how to decompress the files into memory. The hard part, of course, is that the J# stream objects aren't the same as the.NET stream objects. If you're a Java programmer looking for a familiar library, that's great, but I'm not, so I had to do a little finagling. The first thing you need to do is to add a reference to the vjslib assembly, which brings in.NET classes in Java namespaces, e.g. java.io. The one w...</summary>
+    <content type="html">&lt;h1>.NET: Decompressing zip file entries into memory&lt;/h1>
+&lt;P>I knew that the J# libraries in .NET had zip file support, but I couldn't find any samples that showed how to decompress the files into memory. The hard part, of course, is that the J# stream objects aren't the same as the .NET stream objects. If you're a Java programmer looking for a familiar library, that's great, but I'm not, so I had to do a little finagling.&lt;/P>
+&lt;P>The first thing you need to do is to add a reference to the vjslib assembly, which brings in .NET classes in Java namespaces, e.g. java.io. The one we care most about is java.uti.zip, which includes ZipFile and ZipEntry. We also need java.util for the Enumeration class and java.io for the InputStream class. With these in place, we can enumerate a zip file:&lt;/P>
+&lt;P>&lt;STRONG>using java.util; // all from vjslib assembly&lt;BR>using java.util.zip;&lt;BR>using java.io;&lt;BR>&lt;/STRONG>...&lt;BR>static void Main(string[] args) {&lt;BR>&amp;nbsp; if( args.Length != 1 ) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine("Usage: dumpzipfileoftextfiles &amp;lt;file&amp;gt;");&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; return;&lt;BR>&amp;nbsp; }&lt;/P>
+&lt;P>&amp;nbsp; // we're assuming a zip file full of ASCII text files here&lt;BR>&amp;nbsp; string filename = args[0];&lt;BR>&amp;nbsp; ZipFile zip = new ZipFile(filename);&lt;/P>
+&lt;P>&amp;nbsp; try {&lt;BR>&lt;STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp; // enumerate entries in the zip file&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; // NOTE: can't enum via foreach -- Java objects don't support it&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; Enumeration entries = zip.entries();&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; while( entries.hasMoreElements() ) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ZipEntry entry = (ZipEntry)entries.nextElement();&lt;BR>&lt;/STRONG>&lt;/P>
+&lt;P>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // read text bytes into an ASCII string&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; byte[] bytes = ReadZipBytes(zip, entry);&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; string s = ASCIIEncoding.ASCII.GetString(bytes);&lt;/P>
+&lt;P>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // do something w/ the text&lt;BR>&lt;STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; string entryname = entry.getName();&lt;BR>&lt;/STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine("{0}:\r\n{1}\r\n", entryname, s);&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;BR>&amp;nbsp; }&lt;BR>&amp;nbsp; finally {&lt;BR>&lt;STRONG>&amp;nbsp;&amp;nbsp;&amp;nbsp; if( zip != null ) { zip.close(); }&lt;BR>&lt;/STRONG>&amp;nbsp; }&lt;BR>}&lt;BR>&lt;/P>
+&lt;P>Notice the use of the Enumeration object so we can enumerate in the Java style and the use of the ZipFile and ZipEntry types. This is all stuff you could find in readily available online samples (I did). The interesting bit is the ReadZipBytes method:&lt;/P>
+&lt;P>static byte[] ReadZipBytes(ZipFile zip, ZipEntry entry) {&lt;BR>&amp;nbsp; // read contents of text stream into bytes&lt;BR>&amp;nbsp; InputStream instream = zip.getInputStream(entry);&lt;BR>&amp;nbsp; int size = (int)entry.getSize();&lt;BR>&amp;nbsp; sbyte[] sbytes = new sbyte[size];&lt;BR>&lt;BR>&amp;nbsp; // read all the&amp;nbsp;bytes into memory&lt;BR>&amp;nbsp; int offset = 0;&lt;BR>&amp;nbsp; while( true ) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; int read = instream.read(sbytes, offset, size - offset);&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; if( read == -1 ) { break; }&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; offset += read;&lt;BR>&amp;nbsp; }&lt;BR>&amp;nbsp; instream.close();&lt;/P>
+&lt;P>&lt;STRONG>&amp;nbsp; // this is the magic method for converting signed bytes&lt;BR>&amp;nbsp; // in unsigned bytes for use with the rest of .NET, e.g.&lt;BR>&amp;nbsp; // Encoding.GetString(byte[]) or new MemoryStream(byte[])&lt;BR>&amp;nbsp; return (byte[])(object)sbytes;&lt;BR>&lt;/STRONG>}&lt;/P>
+&lt;P>For those of you familiar with Java, I'm just reading the zip file entry data into an array of signed bytes. However, most .NET APIs like unsigned bytes, e.g. "Encoding.GetString(byte[])" or "new MemoryStream(byte[])", which means you've got to convert a signed array of bytes in .NET to an unsigned array of bytes. Unfortunately, just casting doesn't work (the compiler complains). Even more unfortunately, I could find nothing in the Convert or BitConverter classes to perform this feat of magic and the code I wrote was dog slow, so I asked around internally.&lt;/P>
+&lt;P>Luckily, James Manning, an MS SDE, had the answer: cast the signed byte array to an object first and then to a unsigned byte array. Thank goodness James knew that, because I didn't find anything on this topic. Hopefully future generations will find this missive.&lt;/P>
+&lt;P>You can &lt;a href="/public/samples/DumpZipFileOfTextFiles.zip">download the sample&lt;/A> if you like. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2078</id>
+    <title>Stange But Real Facts</title>
+    <updated>2007-02-03T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-02-03T08:00:00.000Z</published>
+    <summary>I don't know how many of these are actually real (my left-handed son was very disappointed to hear that he'd be dying 9 years before his right-handed brother), but they were very fun to read with the kids. P.S. Can you lick your elbow? Tom claims to have a friend that can lick his. He's going to be very popular when he grows up... </summary>
+    <content type="html">&lt;h1>Stange But Real Facts&lt;/h1>
+&lt;P>I don't know how many of these are actually real (my left-handed son was very disappointed to hear that he'd be dying 9 years before his right-handed brother), but &lt;A href="http://www.ratemyeverything.net/post.aspx?post=980">they were very fun to read with the kids&lt;/A>.&lt;/P>
+&lt;P>P.S. Can you lick your elbow? Tom claims to have a friend that can lick his. He's going to be very popular when he grows up...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2076</id>
+    <title>Windows Servers for the rest of us</title>
+    <updated>2007-02-02T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-02-02T08:00:00.000Z</published>
+    <summary>Charlie Kindel of COM fame (he's wrote the foreword to Don's seminal work "Essential COM") is the Product Unit Manager (softie-speak for "butt on the line") for the new Windows Home Server team. If you haven't heard about it, Home Server is a Windows server box for the rest of us. I don't know about you, but I've got file, print and media servers all over the house in a confusing mess and I look forward to being able to consolidate it. According to the enthusiastic beta tester I talked to, Windows Home Serv...</summary>
+    <content type="html">&lt;h1>Windows Servers for the rest of us&lt;/h1>
+&lt;P>&lt;A href="http://www.microsoft.com/communities/bios/Detail.aspx?ID=218&amp;amp;productID=P52R-1L-1&amp;amp;pagesize=8&amp;amp;pagination=true&amp;amp;pageNumber=1">Charlie Kindel of COM fame&lt;/A> (he's wrote the foreword to Don's seminal work "Essential COM") is the Product Unit Manager (softie-speak for "butt on the line") for the new Windows Home Server team. If you haven't heard about it, Home Server is a Windows server box for the rest of us. I don't know about you, but I've got file, print and media servers all over the house in a confusing mess and I look forward to being able to consolidate it. According to the enthusiastic beta tester I talked to, Windows Home Server is the way to do that. &lt;/P>
+&lt;P>Yesterday, Charlie announced &lt;A href="http://blogs.technet.com/homeserver/">the Windows Home Server Blog&lt;/A>. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2077</id>
+    <title>You Can Help Find Jim Gray</title>
+    <updated>2007-02-02T08:00:00.000Z</updated>
+    <published>2007-02-02T08:00:00.000Z</published>
+    <summary>From Dan Rosenfeld of Microsoft Research: "As some of you may know, our colleague Jim Gray is currently missing, having failed to return from a sailing trip in Northern California. Here's a NYT article discussing Jim's contributions and the efforts to find him. "I learned from the article that there's an effort on Amazon's Mechanical Turk site which allows volunteers to search satellite imagery for Jim's sailboat. "You can help by spending a few minutes on the task at this site." Please spent a few minutes....</summary>
+    <content type="html">&lt;h1>You Can Help Find Jim Gray&lt;/h1>
+&lt;P>From Dan Rosenfeld of Microsoft Research:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"As some of you may know, our colleague Jim Gray is currently missing, having failed to return from a sailing trip in Northern California. Here's &lt;/EM>&lt;A href="http://www.nytimes.com/2007/02/03/technology/03search.html?hp&amp;amp;ex=1170478800&amp;amp;en=f77b50f0e213bf17&amp;amp;ei=5094&amp;amp;partner=homepage">&lt;EM>a NYT article&lt;/EM>&lt;/A>&lt;EM> discussing Jim's contributions and the efforts to find him.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"I learned from the article that there's an effort on Amazon's Mechanical Turk site which allows volunteers to &lt;/EM>&lt;A href="http://www.mturk.com/mturk/preview?groupId=J0XZ58STDWJZ5QY4F9M0">&lt;EM>search satellite imagery for Jim's sailboat&lt;/EM>&lt;/A>&lt;EM>.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"You can help by spending a few minutes on the task at this site."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Please spent a few minutes. Thank you.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2075</id>
+    <title>The Potential of WPF/E</title>
+    <updated>2007-02-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2007-02-01T08:00:00.000Z</published>
+    <summary>Savas turned me onto an amazing WPF/E application. I don't speak the language of the web site, but the screenshot on Savas's site is worth a look... P.S. I don't smoke (except for the occasional cigar) and I definitely don't want to smell smoke while I eat or in my clothes, but the fact that smokers are no longer allowed to smoke most places strikes me as a violation of an important liberty. Have those studies about the effects of 3rd party smoke been verified? </summary>
+    <content type="html">&lt;h1>The Potential of WPF/E&lt;/h1>
+&lt;P>&lt;A href="http://savas.parastatidis.name/2007/02/01/9ea88d5c-c749-49f3-83aa-68505272dd4e.aspx">Savas&lt;/A> turned me onto an amazing WPF/E application. I don't speak the language of the web site, but &lt;A href="http://savas.parastatidis.name/2007/02/01/9ea88d5c-c749-49f3-83aa-68505272dd4e.aspx">the screenshot on Savas's site&lt;/A> is worth a look...&lt;/P>
+&lt;P>P.S. I don't smoke (except for the occasional cigar) and I definitely don't want to smell smoke while I eat or in my clothes, but the fact that smokers are no longer allowed to smoke most places strikes me as a violation of an important liberty. Have those studies about the effects of 3rd party smoke been verified?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2074</id>
+    <title>WPF XBAP App: British Library Books Online</title>
+    <updated>2007-01-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2007-01-30T08:00:00.000Z</published>
+    <summary>"The British Library is one of the world's leading libraries and the national library of the United Kingdom. By charter, it holds a copy of every book ever published in the UK, along with 58 million newspapers, 4.5 million maps, and 3.5 million sound recordings. They hold some of the most priceless literary treasures in existence, including the Codex Sinaiticus (one of the oldest New Testaments in existence), the Lindisfarne Gospels, one of Leonardo Da Vinci's notebooks, the first atlas of Europe by Mercato...</summary>
+    <content type="html">&lt;h1>WPF XBAP App: British Library Books Online&lt;/h1>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The British Library is one of the world's leading libraries and the national library of the United Kingdom. By charter, it holds a copy of every book ever published in the UK, along with 58 million newspapers, 4.5 million maps, and 3.5 million sound recordings. They hold some of the most priceless literary treasures in existence, including the Codex Sinaiticus (one of the oldest New Testaments in existence), the Lindisfarne Gospels, one of Leonardo Da Vinci's notebooks, the first atlas of Europe by Mercator, the original illustrated manuscript Lewis Carroll's Alice's Adventures in Wonderland, Jane Austen's History of England and Mozart's musical diary. ...&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Enter a fantastic new application, developed in partnership between the British Library and Armadillo Systems. The British Library have digitized the pages of fifteen of their most valuable works and created &lt;/EM>&lt;A href="http://blogs.msdn.com/tims/archive/2007/01/30/great-wpf-applications-1-british-library-turning-the-pages.aspx">&lt;EM>Turning the Pages, a browser-based WPF application that allows you to interact with these books in a virtual environment from the comfort of your home&lt;/EM>&lt;/A>&lt;EM>."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Wow. This is literally the only way to interact with some of this material and it's enabled with WPF. Nice.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2073</id>
+    <title>Window Clippings 1.5</title>
+    <updated>2007-01-29T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-01-29T08:00:00.000Z</published>
+    <summary>Capturing screenshots for a book used to be a piece of cake. Alt+PrintScreent and you were golden. However, sometimes I wanted to get the cursor, too, and neither Alt+PrintScreen nor PrintScreen does that, so I got myself a copy of SnagIt. Unfortunately, if I wanted to capture multiple screens, I was putting a maximized copy of Notepad in the backgrand, using PrintScreen and PBrush to do the cropping (although SnagIt has slightly more seamless multi-window selection). Still, this all worked 'til Vista came ...</summary>
+    <content type="html">&lt;h1>Window Clippings 1.5&lt;/h1>
+&lt;P>Capturing screenshots for a book used to be a piece of cake. Alt+PrintScreent and you were golden. However, sometimes I wanted to get the cursor, too, and neither Alt+PrintScreen nor PrintScreen does that, so I got myself a copy of &lt;A href="http://www.techsmith.com/snagit.asp">SnagIt&lt;/A>. Unfortunately, if I wanted to capture multiple screens, I was putting a maximized copy of Notepad in the backgrand, using PrintScreen and PBrush to do the cropping (although SnagIt has slightly more seamless multi-window selection).&lt;/P>
+&lt;P>Still, this all worked 'til Vista came along and Alt+PrintScreen left the shadows out! I was fine with that, but &lt;A href="http://www.interact-sw.co.uk/iangblog/">Ian&lt;/A> correctly pointed out that the screenshots with the shadows looks *so* much better that I could hardly say "no." And I discovered the Snipping Tool in Vista, which let me do a selection on any part of the screen I wanted to, except that now instead of just doing Alt+PrintScreen, even for a single window, now everything is a selection, which means that somebody (hopefully not me!) has to trim the extra whitespace to make sure the pictures layout OK in the book.&lt;/P>
+&lt;P>I told you all of that so you could know that I envy folks that don't have to do screenshots! It's hard to make it look right, although, for visual technologies, I really can't imagine not having them. Anyway, I was definately open to another screen capturing technology and that's when someone turned me on to &lt;A href="http://weblogs.asp.net/kennykerr/archive/2007/01/28/window-clippings-1-5.aspx">Windows Clippings&lt;/A>.&lt;/P>
+&lt;P>When I found Kenny Kerr's most excellent screen capture tool, it was so close to what I wanted (it did Vista shadows with no guesswork!), that I sent Kenny an email with my feature request (easy child+parent capturing support), fully expecting not to hear back (it's clear from &lt;A href="http://weblogs.asp.net/kennykerr/">his web site&lt;/A> that he's a busy guy!). Not only did he reply, but he'd implemented my feature!&lt;/P>
+&lt;P>And it was such a time-saver, that I forwarded it along to Ian, who had his own feature request (keeping the transparency in the captured image w/o grabbing the stuff underneath), which Kenny promptly implemented (with some example code from Ian). Of course, that broke my feature (the constant animation of WPF apps + capturing transparency caused problems), so Kenny fixed that, too. By this point, Kenny's app itself was notifying me of updates faster than he could send the emails.&lt;/P>
+&lt;P>All of this is merely to say, I'm really loving my &lt;A href="http://weblogs.asp.net/kennykerr/archive/2007/01/28/window-clippings-1-5.aspx">Windows Clippings&lt;/A> experience. Thanks, Kenny!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2072</id>
+    <title>API Usability</title>
+    <updated>2007-01-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2007-01-26T08:00:00.000Z</published>
+    <summary>Don has a piece up about something that I've always called "API Usability." The idea when building libraries is to write client code first against some pretend API that you wish existed and then to implement that API. Another good name for this approach would be "RAD API Design," simply because it's the same way I prefer to design UI -- layout the UI the way you'd like it to look and then implement it that way. Of course, I have to admit to preferring Don's name for this style of programming (I like what he...</summary>
+    <content type="html">&lt;h1>API Usability&lt;/h1>
+&lt;P>Don has &lt;A href="http://pluralsight.com/blogs/dbox/archive/2007/01/24/45864.aspx">a piece up about something that I've always called "API Usability."&lt;/A> The idea when building libraries is to write client code first against some pretend API that you wish existed and then to implement that API. Another good name for this approach would be "RAD API Design," simply because it's the same way I prefer to design UI -- layout the UI the way you'd like it to look and then implement it that way. Of course, I have to admit to preferring &lt;A href="http://pluralsight.com/blogs/dbox/archive/2007/01/24/45864.aspx">Don's name for this style of programming&lt;/A> (I like &lt;A href="http://pluralsight.com/blogs/dbox/archive/2006/06/16/28108.aspx">what he calls my conferences&lt;/A>, too : ).&lt;/P>
+&lt;P>BTW, the comments to Don's piece mention to startling similarity between this approach and Test-Driven Development (TDD). I'm a huge fan of TDD (&lt;A href="http://www.nunit.com/index.html">NUnit&lt;/A> is a wonderful tool I use all day every day). I'd say that TDD is a generalization of my little "API usability" technique in that you can use it for all kinds of things, e.g. code coverage, perf testing, stress testing, etc, including API usability.&lt;/P>
+&lt;P>P.S. If we fix the atmosphere, clean up the water, stop polluting the soil and learn to live in harmony with our environment, what's to motivate us to move off this rock before we lose our aggressive drive and then, when we're sipping Mai Thais, the sun explodes? Consuming this planet until nothing's left but an empty husk and we're forced, like locusts to move on to the next one, may well be the only thing that keeps our species alive (assuming we survive the coming ice age, of course).&lt;/P></content>
+  </entry>
+</feed>

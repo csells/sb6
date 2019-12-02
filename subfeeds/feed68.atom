@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed68.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed67.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed69.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed68.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1455</id>
+    <title>Don Norman Consulting on Longhorn?</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>Here. According to Computerworld, Don Norman, the design engineer famous for such works as "The Design of Everyday Things," is consulting on Longhorn UI design. Cool! I especially love this statement: "This is not the 'computer age' any more; this is the age of very smart chips hooked into a huge worldwide network. Infrastructure is about sharing." This means two or more incompatible ways of doing things is counterproductive. I love his characterization of client computers as "smart chips," i.e. storing ser...</summary>
+    <content type="html">&lt;h1>Don Norman Consulting on Longhorn?&lt;/h1>
+&lt;a href="http://computerworld.co.nz/news.nsf/0/FDB969B32D802DB3CC256ED80019912B?OpenDocument&amp;pub=Computerworld">Here&lt;/a>. &lt;P>According to Computerworld, Don Norman, the design engineer famous for such works as "The Design of Everyday Things," is consulting on Longhorn UI design. Cool! I especially love this statement:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"This is not the 'computer age' any more; this is the age of very smart chips hooked into a huge worldwide network. Infrastructure is about sharing." This means two or more incompatible ways of doing things is counterproductive.&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>I love his characterization of client computers as "smart chips," i.e. storing services and data production on the server, although the "smarts" of the client is important, too, i.e. data visualization and manipulation (which is death with a round-trip per click).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1451</id>
+    <title>A Kinder, Gentler Driver Model for Longhorn</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>According to legend, half the Windows XP BSODs are 3rd party driver crashes, reducing our "trustworthiness" to the user (trust is more than security and privacy). Yesterday, DevSource reported on a new driver model in Longhorn that will isolate the OS from driver crashes and simplify the development platform to reduce crashes in the first place. Amen, brother. [ via Dactylmatrix ] </summary>
+    <content type="html">&lt;h1>A Kinder, Gentler Driver Model for Longhorn&lt;/h1>
+&lt;P>According to legend, half the Windows XP BSODs are 3rd party driver crashes, reducing our "trustworthiness" to the user (trust is more than security and privacy). Yesterday, &lt;A href="http://www.devsource.ziffdavis.com/article2/0,1759,1624782,00.asp">DevSource reported on a new driver model in Longhorn&lt;/A> that will isolate the OS from driver crashes and simplify the development platform to reduce crashes in the first place. Amen, brother.&lt;/P>
+&lt;P>[&lt;A href="http://ryangregg.com/archive/2004/07/19/981.aspx">via Dactylmatrix&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1452</id>
+    <title>Jon Udell Takes The Long View on Longhorn</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>After weeks of trying research, floating his thoughts on his blog and taking feedback from the blogging community (including several Microsoft folks), Jon Udell has posted an Infoworld article digging into the pillars of Longhorn (Avalon, Indigo and WinFS) and grading them on their implications. He summarizes nicely, I think: "Indigo, by virtue of its developer-friendly simplification of Web services protocols, could propel Microsoft into the forefront of enterprise middleware. Although Longhorn's use of In...</summary>
+    <content type="html">&lt;h1>Jon Udell Takes The Long View on Longhorn&lt;/h1>
+&lt;P>After weeks of trying research, floating his thoughts on his blog and taking feedback from the blogging community (including several Microsoft folks), Jon Udell has posted &lt;A href="http://www.infoworld.com/infoworld/article/04/07/16/29FElonghorn_1.html">an Infoworld article digging into the pillars of Longhorn (Avalon, Indigo and WinFS) and grading them on their implications&lt;/A>. He summarizes nicely, I think:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>"Indigo, by virtue of its developer-friendly simplification of Web services protocols, could propel Microsoft into the forefront of enterprise middleware. Although Longhorn's use of Indigo will focus on networks of Windows peers, the technology isn't bound to Longhorn. Expect to see Indigo-powered 'enterprise service bus' offerings from Microsoft and partners."&lt;/P>
+&lt;P>"If WinFS succeeds in delivering improvements in users' ability to organize and manage local information, enterprises looking to drive productivity up -- and support costs down -- will want it. The wild card will be the level of support for legacy document formats and emerging XML formats. Benefits that accrue only to new WinFS-aware applications won't tip the scale."&lt;/P>
+&lt;P>"Avalon's TV-like 'presentation experiences' clearly favor the home entertainment center over the business desktop. An accelerated convergence of voice, video, and data could alter that equation, and Avalon is designed to help drive that convergence. But enterprises concerned about reach and lock-in will need to carefully evaluate the trade-offs."&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I think that Jon's nails the tensions involved in Indigo and WinFS, but misses the boat on Avalon, which represents a much-needed overhaul of our aging presentation sub-system and enables a host of applications that we need to visualize and manipulate the ever increasing amount of data with which we deal. Of course, the existing presentation stack will continue to work just fine, but for those applications that need it, Avalon will be a god send. As we progress over the next decade, more and more apps are going to need what Avalon provides.&lt;/P>
+&lt;P>However, while I don't agree with every that Jon says, but I do appreciate the thoroughness that went into his opinions. Folks involved in Longhorn, both inside and outside of Microsoft, should take a look.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1456</id>
+    <title>My Favorite Smart Client App: Robocopy</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>There's a smart client app that I've found myself using more and more and loving it: robocopy. The UI for robocopy sucks, of course. It's a command line app with a myriad of options that take experimentation to really figure out, but once it's started, it works like a champ, providing progress on each file and, most importantly, retrying once it loses it's network connection. What this allows me to do is set up long copy operations bringing down the latest internal Longhorn builds (which are huge) over my u...</summary>
+    <content type="html">&lt;h1>My Favorite Smart Client App: Robocopy&lt;/h1>
+&lt;P>There's a smart client app that I've found myself using more and more and loving it: robocopy. The UI for robocopy sucks, of course. It's a command line app with a myriad of options that take experimentation to really figure out, but once it's started, it works like a champ, providing progress on each file and, most importantly, retrying once it loses it's network connection.&lt;/P>
+&lt;P>What this allows me to do is set up long copy operations bringing down the latest internal Longhorn builds (which are huge) over my uncertain VPN connection. When I hibernate my box, I don't worry about Robocopy dropping bits or getting confused and when I lose my internet or VPN connection, it retires 1 *million* times before giving up, which gives me plenty of time to notice and reestablish the connection.&lt;/P>
+&lt;P>Slap a friendlier UI on Robocopy and you've got a wonderful smart client citizen that should be emulated.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1449</id>
+    <title>This is *so* the wrong direction...</title>
+    <updated>2004-07-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-07-21T07:00:00.000Z</published>
+    <summary>I don't want to turn bits into atoms in 3-5 minutes to hold a book in my hand, I want all my books, papers and mags in electronic format on a pleasant hardware platform! I'm planning on getting myself a tablet PC soon to test as a candidate (pocket/palm PCs sucked for this use the last I tried). Plus, where does the book data come from for all of these print-on-demand books and why can't I download it?</summary>
+    <content type="html">&lt;h1>This is *so* the wrong direction...&lt;/h1>
+I don't want to &lt;A href="http://slashdot.org/article.pl?sid=04/07/20/2226225">turn bits into atoms in 3-5 minutes to hold a book in my hand&lt;/A>, I want all my books, papers and mags in electronic format on a pleasant hardware platform! I'm planning on getting myself a tablet PC soon to test as a candidate (pocket/palm PCs sucked for this use the last I tried). Plus, where does the book data come from for all of these print-on-demand books and why can't I download it?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12384</id>
+    <title>Questions for 
+Testers</title>
+    <updated>2004-07-20T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-07-20T07:00:00.000Z</published>
+    <summary>A friend of mine sent along some questions he was asked for a SDE/T position at Microsoft (Software Design Engineer in Test): &amp;quot;How would you deal with changes being made a week or so before the ship date? &amp;quot;How would you deal with a bug that no one wants to fix? Both the SDE and his lead have said they won't fix it. &amp;quot;Write a function that counts the number of primes in the range [1-N]. Write the test cases for this function. &amp;quot;Given a MAKEFILE (yeah a makefile), design the data structure t...</summary>
+    <content type="html">&lt;h1>Questions for 
+Testers&lt;/h1>
+
+&lt;p>A friend of mine sent along some questions he was asked for a SDE/T position 
+at Microsoft (Software Design Engineer in Test):&lt;/p>
+&lt;blockquote>
+	&lt;ol>
+		&lt;li>&amp;quot;How would you deal with changes being made a week or so before the 
+		ship date?&lt;/li>
+		&lt;li>&amp;quot;How would you deal with a bug that no one wants to fix? Both the 
+		SDE and his lead have said they won't fix it.&lt;/li>
+		&lt;li>&amp;quot;Write a function that counts the number of primes in the range 
+		[1-N]. Write the test cases for this function.&lt;/li>
+		&lt;li>&amp;quot;Given a MAKEFILE (yeah a makefile), design the data structure that 
+		a parser would create and then write code that iterates over that data 
+		structure executing commands if needed.&lt;/li>
+		&lt;li>&amp;quot;Write a function that inserts an integer into a linked list in 
+		ascending order. Write the test cases for this function.&lt;/li>
+		&lt;li>&amp;quot;Test the save dialog in Notepad. (This was the question I enjoyed 
+		the most).&lt;/li>
+		&lt;li>&amp;quot;Write the InStr function. Write the test cases for this function.&lt;/li>
+		&lt;li>&amp;quot;Write a function that will return the number of days in a month (no 
+		using System.DateTime).&lt;/li>
+		&lt;li>&amp;quot;You have 3 jars. Each jar has a label on it: white, black, or 
+		white&amp;amp;black. You have 3 sets of marbles: white, black, and white&amp;amp;black. 
+		One set is stored in one jar. The labels on the jars are guaranteed to 
+		be incorrect (i.e. white will not contain white). Which jar would you 
+		choose from to give you the best chances of identifying the which set of 
+		marbles in is in which jar.&lt;/li>
+		&lt;li>&amp;quot;Why do you want to work for Microsoft.&lt;/li>
+		&lt;li>&amp;quot;Write the test cases for a vending machine.&lt;br>
+		&lt;br>
+		&amp;quot;Those were the questions I was asked. I had a lot of discussions about 
+		how to handle situations. Such as a tester is focused on one part of an 
+		SDK. During triage it was determined that that portion of the SDK was 
+		not on the critical path, and the tester was needed elsewhere. But the 
+		tester continued to test that portion because it is his baby. How would 
+		you get him to stop testing that portion and work on what needs to be 
+		worked on?&lt;br>
+		&lt;br>
+		&amp;quot;Other situations came up like arranging tests into the different 
+		testing buckets (functional, stress, perf, etc.).&amp;quot;&lt;/li>
+	&lt;/ol>
+&lt;/blockquote></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1448</id>
+    <title>Microsoft Interview Questions for Testers</title>
+    <updated>2004-07-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-20T07:00:00.000Z</published>
+    <summary>A friend of mine sent along a whole set of questions he was asked for an SDE/T (Software Design Engineer in Test) position at Microsoft. I love the one where you implement MAKE.</summary>
+    <content type="html">&lt;h1>Microsoft Interview Questions for Testers&lt;/h1>
+A friend of mine sent along &lt;A href="/12384">a whole set of questions he was asked for an SDE/T (Software Design Engineer in Test) position at Microsoft&lt;/A>. I love the one where you implement MAKE.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1446</id>
+    <title>Tim Sneath On The Audiences And Tensions O MSBuild</title>
+    <updated>2004-07-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-19T07:00:00.000Z</published>
+    <summary>Tim Sneath, a.NET Architect in MS-UK, lays out the audiences and tensions of MSBuild very nicely in this short summary. If you want more information, there are a bunch of MSBuild resources on the Longhorn Developer Center's Tools &amp;amp; Code Samples page.</summary>
+    <content type="html">&lt;h1>Tim Sneath On The Audiences And Tensions O MSBuild&lt;/h1>
+Tim Sneath, a .NET Architect in MS-UK, lays out the audiences and tensions of MSBuild very nicely in &lt;A href="http://blogs.msdn.com/tims/archive/2004/07/19/186946.aspx">this short summary&lt;/A>. If you want more information, &lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/">there are a bunch of MSBuild resources on the Longhorn Developer Center's Tools &amp;amp; Code Samples&lt;/A> page.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1447</id>
+    <title>Avalon 3D Coordinate System</title>
+    <updated>2004-07-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-19T07:00:00.000Z</published>
+    <summary>Daniel Lehenbauer, an SDE on the Avalon team, has a nice explanation of the 3D coordinate space in Avalon with some very illustrative pictures. I've got absolutely no experience with 3D and I can follow what he's talking about. Looks like Daniel should be writing a book... </summary>
+    <content type="html">&lt;h1>Avalon 3D Coordinate System&lt;/h1>
+&lt;P>Daniel Lehenbauer, an SDE on the Avalon team, has &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/07/19/188075.aspx">a nice explanation of the 3D coordinate space in Avalon with some very illustrative pictures&lt;/A>. I've got absolutely no experience with 3D and I can follow what he's talking about. Looks like Daniel should be writing a book...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1445</id>
+    <title>Channel9 Tours MSR H/W and Social S/W Labs</title>
+    <updated>2004-07-19T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-07-19T07:00:00.000Z</published>
+    <summary>I got a sneak preview of this last week and absolutely loved the Channel9 tour of the Microsoft Research hardware and social software labs. The bit with the inventor of the laser printer, who works for MS now, is especially fun. Enjoy.</summary>
+    <content type="html">&lt;h1>Channel9 Tours MSR H/W and Social S/W Labs&lt;/h1>
+I got a sneak preview of this last week and absolutely loved &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=14037">the Channel9 tour of the Microsoft Research hardware and social software labs&lt;/A>. The bit with the inventor of the laser printer, who works for MS now, is especially fun. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1444</id>
+    <title>Refactoring C# Code Using Visual Studio 2005</title>
+    <updated>2004-07-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-07-13T07:00:00.000Z</published>
+    <summary>Cool piece by Andrew Troelsen on the new refactoring features in Visual Studio 2005 for C#. Now I just have to train myself to think to use the refactoring operations instead of letting my fingers do it as they've been forced to for lo these many years...</summary>
+    <content type="html">&lt;h1>Refactoring C# Code Using Visual Studio 2005&lt;/h1>
+Cool piece by Andrew Troelsen on &lt;A href="http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/VS05_refac.asp">the new refactoring features in Visual Studio 2005 for C#&lt;/A>. Now I just have to train myself to think to use the refactoring operations instead of letting my fingers do it as they've been forced to for lo these many years...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1442</id>
+    <title>Needed: Virtual PC Image of Longhorn 4074</title>
+    <updated>2004-07-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-12T07:00:00.000Z</published>
+    <summary>Does anyone have a VPC image of Longhorn 4074 (the WinHEC Build) that they could share with me? Every time I try to install, it crashes the VPC. Normally, I wouldn't ask (I have a machine just for Longhorn), but I have the need to run the latest public and the latest internal builds. Thanks!</summary>
+    <content type="html">&lt;h1>Needed: Virtual PC Image of Longhorn 4074&lt;/h1>
+Does anyone have a VPC image of Longhorn 4074 (the WinHEC Build) that they could share with me? Every time I try to install, it crashes the VPC. Normally, I wouldn't ask (I have a machine just for Longhorn), but I have the need to run the latest public and the latest internal builds. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1443</id>
+    <title>General Windows Developer Numbers</title>
+    <updated>2004-07-12T07:00:00.000Z</updated>
+    <published>2004-07-12T07:00:00.000Z</published>
+    <summary>JohnMont (who oughta know) provided these numbers today as "quotable and public" so I thought I would: There are ~6M professional developers worldwide, about 90% of whom target Windows There are about 2.5M.NET developers &amp;gt;60 of the Fortune 100 develop using.NET Forrester says that 56% of enterprises in North America are choosing.NET for their development requirements vs. 44% choosing J2EE According the legend (JohnMont didn't comment on this part), 4-5M of those 6M developers targeting Windows are Visual...</summary>
+    <content type="html">&lt;h1>General Windows Developer Numbers&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/johnmont/">JohnMont&lt;/A> (who oughta know) provided these numbers today as "quotable and public" so I thought I would:&lt;/P>
+&lt;UL>
+&lt;LI>There are ~6M professional developers worldwide, about 90% of whom target Windows&lt;/LI>
+&lt;LI>There are about 2.5M .NET developers&lt;/LI>
+&lt;LI>&amp;gt;60 of the Fortune 100 develop using .NET&lt;/LI>
+&lt;LI>Forrester says that 56% of enterprises in North America are choosing .NET for their development requirements vs. 44% choosing J2EE&lt;/LI>&lt;/UL>
+&lt;P>According the legend (JohnMont didn't comment on this part), 4-5M of those 6M developers targeting Windows are Visual Basic developers, which means that if they ever get tired of being made fun of by the C family of developers, we're going to be trapped in phone booths while they descend on us like the birds in &lt;A href="http://www.imdb.com/title/tt0056869/">an Alfred Hitchcock movie&lt;/A>...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1441</id>
+    <title>Looking for Genghis Co-Khan</title>
+    <updated>2004-07-11T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-07-11T07:00:00.000Z</published>
+    <summary>Right now, I'm holding the shared source Genghis library back. I'm acting as sole arbiter of what makes it into Genghis and how and I'm not able to keep up with the flow. I'm looking for someone who's interested in sharing this duty with me. Only proven contributors to the Windows development community need apply.</summary>
+    <content type="html">&lt;h1>Looking for Genghis Co-Khan&lt;/h1>
+Right now, I'm holding &lt;A href="http://www.genghisgroup.com">the shared source Genghis library&lt;/A> back. I'm acting as sole arbiter of what makes it into Genghis and how and I'm not able to keep up with the flow. I'm looking for someone who's interested in sharing this duty with me. Only proven contributors to the Windows development community need apply.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1439</id>
+    <title>I want Facetop for Longhorn</title>
+    <updated>2004-07-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-07-10T07:00:00.000Z</published>
+    <summary>Facetop has been all over the web for a couple of days and I'd like to point out two things about it: This is exactly the kind of thing we're enabling with the advanced client capabilities in Longhorn that you just couldn't do in a web app. Until you see something like this, you don't think of it, but when you've got advanced capability in the platform, all kinds of cool stuff happens that the creator of the platform (Apple's Mac OS X, in this case) never considered. I fully expect the coolest Longhorn apps...</summary>
+    <content type="html">&lt;h1>I want Facetop for Longhorn&lt;/h1>
+&lt;P>&lt;A href="http://rockfish-cs.cs.unc.edu/pubs/TR04-008.pdf">Facetop&lt;/A> has been all over the web for a couple of days and I'd like to point out two things about it:&lt;/P>
+&lt;OL>
+&lt;LI>This is exactly the kind of thing we're enabling with the advanced client capabilities in Longhorn that you just couldn't do in a web app. Until you see something like this, you don't think of it, but when you've got advanced capability in the platform, all kinds of cool stuff happens that the creator of the platform (Apple's Mac OS X, in this case) never considered. I fully expect the coolest Longhorn apps to come from someone outside of Microsoft.&lt;/LI>
+&lt;LI>I want it!&lt;/LI>&lt;/OL></content>
+  </entry>
+</feed>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed79.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed78.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed80.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed79.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1302</id>
+    <title>A Boy's AdminLife</title>
+    <updated>2004-04-27T07:00:00.000Z</updated>
+    <published>2004-04-27T07:00:00.000Z</published>
+    <summary>Here. A great number of my google searches end up on www.dotnet247.com, which is a web site that gathers discussions for.NET developers. Matt Reynolds, the proprietor of dotnet247.com has also brought us www.winfx247.com &amp;nbsp;(which I'm sure will be very useful to lots of folks in the not too distant future) and, just recently, www.adminlife.com, which is the dotnet247.com for IT pros/administrators. Myself, I'm looking forward to the day when my 9-year old can administer my network, but for him, I'm sure ...</summary>
+    <content type="html">&lt;h1>A Boy's AdminLife&lt;/h1>
+&lt;a href="http://www.adminlife.com/247reference/default.aspx">Here&lt;/a>. A great number of my google searches end up on &lt;A href="http://www.dotnet247.com">www.dotnet247.com&lt;/A>, which is a web site that gathers discussions for .NET developers. Matt Reynolds, the proprietor of dotnet247.com has also brought us &lt;A href="http://www.winfx247.com">www.winfx247.com&lt;/A>&amp;nbsp;(which I'm sure will be very useful to lots of folks in the not too distant future) and, just recently, &lt;A href="http://www.adminlife.com">www.adminlife.com&lt;/A>, which is the dotnet247.com for IT pros/administrators. Myself, I'm looking forward to the day when my 9-year old can administer my network, but for him, I'm sure &lt;A href="http://www.adminlife.com">www.adminlife.com&lt;/A> will be a great site. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1303</id>
+    <title>Edward Tufte + Avalon</title>
+    <updated>2004-04-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-27T07:00:00.000Z</published>
+    <summary>It's my belief that the big deal with Avalon is that it gives us much more powerful tools to deal with data visualization and manipulation. Towards that end, Ward turned me onto Edward Tufte at lunch today and I've got "Envisioning Information" on it's way to my house as we speak.</summary>
+    <content type="html">&lt;h1>Edward Tufte + Avalon&lt;/h1>
+It's my belief that the big deal with Avalon is that it gives us much more powerful tools to deal with data visualization and manipulation. Towards that end, &lt;A href="http://c2.com/cgi/wiki?WardCunningham">Ward&lt;/A> turned me onto &lt;A href="http://www.edwardtufte.com/tufte/">Edward Tufte&lt;/A> at lunch today and I've got &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0961392118/chrissells">"Envisioning Information"&lt;/A> on it's way to my house as we speak.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1300</id>
+    <title>Chris Sells on Organized Chaos</title>
+    <updated>2004-04-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-26T07:00:00.000Z</published>
+    <summary>The one where I express my surprise that we ever manage to ship anything at all, let alone the best stuff there is. </summary>
+    <content type="html">&lt;h1>Chris Sells on Organized Chaos&lt;/h1>
+&lt;P>The one where I express &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=5230">my surprise that we ever manage to ship anything at all&lt;/A>, let alone the best stuff there is.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1301</id>
+    <title>Marc Clifton is a Prolific SOB</title>
+    <updated>2004-04-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-04-26T07:00:00.000Z</published>
+    <summary>I first heard about Marc Clifton on his work with MyXaml, a&amp;nbsp;declarative UI language that shares a name and some principles with the XAML declarative language in Longhorn, but that works on.NET now. Until today, I had missed his earlier work on this subject: The Application Automation Layer: Introduction And Design, along with the rest of his 51 articles on CodeProject.com (wow). I've never met Marc, but I'd sure like to. He seems like an interesting guy, both because of his work and because of this sta...</summary>
+    <content type="html">&lt;h1>Marc Clifton is a Prolific SOB&lt;/h1>
+&lt;P>I first heard about Marc Clifton on his work with &lt;A href="http://www.myxaml.com/">MyXaml&lt;/A>, a&amp;nbsp;declarative UI language that shares a name and some principles with the XAML declarative language in Longhorn, but that works on .NET now. Until today, I had missed his earlier work on this subject: &lt;A href="http://www.codeproject.com/csharp/aal-1.asp">The Application Automation Layer: Introduction And Design&lt;/A>, along with the rest of &lt;A href="http://www.codeproject.com/script/Articles/list_articles.asp?userid=36803">his 51 articles on CodeProject.com&lt;/A> (wow).&lt;/P>
+&lt;P>I've never met Marc, but I'd sure like to. He seems like an interesting guy, both because of his work and because of this statement in his CodeProject bio: "Having no formal education in software development, he feels exceptionally qualified to inflict his opinions on the community at large regarding how programming should be done." Now &lt;EM>that's&lt;/EM> the kind of attitude I like!&lt;/P>
+&lt;P>Marc, if you're going to be in the Pacific Northwest anytime soon, &lt;A href="mailto:csells@microsoft.com">look me up&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1299</id>
+    <title>Logging Indigo Messages</title>
+    <updated>2004-04-26T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-26T07:00:00.000Z</published>
+    <summary>Roman Kiss has built a little Indigo logging tool that uses Indigo's ability to drop arbitrary code into the message pipline. Very handy for seeing what's really going on at the message level w/o changing any of your code. Personally, I'd like to see an Avalon version (or even a Windows Forms version) just 'cuz I think it'd be prettier. : )</summary>
+    <content type="html">&lt;h1>Logging Indigo Messages&lt;/h1>
+Roman Kiss has built &lt;A href="http://www.codeproject.com/useritems/ConsoleIndigoLogging.asp">a little Indigo logging tool&lt;/A> that uses Indigo's ability to drop arbitrary code into the message pipline. Very handy for seeing what's really going on at the message level w/o changing any of your code. Personally, I'd like to see an Avalon version (or even a Windows Forms version) just 'cuz I think it'd be prettier. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1298</id>
+    <title>A Windows Forms 2.0 Voice in the Wilderness</title>
+    <updated>2004-04-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-25T07:00:00.000Z</published>
+    <summary>ASP.NET 2.0 gets a ton of deserved press, but the combination of the doubling in functionality of Windows Forms in.NET 2.0 and the new and improved No-Touch Deployment, now called ClickOnce, make smart clients an enormously compelling alternative to web apps when you know that the client is running Windows and.NET. Michael Weinhardt, who took over my Wonders of Windows Forms column and is the co-author on the 2nd edition of my Windows Forms book, has dedicated himself to shouting the value of Windows Forms ...</summary>
+    <content type="html">&lt;h1>A Windows Forms 2.0 Voice in the Wilderness&lt;/h1>
+&lt;P>ASP.NET 2.0 gets a ton of deserved press, but the combination of the doubling in functionality of Windows Forms in .NET 2.0 and the new and improved No-Touch Deployment, now called ClickOnce, make smart clients an enormously compelling alternative to web apps when you know that the client is running Windows and .NET.&lt;/P>
+&lt;P>Michael Weinhardt, who took over my &lt;A href="http://msdn.microsoft.com/columns/winforms.asp">Wonders of Windows Forms column&lt;/A> and is the co-author on the 2nd edition of &lt;A HREF="/public/writing/wfbook">my Windows Forms book&lt;/A>, has dedicated himself to &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000005.html">shouting the value of Windows Forms 2.0 from the rooftops&lt;/A>. &lt;A href="http://www.mikedub.net/windowsformsredux/index.xml">Subscribed&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1297</id>
+    <title>Post/Reply Alphabet Soup</title>
+    <updated>2004-04-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-25T07:00:00.000Z</published>
+    <summary>The one where the arbitrary differences between newsgroups, mailing lists, web forums and blogs w/ comments drive me to madness.</summary>
+    <content type="html">&lt;h1>Post/Reply Alphabet Soup&lt;/h1>
+The one where &lt;A href="/12648">the arbitrary differences between newsgroups, mailing lists, web forums and blogs w/ comments drive me to madness&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1296</id>
+    <title>Freeing My Mind</title>
+    <updated>2004-04-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-24T07:00:00.000Z</published>
+    <summary>Here. The one with my private meditation lesson.</summary>
+    <content type="html">&lt;h1>Freeing My Mind&lt;/h1>
+&lt;a href="/12497">Here&lt;/a>. The one with &lt;a href="/12497">my private meditation lesson&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1295</id>
+    <title>WinFS is a Domain Ontology with Style</title>
+    <updated>2004-04-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-24T07:00:00.000Z</published>
+    <summary>Michael Herman caught onto WinFS's real nature last year and I'm just now catching up. He points to a paper describing ontologies and points out this about WinFS: "WinFS is a knowledge repesentation, storage and synch system...a literal implementation of a system strongly based on ontology related concepts." For the basics of ontologies for our new world-to-be, Michael recommends Ontology Development 101: A Guide to Creating Your First Ontology.</summary>
+    <content type="html">&lt;h1>WinFS is a Domain Ontology with Style&lt;/h1>
+&lt;A href="http://dotnetjunkies.com/WebLog/mwherman2000/archive/2003/11/11/3435.aspx">Michael Herman caught onto WinFS's real nature&lt;/A> last year and I'm just now catching up. He points to a paper describing ontologies and points out this about WinFS: "WinFS is a knowledge repesentation, storage and synch system ...a literal implementation of a system strongly based on ontology related concepts." For the basics of ontologies for our new world-to-be, Michael recommends &lt;A href="http://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Ontology Development 101: A Guide to Creating Your First Ontology&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12497</id>
+    <title>Freeing My Mind</title>
+    <updated>2004-04-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-24T07:00:00.000Z</published>
+    <summary>Saturday, April 24, 2004 I'm a sucker for new experiences. It's not that I believe that &amp;quot;you only go around once,&amp;quot; because I don't believe that. I believe that our job on this plane of existence is to raise our level of consciousness to the next level and that our souls are recycled from life to life on this plane 'til we're ready for the next. So, I figure that anything I don't get to do in this life, I can do in the next. And yet, I'm still a sucker for new experiences. In any given 10 years, mo...</summary>
+    <content type="html">&lt;h1>Freeing My Mind&lt;/h1>
+&lt;p align="left">&lt;i>&lt;span class="created">Saturday, April 24, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+I'm a sucker for new experiences. It's not that I believe that &amp;quot;you only go 
+around once,&amp;quot; because I don't believe that. I believe that our job on this plane 
+of existence is to raise our level of consciousness to the next level and that 
+our souls are recycled from life to life on this plane 'til we're ready for the 
+next. So, I figure that anything I don't get to do in this life, I can do in the 
+next.&lt;/p>&lt;p align="left">And yet, I'm still a sucker for new experiences. In any 
+given 10 years, most folks get 1 year of experience 10 times, but I think I've 
+done pretty well at squeezing quite a bit out of my last 10 years. And I hope to 
+continue to do that. For example, this year my wife and I will be attending &lt;a href="http://www.burningman.com/">
+Burning Man&lt;/a>. We'd never been, but a couple of my friends from MSDN are 
+helping us find our footing at what promises to be a very unique experience 
+indeed.&lt;/p>&lt;p align="left">MSDN is, in fact, a haven for unique folks willing 
+and able to help me try new things. As another example, last week I had a 
+private meditation lesson from Henry Borys, MSDN editor, &lt;a href="http://www.amazon.com/exec/obidos/search-handle-url/index=books&amp;field-author=Borys,%20Henry%20James/102-2845167-5494548">
+book author&lt;/a> and &lt;a href="http://www.ajayan.com/">meditation 
+teacher&lt;/a> for the last 30 years (he's been teaching meditation since I was 
+4!). He runs weekend seminars and even a yearly trek to the Himalayas and while 
+both sound attractive, my Redmond travel schedule almost never brings me there 
+over a weekend (let alone to the Himalayas : ), so he invited me up to his place 
+for a private lesson. It was beautiful. It was 30 minutes north of the hustle 
+and bustle of the MS campus and right on the shores of the Puget Sound. We sat 
+on his back porch, watching the sun set over the water and talking about his 
+experiences in meditation (mostly in variations of &lt;a href="http://www.tm.org/">
+transcendental meditation&lt;/a> [TM in meditation speak]) and my experiences 
+applying what I'd picked up on my own reading &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0764551167/qid=1082826461/chrissells">
+Meditation for Dummies&lt;/a> (I have come to &lt;i>love&lt;/i> the Dummies books).&lt;/p>&lt;p align="left">
+We spent almost two hours meditation and discussing meditation. Here's what I 
+learned:&lt;/p>&lt;ol>&lt;li>&lt;p align="left">Meditation should be effortless. If you're 
+	working at it, you're not getting it.&lt;/p>&lt;/li>&lt;li>&lt;p align="left">Don't 
+	fight the thoughts to &amp;quot;clear your mind.&amp;quot; That's a sure way to keep them 
+	bubbling in your head. Instead, think of thoughts as the by-product of the 
+	purification of the mind that happens when you meditate and let them happen 
+	w/o paying them any attention.&lt;/p>&lt;/li>&lt;li>&lt;p align="left">When you find 
+	yourself dwelling on your thoughts, go back to your mental mantra. Henry, as 
+	is traditional in the meditation teacher-student relationship, assigned me a 
+	mantra. Mine is a general-purpose and commonly shared amongst TM 
+	parishioners, but is still darn exotic to me, being in Sanskrit. The mere 
+	sound of it helps me and, since I don't really know what it means (although 
+	I'm hoping it's not &amp;quot;send Henry money&amp;quot; in some subliminal form : ), it 
+	doesn't distract me from the meditation (unlike my previous, self-chosen 
+	mantra &amp;quot;free your mind,&amp;quot; which, while very meaningful to me, did tend to 
+	hinder). &lt;/p>&lt;/li>&lt;li>&lt;p align="left">You're not meditating for the act of 
+	meditation itself, but the benefits it adds to your life when you're not 
+	meditating. While I've grown to like the act itself, I have also been 
+	enjoying a more peaceful, less stressed perception of life since I started 
+	(although it's still too early to tell if this is merely the placebo 
+	effect).&lt;/p>&lt;/li>&lt;li>&lt;p align="left">Don't judge your meditation. Let it 
+	happen how it happens.&lt;/p>&lt;/li>&lt;li>&lt;p align="left">Your meditation may 
+	uncover some deep-seated sleep that's necessary for your body to experience, 
+	so if you feel yourself falling asleep while you meditate, that's OK.&lt;/p>&lt;/li>&lt;li>&lt;p align="left">
+	Take 3+ minutes to come out of your meditation to &amp;quot;avoid the bends.&amp;quot; 
+	Otherwise, you could easily come out of it too quickly, giving yourself 
+	headaches and/or making yourself irritable. I find that 60 seconds is enough 
+	for me, but I'm sure I don't get anywhere near as deep as an expert, so I 
+	always take this process as slowly as I can.&lt;/p>&lt;/li>&lt;/ol>&lt;p align="left">
+And one of the most fun techniques that Henry introduced was to realize that 
+thoughts are merely interactions with your consciousness. This realization can 
+make your thoughts abstract, which can actually push you deeper into the 
+meditation itself. In other words, when you think of thoughts this way, the more 
+you have of them, the better, which was non-intuitive to my previous 
+understanding of meditation. Hearing this was a very &amp;quot;there is no spoon&amp;quot; kind of 
+moment to me.&lt;/p>&lt;p align="left">I was actually looking for some kind of 
+introduction to meditation for months before I learned that Henry was a teacher, 
+even though I've known him for more than a year, showing that once again, when 
+the student is ready, the teacher will appear. I look at this experience as help 
+along the way to a higher plane of existence, which I believe is defined within. 
+And while I'm not a practitioner of any religion (I'm ex-Catholic), I do see 
+this as a spiritual pursuit, blending the beliefs I've picked up with my brief 
+brushes with Gnosticism and Buddhism and as popularized in The Matrix (although 
+lost again in those &lt;i>stupid&lt;/i> sequels). Free your mind, indeed.&lt;/p>&lt;p align="left">&lt;a href="/1296">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1294</id>
+    <title>Security in Longhorn: Focus on Least Privilege</title>
+    <updated>2004-04-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-23T07:00:00.000Z</published>
+    <summary>Keith "Mr. Security" Brown kicks off a series of security articles on Longhorn. In this piece, Keith digs into the current plans for making Longhorn a much safer place for applications, only really giving administrator privileges to applications with a special need for them, regardless of the privileges of the user running the applications. This is a core piece of taking back our computers from the world's hackers and Keith lays out the basics nicely.</summary>
+    <content type="html">&lt;h1>Security in Longhorn: Focus on Least Privilege&lt;/h1>
+&lt;A href="http://www.develop.com/kbrown/">Keith "Mr. Security" Brown&lt;/A> kicks off a series of security articles on Longhorn. &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/leastprivlh.asp">In this piece&lt;/A>, Keith digs into the current plans for making Longhorn a much safer place for applications, only really giving administrator privileges to applications with a special need for them, regardless of the privileges of the user running the applications. This is a core piece of taking back our computers from the world's hackers and Keith lays out the basics nicely.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1292</id>
+    <title>.NET Evangelists on .NET Rocks Today @ 9am PST</title>
+    <updated>2004-04-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-23T07:00:00.000Z</published>
+    <summary>I work closely with Vic and Steve on the strategy for Longhorn content and activies, so I'm planning to tune it to today's.NET Rocks. </summary>
+    <content type="html">&lt;h1>.NET Evangelists on .NET Rocks Today @ 9am PST&lt;/h1>
+&lt;P>I work closely with Vic and Steve on the strategy for Longhorn content and activies, so I'm planning to tune it to &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/04/22/118660.aspx">today's .NET Rocks&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1293</id>
+    <title>Overview of MSBuild, Part 1 of 3</title>
+    <updated>2004-04-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-23T07:00:00.000Z</published>
+    <summary>Here. This week, Christophe Nasarre, one of the best reviewers on my Windows Forms book, has written a 3-article series on the new command line build system and the new build core of Visual Studio 2005: MSBuild. In this installment, Christophe starts from the ground floor, building the most basic.proj files and then exploring the advanced features you need to control your builds. Also, because MSBuild is still under development, this piece covers the details of both the MSBuild in the Longhorn PDC bits as w...</summary>
+    <content type="html">&lt;h1>Overview of MSBuild, Part 1 of 3&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/msbuildpart1.asp">Here&lt;/a>. &lt;P>This week, Christophe Nasarre, one of the best reviewers on &lt;A HREF="/public/writing/wfbook">my Windows Forms book&lt;/A>, has written a 3-article series on the new command line build system and the new build core of Visual Studio 2005: MSBuild. In this installment, Christophe starts from the ground floor, building the most basic .proj files and then exploring the advanced features you need to control your builds.&lt;/P>
+&lt;P>Also, because MSBuild is still under development, this piece covers the details of both the MSBuild in the Longhorn PDC bits as well as the most recent Visual Studio 2005 technology preview.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1291</id>
+    <title>What's New in Windows Forms 2.0</title>
+    <updated>2004-04-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-04-21T07:00:00.000Z</published>
+    <summary>Mike and I write our first cut and what's new and cool in Windows Forms 2.0 in this month's MSDN Magazine.</summary>
+    <content type="html">&lt;h1>What's New in Windows Forms 2.0&lt;/h1>
+Mike and I write our first cut and &lt;A href="http://msdn.microsoft.com/msdnmag/issues/04/05/NETFramework20/default.aspx">what's new and cool in Windows Forms 2.0&lt;/A> in this month's MSDN Magazine.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1290</id>
+    <title>PInvoke.NET: Interop the Wiki Way</title>
+    <updated>2004-04-19T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-04-19T07:00:00.000Z</published>
+    <summary>Here. Whoever put this site together had the right idea. I was hoping to work my magic to get MS to publish a giant interop DB, but instead of waiting, Adam Nathan (of.NET and COM: The Complete Interoperability Guide &amp;nbsp;fame) put up a wiki to collect all of the P/Invoke signatures that the community already knows about. Yeah, baby! This could finally be a wiki I can get behind! (Sorry, Ward, but I've just never found a wiki that makes me want to hang out there...)</summary>
+    <content type="html">&lt;h1>PInvoke.NET: Interop the Wiki Way&lt;/h1>
+&lt;a href="http://www.pinvoke.net/">Here&lt;/a>. Whoever put this site together had the right idea. I was hoping to work my magic to get MS to publish a giant interop DB, but instead of waiting, Adam Nathan (of &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/067232170X/chrissells">.NET and COM: The Complete Interoperability Guide&lt;/A>&amp;nbsp;fame) put up a wiki to collect all of the P/Invoke signatures that the community already knows about. Yeah, baby! This could finally be a wiki I can get behind! (Sorry, &lt;A href="http://c2.com/cgi/wiki?WardCunningham">Ward&lt;/A>, but I've just never found a wiki that makes me want to hang out there...)</content>
+  </entry>
+</feed>

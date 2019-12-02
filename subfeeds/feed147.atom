@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed147.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed146.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed148.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed147.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12567</id>
+    <title>Keep On Cookin'</title>
+    <updated>2002-12-20T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-12-20T08:00:00.000Z</published>
+    <summary>I got a very nice email today from Ross Lambert: &amp;quot;I'm a new fan of yours, both in terms of your technical abilities and the down-home honesty of your columns in The Spout. I loved 'Of Eggs and Omelets', mostly because I could identify with it. My own career has been littered with a lot of broken eggs. I ran my own little software company for nearly 10 years, writing and selling developer libraries for Macintosh developers. Needless to say, the ups and downs of that market were fairly impossible to surv...</summary>
+    <content type="html">&lt;h1>Keep On Cookin'&lt;/h1>
+
+        &lt;p>I got a very nice email  today from Ross Lambert:&lt;/p>
+        &lt;blockquote>
+          &lt;p>&amp;quot;I'm a new fan of yours, both in terms of your technical abilities 
+        and the down-home honesty of your columns in The Spout. I loved 'Of Eggs 
+        and Omelets', mostly because I could identify with it. My own career has 
+        been littered with a lot of broken eggs. I ran my own little software 
+        company for nearly 10 years, writing and selling developer libraries for 
+        Macintosh developers. Needless to say, the ups and downs of that market 
+        were fairly impossible to survive.&lt;br>
+        &lt;br>
+        So now I am enjoying the Dark Side, as Mac folks would say. I'm a total 
+        .NET-head, hence my fairly recent acquaintance with your work.&lt;br>
+        &lt;br>
+        Anyway, all that to say 'Don't let the turkeys get you down.' I was a 
+        pretty decent marketer; I still write ad copy for different folks from 
+        time to time. It was the only way I could manage to survive as long as I 
+        did. For what it is worth, I think your approach is innovative and fun. 
+        A few anal people will object (it sounds like they already have), but 
+        I've come to the conclusion that about 2% of the population actually 
+        enjoys being uptight and offering angry complaints. You'll never make 
+        those folks happy, and it is just as well to give them a reason to bail 
+        out early in the game.&amp;quot;&lt;/p>
+&lt;/blockquote>
+        &lt;p>Thanks for that, Ross. While Of Eggs and Omelets speaks of breaking 
+        eggs as metaphor for the negative feedback I've gotten from my recent series of 
+        marketing-related emails, in truth only a tiny fraction of folks 
+        complained. In fact, almost 10% of my newsletter subscribers responded 
+        to my inquires in some positive way, which is about 50x the number of 
+        people that had something negative to say. According to the marketing guy, getting a 10% response was about 3x what he was 
+        hoping for (although he didn't tell me his expectations until *after* 
+        the results were in... : ). Even more telling was the large number of 
+        people that actually thanked us for asking. Apparently expressing 
+        interest in their wants and needs was unique for a surprising number of 
+        people. Further, the shear number of people interested 
+        in the various ideas we proposed (like the
+        &lt;a href="http://store.yahoo.com/sellsbrothers/smalgroupmen.html">.NET 
+        War College&lt;/a> and the
+        &lt;a href="http://store.yahoo.com/sellsbrothers/pionofwinpho.html">
+        WinForms PhoneCon&lt;/a>) was only overshadowed by the number of people 
+        with good ideas that we didn't even think of (which is what lead to
+        &lt;a href="http://store.yahoo.com/sellsbrothers/asktjewonk.html">Ask The 
+        Wonk&lt;/a>).&lt;/p>
+        &lt;p>So, while I may have broken some eggs, and every one of those emails 
+        physically pained me (how do spammers do it?!?), Ross and tons of others have 
+        encouraged me to keep on making my omelet.&lt;/p>
+        &lt;p>
+        &lt;a href="/369">
+		Discuss&lt;/a>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/365</id>
+    <title>Turning the Knob Up on GXA</title>
+    <updated>2002-12-18T08:00:00.000Z</updated>
+    <published>2002-12-18T08:00:00.000Z</published>
+    <summary>Here. From John Bristowe: Six new specifications released! They are WS-Policy, WS-PolicyAttachment, WS-PolicyAssertions, WS-SecurityPolicy, WS-Trust, and WS-SecureConversation! Oh my!</summary>
+    <content type="html">&lt;h1>Turning the Knob Up on GXA&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/webservices/understanding/gxa/">Here&lt;/a>. From John Bristowe: Six new specifications released! They are WS-Policy, WS-PolicyAttachment, WS-PolicyAssertions, WS-SecurityPolicy, WS-Trust, and WS-SecureConversation! Oh my!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/366</id>
+    <title>Jabber for Mono .NET</title>
+    <updated>2002-12-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-18T08:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: "We've just announced our.NET Jabber SDK for Mono. Our SDK now lets.NET developers build cross platform instant messaging applications that target Linux, Windows, Solaris, FreeBSD, Windows CE, and Windows Pocket PC 2002. This release also supports multiple character sets such as Chinese, Japanese, Korean, Spanish, and Italian."
+</summary>
+    <content type="html">&lt;h1>Jabber for Mono .NET&lt;/h1>
+&lt;a href="http://www.winfessor.com/index.asp">Here&lt;/a>. From Jesse Ezell: "We've just announced our .NET Jabber SDK for Mono. Our SDK now lets .NET developers build cross platform instant messaging applications that target Linux, Windows, Solaris, FreeBSD, Windows CE, and Windows Pocket PC 2002. This release also supports multiple character sets such as Chinese, Japanese, Korean, Spanish, and Italian."
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/367</id>
+    <title>AspectC#: An AOSD implementation for C#.</title>
+    <updated>2002-12-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-18T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: A master dissertation by Howard Kim from Dept. of Computer Science, Trinity College Dublin. His paper covers topics such as AOP(AspectJ,Hyper/J) in Java and.NET (CLAW,AOP#), comparision of the different implementations for both platforms. A alpha version of the implementation can be downloaded from http://aosd.dsg.cs.tcd.ie/AspectCSharp/AspectCSharpHomepage.htm</summary>
+    <content type="html">&lt;h1>AspectC#: An AOSD implementation for C#.&lt;/h1>
+&lt;a href="http://www.cs.tcd.ie/publications/tech-reports/reports.02/TCD-CS-2002-55.pdf">Here&lt;/a>. From Hun Boon Teo: A master dissertation by Howard Kim from Dept. of Computer Science, Trinity College Dublin. His paper covers topics such as AOP(AspectJ,Hyper/J) in Java and .NET (CLAW,AOP#), comparision of the different implementations for both platforms. A alpha version of the implementation can be downloaded from http://aosd.dsg.cs.tcd.ie/AspectCSharp/AspectCSharpHomepage.htm</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/364</id>
+    <title>At the tomb of the IUnknown Interface</title>
+    <updated>2002-12-17T08:00:00.000Z</updated>
+    <published>2002-12-17T08:00:00.000Z</published>
+    <summary>Here. From Mark Pearce: As COM is dragged kicking and screaming towards the airlock, a strangely dry-eyed COM warrior celebrates its demise. </summary>
+    <content type="html">&lt;h1>At the tomb of the IUnknown Interface&lt;/h1>
+&lt;a href="http://www.ddj.com/documents/s=1504/ddj0108vs/0108vs001.htm">Here&lt;/a>. From Mark Pearce: As COM is dragged kicking and screaming towards the airlock, a strangely dry-eyed COM warrior celebrates its demise.  
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/362</id>
+    <title>Alintex Script Host brings scripting to .NET</title>
+    <updated>2002-12-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-16T08:00:00.000Z</published>
+    <summary>Here. From Alintex: Alintex Script Host lets you run scripts written in three Microsoft.NET languages - VB, C# and JScript. One can take full advantage of the power of the.NET Framework Class Library (FCL) to produce lightweight, yet powerful applications and utilities. Amongst other features, it allows you to mix and match all three supported.NET languages in the same script, yet optionally produce a single XML based Portable Script file for easy distribution. Alintex Script Host is FREE for both personal ...</summary>
+    <content type="html">&lt;h1>Alintex Script Host brings scripting to .NET&lt;/h1>
+&lt;a href="http://www.alintex.com">Here&lt;/a>. From Alintex: Alintex Script Host lets you run scripts written in three Microsoft .NET languages - VB, C# and JScript.
+
+One can take full advantage of the power of the .NET Framework Class Library (FCL) to produce lightweight, yet powerful applications and utilities. Amongst other features, it allows you to mix and match all three supported .NET languages in the same script, yet optionally produce a single XML based Portable Script file for easy distribution.
+
+Alintex Script Host is FREE for both personal and commercial use.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/363</id>
+    <title>.NET Data-Bound TreeView Control</title>
+    <updated>2002-12-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-16T08:00:00.000Z</published>
+    <summary>Here. "DataViewTree is a UserControl that can load hierarchical datasets into a Windows Forms TreeView control. The included sample project shows how to load an xml file into a dataset which is then passed to the DataViewTree control for display. Complete source for the DataViewTree control and sample project is included in the download." I know lots of folks want to data bind hierarchical data and this one includes the source if it doesn't do exactly what you're after.</summary>
+    <content type="html">&lt;h1>.NET Data-Bound TreeView Control&lt;/h1>
+&lt;a href="http://www.abderaware.com/">Here&lt;/a>. "DataViewTree is a UserControl that can load hierarchical datasets into a Windows Forms TreeView control. The included sample project shows how to load an xml file into a dataset which is then passed to the DataViewTree control for display.
+
+Complete source for the DataViewTree control and sample project is included in the download."
+
+I know lots of folks want to data bind hierarchical data and this one includes the source if it doesn't do exactly what you're after.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/361</id>
+    <title>New Genghis Release Coming</title>
+    <updated>2002-12-15T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-12-15T08:00:00.000Z</published>
+    <summary>Here. There has been all kinds of activity on Genghis since the v0.3 release. I've been gathering these bits together to make a coherent v0.4 release in the new year (right after I finish my darn book!). Those of you with final bits and pieces that need to get in before that release, please get them to me ASAP. Thanks.</summary>
+    <content type="html">&lt;h1>New Genghis Release Coming&lt;/h1>
+&lt;a href="http://www.genghisgroup.com">Here&lt;/a>. There has been all kinds of activity on Genghis since the v0.3 release. I've been gathering these bits together to make a coherent v0.4 release in the new year (right after I finish my darn book!).
+
+Those of you with final bits and pieces that need to get in before that release, please get them to me ASAP. Thanks.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/359</id>
+    <title>And They Said it Wasn't Ready For Production</title>
+    <updated>2002-12-13T08:00:00.000Z</updated>
+    <published>2002-12-13T08:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: "Ximian, Inc., the leading open source desktop company, today announced that OpenLink Software, Inc., an industry leader in the development and deployment of secure, high-performance Universal Data Access and Web Services middleware, is using Mono™ as part of the development efforts for Virtuoso 3.0, its latest Universal Server release. Mono enables OpenLink Virtuoso to provide a consistent.NET common language runtime (CLR) and frameworks integration implementation across Windows, Li...</summary>
+    <content type="html">&lt;h1>And They Said it Wasn't Ready For Production&lt;/h1>
+&lt;a href="http://www.ximian.com/about_us/press_center/press_releases/index.html?pr=openlink_mono">Here&lt;/a>. From Jesse Ezell: "Ximian, Inc., the leading open source desktop company, today announced that OpenLink Software, Inc., an industry leader in the development and deployment of secure, high-performance Universal Data Access and Web Services middleware, is using Mono™ as part of the development efforts for Virtuoso 3.0, its latest Universal Server release. Mono enables OpenLink Virtuoso to provide a consistent .NET common language runtime (CLR) and frameworks integration implementation across Windows, Linux, Mac OS X and UNIX. The OpenLink effort demonstrates platform-independent web services creation using any .NET-bound language, web services hosting, ASP.NET application invocation without IIS, and ADO.NET based data access. OpenLink's adoption represents one of the first commercial uses of the Mono Project, a community initiative launched by Ximian™ to develop an open source version of the Microsoft .NET development platform for Linux and UNIX."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/360</id>
+    <title>Windows Forms Layout</title>
+    <updated>2002-12-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-13T08:00:00.000Z</published>
+    <summary>Here. "Chris Sells discusses how controls are scaled and arranged on a form, and how the scaling and arrangement features are used to meet the needs of different users with respect to system font size and the size of the data being entered."</summary>
+    <content type="html">&lt;h1>Windows Forms Layout&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms12102002.asp">Here&lt;/a>. "Chris Sells discusses how controls are scaled and arranged on a form, and how the scaling and arrangement features are used to meet the needs of different users with respect to system font size and the size of the data being entered."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/357</id>
+    <title>.NET Image Re-Coloring</title>
+    <updated>2002-12-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-12T08:00:00.000Z</published>
+    <summary>Here. "This code first sets up an array of ColorMap objects, each of which contain the old color to transform from and the new color to transform to. The color map is passed to a new ImageAttribute class via the SetRemapTable. The ImageAttribute object is then passed to the DrawImage function, which does the color mapping as the image is drawn."</summary>
+    <content type="html">&lt;h1>.NET Image Re-Coloring&lt;/h1>
+&lt;a href="/public/writing/DotNetImageReColoring.htm">Here&lt;/a>. "This code first sets up an array of ColorMap objects, each of which contain the old color to transform from and the new color to transform to. The color map is passed to a new ImageAttribute class via the SetRemapTable. The ImageAttribute object is then passed to the DrawImage function, which does the color mapping as the image is drawn."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/354</id>
+    <title>Image Analysis and Web Services</title>
+    <updated>2002-12-12T08:00:00.000Z</updated>
+    <published>2002-12-12T08:00:00.000Z</published>
+    <summary>Here. "Images are common currency in many business applications from banking to surveying and automotive engineering to semiconductor manufacturing. They face similar issues of distribution across already loaded networks, efficient processing and analysis, and the interaction of tools from multiple vendors. This article looks at the approach taken at Digital Healthcare, Ltd to solve its bottleneck for clinical image analysis and distribution. Digital Healthcare successfully implemented a secure n+1 tier arc...</summary>
+    <content type="html">&lt;h1>Image Analysis and Web Services&lt;/h1>
+&lt;a href="http://cedar.intel.com/cgi-bin/ids.dll/content/content.jsp?cntKey=Generic Editorial::ws_imageAnalysis&amp;cntType=IDS_EDITORIAL&amp;catCode=BZW">Here&lt;/a>. "Images are common currency in many business applications from banking to surveying and automotive engineering to semiconductor manufacturing. They face similar issues of distribution across already loaded networks, efficient processing and analysis, and the interaction of tools from multiple vendors. This article looks at the approach taken at Digital Healthcare, Ltd to solve its bottleneck for clinical image analysis and distribution. Digital Healthcare successfully implemented a secure n+1 tier architecture involving Web services, peer-to-peer resource sharing, and the Intel® Performance Libraries with C#* and the .NET* Framework."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/352</id>
+    <title>High Perf. Image Processing in .NET Clients</title>
+    <updated>2002-12-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-12T08:00:00.000Z</published>
+    <summary>Here. "Not so many years ago, serious image processing meant using highly specialized hardware when same-day service was required. However, microprocessor manufacturers have consistently delivered exponential performance improvements for so long that even relatively modest client systems can now perform non-trivial image manipulation very quickly. These client capabilities were especially aided by the introduction of Streaming SIMD (Single Instruction Multiple Data) Extensions to Intel® processors a few yea...</summary>
+    <content type="html">&lt;h1>High Perf. Image Processing in .NET Clients&lt;/h1>
+&lt;a href="http://cedar.intel.com/cgi-bin/ids.dll/content/content.jsp?cntKey=Generic%20Editorial::dotnet_processing&amp;cntType=IDS_EDITORIAL&amp;catCode=BZW">Here&lt;/a>. "Not so many years ago, serious image processing meant using highly specialized hardware when same-day service was required. However, microprocessor manufacturers have consistently delivered exponential performance improvements for so long that even relatively modest client systems can now perform non-trivial image manipulation very quickly. These client capabilities were especially aided by the introduction of Streaming SIMD (Single Instruction Multiple Data) Extensions to Intel® processors a few years ago, along with Intel's highly-optimized libraries for exploiting the technology. This article shows how to take advantage of these libraries in .NET client applications."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/355</id>
+    <title>VS.NET 2003 Pre/Post-Build Steps in C# Projects</title>
+    <updated>2002-12-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-12T08:00:00.000Z</published>
+    <summary>Here. "[I]n VS.NET 2003, the latest version that supports the.NET Framework 1.1 and available in beta version to MSDN subscribers, C# projects allow you to add your shell commands to the pre-build and post-build events during the project build." A cool VS.NET trick from my VS.NET Info Center Q&amp;A Forum.</summary>
+    <content type="html">&lt;h1>VS.NET 2003 Pre/Post-Build Steps in C# Projects&lt;/h1>
+&lt;a href="http://searchvb.techtarget.com/vsnetATEAnswers/0,293820,sid8_gci865477,00.html">Here&lt;/a>. "[I]n VS.NET 2003, the latest version that supports the .NET Framework 1.1 and available in beta version to MSDN subscribers, C# projects allow you to add your shell commands to the pre-build and post-build events during the project build."
+
+A cool VS.NET trick from my VS.NET Info Center Q&amp;A Forum.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/358</id>
+    <title>Microsoft Releases MapPoint .NET Version 3.0</title>
+    <updated>2002-12-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-12-12T08:00:00.000Z</published>
+    <summary>Here. I'm a big fan of both the MapPoint.NET web service specifically (it's a model in several areas) and of the idea of commercial web services in general. Someday I hope to be able to afford this one. : )</summary>
+    <content type="html">&lt;h1>Microsoft Releases MapPoint .NET Version 3.0 &lt;/h1>
+&lt;a href="http://www.microsoft.com/presspass/press/2002/Dec02/12-12MapPointNETv3PR.asp">Here&lt;/a>. I'm a big fan of both the MapPoint .NET web service specifically (it's a model in several areas) and of the idea of commercial web services in general. Someday I hope to be able to afford this one. : )</content>
+  </entry>
+</feed>

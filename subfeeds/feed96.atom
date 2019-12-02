@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed96.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed95.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed97.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed96.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1062</id>
+    <title>MSBuild on MSDN TV</title>
+    <updated>2004-01-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-22T08:00:00.000Z</published>
+    <summary>Here. Alex Kipman, a Microsoft PM, talks about changing the VS.NET Whidbey build process using it's new build engine: MSBuild. If you're interested in batch building or extending your own build process, MSBuild is worth your attention.</summary>
+    <content type="html">&lt;h1>MSBuild on MSDN TV&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040122VSNETAK/manifest.xml">Here&lt;/a>. Alex Kipman, a Microsoft PM, talks about changing the VS.NET Whidbey build process using it's new build engine: MSBuild. If you're interested in batch building or extending your own build process, MSBuild is worth your attention.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1059</id>
+    <title>Creating Drop Shadow Text in Avalon</title>
+    <updated>2004-01-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-21T08:00:00.000Z</published>
+    <summary>Here. Nathan Dunlap posts another great example of Avalon effects. This time, he shows adding drop shadows to text in Avalon.</summary>
+    <content type="html">&lt;h1>Creating Drop Shadow Text in Avalon&lt;/h1>
+&lt;a href="http://www.longhornblogs.com/ndunlap/archive/2004/01/21/2204.aspx">Here&lt;/a>. Nathan Dunlap posts another great example of Avalon effects. This time, he shows adding drop shadows to text in Avalon.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1060</id>
+    <title>Setting DataGrid Styles for Custom Types</title>
+    <updated>2004-01-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-21T08:00:00.000Z</published>
+    <summary>I was data binding an ArrayList of objects of a custom type, e.g. class Person { public string Name; public DateTime BirthDate; public int Teeth; }, to a DataGrid today and everything working great 'til I wanted to filter one of the columns out (who cares how many Teeth a person has?). I was all set with table styles and grid styles like so: void Form1_Load(object sender, EventArgs e) { DataGridTableStyle tableStyle = new DataGridTableStyle(); tableStyle.DataGrid = this.dataGrid1; tableStyle.MappingName = "...</summary>
+    <content type="html">&lt;h1>Setting DataGrid Styles for Custom Types&lt;/h1>
+&lt;P>I was data binding an ArrayList of objects of a custom type, e.g. class Person { public string Name; public DateTime BirthDate; public int Teeth; }, to a DataGrid today and everything working great 'til I wanted to filter one of the columns out (who cares how many Teeth a person has?). I was all set with table styles and grid styles like so:&lt;/P>&lt;PRE>void Form1_Load(object sender, EventArgs e) {&lt;BR>  DataGridTableStyle tableStyle = new DataGridTableStyle();&lt;BR>  tableStyle.DataGrid = this.dataGrid1;&lt;BR>&lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>  tableStyle.MappingName = "Something???";&lt;BR>&lt;/FONT>&lt;/EM>&lt;/STRONG>  this.dataGrid1.TableStyles.Add(tableStyle);&lt;/PRE>&lt;PRE>  string[] columns = { "Name", "BirthDate" }; // Skip Teeth&lt;BR>  foreach( string column in columns ) {&lt;BR>    DataGridTextBoxColumn columnStyle = new DataGridTextBoxColumn();&lt;BR>    columnStyle.HeaderText = column;&lt;BR>    columnStyle.MappingName = column;&lt;BR>    tableStyle.GridColumnStyles.Add(columnStyle);&lt;BR>  }&lt;/PRE>&lt;PRE>  // Create ArrayList of Person objects...&lt;/PRE>&lt;PRE>  this.dataGrid1.DataSource = personList;&lt;BR>}&lt;/PRE>
+&lt;P>The problem was the table style's MappingName.&amp;nbsp;When DataBinding to a DataTable, it's just the table name, but what is it when I've got a collection of objects of a custom type? Daniel Herling, a Software Design Engineer at Microsoft and the "man" of the DataGrid, came to my rescue:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>&lt;EM>If you bind to an ITypedList (say, System.Data.DataTable) then the mapping name should be ITypedList::GetListName(). For a System.Data.DataTable this would be the name of the data table.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>If you don&amp;#8217;t bind to an IList that is not ITypedList then the mapping name should be list.GetType().Name where list is the list the data grid is bound to.&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>So, all I had to do was set the table style mapping name to the type of my custom class:&lt;/P>&lt;PRE>&amp;nbsp; tableStyle.MappingName = &lt;STRONG>&lt;FONT color=#ff0000>&lt;EM>typeof(ArrayList).Name&lt;/EM>&lt;/FONT>&lt;/STRONG>;&lt;/PRE>
+&lt;P>This wasn't bad at all to bind a DataGrid to exactly the properties of my Person objects that I want w/o having to hack another custom shim type or changing the Person type itself to accommodate the data binding. Thanks, Daniel!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1058</id>
+    <title>A Gathering of Longhorn Code Samples</title>
+    <updated>2004-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-20T08:00:00.000Z</published>
+    <summary>Folks have been posting Longhorn code samples on their blogs, which is great. Also, I've been collecting bigger code samples on the Longhorn Developer Center on the Tools &amp;amp; Code Samples section as well as with the PDC talks. Also, I just noticed a Longhorn sample in the unedited section of CodeProject.com, one of my favorite user contribution sites. Of course, you can post your sample on GotDotNet.com using the Longhorn category and there are already a coupla GDN Longhorn samples for your edification. </summary>
+    <content type="html">&lt;h1>A Gathering of Longhorn Code Samples&lt;/h1>
+&lt;P>Folks have been posting Longhorn code samples on their blogs, which is great. Also, I've been collecting bigger code samples on the Longhorn Developer Center on &lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/">the Tools &amp;amp; Code Samples section&lt;/A> as well as with &lt;A href="http://msdn.microsoft.com/Longhorn/PDCMaterials/default.aspx">the PDC talks&lt;/A>.&lt;/P>
+&lt;P>Also, I just noticed &lt;A href="http://www.codeproject.com/useritems/Transformer_in_Longhorn.asp?target=longhorn">a Longhorn sample&lt;/A> in the unedited section of &lt;A href="http://www.CodeProject.com">CodeProject.com&lt;/A>, one of my favorite user contribution sites.&lt;/P>
+&lt;P>Of course, &lt;A href="http://www.gotdotnet.com/community/usersamples/Upload1.aspx">you can post your sample on GotDotNet.com using the Longhorn category&lt;/A> and there are already &lt;A href="http://www.gotdotnet.com/community/usersamples/default.aspx?ProductDropDownList=Longhorn">a coupla GDN Longhorn samples for your edification&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1057</id>
+    <title>Rory Blyth on the .NET Rocks! Internet Radio Show</title>
+    <updated>2004-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-20T08:00:00.000Z</published>
+    <summary>Here. I'm a big Rory Blyth fan, so I'm downloading this show as I type this. Enjoy.</summary>
+    <content type="html">&lt;h1>Rory Blyth on the .NET Rocks! Internet Radio Show&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks/">Here&lt;/a>. I'm a big Rory Blyth fan, so I'm downloading this show as I type this. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1055</id>
+    <title>More NStuff</title>
+    <updated>2004-01-19T08:00:00.000Z</updated>
+    <published>2004-01-19T08:00:00.000Z</published>
+    <summary>With the recent release of NCover, a shared source.NET code coverage tool, the Nxxx line of.NET development tools is getting pretty impressive: NAnt: XML-based build tool NDoc: turn XML comments into pretty HTML pages NUnit: code testing framework NCover: code coverage Have I missed any? </summary>
+    <content type="html">&lt;h1>More NStuff&lt;/h1>
+&lt;P>With the recent release of &lt;A href="http://www.gotdotnet.com/community/workspaces/workspace.aspx?ID=3122EE1A-46E7-48A5-857E-AAD6739EF6B9">NCover, a shared source .NET code coverage tool&lt;/A>, the Nxxx line of .NET development tools is getting pretty impressive:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://nant.sourceforge.net/index.html">NAnt: XML-based build tool&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://ndoc.sourceforge.net/">NDoc: turn XML comments into pretty HTML pages&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://nunit.org/">NUnit: code testing framework&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.gotdotnet.com/community/workspaces/workspace.aspx?ID=3122EE1A-46E7-48A5-857E-AAD6739EF6B9">NCover: code coverage&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Have I missed any?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1056</id>
+    <title>WinFX in Detail: Inside XAML</title>
+    <updated>2004-01-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-19T08:00:00.000Z</published>
+    <summary>Here. Ian Griffiths shows some of the basics of XAML, including complex properties and how code is generated and integrated behind the scenes.</summary>
+    <content type="html">&lt;h1>WinFX in Detail: Inside XAML&lt;/h1>
+&lt;a href="http://www.ondotnet.com/pub/a/dotnet/2004/01/19/longhorn.html">Here&lt;/a>. Ian Griffiths shows some of the basics of XAML, including complex properties and how code is generated and integrated behind the scenes.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1054</id>
+    <title>Longhorn Articles in Italian</title>
+    <updated>2004-01-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-18T08:00:00.000Z</published>
+    <summary>Devleap.com, a site dedicated to Windows development for Italian developers, has added a new Longhorn section. Even though I can't read Italian, I like the idea of Longhorn articles in a language of romance. Read them with your sweetheart over a candle lit dinner. I know that's my plan. : )</summary>
+    <content type="html">&lt;h1>Longhorn Articles in Italian&lt;/h1>
+&lt;A href="http://www.devleap.com">Devleap.com&lt;/A>, a site dedicated to Windows development for Italian developers, has added &lt;A href="http://www.devleap.com/Default.aspx?IdCategoria=LONGHORN">a new Longhorn section&lt;/A>. Even though I can't read Italian, I like the idea of Longhorn articles in a language of romance. Read them with your sweetheart over a candle lit dinner. I know that's my plan. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1051</id>
+    <title>Don's Questions Awaiting Answers</title>
+    <updated>2004-01-17T08:00:00.000Z</updated>
+    <published>2004-01-17T08:00:00.000Z</published>
+    <summary>For those asking, I have sent off a selection of our questions to Don. Eating dinner with him last night, he said that the first three answers were "yes," "no" and "100." When he gets all the answers together, I'll post them here. : ) </summary>
+    <content type="html">&lt;h1>Don's Questions Awaiting Answers&lt;/h1>
+&lt;P>For those asking, I have sent off a selection of &lt;A href="/1016">our questions to Don&lt;/A>. Eating dinner with him last night, he said that the first three answers were "yes," "no" and "100." When he gets all the answers together, I'll post them here. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1053</id>
+    <title>This Ain't a Technical Blog</title>
+    <updated>2004-01-17T08:00:00.000Z</updated>
+    <published>2004-01-17T08:00:00.000Z</published>
+    <summary>Just so folks know, I feel no responsibility whatsoever to keep my postings on sellsbrothers.com to a specific topic. If I want to post my political views, I'll do so. If that bothers you, I suggest you unsubscribe now as complaints about the subject matter for my posts will fall on deaf ears. Also, there's an undoc'd feature on my site that might interest folks. I have topic-specific RSS feeds that correspond to the categories of topics that I post. For example, the Longhorn DevCenter Editor's Blog is fed ...</summary>
+    <content type="html">&lt;h1>This Ain't a Technical Blog&lt;/h1>
+&lt;P>Just so folks know, I feel no responsibility whatsoever to keep my postings on sellsbrothers.com to a specific topic. If I want to post &lt;A href="/1047">my political views&lt;/A>, I'll do so. If that bothers you, I suggest you unsubscribe now as complaints about the subject matter for my posts will fall on deaf ears.&lt;/P>
+&lt;P>Also, there's an undoc'd feature on my site that might interest folks. I have topic-specific RSS feeds that correspond to the categories of topics that I post. For example, &lt;A href="http://msdn.microsoft.com/longhorn/community/edblog.aspx">the Longhorn DevCenter Editor's Blog&lt;/A> is fed from &lt;a href="feed.rss?category=longhorn">http://127.0.0.1:8080/news/rss2.aspx?category=longhorn&lt;/A>&amp;nbsp;so that only Longhorn-specific topics show up on that page.&amp;nbsp;If you'd like to form your own topic-specific RSS feed URL, I currently use the following categories:&lt;/P>
+&lt;UL>
+&lt;LI>Tools&lt;/LI>
+&lt;LI>Longhorn&lt;/LI>
+&lt;LI>Spout&lt;/LI>
+&lt;LI>Conference&lt;/LI>
+&lt;LI>Fun&lt;/LI>
+&lt;LI>Writing&lt;/LI>
+&lt;LI>Money&lt;/LI>&lt;/UL>
+&lt;P>However, I post a lot of stuff that's uncategorized and the only way to get that stuff is to subscribe to &lt;a href="feed.rss">the main RSS feed&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1052</id>
+    <title>Glowing Image Effects in Avalon</title>
+    <updated>2004-01-17T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-17T08:00:00.000Z</published>
+    <summary>Here. Robert Wlodarczyk posts another sample dedicated to showing off the glowing image effects in Avalon. Sweet.</summary>
+    <content type="html">&lt;h1>Glowing Image Effects in Avalon&lt;/h1>
+&lt;a href="http://www.longhornblogs.com/rwlodarc/archive/2004/01/16/2167.aspx">Here&lt;/a>. Robert Wlodarczyk posts another sample dedicated to showing off the glowing image effects in Avalon. Sweet.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1049</id>
+    <title>"Windows is cool again"</title>
+    <updated>2004-01-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-16T08:00:00.000Z</published>
+    <summary>In talking about recent developments at Microsoft, Mary Jo sums up my own feelings nicely: "Windows is cool again, thanks to all the excitement around Longhorn." But I'm hardly unbiased. : ) </summary>
+    <content type="html">&lt;h1>"Windows is cool again"&lt;/h1>
+&lt;P>In talking about &lt;A href="http://www.microsoft-watch.com/article2/0,4248,1439262,00.asp?kc=MWRSS02129TX1K0000535">recent developments at Microsoft, Mary Jo&lt;/A> sums up my own feelings nicely:&lt;/P>
+&lt;P>"Windows is cool again, thanks to all the excitement around Longhorn."&lt;/P>
+&lt;P>&lt;A href="http://msdn.com/longhorn">But I'm hardly unbiased. : )&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1050</id>
+    <title>Avalon Image Effects Sample</title>
+    <updated>2004-01-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-16T08:00:00.000Z</published>
+    <summary>Robert Wlodarczyk, a software engineer on the Avalon testing team, has posted a most excellent sample showing off the wide variety of effects you can apply to images in Avalon. Very cool.</summary>
+    <content type="html">&lt;h1>Avalon Image Effects Sample&lt;/h1>
+Robert Wlodarczyk, a software engineer on the Avalon testing team, has posted &lt;A href="http://www.longhornblogs.com/rwlodarc/archive/2004/01/15.aspx">a most excellent sample&lt;/A> showing off the wide variety of effects you can apply to images in Avalon. Very cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1045</id>
+    <title>Rory is Funny on My Blog, too</title>
+    <updated>2004-01-15T08:00:00.000Z</updated>
+    <published>2004-01-15T08:00:00.000Z</published>
+    <summary>Here. Rory just kills me... </summary>
+    <content type="html">&lt;h1>Rory is Funny on My Blog, too&lt;/h1>
+&lt;a href="/1041">Here&lt;/a>. &lt;A href="/1041">Rory just kills me...&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1046</id>
+    <title>WinFS on MSDN TV: Schemas and Extensibility</title>
+    <updated>2004-01-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-15T08:00:00.000Z</published>
+    <summary>Here. Patrick Thompson, a PM on the WinFS team, talks about how types are defined in WinFS and how to extend them and create your own (although the extensibility of WinFS isn't enabled in the PDC bits).</summary>
+    <content type="html">&lt;h1>WinFS on MSDN TV: Schemas and Extensibility&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040115WinFSPT/manifest.xml">Here&lt;/a>. Patrick Thompson, a PM on the WinFS team, talks about how types are defined in WinFS and how to extend them and create your own (although the extensibility of WinFS isn't enabled in the PDC bits).</content>
+  </entry>
+</feed>

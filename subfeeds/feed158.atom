@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed158.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed157.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed159.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed158.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/204</id>
+    <title>Very interesting insight into working at Microsoft</title>
+    <updated>2002-08-28T07:00:00.000Z</updated>
+    <published>2002-08-28T07:00:00.000Z</published>
+    <summary>Here. From Phil: compares microsoft's culture to mainstream company cultutes. The author ended up being a program manager for Excel. He has lots of interesting information on software development in general: http://www.joelonsoftware.com. Chris, I know you've visited the site, just giving a heads up to other folks...</summary>
+    <content type="html">&lt;h1>Very interesting insight into working at Microsoft&lt;/h1>
+&lt;a href="http://www.joelonsoftware.com/articles/TwoStories.html">Here&lt;/a>. From Phil: compares microsoft's culture to mainstream company cultutes.  The author ended up being a program manager for Excel.  He has lots of interesting information on software development in general: http://www.joelonsoftware.com.  Chris, I know you've visited the site, just giving a heads up to other folks...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/203</id>
+    <title>CollectionGen Updated</title>
+    <updated>2002-08-27T07:00:00.000Z</updated>
+    <published>2002-08-27T07:00:00.000Z</published>
+    <summary>Here. The CollectionGen hits, they keep on coming. Tor-Erik Hagen has split the core code from the VS.NET custom tool code to provide for the command line tool he also provided, along with porting all the C# template code to VB.NET. Justin Rudd and James Johnson have also contributed some efficiency and type-safety enhancements. If only we had a wizard, we'd be set (I've got the beginnings of one, if anyone is interested). Enjoy!</summary>
+    <content type="html">&lt;h1>CollectionGen Updated&lt;/h1>
+&lt;a href="/12424">Here&lt;/a>. The CollectionGen hits, they keep on coming. Tor-Erik Hagen has split the core code from the VS.NET custom tool code to provide for the command line tool he also provided, along with porting all the C# template code to VB.NET. Justin Rudd and James Johnson have also contributed some efficiency and type-safety enhancements. If only we had a wizard, we'd be set (I've got the beginnings of one, if anyone is interested). Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/200</id>
+    <title>Web Services Development Kit Technology Preview</title>
+    <updated>2002-08-26T07:00:00.000Z</updated>
+    <published>2002-08-26T07:00:00.000Z</published>
+    <summary>Here. "The Web Services Development Kit is a new.NET library for building ASP.NET Web services that use more advanced protocols, including: -WS-Security -WS-Routing -WS-Attachments and DIME"</summary>
+    <content type="html">&lt;h1>Web Services Development Kit Technology Preview&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/webservices/building/wsdk/default.asp">Here&lt;/a>. "The Web Services Development Kit is a new .NET library for building ASP.NET Web services that use more advanced protocols, including: 
+
+-WS-Security 
+-WS-Routing 
+-WS-Attachments and DIME"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/202</id>
+    <title>x86 ASM to IL Compiler</title>
+    <updated>2002-08-26T07:00:00.000Z</updated>
+    <published>2002-08-26T07:00:00.000Z</published>
+    <summary>Here. "Yup, it's true. It's really the x86 (Intel 80386 actually) instruction set that gets compiled into IL. Literally it is an '80386 Assembler scripting Language' for ASP.NET." [radio.weblogs.com/0108971]</summary>
+    <content type="html">&lt;h1>x86 ASM to IL Compiler&lt;/h1>
+&lt;a href="http://home.worldonline.dk/viksoe/asmil.htm">Here&lt;/a>. "Yup, it's true. It's really the x86 (Intel 80386 actually) instruction set that gets compiled into IL. Literally it is an '80386 Assembler scripting Language' for ASP.NET."
+
+[radio.weblogs.com/0108971]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/201</id>
+    <title>Microsoft Developer Tools Roadmap 2002–2004</title>
+    <updated>2002-08-26T07:00:00.000Z</updated>
+    <published>2002-08-26T07:00:00.000Z</published>
+    <summary>Here. "This document contains a summary of Microsoft's plan for Visual Studio.NET and the.NET Framework over the next two releases."</summary>
+    <content type="html">&lt;h1>Microsoft Developer Tools Roadmap 2002–2004&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.asp">Here&lt;/a>. "This document contains a summary of Microsoft's plan for Visual Studio .NET and the .NET Framework over the next two releases."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/199</id>
+    <title>SQL Server Notification Services ships</title>
+    <updated>2002-08-25T07:00:00.000Z</updated>
+    <published>2002-08-25T07:00:00.000Z</published>
+    <summary>Here. "Microsoft SQL Server 2000 Notification Services is the premier platform for developing and deploying a new class of scalable Web applications that deliver personalized, timely information updates to a variety of mobile devices."</summary>
+    <content type="html">&lt;h1> SQL Server Notification Services ships&lt;/h1>
+&lt;a href="http://www.microsoft.com/sql/ns/">Here&lt;/a>. "Microsoft SQL Server 2000 Notification Services is the premier platform for developing and deploying a new class of scalable Web applications that deliver personalized, timely information updates to a variety of mobile devices."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12646</id>
+    <title>"Spend A Day With .NET" Coding Contest (with prizes and everything!)</title>
+    <updated>2002-08-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-08-25T07:00:00.000Z</published>
+    <summary>Midnight to Midnight, August 30th, 2002 Brad Abrams, Lead Program Manager on the Microsoft.NET Framework team, said something that inspired me the other day. He was being broadcast along with Chris Andersen (another lead PM) on The.NET Show on the topic of Understanding the Framework. Brad and Scott spent almost the entire show talking about how the various benefits of.NET, e.g. productivity, reliability, security, backwards compatibility with Win32 and COM, being able to recompile your C++ code in managed ...</summary>
+    <content type="html">&lt;h1>"Spend A Day With .NET" Coding Contest (with prizes and everything!)&lt;/h1>
+&lt;h2>&lt;i>Midnight to Midnight, August 30th, 2002&lt;/i>&lt;/h2>
+&lt;p>Brad Abrams, Lead Program Manager on the Microsoft .NET Framework team, said 
+something that inspired me the other day. He was being broadcast along with 
+Chris Andersen (another lead PM) on The .NET Show on the topic of
+&lt;a href="http://msdn.microsoft.com/theshow/Episode026/default.asp">
+Understanding the Framework&lt;/a>. Brad and Scott spent almost the entire show 
+talking about how &lt;b>the various benefits of .NET&lt;/b>, e.g. productivity, 
+reliability, security, backwards compatibility with Win32 and COM, being able to 
+recompile your C++ code in managed mode to use and expose .NET components 
+without changing any of the code or losing noticeable efficiency (apparently 
+they didn't ship until they could do this with Word), the consistency and 
+universality of the Framework Class Libraries, and on and on, &lt;b>all &lt;i>without
+&lt;/i>mentioning &amp;quot;web services.&amp;quot;&lt;/b> He did say that .NET was hands down the best 
+platform for doing web services, but even if you're not doing web services, &lt;b>
+.NET enhances your programming experience across the board&lt;/b> &lt;b>for the 
+existing kinds of applications and components that you're developing now&lt;/b>. 
+Normally I'm not into this kind of hyperbole, but in this case, I absolutely 
+agree with Brad and wish that Microsoft would push these features for things 
+you're doing right now as well as web services for the future. Microsoft, in 
+their interminable marketing wisdom, has completely undersold the rest of .NET, 
+at the expense of &lt;b>developers the world over, still stuck in the old unmanaged 
+world&lt;/b>.&lt;/p>
+&lt;p>So, in the spirit of freedom and happiness for developers everywhere, &lt;b>I 
+hereby declare Friday, August 30th to be International, Pan-Galactic, 
+Cross-Universe &amp;quot;Spend A Day with .NET&amp;quot; Day&lt;/b>. On that day, I'm calling for all 
+developers everywhere to spend up to 24-hours, midnight to midnight, building a 
+.NET application of some kind or another. I don't care if you have to bootleg a 
+copy of VS.NET from your friend or download
+&lt;a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/000/976/msdncompositedoc.xml">
+the freely available .NET Framework SDK&lt;/a> and write your code while you 
+pretend to work, lie to your boss or take a sick day, but &lt;b>I want developers 
+around the globe to spend all day doing nothing but writing &lt;i>something &lt;/i>in 
+.NET&lt;/b>. It can be absolutely anything, e.g. web site, web service, NT service, 
+component, control, VS.NET add-in, shell extension, game, utility, graphics 
+demo, etc, so long as you build it with .NET. Feel free to spend from now until 
+then researching .NET with any number of books, articles, whitepapers, 
+conferences, mailing lists, bits of online documentation, sample projects, 3rd 
+party components, etc, but all .NET code must written on August 30th. And then 
+when you're done at 11:59pm, I want you to &lt;b>send me what you built and my team 
+of judges will decide who's deserves &lt;i>the prizes&lt;/i>&lt;/b>.&lt;/p>
+&lt;h1>&lt;a name="prizes">The Prizes&lt;/a> &lt;i>(updated!)&lt;/i>&lt;/h1>
+&lt;p>In the spirit of one of the many things that .NET does very well, the &lt;b>
+Grand Prize is a free pass to &lt;a href="/conference">the Web Services DevCon&lt;/a>&lt;/b>. 
+These are the other prizes, in no particular order, based on what I have at my 
+immediate disposal to offer. If anyone would like to
+&lt;a href="mailto:csells@sellsbrothers.com?subject=Spend A Day With .NET Prize Contribution">
+contribute a prize, let me know&lt;/a>.&lt;/p>
+&lt;ul>
+  &lt;li>&lt;i>&lt;b>Grand Prize: A free pass to &lt;a href="/conference">the Web Services 
+  DevCon&lt;/a>&lt;/b>&lt;/i>&lt;/li>
+  &lt;li>&lt;b>A year subscription to MSDN Universal&lt;/b>&lt;/li>
+  &lt;li>&lt;b>A signed box &lt;span style="font-size: 12.0pt; font-family: Times New Roman">
+  copy of Visual Studio .NET&lt;/span>&lt;/b>&lt;/li>
+  &lt;li>&lt;b>&lt;a href="http://safari.oreilly.com">A 12-month 
+  subscription (5 points) to Safari Tech Books Online&lt;/a>&lt;/b>&lt;/li>
+  &lt;li>&lt;b>A half-day of consulting&lt;/b>&lt;/li>
+  &lt;li>&lt;b>A VC++ Jacket for the best Managed C++ entry&lt;/b>&lt;/li>
+  &lt;li>A 10-user copy of rmTrack, a new bug tracking tool available soon 
+  from &lt;font COLOR="#0000ff">&lt;a href="http://www.rmtrack.com/">
+  www.rmtrack.com&lt;/a>&lt;/font>&lt;/li>
+  &lt;li>A copy of Visual Build Professional, build automation software for 
+  Windows/.NET from &lt;a href="http://www.kinook.com/VisBuildPro/">
+  Kinook Software&lt;/a>&lt;/li>
+  &lt;li>A copy of &lt;span class="clsTitleBottom">SSW Code Auditor from
+  &lt;a href="http://www.ssw.com.au/ssw/CodeAuditor/">Superior 
+  Software for Windows&lt;/a>&lt;/span>&lt;/li>
+  &lt;li>A copy of Dundas Chart for ASP.NET Professional Edition&lt;/li>
+  &lt;li>A copy of Office XP Professional&lt;/li>
+  &lt;li>O'Reilly .NET book packs:&lt;ul>
+  &lt;li>C# Pack:
+  &lt;a href="http://www.oreilly.com/catalog/progcsharp2/">
+  Programming C#&lt;/a> and
+  &lt;a href="http://www.oreilly.com/catalog/csharpnut/">C# in a 
+  Nutshell&lt;/a>&lt;/li>
+  &lt;li>ASP.NET Pack:
+  &lt;a href="http://www.oreilly.com/catalog/progaspdotnet/">
+  Programming ASP.NET&lt;/a> and
+  &lt;a href="http://www.oreilly.com/catalog/aspdotnetnut/">ASP.NET 
+  in a Nutshell&lt;/a>&lt;/li>
+  &lt;li>VB.NET Pack:
+  &lt;a href="http://www.oreilly.com/catalog/vbdotnetnut2/">VB.NET 
+  Language in a Nutshell&lt;/a> and
+  &lt;a href="http://www.oreilly.com/catalog/vbdotnetcore/">VB.NET 
+  Core Classes in a Nutshell&lt;/a>&lt;/li>
+&lt;/ul>
+  &lt;/li>
+  &lt;li>.NET books, including:&lt;ul>
+  &lt;li>&lt;a href="http://www.aw.com/productpage?ISBN=0201741628">
+  Understanding .NET&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={76127EFD-BD29-427A-9659-C936D9D795F4}">
+  Understanding Web Services&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={FA60CD18-95F8-4075-96A1-BA99B11EC049}">
+  ASP.NET and VB.NET Web Programming&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={9E7ED91E-BC3E-4F3F-8F18-E5991D288359}">
+  Secure XML&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={DB5E4F2C-979D-4749-9573-5974A50DE104}">
+  .NET Framework Security&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={93AD4A18-DE42-49DD-8B7B-145645AC5382}">
+  Essential ADO.NET&lt;/a>&lt;/li>
+  &lt;li>
+  &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={73978861-3446-4291-AF09-1CDAF307A4A3}">
+  ASP.NET Developer's JumpStart&lt;/a>&lt;/li>
+  &lt;li>&lt;a href="http://www.wrox.com/ACON11.asp?ISBN=1861007043">
+  Professional C#, 2nd Edition&lt;/a>&lt;/li>
+  &lt;li>&lt;a href="http://www.wrox.com/ACON11.asp?ISBN=1861007752">
+  Professional ASP.NET 1.0 Web Services with VB.NET&lt;/a>&lt;/li>
+  &lt;li>&lt;a href="http://www.wrox.com/ACON11.asp?ISBN=1861007248">
+  Professional ASP.NET 1.0 XML with C#&lt;/a>&lt;/li>
+  &lt;li>&lt;a href="http://www.wrox.com/ACON11.asp?ISBN=1861004397">
+  C# Web Services: Building Web Services with .NET Remoting and ASP.NET&lt;/a>&lt;/li>
+&lt;/ul>
+  &lt;/li>
+  &lt;li>T-shirts (of course)&lt;/li>
+  &lt;li>Whatever else I can think up between now and August 30th. : )&lt;/li>
+&lt;/ul>
+&lt;h1>The Rules&lt;/h1>
+&lt;ol>
+  &lt;li>Thou shall sign &lt;a href="/public/fun/daywithdotnet/agreement.htm">this agreement&lt;/a> before 
+  submission. In a nutshell, it says that you own the code you're submitting, 
+  that you wrote it in a 24-hour period on August 30th and that you won't sue me 
+  over it.&lt;/li>
+  &lt;li>Thou may use existing unmanaged code via MC++ &amp;quot;IJW&amp;quot; (It Just Works) 
+  technology or via Win32 or COM interop, but the lines of unmanaged code may 
+  consist of no more than 49% of the total lines of code in the submission.&lt;/li>
+  &lt;li>Thou may use 3rd party libraries.&lt;/li>
+  &lt;li>Thou may work in teams, but prizes may need to be split between 
+  submitters.&lt;/li>
+  &lt;li>Thou shall include instructions for building and exercising your 
+  submission simple enough that even our judges can follow them. A description 
+  of why your code is cool is highly recommended.&lt;/li>
+  &lt;li>Thou shall check these rules again before making your submission in case I 
+  think of any more (engineers are tricky).&lt;/li>
+&lt;/ol>
+&lt;h1>The Judging Criteria&lt;/h1>
+&lt;p>So long as the rules are met, the judges are looking strictly for &lt;b>the 
+completely subjective &amp;quot;cool&amp;quot; factor&lt;/b>. Any time you can &lt;b>make a judge say 
+&amp;quot;wow,&amp;quot;&lt;/b> or &amp;quot;I didn't know you can do that in .NET,&amp;quot; that's good. If you do 
+decide to use existing unmanaged code or 3rd party libraries, the added 
+functionality of your code should outshine the functionality of the code you 
+didn't write, or you will be judged accordingly. If there is some doubt that you 
+actually wrote the code in the single 24-hour period of August 30th, the judges 
+may ask for further confirmation and will need to be convinced, e.g. &lt;b>don't 
+send a managed word processor including hyphenation rules unless you've got a 
+signed affidavit from a notary&lt;/b>.&lt;/p>
+&lt;h1>The Submission&lt;/h1>
+&lt;p>If you're
+&lt;a href="mailto:submission@sellsbrothers.com?subject=I'm planning a Spend A Day With .NET Submission">
+planning to send in a submission, please let me know&lt;/a>. This helps me to 
+arrange prizes, judges, etc. &lt;b>The community response has been overwhelming, 
+with lots of blog coverage of this event, along with lots of prize donations.&lt;/b> 
+So far, I've gotten about a dozen folks promising submissions that represent 
+individuals or teams. Some have even been from within Microsoft, so submissions 
+should be pretty cool (I guess even guys inside of MS don't get enough coding 
+time : ).&lt;/p>
+&lt;p>At 11:59pm on August 30th,
+&lt;a href="mailto:submission@sellsbrothers.com?subject=Spend A Day With .NET Submission">send me an URL to your submission, including full source&lt;/a>. 
+If you have a prize preference along with whether you mind me posting your 
+source on my site or not. At the very least, I'd like to host the binaries for 
+the winners on my site so that visitors can see what .NET can really do in just 
+a day.&lt;/p>
+&lt;h1>The Rest&lt;/h1>
+&lt;p>If you've got any questions or comments or you'd like to sponsor this event 
+or send along a prize or whatever,
+&lt;a href="mailto:csells@sellsbrothers.com?subject=Re: Spend A Day With .NET">drop 
+me a line&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/198</id>
+    <title>"Spend A Day With .NET" on August 30th</title>
+    <updated>2002-08-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-25T07:00:00.000Z</published>
+    <summary>Here. I've heard from individuals and teams all over the world who are going to participate in the "Spend A Day With.NET" coding contest on August 30th. And as the fever spreads, the prizes increase, now including five different software packages, 12 books, a free year of MSDN Universal and the grand prize, free admission to the Web Services DevCon. It's not too late to call in sick and send in your entry!</summary>
+    <content type="html">&lt;h1>"Spend A Day With .NET" on August 30th&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. I've heard from individuals and teams all over the world who are going to participate in the "Spend A Day With .NET" coding contest on August 30th. And as the fever spreads, the prizes increase, now including five different software packages, 12 books, a free year of MSDN Universal and the grand prize, free admission to the Web Services DevCon. It's not too late to call in sick and send in your entry!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/197</id>
+    <title>foreach is Your Friend, part 1</title>
+    <updated>2002-08-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-23T07:00:00.000Z</published>
+    <summary>Here. "Of course, the flexibility and expressiveness of C++ that allowed this kind of thing to be built at the library level, instead of directly into the language itself, was both its best feature and its worst problem. C# eschews this kind of flexibility, and the complexity that follows, by simply building a foreach statement into the language that knows how to handle both arrays and custom types."</summary>
+    <content type="html">&lt;h1>foreach is Your Friend, part 1&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7481/win1029871000253/">Here&lt;/a>. "Of course, the flexibility and expressiveness of C++ that allowed this kind of thing to be built at the library level, instead of directly into the language itself, was both its best feature and its worst problem. C# eschews this kind of flexibility, and the complexity that follows, by simply building a foreach statement into the language that knows how to handle both arrays and custom types."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/196</id>
+    <title>Second .NET Framework Service Pack</title>
+    <updated>2002-08-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-22T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "The.NET Framework Service Pack 2 (SP2) release focuses on security issues and other problems Microsoft has found since SP1's release; this release also includes all the fixes from.NET Framework SP1." </summary>
+    <content type="html">&lt;h1>Second .NET Framework Service Pack&lt;/h1>
+&lt;a href="http://www.wininformant.com/articles/index.cfm?articleid=26201">Here&lt;/a>. From Razvan Caciula: "The .NET Framework Service Pack 2 (SP2) release focuses on security issues and other problems Microsoft has found since SP1's release; this release also includes all the fixes from .NET Framework SP1."
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/195</id>
+    <title>The Diminishing Importance of HTML</title>
+    <updated>2002-08-21T07:00:00.000Z</updated>
+    <published>2002-08-21T07:00:00.000Z</published>
+    <summary>Here. "HTML-based Web development has dominated application development for the last six years or so and there are no signs of that changing. However, things are changing as the.NET initiative takes hold. Although Microsoft has put a lot of effort into its Web-based interfaces, which include the powerful new ASP.NET Web Forms framework, I am guessing that there will actually be a push back to desktop-driven, forms-based applications once.NET takes hold."</summary>
+    <content type="html">&lt;h1>The Diminishing Importance of HTML &lt;/h1>
+&lt;a href="http://www.devx.com/codemag/articles/2002/JulyAug/DiminishingHTML/codemag-1.asp">Here&lt;/a>. "HTML-based Web development has dominated application development for the last six years or so and there are no signs of that changing. However, things are changing as the .NET initiative takes hold. Although Microsoft has put a lot of effort into its Web-based interfaces, which include the powerful new ASP.NET Web Forms framework, I am guessing that there will actually be a push back to desktop-driven, forms-based applications once .NET takes hold."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/194</id>
+    <title>The Microsoft Script Center</title>
+    <updated>2002-08-20T07:00:00.000Z</updated>
+    <published>2002-08-20T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: This site rocks!</summary>
+    <content type="html">&lt;h1>The Microsoft Script Center&lt;/h1>
+&lt;a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/scriptcenter/filefolder/default.asp">Here&lt;/a>. From Razvan Caciula: This site rocks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/193</id>
+    <title>Genghis v0.3 Release</title>
+    <updated>2002-08-18T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-08-18T07:00:00.000Z</published>
+    <summary>What's new in Genghis v0.3 : Screen shots for everything. Source available via CVS repository. MRU support, including both in-menu and sub-menu support. A much more robust set of validation components modeled along the lines of the ASP.NET validation components, including required, regex, range and comparison validators. FileDocument component for document/dirty bit handling. Wizard support, including changing page groups on the fly! Custom state treeview so that you can set and show all three checkbox stat...</summary>
+    <content type="html">&lt;h1>Genghis v0.3 Release&lt;/h1>
+&lt;p>What's new in &lt;a href="/public/tools/genghis/">Genghis v0.3&lt;/a>:&lt;/p>
+&lt;ul>
+	&lt;li>Screen shots for everything.&lt;/li>
+	&lt;li>Source available via CVS repository.&lt;/li>
+	&lt;li>MRU support, including both in-menu and sub-menu support.&lt;/li>
+	&lt;li>A much more robust set of validation components modeled along the lines of the ASP.NET validation components, including required, regex, range and comparison validators.&lt;/li>
+	&lt;li>FileDocument component for document/dirty bit handling.&lt;/li>
+	&lt;li>Wizard support, including changing page groups on the fly!&lt;/li>
+	&lt;li>Custom state treeview so that you can set and show all three checkbox states.&lt;/li>
+	&lt;li>A class to expose the WinForms HandleCollector so that you can put your own custom resources into it.&lt;/li>
+	&lt;li>A Screen Saver class.&lt;/li>
+	&lt;li>A bunch of file utility classes, including retrieving mapped drives, retrieving shares and path resolution.&lt;/li>
+	&lt;li>A cursor changer class that works with the using block.&lt;/li>
+	&lt;li>A WebCommandLineHelper class to parse command line arguments from the URL used to launch href-exes.&lt;/li>
+	&lt;li>Update to the FileNameDialog to include newish flags. &lt;/li>
+&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/192</id>
+    <title>NUnit 2.0 RC1 available</title>
+    <updated>2002-08-16T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-08-16T07:00:00.000Z</published>
+    <summary>Here. From Bernard Vander Beken: Highlights of the updated unit testing framework for.NET:
+- Attribute based mechanism for identifying test fixtures and test methods.
+- Automatic creation of test suites.
+- Improved GUI runner allowing dynamic reloading of test assemblies.
+- The Console runner supports XML output.
+- Mostly backward compatible with NUnit 1.0.
+</summary>
+    <content type="html">&lt;h1>NUnit 2.0 RC1 available&lt;/h1>
+&lt;a href="http://sourceforge.net/project/showfiles.php?group_id=10749&amp;release_id=105544">Here&lt;/a>. From Bernard Vander Beken: Highlights of the updated unit testing framework for .NET:
+- Attribute based mechanism for identifying test fixtures and test methods.
+- Automatic creation of test suites.
+- Improved GUI runner allowing dynamic reloading of test assemblies.
+- The Console runner supports XML output.
+- Mostly backward compatible with NUnit 1.0.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/191</id>
+    <title>Star Trek hope</title>
+    <updated>2002-08-16T07:00:00.000Z</updated>
+    <published>2002-08-16T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "It's entirely possible that the speed of light would have got greater and greater as you go back towards the Big Bang. "</summary>
+    <content type="html">&lt;h1>Star Trek hope&lt;/h1>
+&lt;a href="http://news.bbc.co.uk/2/hi/science/nature/2181455.stm">Here&lt;/a>. From Razvan Caciula: "It's entirely possible that the speed of light would have got greater and greater as you go back towards the Big Bang. "</content>
+  </entry>
+</feed>

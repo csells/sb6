@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed4.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed3.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed5.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed4.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12706</id>
+    <title>Goodbye Microsoft, Hello Telerik!</title>
+    <updated>2011-12-13T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="http://i.microsoft.com/global/en-us/homepage/PublishingImages/sprites/microsoft_gray.png"/>
+    <category term="spout" label="The Spout"/>
+    <category term="telerik" label="Telerik"/>
+    <published>2011-12-13T08:00:00.000Z</published>
+    <summary>I have gotten to do a ton of really great things at Microsoft: I got to write a column on WPF and turn that column into not one, but two books. I got the excitement for every blog post in the first two years wondering if this was the one that was going to get me fired. (It was close a few times.) I got to throw several Developer Conferences (DevCons). I got to spin up a completely new community from scratch (“Oslo”). I got to stay up all night erasing the word “WinFS” from all of microsoft.com. I got to be ...</summary>
+    <content type="html">&lt;h1>Goodbye Microsoft, Hello Telerik!&lt;/h1>
+&lt;p>&lt;img style="margin: 0px 0px 5px 5px; display: inline; float: right" align="right" src="http://i.microsoft.com/global/en-us/homepage/PublishingImages/sprites/microsoft_gray.png" width="240" height="39" />I have gotten to do a ton of really great things at Microsoft:&lt;/p>  &lt;ul>   &lt;li>I got to &lt;strong>write a column on WPF &lt;/strong>and turn that column into not one, but two books. &lt;/li>    &lt;li>I got the excitement for every blog post in the first two years &lt;strong>wondering if this was the one that was going to get me fired.&lt;/strong> (It was close a few times.) &lt;/li>    &lt;li>I got to &lt;strong>throw several Developer Conferences &lt;/strong>(DevCons). &lt;/li>    &lt;li>I got to &lt;strong>spin up a completely new community &lt;/strong>from scratch (“Oslo”). &lt;/li>    &lt;li>I got to stay up all night &lt;strong>erasing the word “WinFS” &lt;/strong>from all of microsoft.com. &lt;/li>    &lt;li>I got to &lt;strong>be part of a Microsoft product team from incubation &lt;/strong>through startup to product and then to kaput. &lt;/li>    &lt;li>I got to get &lt;strong>ordained as a minister &lt;/strong>so that I could marry a PM from the WPF team to a PM on the WCF team as part of the talk I gave with Doug Purdy at the 2008 PDC. &lt;/li>    &lt;li>I got to &lt;strong>prepare for that talk with Doug until 4am&lt;/strong>, then walk back to the hotel, causing people to cross the street to stay away from us. And then I got to give that talk with Doug the next morning right after restoring my copy of Windows that had crashed 30 minutes before. &lt;/li>    &lt;li>I got to &lt;strong>drag Lars Wilhelmsen up on stage &lt;/strong>to read Norwegian from the Oslo Tour Guide book, only to find I was pointing him at German. &lt;/li>    &lt;li>I got to &lt;strong>throw an SDR&lt;/strong>. &lt;/li>    &lt;li>I got to &lt;strong>play poker with Microsoft power brokers &lt;/strong>far above my level (and take their money : ). &lt;/li>    &lt;li>I got to &lt;strong>sleep at Don Box’s house &lt;/strong>and become an adjunct part of his family. &lt;/li>    &lt;li>I got to have two &lt;strong>design reviews with Bill Gates &lt;/strong>(as hard as I tried, I could never see him actually enter the room). &lt;/li>    &lt;li>I got to turn developer feedback into &lt;strong>hundreds of bugs across dozens of products&lt;/strong>. &lt;/li>    &lt;li>I got &lt;strong>code into Vista &lt;/strong>(and I assume into Windows 7 and Windows 8 as well). &lt;/li>    &lt;li>I got to work on the team that built &lt;strong>the most ambitious set of templates ever shipped with Visual Studio&lt;/strong>. &lt;/li>    &lt;li>I got a very quick, very &lt;strong>deep education on JavaScript and CSS&lt;/strong>. &lt;/li>    &lt;li>I got to &lt;strong>help drive the developer story for an entirely new platform: &lt;/strong>WinRT, WinJS and Win8. &lt;/li>    &lt;li>I got to &lt;strong>lead two product teams through two PDCs &lt;/strong>(OK, one PDC and one //build/). &lt;/li>    &lt;li>I got to give &lt;strong>the //build/ keynote launching the Visual Studio 11 tools for Windows 8 with Kieran Mockford&lt;/strong>, who will forever be my //build/ buddy. &lt;/li>    &lt;li>I got to &lt;strong>see how the sausage is made &lt;/strong>for SQL Server, WCF, WPF, Silverlight, Windows Phone 7, Windows 8 and a host of others. I am forever changed. &lt;/li> &lt;/ul>  &lt;p>Those and dozens more have all been extraordinary experiences that have made my time at Microsoft extremely valuable. But, like all good things, that time has come to an end.&lt;/p>  &lt;p>&lt;strong>&lt;a href="/public/post-images/12706-65.jpeg">&lt;img style="margin: 0px 0px 5px 5px; display: inline; float: right" title="telerikLogo-web-450x180px" alt="telerikLogo-web-450x180px" align="right" src="/public/post-images/12706-66.jpeg" width="240" height="96" />&lt;/a>And now I’m very much looking forward to &lt;/strong>&lt;a href="http://www.telerik.com/company/press-center/company-news/chris-sells-joins-telerik-as-vp-of-the-developer-tools-division.aspx">my new job at Telerik&lt;/a>&lt;strong>&lt;/strong>&lt;strong>!&lt;/strong>&lt;/p>  &lt;p>Telerik is an &lt;a href="http://www.telerik.com/company/awards.aspx">award-winning&lt;/a> developer tools, UI controls and content management tools company. They’re well-known in the community not only for their top-notch tools and controls, but also for their sponsorship of community events and their free and open source projects. Telerik is a company that cares about making developer’s lives better and I’m honored that they chose me as part of their management overhead. : )&lt;/p>  &lt;p>&lt;a href="http://www.telerik.com/developer-productivity-tools.aspx">My division&lt;/a> will be responsible for a number of UI control sets – including WinForms, WPF, Silverlight and ASP.NET – as well as a number of tools – including the Just line, OpenAccess ORM and Telerik Reporting. I’m already familiar with Telerik’s famous controls and am now ramping up on the tools (I have been coding with JustCode recently and I like it). My team is responsible for making sure that developers can make the most of existing platforms, knowing that when you’re ready for the next platform, we’ll be there ready for you.&lt;/p>  &lt;p>These controls are already great (as is &lt;a href="/12703">the customer support&lt;/a> – holy cow!), so it’ll be my job to help figure out how we should think about new platforms (like &lt;a href="http://www.telerik.com/products/win8.aspx">Windows 8&lt;/a>) and about new directions.&lt;/p>  &lt;p>&lt;strong>And if you’ve read this far, I’m going to ask for your help.&lt;/strong>&lt;/p>  &lt;p>I’m going to be speaking at user groups and conferences and blogging and in general interacting with the community at lot more than I’ve gotten to do over the last 12 months. As I do that, please let me know what you like about Telerik’s products and what you don’t like, what we should do more of and what new things we should be doing. Telerik already has forums, online customer support, blog posts and voting – you should keep using those. In addition:&lt;/p>  &lt;p>&lt;strong>Feel free to reach out to me directly about Telerik products.&lt;/strong>&lt;/p>  &lt;p>Of course, I can’t guarantee that I’ll take every idea, but I can guarantee that I’ll consider every one of them that I think will improve the developer experience. I got some really good advice when I first arrived at Microsoft: “Make sure that you have an agenda.” The idea is that it’s very easy to get sucked into Microsoft and forget why you’re there or what you care about. My agenda then and now is the same:&lt;/p>  &lt;p>&lt;strong>Make developers’ lives better.&lt;/strong>&lt;/p>  &lt;p>That’s what I tried to do at Intel, DevelopMentor and Microsoft and that’s what I’m going to try to do at Telerik. Thanks, Telerik for giving me a new home; I can’t wait to be there.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12705</id>
+    <title>Roslyn Syntax Visualizer Tools</title>
+    <updated>2011-12-04T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12705-62.png"/>
+    <published>2011-12-04T08:00:00.000Z</published>
+    <summary>As I do more with Roslyn, I find I want more information about what I’m parsing and how it’s represented in the Roslyn object model. I could, of course, have built myself a little OM dumper for Roslyn, but instead I dug through the samples and found two cool ones built right in, both provided in the Documents\Microsoft Codename Roslyn CTP - October 2011\Shared folder. Both Roslyn visualizer samples show a set of objects from the syntax part of the Roslyn API and the associated properties for the currently s...</summary>
+    <content type="html">&lt;h1>Roslyn Syntax Visualizer Tools&lt;/h1>
+&lt;p>As I do more with &lt;a href="http://msdn.microsoft.com/en-us/roslyn">Roslyn&lt;/a>, I find I want more information about what I’m parsing and how it’s represented in the Roslyn object model. I could, of course, have built myself a little OM dumper for Roslyn, but instead I dug through the samples and found two cool ones built right in, both provided in the &lt;strong>Documents\Microsoft Codename Roslyn CTP - October 2011\Shared&lt;/strong> folder.&lt;/p>  &lt;p>Both Roslyn visualizer samples show a set of objects from &lt;a href="http://blogs.msdn.com/b/csharpfaq/archive/2011/11/03/using-the-roslyn-syntax-api.aspx">the syntax part of the Roslyn API&lt;/a> and the associated properties for the currently selected node as well as the associated text. The difference is only where the text comes from, a syntax tree or a text file.&lt;/p>  &lt;h2>Syntax Debugger Visualizer&lt;/h2>  &lt;p>The SyntaxDebuggerVisualizer sample (fully described in the associated Readme.html) allows you to create a new Visual Studio visualizer such that you can hover over a node from the syntax tree, click on the magnifying glass in the data tip and get this:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12705-61.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="SyntaxDebuggerVisualizer" border="0" alt="SyntaxDebuggerVisualizer" src="/public/post-images/12705-62.png" width="644" height="265" />&lt;/a>&lt;/p>  &lt;p>The text comes from the syntax tree parsed in the program. As each node in the syntax tree in the visualizer is selected, the associated properties are showed below and the range of text is shown on the right.&lt;/p>  &lt;h2>Syntax Visualizer Extension&lt;/h2>  &lt;p>The SyntaxVisualizerExtension sample (also described in its own associated Readme.html) shows the syntax tree from the current C# or VB file that’s open in Visual Studio. You get to the visualizer by loading the SyntaxVisualizerExtension sample project, starting the app (under the debugger [F5] or not [Shift+F5] as you choose), which starts another copy of Visual Studio. In this instance of VS, open a C# or VB source file and choose View | Other Windows | Roslyn Syntax Visualizer, which shows the following:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12705-63.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="SyntaxVisualizerExtension" border="0" alt="SyntaxVisualizerExtension" src="/public/post-images/12705-64.png" width="644" height="416" />&lt;/a>&lt;/p>  &lt;p>This version of the visualizer works just like the other one except that it gets the text from the current source code file. As you open different files, the visualizer window updates itself. As you change the selected node in the visualizer’s syntax tree, the associated code in the file is selected.&lt;/p>  &lt;p>Both of these tools are very helpful for understand what’s been parsed by Roslyn. I personally like the debugger visualizer, as it’s always available without starting up a new instance of VS, but honestly I’m happy to have either, let alone both!&lt;/p>  &lt;p>&lt;strong>Update: &lt;/strong>Plus, there’s a cool tree view, too. &lt;a href="http://blogs.msdn.com/b/visualstudio/archive/2011/10/19/roslyn-syntax-visualizers.aspx">Check it out!&lt;/a>&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12704</id>
+    <title>REPL for the Rosyln CTP 10/2011</title>
+    <updated>2011-11-26T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="http://farm4.static.flickr.com/3050/2989067290_7167b9ded8_z.jpg"/>
+    <category term="tools" label="Tools"/>
+    <category term=".net" label=".NET"/>
+    <published>2011-11-26T08:00:00.000Z</published>
+    <summary>I don’t know what it is, but I’ve long been fascinated with using the C# syntax as a command line execution environment. It could be that PowerShell doesn’t do it for me (I’ve seriously tried half a dozen times or more). It could be that while LINQPad comes really close, I still don’t have enough control over the parsing to really make it work for my day-to-day command line activities. Or it may be that my friend Tim Ewald has always challenged csells to sell C shells by the sea shore. Roslyn REPL Whatever ...</summary>
+    <content type="html">&lt;h1>REPL for the Rosyln CTP 10/2011&lt;/h1>
+&lt;p>&lt;img style="margin: 0px 0px 0px 10px; display: inline; float: right" align="right" src="http://farm4.static.flickr.com/3050/2989067290_7167b9ded8_z.jpg" width="317" height="238" />&lt;/p>  &lt;p>I don’t know what it is, but I’ve long been fascinated with using the C# syntax as a command line execution environment. It could be that PowerShell doesn’t do it for me (I’ve seriously tried half a dozen times or more). It could be that while &lt;a href="/12691">LINQPad comes really close&lt;/a>, I still don’t have enough control over the parsing to really make it work for my day-to-day command line activities. Or it may be that my friend Tim Ewald has always challenged csells to sell &lt;a href="http://en.wikipedia.org/wiki/C_shell">C shells&lt;/a> by the sea shore.&lt;/p>  &lt;h2>Roslyn REPL&lt;/h2>  &lt;p>Whatever it is, I decided to spend my holiday time futzing with &lt;a href="http://blogs.msdn.com/b/visualstudio/archive/2011/10/19/introducing-the-microsoft-roslyn-ctp.aspx">the Roslyn 2011 CTP&lt;/a>, which is a set of technologies from Microsoft that gives you an API over your C# and VB.NET code.&lt;/p>  &lt;p>Why do I care? Well, there are all kinds of cool code analysis and refactoring tools I could build with it and I know &lt;a href="http://social.msdn.microsoft.com/forums/en-us/roslyn">some folks are doing just that&lt;/a>. In fact, at &lt;a href="http://www.buildwindows.com/">the BUILD conference&lt;/a>, Anders showed off &lt;a href="http://channel9.msdn.com/events/BUILD/BUILD2011/TOOL-816T">a “Paste as VB” command&lt;/a> built with Roslyn that would translate C# to VB slick as you please.&lt;/p>  &lt;p>For me, however, the first thing I wanted was a C# &lt;a href="http://en.wikipedia.org/wiki/REPL">REPL&lt;/a> environment (Read-Evaluate-Print-Loop). Of course, Roslyn ships out of the box with a REPL tool that you can get to with the View | Other Windows | C# Interactive Window inside Visual Studio 2010. In that code, you can evaluate code like the following:&lt;/p>  &lt;blockquote>   &lt;pre>&lt;p>&amp;gt; 1+1
+2
+&lt;br />&amp;gt; void SayHi() { Console.WriteLine(&amp;quot;hi&amp;quot;); }
+&lt;br />&amp;gt; SayHi();
+&lt;br />hi&lt;/p>&lt;/pre>
+&lt;/blockquote>
+
+&lt;p>Just like modern dynamic languages, as you type your C# and press Enter, it’s executed immediately, even allowing you to drop things like semi-colons or even calls to WriteLine to get output (notice the first “1+1” expression). This is a wonderful environment in which to experiment with C# interactively, but just like LINQPad, it was a closed environment; the source was not provided!&lt;/p>
+
+&lt;p>The Roslyn team does provide a great number of wonderful samples (check the “Microsoft Codename Roslyn CTP - October 2011” folder in your Documents folder after installation). One in particular, called BadPainting, provides a text box for inputting C# that’s executed to add elements to a painting.&lt;/p>
+
+&lt;p>But that wasn’t enough for me; I wanted at least a Console-based command line REPL like the cool Python, JavaScript and Ruby kids have. And so, with the help of the Roslyn team (it pays to have friends in low places), I built one:&lt;/p>
+
+&lt;p>&lt;a href="/public/samples/RoslynRepl.zip">RoslynRepl Sample Download&lt;/a>&lt;/p>
+
+&lt;p>Building it (after installing Visual Studio 2010, &lt;a href="http://www.microsoft.com/download/en/details.aspx?id=23691">Visual Studio 2010 SP1&lt;/a>, the &lt;a href="http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;amp;id=2680">Visual Studio 2010 SDK&lt;/a> and &lt;a href="http://www.microsoft.com/download/en/details.aspx?id=27746">the Roslyn CTP&lt;/a>) and running it lets you do the same things that the VS REPL gives you:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12704-51.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="RoslynRepl" border="0" alt="RoslynRepl" src="/public/post-images/12704-52.png" width="644" height="193" />&lt;/a>&lt;/p>
+
+&lt;p>In implementing my little RoslynRepl tool, I tried to stay as faithful to the VS REPL as possible, including the help implementation:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12704-53.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="replhelp" border="0" alt="replhelp" src="/public/post-images/12704-54.png" width="644" height="284" />&lt;/a>&lt;/p>
+
+&lt;p>If you’re familiar with the VS REPL commands, you’ll notice that I’ve trimmed the Console version a little as appropriate, most notably the #prompt command, which only has “inline” mode (there is no “margin” in a Console window). Other than that, I’ve built the Console version of REPL for Roslyn such that it works just exactly like the one documented in the Roslyn Walkthrough: &lt;a href="http://msdn.microsoft.com/en-us/hh543923">Executing Code in the Interactive Window&lt;/a>.&lt;/p>
+
+&lt;p>Building a REPL for any language is, at you might imagine, a 4-step process:&lt;/p>
+
+&lt;ol>
+  &lt;li>Read input from the user &lt;/li>
+
+  &lt;li>Evaluate the input &lt;/li>
+
+  &lt;li>Print the results &lt;/li>
+
+  &lt;li>Loop around to do it again until told otherwise &lt;/li>
+&lt;/ol>
+
+&lt;h2>&lt;/h2>
+
+&lt;h2>Read&lt;/h2>
+
+&lt;p>Step 1 is a simple Console.ReadLine. Further, the wonder and beauty of a Windows Console application is that you get complete Up/Down Arrow history, line editing and even obscure commands like F7, which brings up a list of commands in the history:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12704-55.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="replbeauty" border="0" alt="replbeauty" src="/public/post-images/12704-56.png" width="644" height="284" />&lt;/a>&lt;/p>
+
+&lt;p>The reading part of our REPL is easy and has nothing to do with Roslyn. It’s evaluation where things get interesting.&lt;/p>
+
+&lt;h2>Eval&lt;/h2>
+
+&lt;p>Before we can start evaluating commands, we have to initialize the scripting engine and set up a session so that as we build up context over time, e.g. defining variables and functions, that context is available to future lines of script:&lt;/p>
+
+&lt;pre class="code">&lt;span style="color: blue">using &lt;/span>Roslyn.Compilers;
+&lt;span style="color: blue">using &lt;/span>Roslyn.Compilers.CSharp;
+&lt;span style="color: blue">using &lt;/span>Roslyn.Compilers.Common;
+&lt;span style="color: blue">using &lt;/span>Roslyn.Scripting;
+&lt;span style="color: blue">using &lt;/span>Roslyn.Scripting.CSharp;&lt;/pre>
+
+&lt;pre class="code">...&lt;/pre>
+
+&lt;pre class="code">&lt;span style="color: green">// Initialize the engine&lt;br />&lt;/span>&lt;span style="color: blue">string&lt;/span>[] defaultReferences = &lt;span style="color: blue">new string&lt;/span>[] { &lt;span style="color: #a31515">&amp;quot;System&amp;quot;&lt;/span>, &lt;span style="color: #a31515">...&lt;/span>&lt;span style="color: #a31515"> &lt;/span>};
+&lt;span style="color: blue">string&lt;/span>[] defaultNamespaces = &lt;span style="color: blue">new string&lt;/span>[] { &lt;span style="color: #a31515">&amp;quot;System&amp;quot;&lt;/span>, &lt;span style="color: #a31515">...&lt;/span>&lt;span style="color: #a31515"> &lt;/span>};
+&lt;strong>&lt;span style="color: #2b91af">CommonScriptEngine &lt;/span>engine = &lt;span style="color: blue">new &lt;/span>&lt;span style="color: #2b91af">ScriptEngine&lt;/span>(defaultReferences, defaultNamespaces);&lt;/strong>&lt;/pre>
+
+&lt;pre class="code">&lt;pre class="code">&lt;span style="color: green">// HACK: work around a known issue where namespaces aren't visible inside functions
+&lt;/span>&lt;span style="color: blue">foreach &lt;/span>(&lt;span style="color: blue">string &lt;/span>nm &lt;span style="color: blue">in &lt;/span>defaultNamespaces) {
+  engine.Execute(&lt;span style="color: #a31515">&amp;quot;using &amp;quot; &lt;/span>+ nm + &lt;span style="color: #a31515">&amp;quot;;&amp;quot;&lt;/span>, session);
+}
+
+&lt;strong>&lt;span style="color: #2b91af">Session &lt;/span>session = &lt;span style="color: #2b91af">Session&lt;/span>.Create();&lt;/strong>&lt;/pre>&lt;/pre>
+
+&lt;p>Here we’re creating a ScriptEngine object from the Roslyn.Scripting.CSharp namespace, although I’m assigning it to the base CommonScriptEngine class which can hold a script engine of any language. As part of construction, I pass in the same set of assembly references and namespaces that a default Console application has out of the box and that the VS REPL uses as well. There’s also a small hack to fix a known issue where namespaces aren’t visible during function definitions, but I expect that will be unnecessary in future drops of Roslyn.&lt;/p>
+
+&lt;p>Once I’ve got the engine to do the parsing and executing, I creating a Session object to keep context. Now we’re all set to read a line of input and evaluate it:&lt;/p>
+
+&lt;pre class="code">&lt;span style="color: blue">&lt;pre class="code">&lt;span style="color: #2b91af">&lt;pre class="code">&lt;strong>&lt;span style="color: #2b91af">ParseOptions &lt;/span>interactiveOptions =&lt;br />  &lt;span style="color: blue">new &lt;/span>&lt;span style="color: #2b91af">ParseOptions&lt;/span>(kind: &lt;span style="color: #2b91af">SourceCodeKind&lt;/span>.Interactive,&lt;br />                   languageVersion: &lt;span style="color: #2b91af">LanguageVersion&lt;/span>.CSharp6);
+&lt;/strong>&lt;/span>...
+while &lt;/span>(&lt;span style="color: blue">true&lt;/span>) {
+  &lt;span style="color: #2b91af">Console&lt;/span>.Write(&amp;quot;&amp;gt; &amp;quot;);
+  &lt;span style="color: blue">var &lt;/span>input = &lt;span style="color: blue">new &lt;/span>&lt;span style="color: #2b91af">StringBuilder&lt;/span>();
+
+  &lt;span style="color: blue">while &lt;/span>(&lt;span style="color: blue">true&lt;/span>) {
+    &lt;span style="color: blue">string &lt;/span>line = &lt;span style="color: #2b91af">Console&lt;/span>.ReadLine();
+    &lt;span style="color: blue">if &lt;/span>(&lt;span style="color: blue">string&lt;/span>.IsNullOrWhiteSpace(line)) { &lt;span style="color: blue">continue&lt;/span>; }
+
+    &lt;span style="color: green">// Handle #commands
+    &lt;/span>&lt;span style="color: blue">...&lt;/span>
+
+    &lt;span style="color: green">// Handle C# (include #define and other directives)
+    &lt;/span>input.AppendLine(line);
+
+&lt;strong>    &lt;/strong>&lt;strong>&lt;span style="color: green">// Check for complete submission
+    &lt;/span>&lt;span style="color: blue">if &lt;/span>(&lt;span style="color: #2b91af">Syntax&lt;/span>.IsCompleteSubmission(&lt;br />          &lt;span style="color: #2b91af">SyntaxTree&lt;/span>.ParseCompilationUnit(&lt;br />            input.ToString(), options: interactiveOptions))) {&lt;br />      &lt;span style="color: blue">break&lt;/span>;&lt;br />    }&lt;/strong>&lt;span style="color: green">
+    &lt;/span>&lt;span style="color: #2b91af">Console&lt;/span>.Write(&amp;quot;. &amp;quot;);
+  }
+
+  Execute(input.ToString());
+}&lt;/pre>&lt;/pre>&lt;/pre>
+
+&lt;p>The only thing we’re doing that’s at all fancy here is collecting input over multiple lines. This allows you to enter commands over multiple lines:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12704-57.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="replmultiline" border="0" alt="replmultiline" src="/public/post-images/12704-58.png" width="644" height="147" />&lt;/a>&lt;/p>
+
+&lt;p>The IsCompleteSubmission function is the thing that checks whether the script engine will have enough to figure out what the user meant or whether you need to collect more. We do this with a ParseOptions object optimized for “interactive” mode, as opposed to “script” mode (reading scripts from files) or “regular” mode (reading fully formed source code from files). The “interactive” mode lets us do things like “1+1” or “x” where “x” is some known identifier without requiring a call to Console.WriteLine or even a trailing semi-colon, which seems like the right thing to do in a REPL program.&lt;/p>
+
+&lt;p>Once we have a complete command, single or multi-line, we can execute it:&lt;/p>
+&lt;span style="color: blue">
+  &lt;pre class="code">&lt;span style="color: blue">public void &lt;/span>Execute(&lt;span style="color: blue">string &lt;/span>s) {
+  &lt;span style="color: blue">try &lt;/span>{
+&lt;strong>    &lt;span style="color: #2b91af">Submission&lt;/span>&amp;lt;&lt;span style="color: blue">object&lt;/span>&amp;gt; submission = engine.CompileSubmission&amp;lt;&lt;span style="color: blue">object&lt;/span>&amp;gt;(s, session);
+    &lt;span style="color: blue">object &lt;/span>result = submission.Execute();
+    &lt;span style="color: blue">bool &lt;/span>hasValue;
+    &lt;span style="color: #2b91af">ITypeSymbol &lt;/span>resultType = submission.Compilation.GetSubmissionResultType(&lt;span style="color: blue">out &lt;/span>hasValue);
+&lt;/strong>
+    &lt;span style="color: green">// Print the results
+    &lt;/span>&lt;span style="color: blue">...&lt;/span>
+  }
+  &lt;span style="color: blue">catch &lt;/span>(&lt;span style="color: #2b91af">CompilationErrorException &lt;/span>e) {
+    Error(e.Diagnostics.Select(d =&amp;gt; d.ToString()).ToArray());
+  }
+  &lt;span style="color: blue">catch &lt;/span>(&lt;span style="color: #2b91af">Exception &lt;/span>e) {
+    Error(e.ToString());
+  }
+}&lt;/pre>
+&lt;/span>
+
+&lt;p>Execution is a matter of creating a “submission,” which is a unit of work done by the engine against the session. There are helper methods that make this easier, but we care about the output details so that we can implement our REPL session.&lt;/p>
+
+&lt;h2>Print&lt;/h2>
+
+&lt;p>Printing the output depends on the type of a result we get back:&lt;/p>
+
+&lt;pre class="code">&lt;span style="color: #2b91af">&lt;pre class="code">&lt;strong>&lt;span style="color: #2b91af">ObjectFormatter &lt;/span>formatter =&lt;br />  &lt;span style="color: blue">new &lt;/span>&lt;span style="color: #2b91af">ObjectFormatter&lt;/span>(maxLineLength: &lt;span style="color: #2b91af">Console&lt;/span>.BufferWidth, memberIndentation: &lt;span style="color: #a31515">&amp;quot;  &amp;quot;&lt;/span>);&lt;/strong>&lt;/pre>...&lt;br />Submission&lt;/span>&amp;lt;&lt;span style="color: blue">object&lt;/span>&amp;gt; submission = engine.CompileSubmission&amp;lt;&lt;span style="color: blue">object&lt;/span>&amp;gt;(s, session);
+&lt;span style="color: blue">object &lt;/span>result = submission.Execute();
+&lt;span style="color: blue">bool &lt;/span>hasValue;
+&lt;span style="color: #2b91af">ITypeSymbol &lt;/span>resultType =&lt;br />  submission.Compilation.GetSubmissionResultType(&lt;span style="color: blue">out &lt;/span>hasValue);
+
+&lt;strong>&lt;span style="color: green">// Print the results
+&lt;/span>&lt;span style="color: blue">if &lt;/span>(hasValue) {
+  &lt;span style="color: blue">if &lt;/span>(resultType != &lt;span style="color: blue">null &lt;/span>&amp;amp;&amp;amp; resultType.SpecialType == &lt;span style="color: #2b91af">SpecialType&lt;/span>.System_Void) {
+    &lt;span style="color: #2b91af">Console&lt;/span>.WriteLine(formatter.VoidDisplayString);
+  }
+  &lt;span style="color: blue">else &lt;/span>{
+    &lt;span style="color: #2b91af">Console&lt;/span>.WriteLine(formatter.FormatObject(result));
+  }
+&lt;/strong>}&lt;/pre>
+
+&lt;p>As part of the result output, we’re leaning on an instance of an “object formatter” which can trim things for us to the appropriate length and, if necessary, indent multi-line object output.&lt;/p>
+
+&lt;p>In the case that there’s an error, we grab the exception information and turn it red:&lt;/p>
+
+&lt;pre class="code">&lt;span style="color: blue">void &lt;/span>Error(&lt;span style="color: blue">params string&lt;/span>[] errors) {
+&lt;strong>  &lt;span style="color: blue">var &lt;/span>oldColor = &lt;span style="color: #2b91af">Console&lt;/span>.ForegroundColor;
+  &lt;span style="color: #2b91af">Console&lt;/span>.ForegroundColor = &lt;span style="color: #2b91af">ConsoleColor&lt;/span>.Red;
+  WriteLine(errors);
+  &lt;span style="color: #2b91af">Console&lt;/span>.ForegroundColor = oldColor;
+&lt;/strong>}&lt;/pre>
+
+&lt;pre class="code">&lt;pre class="code">&lt;span style="color: blue">public void &lt;/span>Write(&lt;span style="color: blue">params object&lt;/span>[] objects) {
+  &lt;span style="color: blue">foreach &lt;/span>(&lt;span style="color: blue">var &lt;/span>o &lt;span style="color: blue">in &lt;/span>objects) { &lt;span style="color: #2b91af">Console&lt;/span>.Write(o.ToString()); }
+}
+
+&lt;span style="color: blue">void &lt;/span>WriteLine(&lt;span style="color: blue">params object&lt;/span>[] objects) {
+  Write(objects);
+  Write(&lt;span style="color: #a31515">&amp;quot;\r\n&amp;quot;&lt;/span>);
+}
+
+&lt;a href="/public/post-images/12704-59.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="replerror" border="0" alt="replerror" src="/public/post-images/12704-60.png" width="644" height="87" />&lt;/a>&lt;/pre>&lt;/pre>
+
+&lt;h2>Loop&lt;/h2>
+
+&lt;p>And then we do it all over again until the program is stopped with the #exit command (Ctrl+Z, Enter works, too).&lt;/p>
+
+&lt;h2>&lt;/h2>
+
+&lt;h2>Where Are We?&lt;/h2>
+
+&lt;p>Executing lines of C# code, the hardest part of building a C# REPL, has become incredibly easy with Roslyn. The engine does the parsing, the session keeps the context and the submission gives you extra information about the results. To learn more about scripting in Roslyn, I recommend the following resources:&lt;/p>
+
+&lt;ul>
+  &lt;li>&lt;a href="http://msdn.com/roslyn">Roslyn on MSDN&lt;/a> &lt;/li>
+
+  &lt;li>&lt;a href="http://social.msdn.microsoft.com/Forums/en-US/roslyn/thread/06e3582e-386d-4a1c-964b-29529e497e72">The REPL forum for Roslyn&lt;/a> &lt;/li>
+
+  &lt;li>&lt;a href="http://www.codeproject.com/KB/cs/csharpforscripting.aspx">C# as a Scripting Language in Your .NET Applications Using Roslyn&lt;/a>, Anoop Madhusudanan, codeproject.com, 10/24/2011 &lt;/li>
+&lt;/ul>
+
+&lt;p>Now I’m off to add Intellisense support. Wish me luck!&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12703</id>
+    <title>Telerik: Best tech support response ever</title>
+    <updated>2011-11-19T08:00:00.000Z</updated>
+    <published>2011-11-19T08:00:00.000Z</published>
+    <summary>I was playing around with the Telerik WPF controls the other day and I ran into an “issue.” It wasn’t a bug, just a bet peeve of mine, so knowing that two friends of mine, Stephen Forte and Doug Seven, both work at Telerik, I thought I’d report it. I created an account on their support web site and dropped in the following message: From: Chris Date: 11/17/2011 10:59:38 AM when I'm choosing setup options in the Telerik installer, I can select options by clicking on the little, tiny box but I cannot select op...</summary>
+    <content type="html">&lt;h1>Telerik: Best tech support response ever&lt;/h1>
+&lt;p>I was playing around with &lt;a href="http://www.telerik.com/products/wpf.aspx">the Telerik WPF controls&lt;/a> the other day and I ran into an “issue.” It wasn’t a bug, just a bet peeve of mine, so knowing that two friends of mine, &lt;a href="http://www.stephenforte.net/">Stephen Forte&lt;/a> and &lt;a href="http://dougseven.com/">Doug Seven&lt;/a>, both work at Telerik, I thought I’d report it. I created an account on their support web site and dropped in the following message:&lt;/p>  &lt;blockquote>   &lt;p>&lt;em>&lt;b>From: Chris&lt;/b>         &lt;br />Date: 11/17/2011 10:59:38 AM&lt;/em>&lt;/p>    &lt;p>&lt;em>when I'm choosing setup options in the Telerik installer, I can select options by clicking on the little, tiny box but I cannot select options by clicking on the wide, giant checkbox label. I'd really love to be able to do the latter as well as the former. thanks!&lt;/em>&lt;/p> &lt;/blockquote>  &lt;p>Within 24 hours, I got the best developer tech support response I’ve gotten in 30 years in this industry (damn, I’m old):&lt;/p>  &lt;blockquote>   &lt;p>&lt;em>&lt;b>From: Telerik Admin&lt;/b>         &lt;br />Date: 11/18/2011 8:09:42 AM&lt;/em>&lt;/p>    &lt;p>&lt;em>Hi Chris,        &lt;br />A very valid point indeed, thanks for sharing your opinion!         &lt;br />The thing is a bit tricky in terms of UX actually and I'd love your input here. Let me add some details:         &lt;br />The idea is that the click on the label is used for highlighting the item (thus change the displayed images) and the click on the checkbox is used for checking it.         &lt;br />Now, there are three approaches (different than the current one) of which I like none (maybe prefer the third actually):&lt;/em>&lt;/p>    &lt;p>&lt;em>1. The label click both highlights and checks/unchecks the checkbox. I don't like this one for two reasons: 1) if Telerik've set an item to be checked by default, we don't want the customer to uncheck it mistakenly and 2) if the item is unchecked by default, the customer might just want the original stuff and he'd need a second click to uncheck it back.&lt;/em>&lt;/p>    &lt;p>&lt;em>2. Use double-click on the label to check/uncheck the checkbox. Don't like it for it's not intuitive and noone would use it. As an example, the Windows Platform Installer has such a feature and we discovered it a year after its initial release - when we started checking it deeper.&lt;/em>&lt;/p>    &lt;p>&lt;em>3. Only check/uncheck a checkbox on label click if the item has already been highlighted. The drawback of this approach is that you would need two clicks to have the item state changed the first time you're on it. But still, this one seems kinda reasonable. &lt;/em>&lt;/p>    &lt;p>&lt;em>How do you find these?        &lt;br />Thanks,         &lt;br />Erjan Gavalji         &lt;br />the Telerik team &lt;/em>&lt;/p>    &lt;p>&lt;em>Explore the entire Telerik portfolio by downloading the Ultimate Collection trial package. &lt;/em>&lt;a href="http://www.telerik.com/account/your-products/trial-product-versions/download-trial-file.aspx?pid=763">&lt;em>Get it now &amp;gt;&amp;gt;&lt;/em>&lt;/a>&lt;/p> &lt;/blockquote>  &lt;p>I have since learned that the Telerik developers support their own software and the benefits are obvious:&lt;/p>  &lt;ul>   &lt;li>The reply was not wrapped in advertising chrome. There was a small Telerik plug at the bottom, &lt;em>after &lt;/em>he’d addressed my issue. &lt;/li>    &lt;li>The reply was not a canned response that “we’ve gotten your support request.” &lt;/li>    &lt;li>The reply was not a canned response that didn’t address my issue. &lt;/li>    &lt;li>The reply made it clear that I was understood and acknowledged my issue as valid. &lt;/li>    &lt;li>The reply came from a real person – Erjan – and he was willing to put his name on the email and take responsibility. &lt;/li>    &lt;li>Erjan laid out the possible options he thought of to fix the issue and asked me which I thought I would like best. &lt;/li> &lt;/ul>  &lt;p>Erjan from Telerik – you’re my new hero. Thanks for answering my question so thoroughly. I have confidence that you’ll take my initial feedback and my reply to this email (show selection when you click on the checkbox label like the VS2010 installer does) and make the product even better.&lt;/p>  &lt;p>It’s no wonder &lt;a href="http://www.telerik.com/company/awards.aspx">Telerik is an award winning software vendor&lt;/a>. You have to love a company that’s willing to be open with their developers.&lt;/p>  &lt;p>&lt;strong>Update: &lt;/strong>as of a few days later, a new installer was posted that included my fix suggestion. Wow!&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12702</id>
+    <title>Mary Sells, 1921-2011, Rest In Peace</title>
+    <updated>2011-03-01T08:00:00.000Z</updated>
+    <published>2011-03-01T08:00:00.000Z</published>
+    <summary>Mary Hohnke Sells died on a Monday afternoon on the last day of February, 2010 in her home in Fargo, ND. She had just turned 89 years old on the 18 th of February. She passed away peacefully in her sleep during an afternoon nap, having been tucked in by her daughter-in-law earlier that day. She’s survived by her son J. Michael Sells, her daughter-in-law Charlene Schreiber, her grandson Chris Sells and granddaughter-in-law Melissa Plummer and her two teenaged grandsons, John Michael Sells and Thomsen Frederi...</summary>
+    <content type="html">&lt;h1>Mary Sells, 1921-2011, Rest In Peace&lt;/h1>
+&lt;p>Mary Hohnke Sells died on a Monday afternoon on the last day of February, 2010 in her home in Fargo, ND. She had just turned 89 years old on the 18&lt;sup>th&lt;/sup> of February. She passed away peacefully in her sleep during an afternoon nap, having been tucked in by her daughter-in-law earlier that day. She’s survived by her son J. Michael Sells, her daughter-in-law Charlene Schreiber, her grandson Chris Sells and granddaughter-in-law Melissa Plummer and her two teenaged grandsons, John Michael Sells and Thomsen Frederick Sells. She was the last of four siblings; John, Shirley and Jim have all gone ahead of her to prepare the way.&lt;/p>  &lt;p>Mary died a much beloved mother, grandmother and great grandmother as well as a dear friend to most everyone she met. She was generous of spirit, baking and cooking for her friends and family almost right up until the day she died, making sure her loved ones stayed plump in her love. She was talented in the kitchen, keeping her family recipes close to her heart for only those most special in her life. She was also a mischievous soul, taking advantage of her quick mind and her family’s sympathy for her ailments in later years to cheat outrageously at games of all kinds.&lt;/p>  &lt;p>Mary was born in 1921, making her a child of the Great Depression. She graduated from Fargo’s Central High School in 1940, after which she pursued a course of study in Radiology Technology. She attained her national certification in 1946 and held it for 60 years. She married her late husband John Dickenson Sells in 1946, being secretly thrilled but outwardly scandalized when he insisted on public displays of dancing and other such tom-foolery. John worked for the Northern Pacific Railway and Mary worked in multiple clinical locations as she moved with her husband to sites ranging from North Dakota to Washington state. Her first child, Mike, is 61 and a successful draftsman at a local civil engineering firm. Her second child, Gretchen, died when she was only 15 in 1969, taking some of the light from Mary’s eyes. Her husband John was soon to follow, dying in 1971 of complications following gall bladder surgery.&lt;/p>  &lt;p>None of this stopped Mary from living her life, however, having gone to Seattle in 1978 to be closer to her sister Shirley and to follow her career, then moving back Fargo in 1983 to be with her son and grandson. Before her move to Seattle, Mary helped take care of her grandson during the summers when he would visit. She was a second mother to him, doting on him and spoiling him thoroughly his whole life with food and attention. Till the day she died, Chris was her “baby boy,” in spite of his age of 41 and his height of 6’5”.&lt;/p>  &lt;p>Mary was a member of the Mecca Chapter of the Order of the Eastern Star and received a 50-year membership acknowledgement for her many years of service. She was a life-long member of St. Mark’s Lutheran Church, an active member in the Women of the Evangelical Lutheran Church in America and a church quilter for most of those years. Mary was also an active member of PLS and enjoyed those friendships immensely.&lt;/p>  &lt;p>Later in life, when her sister Shirley was diagnosed with cancer, Mary and she, both in their 70s, made sure that Shirley’s “bucket list” was fulfilled, which included wine tours, roller coasters in Las Vegas and even, for Mary, an incident on a tipped raft in the Rouge River in Oregon. She lived a full, rich life on her own terms, never shy about what she wanted for herself and others, and always ready with advice, wanted or not.&lt;/p>  &lt;p>Mary died in her own home while she still had the faculties to interact with the ones she loved, as she wanted. She will be deeply missed and felt daily in the hearts and minds of those she left behind.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12698</id>
+    <title>Using SQL Server Profiler with EF</title>
+    <updated>2011-01-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12698-32.png"/>
+    <published>2011-01-15T08:00:00.000Z</published>
+    <summary>I’m a big fan of the SQL Server profiler for figuring out what the Entity Framework (EF) is really doing on the wire. If you’re unfamiliar with how to use the profiler, the easiest thing to do once you’ve got it started is File | New Trace. It will ask to which database you’d like to connection and then pop-up the Trace Properties window. If you click on the Events Selection tab, you can filter the events you see. For tracing EF, it doesn’t matter what type of events we see, but it does matter from whom the...</summary>
+    <content type="html">&lt;h1>Using SQL Server Profiler with EF&lt;/h1>
+&lt;p>I’m a big fan of &lt;a href="http://msdn.microsoft.com/en-us/library/ms181091.aspx">the SQL Server profiler&lt;/a> for figuring out what the Entity Framework (EF) is really doing on the wire. If you’re unfamiliar with how to use the profiler, the easiest thing to do once you’ve got it started is File | New Trace. It will ask to which database you’d like to connection and then pop-up the Trace Properties window. If you click on the Events Selection tab, you can filter the events you see. For tracing EF, it doesn’t matter what type of events we see, but it does matter from whom they come. To see EF calls (or any ADO.NET calls) against your database, the easiest thing to do is to press the Column Filters button and set the ApplicationName to be like “.NET SqlClient Data Provider”:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12698-31.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image001" border="0" alt="clip_image001" src="/public/post-images/12698-32.png" width="647" height="534" />&lt;/a>&lt;/p>  &lt;p>When you press the Run button, you’ll see a rolling list of calls made to that instance of SQL Server from EF. Now when you run an EF program, you’ll see exactly what SQL that EF is generating for SQL Server:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12698-33.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image002" border="0" alt="clip_image002" src="/public/post-images/12698-34.png" width="654" height="339" />&lt;/a>&lt;/p>  &lt;p>This is a handy technique to see whether EF batches SQL statements when you call SaveChanges (EF4 doesn’t batch) or how many round-trips lazy loading will cost you (lots – prefer the Include method).&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12699</id>
+    <title>EF Concurrency Mode Fixed + MVC</title>
+    <updated>2011-01-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12699-36.png"/>
+    <published>2011-01-15T08:00:00.000Z</published>
+    <summary>Imagine a very simple EDM to describes web advertisements: Now imagine that I’d like to build a web application to manage instances of the Ad type. If multiple people are editing ads at once, especially the same set of ads, I’m likely to run into concurrency errors. By default, EF lets the last change win. For example, if Chris and Bill are both editing Ad.Id == 1, if Chris pushes his changes to the database first, EF will not notice that the ad has been updated underneath Bill will he saves his changes and...</summary>
+    <content type="html">&lt;h1>EF Concurrency Mode Fixed + MVC&lt;/h1>
+  &lt;p>Imagine a very simple EDM to describes web advertisements: &lt;/p>  &lt;p>&lt;a href="/public/post-images/12699-35.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12699-36.png" width="486" height="661" />&lt;/a> &lt;/p>  &lt;p>Now imagine that I’d like to build a web application to manage instances of the Ad type. If multiple people are editing ads at once, especially the same set of ads, I’m likely to run into concurrency errors. By default, EF lets the last change win. &lt;/p>  &lt;p>For example, if Chris and Bill are both editing Ad.Id == 1, if Chris pushes his changes to the database first, EF will not notice that the ad has been updated underneath Bill will he saves his changes and Chris’s changes will be lost. What we really would like to happen is that, when Bill attempts to save his changes, that we check if the data has changed since we cached it so that Bill gets an error and is able to merge his changes in with Chris’s. &lt;/p>  &lt;p>This style of multi-user concurrency management is called “optimistic concurrency” because it assumes few people will be changing the same data at the same time. It’s the most efficient means of concurrency management when that condition is true. Another type of concurrency management is named “pessimistic concurrency,” and is generally implemented using locks on the database, which tends to slow things down.&lt;/p>  &lt;p>By default, EF provides no concurrency support; if two people push changes to the same row in the database, whoever’s change goes in last wins. This results in data loss, which in the world of data is a big, fat, no-no.&lt;/p>  &lt;p>The way that EF lets you decide how a row is changed is via the Concurrency Mode property on every one of the entity’s properties in the designer. By default, the Concurrency Mode is set to “None”, which results in SQL like the following when an update is needed:&lt;/p>  &lt;pre class="csharpcode">&lt;span class="kwrd">update&lt;/span> [dbo].[Ads]
+&lt;span class="kwrd">set&lt;/span> [Title] = @0, [ImagePath] = @1, [Link] = @2, [ExpirationDate] = @3
+&lt;strong>&lt;span class="kwrd">where&lt;/span> ([Id] = @4)&lt;/strong>&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>The Id column is used to select whether to perform an update, so any changes made to the underlying columns for that row are not detected and are therefore lost. The way to tell EF which columns to check is with the Concurrency Mode property set from None (the default) to Fixed on an entity’s property. For example, if you set Concurrency Model to Fixed for each of the read-write properties for our sample Ad entity, the update would look like the following:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">update&lt;/span> [dbo].[Ads]
+&lt;span class="kwrd">set&lt;/span> [Title] = @0, [ImagePath] = @1, [Link] = @2, [ExpirationDate] = @3
+&lt;strong>&lt;span class="kwrd">where&lt;/span> ((((([Id] = @4) &lt;span class="kwrd">and&lt;/span> ([Title] = @5)) &lt;span class="kwrd">and&lt;/span> [ImagePath] &lt;span class="kwrd">is&lt;/span> &lt;span class="kwrd">null&lt;/span>)&lt;br />&lt;span class="kwrd">and&lt;/span> ([Link] = @6)) &lt;span class="kwrd">and&lt;/span> ([ExpirationDate] = @7))&lt;/strong>&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>This is handy, but it also requires that we keep around an entity in memory in both its original state and its updated state for the length that the user is editing it. For desktop applications, that’s not an issue, but for stateless web pages, like MVC-based web pages, it is.&lt;/p>
+
+&lt;p>It’s for this reason that the EF team itself recommends using a special read-only column just describing the “version” of the row. Ideally, whenever any of the data in a row changes, the version is updated so that when an update happens, we can check that special column, e.g.&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">update&lt;/span> [dbo].[Ads]
+&lt;span class="kwrd">set&lt;/span> [Title] = @0, [ImagePath] = @1, [Link] = @2, [ExpirationDate] = @3
+&lt;strong>&lt;span class="kwrd">where&lt;/span> (([Id] = @4) &lt;span class="kwrd">and&lt;/span> ([&lt;span class="kwrd">TimeStamp&lt;/span>] = @5))&lt;/strong>&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Here, the TimeStamp column is our “version” column. We can add such a column in our SQL Server database using the “timestamp” type, as shown in SQL Server Management Studio here:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12699-37.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image001[8]" border="0" alt="clip_image001[8]" src="/public/post-images/12699-38.png" width="671" height="302" />&lt;/a>&lt;/p>
+
+&lt;p>The semantics of the timestamp type are just what we want: every time a row is updated, the timestamp column is updated. To see this new column in the Entity Data Model, you’ll have to right-click on the designer surface and choose Update Model from Database, which results in the TimeStamp being added to our model:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12699-39.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image003" border="0" alt="clip_image003" src="/public/post-images/12699-40.jpeg" width="667" height="476" />&lt;/a>&lt;/p>
+
+&lt;p>The TimeStamp field will come through as type Binary, since EF4 doesn’t have direct support for it, and with a StoreGeneratedPattern of Computed (which is exactly right). To enable EF to use the new column to perform optimistic concurrency, we need only change the Concurrency Mode to Fixed.&lt;/p>
+
+&lt;p>Now, here’s a simple Edit method on our MVC controller:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// GET: /Ad/Edit/5&lt;/span>
+&lt;span class="kwrd">public&lt;/span> ActionResult Edit(&lt;span class="kwrd">int&lt;/span> id) {
+  &lt;span class="kwrd">return&lt;/span> View(db.Ads.Single(ad =&amp;gt; ad.Id == id));
+}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>This kicks off the view, but with one key missing ingredient – the view doesn’t have the TimeStamp field in it; because it’s mapped in EF as binary data, the MVC form generator wouldn’t provide a field for it. To make sure we pass the version of the data along with the data itself, we have to add a field to our HTML form and, &lt;a>because we don’t want the user to see it, let alone edit it, we need to make it hidden:&lt;/a>&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="asp">&amp;lt;%&lt;/span> &lt;span class="kwrd">using&lt;/span> (Html.BeginForm()) {&lt;span class="asp">%&amp;gt;&lt;/span>
+...
+&lt;strong>&lt;span class="asp">&amp;lt;%&lt;/span>: Html.HiddenFor(model =&amp;gt; model.TimeStamp) &lt;span class="asp">%&amp;gt;&lt;/span>
+&lt;/strong>...
+&lt;span class="asp">&amp;lt;%&lt;/span> } &lt;span class="asp">%&amp;gt;&lt;/span>&lt;/pre>
+
+&lt;p>The Html.HiddenFor is an MVC helper that produces HTML that looks like so:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">&amp;lt;&lt;/span>&lt;span class="html">input&lt;/span> &lt;span class="attr">id&lt;/span>&lt;span class="kwrd">=&amp;quot;TimeStamp&amp;quot;&lt;/span> &lt;span class="attr">name&lt;/span>&lt;span class="kwrd">=&amp;quot;TimeStamp&amp;quot;&lt;/span> &lt;span class="attr">type&lt;/span>&lt;span class="kwrd">=&amp;quot;hidden&amp;quot;&lt;/span> &lt;span class="attr">value&lt;/span>&lt;span class="kwrd">=&amp;quot;AAAAAAAAB9E=&amp;quot;&lt;/span> &lt;span class="kwrd">/&amp;gt;&lt;/span>&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Now, when we press the Save button, the SQL we saw earlier is invoked to use the ad’s unique ID as well as the version (our timestamp column). If there’s a concurrency problem, i.e. somebody else has updated the underlying row in the database since we cached our values on the HTML form, we get an exception:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12699-41.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image004" border="0" alt="clip_image004" src="/public/post-images/12699-42.png" width="675" height="611" />&lt;/a>&lt;/p>
+
+&lt;p>The message is saying that no rows were updated, which happens when the timestamp of the underlying row no longer matches. To provide a more helpful message, you’ll want to catch the specific error yourself:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// POST: /Ad/Edit/&lt;/span>
+[HttpPost]
+&lt;span class="kwrd">public&lt;/span> ActionResult Edit(Ad ad) {
+  &lt;span class="kwrd">try&lt;/span> {
+    &lt;span class="kwrd">if&lt;/span> (!ModelState.IsValid) { &lt;span class="kwrd">return&lt;/span> View(); }
+    &lt;span class="rem">// Attach the ad to the context and let the context know it's updated&lt;/span>
+    db.Ads.Attach(ad);
+    db.ObjectStateManager.ChangeObjectState(ad, EntityState.Modified);
+    db.SaveChanges();
+    &lt;span class="kwrd">return&lt;/span> RedirectToAction(&lt;span class="str">&amp;quot;Index&amp;quot;&lt;/span>);
+  }
+&lt;strong>  &lt;span class="kwrd">catch&lt;/span> (OptimisticConcurrencyException ex) {
+    ModelState.AddModelError(&lt;span class="str">&amp;quot;&amp;quot;&lt;/span>, &lt;span class="str">&amp;quot;Oops! Looks like somebody beat you to it!&amp;quot;&lt;/span>);
+    &lt;span class="kwrd">return&lt;/span> View(ad);
+  }
+&lt;/strong>}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Here we’re catching the OptimisticConcurrencyException and setting our own message before sending the user back to their data for them to grab what they want and try again.&lt;/p>
+
+&lt;h2>Where Are We?&lt;/h2>
+
+&lt;p>EF works great with MVC, but in the case of optimistic concurrency, you’ve got to work around the stateless model of the web a little to get it working just the way you like.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12700</id>
+    <title>The Basics of EF Validation: IDataErrorInfo</title>
+    <updated>2011-01-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12700-44.png"/>
+    <published>2011-01-15T08:00:00.000Z</published>
+    <summary>When you’re adding or updating data in your database, you really want to make sure that the data being sent to the database is good and true. Often, that’s something that can be checked in the database itself. The first thing you’ll want to do is make sure that the database has validation constraints set on the columns, like nullability or max data sizes. If you’re going EF model-first, you can set these properties on the properties of your entities. If you’re not, you can set these properties in the databa...</summary>
+    <content type="html">&lt;h1>The Basics of EF Validation: IDataErrorInfo&lt;/h1>
+&lt;p>When you’re adding or updating data in your database, you really want to make sure that the data being sent to the database is good and true. Often, that’s something that can be checked in the database itself. The first thing you’ll want to do is make sure that the database has validation constraints set on the columns, like nullability or max data sizes. If you’re going EF model-first, you can set these properties on the properties of your entities. If you’re not, you can set these properties in the database or get even fancier and write triggers that check the validity of the data. Finally, you can disable insert, update and delete altogether in favor of stored procedures, changing your EF mapping to generate calls to those instead. The nice thing about checks in the database is that no matter how the data gets there, whether it’s via your EF-based app or not, the checks happen.&lt;/p>  &lt;p>However, if you’d like to &lt;i>also&lt;/i> put checks into your EF code, perhaps because you’d like to avoid a round-trip to the database for bad data, you can do so in your EF-enabled language of choice, e.g. C#.&lt;/p>  &lt;p>Imagine a very simple EDM to describes web advertisements: &lt;/p>  &lt;p>&lt;a href="/public/post-images/12700-43.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image_thumb4" border="0" alt="image_thumb4" src="/public/post-images/12700-44.png" width="486" height="661" />&lt;/a> &lt;/p>  &lt;p>All properties on our entity type get a generated On&amp;lt;&amp;lt;PropertyName&amp;gt;&amp;gt;Changing and On&amp;lt;&amp;lt;PropertyName&amp;gt;&amp;gt;Changed method. If you want to check one property in isolation, it’s easy to provide an implementation of your partial method of choice, e.g.&lt;/p>    &lt;pre class="csharpcode">&lt;span class="kwrd">namespace&lt;/span> EdmTest {
+  &lt;span class="kwrd">partial&lt;/span> &lt;span class="kwrd">class&lt;/span> Ad {
+&lt;strong>    &lt;span class="kwrd">partial&lt;/span> &lt;span class="kwrd">void&lt;/span> OnLinkChanging(&lt;span class="kwrd">string&lt;/span> &lt;span class="kwrd">value&lt;/span>) {
+      &lt;span class="kwrd">if&lt;/span> (!&lt;span class="kwrd">value&lt;/span>.StartsWith(&lt;span class="str">&amp;quot;http://&amp;quot;&lt;/span>,&lt;br />                   StringComparison.InvariantCultureIgnoreCase)) {
+        &lt;span class="kwrd">throw&lt;/span> &lt;span class="kwrd">new&lt;/span> ArgumentOutOfRangeException(&lt;span class="str">&amp;quot;Link must start with 'http://'&amp;quot;&lt;/span>);
+      }
+    }
+&lt;/strong>  }
+}&lt;/pre>
+&lt;style type="text/css">
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>Here we’ve made sure that whenever we set the Link property, it must be of a certain format. If we were to violate that restriction, things go boom:
+
+
+
+&lt;p>&lt;a href="/public/post-images/12700-45.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image002" border="0" alt="clip_image002" src="/public/post-images/12700-46.jpeg" width="682" height="674" />&lt;/a>&lt;/p>
+
+&lt;p>As MVC translates the form fields into values on the Ad object that is passed to the controller’s Create method, setting the Link property with a bad value triggers the exception:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// POST: /Ad/Create&lt;/span>
+[HttpPost]
+&lt;span class="kwrd">public&lt;/span> ActionResult Create(Ad ad) {...}&lt;/pre>
+&lt;style type="text/css">
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>MVC catches the exception before the Create method is even called and the view shows the error message. Notice that the error message is not what we provided, however.&lt;/p>
+
+&lt;p>Further, sometimes there are problems on an object’s state that span more than one property. Unfortunately, because such a constraint can’t be checked on any single property change, we need to at least check it at the object level, not just at the property level.&lt;/p>
+
+&lt;p>For both of these issues, we have IDataErrorInfo.&lt;/p>
+
+&lt;h2>IDataErrorInfo&lt;/h2>
+
+&lt;p>The IDataErrorInfo interface was introduced back in the mists of time with .NET 1.x for use specifically with data binding in Windows Forms. I wouldn’t recommend that anyone invest in anything but maintenance on their WinForms apps, but ASP.NET, the Windows Presentation Foundation (WPF) and Silverlight all support IDataErrorInfo . Data binding is involved enough and GUI-framework-specific enough that you’ll need to read up on it in your favorite GUI-framework-specific book, but the IDataErrorInfo interface is exactly what we need even without data binding:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">namespace&lt;/span> System.ComponentModel {
+  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">interface&lt;/span> IDataErrorInfo {
+    &lt;span class="kwrd">string&lt;/span> Error { get; }
+    &lt;span class="kwrd">string&lt;/span> &lt;span class="kwrd">this&lt;/span>[&lt;span class="kwrd">string&lt;/span> columnName] { get; }
+  }
+}&lt;/pre>
+&lt;style type="text/css">
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Notice that IDataErrorInfo exposes error descriptions at both the object and the property/column level. It’s easy to implement this standard interface on our example Ad class:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">partial&lt;/span> &lt;span class="kwrd">class&lt;/span> Ad : IDataErrorInfo {
+&lt;strong>  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Error {
+&lt;/strong>    get {
+      &lt;span class="rem">// Check the ad for errors&lt;/span>
+      &lt;span class="kwrd">if&lt;/span> (&lt;span class="kwrd">string&lt;/span>.IsNullOrEmpty(Title) &amp;amp;&amp;amp; &lt;span class="kwrd">string&lt;/span>.IsNullOrEmpty(ImagePath)) {
+        &lt;span class="kwrd">return&lt;/span> &lt;span class="str">&amp;quot;Must set Title or ImagePath&amp;quot;&lt;/span>;
+      }
+      &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>;
+    }
+&lt;strong>  }&lt;br />
+&lt;br />&lt;br />&lt;br />&lt;br />  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> &lt;span class="kwrd">this&lt;/span>[&lt;span class="kwrd">string&lt;/span> columnName] {
+&lt;/strong>    get {
+      &lt;span class="rem">// Check any specific property for errors&lt;/span>
+      &lt;span class="kwrd">switch&lt;/span> (columnName) {
+        &lt;span class="kwrd">case&lt;/span> &lt;span class="str">&amp;quot;Link&amp;quot;&lt;/span>:
+          &lt;span class="kwrd">if&lt;/span> (Link != &lt;span class="kwrd">null&lt;/span> &amp;amp;&amp;amp;
+              !Link.StartsWith(&lt;span class="str">&amp;quot;http://&amp;quot;&lt;/span>,&lt;br />                      StringComparison.InvariantCultureIgnoreCase)) {
+            &lt;span class="kwrd">return&lt;/span> &lt;span class="str">&amp;quot;Link must start with 'http://'&amp;quot;&lt;/span>;
+          }
+          &lt;span class="kwrd">break&lt;/span>;
+      }
+      &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>;
+    }
+&lt;strong>  }
+&lt;/strong>}&lt;/pre>
+&lt;style type="text/css">
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Because each of the generated entity classes is partial, you can provide your own implementation to be merged with the generated implementation, in our case the IDataErrorInfo interface implementation. Now, when MVC hydrates an object that implements IDataErrorInfo, it’ll check to see if there are problems. To check, our controller provides the ModelState property, which itself provides the IsValid flag:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// POST: /Ad/Create&lt;/span>
+[HttpPost]
+&lt;span class="kwrd">public&lt;/span> ActionResult Create(Ad ad) {
+  &lt;span class="kwrd">try&lt;/span> {
+&lt;strong>    &lt;span class="kwrd">if&lt;/span> (!ModelState.IsValid) { &lt;span class="kwrd">return&lt;/span> View(); }
+&lt;/strong>    &lt;span class="rem">...&lt;/span>
+  }
+  &lt;span class="kwrd">catch&lt;/span> {
+    &lt;span class="kwrd">return&lt;/span> View();
+  }
+}&lt;br />
+&lt;span class="rem">&lt;br />// POST: /Ad/Edit/&lt;/span>
+[HttpPost]
+&lt;span class="kwrd">public&lt;/span> ActionResult Edit(Ad ad) {
+  &lt;span class="kwrd">try&lt;/span> {
+&lt;strong>    &lt;span class="kwrd">if&lt;/span> (!ModelState.IsValid) { &lt;span class="kwrd">return&lt;/span> View(); }
+&lt;/strong>    &lt;span class="rem">...&lt;/span>
+  }
+  &lt;span class="kwrd">catch&lt;/span> {
+    &lt;span class="kwrd">return&lt;/span> View();
+  }
+}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>In addition to the IsValid flag, the ModelState provides a list of property name/error message pairs that show in the code that the view generator spits out when it’s creating forms, e.g.&lt;/p>
+
+&lt;pre class="csharpcode">...
+&lt;span class="asp">&amp;lt;%&lt;/span> &lt;span class="kwrd">using&lt;/span> (Html.BeginForm()) {&lt;span class="asp">%&amp;gt;&lt;/span>
+&lt;strong>&lt;span class="asp">&amp;lt;%&lt;/span>: Html.ValidationSummary(&lt;span class="kwrd">true&lt;/span>) &lt;span class="asp">%&amp;gt;&lt;/span>
+&lt;/strong>...
+&lt;span class="asp">&amp;lt;%&lt;/span>: Html.TextBoxFor(model =&amp;gt; model.Link) &lt;span class="asp">%&amp;gt;&lt;/span>
+&lt;strong>&lt;span class="asp">&amp;lt;%&lt;/span>: Html.ValidationMessageFor(model =&amp;gt; model.Link) &lt;span class="asp">%&amp;gt;&lt;/span>
+&lt;/strong>...&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>It’s in the ValidationSummary helper that shows object-level errors and the ValidationMessageFor helper that shows property-level errors:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12700-47.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image004" border="0" alt="clip_image004" src="/public/post-images/12700-48.jpeg" width="663" height="292" />&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12700-49.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image006" border="0" alt="clip_image006" src="/public/post-images/12700-50.jpeg" width="668" height="588" />&lt;/a>&lt;/p>
+
+&lt;p>There are other means of validation that you will want to investigate, like &lt;a href="http://weblogs.asp.net/scottgu/archive/2010/01/15/asp-net-mvc-2-model-validation.aspx">the validation attributes supported by MVC and SilverLight&lt;/a>, but IDataErrorInfo is the one with the broadest reach. It’s also the one that’s simplest for you to check yourself if you’re not getting the automatic support you want from your GUI framework. For example, because the SaveChanges method on the context base class is virtual and because we’ve got the Object State Manager, we can check ourselves for object errors using IDataErrorInfo:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">using&lt;/span> System.Data.Objects;
+
+&lt;span class="kwrd">namespace&lt;/span> AdMan.Models {
+  &lt;span class="kwrd">partial&lt;/span> &lt;span class="kwrd">class&lt;/span> sbdbEntities {
+    &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">override&lt;/span> &lt;span class="kwrd">int&lt;/span> SaveChanges(SaveOptions options) {
+      &lt;span class="rem">// Make sure we're detecting all changes. base.SaveChanges&lt;/span>
+      &lt;span class="rem">// does this, but that may be too late.&lt;/span>
+      DetectChanges();&lt;br />
+      &lt;span class="rem">// Get all the new and updated objects&lt;/span>
+      var objectsToValidate =
+      ObjectStateManager.
+      GetObjectStateEntries(EntityState.Added | EntityState.Modified).
+      Select(e =&amp;gt; e.Entity).OfType&amp;lt;IDataErrorInfo&amp;gt;();&lt;br />
+      &lt;span class="rem">// Check each object for errors&lt;/span>
+      &lt;span class="kwrd">foreach&lt;/span> (var obj &lt;span class="kwrd">in&lt;/span> objectsToValidate) {
+        &lt;span class="rem">// Check each property&lt;/span>
+        &lt;span class="kwrd">foreach&lt;/span> (var property &lt;span class="kwrd">in&lt;/span> obj.GetType().GetProperties()) {
+          var columnError = obj[property.Name];
+          &lt;span class="kwrd">if&lt;/span> (columnError != &lt;span class="kwrd">null&lt;/span>) { &lt;span class="kwrd">throw&lt;/span> &lt;span class="kwrd">new&lt;/span> Exception(columnError); }
+        }&lt;br />
+        &lt;span class="rem">// Check each object&lt;/span>
+        var objectError = obj.Error;
+        &lt;span class="kwrd">if&lt;/span> (objectError != &lt;span class="kwrd">null&lt;/span>) { &lt;span class="kwrd">throw&lt;/span> &lt;span class="kwrd">new&lt;/span> Exception(objectError); }
+      }&lt;br />
+      &lt;span class="rem">// All clear&lt;/span>
+      &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">base&lt;/span>.SaveChanges(options);
+    }
+  }
+}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Here we’re overriding the SaveChanges method we’ve been calling all this time to take advantage of the IDataErrorInfo interface. The first call to DetectChanges is to make sure we’ve gotten all the changes into the Object State Manager (&lt;a href="http://blogs.msdn.com/b/adonet/archive/2009/06/10/poco-in-the-entity-framework-part-3-change-tracking-with-poco.aspx">only necessary if you’re using EF POCO classes&lt;/a>). The call to the GetObjectStateEntries method on the ObjectStateManager class produces all of the added and modified objects, their state, what the old and new values are, etc. We pull off each one of the entities that implement IDataErrorInfo and call the methods to check for property and object-level errors. If we find one, we throw an exception, otherwise we let the call to SaveChanges through.&lt;/p>
+
+&lt;p>&lt;a>&lt;/a>&lt;a>This code isn’t needed if you’re already using a GUI framework that supports IDataErrorInfo, but it’s still handy to know you can roll your own code into SaveChanges if you need to.&lt;/a>&lt;/p>
+
+&lt;h2>Where Are We?&lt;/h2>
+
+&lt;p>IDataErrorInfo is the core of data validation support in GUI libraries since .NET 1.x and while there are simpler ways to do it for individual libraries, IDataErrorInfo works just fine with MVC and EF, two of the most popular GUI libraries we’ve got just now.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12697</id>
+    <title>Be Careful with Data Services Authentication + Batch Mode</title>
+    <updated>2011-01-07T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12697-26.png"/>
+    <published>2011-01-07T08:00:00.000Z</published>
+    <summary>I was doing something quite innocent the other day: I was trying to provide authentication on top of the.NET 4.0 WCF Data Services (DS) on a per method basis, e.g. let folks read all they want but stop them from writing unless they’re an authorized user. In the absence of an authorized user, I threw a DataServicesException with a 401 and the right header set to stop execution of my server-side method and communicate to the client that it should ask for a login. In addition, on the DS client, also written in...</summary>
+    <content type="html">&lt;h1>Be Careful with Data Services Authentication + Batch Mode&lt;/h1>
+&lt;p>I was doing something quite innocent the other day: I was trying to provide authentication on top of the .NET 4.0 WCF Data Services (DS) on a per method basis, e.g. let folks read all they want but stop them from writing unless they’re an authorized user. In the absence of an authorized user, I threw a DataServicesException with a 401 and the right header set to stop execution of my server-side method and communicate to the client that it should ask for a login.&lt;/p>  &lt;p>In addition, on the DS client, also written in .NET 4.0, I was attempting to use batch mode to reduce the number of round trips between the client and the server.&lt;/p>  &lt;p>Once I’d cleared away the other bugs in my program, it was these three things in combination that caused the trouble.&lt;/p>  &lt;h2>The Problem: DataServicesException + HTTP 401 + SaveChanges(Batch)&lt;/h2>  &lt;h2>&lt;/h2>  &lt;p>Reproducing the problem starts by turning off forms authentication in the web.config of a plain vanilla ASP.NET MVC 2 project in Visual Studio 2010, as we’re going to be building our own Basic authentication:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12697-25.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12697-26.png" width="667" height="488" />&lt;/a>&lt;/p>  &lt;p>Next, bring in the Categories table from Northwind into a ADO.NET Entity Data Model:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12697-27.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12697-28.png" width="247" height="302" />&lt;/a>&lt;/p>  &lt;p>The model itself doesn’t matter – we just need something to allow read-write. Now, to expose the model, add a WCF Data Service called “NorthwindService” and expose the NorthwindEntities we get from the EDMX:&lt;/p>  &lt;pre class="csharpcode">&lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">class&lt;/span> NorthwindService : DataService&amp;lt;NorthwindEntities&amp;gt; {
+
+  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">static&lt;/span> &lt;span class="kwrd">void&lt;/span> InitializeService(DataServiceConfiguration config) {
+&lt;strong>    config.SetEntitySetAccessRule(&lt;span class="str">&amp;quot;Categories&amp;quot;&lt;/span>, EntitySetRights.All);
+&lt;/strong>    config.DataServiceBehavior.MaxProtocolVersion =
+      DataServiceProtocolVersion.V2;
+  }
+  ...
+}&lt;/pre>
+
+&lt;p>Notice that we’re allowing complete read/write access to categories on our service, but what we really want is to let everyone read and only allow authenticated users to write. We can do that with a change interceptor:&lt;/p>
+
+&lt;pre class="csharpcode">[ChangeInterceptor(&lt;span class="str">&amp;quot;Categories&amp;quot;&lt;/span>)]
+&lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">void&lt;/span> OnChangeCategory(Category category, UpdateOperations operation) {
+  &lt;span class="rem">// Authenticate&lt;/span>
+  &lt;span class="kwrd">string&lt;/span>[] userpw = GetCurrentUserPassword();
+  &lt;span class="kwrd">if&lt;/span> (userpw == &lt;span class="kwrd">null&lt;/span> ||
+    !userpw[0].Equals(&lt;span class="str">&amp;quot;admin&amp;quot;&lt;/span>, StringComparison.CurrentCultureIgnoreCase) ||
+    !userpw[1].Equals(&lt;span class="str">&amp;quot;pw&amp;quot;&lt;/span>)) {
+
+&lt;strong>    HttpContext.Current.Response.&lt;br />      AddHeader(&lt;span class="str">&amp;quot;WWW-Authenticate&amp;quot;&lt;/span>, &lt;span class="str">&amp;quot;Basic realm=\&amp;quot;Northwind\&amp;quot;&amp;quot;&lt;/span>);
+    &lt;span class="kwrd">throw&lt;/span> &lt;span class="kwrd">new&lt;/span> DataServiceException(401, &lt;span class="str">&amp;quot;Unauthorized&amp;quot;&lt;/span>);
+&lt;/strong>  }
+}
+
+&lt;span class="rem">// Use HTTP Basic authentication&lt;/span>
+&lt;span class="kwrd">string&lt;/span>[] GetCurrentUserPassword() {
+  &lt;span class="kwrd">string&lt;/span> authorization = HttpContext.Current.Request.Headers[&lt;span class="str">&amp;quot;Authorization&amp;quot;&lt;/span>];
+  &lt;span class="kwrd">if&lt;/span> (&lt;span class="kwrd">string&lt;/span>.IsNullOrEmpty(authorization)) { &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>; }
+  &lt;span class="kwrd">if&lt;/span> (!authorization.StartsWith(&lt;span class="str">&amp;quot;Basic&amp;quot;&lt;/span>)) { &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>; }
+  &lt;span class="kwrd">byte&lt;/span>[] base64 = Convert.FromBase64String(authorization.Substring(6));
+  &lt;span class="kwrd">string&lt;/span>[] userpw = Encoding.ASCII.GetString(base64).Split(&lt;span class="str">':'&lt;/span>);
+  &lt;span class="kwrd">if&lt;/span> (userpw.Length != 2) { &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>; }
+  &lt;span class="kwrd">return&lt;/span> userpw;
+}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>The change interceptor checks whether the client program provided a standard HTTP Basic authentication header and, if so, pulls out the admin user name/password pair. If it isn’t found, we set the “WWW-Authenticate” header and throw a DataServicesException, which will turn into an HTTP error response, letting the client know “I need some credentials, please.”&lt;/p>
+
+&lt;p>The code itself is very simplistic and if you want better code, I recommend &lt;a href="http://blogs.msdn.com/b/astoriateam/archive/tags/authentication/">Alex James’s most excellent blog series on Data Services and Authentication&lt;/a>. However, it’s good enough to return a 401 Authorized HTTP error back to the client. If it’s the browser, it’ll prompt the user like so:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12697-29.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12697-30.png" width="667" height="581" />&lt;/a>&lt;/p>
+
+&lt;p>The browser isn’t a very interesting program, however, which is why I added a service reference for my new service to my plain vanilla console application and wrote this little program:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">class&lt;/span> Program {
+  &lt;span class="kwrd">static&lt;/span> &lt;span class="kwrd">void&lt;/span> Main(&lt;span class="kwrd">string&lt;/span>[] args) {
+    var service =&lt;br />      &lt;span class="kwrd">new&lt;/span> NorthwindEntities(&lt;span class="kwrd">new&lt;/span> Uri(&lt;span class="str">@&amp;quot;http://localhost:14738/NorthwindService.svc&lt;/span>&amp;quot;));&lt;br />
+&lt;br />&lt;br />&lt;strong>    service.Credentials = &lt;span class="kwrd">new&lt;/span> NetworkCredential(&lt;span class="str">&amp;quot;admin&amp;quot;&lt;/span>, &lt;span class="str">&amp;quot;pw&amp;quot;&lt;/span>);&lt;br />&lt;/strong>
+    var category = &lt;span class="kwrd">new&lt;/span> Category() { CategoryName = &lt;span class="str">&amp;quot;My Category&amp;quot;&lt;/span> };
+    service.AddToCategories(category);
+&lt;strong>    &lt;span class="rem">//service.SaveChanges(); // works&lt;/span>
+    service.SaveChanges(SaveChangesOptions.Batch); &lt;span class="rem">// #fail&lt;br />&lt;/span>
+&lt;/strong>&lt;br />    Console.WriteLine(category.CategoryID);
+  }
+}&lt;/pre>
+&lt;style type="text/css">
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>Here we’re setting up the credentials for when the service asks, adding a new Category and calling SaveChanges. And this is where the trouble started. Actually, this is where the trouble ended after three days of banging my head and 4 hours with the WCF Data Services team (thanks Alex, Pablo and Phani!). Anyway, we’ve got three things interacting here:&lt;/p>
+
+&lt;ol>
+  &lt;li>The batch mode SaveChanges on the DS client which bundles your changes into a send OData round-trip for efficiency. You should use this when you can. &lt;/li>
+
+  &lt;li>The DataServicesException which bundles extra information about your server-side troubles into the payload of the response so that a knowledgeable client, like the .NET DS client, can pull it out for you. You should use this when you can. &lt;/li>
+
+  &lt;li>The HTTP authentication scheme which doesn’t fail when it doesn’t get the authentication it needs, but rather asks for the client to provide it. You should use this when you can. &lt;/li>
+&lt;/ol>
+
+&lt;p>Unfortunately, as of .NET 4.0 SP0, you can’t use all of these together.&lt;/p>
+
+&lt;p>What happens is that non-batch mode works just fine when our server sends back a 401 asking for login credentials, pulling the credentials out of the server reference’s Credentials property. And so does batch mode.&lt;/p>
+
+&lt;p>However, where batch mode falls down is with the extra payload data that the DataServicesExpection packs into the HTTP error resposne, which confuses it enough so that the exception isn’t handled as a request for credentials, but rather reflected back up to the client code. It’s the interaction between all three of these that causes the problem, which means that until there’s a fix in your version of .NET, you need a work-around. Luckily, you’ve got three to choose from.&lt;/p>
+
+&lt;h2>&lt;/h2>
+
+&lt;h2>Work-Around #1: Don’t Use DataServiceException&lt;/h2>
+
+&lt;p>If you like, you can turn off the extra information your service endpoint is providing with the DataServiceException and just set the HTTP status, e.g.&lt;/p>
+
+&lt;pre class="csharpcode">HttpContext.Current.Response.AddHeader(&lt;span class="str">&amp;quot;WWW-Authenticate&amp;quot;&lt;/span>, &lt;span class="str">&amp;quot;Basic realm=\&amp;quot;Northwind\&amp;quot;&amp;quot;&lt;/span>);
+&lt;strong>&lt;span class="rem">//throw new DataServiceException(401, &amp;quot;Unauthorized&amp;quot;);&lt;/span>
+HttpContext.Current.Response.StatusCode = 401;
+HttpContext.Current.Response.StatusDescription = &lt;span class="str">&amp;quot;Unauthorized&amp;quot;&lt;/span>;
+HttpContext.Current.Response.End();&lt;/strong>&lt;/pre>
+
+&lt;p>This fix only doesn’t work with &lt;a href="http://en.wikipedia.org/wiki/Cassini_Web_Server">Cassini&lt;/a>, but Cassini doesn’t work well in the face of HTTP authentication anyway, so moving to &lt;a href="http://en.wikipedia.org/wiki/IIS7#Version_7.0">IIS7&lt;/a> should be one of the first things you do when facing an authentication problem.&lt;/p>
+
+&lt;p>Personally, I don’t like this work-around as it puts the onus on the service to fix a client problem and it throws away all kinds of useful information the service can provide when you’re trying to test it.&lt;/p>
+
+&lt;h2>Work-Around #2: Don’t Use Batch-Mode&lt;/h2>
+
+&lt;p>If you use “SaveChanges(SaveChangesOptions.None)” or “SaveChanges()” (None is the default), then you won’t be running into the batch-mode problem. I don’t like this answer, however, since batch-mode can significantly reduce network round-trips and therefore not using it decreases performance.&lt;/p>
+
+&lt;h2>Work-Around #3: Pre-Populate the Authentication Header&lt;/h2>
+
+&lt;p>Instead of doing the “call an endpoint,” “oops I need credentials,” “here you go” dance, if you know you’re going to need credentials (which I argue is most often the case when you’re writing OData clients), why not provide the credentials when you make the call?&lt;/p>
+
+&lt;pre class="csharpcode">var service =&lt;br />  &lt;span class="kwrd">new&lt;/span> NorthwindEntities(&lt;span class="kwrd">new&lt;/span> Uri(&lt;span class="str">@&lt;a href="http://localhost/BatchModeBug/NorthwindService.svc">http://localhost/BatchModeBug/NorthwindService.svc&lt;/a>&lt;/span>));&lt;br />
+&lt;font color="#008000">&lt;br />&lt;br />&lt;/font>&lt;strong>service.SendingRequest += &lt;span class="kwrd">delegate&lt;/span>(&lt;span class="kwrd">object&lt;/span> sender, SendingRequestEventArgs e) {
+  var userpw = &lt;span class="str">&amp;quot;admin&amp;quot;&lt;/span> + &lt;span class="str">&amp;quot;:&amp;quot;&lt;/span> + &lt;span class="str">&amp;quot;pw&amp;quot;&lt;/span>;
+  var base64 = Convert.ToBase64String(Encoding.ASCII.GetBytes(userpw));
+  e.Request.Headers.Add(&lt;span class="str">&amp;quot;Authorization&amp;quot;&lt;/span>, &lt;span class="str">&amp;quot;Basic &amp;quot;&lt;/span> + base64);
+};&lt;/strong>&lt;/pre>
+
+&lt;p>Notice that we’re watching for the SendingRequest event on the client-side so that we can pre-populate the HTTP Authentication header so the service endpoint doesn’t have to even ask. Not only does this work around the problem but it reduces round-trips, which is a good idea even if/when batch-mode is fixed to respond properly to HTTP 401 errors.&lt;/p>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12696</id>
+    <title>Enabling the Tip Calculator in Your Brain</title>
+    <updated>2010-12-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2010-12-29T08:00:00.000Z</published>
+    <summary>I can’t imagine anyone reading this blog needs to read this, but I can’t help myself. When I was just a wee lad, probably the most valuable thing I learned was how to perform mathematical estimation, the importance of which and several techniques you can get by reading Jon Bentley’s The Back of the Envelope (this essay along with several others, are collected in his most excellent books Programming Pearls and More Programming Pearls, both of which are still relevant a decade later). Not only is estimation g...</summary>
+    <content type="html">&lt;h1>Enabling the Tip Calculator in Your Brain&lt;/h1>
+&lt;p>I can’t imagine anyone reading this blog needs to read this, but I can’t help myself.&lt;/p>  &lt;p>When I was just a wee lad, probably the most valuable thing I learned was how to perform mathematical estimation, the importance of which and several techniques you can get by reading Jon Bentley’s &lt;a href="http://www.cs.bell-labs.com/cm/cs/pearls/bote.html">The Back of the Envelope&lt;/a> (this essay along with several others, are collected in his most excellent books &lt;a href="http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880">Programming Pearls&lt;/a> and &lt;a href="http://www.amazon.com/gp/product/0201118890/">More Programming Pearls&lt;/a>, both of which are still relevant a decade later). Not only is estimation generally quicker than running a calculator, but even when you do run a calculator, it helps you figure out when you did it wrong, the latter of which has saved my bacon time and again.&lt;/p>  &lt;p>For example, as much as I love the Windows Phone 7 marketplace and it’s quality and quantity of applications, the ones that puzzle me are the “tip calculator” apps (several!). I don’t understand why it’s worth the trouble of pulling out your phone and punching buttons when you can know the tip instantly.&lt;/p>  &lt;p>For example, let’s assume the dinner bill is $37.42. If the service was bad, that’s a 10% tip (you have to tip them something ‘cuz the IRS assumes you will and taxes them accordingly – bastards). So, with a 10% tip, take the bill and move it right one decimal point: $3.74. Now, round up or down depending on how bad the service was, e.g. $3.50 or $4. Quick and easy.&lt;/p>  &lt;p>Assuming the service was great, that’s a 20% tip, so double the bill and move it right one decimal point, making the math easier for yourself, e.g. $37.42 is close to $35, doubling is $70, so a $7 tip. Boom: 20% tip.&lt;/p>  &lt;p>If you want to get fancy and provide a 15% tip for good but not great, then average the two numbers: ($4 + $7)/2 = $5.50. Zim zam zoom.&lt;/p>  &lt;p>Honestly, as great as the apps are on your phone, tablet or BlueTooth headset (&lt;a href="http://www.usatoday.com/tech/columnist/edwardbaig/2010-02-18-baig18_ST_N.htm">seriously&lt;/a>), think about using the apps in your head first. Now only are they quicker and cheaper, but using them staves off dementia (which is &lt;a href="http://www.marthastewart.com/">a good thing&lt;/a>!).&lt;/p>  &lt;p>Oh, and if the tip is added as a mandatory minimum, then the additional tip is easy: $0.00. I don’t deal well with authority.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12695</id>
+    <title>Windows Phone 7: Beating Expectations</title>
+    <updated>2010-12-18T08:00:00.000Z</updated>
+    <published>2010-12-18T08:00:00.000Z</published>
+    <summary>Years ago, when I was on my T-Mobile Dash, I would purchase a new phone every quarter or so, just to see if something better had come along. Always, within a week or so, I returned it and went happily back to my T-Mobile Dash. Then came the iPhone, which I instantly fell in love with. I didn’t think I’d ever give it up. Then came the Samsung Focus, one of the first Windows Phone 7 phones and I haven’t turned my iPhone 4 back on since. It’s not all I’d hoped for, but it’s damn close! Meeting Expectations Let...</summary>
+    <content type="html">&lt;h1>Windows Phone 7: Beating Expectations&lt;/h1>
+&lt;p>Years ago, when I was on my T-Mobile Dash, I would purchase a new phone every quarter or so, just to see if something better had come along. Always, within a week or so, I returned it and went happily back to my T-Mobile Dash. Then came the iPhone, which I instantly fell in love with. I didn’t think I’d ever give it up. Then came the Samsung Focus, one of the first Windows Phone 7 phones and I haven’t turned my iPhone 4 back on since. It’s not &lt;a href="/2333">all I’d hoped for&lt;/a>, but it’s damn close!&lt;/p>  &lt;h2>Meeting Expectations&lt;/h2>  &lt;p>Let’s check my list and see how WP7 did:&lt;/p>  &lt;ul>   &lt;li>A &lt;strong>calculator, including scientific features&lt;/strong>: check. &lt;/li>    &lt;li>A &lt;strong>battery that lasts 24 hours: no&lt;/strong>. Unfortunately my Focus is as power hungry as any smartphone.&lt;/li>    &lt;li>An easy, high-quality &lt;strong>way to run the music through my car stereo&lt;/strong>: sorta. I can attach the phone to my car stereo, but it’s through the headset jack, so the quality isn’t what it should be and I need a separate attachment to charge, which causes interference on my radio. Much less than ideal. &lt;/li>    &lt;li>Easy &lt;strong>airplane mode&lt;/strong>: check. &lt;/li>    &lt;li>&lt;strong>Great auto-correct on my soft keyboard&lt;/strong>: yes! The Samsung has a soft keyboard, although other models have hard keyboards for you folks that want them (both &lt;a href="http://www.lg.com/us/mobile-phones/LG-C900.jsp">landscape&lt;/a> and &lt;a href="http://www.dell.com/us/p/mobile-venue-pro/pd?~ck=mn&amp;amp;ref=gzilla">portrait&lt;/a>). Not only is the auto-correct generally correct, but it shows the list of words it’s gonna guess in case I want to pick one myself and, after I’m done typing, I can go back, pick a word that didn’t come out right and select a different guess or type it again myself. Brilliant! &lt;/li>    &lt;li>&lt;strong>Copy-paste: not yet&lt;/strong>, although I’m sure we’ll have it soon. BTW, I’m not on the WP7 team and have no special access to what is shipping or when. I just have faith in the team. &lt;/li>    &lt;li>Full calendar support:      &lt;ul>       &lt;li>&lt;strong>Sync’ing with Exchange and not Exchange&lt;/strong>: check. &lt;/li>        &lt;li>&lt;strong>Recognition of phone numbers and addresses w/ links&lt;/strong>: check. &lt;/li>        &lt;li>&lt;strong>Reply All to an appointment&lt;/strong>: check. In fact, there’s even an &lt;strong>“I’m running late” button&lt;/strong>. Sweet! &lt;/li>        &lt;li>&lt;strong>Show my appointments on the home screen&lt;/strong>: big check! Not only is my next appointment shown on the home screen, but it’s also on my lock screen along with the meeting duration and location. &lt;/li>        &lt;li>I only have my calendar appointments in one calendar, but if I wanted to &lt;strong>spread appointments across multiple calendars&lt;/strong>, it’ll overlay them. &lt;/li>     &lt;/ul>   &lt;/li>    &lt;li>&lt;strong>Wireless sync’ing&lt;/strong> to my PC: check! This was a stretch goal when I wrote it, but it works like a charm. &lt;/li>    &lt;li>&lt;strong>Tethering: sorta. &lt;/strong>Out of the box, it doesn’t work, but apparently there’s a hack I can try. I haven’t. &lt;/li>    &lt;li>&lt;strong>Turn-by-turn directions: sorta&lt;/strong>. AT&amp;amp;T ships a turn-by-turn directions app out of the box which you can activate for $10/mo, which isn’t worth it to me compared with the less functional free app. Plus, there seems to be no integration of AT&amp;amp;T’s map app with the rest of my phone, e.g. clicking on a location link doesn’t bring up their app and I can’t choose a route to one of my own contacts. In fact, with the lack of copy/paste (right now), the only way to get an address into the think is to type it. Ick!       &lt;br />      &lt;br />Further, &lt;strong>I really don’t like the built-in maps app&lt;/strong> for directions. Too much screen real estate is occupied by the directions and not enough to the map. Also, I really want to see the yellow dot and my next turn, but those are very, very difficult to get on the screen at the same time. That should just happen for me automatically. &lt;/li>    &lt;li>&lt;strong>Pandora playing in the background: no.&lt;/strong> Not only is Pandora missing, but 3rd party music apps don’t run in the background, which I really miss. &lt;/li>    &lt;li>&lt;strong>Install apps from other sources: no&lt;/strong>. There was a side-loading app out there, but it’s down now. Right now, it’s $99 for developers to side-load and no one else. &lt;/li>    &lt;li>&lt;strong>Let me install extra memory: check&lt;/strong>, although only for selected models (my Focus is one of them) and only if you’re willing to reset your phone. Since the Zune software doesn’t seem to do full backups, that might be a painful process, but when the WP7-Certified SD cards out, that could be up to 32GB of additional memory, which will be worth some trouble. Right now I have more good stuff I want to load onto my phone than will fit. &lt;/li>    &lt;li>&lt;strong>Let me replace the battery: check!&lt;/strong> &lt;/li>    &lt;li>&lt;strong>Great audio and ebook reading experience: not yet&lt;/strong>. I haven’t tried an audio book on it yet, but I don’t see Windows Phone 7 mentioned on the audible.com site. I do know there’s no Kindle software on the phone yet (apparently it’ll be there RSN), but until then, I don’t know what the reading experience is except for browsing the web. &lt;/li>    &lt;li>&lt;strong>Phone-wide search: no.&lt;/strong> &lt;/li>    &lt;li>&lt;strong>Full contact look-up: check&lt;/strong>, including Exchange lookup, although the search only seems to get names and not other things, like notes, which I miss. The Exchange contact lookup does include details that other phones miss, however, like their office number. &lt;/li>    &lt;li>&lt;strong>Good camera (and flash): almost. &lt;/strong>The camera is 5MB and the video is there and there’s a flash, but the quality could be better. My iPhone 4 spoiled me here. &lt;/li>    &lt;li>Apps I can’t live without:      &lt;ul>       &lt;li>&lt;strong>Evernote: no&lt;/strong>, but OneNote is way better. &lt;/li>        &lt;li>&lt;strong>Social networking clients: check&lt;/strong>, including deep FaceBook integration. &lt;/li>        &lt;li>&lt;strong>Unit and Currency Converter: check.&lt;/strong> &lt;/li>        &lt;li>&lt;strong>Flashlight: check&lt;/strong>, although I want an app that turns my flash on – now that’s a flashlight! &lt;/li>        &lt;li>&lt;strong>TripIt: no&lt;/strong>, but there’s My Trips, which shows promise, and m.tripit.com, which works well. &lt;/li>        &lt;li>&lt;strong>Flixster: check.&lt;/strong> &lt;/li>        &lt;li>&lt;strong>OpenTable: check.&lt;/strong> &lt;/li>        &lt;li>&lt;strong>UrbanSpoon: no. &lt;/strong>&lt;/li>        &lt;li>&lt;strong>Mint: no &lt;/strong>and there is no mobile version of mint.com, so I really miss this. &lt;/li>        &lt;li>&lt;strong>Shazam: check &lt;/strong>and it’s integrated with the Zune marketplace. Half the songs I want don’t show up when I search for them, though, so that’s not cool. &lt;/li>        &lt;li>&lt;strong>Skype: no.&lt;/strong> &lt;/li>        &lt;li>&lt;strong>Tetris: check.&lt;/strong> &lt;/li>     &lt;/ul>   &lt;/li> &lt;/ul>  &lt;h1>Stuff I Forgot To Ask For&lt;/h1>  &lt;p>I believe that the universe gives you what you ask for and in this case, even if I didn’t get everything, there was even some stuff I forgot to request:&lt;/p>  &lt;ul>   &lt;li>After have &lt;strong>a unified inbox&lt;/strong>, I miss it now that it’s gone. Of course, I never had &lt;a href="/12675">the unified inbox I really wanted&lt;/a>, but I can keep hoping. &lt;/li>    &lt;li>I didn’t know how much I’d miss &lt;strong>DropBox and Pandora &lt;/strong>‘til they were gone. There is a frontend for WP7 that works with my DropBox account called BoxFiles, but it doesn’t actually let me read any of my files, so it still has some room for improvement. Also, last.fm does not have anything like the same kind of algorithm for picking songs for me that Pandora does, so I’m missing Pandora. I have come to really like Slacker for music, however. &lt;/li>    &lt;li>I didn’t know I wanted &lt;strong>a browser that supported HTML5, ES5 and CSS3 &lt;/strong>until I started working in that field. &lt;/li>    &lt;li>I can’t seem to make MMS work on my phone, although other people can, so I assume it’s an account issue. I’ll keep trying. &lt;/li>    &lt;li>&lt;strong>Fast application startup. &lt;/strong>Some do, some don’t. I wish they all did.&lt;/li> &lt;/ul>  &lt;h1>Beating Expectations&lt;/h1>  &lt;p>Seriously, ever day is something new and cool on this phone. I continue to get blown away by features I never thought I’d want that have really changed how I use my phone:&lt;/p>  &lt;ul>   &lt;li>     &lt;p>&lt;strong>The way OneNote works is game changing. &lt;/strong>I keep lots of random notes about things and to have the phone seamlessly sync with the web and my PC is wonderful. The web site needs search and the phone needs better auto-sync’ing (right now if you don’t press the Sync button sometimes, you can get sync conflicts more than you expect), but it already works so well, it’s hard to complain. Plus, you can pin favorite notes, like your grocery list, to the home screen. Beautiful!         &lt;br />        &lt;br />I am a paid Evernote user, but free OneNote is better. The PC client is 10x better for keyboard users (i.e. me) and it’s free, assuming you have Office.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;strong>Live Tiles really do get me in and out faster. &lt;/strong>I know the commercials are there as marketing, but I really love seeing how many unseen (not unread) emails I have and the latest picture from my roll and the latest updates from my favorite contacts and the latest weather and my next appointment and and and…         &lt;br />        &lt;br />In fact, I like Live Tiles so much that I wish the little screen to the right of the home screen used them, too. I’d like to just have a set of Live Tile screens arranged horizontally where all my installed apps live, just arranged in priority order according to my own design. Getting rid of the long list to the right of the home screen would be very appreciated.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;strong>Automatic uploading of pictures to SkyDrive &lt;/strong>is so cool!&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;strong>The Back button. &lt;/strong>It works so well that browsing from apps to web content, e.g. following a link from an RSS reader or an email, feels like an extension of the app itself. I had no idea how much I liked it ‘til I picked up an iPad and it wasn’t there.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>It is amazing to me how well &lt;strong>voice dialing and voice search&lt;/strong> work. That alone cuts down on half of my typing on the device.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;strong>The quality of the calls is 10x better than my old phone and the number of dropped calls is 10x less. &lt;/strong>There ain’t nothing wrong with AT&amp;amp;T. Since I work from home and have no land line, this makes a huge difference in the quality of my life.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;a href="http://www.bose.com/controller?url=/shop_online/headphones/mobile_solutions/bluetooth_headset/index.jsp">&lt;strong>The Bose Bluetooth&lt;/strong>&lt;/a>&lt;strong> works very well with WP7.&lt;/strong> The pairing is seamless, the call quality is high for both parties, the volume buttons are on the hardware and easy to use, the in-ear fitting is solid and comfortable with no need for an over-the-ear hook, it charges quickly and it shares the micro USB connector with my phone, so I can share the cables. And, unlike the Jawbone, the quality of the audio is good enough to enable voice dialing, so I can really do the hands free thing that Oregon and Washington require by law.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>&lt;strong>Trial Mode &lt;/strong>means that I can try nearly every app in the app store! If you’re an app dev, it’s your job to ship your app in trial mode and make it so compelling that I’ll beg to pay for it and WP7 encourages that, which is good for consumers. Win-win.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>I was never an &lt;a href="http://www.instapaper.com/">&lt;strong>Instapaper&lt;/strong>&lt;/a> user ‘til I got my WP7. Now, when I find something on my phone that I don’t have to read, I can mail it to my Instapaper email address and read it later with the Text view, which looks great on my phone. Or, if I press the Read Later button in IE9, then I’ve always got plenty to read on the go on my phone. Between that and &lt;strong>the RSS Feed support&lt;/strong> in Outlook that sync’s automatically through Exchange to my phone, I’ve always got plenty to read, which I so love.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>It seems like a small thing, but I love being able to &lt;strong>link multiple contacts together &lt;/strong>from Exchange, Live, FaceBook, etc., into a single contact so that my searches find the person I’m looking for, not the 5 people that my phone thinks I might mean.&lt;/p>   &lt;/li>    &lt;li>     &lt;p>Another small thing, but it means that I don’t miss meetings, is &lt;strong>the snooze button on my appointments&lt;/strong>. I thank you and my boss thanks you.&lt;/p>   &lt;/li> &lt;/ul>  &lt;h1>Where Are We?&lt;/h1>  &lt;p>According to my math, I got a little more half what I asked for, but true love can’t be measured in percentages. Of the features that I’m missing, only camera quality, copy-paste and Kindle are things I actually miss from my iPhone 4, and two of those are supposed to be fixed in software RSN.&lt;/p>  &lt;p>On the other hand, my Samsung Focus has giving me more than a dozen things I never thought to ask fore and really use. The full calendar support, contact linking, voice dialing (with great Bluetooth support), voice searching, the auto-correct on the keyboard, the location and phone number recognition and OneNote sync’ing make this phone a delight to use every day.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12694</id>
+    <title>If you want something from eBay, don’t bid on it!</title>
+    <updated>2010-12-14T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="http://psdblog.worldbank.org/.m/photos/uncategorized/2007/05/02/ebay.jpg"/>
+    <published>2010-12-14T08:00:00.000Z</published>
+    <summary>I’m fond of quoting my father to my sons. I have a terrible memory for these kinds of things in general, but what he says sticks with me: “Anything worth doing is worth doing right.” –Mike Sells “Don’t start a fight, but be ready to finish one.” –Mike Sells “Who got the goddamn jelly in the goddamn peanut butter?!” –Mike Sells I’ve learned a ton of things from my father and continue to do so, so when I wanted to win something on eBay as a Christmas present for my girlfriend/fiancé’ (what’s it called when yo...</summary>
+    <content type="html">&lt;h1>If you want something from eBay, don’t bid on it!&lt;/h1>
+&lt;p>&lt;img style="display: inline; float: right" align="right" src="http://psdblog.worldbank.org/.m/photos/uncategorized/2007/05/02/ebay.jpg" width="282" height="282" />I’m fond of quoting my father to my sons. I have a terrible memory for these kinds of things in general, but what he says sticks with me:&lt;/p>  &lt;ul>   &lt;li>“Anything worth doing is worth doing right.” –Mike Sells&lt;/li>    &lt;li>“Don’t start a fight, but be ready to finish one.” –Mike Sells&lt;/li>    &lt;li>“Who got the goddamn jelly in the goddamn peanut butter?!” –Mike Sells&lt;/li> &lt;/ul>  &lt;p>I’ve learned a ton of things from my father and continue to do so, so when I wanted to win something on eBay as a Christmas present for my girlfriend/fiancé’ (what’s it called when you’re engaged to be engaged?), I knew he had the experience, so I tapped it. And here’s what he told me:&lt;/p>  &lt;blockquote>   &lt;p>&lt;strong>If you really want something on eBay, don’t bid on it; that only gives your competition information on how to outbid you.&lt;/strong>&lt;/p> &lt;/blockquote>  &lt;p>Instead, set yourself some free time when the auction is going to happen and start up two browser window at the following pages:&lt;/p>  &lt;ol>   &lt;li>The page where the count-down timer is shown.&lt;/li>    &lt;li>The page where you have already entered your top bid and are poised at the Confirm Bid button.&lt;/li> &lt;/ol>  &lt;p>The idea is that people’s “top bid” changes over time as the auction goes on. I know this happens to me:&lt;/p>  &lt;blockquote>   &lt;p>“Oh, this is only worth $20 to me. Well, maybe $25. OK, $40, but that’s all. Dammit I gotta have it! Where’s the button to enter the Social Security number of my first born!?”&lt;/p> &lt;/blockquote>  &lt;p>So, instead of putting in your top bid and walking away, which lets other folks probe your top bid with their top bid and deciding later that their top bid goes toppier, wait ‘til the last minute to put in your bid. I believe the practice is called “sniping” and there are even apps that do it, although so far, I’ve found IE and a cool hand sufficient.&lt;/p>  &lt;p>Of course, the most important question is this:&lt;/p>  &lt;blockquote>   &lt;p>“Dad, at what time in the countdown do I press the Confirm Bid button?”&lt;/p> &lt;/blockquote>  &lt;blockquote>   &lt;p>“Oh, well, I do it at 4 seconds, but my computers are slow.”&lt;/p> &lt;/blockquote>  &lt;p>What can I say; the man’s a pro.&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12691</id>
+    <title>Using LINQPad to Run My Life: Budgeting</title>
+    <updated>2010-12-11T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/post-images/12691-12.jpeg"/>
+    <category term="tools" label="Tools"/>
+    <published>2010-12-11T08:00:00.000Z</published>
+    <summary>I use LINQPad all the time for a bunch of stuff, but most recently and most relevant, I’ve been using it for a personal chore that isn’t developer-related: I’ve been using it to do budgeting. What is LINQPad? LINQPad is an interactive execution environment for LINQ queries, statements or programs. The typical usage model is that you point LINQPad at a SQL database or an OData endpoint via a dialog box and then start writing queries against the tables/collections exposed by that connection, e.g. Here, you ca...</summary>
+    <content type="html">&lt;h1>Using LINQPad to Run My Life: Budgeting&lt;/h1>
+&lt;p>I use LINQPad all the time for a bunch of stuff, but most recently and most relevant, I’ve been using it for a personal chore that isn’t developer-related: I’ve been using it to do budgeting.&lt;/p>  &lt;h2>What is LINQPad?&lt;/h2>  &lt;p>LINQPad is an interactive execution environment for LINQ queries, statements or programs. The typical usage model is that you point LINQPad at a SQL database or an OData endpoint via a dialog box and then start writing queries against the tables/collections exposed by that connection, e.g.&lt;/p>  &lt;p>&lt;a href="/public/post-images/12691-11.jpeg">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="clip_image002" border="0" alt="clip_image002" src="/public/post-images/12691-12.jpeg" width="663" height="396" />&lt;/a>&lt;/p>  &lt;p>Here, you can see that I’ve added a connection on the left to the Northwind database, typed a query into the text box (I paid the $25 for the auto-completion module), executed the query and got the table of results below. If I want to operator over multiple results, including dumping them for inspection, I can do so by switch from C# Expression to C# Statements:&lt;/p>  &lt;p>&lt;a href="/public/post-images/12691-13.jpeg">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="clip_image004" border="0" alt="clip_image004" src="/public/post-images/12691-14.jpeg" width="661" height="439" />&lt;/a>&lt;/p>  &lt;p>Notice the use of “Dump” to see results along the way. If I want to, I can switch to C# Program, which gives me a main and allows me to create my own types and methods, all of which can be executed dynamically.&lt;/p>  &lt;p>To save queries, notice the “My Queries” tab in the lower left. I use this for things I run periodically, like the ads on my web site that are going to expire, some data cleanup I want to get back to and, the subject of today: budgeting.&lt;/p>  &lt;h2>Budgeting with Mint.com and LINQPad&lt;/h2>  &lt;p>For the uninitiated, &lt;a href="http://mint.com">mint.com&lt;/a> is a free online personal financial management site. At its core, it uses financial account, loan and asset information that lets it log into various financial sites and grab my data for me, e.g. 1sttech.com, usbank.com, wcb.com, etc. It uses this to let me categorize transactions so that it can do budgeting for me. However, it doesn’t give me the control I want, so I write programs against this unified transaction information. Essentially, I re-categorize each transaction to my own set using a map I maintain in an Excel file, then compare the amount I spend each month against what my budget amount is, maintained in another sheet in that same Excel file. Because mint.com doesn’t provide a programmatic API (&lt;a href="http://odata.org">OData&lt;/a> would be a godsend!), I pull down my transaction history as a CSV file that the web site provides for me, which I then translate to an Excel file.&lt;/p>  &lt;p>Once I have these three Excel sheets, the translation history, the category map and the category budget amounts, I bring these pieces of data into my LINQPad script:&lt;/p>  &lt;pre class="csharpcode">&lt;span class="kwrd">void&lt;/span> Main() {
+    var mintExcel = ExcelProvider.Create(&lt;span class="str">@&amp;quot;D:\data\finances\2010-08-25 mint transactions.xlsx&amp;quot;&lt;/span>);
+    var minDate = &lt;span class="kwrd">new&lt;/span> DateTime(2010, 8, 1);
+    var txs = mintExcel.GetSheet&amp;lt;Tx&amp;gt;().Where(t=&amp;gt;t.Date&amp;gt;=minDate);
+    var debits = txs.Where(tx =&amp;gt; tx.Type == &lt;span class="str">&amp;quot;debit&amp;quot;&lt;/span>);
+
+    var classExcel = ExcelProvider.Create(&lt;span class="str">@&amp;quot;d:\data\finances\2010-08-03 mint category map.xlsx&amp;quot;&lt;/span>);
+    var map = classExcel.GetSheet&amp;lt;CategoryClass&amp;gt;().ToList();
+    var classBudget = classExcel.GetSheet&amp;lt;ClassBudget&amp;gt;().ToList();
+    var unclassified = &lt;span class="kwrd">new&lt;/span> ClassBudget() { Class = &lt;span class="str">&amp;quot;UNCLASSIFIED&amp;quot;&lt;/span> };
+    classBudget.Add(unclassified);
+    var classifiedDebits = debits.
+      Select(d =&amp;gt; &lt;span class="kwrd">new&lt;/span> { d.Date, d.Description, Amount = d.Amount, d.Category, Class = GetClass(map, d) }).
+      Where(d =&amp;gt; d.Class != &lt;span class="kwrd">null&lt;/span>);
+    
+    &lt;span class="rem">// TODO: break this down by month&lt;/span>
+    &lt;span class="rem">// TODO: sum this by ytd&lt;/span>
+    var classifiedTotals =
+        from d &lt;span class="kwrd">in&lt;/span> classifiedDebits
+        group d by d.Class into g
+        let b = classBudget.FirstOrDefault(b=&amp;gt;b.Class == g.Key) ?? unclassified
+        let total = g.Sum(d=&amp;gt;d.Amount)
+        select &lt;span class="kwrd">new&lt;/span> {
+            Class = b.Class,
+            BudgetAmount = b.Amount,
+            ActualAmount = total,
+            AmountLeft = b.Amount - total,
+            TxCount = g.Count(),
+            Transactions = from tx &lt;span class="kwrd">in&lt;/span> g.OrderBy(tx=&amp;gt;tx.Date)
+                select &lt;span class="kwrd">new&lt;/span> { Date = tx.Date.ToString(&lt;span class="str">&amp;quot;M/d/yy&amp;quot;&lt;/span>), tx.Description, tx.Category, tx.Amount }
+        };
+    classifiedTotals.OrderBy(d=&amp;gt;d.Class).Dump(2);
+    &lt;span class="rem">//classifiedTotals.OrderBy(d=&amp;gt;d.Class).Dump();&lt;/span>
+}
+
+&lt;span class="kwrd">static&lt;/span> &lt;span class="kwrd">string&lt;/span> GetClass(List&amp;lt;CategoryClass&amp;gt; map, Tx tx) {
+  CategoryClass cc = map.FirstOrDefault(m =&amp;gt; m.Category == tx.Category);
+  &lt;span class="kwrd">if&lt;/span>( cc != &lt;span class="kwrd">null&lt;/span> ) { &lt;span class="kwrd">return&lt;/span> cc.Class; }
+  tx.Category.Dump(&lt;span class="str">&amp;quot;UNCLASSIFIED MINT CATEGORY&amp;quot;&lt;/span>);
+  &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>;
+}
+
+[ExcelSheet(Name = &lt;span class="str">&amp;quot;transactions(1)&amp;quot;&lt;/span>)]
+&lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">class&lt;/span> Tx {
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> DateTime Date { get; set; }
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Description { get; set; }
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">decimal&lt;/span> Amount { get; set; }
+    [ExcelColumn(Name = &lt;span class="str">&amp;quot;Transaction Type&amp;quot;&lt;/span>)] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Type { get; set; }
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Category { get; set; }
+    [ExcelColumn(Name = &lt;span class="str">&amp;quot;Account Name&amp;quot;&lt;/span>)] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> AccountName { get; set; }
+}
+
+[ExcelSheet(Name = &lt;span class="str">&amp;quot;Sheet1&amp;quot;&lt;/span>)]
+&lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">class&lt;/span> CategoryClass {
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Category { get; set; }
+    [ExcelColumn(Name=&lt;span class="str">&amp;quot;Classification&amp;quot;&lt;/span>)] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Class { get; set; }
+}
+
+[ExcelSheet(Name = &lt;span class="str">&amp;quot;Sheet2&amp;quot;&lt;/span>)]
+&lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">class&lt;/span> ClassBudget {
+    [ExcelColumn(Name=&lt;span class="str">&amp;quot;Classification&amp;quot;&lt;/span>)] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Class { get; set; }
+    [ExcelColumn()] &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">decimal&lt;/span> Amount { get; set; }
+    &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">int&lt;/span> Transactions { get; set; }
+}&lt;/pre>
+&lt;style type="text/css">
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>There are some interesting things to notice about this script:&lt;/p>
+
+&lt;ul>
+  &lt;li>I needed to make it a full-fledged program so that I could define the shape of my data in Excel. LINQPad has no native support for Excel data, so I had modify &lt;a href="http://solidcoding.blogspot.com/2008/01/linq-to-excel-provider-25.html">an Excel LINQ provider&lt;/a> I found on the interwebtubes. The types are needed to map the Excel columns to C# types so that I can query against them.&lt;/li>
+
+  &lt;li>This script isn’t pretty; it’s been built up over time and it works. I’ve been using it for a month and this month my task is to split it work across multiple months.&lt;/li>
+
+  &lt;li>I’ve built up error output over time to make sure I’m not dropping data in my queries. I spent an hour a coupla weeks ago tracking down 3 transactions.&lt;/li>
+
+  &lt;li>I’m doing slow look-ups cuz at the time I wrote this script, I wasn’t sure how to write joins in LINQ. It’s more than fast enough for my needs, so I’ve only dug into LINQ for accuracy, not efficiency.&lt;/li>
+&lt;/ul>
+
+&lt;h2>LINQPad Output&lt;/h2>
+
+&lt;p>By default, the output from my budgeting program looks like this (w/ my personal financial details blacked out):&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12691-15.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image006" border="0" alt="clip_image006" src="/public/post-images/12691-16.jpeg" width="695" height="373" />&lt;/a>&lt;/p>
+
+&lt;p>Some things to notice:&lt;/p>
+
+&lt;ul>
+  &lt;li>The output is spit into a table w/o me having to do anything except dump the data.&lt;/li>
+
+  &lt;li>The number columns have an automatic bar graph glyph on them that shows proportions when clicked.&lt;/li>
+
+  &lt;li>The number columns are automatically totally.&lt;/li>
+
+  &lt;li>The Transactions column is turned off because I said “Dump(2)”, which only dumps to the 2&lt;sup>nd&lt;/sup> level. By default it would drill down further, e.g.&lt;/li>
+&lt;/ul>
+
+&lt;p>&lt;a href="/public/post-images/12691-17.jpeg">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image008" border="0" alt="clip_image008" src="/public/post-images/12691-18.jpeg" width="707" height="83" />&lt;/a>&lt;/p>
+
+&lt;h2>Bringing in Excel&lt;/h2>
+
+&lt;p>To bring my Excel data into LINQPad, which supports LINQ to SQL, EF and OData natively but not Excel, I have to right-click on the design surface, choose query properties and tell it about where the source code and namespace is that defines the Excel LINQ Query Provider:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12691-19.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12691-20.png" width="716" height="262" />&lt;/a>&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12691-21.png">&lt;img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12691-22.png" width="723" height="235" />&lt;/a>&lt;/p>
+
+&lt;h2>Impressions&lt;/h2>
+
+&lt;p>The thing that makes this app really work for me is the REPL nature. It’s very immediate and I can see where my money is going with very little ceremony. It’s really the intelligence of the Dump command that keeps me from moving this app to WPF. Dump gives me the view I need to understand where my money goes and it gives me the programming surface to slice/dice the data the way I want to. I have no control out of the box in WPF that’s even close to as useful.&lt;/p>
+
+&lt;p>However, Even though I could extend LINQPad myself, there is no integrated support for Excel or CSV files. Further, for some stupid reason, I have to load the files into a running instance of Excel for them to load in LINQPad, which pisses me off because the error messages are ridiculous. Also, there is no intrinsic support for multiple data sources; instead I need to build that myself.&lt;/p>
+
+&lt;p>Further, I had one case where I couldn’t figure out an error (it was that I forgot to load the data into Excel) and had to have a real debugger, which LINQPad didn’t have. The good news was that I was able to copy/paste my code into a console application and debug it, but the bad news was that I really missed the Dump command when I was running inside Visual Studio.&lt;/p>
+
+&lt;h2>Where Are We?&lt;/h2>
+
+&lt;p>I really love LINQPad. In fact, I find myself wanting the same functionality for other uses, e.g. SQL (real SQL), JavaScript and as a shell. It’s the interactive data access that makes it for me – munge some data, look at it, repeat. It doesn’t quite do everything I want, though – where’s the full-featured, all-data, Swiss army knife for data?&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12692</id>
+    <title>Fluent-Style Programming in JavaScript</title>
+    <updated>2010-12-11T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/post-images/12692-24.png"/>
+    <published>2010-12-11T08:00:00.000Z</published>
+    <summary>I’ve been playing around with JavaScript a great deal lately and trying to find my way. I last programmed JS seriously about 10 years ago and it’s amazing to me how much the world has changed since then. For example, the fifth edition of ECMAScript (ES5) has recently been approved for standardization and it’s already widely implemented in modern browsers, including my favorite browser, IE9. Fluent LINQ However, I’m a big C# fan, especially the fluent API style of LINQ methods like Where, Select, OrderBy, et...</summary>
+    <content type="html">&lt;h1>Fluent-Style Programming in JavaScript&lt;/h1>
+&lt;p>I’ve been playing around with JavaScript a great deal lately and trying to find my way. I last programmed JS seriously about 10 years ago and it’s amazing to me how much the world has changed since then. For example, the fifth edition of &lt;a href="http://www.ecmascript.org/">ECMAScript&lt;/a> (ES5) has recently been approved for standardization and it’s already widely implemented in modern browsers, including &lt;a href="http://www.beautyoftheweb.com/">my favorite browser, IE9&lt;/a>.&lt;/p>  &lt;h2>Fluent LINQ&lt;/h2>  &lt;h2>&lt;/h2>  &lt;p>However, I’m a big C# fan, especially &lt;a href="http://en.wikipedia.org/wiki/Fluent_interface">the fluent API style&lt;/a> of LINQ methods like Where, Select, OrderBy, etc. As an example, assume the following C# class:&lt;/p>  &lt;pre class="csharpcode">&lt;span class="kwrd">class&lt;/span> Person {
+  &lt;span class="kwrd">public&lt;/span> Person() { Children = &lt;span class="kwrd">new&lt;/span> List&amp;lt;Person&amp;gt;(); }
+  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">string&lt;/span> Name { get; set; }
+  &lt;span class="kwrd">public&lt;/span> DateTime Birthday { get; set; }
+  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">int&lt;/span> Age { get { &lt;span class="kwrd">return&lt;/span> (&lt;span class="kwrd">int&lt;/span>)((DateTime.Now - Birthday).Days / 365.25); } }
+  &lt;span class="kwrd">public&lt;/span> ICollection&amp;lt;Person&amp;gt; Children { get; &lt;span class="kwrd">private&lt;/span> set; }
+  &lt;span class="kwrd">public&lt;/span> &lt;span class="kwrd">override&lt;/span> &lt;span class="kwrd">string&lt;/span> ToString() { &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">string&lt;/span>.Format(&lt;span class="str">&amp;quot;{0} ({1})&amp;quot;&lt;/span>, Name, Age); }
+}&lt;/pre>
+&lt;style type="text/css">
+
+
+
+
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;div id="codeSnippetWrapper">Creating a set of them is a matter of using the C# member initialization syntax:&lt;/div>
+
+&lt;pre class="csharpcode">var chris = &lt;span class="kwrd">new&lt;/span> Person() {
+  Name = &lt;span class="str">&amp;quot;Chris&amp;quot;&lt;/span>,
+  Birthday = &lt;span class="kwrd">new&lt;/span> DateTime(1969, 6, 2),
+  Children = {
+    &lt;span class="kwrd">new&lt;/span> Person() {
+      Name = &lt;span class="str">&amp;quot;John&amp;quot;&lt;/span>,
+      Birthday = &lt;span class="kwrd">new&lt;/span> DateTime(1994, 5, 5),
+    },
+    &lt;span class="kwrd">new&lt;/span> Person() {
+      Name = &lt;span class="str">&amp;quot;Tom&amp;quot;&lt;/span>,
+      Birthday = &lt;span class="kwrd">new&lt;/span> DateTime(1995, 8, 30),
+    },
+  },
+};&lt;/pre>
+&lt;style type="text/css">
+
+
+
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;div>Without even realizing it, I used the word “set” to describe how I think of this collection of people. That’s how the LINQ methods encourage me to think and I like it – I’m working on sets of things, whether I’m filtering them, projecting them, ordering them, aggregating them in some way, etc. For example, here’s how I would print all of the items in my set:&lt;/div>
+
+&lt;div id="codeSnippetWrapper">
+  &lt;pre class="csharpcode">var people = &lt;span class="kwrd">new&lt;/span> Person[] { chris }.&lt;strong>Union&lt;/strong>(chris.Children);
+Console.WriteLine(&lt;span class="str">&amp;quot;People: &amp;quot;&lt;/span> +
+  people.&lt;strong>Aggregate&lt;/strong>(&lt;span class="str">&amp;quot;&amp;quot;&lt;/span>, (s, p) =&amp;gt; s + (s.Length == 0 ? &lt;span class="str">&amp;quot;&amp;quot;&lt;/span> : &lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>) + p.ToString()));
+Console.WriteLine(&lt;span class="str">&amp;quot;Teens: &amp;quot;&lt;/span> +
+  people.&lt;strong>Where&lt;/strong>(p =&amp;gt; p.Age &amp;gt; 12 &amp;amp;&amp;amp; p.Age &amp;lt; 20).
+    Aggregate(&lt;span class="str">&amp;quot;&amp;quot;&lt;/span>, (s, p) =&amp;gt; s + (s.Length == 0 ? &lt;span class="str">&amp;quot;&amp;quot;&lt;/span> : &lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>) + p.ToString()));&lt;style type="text/css">.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }
+&lt;/style>&lt;br />&lt;/pre>
+&lt;/div>
+
+&lt;div>Here I’m using the Union method to combine all three elements into a new set, the Where method to filter one set to produce another and the Aggregate method to produce a single string. The output should be unsurprising:&lt;/div>
+
+&lt;pre class="csharpcode">People: Chris (41), John (16), Tom (15)
+Teens: John (16), Tom (15)&lt;/pre>
+&lt;style type="text/css">
+
+
+
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;h2>Fluent JavaScript&lt;/h2>
+
+&lt;div>LINQ is lousy with such set-oriented functions, e.g. Select, OrderBy, Take, Skip, First, Single, etc. and &lt;a href="/12686">I use them a ton in my code&lt;/a> (and &lt;a href="/12691">my scripts&lt;/a>). As it turns out, JS has these methods, too, both provided by popular JS toolkits like &lt;a href="http://jquery.org/">jQuery&lt;/a> and &lt;a href="http://blogs.msdn.com/b/ie/archive/2010/12/13/ecmascript-5-part-2-array-extras.aspx">in the language itself&lt;/a>. Specifically, ES5 has a number of lovely methods for fluent programming. For example, given the same “class” in JS:&lt;/div>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// Person constructor&lt;/span>
+&lt;span class="kwrd">function&lt;/span> Person(args) {
+  &lt;span class="kwrd">if&lt;/span> (args.name) { &lt;span class="kwrd">this&lt;/span>.name = args.name; }
+  &lt;span class="kwrd">if&lt;/span> (args.birthday) { &lt;span class="kwrd">this&lt;/span>.birthday = args.birthday; }
+  &lt;span class="kwrd">if&lt;/span> (args.children) { &lt;span class="kwrd">this&lt;/span>.children = args.children; }
+}
+
+&lt;span class="rem">// Person properties and methods&lt;/span>
+Person.prototype = Object.create(&lt;span class="kwrd">null&lt;/span>, {
+  name: { value: &lt;span class="str">&amp;quot;&amp;quot;&lt;/span>, writable: &lt;span class="kwrd">true&lt;/span> },
+  birthday: { value: &lt;span class="kwrd">new&lt;/span> Date(), writable: &lt;span class="kwrd">true&lt;/span> },
+  age: { get: &lt;span class="kwrd">function&lt;/span> () { &lt;span class="kwrd">return&lt;/span> Math.floor((&lt;span class="kwrd">new&lt;/span> Date() - &lt;span class="kwrd">this&lt;/span>.birthday) / 31557600000); } },
+  children: { value: [], writable: &lt;span class="kwrd">true&lt;/span> },
+  toString: { value: &lt;span class="kwrd">function&lt;/span> () { &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">this&lt;/span>.name + &lt;span class="str">&amp;quot; (&amp;quot;&lt;/span> + &lt;span class="kwrd">this&lt;/span>.age + &lt;span class="str">&amp;quot;)&amp;quot;&lt;/span>; } }
+});&lt;/pre>
+&lt;style type="text/css">
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>I can do several LINQ-style things on it:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">var&lt;/span> s = &lt;span class="str">&amp;quot;&amp;quot;&lt;/span>;
+&lt;span class="kwrd">var&lt;/span> tom = &lt;span class="kwrd">new&lt;/span> Person({ name: &lt;span class="str">&amp;quot;tom&amp;quot;&lt;/span>, birthday: &lt;span class="kwrd">new&lt;/span> Date(1995, 7, 30) });
+&lt;span class="kwrd">var&lt;/span> john = &lt;span class="kwrd">new&lt;/span> Person({ name: &lt;span class="str">&amp;quot;john&amp;quot;&lt;/span>, birthday: &lt;span class="kwrd">new&lt;/span> Date(1994, 4, 5) });
+&lt;span class="kwrd">var&lt;/span> chris = &lt;span class="kwrd">new&lt;/span> Person({ name: &lt;span class="str">&amp;quot;chris&amp;quot;&lt;/span>, birthday: &lt;span class="kwrd">new&lt;/span> Date(1969, 5, 2), children: [tom, john] });
+&lt;span class="kwrd">var&lt;/span> people = [tom, john, chris];
+
+&lt;span class="rem">// select&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;people&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>map&lt;/strong>(&lt;span class="kwrd">function&lt;/span> (p) { &lt;span class="kwrd">return&lt;/span> p; }).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);
+
+&lt;span class="rem">// where&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;teenagers&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>filter&lt;/strong>(&lt;span class="kwrd">function&lt;/span> (p) { &lt;span class="kwrd">return&lt;/span> p.age &amp;gt; 12 &amp;amp;&amp;amp; p.age &amp;lt; 20 }).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);
+
+&lt;span class="rem">// any&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;any person over the hill?&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>some&lt;/strong>(&lt;span class="kwrd">function&lt;/span> (p) { &lt;span class="kwrd">return&lt;/span> p.age &amp;gt; 40; });
+
+&lt;span class="rem">// aggregate&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;totalAge&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>reduce&lt;/strong>(&lt;span class="kwrd">function&lt;/span> (totalAge, p) { &lt;span class="kwrd">return&lt;/span> totalAge += p.age; }, 0);
+
+&lt;span class="rem">// take&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;take 2&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>slice&lt;/strong>(0, 2).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);
+
+&lt;span class="rem">// skip&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;skip 2&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>slice&lt;/strong>(2).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);
+
+&lt;span class="rem">// sort&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;sorted by name&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> + people.&lt;strong>slice(0).sort&lt;/strong>(
+  &lt;span class="kwrd">function&lt;/span> (lhs, rhs) { &lt;span class="kwrd">return&lt;/span> lhs.name.localeCompare(rhs.name); }).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);
+
+&lt;span class="rem">// dump&lt;/span>
+document.getElementById(&lt;span class="str">&amp;quot;output&amp;quot;&lt;/span>).innerHTML = s;&lt;/pre>
+
+&lt;p>Notice that several things are similar between JS and C# LINQ-style:&lt;/p>
+
+&lt;ul>
+  &lt;li>The array and object initialization syntax looks very similar so long as I follow the JS convention of passing in an anonymous object as a set of constructor parameters. &lt;/li>
+
+  &lt;li>The JS Date type is like the .NET DateTime type except that months are zero-based instead of one-based (weird). &lt;/li>
+
+  &lt;li>When a Person object is “added” to a string, JS is smart enough to automatically call the toString method. &lt;/li>
+
+  &lt;li>The JS map function lets you project from one set to another like LINQ Select. &lt;/li>
+
+  &lt;li>The JS filter function lets you filter a set like LINQ Where. &lt;/li>
+
+  &lt;li>The JS some function lets you check if anything in a set matches a predicate like LINQ Any. &lt;/li>
+
+  &lt;li>The JS reduce function lets you accumulate results from a set like the LINQ Aggregate. &lt;/li>
+
+  &lt;li>The JS slice function is a multi-purpose array manipulation function that we’ve used here like LINQ Take and Skip. &lt;/li>
+
+  &lt;li>The JS slice function also produces a copy of the array, which is handy when handing off to the JS sort, which acts on the array in-place. &lt;/li>
+&lt;/ul>
+
+&lt;p>The output looks as you’d expect:&lt;/p>
+
+&lt;p>&lt;a href="/public/post-images/12692-23.png">&lt;img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/public/post-images/12692-24.png" width="697" height="916" />&lt;/a>&lt;/p>
+&lt;style type="text/css">
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>We’re not all there, however. For example, the semantics of the LINQ First method are to stop looking once a match is found. Those semantics are not available in the JS filter method, which checks every element, or the JS some method, which stops once the first matching element is found, but returns a Boolean, not the matching element. Likewise, the semantics for Union and Single are also not available as well as several others that I haven’t tracked down. In fact, there are several JS toolkits available on the internet to provide the entire set of LINQ methods for JS programmers, but I don’t want to duplicate my C# environment, just the set-like thinking that I consider language-agnostic.&lt;/p>
+
+&lt;p>So, in the spirit of JS, I added methods to the build in types, like the Array type where all of the set-based intrinsics are available, to add the missing functionality:&lt;/p>
+
+&lt;pre class="csharpcode">Object.defineProperty(Array.prototype, &lt;span class="str">&amp;quot;union&amp;quot;&lt;/span>, { value: &lt;span class="kwrd">function&lt;/span> (rhs) {
+  &lt;span class="kwrd">var&lt;/span> rg = &lt;span class="kwrd">this&lt;/span>.slice(0);
+  rhs.forEach(&lt;span class="kwrd">function&lt;/span> (v) { rg.unshift(v); })
+  &lt;span class="kwrd">return&lt;/span> rg;
+}});
+
+Object.defineProperty(Array.prototype, &lt;span class="str">&amp;quot;first&amp;quot;&lt;/span>, { value: &lt;span class="kwrd">function&lt;/span> (callback) {
+  &lt;span class="kwrd">for&lt;/span> (&lt;span class="kwrd">var&lt;/span> i = 0, length = &lt;span class="kwrd">this&lt;/span>.length; i &amp;lt; length; ++i) {
+    &lt;span class="kwrd">var&lt;/span> value = &lt;span class="kwrd">this&lt;/span>[i];
+    &lt;span class="kwrd">if&lt;/span> (callback(value)) { &lt;span class="kwrd">return&lt;/span> value; }
+  }
+  &lt;span class="kwrd">return&lt;/span> &lt;span class="kwrd">null&lt;/span>;
+}});
+
+Object.defineProperty(Array.prototype, &lt;span class="str">&amp;quot;single&amp;quot;&lt;/span>, { value: &lt;span class="kwrd">function&lt;/span> (callback) {
+  &lt;span class="kwrd">var&lt;/span> result = &lt;span class="kwrd">null&lt;/span>;
+  &lt;span class="kwrd">this&lt;/span>.forEach(&lt;span class="kwrd">function&lt;/span> (v) {
+    &lt;span class="kwrd">if&lt;/span> (callback(v)) {
+      &lt;span class="kwrd">if&lt;/span> (result != &lt;span class="kwrd">null&lt;/span>) { &lt;span class="kwrd">throw&lt;/span> &lt;span class="str">&amp;quot;more than one result&amp;quot;&lt;/span>; }
+      result = v;
+    }
+  });
+  &lt;span class="kwrd">return&lt;/span> result;
+}});&lt;/pre>
+
+&lt;p>These aren’t perfectly inline with all of the semantics of the built-in methods, but they give you a flavor of how you can extend the prototype, which ends up feeling like adding extension methods in C#.&lt;/p>
+
+&lt;p>The reason to add methods to the Array prototype is that it makes it easier to continue to chain calls together in the fluent style that started all this experimentation, e.g.&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="rem">// union&lt;/span>
+s += &lt;span class="str">&amp;quot;&amp;lt;h1&amp;gt;chris's family&amp;lt;/h1&amp;gt;&amp;quot;&lt;/span> +&lt;br />  [chris].&lt;strong>union&lt;/strong>(chris.children).map(&lt;span class="kwrd">function&lt;/span> (p) { &lt;span class="kwrd">return&lt;/span> p; }).join(&lt;span class="str">&amp;quot;, &amp;quot;&lt;/span>);&lt;/pre>
+
+&lt;h2>Where Are We?&lt;/h2>
+
+&lt;p>If you’re a JS programmer, it may be that you appreciate using it like a scripting language and so none of this “set-based” nonsense is important to you. That’s OK. JS is for everyone.&lt;/p>
+
+&lt;p>If you’re a C# programmer, you might dismiss JS as a “toy” language and turn your nose up at it. This would be a mistake. JS has a combination of ease-of-use for the non-programmer-programmer and raw power for the programmer-programmer that makes it worth taking seriously. Plus, with it’s popularity on the web, it’s hard to ignore.&lt;/p>
+
+&lt;p>If you’re a functional programmer, you look at all this set-based programming and say, “Duh. What took you so long?”&lt;/p>
+
+&lt;p>Me, I’m just happy I can program the way I like to in my new home on the web. : )&lt;/p>
+&lt;style type="text/css">
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>&lt;style type="text/css">
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12688</id>
+    <title>Management vs. Motivation</title>
+    <updated>2010-10-29T07:00:00.000Z</updated>
+    <published>2010-10-29T07:00:00.000Z</published>
+    <summary>“If you want to build a ship, don’t drum up people to gather wood, divide the work, and give them orders. Instead, teach them to yearn for the vast and endless sea.&amp;quot; Antoine De Saint-Exupery, author of &amp;quot;The Little Prince&amp;quot; </summary>
+    <content type="html">&lt;h1>Management vs. Motivation&lt;/h1>
+&lt;p>“If you want to build a ship, don’t drum up people to gather wood, divide the work, and give them orders. Instead, teach them to yearn for the vast and endless sea.&amp;quot;&lt;/p>  &lt;p>Antoine De Saint-Exupery, author of &amp;quot;The Little Prince&amp;quot;&lt;/p>  </content>
+  </entry>
+</feed>

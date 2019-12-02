@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed114.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed113.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed115.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed114.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/802</id>
+    <title>Scott's Ultimate Developer &amp; Power User Tools List</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. "Everyone collects utilities, and most folks have a list of a few that they feel are indispensable. Here's mine. Each has a distinct purpose, and I probably touch each at least a few times a week. For me, util means utilitarian and it means don't clutter my tray. If it saves me time, and seamlessly integrates with my life, it's the bomb."</summary>
+    <content type="html">&lt;h1>Scott's Ultimate Developer &amp; Power User Tools List&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0106747/stories/2003/09/09/scottHanselmansUltimateDeveloperAndPowerUsersToolsList.html">Here&lt;/a>. "Everyone collects utilities, and most folks have a list of a few that they feel are indispensable.  Here's mine.  Each has a distinct purpose, and I probably touch each at least a few times a week.  For me, util means utilitarian and it means don't clutter my tray.  If it saves me time, and seamlessly integrates with my life, it's the bomb."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/806</id>
+    <title>Let us pause on 9/11...</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. George Bullock, a colleague at MS who's birthday happens to fall on 9/11, has had the "coolness" taken out of the day for him and sent around a mail that I share part of.</summary>
+    <content type="html">&lt;h1>Let us pause on 9/11...&lt;/h1>
+&lt;a href="/12524">Here&lt;/a>. George Bullock, a colleague at MS who's birthday happens to fall on 9/11, has had the "coolness" taken out of the day for him and sent around a mail that I share part of.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/808</id>
+    <title>How Rich Are You?</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. Rounding, I'm in the top 0% of the richest people in the world. Then how come I still work for a living?!?</summary>
+    <content type="html">&lt;h1>How Rich Are You?&lt;/h1>
+&lt;a href="http://www.globalrichlist.com/">Here&lt;/a>. Rounding, I'm in the top 0% of the richest people in the world. Then how come I still work for a living?!?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/804</id>
+    <title>Test Dynamics</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. Not quite knowing where Josh was going, I really liked it when he said, "... with the advent of managed code, our devs are somewhere close to twice as productive as before..." However, with the end of that same sentence, he sent chills down my spine, "... this means that one dev can overwhelm a tester pretty quickly." He goes on to wonder whether, because managed code has fewer bugs, we'll be able to keep going or have to increase the number of testers. The thing that scares me is that testers are a r...</summary>
+    <content type="html">&lt;h1>Test Dynamics &lt;/h1>
+&lt;a href="http://www.netcrucible.com/blog/2003/09/10.html#a353">Here&lt;/a>. Not quite knowing where Josh was going, I really liked it when he said, "... with the advent of managed code, our devs are somewhere close to twice as productive as before..."
+
+However, with the end of that same sentence, he sent chills down my spine, "... this means that one dev can overwhelm a tester pretty quickly."
+
+He goes on to wonder whether, because managed code has fewer bugs, we'll be able to keep going or have to increase the number of testers. The thing that scares me is that testers are a rare breed, hard to find and hard to keep, especially as many of them want to cut their own code, not report bugs on someone else's.
+
+Is the next growth industry in the IT industry testers? Is the next DevelopMentor an out-sourced QA company?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/807</id>
+    <title>Implementing Drag and Drop in ... WinForms!</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. Steve Hoag gives a nice overview of various kinds of Windows Forms drag-n-drop, including text, pictures, files and between lists. The code is in VB.NET, but we're all one big happy family!</summary>
+    <content type="html">&lt;h1>Implementing Drag and Drop in ... WinForms!&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vbtchImpDragDrop.asp">Here&lt;/a>. Steve Hoag gives a nice overview of various kinds of Windows Forms drag-n-drop, including text, pictures, files and between lists. The code is in VB.NET, but we're all one big happy family!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/803</id>
+    <title>Why Do You Code?</title>
+    <updated>2003-09-11T07:00:00.000Z</updated>
+    <published>2003-09-11T07:00:00.000Z</published>
+    <summary>Here. I always enjoy Rory's writings. This time, he tells the stories of some amazingly dedicated coders and then asks the question "Why do you code?" I think I started coding because I was such an anti-social geek that I needed something over which my actions had some reasonable, predictable outcome. Plus, I have that kind of a mind well-suited to programming. I continue to code as a way to a) learn how MS's latest technologies work and b) make my computer do what I want it to do. How about you?</summary>
+    <content type="html">&lt;h1>Why Do You Code?&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/permalink.aspx/a2f88d4b-c9eb-40d4-a5af-dee8ffa161aa">Here&lt;/a>. I always enjoy Rory's writings. This time, he tells the stories of some amazingly dedicated coders and then asks the question "Why do you code?"
+
+I think I started coding because I was such an anti-social geek that I needed something over which my actions had some reasonable, predictable outcome. Plus, I have that kind of a mind well-suited to programming. I continue to code as a way to a) learn how MS's latest technologies work and b) make my computer do what I want it to do. How about you?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/801</id>
+    <title>MSDN TV: Hard Core Messaging with WSE 2.0, Pt. 1</title>
+    <updated>2003-09-10T07:00:00.000Z</updated>
+    <published>2003-09-10T07:00:00.000Z</published>
+    <summary>Here. Keith Ballinger taped live from the Applied XML Developer's Conference. Keith, as ever, a pleasure to watch.</summary>
+    <content type="html">&lt;h1>MSDN TV: Hard Core Messaging with WSE 2.0, Pt. 1&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030909WebServicesKB/manifest.xml">Here&lt;/a>. Keith Ballinger taped live from the Applied XML Developer's Conference. Keith, as ever, a pleasure to watch.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/800</id>
+    <title>OLE 2 Guru Finds God at Microsoft</title>
+    <updated>2003-09-08T07:00:00.000Z</updated>
+    <published>2003-09-08T07:00:00.000Z</published>
+    <summary>Here. Kraig Brockschmidt, author of Inside OLE 2 and the first person to understand all of OLE 2 and live to tell the tale writes on his post-MS spiritual journey and his revelatations on how God was with him the whole time at MS. [gotdotnet.com/team/dbox]</summary>
+    <content type="html">&lt;h1>OLE 2 Guru Finds God at Microsoft&lt;/h1>
+&lt;a href="http://www.anandasangha.net/mysticmicrosoft/index.htm">Here&lt;/a>. Kraig Brockschmidt, author of Inside OLE 2 and the first person to understand all of OLE 2 and live to tell the tale writes on his post-MS spiritual journey and his revelatations on how God was with him the whole time at MS.
+
+[gotdotnet.com/team/dbox]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/795</id>
+    <title>PDC/post-PDC Longhorn Online Plans?</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. Does anyone have any PDC or post-PDC plans for books, articles, conference talks, user groups, web sites, blogs, etc. on the topic of Longhorn? If so, please email me (csells@microsoft.com) so that I can compose a list for the MSDN Longhorn Developer's Center web site. Thanks!</summary>
+    <content type="html">&lt;h1>PDC/post-PDC Longhorn Online Plans?&lt;/h1>
+&lt;a href="mailto:csells@microsoft.com">Here&lt;/a>. Does anyone have any PDC or post-PDC plans for books, articles, conference talks, user groups, web sites, blogs, etc. on the topic of Longhorn? If so, please email me (csells@microsoft.com) so that I can compose a list for the MSDN Longhorn Developer's Center web site. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/799</id>
+    <title>Other ENTJs</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. In addition to ChrisAn and I, Harrison Ford is an ENTJ, as are FDR, Nixon, Steve Martin, David Letterman and Jim Carrey. This is so true: "ENTJs are often 'larger than life' in describing their projects or proposals... In combination with the natural propensity for filibuster, our hero can make it very difficult for the customer to decline... Experience teaches many ENTJs that restraint may often be the better part of valor, lest one find oneself victorious but alone."</summary>
+    <content type="html">&lt;h1>Other ENTJs&lt;/h1>
+&lt;a href="http://www.typelogic.com/entj.html">Here&lt;/a>. In addition to ChrisAn and I, Harrison Ford is an ENTJ, as are FDR, Nixon, Steve Martin, David Letterman and Jim Carrey.
+
+This is so true: "ENTJs are often 'larger than life' in describing their projects or proposals... In combination with the natural propensity for filibuster, our hero can make it very difficult for the customer to decline... Experience teaches many ENTJs that restraint may often be the better part of valor, lest one find oneself victorious but alone."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/796</id>
+    <title>Another ENTJ comes out of the closet</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. ChrisAn, one of my very smart friends at Microsoft, discovers he's the same Myers-Briggs type that I am. I'll bet that one is pretty common at Microsoft, actually. Maybe we could just skip the annoying interview process from now on... : )</summary>
+    <content type="html">&lt;h1>Another ENTJ comes out of the closet&lt;/h1>
+&lt;a href="http://www.simplegeek.com/permalink.aspx/903263e7-cca1-4cf8-bcfb-08047899a50e">Here&lt;/a>. ChrisAn, one of my very smart friends at Microsoft, discovers he's the same Myers-Briggs type that I am. I'll bet that one is pretty common at Microsoft, actually. Maybe we could just skip the annoying interview process from now on... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/797</id>
+    <title>Are You Missing Out on Code Generation?</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. Oh, sure, I built an entire codegen product a number of years ago. Would it have hurt folks to get excited about it then?!? : )</summary>
+    <content type="html">&lt;h1>Are You Missing Out on Code Generation?&lt;/h1>
+&lt;a href="http://www.devx.com/java/editorial/15511">Here&lt;/a>. Oh, sure, I built an entire codegen product a number of years ago. Would it have hurt folks to get excited about it then?!? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/794</id>
+    <title>I want to go to Burning Man</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. Oh, sure. I'd read about Burning Man in Wired like all geeks, but until John sent around an amazing email describing what he did this year and Josephine regailed me with her stories, I had no idea. It sounds life changing and I do like that! Anyone gone before? How do you prepare?</summary>
+    <content type="html">&lt;h1>I want to go to Burning Man&lt;/h1>
+&lt;a href="http://www.burningman.com">Here&lt;/a>. Oh, sure. I'd read about Burning Man in Wired like all geeks, but until John sent around an amazing email describing what he did this year and Josephine regailed me with her stories, I had no idea. It sounds life changing and I do like that! Anyone gone before? How do you prepare?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/798</id>
+    <title>Bloomberg University: Required Reading</title>
+    <updated>2003-09-06T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-09-06T07:00:00.000Z</published>
+    <summary>Here. The recent economic conditions caused me to become very interested in not just making money (I've always been a capitalist : ), but also in keeping a careful eye on it. In the past, I've let most of the "keeping an eye on it" be done by a financial advisor (I've had one since I was 22). These days, I have a stack of financial books that I'm reading [1] and it's been a fabulous educational experience. Given the supreme importance of money in our society, I think everyone should know the basics of money...</summary>
+    <content type="html">&lt;h1>Bloomberg University: Required Reading&lt;/h1>
+&lt;a href="http://www.bloomberg.com/analysis/univ/index.html">Here&lt;/a>. The recent economic conditions caused me to become very interested in not just making money (I've always been a capitalist : ), but also in keeping a careful eye on it.
+
+In the past, I've let most of the "keeping an eye on it" be done by a financial advisor (I've had one since I was 22). These days, I have a stack of financial books that I'm reading [1] and it's been a fabulous educational experience.
+
+Given the supreme importance of money in our society, I think everyone should know the basics of money management. I'm very disappointed that I made it all the way through high school, let alone college, with no more instruction then how to fill in a check (something we want folks to do less of, not more!).
+
+Towards that end, I really love Bloomberg University’s no-frills financial tutorials, including one on the basics of a 401(k) and another on the basics of investing. They provide just the tip of the iceberg and I could recommend a lot of other reading, but this is a good place to start for folks that want to actually keep the money they make.
+
+[1] http://127.0.0.1:8080/money</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/792</id>
+    <title>Microsoft Wants You!</title>
+    <updated>2003-09-05T07:00:00.000Z</updated>
+    <published>2003-09-05T07:00:00.000Z</published>
+    <summary>Here. Don's team at Microsoft, which is building the plumbing for next-gen web services, has a couple of openings. Tell 'em I sent you.</summary>
+    <content type="html">&lt;h1>Microsoft Wants You!&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-09-05T07:19:53Z">Here&lt;/a>. Don's team at Microsoft, which is building the plumbing for next-gen web services, has a couple of openings. Tell 'em I sent you.</content>
+  </entry>
+</feed>

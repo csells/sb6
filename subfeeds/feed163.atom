@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed163.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed162.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed164.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed163.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/131</id>
+    <title>Content Management Server and Microsoft</title>
+    <updated>2002-07-09T07:00:00.000Z</updated>
+    <published>2002-07-09T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "Microsoft announces the release of the Content Management Server 2002 beta, a faster, easier, and more cost effective way to create, deploy, and maintain mission critical, content rich Web sites."</summary>
+    <content type="html">&lt;h1>Content Management Server and Microsoft&lt;/h1>
+&lt;a href="http://www.microsoft.com/cmserver/">Here&lt;/a>. From Razvan Caciula: "Microsoft announces the release of the Content Management Server 2002 beta, a faster, easier, and more cost effective way to create, deploy, and maintain mission critical, content rich Web sites."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/128</id>
+    <title>Microsoft target, Java</title>
+    <updated>2002-07-08T07:00:00.000Z</updated>
+    <published>2002-07-08T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: Another "hash" tool...
+I think the Java Language Conversion Assistant is a better tool. Don't u? :)</summary>
+    <content type="html">&lt;h1>Microsoft target, Java&lt;/h1>
+&lt;a href="http://www.msdn.microsoft.com/vjsharp/">Here&lt;/a>. From Razvan Caciula: Another "hash" tool...
+I think the Java Language Conversion Assistant is a better tool. Don't u? :)</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/129</id>
+    <title>After Java#, Linux :)</title>
+    <updated>2002-07-08T07:00:00.000Z</updated>
+    <published>2002-07-08T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "Microsoft appears to be changing its tactics in its ongoing spat with the Linux and open-source world by taking a booth at this August's LinuxWorld Expo for the first time."</summary>
+    <content type="html">&lt;h1>After Java#, Linux :)&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1104-941951.html">Here&lt;/a>. From Razvan Caciula: "Microsoft appears to be changing its tactics in its ongoing spat with the Linux and open-source world by taking a booth at this August's LinuxWorld Expo for the first time."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/127</id>
+    <title>WS-Security &amp; TIP transaction source code to be re</title>
+    <updated>2002-07-08T07:00:00.000Z</updated>
+    <published>2002-07-08T07:00:00.000Z</published>
+    <summary>Here. "We have decided to release the source code for our WS-Security (Kerberos, Username) and our TIP transaction implementations under a BSD-style license before the end of this week. As far as we know, our security package has the first public WS-Security implementation with Kerberos support..."</summary>
+    <content type="html">&lt;h1>WS-Security &amp; TIP transaction source code to be re&lt;/h1>
+&lt;a href="http://www.newtelligence.com/wsextensions">Here&lt;/a>. "We have decided to release the source code for our WS-Security (Kerberos, Username) and our TIP transaction implementations under a BSD-style license before the end of this week. As far as we know, our security package has the first public WS-Security implementation with Kerberos support..."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/126</id>
+    <title>URL Rewriting with ASP.NET</title>
+    <updated>2002-07-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-04T07:00:00.000Z</published>
+    <summary>Here. "As more and more websites are being rewritten with ASP.NET, the old sites which had been indexed by google and linked from other sites are lost, inevitably culminating in the dreaded 404 error. I will show how legacy ASP sites can be upgraded to ASP.NET, while maintaining links from search engines."</summary>
+    <content type="html">&lt;h1>URL Rewriting with ASP.NET&lt;/h1>
+&lt;a href="http://www.codeproject.com/aspnet/URLRewriter.asp">Here&lt;/a>. "As more and more websites are being rewritten with ASP.NET, the old sites which had been indexed by google and linked from other sites are lost, inevitably culminating in the dreaded 404 error. I will show how legacy ASP sites can be upgraded to ASP.NET, while maintaining links from search engines."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/123</id>
+    <title>Final Web Services DevCon East Speakers</title>
+    <updated>2002-07-03T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-07-03T07:00:00.000Z</published>
+    <summary>Here. The final line-up of Web Services DevCon East speakers for October 10-11 in Bedford, Mass has been posted. The quality of the talks was so high that we had to forgo one of Don's proposals to get in all the good stuff. If you can only go to one web services conference this year, this is the one that'll pack it in nice and tight!</summary>
+    <content type="html">&lt;h1>Final Web Services DevCon East Speakers&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. The final line-up of Web Services DevCon East speakers for October 10-11 in Bedford, Mass has been posted. The quality of the talks was so high that we had to forgo one of Don's proposals to get in all the good stuff. If you can only go to one web services conference this year, this is the one that'll pack it in nice and tight!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/125</id>
+    <title>Object-Oriented Development in a Relational World</title>
+    <updated>2002-07-03T07:00:00.000Z</updated>
+    <published>2002-07-03T07:00:00.000Z</published>
+    <summary>Here. Chris Tavares and I apply DeKlarit (from www.deklarit.com), a tool integrated into VS.NET for defining data structures for use from object-oriented.NET code and from relational SQL, to a real web site. Bottom line: thumbs up. For more, read on!</summary>
+    <content type="html">&lt;h1>Object-Oriented Development in a Relational World&lt;/h1>
+&lt;a href="/125">Here&lt;/a>. Chris Tavares and I apply DeKlarit (from www.deklarit.com), a tool integrated into VS.NET for defining data structures for use from object-oriented .NET code and from relational SQL, to a real web site. Bottom line: thumbs up. For more, read on!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/124</id>
+    <title>Library for reading CLI files</title>
+    <updated>2002-07-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-03T07:00:00.000Z</published>
+    <summary>Here. "This library has been implemented to provide access to the raw format of CLI files. The library is still under development, so you can find some problem in its use. The library has been developed using CLI standard documentation. Because fast access to files is a goal I use memory mapping in order to have fast access to the file."</summary>
+    <content type="html">&lt;h1>Library for reading CLI files&lt;/h1>
+&lt;a href="http://dotnet.di.unipi.it/MultipleContentView.aspx?code=103">Here&lt;/a>. "This library has been implemented to provide access to the raw format of CLI files. The library is still under development, so you can find some problem in its use. The library has been developed using CLI standard documentation. Because fast access to files is a goal I use memory mapping in order to have fast access to the file."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/122</id>
+    <title>Free Trial Version of Syncfusion's Essential Suite</title>
+    <updated>2002-07-02T07:00:00.000Z</updated>
+    <published>2002-07-02T07:00:00.000Z</published>
+    <summary>Here. "Essential Suite consists of: "* Essential Tools - features the latest Windows user interface such as Visual Studio.NET style Docking, Tabbed MDI, Swing like layout management, Office XP like customizable toolbars and menus, numerous controls such as MaskEditBox and others. "* Essential Grid - is a cell-oriented full-featured native.NET grid. Its cell style architecture gives you complete control at all levels of
+formatting: table, row, column, cell and basestyles. It supports virtual databinding as w...</summary>
+    <content type="html">&lt;h1>Free Trial Version of Syncfusion's Essential Suite&lt;/h1>
+&lt;a href="http://www.syncfusion.com/downloads/evals.asp">Here&lt;/a>. "Essential Suite consists of:
+
+"* Essential Tools - features the latest Windows user interface such as Visual Studio.NET style Docking, Tabbed MDI, Swing like layout management, Office XP like customizable toolbars and menus, numerous controls such as MaskEditBox and others.
+
+"* Essential Grid - is a cell-oriented full-featured native .NET grid. Its cell style architecture gives you complete control at all levels of
+formatting: table, row, column, cell and basestyles. It supports virtual databinding as well as ADO.NET binding.
+
+"* Essential Edit - a syntax highlighting Edit control that is designed to be extensible and easy to use. Features include Undo / Redo, easy configuration and more."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/120</id>
+    <title>GACUtil Add-In</title>
+    <updated>2002-07-01T07:00:00.000Z</updated>
+    <published>2002-07-01T07:00:00.000Z</published>
+    <summary>Here. From Harry Pierson: I needed a simple way to invoke GACUtil as a custom build step. Utility makefiles were clunky, NAnt was too extensive (but cool) and the BuildRules sample wasn't quite extensive enough. So I built my own. </summary>
+    <content type="html">&lt;h1>GACUtil Add-In&lt;/h1>
+&lt;a href="http://devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson: I needed a simple way to invoke GACUtil as a custom build step. Utility makefiles were clunky, NAnt was too extensive (but cool) and the BuildRules sample wasn't quite extensive enough. So I built my own. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/119</id>
+    <title>Updated .NET CollectionGen</title>
+    <updated>2002-07-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-01T07:00:00.000Z</published>
+    <summary>Here. "CollectionGen is a Custom Tool Add-In to VS.NET to generate type-safe collections. The updates are as follows: "-Finally someone has figured out the XSLT garbage bug! Thanks, Matthias Hess! "-Removed the need for a.reg file, so now registration is just 'regasm /codebase collectionGen.dll'. "Also, Jon Flanders put together a collection gen project item wizard that adds a new XML file with the Custom Tool property pre-set. I'm having a little trouble packaging it for distribution, but if anyone wants t...</summary>
+    <content type="html">&lt;h1>Updated .NET CollectionGen&lt;/h1>
+&lt;a href="/12424">Here&lt;/a>. "CollectionGen is a Custom Tool Add-In to VS.NET to generate type-safe collections. The updates are as follows:
+
+"-Finally someone has figured out the XSLT garbage bug! Thanks, Matthias Hess!
+
+"-Removed the need for a .reg file, so now registration is just 'regasm /codebase collectionGen.dll'.
+
+"Also, Jon Flanders put together a collection gen project item wizard that adds a new XML file with the Custom Tool property pre-set. I'm having a little trouble packaging it for distribution, but if anyone wants to hack on it, send me an email."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/121</id>
+    <title>IBM rolls out first Internet-based utility service</title>
+    <updated>2002-07-01T07:00:00.000Z</updated>
+    <published>2002-07-01T07:00:00.000Z</published>
+    <summary>Here. "IBM on Monday rolled out an Internet-based service that allows Linux users to access the amount of processing power and other technical resources they need on a utility basis. The new on-demand service, called Linux Virtual Services, directly connects users' Linux-based server applications with IBM's hosting centers, which can supply them with managed server processing, storage, and networked capacity on an on-demand basis." [http://www.infoworld.com] This is how things *should* be.</summary>
+    <content type="html">&lt;h1>IBM rolls out first Internet-based utility service&lt;/h1>
+&lt;a href="http://www.infoworld.com/articles/hn/xml/02/07/01/020701hnibm.xml">Here&lt;/a>. "IBM on Monday rolled out an Internet-based service that allows Linux users to access the amount of processing power and other technical resources they need on a utility basis. The new on-demand service, called Linux Virtual Services, directly connects users' Linux-based server applications with IBM's hosting centers, which can supply them with managed server processing, storage, and networked capacity on an on-demand basis." [http://www.infoworld.com]
+
+This is how things *should* be.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/118</id>
+    <title>Add #Region Macro Updated (again)</title>
+    <updated>2002-07-01T07:00:00.000Z</updated>
+    <published>2002-07-01T07:00:00.000Z</published>
+    <summary>Here. From Harry Pierson: The Add #Region macro has been updated so that one macro can be used with either C# or Visual Basic.NET. It also adds undo support (thanks to John St. Clair).</summary>
+    <content type="html">&lt;h1>Add #Region Macro Updated (again)&lt;/h1>
+&lt;a href="http://devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson: The Add #Region macro has been updated so that one macro can be used with either C# or Visual Basic .NET. It also adds undo support (thanks to John St. Clair).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/117</id>
+    <title>Safe, Simple Multithreading in Windows Forms</title>
+    <updated>2002-06-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-29T07:00:00.000Z</published>
+    <summary>Here. Chris Sells: "It all started innocently enough. I found myself needing to calculate the area of a circle for the first time in.NET. This called, of course, for an accurate representation of pi. System.Math.PI is handy, but since it only provides 20 digits of precision, I was worried about the accuracy of my calculation (I really needed 21 digits to be absolutely comfortable). So, like any programmer worth their salt, I forgot about the problem I was actually trying to solve and I wrote myself a progra...</summary>
+    <content type="html">&lt;h1>Safe, Simple Multithreading in Windows Forms&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms06112002.asp">Here&lt;/a>. Chris Sells: "It all started innocently enough. I found myself needing to calculate the area of a circle for the first time in .NET. This called, of course, for an accurate representation of pi. System.Math.PI is handy, but since it only provides 20 digits of precision, I was worried about the accuracy of my calculation (I really needed 21 digits to be absolutely comfortable). So, like any programmer worth their salt, I forgot about the problem I was actually trying to solve and I wrote myself a program to calculate pi to any number of digits that I felt like."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/116</id>
+    <title>SML.NET: Functional programming on the .NET CLR</title>
+    <updated>2002-06-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-28T07:00:00.000Z</published>
+    <summary>Here. "SML.NET is a compiler for the functional programming language Standard ML that targets the.NET Common Language Runtime and which supports language interoperability features for easy access to.NET libraries."</summary>
+    <content type="html">&lt;h1>SML.NET: Functional programming on the .NET CLR&lt;/h1>
+&lt;a href="http://www.cl.cam.ac.uk/Research/TSG/SMLNET/">Here&lt;/a>. "SML.NET is a compiler for the functional programming language Standard ML that targets the .NET Common Language Runtime and which supports language interoperability features for easy access to .NET libraries."</content>
+  </entry>
+</feed>

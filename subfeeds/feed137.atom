@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed137.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed136.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed138.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed137.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/508</id>
+    <title>WinForms Design-Time Integration, Part 2</title>
+    <updated>2003-04-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-17T07:00:00.000Z</published>
+    <summary>Here. "This is the second of two articles discussing the extremely rich design-time features of the.NET Framework. Part 2 continues the journey by concentrating on design-time functionality that you can implement beyond your components and controls, including TypeConverters, UITypeEditors, and Designers."</summary>
+    <content type="html">&lt;h1>WinForms Design-Time Integration, Part 2&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/05/Design-TimeControls/default.aspx">Here&lt;/a>. "This is the second of two articles discussing the extremely rich design-time features of the .NET Framework. Part 2 continues the journey by concentrating on design-time functionality that you can implement beyond your components and controls, including TypeConverters, UITypeEditors, and Designers."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12658</id>
+    <title>Hello IDispatch Lovers</title>
+    <updated>2003-04-17T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-04-17T07:00:00.000Z</published>
+    <summary>I'm probably jumping into this topic a bit late but it doesn't seem to end. I admit I haven't read all article in this thread but I think I have an implementation solution for multiple dual interfaces on one class. And I would like opinions on it from others as well, and as to whether or not it displays proper COM implementation. The implementation is very much like one that has been posted earlier, which I've seen different variations of many times before. However, I feel the one I am presenting allows all...</summary>
+    <content type="html">&lt;h1>Hello IDispatch Lovers&lt;/h1>
+        &lt;p>
+            I'm probably jumping into this topic a bit late but it doesn't seem to end. I 
+            admit I haven't read all article in this thread but I think I have an 
+            implementation solution for multiple dual interfaces on one class. And I would 
+            like opinions on it from others as well, and as to whether or not it displays 
+            proper COM implementation.
+        &lt;/p>
+        &lt;p>
+            The implementation is very much like one that has been posted earlier, which 
+            I've seen different variations of many times before. However, I feel the one I 
+            am presenting allows all dual interfaces to be on one object and accessible via 
+            scripting without explicitly asking for a piece. No new interface definitions 
+            will be necessary with this technique. However, there may be one flaw. It will 
+            work ideally when none of the dispid's of any of the dual interfaces collide, 
+            and when none of the named functions collide.
+        &lt;/p>
+        &lt;p>
+            I consider a collision when the dispids,or names are equal, but the parameter 
+            list/type are not. Even still, when they do collide, the implementers using 
+            this technique can choose which should take priority.
+        &lt;/p>
+        &lt;p>
+            Using ATL, I defined a templated class which should be derived by the class 
+            that exposes multiple dual interfaces.
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">template&amp;lt;UINT t_uiNum, class tihclass = 
+                    CComTypeInfoHolder&amp;gt;
+                    &lt;br>
+                    class XMultiDualImpl : public IDispatch
+                    &lt;br>
+                    {
+                    &lt;br>
+                    public :
+                    &lt;br>
+                    typedef tihclass _tihclass;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; void Add( UINT uiIndex, LPDISPATCH pDisp, _tihclass &amp;amp; 
+                    tih)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ASSERT( t_uiNum &amp;gt; uiIndex-1 
+                    &amp;amp;&amp;amp; uiIndex&amp;gt;0 );
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; m_arrDispImpls[uiIndex-1] = pDisp; 
+                    //no need to addref, pDisp==this
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; m_arrpTih[uiIndex-1] = &amp;amp;tih;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; };&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">&amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(GetTypeInfoCount)(UINT* 
+                    pctinfo) {*pctinfo = 1; return S_OK;}
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(GetTypeInfo)(UINT itinfo, LCID lcid, ITypeInfo** 
+                    pptinfo)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; {return m_arrpTih[0]-&amp;gt;GetTypeInfo(itinfo, lcid, 
+                    pptinfo);}
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(GetIDsOfNames)(REFIID riid, LPOLESTR* rgszNames, 
+                    UINT cNames,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; LCID lcid, DISPID* rgdispid)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; /*perhaps the loop should check for 
+                    a succeeded hresult instead*/
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT hr = DISP_E_UNKNOWNNAME;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; for ( UINT i=0; i &amp;lt; t_uiNum 
+                    &amp;amp;&amp;amp; hr == DISP_E_UNKNOWNNAME; i++ )
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; hr = 
+                    m_arrpTih[i]-&amp;gt;GetIDsOfNames(riid, rgszNames, cNames, lcid, rgdispid);
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return hr;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; };&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;font face="Courier New">&lt;small>&amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(Invoke)(DISPID 
+                    dispidMember, REFIID riid, LCID lcid,&lt;/small> &lt;small>WORD wFlags, DISPPARAMS* 
+                    pdispparams, VARIANT* pvarResult, EXCEPINFO* pexcepinfo, UINT* puArgErr)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT hr = DISP_E_MEMBERNOTFOUND;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; for ( int i=0; i &amp;lt; t_uiNum 
+                    &amp;amp;&amp;amp; hr == DISP_E_MEMBERNOTFOUND ; i++ )
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; hr = 
+                    m_arrpTih[i]-&amp;gt;Invoke( m_arrDispImpls[i], dispidMember, riid, lcid, wFlags, 
+                    pdispparams, pvarResult, pexcepinfo, puArgErr);
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return hr;
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; } ;&lt;/small>&lt;/font>
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">&amp;nbsp;&amp;nbsp;&amp;nbsp; LPDISPATCH m_arrDispImpls[t_uiNum];
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; _tihclass * m_arrpTih[t_uiNum];&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">};&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            As an example, if we were to implement an object with 3 dual interfaces we 
+            would do the following
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">typedef XMultiDualImpl&amp;lt;3&amp;gt; XTriDualImpl ;&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">class DispTest3 : public XTriDualImpl,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; public IDispatchImpl&amp;lt;IDispTest1, &amp;amp;IID_IDispTest1, 
+                    &amp;amp;LIBID_FirstLib&amp;gt;,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; public IDispatchImpl&amp;lt;IDispTest2, &amp;amp;IID_IDispTest2, 
+                    &amp;amp;LIBID_SecondLib&amp;gt;,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; public IDispatchImpl&amp;lt;IThirdIntfTest, 
+                    &amp;amp;IID_IThirdIntfTest, &amp;amp;LIBID_ThridLib&amp;gt;,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComObjectRoot,
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComCoClass&amp;lt;DispTest3,&amp;amp;CLSID_DispTest3&amp;gt;
+                    &lt;br>
+                    {
+                    &lt;br>
+                    public:
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; DispTest3()
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Add( 1,(IDispTest1*)this, 
+                    IDispatchImpl&amp;lt;IDispTest1, &amp;amp;IID_IDispTest1, &amp;amp;LIBID_FirstLib&amp;gt;::_tih 
+                    );
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Add( 2,(IDispTest2*)this, 
+                    IDispatchImpl&amp;lt;IDispTest2, &amp;amp;IID_IDispTest2, 
+                    &amp;amp;LIBID_SecondLib&amp;gt;::_tih );
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Add( 3,(IThirdIntfTest*)this, 
+                    IDispatchImpl&amp;lt;IThirdIntfTest, &amp;amp;IID_IThirdIntfTest, 
+                    &amp;amp;LIBID_ThridLib&amp;gt;::_tih );
+                    &lt;br>
+                    }&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;small>&lt;font face="Courier New">BEGIN_COM_MAP(DispTest3)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY2(IDispatch, XTriDualImpl)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IDispTest1)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IDispTest2)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IThirdIntfTest)
+                    &lt;br>
+                    END_COM_MAP()&lt;/font>&lt;/small>
+        &lt;/p>
+        &lt;p>
+            &lt;font face="Courier New">&lt;small>//IDispTest1 methods [code omitted for brevity]&lt;/small>
+                &lt;br>
+                &lt;small>//IDispTest2 methods [code omitted for brevity]&lt;/small>
+                &lt;br>
+                &lt;small>//IThirdIntfTest methods [code omitted for brevity]&lt;/small>
+                &lt;br>
+                &lt;small>};&lt;/small>&lt;/font>
+        &lt;/p>
+        &lt;p>
+            I admit the constructor of the derived class leaves room for elegance.
+        &lt;/p>
+        &lt;p>
+            Basically, all QueryInterfaces for IDispatch will result in the XMultiDualImpl 
+            vtable. The IDispatch implementation for that vtable basically asks each 
+            IDispatch vtable (of the dual interface) in it's array one by one if it can 
+            carry out the call. If it fails, it moves on to the next dual interface vtable.
+        &lt;/p>
+        &lt;p>
+            One might point out the following however :
+        &lt;/p>
+        &lt;p>
+            &lt;font face="Courier New">pUnk-&amp;gt;QueryInterface( IID_IDispatch, 
+                (void**)&amp;amp;pIDispatch );
+                &lt;br>
+                pUnk-&amp;gt;QueryInteface( IID_IDispTest1, (void**)&amp;amp;pIDispTest1 );&lt;/font>
+        &lt;/p>
+        &lt;p>
+            pIDispatch-&amp;gt;GetIDsOfNames does not have the same implementation as 
+            pIDispTest1-&amp;gt;GetIDsOfNames. as well as the implementation differs for 
+            -&amp;gt;Invoke. I question whether or not that's a problem. Since IDispTest1 
+            derives from IDispatch, I could see why it may be.
+        &lt;/p>
+        &lt;p>
+            -herb&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/507</id>
+    <title>Printer Margins, Part 2</title>
+    <updated>2003-04-17T07:00:00.000Z</updated>
+    <published>2003-04-17T07:00:00.000Z</published>
+    <summary>Here. In this 2nd part of my discussion on printer margins, I show how to get real margin bounds taking the physical limitations of the printer into account.</summary>
+    <content type="html">&lt;h1>Printer Margins, Part 2&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7481/win1049396577703/">Here&lt;/a>. In this 2nd part of my discussion on printer margins, I show how to get real margin bounds taking the physical limitations of the printer into account.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12642</id>
+    <title>Major Retrofit for ASP.NET 1.0</title>
+    <updated>2003-04-17T07:00:00.000Z</updated>
+    <category term="colophon" label="Colophon"/>
+    <published>2003-04-17T07:00:00.000Z</published>
+    <summary>This site, the logo, business cards and t-shirts were designed by guonan. She's got an amazing style and she's very easy to work with. The initial version of this site was implemented by Jon Flanders. The way he was able to make conflicting requirements work for this site was inspirational. Most of what I know about ASP.NET, I learned from this site and Jon. Continuous grammar checking is provided by Craig Andera (whether I want it or not : ). The site itself is hosted at SecureWebs. The implementation is a...</summary>
+    <content type="html">&lt;h1>Major Retrofit for ASP.NET 1.0&lt;/h1>
+    &lt;P>This site, the logo, business cards and t-shirts were designed by &lt;a href="http://www.guonan.com/">
+        guonan&lt;/a>. She's got an amazing style and she's very easy to work with.&lt;/P>
+    &lt;P>The initial version of this site was implemented by 
+	&lt;a href="http://staff.develop.com/jfland/">Jon Flanders&lt;/a>. The way he was able to make conflicting requirements work 
+      for this site was inspirational. Most of what I know about ASP.NET, I learned 
+      from this site and Jon.&lt;/P>
+    &lt;P>Continuous grammar checking is provided by &lt;a href="mailto:candera@alum.mit.edu">
+        Craig Andera&lt;/a> (whether I want it or not : ).&lt;/P>
+    &lt;P>The site itself is hosted at &lt;a href="http://www.securewebs.com">
+        SecureWebs&lt;/a>.&lt;/P>
+    &lt;P>The implementation is a mixture of ASP.NET as the navigation and layout 
+      framework and HTML for the content. My goals for the site were simple: look 
+      nice, easy to maintain. I didn't want to give up FrontPage for my HTML editor 
+      ('cuz it has the Word key bindings that are hard-coded into my brain : ), but I 
+      wanted to be able to get the functionality of ASP.NET. So, the main content 
+      comes for an ascx file that reads in the index.htm and strips off the head 
+      section. Except for the home page, which is laid out specially, each 
+      default.aspx on my site just pulls in a single pageLayout.ascx file that does 
+      all of the layout using content from the target of the URL. By separating 
+      content from layout, I get the best of both FrontPage and ASP.NET, making both 
+      content and site maintenance easy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12557</id>
+    <title>XML For Humans</title>
+    <updated>2003-04-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-04-17T07:00:00.000Z</published>
+    <summary>When I sat down to write this piece, I didn't get why the work that Don, Gudge, KeithBa, Yasser, Tim and ChrisAn is doing is so amazing. I mean, I know that they're smart and I know that they're building the hell out of their stuff, but why? It seems like everyone that gets into blogging starts by writing their own blogging engine. It's like C programmers writing editors, C++ programmers writing string classes and XML programmers writing XSD&amp;lt;-&amp;gt;Class codegen. Sure, it's a useful learning tool, but eart...</summary>
+    <content type="html">&lt;h1>XML For Humans&lt;/h1>
+&lt;p>When I sat down to write this piece, I didn't get 
+why the work that &lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-18T06:05:41Z">
+Don, Gudge, KeithBa, Yasser&lt;/a>, &lt;a href="http://www.gotdotnet.com/team/tewald/default.aspx#nn2003-04-09T08:33:08Z">
+Tim&lt;/a> and &lt;a href="http://www.simplegeek.com/categoryview.aspx/BlogX">
+ChrisAn&lt;/a> is doing is so amazing. I mean, I know that they're smart and I know 
+that they're building the hell out of their stuff, but why? It seems like 
+everyone that gets into blogging starts by writing their own blogging engine. 
+It's like C programmers writing editors, C++ programmers writing string classes 
+and XML programmers writing XSD&amp;lt;-&amp;gt;Class codegen. Sure, it's a useful learning 
+tool, but earth-shattering? Worth that much energy from that many guys? When 
+they're done, what great problems will be solved?&lt;/p>&lt;p>Don't get me wrong. I 
+love the that the web makes it easy for anyone to not only publish but also get 
+an audience. I also love that there's a protocol (RSS) that lets me subscribe to 
+my favorite freelance authors in any one of dozens of tools (I'm into &lt;a href="http://www.hutteman.com/weblog/2003/04/06.html#000056">
+SharpReader&lt;/a> today). I even like the Dear Diary style of writing because it 
+leads itself to thoughts, feelings and insights that give me greater 
+understanding of not only the topic but the author. As an added bonus, blog 
+entries have turned into everything that's good about mailing lists w/o the 
+endless angle brackets that remove the need to write in coherent sentences. 
+Blogs feel like the kind of democracy we had that lead to the American 
+Revolution when the world was re-shaped with big ideas, written by great 
+authors.&lt;/p>&lt;p>But does the world need yet another blog engine? Personally, 
+while it's primitive, I find that FrontPage have served me well as a blogging 
+tool. The mental overhead is small, the development is nil and I get red 
+squiggles. It falls down sometimes, but I've spent far less time maintaining the 
+infrastructure for my content than I would if I were to build my own blogging 
+engine.&lt;/p>&lt;p>On the other hand, while I don't feel the need for another 
+blogging engine in the world, I definitely see value in what those guys are 
+doing. Specifically, they're building apps, which is not something that XML guys 
+are traditionally into. In fact, I'm scratching my head trying to think of 
+another kind of XML-based technology that isn't infrastructure-based and I'm not 
+coming up with one (even InfoPath is a dev-tool). Is RSS really the first 
+mainstream use of XML that hasn't nothing to do with technology for it's own 
+sake? Are blogs the killer app for XML? I know web services were supposed to 
+fill that role, but while they do solve a real problem, they're not for 
+consumers. My aunt in FLA couldn't make use of a web service. However, she could 
+definitely subscribe to an RSS feed and read up on &lt;a href="http://p.moreover.com/cgi-local/page?feed=237&amp;o=rss">
+the local news&lt;/a>, &lt;a href="http://www.medscape.com/cx/rssfeeds/Nursing.xml">
+her job&lt;/a> and &lt;a href="http://www.growinglifestyle.com/h92/index.rss">
+her hobbies&lt;/a>.&lt;/p>&lt;p>Of course, the beauty of having infrastructure guys 
+building apps is that they get to put into practice what they preach. When stuff 
+is a pain (like every single XML API ever invented and most XML vocabularies), 
+they feel the pain. The difference between us and them is that instead of just 
+wrapping a layer of abstraction around the ugly stuff like we have to, they can 
+actually fix it. I started this piece wanting to shake those guys until they 
+could tell me why they cared so much. How ironic that thinking through the 
+issues in the very medium they're digging into helped me figure out what they 
+were up to. The blog engine work is but the vehicle. They're riding the app 
+train to enlightenment. They're trying to understand how XML can be used to 
+solve problems for real humans. How can I argue with that?&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/506</id>
+    <title>Essential .NET Nominated for Reader's Choice Award</title>
+    <updated>2003-04-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-16T07:00:00.000Z</published>
+    <summary>Here. If you liked Don's Essential.NET (I know I did), then you should vote for it on the.NET Developer's Journal Reader's Choice Awards. You also get the opportunity to vote in all kinds of other categories besides books.</summary>
+    <content type="html">&lt;h1>Essential .NET Nominated for Reader's Choice Award&lt;/h1>
+&lt;a href="http://www.sys-con.com/dotnet/readerschoice2003/vote.cfm">Here&lt;/a>. If you liked Don's Essential .NET (I know I did), then you should vote for it on the .NET Developer's Journal Reader's Choice Awards. You also get the opportunity to vote in all kinds of other categories besides books.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/504</id>
+    <title>Make XML More Readable</title>
+    <updated>2003-04-15T07:00:00.000Z</updated>
+    <published>2003-04-15T07:00:00.000Z</published>
+    <summary>Here. I didn't know that XmlTextWriter could format your code for you. I've written the code to do it myself. Doh! Is there nothing that the.NET Framework Class Library authors haven't already thunk up?!?</summary>
+    <content type="html">&lt;h1>Make XML More Readable&lt;/h1>
+&lt;a href="http://www.ftponline.com/xmlmag/2003_04/online/xml_wahlin_04_14_03/">Here&lt;/a>. I didn't know that XmlTextWriter could format your code for you. I've written the code to do it myself. Doh! Is there nothing that the .NET Framework Class Library authors haven't already thunk up?!?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/505</id>
+    <title>Priceless</title>
+    <updated>2003-04-15T07:00:00.000Z</updated>
+    <published>2003-04-15T07:00:00.000Z</published>
+    <summary>Here. It's the little things in life...</summary>
+    <content type="html">&lt;h1>Priceless&lt;/h1>
+&lt;a href="/12558">Here&lt;/a>. It's the little things in life...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/503</id>
+    <title>C# Programmers Out-Earn VB.NET Programmers by 26%</title>
+    <updated>2003-04-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-04-15T07:00:00.000Z</published>
+    <summary>Here. Visual Studio Magazine posts the results of their latest salary survey. Average Visual Studio programmer salary is $76K, up 12% from last year. Unfortunately, layoffs and such like are still the order of the day.</summary>
+    <content type="html">&lt;h1>C# Programmers Out-Earn VB.NET Programmers by 26% &lt;/h1>
+&lt;a href="http://www.ftponline.com/vsm/2003_06/magazine/features/salarysurvey/">Here&lt;/a>. Visual Studio Magazine posts the results of their latest salary survey. Average Visual Studio programmer salary is $76K, up 12% from last year. Unfortunately, layoffs and such like are still the order of the day.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/502</id>
+    <title>Microsoft CRM Software Development Kit (SDK)</title>
+    <updated>2003-04-14T07:00:00.000Z</updated>
+    <published>2003-04-14T07:00:00.000Z</published>
+    <summary>Here. From Ramon: This SDK provides the information necessary for developers to integrate their applications into Microsoft CRM or to build a vertical solution on the Microsoft CRM platform. An architectural overview includes descriptions of the object and security models, as well as the integration points. The API references are documented and the database schema is provided. There is a “How To” section with sample code. </summary>
+    <content type="html">&lt;h1>Microsoft CRM Software Development Kit (SDK)&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/preview.asp?ID=2702">Here&lt;/a>. From Ramon: This SDK provides the information necessary for developers to integrate their applications into Microsoft CRM or to build a vertical solution on the Microsoft CRM platform. An architectural overview includes descriptions of the object and security models, as well as the integration points. The API references are documented and the database schema is provided. There is a “How To” section with sample code. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12558</id>
+    <title>Priceless</title>
+    <updated>2003-04-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-04-14T07:00:00.000Z</published>
+    <summary>Running sellsbrothers.com for one month: $150 Round-trip ticket from OR to FL to give a 90-minute talk: $1200 My son picking me for his &amp;quot;famous person&amp;quot; school report: priceless I don't know how my son picked up on the tiny bit of fame I've acquired amongst a small, strange (but loveable!) group of people, but he did and now he thinks I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : ) </summary>
+    <content type="html">&lt;h1>Priceless&lt;/h1>
+&lt;ul>&lt;li>Running sellsbrothers.com for one month: $150&lt;/li>&lt;li>
+	Round-trip ticket from OR to FL to give a 90-minute talk: $1200&lt;/li>&lt;li>My 
+	son picking me for his &amp;quot;famous person&amp;quot; school report: priceless&lt;/li>&lt;/ul>&lt;p>
+I don't know how my son picked up on the tiny bit of fame I've acquired amongst 
+a small, strange (but loveable!) group of people, but he did and now he thinks 
+I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12351</id>
+    <title>The SellsBrothers Little League Team</title>
+    <updated>2003-04-12T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/2003bball2small.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2003-04-12T07:00:00.000Z</published>
+    <summary>Here's the SellsBrothers Beaverton Area Little League team looking very serious. Notice the SellsBrothers logo on the hats. Having your own company definitely has it's perks. : ) Here's the SellsBrothers team looking more natural. Beaverton, OR Saturday, April 12, 2003 </summary>
+    <content type="html">&lt;h1>The SellsBrothers Little League Team&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/2003bball2small.JPG" width="640" height="480">&lt;/p>&lt;p>Here's the SellsBrothers Beaverton Area Little League team looking very serious. Notice the SellsBrothers logo on the hats. Having your own company definitely has it's perks. : )&lt;/p>&lt;p>&lt;img border="0" src="/public/fun/2003bball3small.JPG" width="640" height="480">&lt;/p>&lt;p>Here's the SellsBrothers team looking more natural.&lt;/p>&lt;p>&lt;i>Beaverton, OR&lt;br>Saturday, &lt;span class="created">April 12, 2003&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/500</id>
+    <title>The Matrix Reloaded Trailer</title>
+    <updated>2003-04-11T07:00:00.000Z</updated>
+    <published>2003-04-11T07:00:00.000Z</published>
+    <summary>Here. The Matrix was a religous experience for me. The Matrix Reloaded can't possibly have the same impact, but it's still going to kick ass. : )</summary>
+    <content type="html">&lt;h1>The Matrix Reloaded Trailer&lt;/h1>
+&lt;a href="http://whatisthematrix.warnerbros.com">Here&lt;/a>. The Matrix was a religous experience for me. The Matrix Reloaded can't possibly have the same impact, but it's still going to kick ass. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/501</id>
+    <title>Windows Server 2003 Editions Compared</title>
+    <updated>2003-04-11T07:00:00.000Z</updated>
+    <published>2003-04-11T07:00:00.000Z</published>
+    <summary>Here. Just in case you're confused about what editions of Windows Server 2003 do what, here's a nice summary.</summary>
+    <content type="html">&lt;h1>Windows Server 2003 Editions Compared&lt;/h1>
+&lt;a href="http://www.winsupersite.com/showcase/winserver2003_editions.asp">Here&lt;/a>. Just in case you're confused about what editions of Windows Server 2003 do what, here's a nice summary.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/499</id>
+    <title>BlogXThis</title>
+    <updated>2003-04-11T07:00:00.000Z</updated>
+    <published>2003-04-11T07:00:00.000Z</published>
+    <summary>Here. From Husein Choroomi: Syndirella for BlogX users.</summary>
+    <content type="html">&lt;h1>BlogXThis&lt;/h1>
+&lt;a href="http://www.managedcomponents.com/weblog/PermaLink.aspx/47d2ee90-6767-425a-b96a-db6a70a3bdcd">Here&lt;/a>. From Husein Choroomi: Syndirella for BlogX users.</content>
+  </entry>
+</feed>

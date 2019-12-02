@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed178.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed177.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/telprog</id>
+    <title>Windows Telephony Programming: A Developer's Guide to TAPI</title>
+    <updated>1999-06-27T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/tools/texplorer.GIF"/>
+    <category term="book" label="Books"/>
+    <published>1999-06-27T07:00:00.000Z</published>
+    <summary>The Book This page is dedicated to my book, Windows Telephony Programming: A Developer's Guide to TAPI, from Addison-Wesley. If you'd like to order a copy, you can do so from Amazon.com. The Table of Contents Prologue: The Story of Windows Telephony Windows Telephony Architecture ( excerpted here ) Assisted Telephony Making a Call Telephony Framework Answering a Call Call Management Telephony Service Providers The Future of Telephony The Source This source code has been run and tested on Windows 98, Windows...</summary>
+    <content type="html">&lt;h1>Windows Telephony Programming: A Developer's Guide to TAPI&lt;/h1>
+&lt;h2>
+  The Book
+&lt;/h2>
+&lt;p>
+  This page is dedicated to my book, &lt;strong>
+    &lt;em>
+      Windows Telephony Programming: A
+      Developer's Guide to TAPI,
+    &lt;/em>
+  &lt;/strong> from Addison-Wesley. If you'd
+  like to order a copy, you can do so from &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201634503/chrissells">
+    Amazon.com
+  &lt;/a>.
+&lt;/p>
+&lt;h2>
+  The Table of Contents
+&lt;/h2>
+&lt;ul>
+  &lt;li>
+    Prologue: The Story of Windows Telephony
+  &lt;li>
+    Windows Telephony Architecture (&lt;a href="/public/writing/intro2tapi/index.htm">excerpted here&lt;/a>)
+  &lt;li>
+    Assisted Telephony
+  &lt;li>
+    Making a Call
+  &lt;li>
+    Telephony Framework
+  &lt;li>
+    Answering a Call
+  &lt;li>
+    Call Management
+  &lt;li>
+    Telephony Service Providers
+  &lt;li>
+    The Future of Telephony
+  &lt;/li>
+&lt;/ul>
+&lt;h2>
+  The Source
+&lt;/h2>
+&lt;p align="left">
+  This source code has been run and tested on Windows 98, Windows
+  ME, Windows NT 4.0, Windows 2000 and Windows XP and supports TAPI versions
+  1.4 through 3.1. I have not touched this source code in years and can no longer support it unfortunately.
+&lt;/p>
+&lt;p align="left">
+  &lt;a href="/public/writing/telprog/telprog6.zip">VS.NET Sample Source&lt;/a> |
+  &lt;a href="/public/writing/telprog/telprog5.zip">VC6 Sample Source (previous version)&lt;/a>
+&lt;/p>
+&lt;p>Here's &lt;a href="/public/writing/telprog/vc6mfc42.zip">vc6mfc42.dll (zipped)&lt;/a> if you need it.&lt;/p>
+&lt;h2>
+  TAPI Explorer
+&lt;/h2>
+&lt;p align="left">
+  I built the TAPI Explorer (tExplorer) to allow me to
+  understand the various capabilities of the telephony devices installed on my
+  system when I was developing TAPI applications and writing my TAPI book. It
+  grew into a utility for showing all line, address and phone capabilities as
+  well as other TAPI settings, e.g. country codes, telephony locations,
+  service providers, etc. If you're running into TAPI errors that you don't
+  understand, TAPI Explorer will help you work through them.
+&lt;/p>
+&lt;img src="/public/tools/texplorer.GIF" width="300" height="240" />
+&lt;p align="left">
+  This source code has been run and tested on Windows 98, Windows
+  ME, Windows NT 4.0, Windows 2000 and Windows XP and supports TAPI versions
+  1.4 through 3.1. I have not touched this source code in years and can no longer support it unfortunately.
+&lt;/p>
+&lt;p align="left">
+  &lt;a href="/public/tools/tExplorerSrcVS.NET.zip">VS.NET tExplorer Source&lt;/a> |
+  &lt;a href="/public/tools/tExplorerSrcVC6.zip">VC6 tExplorer Source (previous version)&lt;/a>
+&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12374</id>
+    <title>Real Programmers...</title>
+    <updated>1999-04-19T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/macho.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>1999-04-19T07:00:00.000Z</published>
+    <summary>Contributed by Liliya Yakupova : Tommy Riddle had this to say: "Actually, real programmers don't need the enter key- they just type in 00001101." &amp;nbsp; 4/19/1999 </summary>
+    <content type="html">&lt;h1>Real Programmers...&lt;/h1>
+&lt;p>Contributed by &lt;a href="mailto:liliya.yakupova@Barra.COM">Liliya Yakupova&lt;/a>: &lt;/p>&lt;p>&lt;center>&lt;img alt="Real programmers code in binary." border="0" hspace="0" src="/public/fun/macho.jpg" style="WIDTH: 277px; HEIGHT: 300px" useMap> &lt;/center>&lt;div align="left">&lt;/div>&lt;div align="left">&lt;a href="mailto:TRiddle@bitwise-inc.com">Tommy Riddle&lt;/a> had this to say: "Actually, real programmers don't need the enter key- they just type in 00001101." &lt;/div>
+&lt;div align="left">&amp;nbsp;&lt;/div>
+&lt;div align="left">&lt;i>&lt;span class="created">4/19/1999&lt;/span>&lt;/i>&lt;/div>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12375</id>
+    <title>Signs that you have hired the wrong COM developer...</title>
+    <updated>1999-04-16T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/tshirt.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>1999-04-16T07:00:00.000Z</published>
+    <summary>Keeps referring to interfaces as "Thingies". Insists that migrating to NT5.0 is a bad idea because the going rate for a rental-threaded apartment is $640.00 a month plus utilities. Comes into work one morning dressed as a cowboy and claiming to be "The new marshaller in town". Wants to know how to tune his TV to the "RPC Channel". Stands up in design meetings, grabs his crotch, and proclaims "Yo! Marshall this! Am I right?". Names one of his interfaces "IKnown" and claims that any object that doesn't implem...</summary>
+    <content type="html">&lt;h1>Signs that you have hired the wrong COM developer...&lt;/h1>
+&lt;ul>&lt;li>Keeps referring to interfaces as "Thingies". &lt;li>Insists that migrating to NT5.0 is a bad idea because the going rate for a rental-threaded apartment is $640.00 a month plus utilities. &lt;li>Comes into work one morning dressed as a cowboy and claiming to be "The new marshaller in town". &lt;li>Wants to know how to tune his TV to the "RPC Channel". &lt;li>Stands up in design meetings, grabs his crotch, and proclaims "Yo! Marshall this! Am I right?". &lt;li>Names one of his interfaces "IKnown" and claims that any object that doesn't implement it is doomed to eventually fall victim to a "COM Identity Crisis". &lt;li>Spends 2 hours in front of a whiteboard trying to prove that by taking the integral of the GUID generating function, one can discern the total surface area of the application's UI in pixels. &lt;li>Pronounces GUID as "gooeey dee".&lt;/li>&lt;/ul>
+&lt;h2>P.S. &lt;/h2>&lt;p>Here's a picture of the t-shirt that Microsoft produced for their 1999 Dallas TechEd that &lt;i>leverages&lt;/i> Tony's idea without giving him credit, asking him permission or even notifying him. You lawyers should be able to support you in your retirement with this one, Tony! &lt;/p>&lt;p align="center">&lt;img border="0" src="/public/fun/tshirt.jpg" width="320" height="240">&lt;img border="0" src="/public/fun/tshirt-close.jpg" width="320" height="240"> &lt;/p>&lt;p>BTW, here's one more sign that you've hired the wrong COM programmer (do you think CAT scans will become a normal part of the interview process?): &lt;/p>&lt;p align="center">&lt;img border="0" src="/public/fun/Cranium.jpg" width="561" height="632"> &lt;/p>&lt;p>&lt;strong>&lt;em>Anthony Toivonen&lt;/em>&lt;/strong>&lt;em> &lt;br>Fri &lt;span class="created">4/16/99 1:07 PM&lt;/span> &lt;br>DCOM Mailing List&lt;/em> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12376</id>
+    <title>The Official Guide to COM Culture</title>
+    <updated>1999-04-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>1999-04-15T07:00:00.000Z</published>
+    <summary>If the things on this page haven't been enough for you, check out Mr. Bunny's Guide to ActiveX. </summary>
+    <content type="html">&lt;h1>The Official Guide to COM Culture&lt;/h1>
+&lt;p>If the things on this page haven't been enough for you, check out &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201485362">Mr. Bunny's Guide to ActiveX&lt;/a>. &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12662</id>
+    <title>Handling Name Collision Using Forwarding Shims</title>
+    <updated>1998-04-17T07:00:00.000Z</updated>
+    <published>1998-04-17T07:00:00.000Z</published>
+    <summary>One of the problems with MI is that of name collisions. Imagine the following interfaces: interface ICowboy : IUnknown { &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT Draw(); }; interface IArtist : IUnknown { &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT Draw(); }; Because both Draw methods have the same signature,</summary>
+    <content type="html">&lt;h1>Handling Name Collision Using Forwarding Shims&lt;/h1>
+        &lt;p>
+            One of the problems with MI is that of name collisions. Imagine the following 
+            interfaces:
+        &lt;/p>
+        &lt;blockquote>
+            &lt;blockquote>&lt;font FACE="Lucida Console" SIZE="2">
+                    &lt;p>
+                        interface ICowboy : IUnknown {
+                        &lt;br>
+                        &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT Draw();
+                        &lt;br>
+                        };
+                    &lt;/p>
+                    &lt;p>
+                        interface IArtist : IUnknown {
+                        &lt;br>
+                        &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT Draw();
+                        &lt;br>
+                        };
+                    &lt;/p>
+            &lt;/blockquote>
+        &lt;/blockquote>&lt;/font>&lt;font size="3">
+            &lt;p>
+            Because both &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">&lt;b>Draw&lt;/b>&lt;/font>&lt;font size="3">
+            methods have the same signature, using straight MI requires a single shared 
+            implementation:&lt;/p>
+            &lt;blockquote>
+                &lt;blockquote>&lt;/font>&lt;font FACE="Lucida Console" SIZE="2">
+            &lt;p>
+                // Ace Powell was a cowboy/artist who lived in the
+                &lt;br>
+                // western US from 1912 to his death in 1978. I'd
+                &lt;br>
+                // like to thank Tim Ewald for this fabulous example,
+                &lt;br>
+                // which I have used to death for years.
+            &lt;/p>
+            &lt;p>
+                class CAcePowell :
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComObjectRootEx&amp;lt;CComSingleThreadModel&amp;gt;,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public ICowboy,
+                    &lt;br>
+                &lt;/b>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public IArtist {&lt;/b>
+            &lt;/p>
+            &lt;p>
+                public:
+            &lt;/p>
+            &lt;p>
+                BEGIN_COM_MAP(CAcePowell)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(ICowboy)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IArtist)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; END_COM_MAP()
+            &lt;/p>
+            &lt;p>
+                ...
+            &lt;/p>
+            &lt;b>
+                &lt;p>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT Draw()
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; { /* Act as a cowboy or an artist? */ }
+                &lt;/p>
+            &lt;/b>
+            &lt;p>
+                };
+            &lt;/p>
+            &lt;/blockquote> &lt;/blockquote> &lt;/font>&lt;font size="3">
+            &lt;p>
+            Since the implied meaning of &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>Draw&lt;/b>&lt;/font>&lt;font size="3"> is very different for an artist than it is 
+            for a cowboy, we&amp;#146;d like to be able to provide two &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>Draw&lt;/b>&lt;/font>&lt;font size="3"> implementations. For that, we a technique 
+            long known to the C++ community that I&amp;#146;ll call &amp;quot;forwarding 
+            shims.&amp;quot;&lt;/p>
+            &lt;p>
+                The problem is that C++ has no syntax to be able to distinguish methods with 
+                the same signature from different bases in the derived class. For example, the 
+                following is not legal C++:
+            &lt;/p>
+            &lt;blockquote>
+                &lt;blockquote>&lt;/font>&lt;font FACE="Lucida Console" SIZE="2">
+            &lt;p>
+                class CAcePowell :
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComObjectRootEx&amp;lt;CComSingleThreadModel&amp;gt;,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public ICowboy,
+                    &lt;br>
+                &lt;/b>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public IArtist {&lt;/b>
+            &lt;/p>
+            &lt;p>
+                public:
+            &lt;/p>
+            &lt;p>
+                BEGIN_COM_MAP(CAcePowell)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(ICowboy)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IArtist)
+                &lt;br>
+                END_COM_MAP()
+            &lt;/p>
+            &lt;p>
+                ...
+            &lt;/p>
+            &lt;b>
+                &lt;p>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT IArtist::Draw(); // error
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT ICowboy::Draw(); // error
+                &lt;/p>
+            &lt;/b>
+            &lt;p>
+                };
+            &lt;/p>
+            &lt;/blockquote> &lt;/blockquote> &lt;/font>&lt;font size="3">
+            &lt;p>
+                However, we can certainly distinguish the methods in individual base classes, 
+                e.g.
+            &lt;/p>
+            &lt;blockquote>
+                &lt;blockquote>&lt;/font>&lt;font FACE="Lucida Console" SIZE="2">
+            &lt;p>
+                struct _IArtist : public IArtist {
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHODIMP Draw() { return ArtistDraw(); }
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(ArtistDraw)() =0;
+                &lt;br>
+                };
+            &lt;/p>
+            &lt;p>
+                struct _ICowboy : public ICowboy {
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHODIMP Draw() { return CowboyDraw(); }
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; STDMETHOD(CowboyDraw)() =0;
+                &lt;br>
+                };
+            &lt;/p>
+            &lt;/blockquote> &lt;/blockquote> &lt;/font>&lt;font size="3">
+            &lt;p>
+            Both &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">&lt;b>_IArtist&lt;/b>&lt;/font>&lt;font size="3">
+            and &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">&lt;b>_ICowboy&lt;/b>&lt;/font>&lt;font size="3">
+            are shim classes that implement the method with the conflicting name and 
+            forward to another pure virtual member function with a &lt;i>unique name&lt;/i>. 
+            Since both shims derive from the interface in question, they interfaces &lt;/font>
+        &lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">&lt;b>IArtist&lt;/b>&lt;/font>&lt;font size="3">
+            and &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">&lt;b>ICowboy&lt;/b>&lt;/font>&lt;font size="3">
+            can still appear in the interface map without difficulty:&lt;/p>
+            &lt;blockquote>
+                &lt;blockquote>&lt;/font>&lt;font FACE="Lucida Console" SIZE="2">
+            &lt;p>
+                class CAcePowell :
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComObjectRootEx&amp;lt;CComSingleThreadModel&amp;gt;,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public _ICowboy,
+                    &lt;br>
+                &lt;/b>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public _IArtist &lt;/b>{
+            &lt;/p>
+            &lt;p>
+                public:
+            &lt;/p>
+            &lt;p>
+                BEGIN_COM_MAP(CAcePowell)
+                &lt;br>
+                &lt;b>&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(ICowboy)
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IArtist)&lt;/b>
+                &lt;br>
+                END_COM_MAP()
+            &lt;/p>
+            &lt;p>
+                ...
+            &lt;/p>
+            &lt;b>
+                &lt;p>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT ArtistDraw();
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT CowboyDraw();
+                &lt;/p>
+            &lt;/b>
+            &lt;p>
+                };
+            &lt;/p>
+            &lt;/blockquote> &lt;/blockquote> &lt;/font>&lt;font size="3">
+            &lt;p ALIGN="JUSTIFY">
+            This trick fills the vtables for &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>IArtist&lt;/b>&lt;/font>&lt;font size="3"> and &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>ICowboy&lt;/b>&lt;/font>&lt;font size="3"> with &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>_IArtist::Draw&lt;/b>&lt;/font>&lt;font size="3"> and &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>_ICowboy::Draw&lt;/b>.&lt;/font>&lt;font COLOR="#0000ff" SIZE="2"> &lt;/font>&lt;font size="3">
+            These functions, in turn, forward to the more derived class&amp;#146;s 
+            implementation of the &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>ArtistDraw&lt;/b>&lt;/font>&lt;font size="3"> and &lt;/font>&lt;font FACE="Lucida Console" COLOR="#0000ff" SIZE="2">
+            &lt;b>CowboyDraw&lt;/b>.&lt;/font>&lt;font size="3"> The forwarding shims remove our name 
+            conflict at the cost of an extra vtable per shim class, an extra entry per 
+            method per vtable and an extra virtual function invocation per call. If this 
+            extra cost bothers you, remove it using the standard ATL tricks:&lt;/p>
+            &lt;blockquote>
+                &lt;blockquote>&lt;/font>&lt;font FACE="Lucida Console" SIZE="2">&lt;b>
+                &lt;p>
+                    template &amp;lt;typename Deriving&amp;gt;
+                    &lt;br>
+                    struct ATL_NO_VTABLE _IArtist : public IArtist {
+                    &lt;br>
+                    &amp;nbsp; STDMETHODIMP Draw() {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; return
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+                    static_cast&amp;lt;Deriving*&amp;gt;(this)-&amp;gt;ArtistDraw();
+                    &lt;br>
+                    &amp;nbsp; }
+                    &lt;br>
+                    };
+                &lt;/p>
+                &lt;p>
+                    template &amp;lt;typename Deriving&amp;gt;
+                    &lt;br>
+                    struct ATL_NO_VTABLE _ICowboy : public ICowboy {
+                    &lt;br>
+                    &amp;nbsp; STDMETHODIMP Draw() {
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp; return
+                    &lt;br>
+                    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+                    static_cast&amp;lt;Deriving*&amp;gt;(this)-&amp;gt;CowboyDraw();
+                    &lt;br>
+                    &amp;nbsp; }
+                    &lt;br>
+                    };
+                &lt;/p>
+            &lt;/b>
+            &lt;p>
+                class ATL_NO_VTABLE CAcePowell :
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; public CComObjectRootEx&amp;lt;CComSingleThreadModel&amp;gt;,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public _ICowboy&amp;lt;CAcePowell&amp;gt;,
+                    &lt;br>
+                &lt;/b>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>public _IArtist&amp;lt;CAcePowell&amp;gt; &lt;/b>{
+            &lt;/p>
+            &lt;p>
+                public:
+            &lt;/p>
+            &lt;p>
+                BEGIN_COM_MAP(CAcePowell)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(ICowboy)
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; COM_INTERFACE_ENTRY(IArtist)
+                &lt;br>
+                END_COM_MAP()
+            &lt;/p>
+            &lt;p>
+                ...
+            &lt;/p>
+            &lt;p>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT ArtistDraw();
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp; HRESULT CowboyDraw();
+            &lt;/p>
+            &lt;p>
+            };&lt;/font>&lt;/p> &lt;/blockquote> &lt;/blockquote>
+        &lt;h2>
+            Credit
+        &lt;/h2>
+        &lt;p>
+            Tim Ewald showed me this trick years ago. Jim Springfield showed me how it 
+            could be used with ATL. Don Box recommended the ATL_NO_VTABLE optimization.
+        &lt;/p>
+        &lt;h2>
+            Copyright
+        &lt;/h2>
+        &lt;p>
+            &lt;i>This web page is adapted from the book &lt;/i>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201695898/qid=904226999/sr=1-1/002-6355594-2952658">
+                ATL Internals&lt;/a> &lt;i>by&lt;/i> &lt;a href="mailto:brent@wiseowl.com">Brent Rector&lt;/a>
+            and &lt;a href="mailto:csells@sellsbrothers.com">Chris Sells&lt;/a>. &lt;i>Copyright � 1998 
+                by Addison Wesley Longman, Inc. All rights reserved.&lt;/i>&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12656</id>
+    <title>Welcome to MeowMoniker!</title>
+    <updated>1997-06-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>1997-06-27T07:00:00.000Z</published>
+    <summary>Overview MeowMoniker and Feline are COM objects designed and built by Chris Sells, with a great deal of input from Don Box and Tim Ewald. The MeowMoniker is a custom moniker derived from the CComMoniker class implemented by Don Box, Tim Ewald and Chris Sells. To contact the authors with suggestions or comments, use csells@sellsbrothers.com, tewald@obelisk-llc.com and dbox@microsoft.com. MeowMoniker Usage Microsoft tags every marshalled interface reference packet with the signature MEOW (which they claim sta...</summary>
+    <content type="html">&lt;h1>Welcome to MeowMoniker!&lt;/h1>
+        &lt;h2>
+            Overview
+        &lt;/h2>
+        &lt;p>
+            MeowMoniker and Feline are COM objects designed and built by Chris Sells, with 
+            a great deal of input from Don Box and Tim Ewald. The MeowMoniker is a custom 
+            moniker derived from the CComMoniker class implemented by Don Box, Tim Ewald 
+            and Chris Sells.
+        &lt;/p>
+        &lt;p>
+            To contact the authors with suggestions or comments, use &lt;a href="mailto:csells@sellsbrothers.com">
+                csells@sellsbrothers.com&lt;/a>, &lt;a href="mailto:tewald@obelisk-llc.com">tewald@obelisk-llc.com&lt;/a>
+            and &lt;a href="mailto:dbox@microsoft.com">dbox@microsoft.com&lt;/a>.
+        &lt;/p>
+        &lt;h2>
+            MeowMoniker Usage
+        &lt;/h2>
+        &lt;p>
+            Microsoft tags every marshalled interface reference packet with the signature 
+            MEOW (which they claim stands for Microsoft Extended Object 
+            Wire-representation). This binary packet is a serialized interface reference 
+            used for inter-apartment activation. Turning this binary packet into a string 
+            (via some encoding technique, i.e. Base64) allows a serialized interface 
+            pointer to be passed more easily than binary data, e.g. as a command-line 
+            argument or in an HTML page.
+        &lt;/p>
+        &lt;p>
+            Monikers, on the other hand, provide a general-purpose way for a client to 
+            separate itself from the object binding policy. These object binding polices 
+            can be composed and stored in strings. These strings contain a string 
+            description of the binding policy and policy parameters. By building a custom 
+            moniker that takes a string-ized interface reference as a parameter, a client 
+            can use the standard moniker-based binding algorithm and bind to a running 
+            object via an interface reference. The MeowMoniker is an implementation of a 
+            moniker that can compose display names out of interface pointers and bind to 
+            objects via its display names.
+        &lt;/p>
+        &lt;p>
+            To create a MeowMoniker from an interface pointer, MeowMoniker.dll exposes the 
+            CreateMeowMoniker() function:
+        &lt;/p>
+        &lt;p>
+            &lt;code>STDAPI CreateMeowMoniker(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IUnknown* punk,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer 
+                to the interface to be marshaled
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;REFIID riid,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;// Reference to the 
+                identifier of the interface
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;DWORD dwDestContext,&amp;nbsp;// Destination context
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;DWORD mshlflags,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;// Reason for 
+                marshaling
+                &lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker** ppmk);&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;// Indirect 
+            pointer to the moniker
+        &lt;/p>
+        &lt;p>
+            e.g.
+        &lt;/p>
+        &lt;p>
+            IMoniker* pmk;
+            &lt;br>
+            hr = CreateMeowMoniker(punkObject,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;IID_IUnknown,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;MSHCTX_DIFFERENTMACHINE,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;MSHLFLAGS_NORMAL,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;amp;pmk);
+        &lt;/p>
+        &lt;p>
+            &lt;/code>To obtain the MeowMoniker's display name, use the GetDisplayName() 
+            member function of the IMoniker interface:
+        &lt;/p>
+        &lt;p>
+            &lt;code>HRESULT GetDisplayName(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IBindCtx *pbc,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to bind context to 
+                be used
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker *pmkToLeft,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to moniker 
+                to the left in the composite
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;LPOLESTR *ppszDisplayName);&amp;nbsp;&amp;nbsp;&amp;nbsp;//Indirect 
+                pointer to the display name
+                &lt;br>
+        &lt;/p>
+        &lt;p>
+            e.g.
+        &lt;/p>
+        &lt;p>
+            IBindCtx* pbc;
+            &lt;br>
+            hr = CreateBindCtx(0, &amp;amp;pbc);
+            &lt;br>
+            wchar_t* pwszDisplayName;
+            &lt;br>
+            hr = pmk-&amp;gt;GetDisplayName(pbc, 0, &amp;amp;pwszDisplayName);
+        &lt;/p>
+        &lt;p>
+            &lt;/code>To parse a display name composed by the MeowMoniker, OLE32.dll exposes 
+            the MkParseDisplayName() function:
+        &lt;/p>
+        &lt;p>
+            &lt;code>WINOLEAPI MkParseDisplayName(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;LPBC pbc,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to the bind context 
+                object
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;LPCOLESTR szUserName,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to display 
+                name
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;ULONG FAR *pchEaten,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to the 
+                number of characters consumed
+                &lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;LPMONIKER FAR *ppmk);&amp;nbsp;&amp;nbsp;&amp;nbsp;// Indirect 
+            pointer to the moniker
+        &lt;/p>
+        &lt;p>
+            e.g.
+        &lt;/p>
+        &lt;p>
+            IBindCtx* pbc;
+            &lt;br>
+            hr = CreateBindCtx(0, &amp;amp;pbc);
+            &lt;br>
+            IMoniker* pmk;
+            &lt;br>
+            ULONG cchEaten;
+            &lt;br>
+            hr = MkParseDisplayName(pbc,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; pwszDisplayName,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;amp;pmk);
+        &lt;/p>
+        &lt;p>
+            &lt;/code>To bind to a object, use the BindToObject() member function of the 
+            IMoniker interface:
+        &lt;/p>
+        &lt;p>
+            &lt;code>HRESULT BindToObject(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IBindCtx *pbc,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to bind context 
+                object to be used
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker *pmkToLeft,&amp;nbsp;&amp;nbsp;&amp;nbsp;// Pointer to moniker 
+                that precedes this one in the composite
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;REFIID riidResult,&amp;nbsp;&amp;nbsp;&amp;nbsp;// IID of interface 
+                pointer requested
+                &lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;void **ppvResult);&amp;nbsp;&amp;nbsp;&amp;nbsp;// Indirect 
+            pointer to the specified interface on the object
+        &lt;/p>
+        &lt;p>
+            e.g.
+        &lt;/p>
+        &lt;p>
+            IUnknown* punk;
+            &lt;br>
+            hr = pmk-&amp;gt;BindToObject(pbc, 0, IID_IUnknown, (void**)&amp;amp;punk);
+            &lt;br>
+            &lt;/code>
+            &lt;br>
+            &lt;i>Note: The MeowMoniker does not current support composition or the IMoniker 
+                interface member function BindToStorage().&lt;/i>
+        &lt;/p>
+        &lt;h2>
+            Feline Usage
+        &lt;/h2>
+        &lt;p>
+            Since neither VB nor VBScript supports calling CreateMeowMoniker() and since 
+            VBScript has no equivalent of the VB function GetObject(), the Feline object 
+            provides a dual-interface for making display names out of interface pointers 
+            and parsing moniker display names:
+        &lt;/p>
+        &lt;p>
+            &lt;code>[
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;object,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;uuid(CB18CB8E-C7CC-11D0-9A44-00008600A105),
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;dual,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;helpstring(&amp;quot;DIFeline Interface&amp;quot;),
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;pointer_default(unique)
+                &lt;br>
+                ]
+                &lt;br>
+                interface DIFeline : IDispatch
+                &lt;br>
+                {
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;[id(1), helpstring(&amp;quot;Returns the Meow Moniker name of an 
+                interface pointer&amp;quot;)]
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;HRESULT GetDisplayName([in] IDispatch* pdisp, [out, retval] 
+                BSTR* pbstrName);
+                &lt;br>
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;[id(2), helpstring(&amp;quot;Returns an interface pointer given 
+                any moniker display name&amp;quot;)]
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;HRESULT ParseDisplayName([in] BSTR bstrName, [out, retval] 
+                IDispatch** ppdisp);
+                &lt;br>
+                };&lt;/code>
+            &lt;br>
+            &lt;br>
+            The following is an example Active Server Page that creates an object on the 
+            server, creates a display name using the object's interface pointer and uses 
+            the display name to create a client-side script. The client-side script uses 
+            its own instance of a feline object to parse the display name and bind to the 
+            object created on the server-side.
+        &lt;/p>
+        &lt;p>
+            &lt;code>&amp;lt;HEAD&amp;gt;
+                &lt;br>
+                &amp;lt;TITLE&amp;gt;feline.asp&amp;lt;/TITLE&amp;gt;
+                &lt;br>
+                &amp;lt;/HEAD&amp;gt;
+                &lt;br>&amp;lt;BODY&amp;gt;
+        &lt;/p>
+        &lt;p>
+            &amp;lt;object classid=&amp;quot;clsid:CB18CB8F-C7CC-11D0-9A44-00008600A105&amp;quot;
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;runat=server
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;id=feline&amp;gt;
+            &lt;br>
+            &amp;lt;/object&amp;gt;
+        &lt;/p>
+        &lt;p>
+            &amp;lt;object classid=&amp;quot;clsid:7CF322E0-29A9-11D0-B367-0080C7BC7884&amp;quot;
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;runat=server
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;id=pt&amp;gt;
+            &lt;br>
+            &amp;lt;/object&amp;gt;
+        &lt;/p>
+        &lt;p>
+            &amp;lt;object classid=&amp;quot;clsid:CB18CB8F-C7CC-11D0-9A44-00008600A105&amp;quot;
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;id=feline&amp;gt;
+            &lt;br>
+            &amp;lt;/object&amp;gt;
+        &lt;/p>
+        &lt;p>
+            &amp;lt;script language=vbscript&amp;gt;
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;dim pt
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;set pt = feline.ParseDisplayName(&amp;quot;&amp;lt;%= 
+            feline.GetDisplayName(pt) %&amp;gt;&amp;quot;)
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;pt.x = 100
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;pt.y = 200
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;document.write pt.x &amp;amp; &amp;quot;, &amp;quot; &amp;amp; pt.y
+            &lt;br>
+            &amp;lt;/script&amp;gt;
+        &lt;/p>
+        &lt;p>
+            &amp;lt;/BODY&amp;gt;
+            &lt;br>
+            &amp;lt;/HTML&amp;gt;&lt;/code>
+        &lt;/p>
+        &lt;h2>
+            CComMoniker Implementation
+        &lt;/h2>
+        &lt;p>
+            The MeowMoniker derives most of its functionality from CComMoniker, provided in 
+            mkbase.h and mkbase.cpp. This base class implements IMoniker, 
+            IParseDisplayName, IROTData and IMarshal (for marshal-by-value). This 
+            implementation uses the moniker's display name as the persistent state. The 
+            custom moniker implementor deriving from CComMoniker must provide the CSLID of 
+            the moniker as the single template parameter (used in the implementation of the 
+            GetClassID() member function of IPersist and the GetUnmarshalClass() member 
+            function of IMarshal). The implementor may override any of the base class's 
+            member functions but &lt;b>must&lt;/b> implement these three IMoniker members:
+        &lt;/p>
+        &lt;p>
+            &lt;code>STDMETHODIMP BindToObject(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IBindCtx* pbc,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker* pmkToLeft,
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;REFIID riidResult,
+                &lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;void** ppvResult);
+        &lt;/p>
+        &lt;p>
+            STDMETHODIMP GetDisplayName(
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;IBindCtx* pbc,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker* pmkToLeft,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;LPOLESTR* ppszDisplayName);
+        &lt;/p>
+        &lt;p>
+            STDMETHODIMP ParseDisplayName(
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;IBindCtx* pbc,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker* pmkToLeft,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;LPOLESTR pszDisplayName,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;ULONG* pchEaten,
+            &lt;br>
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;IMoniker** ppmkOut);
+        &lt;/p>
+        &lt;p>
+            &lt;/code>As a aid in parsing display names, the CComMoniker class provides the 
+            following helper function:
+        &lt;/p>
+        &lt;p>
+            &lt;code>bool MatchesProgID(
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;const wchar_t* pwszDisplayName,&amp;nbsp;&amp;nbsp;// Display name 
+                being parsed
+                &lt;br>
+                &amp;nbsp;&amp;nbsp;&amp;nbsp;const wchar_t** ppwszDisplayParam);&amp;nbsp;&amp;nbsp;// Pointer to 
+                character past :
+                &lt;br>
+            &lt;/code>
+            &lt;br>
+            This function checks the display name for a leading ProgID or 
+            VersionIndependentProgID followed by a colon and returns a pointer to the first 
+            character of the display name parameter(s), i.e. one character past the colon. 
+            The implementation of this function requires the derived class to implement the 
+            following member functions:
+        &lt;/p>
+        &lt;p>
+            &lt;code>virtual const wchar_t* ProgID() =0;
+                &lt;br>virtual const wchar_t* VersionIndependentProgID() =0;
+        &lt;/p>
+        &lt;p>
+            e.g.
+        &lt;/p>
+        &lt;p>
+            const wchar_t* ProgID() { return L&amp;quot;dm.meow.1&amp;quot;; }
+            &lt;br>
+            const wchar_t* VersionIndependentProgID() { return L:dm.meow&amp;quot;; }
+        &lt;/p>
+        &lt;/code>
+        &lt;h2>
+            CoMeowMoniker Implementation
+        &lt;/h2>
+        &lt;p>
+            The MeowMoniker is an ATL object named CoMeowMoniker. It derives from 
+            CComMoniker and provides an implementation of the required members only. The 
+            bulk of the implementation is contained in the two member functions, 
+            MarshalInterface() and UnmarshalInterface(). These two member functions manage 
+            the Base64 encoding and decoding of the interface pointer. The actual Base64 
+            implementation is kept in Base64.cpp.
+        &lt;/p>
+        &lt;h2>
+            CoFeline Implementation
+        &lt;/h2>
+        &lt;p>
+            The Feline is an ATL object named CoFeline. Its implementation of 
+            GetDisplayName() uses a MeowMoniker. Its implementation of ParseDisplayName() 
+            uses MkParseDisplayName() so that any moniker's display name can be used.
+        &lt;/p>
+        &lt;h2>
+            Download&lt;/h2>
+		&lt;p>
+            &lt;a href="/public/tools/monikers/meowmoniker.zip">Here&lt;/a>.&lt;/p>
+		&lt;h2>
+            YACL
+        &lt;/h2>
+        &lt;p>
+            The implementation of the MeowMoniker is based on utilities provided in the 
+            YACL (Yet Another COM Library), developed and maintained by Don Box and 
+            available at &lt;a href="http://www.develop.com/dbox/yacl.htm">Don's YACL web site.&lt;/a>
+            The pieces of YACL
+            &lt;br>
+            that I have used, I've included in the appropriate directories.
+        &lt;/p>
+        &lt;h2>
+            Revisions
+        &lt;/h2>
+        &lt;h3>
+            6/15/98
+        &lt;/h3>
+        &lt;ul>
+            &lt;li>
+                Updated MeowMoniker to perform GetSizeMax properly.
+            &lt;/li>
+            &lt;li>
+                Updated MeowMoniker and CComMonikerBase to use CComPtr and CComQIPtr instead of 
+                SmartInterface.
+            &lt;/li>
+            &lt;li>
+                Removed use of HRESULTEX and therefore the use of C++ exception handling.
+            &lt;/li>
+            &lt;li>
+                Moved some includes around.
+            &lt;/li>
+            &lt;li>
+                Reduced RelMinDepend build from 89KB to 80KB. Could probably reduce it more if 
+                I could find Matt Pietrek's tinycrt and stop using the real CRT.
+            &lt;/li>
+        &lt;/ul>
+        &lt;h2>
+            Copyright
+        &lt;/h2>
+        &lt;p>
+            MeowMoniker, copyright (c) 1997, Chris Sells.
+            &lt;br>
+            Feline, copyright (c) 1997, Chris Sells.
+            &lt;br>
+            CComMoniker, copyright (c) 1997, Don Box, Tim Ewald and Chris Sells.
+            &lt;br>
+            YACL, copyright (c) 1997, Don Box.
+            &lt;br>
+            Extensions to YACL, copyright (c) 1997, Tim Ewald and Chris Sells.
+            &lt;br>
+            All rights reserved. NO WARRANTIES ARE EXTENDED. USE AT YOUR OWN RISK.
+        &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12641</id>
+    <title>Initial Launch</title>
+    <updated>1995-01-01T08:00:00.000Z</updated>
+    <category term="colophon" label="Colophon"/>
+    <published>1995-01-01T08:00:00.000Z</published>
+    <summary>This site was launched sometime in 1995. I have no idea when. It was just a home page with a set of links I wanted to share with my students.</summary>
+    <content type="html">&lt;h1>Initial Launch&lt;/h1>
+This site was launched sometime in 1995. I have no idea when. It was just a home page with a set of links I wanted to share with my students.</content>
+  </entry>
+</feed>

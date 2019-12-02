@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed174.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed173.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed175.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed174.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12435</id>
+    <title>Moniker Wizard</title>
+    <updated>2001-08-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-05T07:00:00.000Z</published>
+    <summary>Here's my moniker wizard that includes the framework used by the Basic Monikers. </summary>
+    <content type="html">&lt;h1>Moniker Wizard&lt;/h1>
+    &lt;p align="left">
+        Here's &lt;a href="http://develop.com/genx/GenXdownloaddetail.asp?vWizId=189">my 
+            moniker wizard&lt;/a> that includes the framework used by &lt;a href="/12456">
+            the Basic Monikers&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12620</id>
+    <title>Some MORE signs that you may be taking COM too seriously...</title>
+    <updated>2001-08-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-08-05T07:00:00.000Z</published>
+    <summary>Your weekly beach volley ball matches are between teams named 'Proxies' and 'Stubs'. You read 'ATL Internals' while waiting in line for the next ride at Universal studios You are locked outside your house without your keys and the sticky note at the door reads 'CoLockObjectExternal' when your wife gets back. You ask your bank if they can send your monthly balance statements in XML format. You return your neighbor's telephone call saying it was an interapartment callback. You ask your cable television compan...</summary>
+    <content type="html">&lt;h1>Some MORE signs that you may be taking COM too seriously...&lt;/h1>
+&lt;ul>&lt;li>Your 
+
+weekly beach volley ball matches are between teams named 'Proxies' and 
+
+'Stubs'. &lt;li>You read 'ATL Internals' while waiting in line for the next ride 
+
+at Universal studios &lt;li>You are locked outside your house without your keys 
+
+and the sticky note at the door reads 'CoLockObjectExternal' when your wife 
+
+gets back. &lt;li>You ask your bank if they can send your monthly balance 
+
+statements in XML format. &lt;li>You return your neighbor's telephone call saying 
+
+it was an interapartment callback. &lt;li>You ask your cable television company 
+
+if they support Channel Hooks. &lt;li>You decide to do some detective work by 
+
+night and call yourself the IMallocSpy. &lt;li>Your kid asks you what a female Ox 
+
+is called and you reply OXID. &lt;/li>&lt;/ul>&lt;p>&lt;i>Aravind Corera&lt;br>Originally 
+
+written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;/a> 
+
+&lt;br>Private Email&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12436</id>
+    <title>Tim's COM+ Utilities</title>
+    <updated>2001-08-04T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-04T07:00:00.000Z</published>
+    <summary>Aug 4, 2001 The great and powerful Tim Ewald (author of Transactional COM+: Building Scalable Applications and personal friend of mine) put together a handy little set of COM+ classes and utility functions in a concise header file that he has graciously allowed me to host. Among my favorites are IsInActivity, IsInTransaction, IsSecurityEnabled, GetCallersName,&amp;nbsp; IsCallerInRole, and parameterized versions of CoGetObjectContext and GetAspObject (which is even cooler than my CAspPtr). Download the code! Bu...</summary>
+    <content type="html">&lt;h1>Tim's COM+ Utilities&lt;/h1>
+&lt;span class="created">Aug 4, 2001&lt;/span>
+    &lt;p align="left">
+        The great and powerful Tim Ewald (author of &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201615940">
+                Transactional COM+: Building Scalable Applications&lt;/a>&lt;/b> and personal 
+        friend of mine) put together &lt;a href="/public/tools/cputil.h">a handy little set of COM+ classes 
+            and utility functions&lt;/a> in a concise header file that he has graciously 
+        allowed me to host. Among my favorites are IsInActivity, IsInTransaction, 
+        IsSecurityEnabled, GetCallersName,&amp;nbsp; IsCallerInRole, and parameterized 
+        versions of CoGetObjectContext and GetAspObject (which is even cooler than my 
+        CAspPtr). &lt;a href="/public/tools/cputil.h">Download the code!&lt;/a> &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201615940">
+            Buy the book!&lt;/a> Feed your brain!
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12606</id>
+    <title>My Favorite Books</title>
+    <updated>2001-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-03T07:00:00.000Z</published>
+    <summary>Friday, 8/3/01 When I started writing books, I decided to stop reviewing other peoples' books. I used to have a list of all of the books in the topic of my current interest and write a little review, either pumping them or panning them (this was long before Amazon.com). Once I decided to write books myself, I figured that there'd be a conflict of interest putting down competing books, so I stopped. However, I've had lots of folks ask me for a list of recommended books over the years, so I thought I'd provid...</summary>
+    <content type="html">&lt;h1>My Favorite Books&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Friday, 8/3/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    When I started writing books, I decided to stop reviewing other peoples' books. 
+                    I used to have a list of all of the books in the topic of my current interest 
+                    and write a little review, either pumping them or panning them (this was &lt;i>long &lt;/i>
+                    before Amazon.com). Once I decided to write books myself, I figured that 
+                    there'd be a conflict of interest putting down competing books, so I stopped. 
+                    However, I've had lots of folks ask me for a list of recommended books over the 
+                    years, so I thought I'd provide one. While I'm still biased, there's at least &lt;i>less&lt;/i>
+                    conflict of interest if I just tell you about books that I love (although I'm 
+                    not so proud that I don't tag each book URL with my Amazon.com associates 
+                    ID...).
+                &lt;/p>
+                &lt;p>
+                    I would give each of these books a 5-star rating on Amazon (and, in some cases, 
+                    I've done just that). These are the books that I absolutely love (in no 
+                    particular order):
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0938151495/chrissells">
+                                The PC Is Not a Typewriter&lt;/a> by Robin Williams.&lt;/b> Of course, this 
+                        is not by the famous actor, but Robin is as famous in the type design field as 
+                        the other Robin is in the funny joke field. In fact, I'd say the former is even 
+                        more impressive, because she doesn't let herself get talked into writing bad 
+                        books. You can't go wrong with any of Robin's books, but this is the first one 
+                        of hers that I read and it still holds a special place in my heart. She 
+                        specializes in teaching text design amateurs how to do text design and she's 
+                        great at it.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1558605436/chrissells">
+                                Genetic Programming III&lt;/a> by J.R. Koza, et al.&lt;/b> It's no secret 
+                        that I've long had a weakness in my heart for 
+                            programs that generate programs. This one is the ultimate -- programs 
+                        that figure out themselves how to generate the correct program. Very wow. And, 
+                        as is necessary for all books on this list, it's very well written. It's 
+                        gripping in the same way that the latest John Grisham novel is gripping (to a 
+                        certain kind of person : ).
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201634465/chrissells">
+                                Essential COM&lt;/a> by Don Box.&lt;/b> This is not only the classic work on 
+                        COM, but it captures the heart of the movement of Windows programmers into 
+                        component development. Be careful when you pick it up, though. You could start 
+                        by looking something up and find yourself hours later still reading it for the 
+                        pure pleasure. BTW, Don and I have good close friends for years, so I may be 
+                        biased (except I'm not -- this book rocks).
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0789723107/chrissells">
+                                Don't Make Me Think&lt;/a> by Steve Krug.&lt;/b> I'm still in the middle of 
+                        reading this book, but wow. It lays out web usability in a way that even a web 
+                        design cretin like me can appreciate. He points out the dos and don'ts in a way 
+                        that's clear, concise and entertaining. I'd love to be able to convey so much 
+                        with so few words. And the production values of this book are great. I wonder 
+                        if Addison-Wesley will let me write a .NET programming book in the same 
+                        style...
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1893115941/chrissells">
+                                User Interface Design for Programmers&lt;/a> by Joel Spolsky.&lt;/b> &lt;a href="http://joel.editthispage.com">
+                            Joel maintains one of my favorite web logs&lt;/a> and has collected his 
+                        usability musings into a wonderful little book (clearly influenced by the Krug 
+                        book). What makes this book so wonderful is that he captures all my feelings 
+                        about usability, making me feel like an expert. Of course, I love a book that 
+                        agrees with me. : )
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201924889/chrissells">
+                                Effective C++&lt;/a> by Scott Meyers.&lt;/b> This is the book that started a 
+                        movement. Of course, if you're a C++ programmer, you need to read this book. 
+                        But more than that, Scott laid out a style that has often been imitated, but 
+                        never duplicated. (I know, because &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201379686/chrissells">
+                            I tried&lt;/a>.)
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201485362/chrissells">
+                                Mr Bunny's Guide to ActiveX&lt;/a> by Carlton Egemont III.&lt;/b> If you're a 
+                        COM programmer, you need this book. Check out the close up of the pixel. It 
+                        kills me every time.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0596000790/chrissells">
+                                C# Essentials&lt;/a> by Peter Drayton, et al.&lt;/b> This is hands down the 
+                        best .NET programming book out there. It's clear, concise and accurate (a 
+                        novelty in the Windows book market). It only took me a few hours to read, but I 
+                        learned a ton. BTW, Peter works for DevelopMentor, but I'm not biased because I 
+                        don't like him very much. : )
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0805317554/chrissells">
+                                Fundamentals of Database System&lt;/a> by R. A. Elmasri.&lt;/b> This is one 
+                        of the rare college text books that is not only readable, but practical. I read 
+                        this after years and years of doing database work and was very surprised that 
+                        they covered what software engineers actually need to know about how databases 
+                        work.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0735609985/chrissells">
+                                Inside SQL Server&lt;/a> by Kalen Delaney.&lt;/b> Ironically, I haven't had 
+                        much database experience under Windows (I was a Unix Informix guy), but when I 
+                        read the earlier edition by Ron Soukup, I fell in love with this product. I'm 
+                        sure it was the way that Ron described it, but I couldn't imagine doing SQL 
+                        Server work without this book.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0130313580/chrissells">
+                                Modern Operating Systems&lt;/a> by Andrew S. Tanenbaum.&lt;/b> I sure wish I 
+                        had had this book when I was taking my operating systems course in college, 
+                        because then Linus Torvald would be reading about the success of my operating 
+                        system and not the other way. This book is so great and so well-written that 
+                        its inspiring. I firmly believe that every effective programmer needs to first 
+                        understand what's going on underneath their drag-n-drop, click-button IDE and 
+                        this book sure lays a great foundation.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0133499456/chrissells">
+                                Computer Networks&lt;/a> by Andrew S. Tanenbaum.&lt;/b> Along those same 
+                        lines, Tanenbaum's networking book is also excellent. Makes me want to dig 
+                        right into the plumbing.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201633469/chrissells">
+                                TCP/IP Illustrated&lt;/a> by W. Richard Stevens.&lt;/b> Of course, the late 
+                        Richard Stevens was a legend in the Unix community. This book, while slanted 
+                        towards Unix, is still a great book about the world's most dominant network 
+                        protocol. I can't decide whether I like this book or Computer Networks by 
+                        Tanebaum better, but you can't go wrong by owning both.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/013490012X/chrissells">
+                                Unix Network Programming&lt;/a> by W. Richard Stevens.&lt;/b> As a Unix 
+                        programmer not even doing network programming, this was still the bible. I know 
+                        that you Windows programmers aren't going to rush out and buy it, but if you 
+                        wake up with a desire to program in a command line world, you'll need this 
+                        book.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1558605347/chrissells">
+                                Philip and Alex's Guide To Web Publishing&lt;/a> by Philip Greenspun.&lt;/b> I 
+                        don't know how much practical information there really is in this book, but 
+                        after reading it, I really wanted to quit my job and go to work for &lt;a href="http://www.arsdigita.com/">
+                            Ars Digita&lt;/a>. Unfortunately, after Phil brought in some "professional" 
+                        management, they kicked him out and, as far as I can tell, are driving that 
+                        company into the ground. Still, &lt;a href="http://philip.greenspun.com/">
+                            the amount that that guy has contributed to the internet community&lt;/a> is 
+                        staggering and inspiring.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201616181/chrissells">
+                                ASP Internals&lt;/a> by Jon Flanders.&lt;/b> Now on this one, I'm very 
+                        biased, because not only is Jon Flanders a fellow DevelopMentor employee, but 
+                        he's also been one of my best friends since 3rd grade and I wrote the forward. 
+                        That said, if you want to know how ASP really works, down to source code for an 
+                        ISAPI extension that Jon builds to work just like ASP, you need this book. And 
+                        what's so amazing is that he's able to convey so much so concisely. I wish I 
+                        could write this briefly. I hope an ASP.NET Internals is forthcoming from Jon.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        The C Primer. This book is long out of print, but it's where I learned the C 
+                        syntax that has served me so well through so many languages, i.e. C++, Java, 
+                        JavaScript and C#. I don't expect anyone to need this book anymore, but it does 
+                        have a special place in my heart.
+                    &lt;/li>
+                &lt;/ul>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12607</id>
+    <title>My Favorite Software</title>
+    <updated>2001-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-03T07:00:00.000Z</published>
+    <summary>Friday, 8/3/01 The following software is what I install on nearly every computer I set up. BTW, I pay for all my favorite software and you should, too. While I am guilty of "trying" friend's software, I own legal copies of every piece of software I use. Windows XP. The grand unification of Win9x and Windows 2000 is finally at hand (isn't that one of the signs of the apocalypse?) and it is awesome. The UI make over is great, but the two killer features for me so far (I've only have RC2 running for a few days...</summary>
+    <content type="html">&lt;h1>My Favorite Software&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Friday, 8/3/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    The following software is what I install on nearly every computer I set up. 
+                    BTW, I pay for all my favorite software and you should, too. While I am guilty 
+                    of "trying" friend's software, I own legal copies of every piece of software I 
+                    use.
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.microsoft.com/windowsxp/">Windows XP&lt;/a>.&lt;/b>
+                        The grand unification of Win9x and Windows 2000 is finally at hand (isn't that 
+                        one of the signs of the apocalypse?) and it is awesome. The UI make over is 
+                        great, but the two killer features for me so far (I've only have RC2 running 
+                        for a few days at this point) are the new Terminal Services client (called 
+                        Remote Desktop Connection and hidden under Accessories\Communications) is 
+                        amazing for the keystroke handling alone and the ClearType support for LCD 
+                        panels. Unfortunately, the latter is going to force me to buy LCD panels for 
+                        all my computers and will make using the former with anything by Windows XP 
+                        unbearable. No wonder they have a monopoly...
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.microsoft.com/office">Microsoft Office XP&lt;/a>.&lt;/b>
+                        I know that they're a monopoly. I know that they should be broken up. But damn, 
+                        they just make killer (sic) software! As a writer and web maintainer, I 
+                        absolutely love Word and FrontPage. The last real feature they added was red 
+                        and green squiggles, but now I can't live without them. As a guy dealing with 
+                        lots of email and people and tasks, I live in Outlook. The fact that the 
+                        integration with Word is now fast enough to let me use Word as my editor (to 
+                        get red and green squiggles) has cut &lt;i>way &lt;/i>back on people making fun of me 
+                        for my shoddy emails. And while I can't say I've ever used 1% of the features 
+                        in Excel, for whipping up a quick set of numbers and totals, there's nothing 
+                        like it. Also, I was a proud owner of Visio 1.0, so that fact that they now 
+                        bundle it is awesome. Truly, without Office, I may very well have skipped to 
+                        Linux by now, but I'm addicted.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://msdn.microsoft.com/vstudio/">Microsoft Visual 
+                                Studio.NET&lt;/a>.&lt;/b> There is no better set of development tools on the 
+                        planet. This is #2 reason why I haven't gone to Linux.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.winzip.com">WinZip&lt;/a> from Nico Mak 
+                            Computing.&lt;/b> I keep trying others, but I always come crawling back after 
+                        the flash of some upstart comes and goes out of my life.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.greenparrots.com/ao.html">Action Outline&lt;/a> 
+                            from Green Parrots Software.&lt;/b> This is a free-form hierarchical 
+                        information keeper. While I practically live in Outlook, it has never had a 
+                        good way to keep bits and pieces from my head. And what I especially love is 
+                        that, as a keyboard only boy, I can navigate between the tree view on the left 
+                        and the text view on the right, including adding topics, moving topics, etc, 
+                        all without taking my fingers off the keyboard, including starting it from 
+                        Start-&amp;gt;Run (via "action"). The only thing that I wish they'd add is 
+                        encryption and password protectionbecause I'm embarrassed to tell you just what 
+                        kind of information I keep in there in plain text (Keith "Mr. Security" Brown 
+                        would not approve : ). Indispensable.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.greenparrots.com/clock.html">1st Clock&lt;/a> from 
+                            Green Parrots Software.&lt;/b> Actually, Green Parrots is one of my favorite 
+                        software companies. They make some cool stuff. I can't live without 1st Clock 
+                        for two reasons:
+                        &lt;ol>
+                    &lt;li>
+                    It puts the day of the week and the date in the toolbar (because I can never 
+                    remember and the time it takes to click my way to that info is too long).
+                    &lt;li>
+                        It lets me put custom strings into the toolbar. I always put the machine name 
+                        in the toolbar so that as I switch between multiple PCs sharing a single 
+                        keyboard, mouse and monitor using my &lt;a href="http://www.belkin.com/">
+                            Belkin OmniView&lt;/a>, I can tell at a glance what machine I'm currently 
+                        working with.
+                    &lt;/li>
+                    &lt;/OL>
+                        &lt;p>The built-in automatic time synching with internet time service is really 
+                    cool, too.
+                    &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.sysinternals.com/ntw2k/freeware/procexp.shtml">Process 
+                                Explorer&lt;/a> from Sysinternals.&lt;/b> This software, formerly known as 
+                        HandleEx, is invaluable in helping me track down all of my "Can't replace DLL: 
+                        May be in use" error messages and it's free!
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.sysinternals.com/ntw2k/source/regmon.shtml">RegMon&lt;/a>
+                            from Sysinternals.&lt;/b> This tool will should you where a program is reading 
+                        from the Registry or where it's writing.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.pocketsoap.com/tcptrace/">tcpTrace&lt;/a> from 
+                            PocketSOAP.&lt;/b> Simon Fell is one of the most talented contributors to the 
+                        Windows development community. tcpTrace is the de facto tool for tracing SOAP 
+                        packets.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.uk.research.att.com/vnc/">WinVNC&lt;/a> from 
+                            AT&amp;amp;T.&lt;/b> WinVNC is a free tool for controlling one computer from 
+                        another. It's not as cool or as fast as the new Terminal Services client from 
+                        Microsoft, but it lets you control the currently active Windows station instead 
+                        of starting up a new one, so it's great for controlling the PC I have connected 
+                        to my home theater, from the comfort of my couch (ever try to read PC output on 
+                        a TV across the room? It doesn't work...).
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.devtrack.com/products/DevTrack/DevTrackMain.html">
+                                DevTrack&lt;/a> from TechExcel.&lt;/b> DevTrack is a good bug tracking 
+                        database. Even though it is &lt;i>not&lt;/i> one of my favorite pieces of software 
+                        (sorry to throw you for a loop there : ), it was so much easier to set up than 
+                        any of the competitors at the time and it did 80% of what we needed it for, 
+                        that we live with it. The web client enables developers to use it all over the 
+                        world and we were able to squeeze the data out of it that we needed. We do 
+                        struggle with it sometimes, but not nearly as much as we would have had to if 
+                        we'd have built out own from scratch. In fact, that's why I list it here. &lt;b>&lt;i>Please 
+                                don't waste your time writing your own bug database. &lt;/i>&lt;/b>Buy one. 
+                        If I had it to do over again, I would definitely spend time looking at &lt;a href="http://www.fogcreek.com/FogBUGZ/">
+                            FogBUGZ&lt;/a> from Fog Creek Software.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.sourcegear.com/sos/">Source Offsite&lt;/a> from 
+                            SourceGear. &lt;/b>Source Offsite is an NT service that allows access to your 
+                        Visual SourceSource database across the internet. Until they fixed a mighty 
+                        leak problem that required us to manually kill the server a couple of times a 
+                        day, Source Offsite was a depressing maintenance headache that we had to put up 
+                        with, because when it worked, it worked &lt;i>so &lt;/i>well, and there wasn't 
+                        anything else out there. Now that the leak is fixed, it just silently works. 
+                        What more can you ask from a piece of software?
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.bearcanyon.com/tools/">CleanVC&lt;/a> from Bear 
+                            Canyon. &lt;/b>Mike Woodring and I go way back. Like me, he also has a bend 
+                        for building tools and a website where he makes them available. The one that I 
+                        absolutely cannot live without is CleanVC (he's got other cool tools worth 
+                        check out, too). From the command line, CleanVC takes the name of a directory 
+                        and recurses through it and all sub-directories, killing all the intermediate 
+                        files you get during a build. From the shell, you can right-click on a folder, 
+                        choose CleanVC and get the same thing. I use it right before I zip something up 
+                        for distribution and I use it to dig through my own project directory just 
+                        before my weekly backup. Fabulous.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="/12457">RegSvr.reg&lt;/a> from me. &lt;/b>
+                        This is a simple .reg file that I built way, way back that lets you right-click 
+                        on a COM DLL or EXE and register or unregister it. It's simple, I know, but I 
+                        find I can't use my computer without it.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.aisto.com/roeder/dotnet/">Reflector for .NET&lt;/a>
+                            from Lutz Roeder.&lt;/b> This software is the OLEVIEW of .NET and it's free!
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;A href="/public/tools/UrlRun.zip">UrlRun&lt;/A> from me. &lt;/b>This is a little 
+                        console app that I use to reconnect URLs split between lines in an email. It's 
+                        smart enough to take out spaces and &amp;gt; characters when an URL is split 
+                        between forward lines in an email. To use, copy the URL (with spaces and weird 
+                        characters and all) into the clipboard and run UrlRun.exe. It will take the URL 
+                        out of the clipboard, clean it up and start up IE.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        BTW, &lt;a href="http://www.idsoftware.com/">Doom&lt;/a>, &lt;a href="http://www.half-life.com/">
+                            Half-Life&lt;/a>,
+                            Max Payne and &lt;a href="http://jelly.effect.no/">JellyFish&lt;/a>
+                        are my favorite games, the latter especially since I let Don beat me badly at 
+                        backgammon the other day and I need the practice!
+                    &lt;/li>
+                &lt;/ul>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12605</id>
+    <title>Hanging Out My Shingle</title>
+    <updated>2001-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-03T07:00:00.000Z</published>
+    <summary>Friday, 8/3/01 For the last three years, I've been in management. Oh, it started innocently enough. When the team was small, I was only managing a little bit. However, as the team grew and we got closer and closer to shipping our first product, I spent less and less time doing anything technical and more and more time managing. Eventually, I was doing nothing but dealing with the rest of the company and potential customers and "enabling" everyone else. Luckily, Don Box, co-founder of DevelopMentor and my lo...</summary>
+    <content type="html">&lt;h1>Hanging Out My Shingle&lt;/h1>
+&lt;p>
+                &lt;i>&lt;span class="created">Friday, 8/3/01&lt;/span>&lt;/i>
+            &lt;/p>
+                &lt;p>
+                    For the last three years, I've been in management. Oh, it started innocently 
+                    enough. When the team was small, I was only managing a little bit. However, as 
+                    the team grew and we got closer and closer to shipping our first product, I 
+                    spent less and less time doing anything technical and more and more time 
+                    managing. Eventually, I was doing nothing but dealing with the rest of the 
+                    company and potential customers and "enabling" everyone else. Luckily, Don Box, 
+                    co-founder of DevelopMentor and my long-time mentor, noticed that I'd been 
+                    swept right out of the things that I loved the most. And he made me an offer I 
+                    couldn't refuse...
+                &lt;/p>
+                &lt;p>
+                    Now I'm back on the consulting, teaching, writing, development train and loving 
+                    it. I've been all over .NET for about a year, but now I get to concentrate on 
+                    it full-time. If you'd like any consulting help in the area of .NET (or even 
+                    COM and ATL), I'm here for you. Pass the word along. Thanks!&lt;/p>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12608</id>
+    <title>My Favorite Web Sites</title>
+    <updated>2001-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-08-03T07:00:00.000Z</published>
+    <summary>Friday, 8/3/01 These are the sites that I visit on a regular basis and like (the sites I visit on a regular basis and don't like are not listed : ): Google is the greatest search engine on the planet. I used to use others, but now, why bother? &amp;nbsp; Dictionary.com is a necessity for me because I'm a terrible speller (although it didn't help me spell repitwa earlier today!). Plus, it has a thesaurus and an acronym </summary>
+    <content type="html">&lt;h1>My Favorite Web Sites&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Friday, 8/3/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    These are the sites that I visit on a regular basis and like (the sites I visit 
+                    on a regular basis and don't like are not listed : ):
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.google.com">Google&lt;/a>&lt;/b>&lt;a> is the 
+                            greatest search engine on the planet. I used to use others, but now, why 
+                            bother?&lt;/a>
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.dictionary.com/">Dictionary.com&lt;/a>&lt;/b>&lt;a>&lt;b> &lt;/b>
+                            is a necessity for me because I'm a terrible speller (although it didn't help 
+                            me spell repitwa earlier today!). Plus, it has a thesaurus and an acronym 
+                            expander. I'm impressed a number of folks when they've tried to use wacky 
+                            anonyms on me and I can pretend like I knew it all along.&lt;/a>
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>The &lt;a href="http://groups.yahoo.com/">Yahoo Groups&lt;/a> page&lt;/b>
+                        is a great place to start and maintain groups. I've got 
+                        one myself (the &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic">
+                            Windows Technical off Topic group&lt;/a>).
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.codeproject.com/">CodeProject.com&lt;/a>. &lt;/b>
+                        Whenever I need a hunk of code that I haven't written myself, I start here.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://joel.editthispage.com/">Joel on Software&lt;/a>&lt;/b>
+                        is one of my favorite blogs. I think he's a genius because he says stuff I 
+                        agree with.&lt;br>
+&amp;nbsp;&lt;li>
+                        I use the &lt;b>&lt;a href="http://www.imdb.com">Internet Movie Database&lt;/a>&lt;/b>
+                        all the time to settle arguments over movies, find related movies, find release 
+                        times, etc. It's been around for a long, long time and is still a really great 
+                        site.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        The &lt;b>&lt;a href="http://discuss.develop.com/">archive for 
+                                DevelopMentor's mailing lists&lt;/a>&lt;/b> is invaluable. I've avoided 
+                        looking silly so many times by searching here first before sticking my foot in 
+                        my mouth (actually, I could stand to use it a lot more, come to think of it : 
+                        ).
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        &lt;b>&lt;a href="http://discuss.microsoft.com/archives/">Microsoft's mailing 
+                                list archive&lt;/a>&lt;/b> is useful, too.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        Whenever I need a map, &lt;b>&lt;a href="http://www.mapquest.com/">MapQuest&lt;/a>&lt;/b>
+                        is there.
+                        &lt;br>
+                    &amp;nbsp;
+                    &lt;li>
+                        Whenever I need a computer (not quite as often as I need a map, but often 
+                        enough...), I use &lt;b>&lt;a href="http://www.dell.com/us/en/dfh/default.htm">
+                                Dell's Refurbished computer site&lt;/a>&lt;/b>. You have to make sure you're 
+                        getting exactly what you need and you might have to stake it out a few days to 
+                        make that happen, but the prices are so good on slightly handled Dell computers 
+                        with the same warranty as the new ones, that I wouldn't buy a computer anywhere 
+                        else.
+                    &lt;/li>
+                &lt;/ul>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12437</id>
+    <title>Command Line Parsing</title>
+    <updated>2001-08-03T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-03T07:00:00.000Z</published>
+    <summary>Aug 3, 2001 I got tired of not having getopt under Win32 and the best version to port doesn't handle slashes (as per the Windows standard) or @files for arguments and it requires you to give away the source for every app that uses it, so, inspired by my friend Josh Gray,&amp;nbsp; I built my own. It supports typed flags and params, @file support and building full usages on the fly. Plus, the latest version has support for parsing ANSI or Unicode argfiles, as provided by Johan Nilsson. Thanks, Johan! Also, I've ...</summary>
+    <content type="html">&lt;h1>Command Line Parsing&lt;/h1>
+&lt;span class="created">Aug 3, 2001&lt;/span>
+    &lt;p align="left">
+        I got tired of not having getopt under Win32 and the best version to port 
+        doesn't handle slashes (as per the Windows standard) or @files for arguments 
+        and it requires you to give away the source for every app that uses it, so, 
+        inspired by my friend Josh Gray,&amp;nbsp; &lt;a href="/public/tools/CommandLineParser.zip">I built my 
+            own&lt;/a>. It supports typed flags and params, @file support and building 
+        full usages on the fly.
+    &lt;/p>
+    &lt;p align="left">
+        Plus, the latest version has support for parsing ANSI or Unicode argfiles, as 
+        provided by &lt;a href="mailto:johan.nilsson@esrange.ssc.se">Johan Nilsson&lt;/a>. 
+        Thanks, Johan! Also, I've added a contribution by &lt;a href="mailto:Paul.Westcott@IGT.com">
+            Paul Westcott&lt;/a> to support arguments with restricted values. Thanks, 
+        Paul! And, as if that weren't enough, &lt;a href="mailto:adis.delalic@vianova.no">Adis 
+            Delalic&lt;/a> contributed &lt;a href="/public/tools/clp.pdf">a UML diagram to describe how the CLP 
+            is built&lt;/a>. Wow.
+    &lt;/p>
+    &lt;p align="left">
+        And as if that weren't enough,
+        &lt;a href="http://www.develop.com/kbrown">Keith Brown&lt;/a>
+        &lt;a href="/public/tools/CommandLineParser7.h">ported the command line parser to VS.NET&lt;/a>. 
+        Thanks, Keith!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12438</id>
+    <title>Expando Objects</title>
+    <updated>2001-08-02T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-02T07:00:00.000Z</published>
+    <summary>Aug 2, 2001 I've seen lots of interest lately in expando objects, e.g. objects that can add methods and properties on the fly. Joe Graf wrote a piece on IDispatchEx in MIND that was pretty interesting. My own implementation of IDispatchEx is available here. It supports expando objects that have no static properties or methods as well as those that do. Check out the DispExTest.js for a demonstration, dispeximpl.h, dynamemlist.h and dynamemlist.cpp for the implementation and MyExpando.h for the usage. </summary>
+    <content type="html">&lt;h1>Expando Objects&lt;/h1>
+&lt;span class="created">Aug 2, 2001&lt;/span>
+    &lt;p align="left">
+        I've seen lots of interest lately in expando objects, e.g. objects that can add 
+        methods and properties on the fly. Joe Graf wrote &lt;a href="http://www.microsoft.com/mind/defaulttop.asp?page=/mind/1099/dynamicobject/dynamicobject.htm&amp;amp;nav=/mind/1099/inthisissuecolumns1099.htm">
+            a piece on IDispatchEx in MIND&lt;/a> that was pretty interesting. &lt;a href="/public/tools/MyExpando.zip">
+            My own implementation of IDispatchEx is available here.&lt;/a> It supports 
+        expando objects that have no static properties or methods as well as those that 
+        do. Check out the DispExTest.js for a demonstration, dispeximpl.h, 
+        dynamemlist.h and dynamemlist.cpp for the implementation and MyExpando.h for 
+        the usage.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12439</id>
+    <title>Windows Template Library</title>
+    <updated>2001-08-01T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-08-01T07:00:00.000Z</published>
+    <summary>Aug 1, 2001 WTL is, spiritually at least, what the MFC team would've come up with had they started with the C++ language as it is today. It's an extension to ATL and available as a download from Microsoft. If you have trouble downloading WTL, see Petr Prikryl's "Easy Installation of WTL" post on the Code Project site. WTL is pretty much completely undocumented, but you can read about it in a 2-pa</summary>
+    <content type="html">&lt;h1>Windows Template Library&lt;/h1>
+&lt;span class="created">Aug 1, 2001&lt;/span>
+    &lt;ul>
+        &lt;li>
+            &lt;p align="left">
+                WTL is, spiritually at least, what the MFC team would've come up with had they 
+                started with the C++ language as it is today. It's an extension to ATL 
+                and
+                &lt;a href="http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/586/msdncompositedoc.xml">
+                available as a download from Microsoft&lt;/a>.&lt;/p>
+        &lt;li>
+            &lt;p align="left">
+                If you have trouble downloading WTL, see &lt;a href="mailto:prikrylp@skil.cz">Petr 
+                    Prikryl's&lt;/a> &lt;a href="http://www.codeproject.com/wtl/wtlinst.asp">"Easy 
+                    Installation of WTL"&lt;/a> post on the Code Project site.
+            &lt;/p>
+        &lt;li>
+            &lt;p align="left">
+                WTL is pretty much completely undocumented, but you can read 
+                about it in a 2-part series by &lt;a href="mailto:csells@sellsbrothers.com">
+                    Chris Sells&lt;/a>, &lt;a href="mailto:dharmas@microsoft.com">Dharma Shukla&lt;/a> and
+                &lt;a href="mailto:nenads@microsoft.com">Nenad Stefanovic&lt;/a> (chief engineer on 
+                WTL at Microsoft):
+                &lt;ol>
+                    &lt;li>
+                        &lt;p align="left">
+                            &lt;a href="/public/writing/WTLPart1.zip">WTL Makes UI Programming a 
+                                Joy, Part 1: The Basics&lt;/a>
+                        &lt;/p>
+                    &lt;li>
+                        &lt;p align="left">
+                            &lt;a href="/public/writing/WTLPart2.zip">WTL Makes UI Programming a 
+                                Joy Part 2: The Bells and Whistles&lt;/a>
+                        &lt;/p>
+                    &lt;/li>
+                &lt;/ol>
+        &lt;li>
+            &lt;p align="left">
+                You can also read about WTL on iDevResource: &lt;a href="http://www.idevresource.com/com/library/articles/wtlarch.asp">
+                    WTL Architecture&lt;/a> by Dr. Richard Grimes.&amp;nbsp;
+            &lt;/p>
+        &lt;li>
+            &lt;p align="left">
+                WTL is officially unsupported, but the &lt;a href="http://discuss.microsoft.com/archives/atl.html">
+                    ATL mailing list&lt;/a> has lots of coverage of WTL.&lt;/p>
+        &lt;li>
+            &lt;p align="left">
+                The CodeProject is gathering a set of WTL resources at &lt;a href="http://www.codeproject.com/wtl">
+                    www.codeproject.com/wtl&lt;/a>.
+            &lt;/p>
+        &lt;li>
+            &lt;p align="left">
+                Yahoo has &lt;a href="http://groups.yahoo.com/group/wtl">a WTL newsgroup&lt;/a>.
+            &lt;/p>
+        &lt;/li>
+        &lt;li>
+            &lt;p align="left">
+                &lt;a href="http://www.pallium.com/wtl">WTL Quick 
+                Reference&lt;/a> from &lt;a href="mailto:bressler@pallium.com">Bryan 
+                K. Ressler&lt;/a>&lt;/p>
+        &lt;/li>
+    &lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12440</id>
+    <title>VARIANT_BOOL Wrapper</title>
+    <updated>2001-07-31T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-31T07:00:00.000Z</published>
+    <summary>July 31, 2001 CComBool is a class to prevent the misuse of the VARIANT_BOOL type. VARIANT_BOOL is a problem because its legal values are -1 and 0 instead of 1 and 0, making converting back and forth between bool, BOOL and VARIANT_BOOL problematic. CComBool supports the constructors and operators needed to convert between the three C++ Windows Boolean types. It also supports operator&amp;amp; and CopyTo for common COM client and server usage. CComBool is available here. </summary>
+    <content type="html">&lt;h1>VARIANT_BOOL Wrapper&lt;/h1>
+&lt;span class="created">July 31, 2001&lt;/span>
+    &lt;p align="left">
+        CComBool is a class to prevent the misuse of the VARIANT_BOOL type. 
+        VARIANT_BOOL is a problem because its legal values are -1 and 0 instead of 1 
+        and 0, making converting back and forth between bool, BOOL and VARIANT_BOOL 
+        problematic. CComBool supports the constructors and operators needed to convert 
+        between the three C++ Windows Boolean types. It also supports operator&amp;amp; and 
+        CopyTo for common COM client and server usage. &lt;a href="/public/tools/combool.h">CComBool is 
+            available here&lt;/a>.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12441</id>
+    <title>ATL CRT Numbers</title>
+    <updated>2001-07-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-30T07:00:00.000Z</published>
+    <summary>July 30, 2001 The following table lists the various prices you pay for using the CRT and the default Win98 support in VC6. The builds were done with VC6, SP3, ATL COM in-proc server, no classes, no MFC, no merged p/s: Target CRT Win98 Size &lt;td width="25%" h</summary>
+    <content type="html">&lt;h1>ATL CRT Numbers&lt;/h1>
+&lt;span class="created">July 30, 2001&lt;/span>
+    &lt;p align="left">
+        The following table lists the various prices you pay for using the CRT and the 
+        default Win98 support in VC6. The builds were done with VC6, SP3, ATL COM 
+        in-proc server, no classes, no MFC, no merged p/s:
+    &lt;/p>
+    &lt;table border="1" width="100%" height="173">
+        &lt;tr>
+            &lt;td width="25%" bgcolor="#000080" height="19">
+                &lt;font color="#ffffff">&lt;strong>Target&lt;/strong>&lt;/font>
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#000080" height="19">
+                &lt;font color="#ffffff">&lt;strong>CRT&lt;/strong>&lt;/font>
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#000080" height="19">
+                &lt;font color="#ffffff">&lt;strong>Win98&lt;/strong>&lt;/font>
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#000080" height="19">
+                &lt;font color="#ffffff">&lt;strong>Size&lt;/strong>&lt;/font>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" height="19">
+                RelMinSize
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                _ATL_MIN_CRT
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                yes
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                24KB
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" height="19">
+                RelMinDepend
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                _ATL_MIN_CRT
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                yes
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                24KB
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                RelMinSize
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                _ATL_MIN_CRT
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                /opt:nowin98*
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                7KB
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                RelMinDepend
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                _ATL_MIN_CRT
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                /opt:nowin98
+            &lt;/td>
+            &lt;td width="25%" bgcolor="#c0c0c0" height="19">
+                10KB
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" height="19">
+                RelMinSize
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                MSVCRT
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                /opt:nowin98
+            &lt;/td>
+            &lt;td width="25%" height="19">
+                20KB
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td width="25%" height="17">
+                RelMinDepend
+            &lt;/td>
+            &lt;td width="25%" height="17">
+                MSVCRT
+            &lt;/td>
+            &lt;td width="25%" height="17">
+                /opt:nowin98
+            &lt;/td>
+            &lt;td width="25%" height="17">
+                22KB
+            &lt;/td>
+        &lt;/tr>
+    &lt;/table>
+    &lt;p>
+        &lt;i>*Note: /opt:nowin98 is a VC6 linker switch that says not to align binaries on a 
+            Win98-friendly boundary. /opt:nowin98 builds will still load and run under 
+            Win98 without a problem, but the loading time could be longer. Also, when 
+            images get above 24KB, the /opt:nowin98 seems not to much of an affect on the 
+            size of the image.&lt;/i>
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12442</id>
+    <title>VBLite</title>
+    <updated>2001-07-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-29T07:00:00.000Z</published>
+    <summary>July 29, 2001 Dharma Shukla and I wrote "Extending ATL3.0 Containment to Help You Write Real-World Containers" in the 12/99 issue of MSJ detailing how to add much-needed features to ATL's support for control containment. Dharma wrote the sample code that accompanies the piece and has already made improvements to the code based on feedback. He's maintaining the history and bits here. </summary>
+    <content type="html">&lt;h1>VBLite&lt;/h1>
+&lt;span class="created">July 29, 2001&lt;/span>
+    &lt;p align="left">
+        &lt;a href="http://members.tripod.com/IUnknwn/">Dharma Shukla&lt;/a> and I wrote &lt;a href="http://www.microsoft.com/msj/defaulttop.asp?page=/msj/1299/containment/containmenttop.htm">
+            "Extending ATL3.0 Containment to Help You Write Real-World Containers"&lt;/a> in 
+        the 12/99 issue of MSJ detailing how to add much-needed features to ATL's 
+        support for control containment. Dharma wrote the sample code that accompanies 
+        the piece and has already made improvements to the code based on feedback. He's 
+        maintaining the history and bits &lt;a href="http://members.tripod.com/IUnknwn/controls.htm">
+            here&lt;/a>.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12443</id>
+    <title>Attila</title>
+    <updated>2001-07-28T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-28T07:00:00.000Z</published>
+    <summary>Attila stands for "ATL for Applications." Attila is a set of extensions built on top of ATL to provide application-level services in the same flavor as MFC. Towards that end, Attila uses a lot of the same notions as ATL, e.g. heavy use of templates, static binding and reliance on the compiler and the linker doing their job.&amp;nbsp; Also, in the flavor of ATL, Attila is under-documented and requires a lot of user investment to make use of it. However, once you do, we think you'll find the flexibility and effic...</summary>
+    <content type="html">&lt;h1>Attila&lt;/h1>
+    &lt;p>
+        Attila stands for "ATL for Applications." Attila is a set of extensions built 
+        on top of ATL to provide application-level services in the same flavor as MFC. 
+        Towards that end, Attila uses a lot of the same notions as ATL, e.g. heavy use 
+        of templates, static binding and reliance on the compiler and the linker doing 
+        their job.&amp;nbsp; Also, in the flavor of ATL, Attila is under-documented and 
+        requires a lot of user investment to make use of it. However, once you do, we 
+        think you'll find the flexibility and efficiency worth it. If you don't, you 
+        haven't lost much, 'cuz Attila is free. &lt;a href="/12652">Enjoy&lt;/a>.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12444</id>
+    <title>Simple Object II ATL ObjectWizard Extension</title>
+    <updated>2001-07-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-27T07:00:00.000Z</published>
+    <summary>July 27, 2001 The Simple Object II ATL ObjectWizard Extension (whew -- I've got to come up with a shorter name...) provides the following features: Support for [oleautomation] interfaces. Support for the Neutral-threaded apartment. Support for IDispatch-based interfaces other than duals. Better support for disabling features that do not make sense together, e.g. FTM + ThreadingModel=Apartment. Updated pop-up help. Originally, SimpleObject2 was built to do away with the one benefit of IDispatchImpl over IDel...</summary>
+    <content type="html">&lt;h1>Simple Object II ATL ObjectWizard Extension&lt;/h1>
+&lt;span class="created">July 27, 2001&lt;/span>
+    &lt;p>
+        The Simple Object II ATL ObjectWizard Extension (whew -- I've got to come up 
+        with a shorter name...) provides the following features:
+    &lt;/p>
+    &lt;ul>
+        &lt;li>
+        Support for [oleautomation] interfaces.
+        &lt;li>
+        Support for the Neutral-threaded apartment.
+        &lt;li>
+        Support for IDispatch-based interfaces other than duals.
+        &lt;li>
+        Better support for disabling features that do not make sense together, e.g. FTM 
+        + ThreadingModel=Apartment.
+        &lt;li>
+            Updated pop-up help.&lt;/li>
+    &lt;/ul>
+    &lt;p>
+        Originally, SimpleObject2 was built to do away with the one benefit of 
+        IDispatchImpl over IDelegatingDispImpl -- wizard support. As do most 
+        things developed under the greedy eye of my colleagues, it grew 
+        to support a few more features than that. It's available for download &lt;a href="/public/tools/SimpleObject2Setup.exe">
+            here&lt;/a>. Enjoy.&amp;nbsp;
+    &lt;/p></content>
+  </entry>
+</feed>

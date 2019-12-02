@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed18.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed17.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed19.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed18.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2161</id>
+    <title>"So easy to read, it should be illegal"</title>
+    <updated>2008-01-04T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2008-01-04T08:00:00.000Z</published>
+    <summary>Thanks very much "ET" on the Canadian Amazon. I can think of no higher compliment. : )</summary>
+    <content type="html">&lt;h1>"So easy to read, it should be illegal"&lt;/h1>
+Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A href="http://www.amazon.ca/Programming-Wpf-Building-Presentation-Foundation/dp/customer-reviews/0596510373/ref=cm_cr_dp_all_summary/701-8494570-8437158?ie=UTF8&amp;amp;customer-reviews.sort%5Fby=-SubmissionDate&amp;amp;showViewpoints=1&amp;amp;customer-reviews.start=1#customerReviews">compliment&lt;/A>. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2160</id>
+    <title>WHS Continues to Rock My World</title>
+    <updated>2008-01-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2008-01-03T08:00:00.000Z</published>
+    <summary>In the same way that.NET manages memory for you, Windows Home Server manages storage. All you have to do is tell it the names of shared folders you want it to have and which computers to back up and it will spread it and duplicate it across however many HDDs you have, without you worrying about which actual HDD your "Music" folder is on or where your wife's computer is being backed up to. Plus, if you have more than one HDD and you have "Enable Folder Duplication" enabled for a shared folder, the data in th...</summary>
+    <content type="html">&lt;h1>WHS Continues to Rock My World&lt;/h1>
+&lt;P>In the same way that .NET manages memory for you, Windows Home Server manages storage. All you have to do is tell it the names of shared folders you want it to have and which computers to back up and it will spread it and duplicate it across however many HDDs you have, without you worrying about which actual HDD your "Music" folder is on or where your wife's computer is being backed up to.&lt;/P>
+&lt;P>Plus, if you have more than one HDD and you have "Enable Folder Duplication" enabled for a shared folder, the data in that folder will be shared across multiple HDDs, effectively giving you the benefits of RAID without the config muss and fuss. (It's my understanding that this cross-HDD data duplication happens automatically for backed up data, but I don't know how to confirm that empirically without risking the data. &amp;nbsp;: )&lt;/P>
+&lt;P>Because a 750GB SATA HDD was $156 at newegg.com, it was a no-brainer to pick one up. It arrived today and it was mean-time of 10 minutes between tearing the tape off the box and the new HDD being used for data storage on my WHS. I didn't even have to turn off the HP MediaServer machine!&lt;/P>
+&lt;P>All I did was pull an empty drawer forward, place the new HDD into it and push the drawer closed. Seating the drawer also seated both the data and power connections on the HDD itself, no wires or plastic connectors needed. I want all HDDs to work this way!&lt;/P>
+&lt;P>10 seconds later, the little light went on that said my new HDD was ready to be added as storage to my WHS, which only took right-clicking in the WHS console (already updated to display the new HDD) and adding it as storage. Another 10 seconds and some additional settings changes to enable folder duplication on my shared folders and the new HDD is in active service, providing redundant storage for all the data I care about in the house.&lt;/P>
+&lt;P>Really, the only problem I have now is that I only have enough data to fill 14% of the 1.4TB of new storage space. Maybe we need a Windows Friends &amp;amp; Family Server and I could rent out the extra space? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2158</id>
+    <title>Christmas Delight</title>
+    <updated>2007-12-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-12-27T08:00:00.000Z</published>
+    <summary>Not all was gloom and blackness this XMas. Among the new things in our lives, several of them rocked*: Our new HP MediaServer running Windows Home Server is awesome. As a Microsoft employee, I got a killer deal on this server appliance, but knowing what I now know, I'd have paid full price -- a whopping $550. In fact, I recently sunk another $200 into it for a memory upgrade and a 750GB HD, bringing it up to 1.25TB. WHS keeps all the computers in my house automatically backed up, keeps shared folders duplic...</summary>
+    <content type="html">&lt;h1>Christmas Delight&lt;/h1>
+&lt;P>Not all was &lt;A href="/2157">gloom and blackness&lt;/A> this XMas. Among the new things in our lives, several of them rocked*:&lt;/P>
+&lt;UL>
+&lt;LI>Our new &lt;A href="http://www.bhphotovideo.com/bnh/controller/home?A=ShowProduct&amp;amp;is=REG&amp;amp;Q=&amp;amp;O=&amp;amp;sku=513048">HP MediaServer running Windows Home Server&lt;/A> is awesome. As a Microsoft employee, I got a killer deal on this server appliance, but knowing what I now know, I'd have paid full price -- a whopping $550. In fact, I recently sunk another $200 into it for a memory upgrade and a 750GB HD, bringing it up to 1.25TB.&lt;BR>&lt;BR>WHS keeps all the computers in my house automatically backed up, keeps shared folders duplicated across multiple HDs which can be added via the slide-out drawers in the front of the unit (no muss, no fuss) and serves it all up over the web securely. Plus, it's platform for add-ins, so, for example,&amp;nbsp;if I want offsite storage of everything on the WHS box in case of catastrophe, I can get &lt;A href="http://www.keepvault.com/download.htm">KeepValue for a flat $100 year&lt;/A>.&lt;P />&lt;/LI>
+&lt;LI>My youngest's new &lt;A href="http://zune.net">Zune 2&lt;/A> is the best MP3 player I've ever touched. We got the 4GB version, which is tiny, but still comes with amazing video playback, an FM radio and very intuitive controls. (I know I'm unusual in this regard, but when I first touched the iPod, I had no idea how to make it work and the manual didn't help.)&lt;BR>&lt;BR>The client software is also a joy to use. The look and feel is unique and simple. Both the client and Zune UIs make me hope that those guys actually are building a phone. I want it.&lt;BR>&lt;BR>Plus, we got a pair of &lt;A href="http://www.zunescene.com/altec-lansing-m604-zune-speakers/">the Altec-Lansing Zune speaker dock&lt;/A> from &lt;A href="http://woot.com">woot.com&lt;/A> for $40 and they sound great, worked instantly and come with the cutest remote control. Very nice package.&lt;P />&lt;/LI>
+&lt;LI>I can't wait to put my new portable &lt;A href="http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10051&amp;amp;langId=-1&amp;amp;catalogId=10053&amp;amp;productId=100016291&amp;amp;N=10000003+10401016&amp;amp;marketID=401&amp;amp;locStoreNum=8125">Bosch 10" Table Saw with Gravity Rise Stand&lt;/A>&amp;nbsp;to use (thanks, Babe!). I've been remodeling my homes for years, doing as much of it myself as I have time for, but was missing a saw to do straight rips. I'm all set now!&lt;P />&lt;/LI>
+&lt;LI>My brother-in-law got &lt;A href="http://www.ea.com/rockband/">Rock Band&lt;/A> for his family and it *rocks*, especially the tone feedback on the microphone. (I love to sing, which you'll know if you're ever trapped in a car with me and &lt;A href="http://www.youtube.com/watch?v=IOyEw9bT8yQ">Bohemian Rhapsody&lt;/A> comes on the radio : )&lt;P />&lt;/LI>
+&lt;LI>My youngest also got a pair of the &lt;A href="http://www.spamalotshop.com/krs.htm">Killer Rabbit Slippers&lt;/A>, which &lt;A href="http://simplegeek.com">Chris&lt;/A> picked up for me when he and his wife went to &lt;A href="http://www.montypythonsspamalot.com/">Spamalot&lt;/A>. I'd covet my son's new slippers except I love the &lt;A href="http://disney.com">Goofy loafer Slippers&lt;/A> I stole from him years ago. : )&lt;/LI>&lt;/UL>
+&lt;P>What did Santa bring you this year? Anything you'd recommend or want to steer folks away from?&lt;/P>
+&lt;P>*Yes, I know I'm a Microsoft employee and biased. Feel free to take what I say with as much salt as your heart can take. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2159</id>
+    <title>Fingerling Potato Baby Jesus</title>
+    <updated>2007-12-27T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-12-27T08:00:00.000Z</published>
+    <summary>This is what happens when my relatives get together and the wine flows freely...&amp;nbsp;: )</summary>
+    <content type="html">&lt;h1>Fingerling Potato Baby Jesus&lt;/h1>
+&lt;A href="http://cgi.ebay.com/Fingerling-Potato-Baby-Jesus_W0QQitemZ230206884496QQihZ013QQcategoryZ13771QQssPageNameZWDVWQQrdZ1QQcmdZViewItem">This is what happens&lt;/A> when my relatives get together and the wine flows freely...&amp;nbsp;: )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2157</id>
+    <title>The Sidekick Phone Sucks</title>
+    <updated>2007-12-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-12-26T08:00:00.000Z</published>
+    <summary>I brought my son a Sidekick Slide cell phone for XMas this year and I've come to the conclusion that it sucks, or at least the way T-Mobile sells it sucks. When I purchased it, the T-Mobile salesman offered me unlimited data and text messages for an additional $20/month on that line. The phone was an upgrade on our existing family plan, which already has 3000 minutes/month and unlimited text messaging and I don't really need my son surfing the interweb during class, so I declined. He never mentioned that th...</summary>
+    <content type="html">&lt;h1>The Sidekick Phone Sucks&lt;/h1>
+&lt;P>I brought my son a &lt;A href="http://www.t-mobile.com/shop/phones/Detail.aspx?device=11e9c7d4-94d1-4d79-bc4b-ec2cc238a4a9">Sidekick Slide cell phone&lt;/A> for XMas this year and I've come to the conclusion that it sucks, or at least the way T-Mobile sells it sucks.&lt;/P>
+&lt;P>When I purchased it, the T-Mobile salesman offered me unlimited data and text messages for an additional $20/month on that line. The phone was an upgrade on our existing family plan, which already has 3000 minutes/month and unlimited text messaging and I don't really need my son surfing the interweb during class, so I declined. He never mentioned that the phone wouldn't actually work without this extra money, or I never would've purchased it.&lt;/P>
+&lt;P>Then, XMas morning rolls around, my son is super-excited and plugs his SIM card into his new phone, turns it on and is greeted with the activation screen. This lasted for hours. Eventually, he found the magic key combination and was able to use the phone, but when it crashed, it lost all his contacts and pictures. Plus, the battery life sucked, lasting maybe four hours between charges. The boy swears it's because it's still trying to activate in the background.&lt;/P>
+&lt;P>Finally, we called T-Mobile "customer care." If I wanted to use the "full capabilities" of the phone, like save f-ing contacts, we pay the $20/month. The contacts are saved "on the network" *only*. That sucks. This was a $200 phone subsidized with a 2-year extension to the contract and it can't store f-ing phone&amp;nbsp;numbers?!?&lt;/P>
+&lt;P>I was about ready to cram the phone back up the T-Mobile salesman's.... well, I would've returned it, but the boy was so enamored, he committed to ponying up the dough from his allowance.&lt;/P>
+&lt;P>And I have a sneaking suspicion that even though we now have the "Sidekick feature" package, that the battery life is *still* going to suck... Keep your fingers crossed.&lt;/P>
+&lt;p>P.S. I can't tell you how much my son loves this phone...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2156</id>
+    <title>Microsoft needs you to build Emacs.Net</title>
+    <updated>2007-12-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2007-12-26T08:00:00.000Z</published>
+    <summary>Interested? Drop Doug a line. </summary>
+    <content type="html">&lt;h1>Microsoft needs you to build Emacs.Net&lt;/h1>
+Interested? &lt;A href="http://www.douglasp.com/blog/2007/12/27/EmacsNet.aspx">Drop Doug a line.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2155</id>
+    <title>Posting from my OLPC PC</title>
+    <updated>2007-12-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-12-23T08:00:00.000Z</published>
+    <summary>The form factor is cool, the OS is fine (although I'd prefer Windows) but the chicklet keyboard is worthless. I can literally type faster on my t-mobile dash smartphone. Anyone want an OLPC laptop PC for $200 + shipping? </summary>
+    <content type="html">&lt;h1>Posting from my OLPC PC&lt;/h1>
+The form factor is cool, the OS is fine (although I'd prefer Windows) but the chicklet keyboard is worthless. I can literally type faster on my t-mobile dash smartphone. Anyone want an OLPC laptop PC for $200 + shipping? </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2154</id>
+    <title>XBOX 360 For Pennies a Day!</title>
+    <updated>2007-12-16T08:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2007-12-16T08:00:00.000Z</published>
+    <summary>In 2006, I purchased an XBOX 360 bundle from CostCo for about $550, including the console, a game and two wireless controllers. In April of 2007, my 360 caught the "red ring of death" ("Ring around the rosy, pockets full of posies, ashes, ashes, we all fall down!"), at which point I brought it back to CostCo and exchanged it for the bundle they had available at the time, which was $475. They refunded me the difference! Net return: $75 in one year on an initial investment of $550. Earlier this month, my new ...</summary>
+    <content type="html">&lt;h1>XBOX 360 For Pennies a Day!&lt;/h1>
+&lt;P>In 2006, I purchased an XBOX 360 bundle from CostCo for about $550, including the console, a game and two wireless controllers.&lt;/P>
+&lt;P>In April of 2007, my 360 caught the "red ring of death" ("Ring around the rosy, pockets full of posies, ashes, ashes, we all fall down!"), at which point I brought it back to CostCo and exchanged it for the bundle they had available at the time, which was $475. They refunded me the difference!&lt;/P>
+&lt;P>Net return: $75 in one year on an initial investment of $550.&lt;/P>
+&lt;P>Earlier this month, my new 360 also caught the plague and I returned it again to CostCo, where the holiday bundle now costs $400.&lt;/P>
+&lt;P>Net return: $75 in 7 months on an initial investment of $475 in 58% of the time from the last return of this amount.&lt;/P>
+&lt;P>If this continues, at this rate I'll have made my original investment back in another 9 months, at which point I'll have had the use of an XBOX 360 for 28 months for the opportunity cost of the original $550, which is approximately $50 at 7% over two years after taxes, $1.80/month or 6 cents/day.&lt;/P>
+&lt;P>What a deal! : )&lt;/P>
+&lt;P>P.S. The moral of the story: buy your electronics at CostCo.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2153</id>
+    <title>Conversing In Italian over the Interweb</title>
+    <updated>2007-12-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-12-12T08:00:00.000Z</published>
+    <summary>Yesterday I got an email from a fellow named Corrado Cavalli to whom I sent a free copy of Programming WPF. When he received it and read through it, he posted a note on his web site, which of course, I went to read. Now, Corrado lives in San Pellegrino Terme, Bergamo Italy, so&amp;nbsp;his blog is in Italian. That didn't stop me from reading it in English using Google's language translation page. Then, just to be "cheeky" as my Australian friends say, I composed simple responses in English and translated them t...</summary>
+    <content type="html">&lt;h1>Conversing In Italian over the Interweb&lt;/h1>
+&lt;P>Yesterday I got an email from a fellow named Corrado Cavalli to whom I sent a free copy of &lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Programming WPF&lt;/A>. When he received it and read through it, he posted &lt;A href="http://blogs.ugidotnet.org/corrado/archive/2007/12/11/90228.aspx#feedback">a note on his web site&lt;/A>, which of course, I went to read.&lt;/P>
+&lt;P>Now, Corrado lives in San Pellegrino Terme, Bergamo Italy, so&amp;nbsp;his blog is in Italian. That didn't stop me from reading it in English using &lt;A href="http://translate.google.com/translate_t">Google's language translation page&lt;/A>.&lt;/P>
+&lt;P>Then, just to be "cheeky" as my Australian friends say, I composed simple responses in English and translated them to Italian before posting them, you know, pretending I'm smart and international and such like. : )&lt;/P>
+&lt;P>To be somewhat confident I wasn't asking him for improper knowledge of his dog, I did the Italian to English translation on the translated text and rearranged my English it bit when it wasn't quite right.&lt;/P>
+&lt;P>All in all, I'd say it worked out pretty well, although I did get some flowers from his dog the other day...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2152</id>
+    <title>Here Comes Another Bubble sttto some Billy Joel song...</title>
+    <updated>2007-12-11T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-12-11T08:00:00.000Z</published>
+    <summary>This is hilarious! </summary>
+    <content type="html">&lt;h1>Here Comes Another Bubble sttto some Billy Joel song...&lt;/h1>
+&lt;A href="http://www.richterscales.com/assets/audio/rsrecordings/HereComesAnotherBubble.mp3">This is hilarious!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2151</id>
+    <title>Win a Trip to NYC + WPF Dream Machine with Your WPF Application Stylings!</title>
+    <updated>2007-12-10T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-12-10T08:00:00.000Z</published>
+    <summary>The nice folks at Lab 49 are throwing a contest for WPF programmers. The goal: take the financial data they provide and build a kick-ass WPF app around it. The grand prize: a trip for two to the MS Financial Services Developer Conference in NYC the "Ultimate WPF Developer's Machine" an XBox 360 Elite (plus games!) a Zune a profile in WindowsFS magazine a copy of Expression Studio, Visual Studio 2008 and Windows Vista Ultimate a WPF Team signed t-shirt &amp;lt;whew&amp;gt;! Final submission is 2/29/08, but there are...</summary>
+    <content type="html">&lt;h1>Win a Trip to NYC + WPF Dream Machine with Your WPF Application Stylings!&lt;/h1>
+&lt;P>The nice folks at Lab 49 are throwing &lt;A href="http://wpfcontest.lab49.com/index.aspx">a contest for WPF programmers&lt;/A>.&lt;/P>
+&lt;P>The goal: take the financial data they provide and build a kick-ass WPF app around it.&lt;/P>
+&lt;P>The grand prize:&lt;/P>
+&lt;UL>
+&lt;LI>a trip for two to the MS Financial Services Developer Conference in NYC&lt;/LI>
+&lt;LI>the "Ultimate WPF Developer's Machine"&lt;/LI>
+&lt;LI>an XBox 360 Elite (plus games!)&lt;/LI>
+&lt;LI>a Zune&lt;/LI>
+&lt;LI>a profile in WindowsFS magazine&lt;/LI>
+&lt;LI>a copy of Expression Studio, Visual Studio 2008 and Windows Vista Ultimate&lt;/LI>
+&lt;LI>a WPF Team signed t-shirt&lt;/LI>
+&lt;LI>&amp;lt;whew&amp;gt;!&lt;/LI>&lt;/UL>
+&lt;P>Final submission is 2/29/08, but there are other prizes for early submission (by 2/14/08).&lt;/P>
+&lt;P>The judges (Charles Petzold, Rob Relyea, Josh Smith and yours truly)&amp;nbsp;will be looking for "your use of WPF, innovative display of financial data, the quality of your code, performance, appearance, and overall functionality."&lt;/P>
+&lt;P>I'm a bit of a financial nut, so I'm very much looking forward to the results of this contest. Dazzle us!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2150</id>
+    <title>Give Them a Fish or Teach 'em To Fish?</title>
+    <updated>2007-12-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-12-10T08:00:00.000Z</published>
+    <summary>Dvorak asks this about One Laptop Per Child : "Does anyone but me see the OLPC XO-1 as an insulting 'let them eat cake' sort of message to the world's poor?" I can see his point, but I don't see how decades of giving food and support to the 3rd world has helped them to become part of the 1st world. Maybe access to the world's information so that they can educate themselves and learn how to solve their own problems might work a little better. It's worth a try at least. </summary>
+    <content type="html">&lt;h1>Give Them a Fish or Teach 'em To Fish?&lt;/h1>
+&lt;P>&lt;A href="http://www.pcmag.com/article2/0,2704,2227850,00.asp">Dvorak asks this about One Laptop Per Child&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Does anyone but me see the OLPC XO-1 as an insulting 'let them eat cake' sort of message to the world's poor?"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I can see his point, but I don't see how decades of giving food and support to the 3rd world has helped them to become part of the 1st world. Maybe access to the world's information so that they can educate themselves and learn how to solve their own problems might work a little better. It's worth a try at least.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2149</id>
+    <title>Mark Your Calendars! PDC08 Announced</title>
+    <updated>2007-12-06T08:00:00.000Z</updated>
+    <published>2007-12-06T08:00:00.000Z</published>
+    <summary>Save the Date! Announcing PDC08 October 27&amp;#8211;30, 2008 Pre-conference October 26, 2008 Los Angeles, California </summary>
+    <content type="html">&lt;h1>Mark Your Calendars! PDC08 Announced&lt;/h1>
+&lt;H2>Save the Date!&lt;/H2>
+&lt;H1>&lt;A href="http://msdn2.microsoft.com/en-us/events/bb288534.aspx">Announcing PDC08&lt;/A>&lt;/H1>
+&lt;H3>October 27&amp;#8211;30, 2008&lt;BR>Pre-conference October 26, 2008&lt;BR>Los Angeles, California&lt;/H3></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2148</id>
+    <title>12 ways to de-commercialize the holidays</title>
+    <updated>2007-12-03T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2007-12-03T08:00:00.000Z</published>
+    <summary>From 12 ways to de-commercialize the holidays : Yankee Swap Secret Santa Un-Secret Santa Re-gifting Pool your resources For children only Donate in others' names Limit spending Families helping others Plan family outings Let the kids rule for one day Take a trip On the "Let the kids rule for one day" front, that's what we do each year for each kid's birthday. They look forward to that part of it more than any other. </summary>
+    <content type="html">&lt;h1>12 ways to de-commercialize the holidays&lt;/h1>
+&lt;P>From &lt;A href="http://www.bankrate.com/cnbc/news/pf/thrifty-gifting_holiday_commercialism_a1.asp">12 ways to de-commercialize the holidays&lt;/A>:&lt;/P>
+&lt;OL>
+&lt;LI>Yankee Swap&lt;/LI>
+&lt;LI>Secret Santa&lt;/LI>
+&lt;LI>Un-Secret Santa&lt;/LI>
+&lt;LI>Re-gifting&lt;/LI>
+&lt;LI>Pool your resources&lt;/LI>
+&lt;LI>For children only&lt;/LI>
+&lt;LI>Donate in others' names&lt;/LI>
+&lt;LI>Limit spending&lt;/LI>
+&lt;LI>Families helping others&lt;/LI>
+&lt;LI>Plan family outings&lt;/LI>
+&lt;LI>Let the kids rule for one day&lt;/LI>
+&lt;LI>Take a trip&lt;/LI>&lt;/OL>
+&lt;P>On the "Let the kids rule for one day" front, that's what we do each year for each kid's birthday. They look forward to that part of it more than any other.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2147</id>
+    <title>StayAtHomeServer.com!</title>
+    <updated>2007-12-03T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-12-03T08:00:00.000Z</published>
+    <summary>From Mommy, Why is There a Server in the House? : "When a mommy and a daddy love each other very much, the daddy wants to give the mommy a special gift. "So he buys a 'stay-at-home' server." I wish more of the rest of Microsoft had this kind of humor when dealing with the world! I thought I was going to wet myself... </summary>
+    <content type="html">&lt;h1>StayAtHomeServer.com!&lt;/h1>
+&lt;P>From &lt;A href="http://www.stayathomeserver.com/book.aspx">Mommy, Why is There a Server in the House?&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"When a mommy and a daddy love each other very much, the daddy wants to give the mommy a special gift.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"So he buys a 'stay-at-home' server."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I wish more of the rest of Microsoft had this kind of humor when dealing with the world! I thought I was going to wet myself...&lt;/P></content>
+  </entry>
+</feed>

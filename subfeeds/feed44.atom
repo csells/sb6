@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed44.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed43.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed45.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed44.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1788</id>
+    <title>I am a Gauntlet Adventurer</title>
+    <updated>2005-05-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-26T07:00:00.000Z</published>
+    <summary>I am a Gauntlet Adventurer. I strive to improve my living conditions by hoarding gold, food, and sometimes keys and potions. I love adventure, fighting, and particularly winning - especially when there's a prize at stake. I occasionally get lost inside buildings and can't find the exit. I need food badly. What Video Game Character Are You? &amp;nbsp; BTW, wander around building 10 one time and you'll know I'm not kidding... : ) </summary>
+    <content type="html">&lt;h1>I am a Gauntlet Adventurer&lt;/h1>
+&lt;TABLE border=0>
+&lt;TBODY>
+&lt;TR>
+&lt;TD>&lt;A href="http://quiz.ravenblack.net/videogame.pl">&lt;IMG height=80 alt="What Video Game Character Are You? I am a Gauntlet Adventurer." src="http://quiz.ravenblack.net/videogame/14.png" width=150 align=left border=0>&lt;/A>I am &lt;B>a Gauntlet Adventurer&lt;/B>.&lt;BR>&lt;BR>I strive to improve my living conditions by hoarding gold, food, and sometimes keys and potions. I love adventure, fighting, and particularly winning - especially when there's a prize at stake. I occasionally get lost inside buildings and can't find the exit. I need food badly. &lt;A href="http://quiz.ravenblack.net/videogame.pl">What Video Game Character Are You?&lt;/A> &lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>
+&lt;P>&amp;nbsp;&lt;/P>
+&lt;P>BTW, wander around building 10 one time and you'll know I'm not kidding... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1786</id>
+    <title>C++ is dead, long live C++!</title>
+    <updated>2005-05-25T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-05-25T07:00:00.000Z</published>
+    <summary>Congrats to the VC++ 2005 team for a write-up like this! "The truth is that this new development in C++ seriously undermines the justification for C# as a language. C++ programmers yet to learn C# simply don't need to now. What's the point? They will find the full productivity of Visual Studio 2005 right there at their fingertips supporting the language they know and love. Why should they move to something that is slower and less feature rich?" He goes on with choice words about those of us that use C# as e...</summary>
+    <content type="html">&lt;h1>C++ is dead, long live C++!&lt;/h1>
+&lt;P>Congrats to the VC++ 2005 team for &lt;A href="http://grumpyoldprogrammer.myblogsite.com/blog/_archives/2005/5/12/834859.html">a write-up like this&lt;/A>!&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The truth is that this new development in C++ seriously undermines the justification for C# as a language. C++ programmers yet to learn C# simply don't need to now. What's the point? They will find the full productivity of Visual Studio 2005 right there at their fingertips supporting the language they know and love. Why should they move to something that is slower and less feature rich?"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>He goes on with choice words about those of us that use C# as either "poor folk who have already invested time in it," "Java types moving to .NET and smart enough to avoid J#" or "dev-celebs and style gurus will realize that it&amp;#8217;s in their interest to keep pushing the C# fashion wagon." I don't know which camp I fall into, but I love the phrase "dev-celeb!" : )&lt;/P>
+&lt;P>I remember being in a conference room many years ago with about 10 members of the VC++ team on one side of the table and me on the other with them drilling me for about an hour on what would it take for me to love C++ and give up C#. I asked for the power and performance of C++ and the simplicity of C#. According to &lt;A href="http://grumpyoldprogrammer.myblogsite.com/blog/_archives/2005/5/12/834859.html">The Grumpy Programmer&lt;/A>, they've not only delivered on this promise, but&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"the painful, balls-on-the-table truth is that C# has lost its point."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Luckily, no one asked me to put any of my body parts on the conference table that day, but you gotta love a guy that can turn a phrase like that. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1787</id>
+    <title>XBox 360 Game Videos</title>
+    <updated>2005-05-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-25T07:00:00.000Z</published>
+    <summary>I'm sure you've heard the news and read the specs and you might even have seen the celebrity-ridden MTV special. Now, see what it'll really be about.</summary>
+    <content type="html">&lt;h1>XBox 360 Game Videos&lt;/h1>
+I'm sure you've heard the news and read the specs and you might even have seen the celebrity-ridden MTV special. Now, see &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=abde1e02-b529-469e-ae6a-7417fcde9e12">what it'll really be about&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1784</id>
+    <title>Story-Driven Development</title>
+    <updated>2005-05-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-24T07:00:00.000Z</published>
+    <summary>I'm a big believer in the "write the story first" method of software engineering. Like "client-first development" or the increasingly popular "test-driven development," "story-driven development" is about writing what we want from our software before we write the software. This is different from "spec-driven development" or even "design-driven development" in that I mean actually writing the equivalent of one or more MSDN Magazine articles that you'd like to publish when your product is complete. I can't te...</summary>
+    <content type="html">&lt;h1>Story-Driven Development&lt;/h1>
+&lt;P>I'm a big believer in the "write the story first" method of software engineering. Like "client-first development" or the increasingly popular "test-driven development," "story-driven development" is about writing what we want from our software before we write the software. This is different from "spec-driven development" or even "design-driven development" in that I mean actually writing the equivalent of one or more MSDN Magazine articles that you'd like to publish when your product is complete. I can't tell you how many issues I'm able to work through using this technique and it's highly recommended if you think in prose. Of course, as the product evolves, so do the articles until the perfect storm happens when the product matches the article and vice versa (modulo bugs, this typically indicates beta 1).&lt;/P>
+&lt;P>Today, after 5 months of marination, I awoke with the "Intro to Our Stuff" article in my head and I've started outlining it. This one is really "Intro to Our Stuff for Developers" piece, which corresponding "Intro to Our Stuff for IT Pros" and "Intro to Our Stuff for Business Analysts" pieces that needs to happen, too.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1785</id>
+    <title>Frequent Flier Miles Suck (Airlines Suck)</title>
+    <updated>2005-05-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-24T07:00:00.000Z</published>
+    <summary>I just called to cash in my Alaska Airlines miles on it's partner airline Northwest for a trip 5 weeks in advance and they told me that they don't have any seats available. I know is complete bullshit, because when I search for the flights on the web directly, they're happy to sell me a seat for the specific day I want. What they mean is, "Oh no, sir, people actually want to pay to fly that day; we couldn't possible honor our frequent flier commitments to award you travel on that day!" Blackout dates, "save...</summary>
+    <content type="html">&lt;h1>Frequent Flier Miles Suck (Airlines Suck)&lt;/h1>
+&lt;P>I just called to cash in my Alaska Airlines miles on it's partner airline Northwest for a trip &lt;STRONG>&lt;EM>5&lt;/EM>&lt;/STRONG> weeks in advance and they told me that they don't have any seats available. I know is complete bullshit, because when I search for the flights on the web directly, they're happy to sell me a seat for the specific day I want.&lt;/P>
+&lt;P>What they mean is, "Oh no, sir, people actually want to pay to fly that day; we couldn't possible honor our frequent flier commitments to award you travel on &lt;EM>&lt;STRONG>that&lt;/STRONG>&lt;/EM> day!"&lt;/P>
+&lt;P>Blackout dates, "saver seats," coach seats built for pigmes... the whole airline industry sucks and you can tell them I said so!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1783</id>
+    <title>Cat Swimmer</title>
+    <updated>2005-05-24T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-24T07:00:00.000Z</published>
+    <summary>I was searching with the boys this morning and found this: I just thought I'd share. : ) </summary>
+    <content type="html">&lt;h1>Cat Swimmer&lt;/h1>
+&lt;P>I was searching with the boys this morning and found this:&lt;/P>
+&lt;P>&lt;IMG src="http://www.tricks4u.com/images/ART/ANIMAL/cat%20swimmer.jpg">&lt;/P>
+&lt;P>I just thought I'd share. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1782</id>
+    <title>Episode III: ROTS doesn't suck and other opinions</title>
+    <updated>2005-05-23T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-23T07:00:00.000Z</published>
+    <summary>My sons and I (and my 11-year old boy's "date!!!") all enjoyed Star Wars Episode III: Revenge of the Sith. I know it didn't have much in the way of decent dialog or acting, but when compared to the other 5 in the series (especially episodes I and II), it rocked. I've only seen it once, but right now it's tied for first in my mind with A New Hope (I know some snobs like The Empire Strikes Back best, but I still love the feel of the first one). Also, I liked Unleashed a great deal. Not only did I enjoy the fi...</summary>
+    <content type="html">&lt;h1>Episode III: ROTS doesn't suck and other opinions&lt;/h1>
+&lt;P>My sons and I (and my 11-year old boy's "date!!!") all enjoyed &lt;A href="http://www.imdb.com/title/tt0121766/">Star Wars Episode III: Revenge of the Sith&lt;/A>. I know it didn't have much in the way of decent dialog or acting, but when compared to the other 5 in the series (especially episodes I and II), it rocked. I've only seen it once, but right now it's tied for first in my mind with &lt;A href="http://www.imdb.com/title/tt0076759/">A New Hope&lt;/A> (I know some snobs like &lt;A href="http://www.imdb.com/title/tt0080684/">The Empire Strikes Back&lt;/A> best, but I still love the feel of the first one).&lt;/P>
+&lt;P>Also, I liked &lt;A href="http://www.imdb.com/title/tt0342258/">Unleashed&lt;/A> a great deal. Not only did I enjoy the fighting, but I really enjoyed the relationship between Danny and his new family.&lt;/P>
+&lt;P>On the other hand, in spite of being a huge Frank Miller fan in general and a &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/1878574590/chrissells/">Sin City comic book&lt;/A> fan specifically, I couldn't stand &lt;A href="http://www.imdb.com/title/tt0401792/">that silly movie&lt;/A>. I wanted to see a movie version, not the comic book version projected onto the screen!&lt;/P>
+&lt;P>In other news, I'm still waiting for a sequel to &lt;A href="http://www.imdb.com/title/tt0133093/">The Matrix&lt;/A>.&amp;nbsp;I don't count &lt;A href="http://www.imdb.com/title/tt0234215/">this fan-boy movie&lt;/A> or &lt;A href="http://www.imdb.com/title/tt0242653/">this one&lt;/A>. Anyone got a release date to a follow on worth the time to watch?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1781</id>
+    <title>Avalon + Indigo Beta 1 Release Candidate</title>
+    <updated>2005-05-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-05-23T07:00:00.000Z</published>
+    <summary>Today Microsoft has published the release candidate of Avalon and Indigo Beta 1. The most interesting features of this release over the CTP releases of the past is that these bits work on Visual Studio 2005 beta 2, both full and express. Enjoy! </summary>
+    <content type="html">&lt;h1>Avalon + Indigo Beta 1 Release Candidate&lt;/h1>
+&lt;P>Today Microsoft has published &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=B789BC8D-4F25-4823-B6AA-C5EDF432D0C1">the release candidate of Avalon and Indigo Beta 1&lt;/A>. The most interesting features of this release over the CTP releases of the past is that these bits work on Visual Studio 2005 beta 2, both full and express. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1780</id>
+    <title>Avalon Wants You!</title>
+    <updated>2005-05-18T07:00:00.000Z</updated>
+    <published>2005-05-18T07:00:00.000Z</published>
+    <summary>The Avalon team is hiring. For example, here's a software development engineer (SDE) position on the Avalon team : "The Avalon team is developing the next generation UI, document and media platform for Longhorn (the next version of Windows). Our group's mission is to transform the development experience and to leverage the immense power of graphics hardware to bring new and compelling features to Windows and Windows applications. We are looking for an individual contributor to help us design and implement a...</summary>
+    <content type="html">&lt;h1>Avalon Wants You!&lt;/h1>
+&lt;P>The Avalon team is hiring. For example, here's &lt;A href="http://members.microsoft.com/careers/search/details.aspx?JobID=A82A059F-ED38-4A1A-AABF-054C4B7D0832">a software development engineer (SDE) position on the Avalon team&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Avalon team is developing the next generation UI, document and media platform for Longhorn (the next version of Windows). Our group's mission is to transform the development experience and to leverage the immense power of graphics hardware to bring new and compelling features to Windows and Windows applications. We are looking for an individual contributor to help us design and implement an extensible architecture to provide rich Imaging (codecs, effects, metadata, wide-gamut color) and solutions. This individual will work with other groups across the systems division as well as cross-division that are dependent on this functionality. Strong problem solving and cross-group skills are required. Experience with C, C++, C#, and text and imaging/graphics technologies (e.g. publishing tools, Flash, SVG, etc.) are pluses. At least a BA/BS degree in Computer Science or related technical discipline preferred."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>If you're a UI or a media person, I can't imagine a better place for you then on the Avalon team, and this isn't the only Avalon-related position we've got. In fact, I did a query today and found &lt;A href="http://members.microsoft.com/careers/search/results.aspx?FromCP=Y&amp;amp;JobCategoryCodeID=&amp;amp;JobLocationCodeID=1&amp;amp;JobProductCodeID=&amp;amp;JobTitleCodeID=10296&amp;amp;Divisions=&amp;amp;TargetLevels=&amp;amp;Keywords=avalon&amp;amp;JobCode=&amp;amp;ManagerAlias=&amp;amp;Interval=25">25 SDE positions at MS with the keyword "Avalon" in the description&lt;/A>. Come one, come all! We're having an Avalon party at Microsoft and we'd love you to come and join us. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1778</id>
+    <title>When did the cmd shell start doing this?!?</title>
+    <updated>2005-05-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-05-13T07:00:00.000Z</published>
+    <summary>Imagine the following C program: // cmdio.c #include &amp;lt;stdio.h&amp;gt; void main() { char s[256] = ""; printf("&amp;gt;"); scanf("%s", s); printf("%s\n", s); } If I run this from a command shell and I enter "hi" [Enter], it looks like this: C:\&amp;gt;cmdio.exe &amp;gt;hi hi If I run it again using "lo" [Enter] this time, it would look like this: C:\&amp;gt;cmdio.exe &amp;gt;lo lo Here's the thing that blew me away. Anytime I run it after the 1st from the same cmd shell, I get history! For example, running it a 3rd time and pres...</summary>
+    <content type="html">&lt;h1>When did the cmd shell start doing this?!?&lt;/h1>
+&lt;P>Imagine the following C program:&lt;/P>&lt;PRE>// cmdio.c&lt;BR>#include &amp;lt;stdio.h&amp;gt;&lt;/PRE>&lt;PRE>void main() {&lt;BR>  char s[256] = "";&lt;BR>  printf("&amp;gt;");&lt;BR>  scanf("%s", s);&lt;BR>  printf("%s\n", s);&lt;BR>}&lt;/PRE>
+&lt;P>If I run this from a command shell and I enter "hi" [Enter], it looks like this:&lt;/P>&lt;PRE>C:\&amp;gt;cmdio.exe&lt;BR>&amp;gt;hi&lt;BR>hi&lt;/PRE>
+&lt;P>If I run it again using "lo" [Enter] this time, it would look like this:&lt;/P>&lt;PRE>C:\&amp;gt;cmdio.exe&lt;BR>&amp;gt;lo&lt;BR>lo&lt;/PRE>
+&lt;P>Here's the thing that blew me away. Anytime I run it after the 1st from the same cmd shell, I get history! For example, running it a 3rd time and pressing [Up Arrow][Enter] gives me this!&lt;/P>&lt;PRE>C:\&amp;gt;cmdio.exe&lt;BR>&amp;gt;lo&lt;BR>lo&lt;/PRE>
+&lt;P>The up and down arrows work, F7 works, F8 works, they all work! When the heck did the shell start keeping track of per sub-command histories and why haven't I noticed it 'til now?!?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1779</id>
+    <title>"dumpbin" is now "link -dump"</title>
+    <updated>2005-05-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-05-13T07:00:00.000Z</published>
+    <summary>Apparently in Whidbey, "dumpbin" (and some other tools that were merely wrappers around link) has been dumped. To get to it now, do "link -dump -dumpbin_options" e.g. "link -dump -exports" does what "dumpbin -exports" used to do. In fact, if you just do "link -dump" the usage you get is labeled as the dumpbin usage. : ) BTW, it looks like "lib," while still there, is also "link -lib" and "editbin" becomes "link -edit." [ via Brent Rector ] </summary>
+    <content type="html">&lt;h1>"dumpbin" is now "link -dump"&lt;/h1>
+&lt;P>Apparently in Whidbey, "dumpbin" (and some other tools that were merely wrappers around link) has been dumped. To get to it now, do "link -dump -dumpbin_options" e.g. "link -dump -exports" does what "dumpbin -exports" used to do. In fact, if you just do "link -dump" the usage you get is labeled as the dumpbin usage. : )&lt;/P>
+&lt;P>BTW, it looks like "lib," while still there, is also "link -lib" and "editbin" becomes "link -edit."&lt;/P>
+&lt;P>[&lt;A href="http://www.wiseowl.com/">via Brent Rector&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1777</id>
+    <title>Survey: Windows Forms Programming 2ed Length</title>
+    <updated>2005-05-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-12T07:00:00.000Z</published>
+    <summary>There has been some publisher/author controversy around the length of the 2ed of Windows Forms Programming. WF2 has essentially doubled in size, so I was happy that it looks like we're be less than twice the number of pages (700 for 1ed vs. estimated 1200 for 2ed). However, when I sent this estimate to my publisher last month, they were less than pleased. Apparently if you go above 800 pages, that tends to scare people and may cut into sales. Here are the options we wrestled with: Cut 400 pages of material ...</summary>
+    <content type="html">&lt;h1>Survey: Windows Forms Programming 2ed Length&lt;/h1>
+&lt;P>There has been some publisher/author controversy around the length of the 2ed of Windows Forms Programming. WF2 has essentially doubled in size, so I was happy that it looks like we're be less than twice the number of pages (700 for 1ed vs. estimated 1200 for 2ed). However, when I sent this estimate to my publisher last month, they were less than pleased. Apparently if you go above 800 pages, that tends to scare people and may cut into sales. Here are the options we wrestled with:&lt;/P>
+&lt;OL>
+&lt;LI>Cut 400 pages of material out of the WF2 book, leaving it on the cutting room floor&lt;/LI>
+&lt;LI>Ship a 1200 page WF2 book, increasing the cover price by $10&lt;/LI>
+&lt;LI>Move 400 pages of material out of the WF2 book, releasing them as freely available PDF files on the web (continuing to index and refer to this material in the printed book)&lt;/LI>
+&lt;LI>Split the book into two volumes, priced accordingly (probably $35 each)&lt;/LI>&lt;/OL>
+&lt;P>There's one piece of information that I'm share later that caused us to lean one way more than the other, but I'm curious what readers would choose when given this choice.&lt;/P>
+&lt;P>P.S. Believe me when I tell you that we've been diligent about cutting stuff that doesn't belong in the book, although I admit that we've been unwilling to cut material that will be generally useful for WinForms programmers, even if it does decrease sales. I'm still hoping we'll be able to get the page count below 1200, but the upshot is that&amp;nbsp;option #1 has always been a non-starter for me.&lt;/P>
+&lt;P>P.P.S. I expect the first three reviews on Amazon to be complaints about whichever method we choose and reminising about how wonderful it was to get all of WinForms in 700 pages. Those kinds of complaints should be forwarded to the WinForms team in emails that start with "You put too much good stuff into WinForms 2.0!" : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1776</id>
+    <title>More Better Avalon Sparklines</title>
+    <updated>2005-05-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-05-11T07:00:00.000Z</published>
+    <summary>Sean Gerety has updated his Avalon sparklines implementation, producing good news, bad news and more good news: good news: the sparklines implementation fits nicely in with the other Avalon elements bad news: MSFT stock is dead, dead, dead good news: sparklines shows how dead MSFT is very nicely! </summary>
+    <content type="html">&lt;h1>More Better Avalon Sparklines&lt;/h1>
+&lt;P>Sean Gerety has updated &lt;A href="http://dotnetjunkies.com/WebLog/metablog/archive/2005/05/10/74527.aspx">his Avalon sparklines implementation&lt;/A>, producing good news, bad news and more good news:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;EM>good news: &lt;/EM>the sparklines implementation fits nicely in with the other Avalon elements&lt;/LI>
+&lt;LI>&lt;EM>bad news: &lt;/EM>MSFT stock is dead, dead, dead&lt;/LI>
+&lt;LI>&lt;EM>good news: &lt;/EM>sparklines shows how dead MSFT is very nicely!&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1775</id>
+    <title>Damn I Love Skype!</title>
+    <updated>2005-05-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-11T07:00:00.000Z</published>
+    <summary>Skype is the thing that seems to work best for my Australian phone calls (at least once/week if not more) and I love SkypeOut for when I'm just too damn lazy to walk across the room for the phone. If I could use a SkypeIn phone number for getting/sending faxes as well as placing and receiving calls and taking voicemail, I'd have one of those, too (only $4/month!). That said, MSN7 seems to have fixed the a/v sharing problems through firewalls, so now I use it for that and MS Communicator is damn cool, too. T...</summary>
+    <content type="html">&lt;h1>Damn I Love Skype!&lt;/h1>
+&lt;P>&lt;A href="http://www.skype.com">Skype&lt;/A> is the thing that seems to work best for my Australian phone calls (at least once/week if not more) and I love SkypeOut for when I'm just too damn lazy to walk across the room for the phone. If I could use a SkypeIn phone number for getting/sending faxes as well as placing and receiving calls and taking voicemail, I'd have one of those, too (only $4/month!).&lt;/P>
+&lt;P>That said, MSN7 seems to have fixed the a/v sharing problems through firewalls, so now I use it for that and MS Communicator is damn cool, too.&lt;/P>
+&lt;P>These communication devices are pretty important for a remote guy. Just today, I had an hour long video counseling session with my boss (it takes me about a year to feel like I'm actually capable of any new job I take) and another hour-long IM with one of the architects on my team arguing about what the hell we're building anyway. The counseling session would've happened no matter where I lived, but even if I lived next door to him in Redmond, I wasn't going to be sitting in the architect's living room from 12:30am - 1:30am chatting with him; new comm was the enabler.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1773</id>
+    <title>Today's Reading: A Semantic Web Primer</title>
+    <updated>2005-05-10T07:00:00.000Z</updated>
+    <published>2005-05-10T07:00:00.000Z</published>
+    <summary>I started "A Semantic Web Primer" today at the urging of a colleague. Chapter 1 seemed to say, "If web sites exposes structured data using a language we could all agree on (or a mapping to a language we could all agree on [or a mapping to a mapping...]), we could build much cooler apps w/ the data that's already on the web." I find that to be an eminently reasonable argument. Plus, it sounds line "an ontology" is "a class diagram," so I'm already at home. : ) Unfortunately, we've got a chicken 'n' egg probl...</summary>
+    <content type="html">&lt;h1>Today's Reading: A Semantic Web Primer&lt;/h1>
+&lt;P>I started "A Semantic Web Primer" today at the urging of a colleague. Chapter 1 seemed to say, "If web sites exposes structured data using a language we could all agree on (or a mapping to a language we could all agree on [or a mapping to a mapping...]), we could build much cooler apps w/ the data that's already on the web." I find that to be an eminently reasonable argument. Plus, it sounds line "an ontology" is "a class diagram," so I'm already at home. : )&lt;/P>
+&lt;P>Unfortunately, we've got a chicken 'n' egg problem here, i.e. no one's going to build the cool apps 'til the info is available and nobody's going to make their info available 'til there's cool apps to plug into. How did RSS make it over that hump?&lt;/P>
+&lt;P>Chapter 2 was a summary of XML, i.e. useless for anyone reading this site.&lt;/P>
+&lt;P>I'm hoping to get to Chapter 3: RDF tomorrow.&lt;/P>
+&lt;P>Anyone got any arrows in the back trying to use this technology that they'd like to share? &lt;/P></content>
+  </entry>
+</feed>

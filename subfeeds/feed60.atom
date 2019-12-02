@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed60.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed59.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed61.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed60.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1565</id>
+    <title>The Downside of Smart Children</title>
+    <updated>2004-10-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-10-25T07:00:00.000Z</published>
+    <summary>It started off innocently enough. I corrected Tom when he tried to put down words like "pils," "Rome" and "trool," even giving him a letter or two to help him make his words (he's only 9, after all,&amp;nbsp;and this was his first game of Scrabble). Then, I ran out of ideas and we needed long words to get into the empty spaces, so I put down with "faxer" (someone who faxes). After that, it was all down hill into "roddy" (someone with a lot of rods), "naped" (the flip of hair across your forehead), "soapic" (ver...</summary>
+    <content type="html">&lt;h1>The Downside of Smart Children&lt;/h1>
+&lt;P>It started off innocently enough. I corrected Tom when he tried to put down words like "pils," "Rome" and "trool," even giving him a letter or two to help him make his words (he's only 9, after all,&amp;nbsp;and this was his first game of Scrabble). Then, I ran out of ideas and we needed long words to get into the empty spaces, so I put down with "faxer" (someone who faxes). After that, it was all down hill into "roddy" (someone with a lot of rods), "naped" (the flip of hair across your forehead), "soapic" (very soapy) and, my personal favorite, "oifbath" (good for sores on your skin), all the time fighting to keep a straight face.&lt;/P>
+&lt;P>However, when I busted Tom for putting down "zin" ("double" in "Tom language"), he started pointing the finger at "trux" (Latin for multiple vehicles), looked it up in our unabridged Webster&amp;#8217;s (I've &lt;EM>got&lt;/EM> to get rid of that thing...), called his mother to double-check and the whole thing came falling down around my ears. My visions of Tom in his 30s calling me from a party complaining that "glev" wasn't actually a kind of rock have been dashed.&lt;/P>
+&lt;P>Still, while I am proud of my son for catching onto to my "creativity," luckily there are all kinds of other, more subtle lies that I've told him that are set to trigger in my retirement years, sure to motivate him to call, even if only to curse my name. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1563</id>
+    <title>Sells on the SellsCon</title>
+    <updated>2004-10-23T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-23T07:00:00.000Z</published>
+    <summary>125 attendees and speakers from 6 countries (US, Canada, England, Malaysia, Netherlands and Peru), 21 states and 60 companies, ranging from vendors to expert practitioners and even a few poor souls trying to learn XML. 24 hours of talks and events spread over two days. 44 bloggers and 247 blog entries &amp;nbsp;about the event itself (not including warm-up to the event or my own blog entries), nearly all of which were over-whelmingly positive, including one eWeek piece &amp;nbsp;and one entry from Tim Bray of Sun M...</summary>
+    <content type="html">&lt;h1>Sells on the SellsCon&lt;/h1>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">125 attendees and speakers from 6 countries (US, Canada, England, Malaysia, Netherlands and Peru), 21 states and 60 companies, ranging from vendors to expert practitioners and even a few poor souls trying to learn XML. 24 hours of talks and events spread over two days. &lt;a href="/public/conference/#sightings/">44 bloggers and 247 blog entries&lt;/A>&amp;nbsp;about the event itself (not including warm-up to the event or my own blog entries), nearly all of which were over-whelmingly positive, including &lt;A href="http://www.eweek.com/article2/0,1759,1681539,00.asp">one eWeek piece&lt;/A>&amp;nbsp;and &lt;A href="http://www.tbray.org/ongoing/When/200x/2004/10/21/Sells">one entry from Tim Bray of Sun Microsystems that called me "a charming, welcoming, amusing guy."&lt;/A> (I didn't pay him a cent, I swear! : )&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;o:p>&lt;/o:p>&amp;nbsp;&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">In general, day 1 was dark and brooding, shouldering the brunt of the vendors who knew the technology inside and out and were feeling the pain of the downsides that they felt were holding them back. Day 2 was filled with hopeful stories of practitioners able to take what the vendors have given them, mix it with for their own secret sauce and really make it shine.&lt;o:p>&lt;/o:p>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">My very most favorite talk was Whitney Kemmey from the DOD with his unexpectedly captivating look at mixing XML with 10-year old technology and his endless submarine pictures, although Jeff Barr from Amazon continues to mesmerize me every time he takes the podium. Also, I really dug Doug Purdy's enthusiasm and forthrightness. Oh, and when Neetu Rajpal shut down Don for derailing her talk, I fell in love.&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&amp;nbsp;&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">Inexplicably, the DevCon seems to just get better and better. I blame it on the community willing to listen to a variety of sources to hear what's really going on, some of it good and some of it that needs some work, whether it's from professional speakers or nervous amateurs, for-profit vendors or seasoned practitioners. Thanks for letting me participate.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1562</id>
+    <title>DevCon == 44 bloggers and 247 posts (so far)!</title>
+    <updated>2004-10-23T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-23T07:00:00.000Z</published>
+    <summary>Here. Holy cow! I knew people liked the DevCon, but I've never seen a blogging response like this. I've found 44 separate bloggers and 247 posts related to the event itself (not counting the warm-up to the event). That's almost 6 posts/blogger or 2 posts/attendee! Good lord, but these were a prolific bunch...</summary>
+    <content type="html">&lt;h1>DevCon == 44 bloggers and 247 posts (so far)!&lt;/h1>
+&lt;a href="/public/conference/#Sightings">Here&lt;/a>. Holy cow! I knew people liked the DevCon, but &lt;A HREF="/public/conference/#Sightings">I've never seen a blogging response like this&lt;/A>. I've found 44 separate bloggers and 247 posts related to the event itself (not counting the warm-up to the event). That's almost 6 posts/blogger or 2 posts/attendee! Good lord, but these were a prolific bunch...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1561</id>
+    <title>Applied XML Dev.Conf. 5 Web Sightings</title>
+    <updated>2004-10-21T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-21T07:00:00.000Z</published>
+    <summary>Here. I got so tons of positive feedback during the DevCon &amp;nbsp;about the talks, the venue, the format, etc, for which I thanked each person sincerely. However, the huge number of DevCon-related posts on the web, including a reporter's piece on DevSource, was overwhelming.</summary>
+    <content type="html">&lt;h1>Applied XML Dev.Conf. 5 Web Sightings&lt;/h1>
+&lt;a href="/public/conference/#sightings">Here&lt;/a>. I got so tons of positive feedback during &lt;A HREF="/public/conference/">the DevCon&lt;/A>&amp;nbsp;about the talks, the venue, the format, etc, for which I thanked each person sincerely. However, &lt;A HREF="/public/conference/#sightings">the huge number of DevCon-related posts on the web&lt;/A>, including &lt;A href="http://www.devsource.ziffdavis.com/article2/0,1759,1681545,00.asp">a reporter's piece on DevSource&lt;/A>, was overwhelming.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1560</id>
+    <title>DevCon5 is Sold Out... Again</title>
+    <updated>2004-10-19T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-19T07:00:00.000Z</published>
+    <summary>At 4:13:02pm, the Applied XML Developer's Conference has sold out (again). Eric Hayes, the VP of Development from You Software, Inc. was the last lucky attendee. Welcome, Eric! Wahoo! </summary>
+    <content type="html">&lt;h1>DevCon5 is Sold Out... Again&lt;/h1>
+&lt;P>At 4:13:02pm, &lt;a href="/conference">the Applied XML Developer's Conference&lt;/A> has sold out (again). Eric Hayes, the VP of Development from You Software, Inc. was the last lucky attendee. Welcome, Eric!&lt;/P>
+&lt;P>Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1558</id>
+    <title>Coming into the final DevCon5 curve</title>
+    <updated>2004-10-18T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-18T07:00:00.000Z</published>
+    <summary>As is always the case, tons of things are coming together at the last moment for the 5th DevCon : Received Tim Ewald's flight arrangements so that I can pick him up on the way to the conference Don "XML" is going to make sure that Tim Bray gets to the Portland Nerd Dinner and to the conference in time for his keynote address T-shirts on their way Proceedings printed and in my garage Maps printed so that I can find my way (haven't been there in years and years) Brothers Sells excited about the extra days off...</summary>
+    <content type="html">&lt;h1>Coming into the final DevCon5 curve &lt;/h1>
+&lt;P>As is always the case, tons of things are coming together at the last moment for &lt;a href="/public/conference/">the 5th DevCon&lt;/A>:&lt;/P>
+&lt;UL>
+&lt;LI>Received Tim Ewald's flight arrangements so that I can pick him up on the way to the conference&lt;/LI>
+&lt;LI>Don "XML" is going to make sure that Tim Bray gets to &lt;A href="http://nerddinner.com/blogs/portland/archive/2004/10/05/213.aspx">the Portland Nerd Dinner&lt;/A> and to the conference in time for his keynote address&lt;/LI>
+&lt;LI>T-shirts on their way&lt;/LI>
+&lt;LI>Proceedings printed and in my garage&lt;/LI>
+&lt;LI>Maps printed so that I can find my way (haven't been there in years and years)&lt;/LI>
+&lt;LI>Brothers Sells excited about the extra days off from school so that they can hang at the Skamania Lodge (although I'm pretty sure they're expecting to be able to play their Gameboys the entire time : )&lt;/LI>
+&lt;LI>Microphones, podium, projector and project screens arranged for speakers&lt;/LI>
+&lt;LI>Wireless Internet access and power arranged for attendees (and speakers)&lt;/LI>
+&lt;LI>All but a handful of seats filled in our expanded space (8 seats left)&lt;/LI>
+&lt;LI>&lt;A href="http://www.neopoleon.com/">Rory giving away a free conference registration&lt;/A> on his site&lt;/LI>&lt;/UL>
+&lt;P>Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1559</id>
+    <title>Delighted by Windows Media Center Edition 2005</title>
+    <updated>2004-10-18T07:00:00.000Z</updated>
+    <published>2004-10-18T07:00:00.000Z</published>
+    <summary>Here. I think I heard the term "delighted" from Steve Ballmer about what we want customer reaction to be to our software and I am very delighted to be using Media Center Edition 2005. I was a user of 2004 for a number of months and liked it, but there are so many little new things in 2005 that I keep finding every day. For example: When I wanted to add songs from a network share, I could do that from within MCE05. In MCE04, I had to build the play list in WMP before those files were accessible. I hate flipp...</summary>
+    <content type="html">&lt;h1>Delighted by Windows Media Center Edition 2005&lt;/h1>
+&lt;a href="http://www.microsoft.com/windowsxp/mediacenter/default.mspx">Here&lt;/a>. &lt;P>I think I heard the term "delighted" from Steve Ballmer about what we want customer reaction to be to our software and I am very delighted to be using Media Center Edition 2005. I was a user of 2004 for a number of months and liked it, but there are so many little new things in 2005 that I keep finding every day. For example:&lt;/P>
+&lt;UL>
+&lt;LI>When I wanted to add songs from a network share, I could do that from within MCE05. In MCE04, I had to build the play list in WMP before those files were accessible.&lt;/LI>
+&lt;LI>I hate flipping channels, but I wanted to veg in front of the TV, so I went to My TV and saw a new Movies section, that let me see what movies were playing right now and what movies were coming up next. I picked the one I wanted and I was watching it, just that easily.&lt;/LI>
+&lt;LI>Digging around the online features, I found a ton of Internet radio stations that integrate right alongside my FM presets, including some Electro stations (I always knew that I liked the theme song to Mortal Kombat and now I know what to call it : ).&lt;/LI>
+&lt;LI>The general quality of the TV and DVD output is *much* improved and, with the extra amenities, I could see this being the first choice TV experience.&lt;/LI>
+&lt;LI>Once I had the codecs installed, all of the wacky videos I've collected over the years (hey! this is a family blog! get your mind out of the gutter!) like The Phantom Edit and the original Dawn of the Dead (available for free download legitimately) just worked, even though they were on a network share, too.&lt;/LI>
+&lt;LI>My sister-in-law wanted me to tape a bunch of episodes of Inhale to burn to DVD and I'm well on my way to doing that (don't tell her, though -- it's an XMas present). I couldn't imagine what I'd have to do to get the episodes onto DVD from my ReplayTV box (old model -- no network connection) but with MCE05, they're just files that the latest DVD burning software supports.&lt;/LI>
+&lt;LI>A new, free aquarium screen saver just when the last of the free carnival fish died. How could they have known?!?&lt;/LI>&lt;/UL>
+&lt;P>I've already got my MCE Extender on order so that I can see about sharing this experience into other TVs in my house. Windows Media Center Edition 2005 is Highly Recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1556</id>
+    <title>Tim Bray Prepares For His DevCon Talk</title>
+    <updated>2004-10-17T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-17T07:00:00.000Z</published>
+    <summary>Tim wonders whether he should let the 'softies attending and speaking at the Applied XML Developer's Conference have it or not. I say, give us both barrels, Tim! </summary>
+    <content type="html">&lt;h1>Tim Bray Prepares For His DevCon Talk&lt;/h1>
+&lt;P>&lt;A href="http://www.tbray.org/ongoing/When/200x/2004/10/17/SellsPrep">Tim wonders&lt;/A> whether he should let the 'softies attending and speaking at &lt;a href="/public/conference/">the Applied XML Developer's Conference&lt;/A> have it or not. I say, give us both barrels, Tim!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1557</id>
+    <title>I'm With Jim: X1 Rocks</title>
+    <updated>2004-10-17T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-10-17T07:00:00.000Z</published>
+    <summary>Like everyone else in the blogespher, I installed Google Desktop Search last week. And, after using it a few times, I've uninstalled it. Jim's right; X1 kicks its butt. </summary>
+    <content type="html">&lt;h1>I'm With Jim: X1 Rocks&lt;/h1>
+Like everyone else in the blogespher, I installed Google Desktop Search last week. And, after using it a few times, I've uninstalled it. &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=d0518e5c-44ad-428e-8661-1edb07a3ee58">Jim's right&lt;/A>; &lt;A href="http://www.x1.com/">X1 kicks its butt.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1555</id>
+    <title>Channel9: More Monad</title>
+    <updated>2004-10-15T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-10-15T07:00:00.000Z</published>
+    <summary>I haven't even seen this yet and I want to recommend it. I'm just a big monad and Jeff Snover fan.</summary>
+    <content type="html">&lt;h1>Channel9: More Monad&lt;/h1>
+I haven't even seen this yet and &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=25506">I want to recommend it&lt;/A>. I'm just a big monad and Jeff Snover fan.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1554</id>
+    <title>Don at the DevCon on "WS-Why?"</title>
+    <updated>2004-10-15T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-15T07:00:00.000Z</published>
+    <summary>Here. Don sent his new talk abstract my way this morning: " WS-Why? This talk will make sense of why various WS-* specs came to life and which ones every developer should ignore. Naturally, the size of this set is non-zero, however, it is not the entire universe. Hopefully, the audience will be left with a mental model for what to ignore going forward as the WS-* machine continues to move forward." Personally, I've always wondered about the history of the avalanche of WS-* specs and to hear it from an irrev...</summary>
+    <content type="html">&lt;h1>Don at the DevCon on "WS-Why?"&lt;/h1>
+&lt;a href="/public/conference/#WS-Why">Here&lt;/a>. &lt;P>Don sent &lt;A HREF="/public/conference/#WS-Why">his new talk&lt;/A> abstract my way this morning:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"&lt;STRONG>WS-Why? &lt;/STRONG>This talk will make sense of why various WS-* specs came to life and which ones every developer should ignore. Naturally, the size of this set is non-zero, however, it is not the entire universe. Hopefully, the audience will be left with a mental model for what to ignore going forward as the WS-* machine continues to move forward."&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>Personally, I've always wondered about the history of the avalanche of WS-* specs and to hear it from an irreverent horse's mouth should be tons o' fun.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1547</id>
+    <title>.NET Show: Don and Doug on Connected Systems</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>I'm downloading this now, but anytime I get a chance to see Don Box or Doug Purdy speak, I want to do it. To see them both together?!? Oh la la! And after watching them together on the latest.NET Show, I get to see them again next week at the Applied XML Developer's Conference. How lucky am I? : ) </summary>
+    <content type="html">&lt;h1>.NET Show: Don and Doug on Connected Systems&lt;/h1>
+&lt;P>I'm downloading this now, but anytime I get a chance to see Don Box or Doug Purdy speak, I want to do it. To &lt;A href="http://msdn.microsoft.com/theshow/episode046/default.asp">see them both together&lt;/A>?!? Oh la la!&lt;/P>
+&lt;P>And after watching them together on the latest .NET Show, I get to &lt;a href="/public/conference/">see them again next week at the Applied XML Developer's Conference&lt;/A>. How lucky am I? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1550</id>
+    <title>Randy Jackson on Pleasing the Gods</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>Randy Jackson enjoyed my recent.NET Rocks appearance because of my discussion of how I like to learn things. I only remember talking about two strategies: "ignoring the docs" and "hyperventilating" but his take on it was so beautifully worded, I had to share it with you: "I&amp;#8217;m referring to flying in that strata called by some of my PhD'ed friends as the 'Shirley McLean' possession experience, where the actual act of jumping in to the unknown pleases the Gods in some twisted way and the outcome is usual...</summary>
+    <content type="html">&lt;h1>Randy Jackson on Pleasing the Gods&lt;/h1>
+&lt;P>Randy Jackson enjoyed &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=85">my recent .NET Rocks appearance&lt;/A> because of my discussion of how I like to learn things. I only remember talking about two strategies: "ignoring the docs" and "hyperventilating" but his take on it was so beautifully worded, I had to share it with you:&lt;/P>
+&lt;BLOCKQUOTE>"I&amp;#8217;m referring to flying in that strata called by some of my PhD'ed friends as the 'Shirley McLean' possession experience, where the actual act of jumping in to the unknown pleases the Gods in some twisted way and the outcome is usually beyond our expectations."&lt;/BLOCKQUOTE>
+&lt;P>I don't get the Shirley McLean reference, but I love the bit about pleasing the Gods by jumping into the unknown.&lt;/P>
+&lt;P>And yes: today I'm going to read you my email because today, clever people insist on emailing me. : P&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1551</id>
+    <title>MSDN Content Strategy Wants *You*</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>My boss, Shawn Morrissey, is looking for a Content Strategist. This is my position, which allows me to dig into my technology areas as deeply as I want to do, finding areas of weakness in our developer story and filling them with internal, external or self-generated content, whether demos, samples, tools, articles, videos, audio, events, etc. You get to be involved in the trifecta between the product teams, the marketing and evangelist teams and the developers themselves, balancing all of their needs and ma...</summary>
+    <content type="html">&lt;h1>MSDN Content Strategy Wants *You*&lt;/h1>
+&lt;P>My boss, &lt;A href="mailto:shawnmor@microsoft.com">Shawn Morrissey&lt;/A>, is looking for a Content Strategist. This is my position, which allows me to dig into my technology areas as deeply as I want to do, finding areas of weakness in our developer story and filling them with internal, external or self-generated content, whether demos, samples, tools, articles, videos, audio, events, etc. You get to be involved in the trifecta between the product teams, the marketing and evangelist teams and the developers themselves, balancing all of their needs and making them all happy. Plus, you get to work with the likes of Matt Powell (&lt;A href="http://msdn.microsoft.com/webservices/">Web Services&lt;/A>), Kent Sharkey (&lt;A href="http://msdn.microsoft.com/asp.net/">ASP.NET&lt;/A>, &lt;A href="http://msdn.microsoft.com/vstudio/">Visual Studio&lt;/A> and &lt;A href="http://msdn.microsoft.com/whidbey/">Whidbey&lt;/A>), Brian Johnson (&lt;A href="http://msdn.microsoft.com/security/">Security&lt;/A>), Frank Redmond (&lt;A href="http://msdn.microsoft.com/netframework/">.NET Framework&lt;/A> and &lt;A href="http://msdn.microsoft.com/vcsharp/">C#&lt;/A>) and Christa Carpentiere (&lt;A href="http://msdn.microsoft.com/data/">Data&lt;/A>).&lt;/P>
+&lt;P>Right now, Shawn's looking for someone to fill &lt;A href="http://blogs.duncanmackenzie.net/duncanma/archive/2004/10/14/791.aspx">Duncan's shoes in Visual Basic&lt;/A>, be he's always looking for passion and ability. &lt;A href="mailto:shawnmor@microsoft.com">Drop him a line if you're interested&lt;/A>. Don't be shy! This team is where &lt;A href="http://www.pluralsight.com/blogs/tewald/">Tim Ewald&lt;/A> and &lt;A href="http://blogs.duncanmackenzie.net/">Duncan Mackenzie&lt;/A> got their start at MS. Plus, they hired me and made me a very nice home, so clearly their standards aren't &lt;EM>too &lt;/EM>high. : )&lt;/P>
+&lt;P>Here's the official job description:&lt;/P>
+&lt;p>MSDN is looking for a Content Strategist for the Visual Basic 
+Developer Center - a site on MSDN Online dedicated to all things 
+related to Visual Basic. The subject matter expert acts as the 
+public face of MSDN for the subject area to both external and 
+internal customers, and leads the content planning and development 
+for the developer center. As content strategist, planner, and 
+writer, the SME must partner deeply with the product teams to 
+understand the technology and the overall developer strategy.&amp;nbsp;&lt;/p>
+&lt;p>Major responsibilities include:&lt;/p>
+&lt;ul>
+	&lt;li>Coordinating with the product and marketing teams to produce a 
+content plan on an ongoing basis&lt;/li>
+	&lt;li>Commission, review, and acquire content&lt;/li>
+	&lt;li>&amp;nbsp;Manage&amp;nbsp;ongoing review of content and the appropriate 
+	archiving of old content &lt;/li>
+	&lt;li>Working with site management on publication schedules, 
+	headlines, hot topics, featured books, and other content 
+	features &lt;/li>
+	&lt;li>Participating in the community by being actively engaged in 
+	the newsgroups and listsrvs; attending appropriate conferences 
+	and tradeshows as the MSDN representative; and responding, or 
+	coordinating responses, to technical questions directly from 
+	customers (ex: via feedback from the Web site)&lt;/li>
+	&lt;li>Act as a major stakeholder with regard to future site 
+	features, improvements, and evolution&lt;/li>
+&lt;/ul>
+&lt;p>Required skills include a deep technical knowledge of historical, 
+current, and future software security issues,&amp;nbsp;&amp;nbsp;the Visual Basic 
+(.NET)&amp;nbsp;programming language&amp;nbsp;and other .NET languages, the Visual 
+Studio environment; a clear understanding of Microsoft's direction 
+and strategy; ability to work in a rapidly changing environment; 
+solid coding and writing skills; ability to assess content for 
+quality and customer value; proven ability to work across 
+organizations to align goals and execute against them; and an 
+intense passion for and knowledge of the Microsoft developer.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1553</id>
+    <title>Aaron Skonnard On The Indigo SDR</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>If you didn't get to go to the Indigo Software Design Review last week (like most of us), Aaron Skonnard puts you right into the middle of it.</summary>
+    <content type="html">&lt;h1>Aaron Skonnard On The Indigo SDR&lt;/h1>
+If you didn't get to go to the Indigo Software Design Review last week (like most of us), &lt;A href="http://pluralsight.com/blogs/aaron/archive/2004/10/14/2796.aspx">Aaron Skonnard puts you right into the middle of it&lt;/A>.</content>
+  </entry>
+</feed>

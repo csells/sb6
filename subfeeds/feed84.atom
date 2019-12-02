@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed84.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed83.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed85.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed84.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1232</id>
+    <title>VS.NET Whidbey Has a Command Shell Window Built It</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>It's well hidden, but Jason Olson points out that VS.NET Whidbey finally has a command shell built right in. Now if only it changed folders with my solution and support completion via the tab key, support F7 and F8... </summary>
+    <content type="html">&lt;h1>VS.NET Whidbey Has a Command Shell Window Built It&lt;/h1>
+&lt;P>It's well hidden, but &lt;A href="http://geekswithblogs.net/jolson/archive/2004/03/24/3326.aspx">Jason Olson points out that VS.NET Whidbey &lt;EM>finally&lt;/EM> has a command shell&lt;/A> built right in. Now if only it changed folders with my solution and support completion via the tab key, support F7 and F8...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1236</id>
+    <title>Taking Advantage of Enterprise Features in Indigo</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>In this piece, Karsten digs into some of the advanced features of Indigo, building the code to start from scratch on the client and server, then adding the code to add state management, reliability to the messages and asynchronous messaging.</summary>
+    <content type="html">&lt;h1>Taking Advantage of Enterprise Features in Indigo&lt;/h1>
+In this piece, &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/indigoattrprog.asp">Karsten digs into some of the advanced features of Indigo&lt;/A>, building the code to start from scratch on the client and server, then adding the code to add state management, reliability to the messages and asynchronous messaging.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1229</id>
+    <title>Don Answers: Does Indigo Need IIS?</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Don Box talks about how Indigo services are hosted and how that interacts with IIS (or not, as the case may be).</summary>
+    <content type="html">&lt;h1>Don Answers: Does Indigo Need IIS?&lt;/h1>
+Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-03-24T07:08:11Z">how Indigo services are hosted and how that interacts with IIS&lt;/A> (or not, as the case may be).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1235</id>
+    <title>What the Heck Is It With Today?</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Here. First, I'm swamped in work. Then, I'm swamped in news. Finally, I'm swamped in sales, with the book at it's all-time low on Amazon.</summary>
+    <content type="html">&lt;h1>What the Heck Is It With Today?&lt;/h1>
+&lt;a href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;days=90">Here&lt;/a>. First, I'm swamped in work. Then, I'm swamped in news. Finally, &lt;A href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;amp;days=90">I'm swamped in sales&lt;/A>, with the book at it's all-time low on Amazon.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1233</id>
+    <title>I've Seen Monad and I Am Pleased</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>The most concise description of what I love most about Monad, the next-gen Windows command line, comes from Jeffrey Snover, a Microsoft Architect, in a Peter Coffee article : "We keep the idea of 'A pipe to B pipe to C,' but we pass.NET objects instead of structured text. We can pass ADO, other kinds of objects, and we can create reflection-based utilities." Just the idea of not having to deal with ambiguous from standard input or reparse the data at every stage of the shell pipeline makes me giddy with ant...</summary>
+    <content type="html">&lt;h1>I've Seen Monad and I Am Pleased&lt;/h1>
+&lt;P>The most concise description of what I love most about Monad, the next-gen Windows command line, comes from Jeffrey Snover, a Microsoft Architect, in &lt;A href="http://www.eweek.com/article2/0,4149,1550180,00.asp">a Peter Coffee article&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"We keep the idea of 'A pipe to B pipe to C,' but we pass .NET objects instead of structured text. We can pass ADO, other kinds of objects, and we can create reflection-based utilities."&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>Just the idea of not having to deal with ambiguous from standard input or reparse the data at every stage of the shell pipeline makes me giddy with anticipation.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1231</id>
+    <title>XAML is VB's "With" on Steroids</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Marc's post made me connect VB's With statement for performing multiple operations on a single variable with XAML's terse, but powerful, syntax.</summary>
+    <content type="html">&lt;h1>XAML is VB's "With" on Steroids&lt;/h1>
+&lt;A href="http://myxaml.com/marcclifton/archive/2004/03/22/152.aspx">Marc's post&lt;/A> made me connect VB's With statement for performing multiple operations on a single variable with XAML's terse, but powerful, syntax.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1226</id>
+    <title>What Every Conference Room Should Be Like</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>I want all of the MS conference rooms to be like this one so that they can broadcast high quality audio and video to me at my house. I especially want a RingCam.</summary>
+    <content type="html">&lt;h1>What Every Conference Room Should Be Like&lt;/h1>
+I want all of the MS conference rooms to be like &lt;A href="http://www.microsoft.com/presspass/features/2004/mar04/03-22CIW.asp">this one&lt;/A> so that they can broadcast high quality audio and video to me at my house. I &lt;EM>especially&lt;/EM> want &lt;A href="http://research.microsoft.com/~rcutler/ringcam/ringcam.htm">a RingCam&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1227</id>
+    <title>Checking Spec. Compliance at Build Time</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Here. The one where Ward and I turn a spec. into a SOAP endpoint implementation compliance test.</summary>
+    <content type="html">&lt;h1>Checking Spec. Compliance at Build Time&lt;/h1>
+&lt;a href="/12502">Here&lt;/a>. The one where &lt;a href="/12502">Ward and I turn a spec. into a SOAP endpoint implementation compliance test&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1234</id>
+    <title>Web Site Dedicated to Extending VS.NET</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>I swear I only stopped reading blogs for a coupla days, but interesting news has just surged! For example, I just found out that MSDN has an entire web site dedicated to extending VS.NET. This includes the legendary VSIP and a set of extensions that lets you build VSIP packages in managed code. Very cool. [via Visual ActiveKent Sharkey.NET SE 3.11 ] </summary>
+    <content type="html">&lt;h1>Web Site Dedicated to Extending VS.NET&lt;/h1>
+&lt;P>I swear I only stopped reading blogs for a coupla days, but interesting news has just surged! For example, I just found out that MSDN has &lt;A href="http://msdn.microsoft.com/vstudio/extend/">an entire web site dedicated to extending VS.NET&lt;/A>. This includes the legendary VSIP and a set of extensions that lets you build VSIP packages in managed code. Very cool.&lt;/P>
+&lt;P>[via &lt;A class=headermaintitle id=Header1_HeaderTitle href="http://weblogs.asp.net/ksharkey/archive/2004/03/23/95015.aspx">Visual ActiveKent Sharkey .NET SE 3.11&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1225</id>
+    <title>Very Cool Web Service Testing Tool from Mindreef</title>
+    <updated>2004-03-24T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-24T08:00:00.000Z</published>
+    <summary>I knew Mindreef had cool testing tools, but I just found one today on their web site that I ended up using all afternoon. You feed it a WSDL URL and it generates a form, allowing you to see the SOAP request and response packet in several formats include raw XML, to pseudo-code, pretty-printed XML and tree. It's much more flexible then the built in one that ASP.NET provides and the price is right. </summary>
+    <content type="html">&lt;h1>Very Cool Web Service Testing Tool from Mindreef&lt;/h1>
+&lt;P>I knew Mindreef had cool testing tools, but &lt;A href="http://www.mindreef.net/soapscope/wsdldemo">I just found one today on their web site that I ended up using all afternoon&lt;/A>. You feed it a WSDL URL and it generates a form, allowing you to see the SOAP request and response packet in several formats include raw XML, to pseudo-code, pretty-printed XML and tree. It's much more flexible then the built in one that ASP.NET provides and the price is right.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1224</id>
+    <title>It's All Down Hill From Here : )</title>
+    <updated>2004-03-24T08:00:00.000Z</updated>
+    <published>2004-03-24T08:00:00.000Z</published>
+    <summary>Here. Rory says: "I mean, here was this guy who managed to make.NET Code Access Security look like fun. It'd be easier to pull a three-headed monkey in a tutu singing barbershop choir out of your ass, but he still accomplished it. Even my girlfriend who didn't know diddly about coding walked away making thoughtful noises to herself. To this day, she sleeps in a blue oversized Chris Sells t-shirt. How many other coders out there have silk-screened images of themselves draped over the nubile naked bodies of w...</summary>
+    <content type="html">&lt;h1>It's All Down Hill From Here : )&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/">Here&lt;/a>. &lt;P>Rory says:&lt;/p>
+&lt;blockquote>"I mean, here was this guy who managed to make .NET Code Access Security look like &lt;I>fun&lt;/I>. It'd be easier to pull a three-headed monkey in a tutu singing barbershop choir out of your ass, but he still accomplished it. Even &lt;A href="http://qtpi.neopoleon.com/">my girlfriend&lt;/A> who didn't know diddly about coding walked away making thoughtful noises to herself. To this day, she sleeps in a blue oversized Chris Sells t-shirt. How many other coders out there have silk-screened images of themselves draped over the nubile naked bodies of women as hot as my little tart of a girlfriend? Not many, my friends. Not many at all."&lt;/blockquote>
+&lt;P>I'm met Rory's "tart of a girlfriend" and there's really nothing more I need to consider accomplishing. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1223</id>
+    <title>Tom Barnaby on Preparing for Indigo</title>
+    <updated>2004-03-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-24T08:00:00.000Z</published>
+    <summary>Tom Barnaby has some tips for preparing today for Indigo tomorrow.</summary>
+    <content type="html">&lt;h1>Tom Barnaby on Preparing for Indigo&lt;/h1>
+Tom Barnaby has some &lt;A href="http://www.ftponline.com/reports/vslivesf/2004/barnaby/">tips for preparing today for Indigo tomorrow&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1222</id>
+    <title>BradA on GC fun in Whidbey</title>
+    <updated>2004-03-24T08:00:00.000Z</updated>
+    <published>2004-03-24T08:00:00.000Z</published>
+    <summary>Brad Abrams posts a nice, consise description of two tweaks to the GC that Whidbey provides to enable developers to handle unmanaged resources in their.NET objects better. Check it out. </summary>
+    <content type="html">&lt;h1>BradA on GC fun in Whidbey&lt;/h1>
+Brad Abrams posts a nice, consise description of two tweaks to the GC that Whidbey provides to enable developers to handle unmanaged resources in their .NET objects better. &lt;A href="http://blogs.msdn.com/brada/archive/2003/12/12/50948.aspx">Check it out.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1221</id>
+    <title>The Next Big Leap in "Programming"</title>
+    <updated>2004-03-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-23T08:00:00.000Z</published>
+    <summary>Tonights Portland Nerd Dinner was a barn-burner. Not only did we have the typical geek banter and laughter, but we spend some time on the question I posed the other day about what should replace character stream-based programming. The problem is that all of the hand-crafting of solutions doesn't scale. The answer was posed by a fellow nerd who, who pointed out that we've already got a model for self-organizing, self-evolving, self-maintaining&amp;nbsp;systems: biology. God didn't hand code humans and zebras and...</summary>
+    <content type="html">&lt;h1>The Next Big Leap in "Programming"&lt;/h1>
+&lt;P>Tonights Portland Nerd Dinner was a barn-burner. Not only did we have the typical geek banter and laughter, but we spend some time on the question I posed the other day about &lt;A href="/1216">what should replace character stream-based programming&lt;/A>.&lt;/p>&lt;p>The problem is that all of the hand-crafting of solutions doesn't scale. The answer was posed by a fellow nerd who, who pointed out that we've already got a model for self-organizing, self-evolving, self-maintaining&amp;nbsp;systems: biology. God didn't hand code humans and zebras and platypi -- he defined a class and instance encoding method (DNA) and an environment to serve as the runtime (Earth) and let us interact with and improve ourselves and our environment over time to solve the problem. What's the problem? What species survives best on this planet. So far, we're the winners, but we'll see what happens at the next ice age or when the next asteroid hits.&lt;/P>
+&lt;P>.NET and Longhorn have provided us a big step forward in terms of hand-crafting computer-based solutions to our problems, but only self-organizing, self-evolving, self-repairing systems can really scale. I know that &lt;A href="http://www-306.ibm.com/autonomic/index.shtml">IBM has done some work in this area with their automonic computing&lt;/A>, but my personal favorite work on this topic is &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/1558605436/">Genetic Programming III by John Koza&lt;/A>. Anyone for a Genetic Algorithm Runtime (GAR)?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1220</id>
+    <title>"Meet the Man Behind the Marquee"</title>
+    <updated>2004-03-22T08:00:00.000Z</updated>
+    <published>2004-03-22T08:00:00.000Z</published>
+    <summary>I don't think the interview covers how my blog got it's name, but how can I quibble when I get a rare link from the ever watchful Mary Jo Foley, and one so eloquently titled to boot!</summary>
+    <content type="html">&lt;h1>"Meet the Man Behind the Marquee"&lt;/h1>
+I don't think &lt;A href="http://www.devsource.ziffdavis.com/article2/0,1759,1552233,00.asp">the interview&lt;/A> covers &lt;a href="/12545">how my blog got it's name&lt;/A>, but how can I quibble when I get &lt;A href="http://www.microsoft-watch.com/article2/0,4248,1552231,00.asp?kc=MWRSS02129TX1K0000535">a rare link&lt;/A> from the ever watchful &lt;A href="http://www.microsoft-watch.com/author_bio/0,1999,a=2274,00.asp">Mary Jo Foley&lt;/A>, and one so eloquently titled to boot!</content>
+  </entry>
+</feed>

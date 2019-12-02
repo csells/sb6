@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed7.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed6.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed8.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed7.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2323</id>
+    <title>Rocky's video series on SQL Server Modeling and CSLA</title>
+    <updated>2010-02-02T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2010-02-02T08:00:00.000Z</published>
+    <summary>Rockford Lhotka has created a series of three videos showing how he has applied the SQL Server Modeling, specifically "M", to drive his well-known CSLA, a framework for building the business logic layer in your applications. He shows a custom domain-specific language (DSL) that lets you create a CSLA entity, along with the data serialization, business logic and a forms-based UI, resulting in a 95% coding savings (his words, not mine : ). Enjoy!</summary>
+    <content type="html">&lt;h1>Rocky's video series on SQL Server Modeling and CSLA&lt;/h1>
+Rockford Lhotka has created &lt;A href="http://msdn.microsoft.com/en-us/data/ff381673.aspx">a series of three videos showing how he has applied the SQL Server Modeling&lt;/A>, specifically "M", to drive his well-known CSLA, a framework for building the business logic layer in your applications. He shows a custom domain-specific language (DSL) that lets you create a CSLA entity, along with the data serialization, business logic and a forms-based UI, resulting in a 95% coding savings (his words, not mine : ). Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2322</id>
+    <title>We need cloud apps to use cloud drives</title>
+    <updated>2010-02-02T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2010-02-02T08:00:00.000Z</published>
+    <summary>Reading about Windows Azure Drive reminded me of a conversation I had when I was hanging out with my Microsoft brethren last week. We started by talking about how apps target a particular OS and how Microsoft's bread-and-butter is making sure that apps continue to work forever on Windows so that our customers can upgrade their OS and still get their work done. We then moved on to wondering whether Apple was gonna do the same thing when it came to letting iPhone/iPod Touch apps run on the new iPad. As it tur...</summary>
+    <content type="html">&lt;h1>We need cloud apps to use cloud drives&lt;/h1>
+&lt;IMG align=right src="http://www.kutchcraft.org/wp-content/uploads/2009/08/self-storage-units.jpg" width=195 height=147> 
+&lt;P>Reading about &lt;A href="http://www.bing.com/search?q=%22windows+azure+drive%22">Windows Azure Drive&lt;/A> reminded me of a conversation I had when I was hanging out with my Microsoft brethren last week. We started by talking about how apps target a particular OS and how Microsoft's bread-and-butter is making sure that apps continue to work forever on Windows so that our customers can upgrade their OS and still get their work done.&lt;/P>
+&lt;P>We then moved on to wondering whether Apple was gonna do the same thing when it came to letting iPhone/iPod Touch apps run on the new iPad. As it turns out, we heard from the iPad announcement that Apple is doing just that (although in a particularly strange single-tasking way).&lt;/P>
+&lt;P>From there we moved on to how it's really not a big deal whether you ditch your current smart phone, e.g. Dash, iPhone, BlackBerry,&amp;nbsp;Droid, etc.,&amp;nbsp;for another one because nobody really keeps data on their phones anymore anyway. It's either synch'd to their PC, e.g. photos, music, etc., or it's kept in the cloud. In fact, without realizing it, I already have a great deal of info in the cloud:&lt;/P>
+&lt;UL>
+&lt;LI>Exchange: email, contacts, appointments&lt;/LI>
+&lt;LI>TweetDeck: twitter search terms&lt;/LI>
+&lt;LI>Evernote: random notes&lt;/LI>
+&lt;LI>Amazon: Kindle books&lt;/LI>
+&lt;LI>TripIt: trip itineraries&lt;/LI>
+&lt;LI>Mint: account and budget information&lt;/LI>
+&lt;LI>Facebook: social contacts&lt;/LI>
+&lt;LI>LinkedIn: business contacts&lt;/LI>&lt;/UL>
+&lt;P>Further, I could keep my pictures in Flickr, my documents on Live and I'm sure there are many, many more. This is fabulous, because I can move from platform to platform on my phone and it's in a vendor's interest to make sure that each major platform has their app on it and because it's a smaller, more focused platform, it's easier for them to do.&lt;/P>
+&lt;P>The problem here, of course, is that we've moved from mobile vendor lock-in to cloud data storage lock-in. What happens when Amazon decides to repossess another book or Mint decides to start charging or Flickr goes out of business? Unlike the physical storage business (you know, little garages where people keep stuff when their relatives die or they're going through a divorce), the logical storage business doesn't have any legal responsibility to keep the doors open for 30 days when they go out of business to let me move my stuff somewhere else.&lt;/P>
+&lt;P>And this has already happened. When GeoCities went out of business, all of those people's web sites were gone. When live.com decided to clean out my set of RSS feeds, there wasn't any notification or recourse. I'm sure there are more similar stories and there will be lots more in the future.&lt;/P>
+&lt;P>And because I know there will be more, I'm worried.&lt;/P>
+&lt;P>Right now, as we move our apps and storage in the cloud, we have a very different dynamic then apps and storage on the desktop. Because apps on the desktop use storage I own, I can back up that data, import it into other programs and, if I feel like it, write programs against it. It's my data. The vendor doesn't ever even see it, let alone gate my access to it.&lt;/P>
+&lt;P>On the other hand, cloud app vendors ARE gating access to my data; I have to use their apps to get to it.&amp;nbsp;Unless there's some pressure, you can be damned sure the Flickrs and Mints and Amazons aren't going to be giving up the data they've got a wall around now so that I can take it to a competitor.&lt;/P>
+&lt;P>Which is why we need control over the storage for cloud apps just as much as we do for desktop apps. I want to go to a vendor I trust, e.g. Amazon, Microsoft, GE, i.e. someone big, someone you know is gonna be around for a while, and purchase cloud storage from them. I want to be able to use it as a HD for my desktop data (like Azure Drive and other products before it), including general-purpose backup, but I also want my cloud apps to store their data there, too. That way, if they start charging or they go out of business or I want to go somewhere else with my data, I can do so.&lt;/P>
+&lt;P>I expect to pay for this service, of course. That way, the cloud storage folks make money, the cloud apps folks make money for using my cloud storage and I get peace of mind knowing that I'll always have access to my data, no matter what happens to the cloud app or the cloud app vendor, just like today.&lt;/P>
+&lt;P>We need cloud apps to use cloud drives. Call your congressman!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2321</id>
+    <title>What's New in EF4.0</title>
+    <updated>2010-01-31T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2010-01-31T08:00:00.000Z</published>
+    <summary>Soma has posted a lovely description of what's new in the Entity Framework for.NET 4.0, including: Foreign Key support so you can add a row without requiring you to download an object just to get the foreign key. Lazy Loading support so as you traverse a property that is a collection, the data is pulled on demand. Plain Old CLR Object support (POCO) so that you can build your own classes and have EF serialize those instead of generating new classes. T4-based Code Generation in case you do want classes gener...</summary>
+    <content type="html">&lt;h1>What's New in EF4.0&lt;/h1>
+&lt;P>Soma has posted &lt;A href="http://blogs.msdn.com/somasegar/archive/2010/01/11/entity-framework-in-net-4.aspx">a lovely description of what's new in the Entity Framework for .NET 4.0&lt;/A>, including:&lt;/P>
+&lt;UL>
+&lt;LI>Foreign Key support so you can add a row without requiring you to download an object just to get the foreign key.&lt;/LI>
+&lt;LI>Lazy Loading support so as you traverse a property that is a collection, the data is pulled on demand.&lt;/LI>
+&lt;LI>Plain Old CLR Object support (POCO) so that you can build your own classes and have EF serialize those instead of generating new classes.&lt;/LI>
+&lt;LI>T4-based Code Generation in case you do want classes generated but want to control the code.&lt;/LI>
+&lt;LI>Data binding support for WPF and WinForms.&lt;/LI>
+&lt;LI>WCF support with serialization attribute generation.&lt;/LI>
+&lt;LI>Much better SQL generation so that you can read it better when you need what's going on over the wire and so that it's more efficient.&lt;/LI>
+&lt;LI>Much better support for complex return values from stored procedures.&lt;/LI>&lt;/UL>
+&lt;P>That Soma really knows his stuff! &lt;A href="http://blogs.msdn.com/somasegar/archive/2010/01/11/entity-framework-in-net-4.aspx">Check it out.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2320</id>
+    <title>LINQPad updated to support .NET 4.0b2!</title>
+    <updated>2010-01-24T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2010-01-24T08:00:00.000Z</published>
+    <summary>I'm such a fan of LINQPad you don't even know. Recently Joe updated it to support Data Services and as of today, if you scroll down to the bottom of the LINQPad download&amp;nbsp;page, it's been updated to support.NET 4.0 beta 2, which means that you can point it at Data Services constructed with.NET 4.0. This makes my heart sing. Also, if you haven't&amp;nbsp;spent the $29 to get the auto-completion,&amp;nbsp;it's totally worth it. Highly recommended.&amp;nbsp;Thanks, Joe!</summary>
+    <content type="html">&lt;h1>LINQPad updated to support .NET 4.0b2!&lt;/h1>
+I'm such a fan of &lt;A href="http://www.linqpad.net/beta.aspx">LINQPad&lt;/A> you don't even know. Recently Joe updated it to support Data Services and as of today, if you scroll down to the bottom of &lt;A href="http://www.linqpad.net/beta.aspx">the LINQPad download&amp;nbsp;page&lt;/A>, it's been updated to support .NET 4.0 beta 2, which means that you can point it at Data Services constructed with .NET 4.0. This makes my heart sing. Also, if you haven't&amp;nbsp;spent the $29 to get the auto-completion,&amp;nbsp;it's totally worth it. Highly recommended.&amp;nbsp;Thanks, Joe!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2319</id>
+    <title>Comparing NHibernate and EF4</title>
+    <updated>2010-01-20T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2010-01-20T08:00:00.000Z</published>
+    <summary>This is a nice piece comparing NHibernate and EF4. Personally, I'm an EF4 fan, but I'm hardly unbiased and there are definitely features I want to see added to EF v.Next. Either way, it's clear that EF4 is garnering much more appreciation from the community than previous versions and that's because you let us know what you wanted and we added it. Keep those cards and letters coming! </summary>
+    <content type="html">&lt;h1>Comparing NHibernate and EF4&lt;/h1>
+This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4">a nice piece comparing NHibernate and EF4&lt;/A>. Personally, I'm an EF4 fan, but I'm hardly unbiased and there are definitely features I want to see added to EF v.Next. Either way, it's clear that EF4 is garnering much more appreciation from the community than previous versions and that's because you let us know what you wanted and we added it. &lt;A href="https://connect.microsoft.com/VisualStudio/content/content.aspx?ContentID=14631">Keep those cards and letters coming!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/databook</id>
+    <title>Programming Data: .NET, SQL Server and You</title>
+    <updated>2010-01-01T08:00:00.000Z</updated>
+    <category term="book" label="Books"/>
+    <published>2010-01-01T08:00:00.000Z</published>
+    <summary>Welcome to the home page for my new book. Table of Contents Part 1: Data Access Chapter 1: Hello, Data Chapter 2: Entity Framework: Entities Chapter 3: The Entity Data Model: Entities Chapter 4: The Entity Data Model: Associations, Functions and Views Chapter 5: The Open Data Protocol Chapter 6: Deployment Part 2: Business Intelligence Chapter 7:	Hello, Business Intelligence Chapter 8: Integration Services Chapter 9: Reporting Services Chapter 10: Analysis Services Appendices Appendix A: Security Appendix B...</summary>
+    <content type="html">&lt;h1>Programming Data: .NET, SQL Server and You&lt;/h1>
+&lt;p>
+  Welcome to the home page for my new book.&lt;/p>
+&lt;h2>
+  Table of Contents&lt;/h2>
+&lt;ul>
+  &lt;li>
+    &lt;h3>
+      Part 1: Data Access&lt;/h3>
+    &lt;ul>
+      &lt;li>Chapter 1: &lt;a href="http://msdn.microsoft.com/en-us/library/ff754344.aspx">Hello,
+        Data&lt;/a>&lt;/li>
+      &lt;li>Chapter 2: Entity Framework: Entities&lt;/li>
+      &lt;li>Chapter 3: The Entity Data Model: Entities&lt;/li>
+      &lt;li>Chapter 4: The Entity Data Model: Associations, Functions and Views&lt;/li>
+      &lt;li>Chapter 5: The Open Data Protocol&lt;/li>
+      &lt;li>Chapter 6: Deployment&lt;/li>
+    &lt;/ul>
+  &lt;/li>
+  &lt;li>
+    &lt;h3>
+      Part 2: Business Intelligence&lt;/h3>
+    &lt;ul>
+      &lt;li>Chapter 7:	Hello, Business Intelligence&lt;/li>
+      &lt;li>Chapter 8: Integration Services&lt;/li>
+      &lt;li>Chapter 9: Reporting Services&lt;/li>
+      &lt;li>Chapter 10: Analysis Services&lt;/li>
+    &lt;/ul>
+  &lt;/li>
+  &lt;li>
+    &lt;h3>
+      Appendices&lt;/h3>
+    &lt;ul>
+      &lt;li>Appendix A: Security&lt;/li>
+      &lt;li>Appendix B: Synchronization&lt;/li>
+      &lt;li>Appendix C: Streaming (with Stream Insight)&lt;/li>
+    &lt;/ul>
+  &lt;/li>
+&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2317</id>
+    <title>The Most Effective Words To Use With Customers</title>
+    <updated>2009-12-20T08:00:00.000Z</updated>
+    <published>2009-12-20T08:00:00.000Z</published>
+    <summary>Fred Gleeck had this to say about what not to say to customers and what to say instead: There's a right way and a wrong way to talk to callers. Even about the simplest matters. And make no mistake: Talking the wrong way can turn a loyal customer into an annoyed ex-customer. I have a name for talking the right way: PosiTalk (tm). PosiTalk is an attitude. It shows you're concerned. Professional. Helpful. And, while it sometimes requires a few extra words, it can make a big difference. below you'll find some c...</summary>
+    <content type="html">&lt;h1>The Most Effective Words To Use With Customers&lt;/h1>
+&lt;P>Fred Gleeck had this to say about what not to say to customers and what to say instead:&lt;/P>
+&lt;P>There's a right way and a wrong way to talk to callers. Even about the simplest matters. And make no mistake: Talking the wrong way can turn a loyal customer into an annoyed ex-customer. I have a name for talking the right way: PosiTalk (tm).&lt;/P>
+&lt;P>PosiTalk is an attitude. It shows you're concerned. Professional. Helpful. And, while it sometimes requires a few extra words, it can make a big difference. below you'll find some common negative phrases, and the PosiTalk alternatives. Post them. Use them. And speak the language that keeps customers calling. After all... they pay the bills!&lt;/P>
+&lt;P>Negative: She/He is out to lunch...&lt;BR>PosiTalk: She/He isn't available at the moment. May I take a message.&lt;/P>
+&lt;P>Negative: I can't do that...&lt;BR>PosiTalk: Here's what we can do.&lt;/P>
+&lt;P>Negative: Hold on a minute...&lt;BR>PosiTalk: Could you hold a moment, please?&lt;/P>
+&lt;P>Negative: That's company policy...&lt;BR>PosiTalk: The way we'd normally handle that is...&lt;/P>
+&lt;P>Negative: I don't know...&lt;BR>PosiTalk: I don't have the answer to that. If you'll hold a moment, I'd be happy to find out.&lt;/P>
+&lt;P>Negative: Huh? (or: What?)&lt;BR>PosiTalk: Pardon me?&lt;/P>
+&lt;P>Negative: He/She is no longer with us...&lt;BR>PosiTalk: He/She has accepted another position, but his/her calls are now being taken by...&lt;/P>
+&lt;P>Negative: She/He is busy bow...&lt;BR>PosiTalk: She/He's not available at the moment. How can I help you?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2318</id>
+    <title>Stead Defines 'Customer'</title>
+    <updated>2009-12-20T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-12-20T08:00:00.000Z</published>
+    <summary>And here's one more from the paper file I'm putting into electronic format to reduce the pile of papers in my life: During the all-associate broadcast, Jerre Stead shared with the team a memo another associate had sent about defining a customer. Here are the highlights: Customers are individual companies with unique needs. Customers are struggling with their competitors for success. Customers are people with feelings and opinions, therefore relationships and experiences matter. Customers will judge us by ou...</summary>
+    <content type="html">&lt;h1>Stead Defines 'Customer'&lt;/h1>
+&lt;P>And here's one more from the paper file I'm putting into electronic format to reduce the pile of papers in my life:&lt;/P>
+&lt;P>During the all-associate broadcast, Jerre Stead shared with the team a memo another associate had sent about defining a customer. Here are the highlights:&lt;/P>
+&lt;UL>
+&lt;LI>Customers are individual companies with unique needs.&lt;/LI>
+&lt;LI>Customers are struggling with their competitors for success.&lt;/LI>
+&lt;LI>Customers are people with feelings and opinions, therefore relationships and experiences matter.&lt;/LI>
+&lt;LI>Customers will judge us by our performance, not by our words.&lt;/LI>
+&lt;LI>Customers are influenced by every contact with us, each and every day.&lt;/LI>&lt;/UL>
+&lt;P>&lt;STRONG>Customer "Must Not's"&lt;/STRONG>&lt;/P>
+&lt;UL>
+&lt;LI>We must not import our products or ideas on customers.&lt;/LI>
+&lt;LI>We must not ask customers to deal with people who cannot make decisions.&lt;/LI>
+&lt;LI>We must not make customers wrestle with our bureaucracy.&lt;/LI>
+&lt;LI>We must not allow any question, issue or awkwardness go unattended or unresolved.&lt;/LI>
+&lt;LI>We must never unpleasantly surprise our customer.&lt;/LI>
+&lt;LI>We must never, never take a customer for granted.&lt;/LI>&lt;/UL>
+&lt;P>&lt;STRONG>Customer "Can's"&lt;/STRONG>&lt;/P>
+&lt;UL>
+&lt;LI>We can help the customer succeed - make our customers winners.&lt;/LI>
+&lt;LI>We can provide greater value to our customers than our competitors can.&lt;/LI>
+&lt;LI>We can measure ourselves from the viewpoint of our customers.&lt;/LI>
+&lt;LI>We can put decision-making close to our customers.&lt;/LI>
+&lt;LI>We can continuously improve to better serve our customers.&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2316</id>
+    <title>How To Handle Angry Callers in 7 Not-So-Easy Steps</title>
+    <updated>2009-12-20T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-12-20T08:00:00.000Z</published>
+    <summary>When I was first in technical phone support for the software I was building, I found out that I wasn't exactly a... um... "natural" at putting customers at ease. I used the following information from an AT&amp;amp;T magazine (I was working for a AT&amp;amp;T VAR at the time) in the fall of 1992 to start my education: Don't react. Stay calm. When confronted with an irate caller, everyone has the urge to return fire. But don't fight back. And don't take it personally, or you'll become an emotional basket case. Keep r...</summary>
+    <content type="html">&lt;h1>How To Handle Angry Callers in 7 Not-So-Easy Steps&lt;/h1>
+&lt;P>When I was first in technical phone support for the software I was building, I found out that I wasn't exactly a... um... "natural" at putting customers at ease. I used the following information from an AT&amp;amp;T magazine (I was working for a AT&amp;amp;T VAR at the time) in the fall of 1992 to start my education:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;STRONG>Don't react. Stay calm. &lt;/STRONG>When confronted with an irate caller, everyone has the urge to return fire. But don't fight back. And don't take it personally, or you'll become an emotional basket case. Keep relaxed by breathing deeply. And remind yourself that this discussion will not change the destiny of mankind.&lt;/LI>
+&lt;LI>&lt;STRONG>Let them vent. &lt;/STRONG>Remember, you simply cannot get customers to deal with the logic of a situation until you've dealt with their emotions. Trying to attack the problem before people have fully vented their anger or disappointment just won't work.&lt;/LI>
+&lt;LI>&lt;STRONG>Defusing the anger. &lt;/STRONG>When a tirade is winding down, try asking - sincerely - "Is there anything else?" By this point, they're usually exhausted and willing to talk. If you hear profanity, try saying: "I know the words you're using right now aren't directed at me personally." If the caller replies, "Oh yes they are!" you're no worse off than you were. But generally they'll apologize, realizing it's not your fault. At which point, a real dialogue can begin.&lt;/LI>
+&lt;LI>&lt;STRONG>What do they want? &lt;/STRONG>Once they've calmed down, that's the time to find out what they want: Money back? A defective part replaced? Find out quickly to determine whether you can solve the problem on the spot.&lt;/LI>
+&lt;LI>&lt;STRONG>What can they have. &lt;/STRONG>Once you've figured out what they want, what can you do? This will be set by bounds of your company's policies - such as warranties or guarantees - as well as any flexibility that management may give you (which should be clearly spelled out).&lt;/LI>
+&lt;LI>&lt;STRONG>Customer solutions. &lt;/STRONG>Sometimes, the best solution you can deliver is one the customer suggests. And, surprisingly, it can end up being less than what you yourself were willing to offer. Recently, at a major department store, a customer wanted a discounting an imperfect blouse. The cashier was willing to take 35% off the marked price, but first asked the woman what discount she wanted. The answer: 20% off. Of course, some customers will make outrageous demands. In that case, ask them what they'd consider to be a "fair solution." Instead of confronting the customer, this reply opens up the discussion to a more equitable resolution.&lt;/LI>
+&lt;LI>&lt;STRONG>Follow up. &lt;/STRONG>Don't make an angry customer even angrier by not doing what you said you'd do. When a promise is made, keep following up internally to be certain that what was promised has been implemented. Even if that means making a minor pest of yourself!&lt;/LI>&lt;/OL>
+&lt;P>Fred Gleek&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2315</id>
+    <title>LINQPad updated to support Data Services!</title>
+    <updated>2009-12-15T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2009-12-15T08:00:00.000Z</published>
+    <summary>Joe Albahari, the author of LINQPad, has added support for WCF Data Services to the 1.37.1 version beta &amp;nbsp;of LINQPad. This means that you can point LINQPad at any Open Data (OData) endpoint and do queries interactively just like any other LINQ data source. He even supports HTTP security, in case the endpoint in question requires it. Further, if you have your own custom LINQ to Whatever and you'd like to plug a connection to it into LINQPad, Joe has already added the ability to create a custom data conte...</summary>
+    <content type="html">&lt;h1>LINQPad updated to support Data Services!&lt;/h1>
+&lt;IMG align=right src="http://www.linqpad.net/DataServices.png"> 
+&lt;P>Joe Albahari, the author of LINQPad, has added support for &lt;A href="http://msdn.microsoft.com/en-us/data/bb931106.aspx">WCF Data Services&lt;/A> to &lt;A href="http://www.linqpad.net/Beta.aspx">the 1.37.1 version beta&lt;/A>&amp;nbsp;of LINQPad. This means that you can point LINQPad at any &lt;A href="http://www.odata.org/">Open Data (OData)&lt;/A> endpoint and do queries interactively just like any other LINQ data source. He even supports HTTP security, in case the endpoint in question requires it. Further, if you have your own custom LINQ to Whatever and you'd like to plug a connection to it into LINQPad, Joe has already added the ability to create a custom data context provider. It is, as they say, a thing of beauty. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2314</id>
+    <title>Data and Modeling Talks from PDC 2009</title>
+    <updated>2009-12-01T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-12-01T08:00:00.000Z</published>
+    <summary>If you weren't lucky enough to be able to attend this year's PDC, not only did you not get a killer laptop, but you didn't get to see the Data &amp;amp; Modeling talks live and in person. Fortunately, Doug has a nice list of them so you can watch them from the comfort of your own home. Enjoy! </summary>
+    <content type="html">&lt;h1>Data and Modeling Talks from PDC 2009&lt;/h1>
+&lt;P>If you weren't lucky enough to be able to attend this year's PDC, not only did you not get a killer laptop, but you didn't get to see the Data &amp;amp; Modeling talks live and in person. Fortunately, Doug has a nice list of them so you can &lt;A href="http://www.douglaspurdy.com/2009/11/22/pdc-2009-data-and-modeling-talks-2/">watch them from the comfort of your own home&lt;/A>. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2312</id>
+    <title>"Quadrant": Three Features in Two Minutes</title>
+    <updated>2009-11-29T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-29T08:00:00.000Z</published>
+    <summary>Doug Purdy shows off three features of "Quadrant" from the Nov '09 SQL Server Modeling CTP bits in two minutes: Access to SQL Azure databases Creating custom views (including master detail) by mashing views together See the "markup" of any view in Quadrant and steal it/change it (just like view source in a Web browser) Enjoy! </summary>
+    <content type="html">&lt;h1>"Quadrant": Three Features in Two Minutes&lt;/h1>
+&lt;P>&lt;A href="http://www.douglaspurdy.com">Doug Purdy&lt;/A> shows off &lt;A href="http://www.douglaspurdy.com/2009/11/29/quadrant-three-features-in-two-minutes/">three features of "Quadrant"&lt;/A> from &lt;A href="http://msdn.microsoft.com/en-us/data/ee720187.aspx">the Nov '09 SQL Server Modeling CTP&lt;/A> bits in two minutes:&lt;/P>
+&lt;UL>
+&lt;LI>Access to SQL Azure databases&lt;/LI>
+&lt;LI>Creating custom views (including master detail) by mashing views together&lt;/LI>
+&lt;LI>See the "markup" of any view in Quadrant and steal it/change it (just like view source in a Web browser)&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2311</id>
+    <title>Do you know someone that needs dinner this Thanksgiving?</title>
+    <updated>2009-11-22T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-11-22T08:00:00.000Z</published>
+    <summary>The boys and I were driving past a church with a holiday bizarre, so we stopped by. It was a mix of silent auction, bake sale and a $1 raffle for a turkey dinner with all the fixings. I made several comments about how they could skip the formality of the drawing and to make sure they could read my phone number on the back of my raffle ticket, because I was obviously going to win. They laughed. When they called this morning to let me know that I had won, they told me that they remembered me and I laughed. An...</summary>
+    <content type="html">&lt;h1>Do you know someone that needs dinner this Thanksgiving?&lt;/h1>
+&lt;P>&lt;IMG align=right src="http://www.shoppingblog.com/pics/turkeydinneromahasteaks.jpg"> The boys and I were driving past a church with a holiday bizarre, so we stopped by. It was a mix of silent auction, bake sale and a $1 raffle for a turkey dinner with all the fixings. I made several comments about how they could skip the formality of the drawing and to make sure they could read my phone number on the back of my raffle ticket, because I was obviously going to win. They laughed.&lt;/P>
+&lt;P>When they called this morning to let me know that I had won, they told me that they remembered me and I laughed.&lt;/P>
+&lt;P>Anyway, the Sells Brothers and I have already picked up all we need for our Thanksgiving dinner, so if you know of a family in the Portland metro area without the means for a traditional dinner this holiday season, please let me know. I doubt it'll be so big that I'll need a sled to cart it through the streets, but I'm happy to deliver it when it needs to go. You can leave a comment on this post or &lt;A href="mailto:csells@sellsbrothers.com?subject=I know of someone that needs a turkey this Thanksgiving">drop me a line&lt;/A>.&lt;/P>
+&lt;P>Happy holidays, everyone.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2310</id>
+    <title>"M" For Language Definition in November 2009 CTP</title>
+    <updated>2009-11-13T08:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-13T08:00:00.000Z</published>
+    <summary>I couldn't wait for the PDC, so I posted a screen shot of my favorite new three features of "M" for defining domain-specific languages (DSLs) in the November 2009 CTP of "Oslo": Expressions on the right-hand side in language actions to calculate&amp;nbsp;results. "M" supports a rich expression syntax for a variety of data types. Data conversion functions for output, one for each of the supported "M" data types. DSL debugging mode to let you step through your input data and debug your language. I can't wait for ...</summary>
+    <content type="html">&lt;h1>"M" For Language Definition in November 2009 CTP&lt;/h1>
+&lt;P>I couldn't wait for the PDC, so I posted &lt;A href="/12647">a screen shot of my favorite new three features of "M" for defining domain-specific languages (DSLs)&lt;/A> in the November 2009 CTP of "Oslo":&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;P align=left>&lt;STRONG>Expressions on the right-hand side&lt;/STRONG> in language actions to calculate&amp;nbsp;results. "M" supports a rich expression syntax for a variety of data types.&lt;/P>
+&lt;LI>
+&lt;P align=left>&lt;STRONG>Data conversion&lt;/STRONG> &lt;STRONG>functions&lt;/STRONG> for output, one for each of the supported "M" data types.&lt;/P>
+&lt;LI>
+&lt;P align=left>&lt;STRONG>DSL debugging mode&lt;/STRONG> to let you step through your input data and debug your language.&lt;/P>&lt;/LI>&lt;/UL>
+&lt;P align=left>I can't wait for you to &lt;a href="/12647">see it&lt;/a>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12647</id>
+    <title>"M" For Language Definition in November 2009 CTP</title>
+    <updated>2009-11-12T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/img8.jpg"/>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-11-12T08:00:00.000Z</published>
+    <summary>In the November 2009 CTP of &amp;quot;Oslo&amp;quot;, we've got some new DSL features in &amp;quot;M&amp;quot;, three of which I couldn't wait for the PDC to brag about. Notice the following in this screenshot of Intellipad: The use of an expression on the right-hand side to calculate the full name from the first and last name from the parsed input: Name =&amp;gt; f + &amp;quot; &amp;quot; + l (&amp;quot;M&amp;quot; supports a rich expression syntax for a variety of data types). The use of ToInteger32 to provide output data conversion of the ...</summary>
+    <content type="html">&lt;h1>"M" For Language Definition in November 2009 CTP&lt;/h1>
+&lt;p align="left">
+In &lt;a href="http://msdn.com/data/">the November 2009 CTP of &amp;quot;Oslo&amp;quot;&lt;/a>, we've 
+got some new DSL features in &amp;quot;M&amp;quot;, three of which I couldn't wait for the PDC to 
+brag about.&lt;/p>
+&lt;p align="left">
+&lt;img alt="November 2009 CTP version of Intellipad" src="/public/spout/img8.jpg" width="1066" height="331" />&lt;/p>
+&lt;p align="left">
+Notice the following in this screenshot of Intellipad:&lt;/p>
+&lt;ul>
+	&lt;li>
+	&lt;p align="left">The use of &lt;strong>an expression on the right-hand side&lt;/strong> 
+	to calculate the full name from the first and last name from the parsed 
+	input: Name =&amp;gt; f + &amp;quot; &amp;quot; + l (&amp;quot;M&amp;quot; supports a rich expression syntax for a 
+	variety of data types).&lt;/p>
+	&lt;/li>
+	&lt;li>
+	&lt;p align="left">The use of ToInteger32 to provide &lt;strong>output data 
+	conversion&lt;/strong> of the Age token as different from the default of string 
+	(there's one of these functions for each of the supported &amp;quot;M&amp;quot; data types).&lt;/p>
+	&lt;/li>
+	&lt;li>
+	&lt;p align="left">The orange highlighted text in the left-hand pane shows a 
+	breakpoint and notice that Intellipad knows that &amp;quot;yours old.&amp;quot; is a single 
+	thing, so highlights the entire phrase. Also notice the &amp;quot;notification&amp;quot; pane 
+	on the far right to show what the data is that's being parsed right now. 
+	This indicates that Intellipad is now in &lt;strong>DSL debugging mode&lt;/strong> 
+	and lets you step through your input data and debug your language.&lt;/p>
+	&lt;/li>
+&lt;/ul>
+&lt;p align="left">You'll also notice richer error information in the Error List at 
+the bottom of the Intellipad window, but that I could've waited to tell you 
+about. : )&lt;/p>
+&lt;p align="left">All of these &amp;quot;M&amp;quot; features and more can be yours for the low low 
+price of absolutely nothing in &lt;a href="http://msdn.com/data/">the latest CTP of 
+&amp;quot;Oslo&amp;quot;&lt;/a>, which you can download on November 17th, the first day of
+&lt;a href="http://microsoftpdc.com">the PDC&lt;/a>. &lt;/p>
+&lt;p align="left">
+&lt;a href="/2310">Discuss&lt;/a>&lt;/p></content>
+  </entry>
+</feed>

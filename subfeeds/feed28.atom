@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed28.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed27.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed29.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed28.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2017</id>
+    <title>MS Live Labs PhotoSynth: building the photo web</title>
+    <updated>2006-07-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-29T07:00:00.000Z</published>
+    <summary>Imagine your vacation photos displayed in 3D and linked together, both around a space and zooming in and out. Now imagine everyone's photos linked together in this way. What you get is PhotoSynth: PhotoSynth Demo and Overview Videos PhotoSynth architect interview on Channel9 PhotoSynth on 10 Worth checking out. </summary>
+    <content type="html">&lt;h1>MS Live Labs PhotoSynth: building the photo web&lt;/h1>
+&lt;P>Imagine your vacation photos displayed in 3D and linked together, both around a space and zooming in and out. Now imagine everyone's photos linked together in this way. What you get is PhotoSynth:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=afe093ae-b780-4ee0-b0f1-897dfd42f0f9">PhotoSynth Demo and Overview Videos&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/showpost.aspx?postid=220870">PhotoSynth architect interview on Channel9&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.on10.net/Blogs/TheShow/4187/">PhotoSynth on 10&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Worth checking out.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2016</id>
+    <title>Phones are just little PCs and should be treated as such</title>
+    <updated>2006-07-28T07:00:00.000Z</updated>
+    <published>2006-07-28T07:00:00.000Z</published>
+    <summary>Folks are having enough issues with their Qtek 8500 phones that they're starting to want to trade them in on IMate Smartphones, which are the same HTC hardware but different software. Issues include (for me): phone not ringing on all incoming phone calls phone not providing notification of pending voicemail heavy bluetooth interference fuzzy pictures Yesterday, I used Stork's instructions to turn my Qtek into a Smartflip and have not had any of the problems except for the bluetooth interference. The real pr...</summary>
+    <content type="html">&lt;h1>Phones are just little PCs and should be treated as such&lt;/h1>
+&lt;P>Folks are having enough issues with their &lt;A href="/2005">Qtek 8500 phones&lt;/A> that they're starting to want to trade them in on &lt;A href="http://www.imate.com/t-DETAILS_SMARTFLIP.aspx">IMate Smartphones&lt;/A>, which are the same HTC hardware but different software. Issues include (for me):&lt;/P>
+&lt;UL>
+&lt;LI>phone not ringing on all incoming phone calls&lt;/LI>
+&lt;LI>phone not providing notification of pending voicemail&lt;/LI>
+&lt;LI>heavy bluetooth interference&lt;/LI>
+&lt;LI>fuzzy pictures&lt;/LI>&lt;/UL>
+&lt;P>Yesterday, I used &lt;A href="http://www.howardforums.com/showpost.php?p=7591115&amp;amp;postcount=551">Stork's instructions&lt;/A> to turn my Qtek into a Smartflip and have not had any of the problems except for the bluetooth interference.&lt;/P>
+&lt;P>The real problem is that, unlike with PCs, phone hardware manufacturers don't actually support their phones. If I buy a Dell, they'll provide BIOS and driver upgrades. If I buy an Qtek, they send me to the cell provider for a fix who, of course, doesn't have the Qtek 8500 on their list.&lt;/P>
+&lt;P>With the flexibility of phones these days, they're just like pocket-sized PCs and there's a lot more innovation going on with them then with my PC right now. I used to get excited about my new laptop; now I get excited about my new phone. However, this situation about who you're supposed to buy phones from and get support from is completely messed up and needs to change.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12377</id>
+    <title>Ed Helms on Microsoft Recruiting</title>
+    <updated>2006-07-25T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2006-07-25T07:00:00.000Z</published>
+    <summary>This spoof on Microsoft's college recruiting practices was recorded long ago (back with the XBox was new), but it has recently surfaced again, so I thought I'd share. Enjoy. </summary>
+    <content type="html">&lt;h1>Ed Helms on Microsoft Recruiting&lt;/h1>
+
+&lt;p>This &lt;a href="http://www.microsoft.com/college/content/college.wvx">spoof on 
+Microsoft's college recruiting practices&lt;/a> was recorded long ago (back with 
+the XBox was new), but it has recently surfaced again, so I thought I'd share. Enjoy.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2014</id>
+    <title>Portland Code Camp: Wow!</title>
+    <updated>2006-07-23T07:00:00.000Z</updated>
+    <published>2006-07-23T07:00:00.000Z</published>
+    <summary>I have to say, I was very surprised at how much I enjoyed Portland Code Camp yesterday. I had planned on skipping the sessions (except my own), instead monkeying for Rory as my entertainment, but that went out the window when I got there and saw the session list. I very much enjoyed Scott's PowerShell presentation (Tab completion and PowerShell Analyst -- wahoo!), as well as the RoR meta-programming and IronRuby sessions, but easily the best talk I saw was Jeff Berkowitz's Poker Bots f</summary>
+    <content type="html">&lt;h1>Portland Code Camp: Wow!&lt;/h1>
+&lt;P>I have to say, I was very surprised at how much I enjoyed &lt;A href="http://pdx.techevents.info/codecamp/2/default.aspx">Portland Code Camp&lt;/A> yesterday. I had planned on skipping the sessions (except my own), instead monkeying for Rory as my entertainment, but that went out the window when I got there and saw the session list. I very much enjoyed &lt;A href="http://pdx.techevents.info/codecamp/2/SessionInfo.aspx?ID=41afbc8f-bc40-48c8-b37b-adba30f92802">Scott's PowerShell presentation&lt;/A> (Tab completion and PowerShell Analyst -- wahoo!), as well as &lt;A href="http://pdx.techevents.info/codecamp/2/SessionInfo.aspx?ID=efb74fdf-2671-4291-88d3-da498cb2f745">the RoR meta-programming&lt;/A> and &lt;A href="http://pdx.techevents.info/codecamp/2/SessionInfo.aspx?ID=2b2cf0c4-48eb-43cb-8fa1-a463ef9e999d">IronRuby&lt;/A> sessions, but easily the best talk I saw was Jeff Berkowitz's &lt;A href="http://pdx.techevents.info/codecamp/2/SessionInfo.aspx?ID=25e9d3a3-0341-4a93-a596-8bfb4e7cba36">Poker Bots for Fun and Profit&lt;/A>. The set of legal, ethical, technical and algorithmic issues he covered as awesome. The coolest thing I learned about was &lt;A href="http://www.poker-academy.com/download-poker/">the Poker Academy&lt;/A>, which is a poker tutorial program that lets me build my own poker bots to test my strategies. Fabulous!&lt;/P>
+&lt;P>My own session was co-delivered by Chris Tavares (recently of &lt;A href="http://msdn.microsoft.com/practices/">the Patterns and Practices group&lt;/A>), and we spent 90 minutes pumping the audience for their feedback about building distributed applications under Windows, including what their scenarios are, what sucks and should be fixed, what's good and should be kept and what solutions they propose. I have to say, it was fun to be on the receiving end of the heat instead of the giving end for the change and to be in a group that hopes to solve such problems (the Connected Systems Division owns Indigo, BizTalk and Workflow). Thanks, attendees, for the great list and for not throwing anything but insults (and so politely, too! : ).&lt;/P>
+&lt;P>In addition to the free sessions, there was free food, free entertainment, free wireless and free air conditioning. I miss the single-track benefits that you get with &lt;a href="/public/conference/">the DevCons&lt;/A>, but other than that, the Portland Code Camp is now in the very short list of conferences I won't be missing in the future. Thanks to &lt;A href="http://www.jasonmauer.com/">Jason&lt;/A>, &lt;A href="http://richhubbins.theclaussens.com">Rich&lt;/A>, &lt;A href="http://ferncrk.com">Stuart&lt;/A> and the rest of the organizers. Highly recommended!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2015</id>
+    <title>An Embarrassment of WPF Riches</title>
+    <updated>2006-07-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-07-23T07:00:00.000Z</published>
+    <summary>I just realized that Avalon is getting a book treatment unlike any other topic in my memory: "Essential WPF," by Chris Anderson, architect on the MS WPF team "Applications = Code + Markup," by *the* Charles Petzold "WPF Unleashed," by Adam Nathan of ".NET and COM: The Complete Interoperability Guide," *the* book on.NET interop and the correspondingly wonderful pinvoke.net. "Programming WPF," by Ian Griffiths and Chris Sells. Ian's depth of knowledge of graphics -- down to the hardware -- continues to amaze ...</summary>
+    <content type="html">&lt;h1>An Embarrassment of WPF Riches&lt;/h1>
+&lt;P>I just realized that Avalon is getting a book treatment unlike any other topic in my memory:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.simplegeek.com/categoryview.aspx/Programming%20Avalon">"Essential WPF,"&lt;/A> by Chris Anderson, architect on the MS WPF team&lt;/LI>
+&lt;LI>&lt;A href="http://www.charlespetzold.com/wpf/index.html">"Applications = Code + Markup,"&lt;/A> by *the* Charles Petzold&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/adam_nathan/archive/2006/05/17/599301.aspx">"WPF Unleashed,"&lt;/A> by Adam Nathan of ".NET and COM: The Complete Interoperability Guide," *the* book on .NET interop and the correspondingly wonderful &lt;A href="http://pinvoke.net/">pinvoke.net&lt;/A>.&lt;/LI>
+&lt;LI>&lt;A href="/wpfbook">"Programming WPF,"&lt;/A> by Ian Griffiths and Chris Sells. Ian's depth of knowledge of graphics -- down to the hardware -- continues to amaze me.&lt;/LI>&lt;/UL>
+&lt;P>User and GDI had Petzold. Win32 had Rector. MFC had Prosise. COM had Box. Indigo's got no big names I've yet seen, but Avalon gets Anderson, Petzold, Nathan *and* Griffiths?!? It's going to be a bloodbath in the market, but the readers are going to benefit. Why couldn't I have picked a lightweight topic, like, oh, I don't know, ASP.NET 2.0? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2013</id>
+    <title>DVD Wars. Huh. What is it good for?</title>
+    <updated>2006-07-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-07-17T07:00:00.000Z</published>
+    <summary>Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen " DVD Wars." When I moved from VHS to DVD, I got much higher quality output and random access to content. Given that DVDs are already letterbox, what do I get moving to an HD DVD format? Is the quality that much better? Are there other features I get that I&amp;#8217;m going to really want? The only feature I wish I had was the ability to easily burn the main content of my DVDs to my computer for random access like I get w/ music today. Will the next-g...</summary>
+    <content type="html">&lt;h1>DVD Wars. Huh. What is it good for?&lt;/h1>
+Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen "&lt;A href="http://www.businessweek.com/technology/content/oct2005/tc20051020_154892.htm">DVD Wars&lt;/A>." When I moved from VHS to DVD, I got much higher quality output and random access to content. Given that DVDs are already letterbox, what do I get moving to an HD DVD format? Is the quality that much better? Are there other features I get that I&amp;#8217;m going to really want? The only feature I wish I had was the ability to easily burn the main content of my DVDs to my computer for random access like I get w/ music today. Will the next-gen formats support that?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/atlbook</id>
+    <title>ATL Internals: Working with ATL 8, 2e</title>
+    <updated>2006-07-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/writing/atlbook/at2ecover.jpg"/>
+    <category term="book" label="Books"/>
+    <published>2006-07-15T07:00:00.000Z</published>
+    <summary>The Book Welcome to the home page for &amp;quot;ATL Internals: Working with ATL 8 (2nd Edition),&amp;quot; by Christopher Tavares, Kirk Fertitta, Brent Rector and Chris Sells, available from Amazon. The Source The code samples for this book is available here. The Errata Soon you'll be able to see and report errata for this book, which will help us improve future printings. The Table of Contents Foreword Preface Chapter 01 -- Hello ATL Chapter 02 -- Strings and Text Chapter 03 -- Smart Types Chapter 04 -- Objects </summary>
+    <content type="html">&lt;h1>ATL Internals: Working with ATL 8, 2e&lt;/h1>
+	&lt;h2>
+      The Book&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321159624/chrissells">&lt;img border="0" src="/public/writing/atlbook/at2ecover.jpg" style="float: right">&lt;/a>&lt;/h2>
+	&lt;p>
+      Welcome to the home page for &amp;quot;ATL Internals: Working with ATL 8 (2nd 
+		Edition),&amp;quot; by Christopher Tavares, Kirk Fertitta, Brent Rector and 
+		Chris Sells, available from
+		&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321159624/chrissells">Amazon&lt;/a>.&lt;/p>
+	&lt;h2>
+      The Source&lt;/h2>
+    &lt;p>&lt;a href="/public/writing/atlbook/AtlInternals2eSrc.zip">The code samples for this book is 
+	available here&lt;/a>.&lt;/p>
+    &lt;h2>The Errata&lt;/h2>
+	&lt;p>Soon you'll be able to see and report errata for this book, 
+	which will help us improve future printings.&lt;/p>
+	&lt;h2>The Table of Contents&lt;/h2>
+	&lt;ul>
+		&lt;li>Foreword&lt;/li>
+		&lt;li>Preface&lt;/li>
+		&lt;li>Chapter 01 -- Hello ATL&lt;/li>
+		&lt;li>Chapter 02 -- Strings and Text&lt;/li>
+		&lt;li>Chapter 03 -- Smart Types&lt;/li>
+		&lt;li>Chapter 04 -- Objects&lt;/li>
+		&lt;li>Chapter 05 -- Servers&lt;/li>
+		&lt;li>Chapter 06 -- Interface Maps&lt;/li>
+		&lt;li>Chapter 07 -- Persistence&lt;/li>
+		&lt;li>Chapter 08 -- Enumeration&lt;/li>
+		&lt;li>Chapter 09 -- Connection Points&lt;/li>
+		&lt;li>Chapter 10 -- Windowing&lt;/li>
+		&lt;li>Chapter 11 -- Controls&lt;/li>
+		&lt;li>Chapter 12 -- Control Containment&lt;/li>
+		&lt;li>Chapter 13 -- Hello ATL Server&lt;/li>
+		&lt;li>Chapter 14 -- ATL Server Internals&lt;/li>
+		&lt;li>Appendix A -- C++ Templates&lt;/li>
+		&lt;li>Appendix B -- ATL Classes and Headers&lt;/li>
+		&lt;li>Appendix C -- Moving To ATL8&lt;/li>
+		&lt;li>Appendix D -- Attributed ATL&lt;/li>
+		&lt;li>Index&lt;/li>
+	&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2012</id>
+    <title>I'm on MySpace now</title>
+    <updated>2006-07-14T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-07-14T07:00:00.000Z</published>
+    <summary>I'm on MySpace. Now what?</summary>
+    <content type="html">&lt;h1>I'm on MySpace now&lt;/h1>
+&lt;A href="http://myspace.com/csells">I'm on MySpace&lt;/A>. Now what?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2011</id>
+    <title>Functional Language Summary</title>
+    <updated>2006-07-11T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-11T07:00:00.000Z</published>
+    <summary>I've been hearing a lot about functional programming lately (and the circle of life continues); I found Functional Programming For The Rest of Us to be a nice summary. Here's what I got from it: Atoms of FP: All "variables" are immutable, often called "symbols" Program state is kept in functions (specifically, arguments passed on the stack to functions), not variables Functions are first class citizens, i.e. functions can be passed as arguments "currying" is a convenience syntax for adapting a function to a...</summary>
+    <content type="html">&lt;h1>Functional Language Summary&lt;/h1>
+&lt;P>I've been hearing a lot about functional programming lately (and the circle of life continues); I found &lt;A href="http://www.defmacro.org/ramblings/fp.html">Functional Programming For The Rest of Us&lt;/A> to be a nice summary. Here's what I got from it:&lt;/P>
+&lt;P>&lt;STRONG>Atoms of FP:&lt;/STRONG>&lt;/P>
+&lt;UL>
+&lt;LI>All "variables" are immutable, often called "symbols"&lt;/LI>
+&lt;LI>Program state is kept in functions (specifically, arguments passed on the stack to functions), not variables&lt;/LI>
+&lt;LI>Functions are first class citizens, i.e. functions can be passed as arguments&lt;/LI>
+&lt;LI>"currying" is a convenience syntax for adapting a function to an alternate function signature&lt;/LI>
+&lt;LI>"closures" are functions that are allowed mutable state and access to state outside their lexical scope to bridge functional and non-functional languages&lt;/LI>&lt;/UL>
+&lt;P>&lt;STRONG>Implications:&lt;/STRONG>&lt;/P>
+&lt;UL>
+&lt;LI>Functions cannot cause side effects ("variables" are immutable)&lt;/LI>
+&lt;LI>FP is great for unit testing (only have to test outputs against inputs -- don't have to test side effects)&lt;/LI>
+&lt;LI>FP is great for debugging (no need to worry about external state affecting function results -- results are only based on the input)&lt;/LI>
+&lt;LI>No need for multi-threaded locks, as state is immutable&lt;/LI>
+&lt;UL>
+&lt;LI>This makes functional programs automatically parallelizeable&lt;/LI>&lt;/UL>
+&lt;LI>Can hot swap new function definitions w/o effecting existing instances&lt;/LI>
+&lt;LI>Don't need to evaluate a function 'til the results are needed&lt;/LI>&lt;/UL>
+&lt;P>FP sounds great! Why do we mess around w/ anything else?!?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12461</id>
+    <title>Struggling with NUnit (2.2)</title>
+    <updated>2006-07-06T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/nunit-filenotfound.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2006-07-06T07:00:00.000Z</published>
+    <summary>I had a very unpleasant afternoon trying to get NUnit working, so I thought I'd share my troubles and my solutions (such as they are). A search revealed a lot of folks with the same troubles, but precious few explanations or solutions. The NUnit Quick Start documentation does a wonderful job telling you how to write a simple TestFixture class with one or more Test methods (and even an optional SetUp method). However, as far as I could tell, there wasn't any part of that tutorial that said &amp;quot;Hey! Add a r...</summary>
+    <content type="html">&lt;h1>Struggling with NUnit (2.2)&lt;/h1>
+&lt;p align="left">I had a very unpleasant afternoon trying to get &lt;a href="http://www.nunit.org">NUnit&lt;/a> working, so I thought I'd share my troubles and my solutions (such as they are). A search revealed a lot of folks with the same troubles, but precious few explanations or solutions. &lt;a href="http://www.nunit.org/index.php?p=quickStart&amp;r=2.2">The NUnit Quick Start documentation&lt;/a> does a wonderful job telling you how to write a simple TestFixture class with one or more Test methods (and even an optional SetUp method). However, as far as I could tell, there wasn't any part of that tutorial that said 
+&amp;quot;Hey! &lt;b>Add a reference to 'nunit.core.dll'&lt;/b> as well as 'nunit.framework.dll' to your project or neither nunit-gui nor nunit-console will work;&amp;quot; you'll get 
+a System.IO.FileNotFoundException when you don't have nunit.core.dll (the Exceptions Details menu item doesn't help):&lt;/p>
+&lt;img border="0" src="/public/spout/nunit-filenotfound.jpg" width="780" height="187">&lt;p align="left">Also, &lt;b>when you start up nunit-console, you better darn well be in the current working directory of the test assembly as well as nunit.core&lt;/b> or you're going to get the same message in the console. Likewise, if you start nunit-gui. Further, if you just run nunit-gui, create a new project and then add an assembly, you better have known to 
+&lt;b>save the .nunit project file in the same directory as the assemblies you add&lt;/b>, or you'll be getting the same message again.&lt;br>&lt;br>And, as if that weren't enough, you'll get this message again if you add nunit integration as an external tool to VS05 (via the Tools | External Tools menu item) using the instructions in the docs. The docs say to use $(TargetPath) and $(TargetDir), but those variables expand to the obj directory on my machine (although that seems wrong to me), not the bin directory, and the obj directory doesn't contain the referenced assemblies. 
+&lt;b>I never was able to get a VS05 external NUnit tool to work.&lt;/b>&lt;br>&lt;br>Luckily, it's very cool that nunit-gui doesn't keep test assemblies locked and notices when an assembly has changed from underneath it, so that once I do get it started with the appropriate working directory, it works nicely.&lt;br>&lt;br>As it turned out, there were a lot of ways to get that FileNotFoundException message and I'm pretty sure I found them all before finding any ways to actually make nunit work. None of these things are NUnit's fault  it's damn hard to do dynamic assembly loading in .NET  but it's still on you to make sure NUnit is configured properly.&lt;br>&lt;br>Finally, the tutorial 
+shows but doesn't say that you better &lt;b>make your test methods public&lt;/b>. Since NUnit uses Reflection, it doesn't need the classes or the methods to be public, but I guess they decided that was an interesting knob to let the developer turn. I'd have preferred to let the default permissions work (internal) to save myself typing, but that's just a nit.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2010</id>
+    <title>This blog entry cost me $113.70</title>
+    <updated>2006-07-06T07:00:00.000Z</updated>
+    <published>2006-07-06T07:00:00.000Z</published>
+    <summary>So, I'm loving my t-mobile cell phone account (I get unlimited HotSpot access at Starbucks and lots of other places, too). However, I just learned that one service I don't have is free text messaging. Normally, that's not a problem because I'm a middle-aged white guy and "texting" is for young kids cheating on tests and looking for sex partners (at least, that's what I get from the news : ). Anyway, I just got my t-mobile bill and my phone has been receiving text messages to the tune of 54/day for a total o...</summary>
+    <content type="html">&lt;h1>This blog entry cost me $113.70&lt;/h1>
+&lt;P>So, I'm loving my t-mobile cell phone account (I get unlimited HotSpot access at Starbucks and lots of other places, too). However, I just learned that one service I &lt;EM>don't &lt;/EM>have is free text messaging. Normally, that's not a problem because I'm a middle-aged white guy and "texting" is for young kids cheating on tests and looking for sex partners (at least, that's what I get from the news : ).&lt;/P>
+&lt;P>Anyway, I just got my t-mobile bill and my phone has been receiving text messages to the tune of 54/day for a total of 1137 in the first 21 days. At $0.10/message, that doubled my bill and confused the hell out of me, because I only ever see a text message on my phone when I miss a call from my wife or when my European friends text me, i.e. about 10/month. Where have all of these text messages come from?&lt;/P>
+&lt;P>Apparently, they come from Exchange using AUTD (Always Up To Date) to notify my phone that new messages are available. I didn't know that's how this worked; I was just happy to get it to work at all. Luckily, this is no longer a problem. AUTD was apparently a Windows Mobile 2003 Second Edition thing that my old Audiovox 5600 used (I must have had free text messaging on my AT&amp;amp;T Wireless account and not noticed how young and hip my phone was).&lt;/P>
+&lt;P>Luckily, my text message traffic has fallen back to near zero because of my &lt;A href="/2005">Qtek 8500&lt;/A>, which uses &lt;A href="http://blogs.msdn.com/jasonlan/archive/2005/08/22/454717.aspx">"push email."&lt;/A> Apparently push email keeps an HTTP session open to Exchange using my unlimited data access instead of using my (very!) limited text message access.&lt;/P>
+&lt;P>I sure wish there'd been some way of knowing this before the first bill arrived, of course, but it's nice to know my Qtek is actually &lt;EM>saving&lt;/EM> me money (at least, that's what I'll tell the wife : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2009</id>
+    <title>Struggling with NUnit (2.2)</title>
+    <updated>2006-07-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-07-06T07:00:00.000Z</published>
+    <summary>The one where I get System.IO.FileNotFoundException in NUnit in a bunch of different ways and suggest some possible solutions.</summary>
+    <content type="html">&lt;h1>Struggling with NUnit (2.2)&lt;/h1>
+The one where I get &lt;a href="/12461">System.IO.FileNotFoundException in NUnit&lt;/A> in a bunch of different ways and suggest some possible solutions.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2007</id>
+    <title>A Shared Source Site: CodePlex</title>
+    <updated>2006-07-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-05T07:00:00.000Z</published>
+    <summary>" CodePlex functionality, built on Microsoft Visual Studio&amp;#174; 2005 Team Foundation Server, provides source control, issue tracking, discussion forums and RSS feeds in and out of each project so that members can stay up to date on the development issues most important to them. Microsoft Visual Studio Team Foundation Server enables developers to collaboratively develop, share, discuss and consume source code and build software." Enjoy. </summary>
+    <content type="html">&lt;h1>A Shared Source Site: CodePlex&lt;/h1>
+&lt;P>&lt;EM>"&lt;A href="http://www.microsoft.com/presspass/press/2006/jun06/06-27CodePlexPR.mspx">CodePlex&lt;/A> functionality, built on Microsoft Visual Studio&amp;#174; 2005 Team Foundation Server, provides source control, issue tracking, discussion forums and RSS feeds in and out of each project so that members can stay up to date on the development issues most important to them. Microsoft Visual Studio Team Foundation Server enables developers to collaboratively develop, share, discuss and consume source code and build software."&lt;/EM>&lt;/P>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2008</id>
+    <title>Superman Returns: Boring</title>
+    <updated>2006-07-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-07-05T07:00:00.000Z</published>
+    <summary>Superman Returns has some cool scenes&amp;nbsp;and Kevin Spacey does a great Lex Luthor, but overall there were far too many soulful looks between Superman and Lois Lane for my taste. It's a matinee at best.</summary>
+    <content type="html">&lt;h1>Superman Returns: Boring&lt;/h1>
+&lt;A href="http://www.imdb.com/title/tt0348150/">Superman Returns&lt;/A> has some cool scenes&amp;nbsp;and Kevin Spacey does a great Lex Luthor, but overall there were far too many soulful looks between Superman and Lois Lane for my taste. It's a matinee at best.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2006</id>
+    <title>When to ship a book is hard to know these days...</title>
+    <updated>2006-06-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-06-27T07:00:00.000Z</published>
+    <summary>Mr. Petzold beat me to the punch on the Windows Forms 2.0 book and he's going to do it again on the RTM Avalon book. However, such a thing is dicey, as Mr. Petzold points out. It was in researching the Windows Forms 1.0 book when I grew to be scared of finalizing a book before the technology was finalized; that's when they added AllowPartiallyTrustedCallersAttribute and it screwed up the entire No-Touch Deployment story. Toward that end, we didn't ship the WinForms 2.0 book 'til after the.NET 2.0 bits went ...</summary>
+    <content type="html">&lt;h1>When to ship a book is hard to know these days...&lt;/h1>
+&lt;P>Mr. Petzold beat me to the punch on the Windows Forms 2.0 book and he's going to do it again on the RTM Avalon book. However, such a thing is dicey, as &lt;A href="http://www.charlespetzold.com/blog/2006/06/271246.html">Mr. Petzold points out&lt;/A>.&lt;/P>
+&lt;P>It was in researching the Windows Forms 1.0 book when I grew to be scared of finalizing a book before the technology was finalized; that's when they added AllowPartiallyTrustedCallersAttribute and it screwed up the entire No-Touch Deployment story. Toward that end, we didn't ship the WinForms 2.0 book 'til after the .NET 2.0 bits went gold and we won't ship the paper copy of the Avalon 1.0 book 'til then, either (although I understand ORA is going to be shipping early electronic drafts of our work as we do it). I have to sacrifice 2-3 months on the shelves to my competitors, but I get to be less scared of big, last minute changes.&lt;/P>
+&lt;P>It's a judgment call, though. In this era of books with 12-18 month shelf lives, I can't say Mr. Petzold's not right...&lt;/P></content>
+  </entry>
+</feed>

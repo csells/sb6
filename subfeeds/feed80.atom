@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed80.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed79.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed81.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed80.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1289</id>
+    <title>I Shall Wear My Grammar Godhood With Humility</title>
+    <updated>2004-04-19T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-04-19T07:00:00.000Z</published>
+    <summary>You are a GRAMMAR GOD! If your mission in life is not already to preserve the English tongue, it should be. Congratulations and thank you! brought to you by Quizilla [ed: I took out all the links in this post because apparently there are links on this site that dump adware on your machine and some of my readers have been bitten. My apologies. If you must go to the site, here's the link, but on your head be it: http://quizilla.com/users/BaalObsidian/quizzes/How%20grammatically%20sound%20are%20you?/] </summary>
+    <content type="html">&lt;h1>I Shall Wear My Grammar Godhood With Humility&lt;/h1>
+&lt;P>&lt;IMG alt="Grammar God!" src="http://live.quizilla.com/user_images/B/BaalObsidian/1080162080_cturesgod3.jpg" border=0>&lt;BR>You are a &lt;B>GRAMMAR GOD&lt;/B>! &lt;BR>&lt;BR>If your mission in life is not already to preserve the English tongue, it should be.&lt;BR>Congratulations and thank you!&lt;BR>&lt;FONT size=-3>brought to you by Quizilla&lt;/FONT>&lt;/P>
+&lt;p>&lt;i>&lt;b>[ed: I took out all the links in this post because apparently there are links on this site that dump adware on your machine and some of my readers have been bitten. My apologies. If you must go to the site, here's the link, but on your head be it: http://quizilla.com/users/BaalObsidian/quizzes/How%20grammatically%20sound%20are%20you?/]&lt;/p>&lt;/i>&lt;/b></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12651</id>
+    <title>Chris's Friends on the Web</title>
+    <updated>2004-04-18T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/P0001295.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2004-04-18T07:00:00.000Z</published>
+    <summary>If you're looking for my wife, Melissa, her email address is msells@sellsbrothers.com. Her email is pretty reliable now, so send her some! It makes her so happy... My brother-in-law and sister-in-law, Joel and Beth Howie are online again. Drop them a line. Another friend of mine since grade school, Pete Clark, is just coming off his hiatus recovering from a dot-bomb and spending time with his new child. He is now the principle in pclark.net Consulting, LLC. If you live in Portland, OR and you'd like to get ...</summary>
+    <content type="html">&lt;h1>Chris's Friends on the Web&lt;/h1>
+        &lt;p align="left">
+            If you're looking for &lt;b>my wife, Melissa,&lt;/b> her email address is &lt;a href="mailto:msells@sellsbrothers.com">
+                msells@sellsbrothers.com.&lt;/a> Her email is pretty reliable now, so send her 
+            some! It makes her so happy...
+        &lt;/p>
+        &lt;p>
+            My brother-in-law and sister-in-law, &lt;b>&lt;a href="mailto:howiefamily@earthlink.net">Joel and Beth Howie&lt;/a>&lt;/b> are online 
+            again. Drop them a line.
+        &lt;/p>
+        &lt;p>
+            Another friend of mine since grade school, &lt;b>Pete Clark,&lt;/b> is 
+            just coming off his hiatus 
+            recovering from a dot-bomb and spending time with his new child. He 
+            is now the principle in
+            &lt;a href="http://www.pclark.net/">pclark.net 
+            Consulting, LLC&lt;/a>.&lt;/p>
+        &lt;p>
+            If you live in Portland, OR and you'd like to get together for breakfast with a 
+            group of &lt;b>"congenial nerds,"&lt;/b> check out the
+            &lt;a href="http://www.slowtrain.placo.com/nb/nerdbreakfast.jsp">Nerd Breakfast Home Page&lt;/a>. I like to get there myself when I'm not 
+            traveling (or sleeping in : ).
+        &lt;/p>
+        &lt;p>
+            This just in!&amp;nbsp; Matt Pietrek's wife took this pic of (left to right),
+            &lt;a href="http://www.donbox.com/">Don Box&lt;/a>, me and
+            &lt;a href="http://www.wheaty.net/">Matt Pietrek&lt;/a>. 
+            Sorry about the lack of a smile. I was having a lot of fun hanging out at 
+            Matt's house that day, but can never manage to smile for the camera. BTW, ask 
+            me to tell you how all of us spent hours debugging a screensaver that day...
+        &lt;/p>
+        &lt;p>
+            &amp;nbsp;&lt;img border="0" src="/public/fun/P0001295.JPG" width="768" height="512">
+        &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1287</id>
+    <title>The X in XP Stands for "Wow"</title>
+    <updated>2004-04-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-16T07:00:00.000Z</published>
+    <summary>I had coffee with Arlo Belshee today. He's done years of successful XP programming and when I say "successful," I mean increased and predicable output. In fact, the techniques he described for XP programming, he also applied to sales/marketing and got the same level of improvements. He's got an idea for the culture of a product team, including all levels of management, that makes me drool. If you get a chance to hear Arlo speak on this topic, you should do it. He's downright inspiring.</summary>
+    <content type="html">&lt;h1>The X in XP Stands for "Wow"&lt;/h1>
+I had coffee with &lt;A href="http://c2.com/cgi/wiki?ArloBelshee">Arlo Belshee&lt;/A> today. He's done years of successful XP programming and when I say "successful," I mean increased and predicable output. In fact, the techniques he described for XP programming, he also applied to sales/marketing and got the same level of improvements. He's got an idea for the culture of a product team, including all levels of management, that makes me drool. If you get a chance to hear Arlo speak on this topic, you should do it. He's downright inspiring.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1285</id>
+    <title>My First ActiveWin Link</title>
+    <updated>2004-04-16T07:00:00.000Z</updated>
+    <published>2004-04-16T07:00:00.000Z</published>
+    <summary>Here. I've been reading ActiveWin for years to pick up various Windows news tids and bits, but have never been mentioned 'til the MSDN Tour. On the other hand, I'm not sure how my boss is going to feel when he learns that all I do (when I'm not giving tours) is blog and collect information about the Microsoft interview process... : )</summary>
+    <content type="html">&lt;h1>My First ActiveWin Link&lt;/h1>
+&lt;a href="http://www.activewin.com/awin/comments.asp?HeadlineIndex=23703">Here&lt;/a>. I've been reading &lt;A href="http://www.activewin.com/awin/default.asp">ActiveWin&lt;/A> for years to pick up various Windows news tids and bits, but have never been mentioned 'til &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=2949">the MSDN Tour&lt;/A>. On the other hand, I'm not sure how my boss is going to feel when he learns that all I do (when I'm not giving tours) is blog and collect information about the Microsoft interview process... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1286</id>
+    <title>Thin Media Clients and Home Servers</title>
+    <updated>2004-04-16T07:00:00.000Z</updated>
+    <published>2004-04-16T07:00:00.000Z</published>
+    <summary>Charlie's description of the next big thing to come to home entertainment nails it. I can't wait to be able to plug in a media server with a giant hard drive for my burned DVDs and CDs and my cached TV and radio programs to be made available, along with live TV and live Internet/AM/FM/XM radio, at&amp;nbsp;any PC or TV in my house. I've already begun preparing.</summary>
+    <content type="html">&lt;h1>Thin Media Clients and Home Servers&lt;/h1>
+Charlie's description of &lt;A href="http://kindel.com/blogs/charlie/posts/247.aspx">the next big thing to come to home entertainment&lt;/A> nails it. I can't wait to be able to plug in a media server with a giant hard drive for my burned DVDs and CDs and my cached TV and radio programs to be made available, along with live TV and live Internet/AM/FM/XM radio, at&amp;nbsp;any PC or TV in my house. I've already begun preparing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1288</id>
+    <title>sellsbrothers.com in Top 152K Sites in the World</title>
+    <updated>2004-04-16T07:00:00.000Z</updated>
+    <published>2004-04-16T07:00:00.000Z</published>
+    <summary>According to Amazon's Alexa project, sellsbrothers.com is the 151,443rd ranked site by traffic in the world &amp;nbsp;and is in the 48th percentile speed-wise.&amp;nbsp;That sounds pretty crappy, but considering how many sites there are, I don't think that's too bad (although I admit to not being able to think of many sites to try that turned out to be lower ranked than mine... : ). Of course, Yahoo!, MSN and Google are 1st, 2nd and 3rd. </summary>
+    <content type="html">&lt;h1>sellsbrothers.com in Top 152K Sites in the World&lt;/h1>
+&lt;P>According to Amazon's Alexa project, &lt;A href="http://www.amazon.com/exec/obidos/ASIN/B00006GM0G/102-2845167-5494548?url=sellsbrothers.com/">sellsbrothers.com is the 151,443rd ranked site by traffic in the world&lt;/A>&amp;nbsp;and is in the 48th percentile speed-wise.&amp;nbsp;That sounds pretty crappy, but considering how many sites there are, I don't think that's &lt;EM>too &lt;/EM>bad (although I admit to not being able to think of many sites to try that turned out to be lower ranked than mine... : ).&lt;/P>
+&lt;P>Of course, &lt;A href="http://www.alexa.com/site/ds/top_500">Yahoo!, MSN and Google are 1st, 2nd and 3rd&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1284</id>
+    <title>The Hallowed Halls of MSDN Quiz</title>
+    <updated>2004-04-16T07:00:00.000Z</updated>
+    <published>2004-04-16T07:00:00.000Z</published>
+    <summary>Matt Powell has posted a quiz about MSDN based on the video tour Channel9 posted yesterday. These questions were kind of embarrassing: "1.&amp;nbsp;According to Chris, what does PAG stand for? "2. What does PAG really stand for? "Extra Credit: Of the 100 people that make up MSDN, how many of those people are part of PAG?" I knew that the odds of me getting the PAG acronym right were small, but I think I got the *spirit* of it right... I haven't been this sheepish since Sara, the Matriarch of MSDN, had to remind...</summary>
+    <content type="html">&lt;h1>The Hallowed Halls of MSDN Quiz&lt;/h1>
+&lt;P>Matt Powell has posted &lt;A href="http://weblogs.asp.net/Mpowell/archive/2004/04/15/114312.aspx">a quiz about MSDN&lt;/A> based on &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=2949">the video tour Channel9&lt;/A> posted yesterday. These questions were kind of embarrassing:&lt;/P>
+&lt;P>"1.&amp;nbsp;According to Chris, what does PAG stand for?&lt;/P>
+&lt;P>"2. What does PAG really stand for?&lt;/P>
+&lt;P>"Extra Credit: Of the 100 people that make up MSDN, how many of those people are part of PAG?"&lt;/P>
+&lt;P>I knew that the odds of me getting the PAG acronym right were small, but I think I got the *spirit* of it right... I haven't been this sheepish since Sara, the Matriarch of MSDN, had to remind me that I was a Content *Strategist* not a Content *Specialist* after my first public posting. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1283</id>
+    <title>Another Step Down the Longhorn Road</title>
+    <updated>2004-04-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-15T07:00:00.000Z</published>
+    <summary>In the 2nd installment of my series rebuilding Solitaire using Longhorn technologies, I dive into 2 of the 5 Avalon families, specifically controls and panels, and build something that is at least approaching how Sol is supposed to look.</summary>
+    <content type="html">&lt;h1>Another Step Down the Longhorn Road&lt;/h1>
+In the 2nd installment of my series rebuilding Solitaire using Longhorn technologies, I dive into 2 of the 5 Avalon families, specifically controls and panels, and &lt;A href="http://msdn.microsoft.com/longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnfoghorn/html/foghorn04142004.asp">build something that is at least approaching how Sol is supposed to look&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1281</id>
+    <title>Chat w/ MS Research Sr. VP Today @ 9am PST</title>
+    <updated>2004-04-15T07:00:00.000Z</updated>
+    <published>2004-04-15T07:00:00.000Z</published>
+    <summary>Here. This seems a nice change from the tedium of paying taxes to the man: "Rick Rashid, a senior vice president at Microsoft, will be online to take questions about innovation at Microsoft and the company's research and development efforts.... Join Rashid online on April 15 from 12 to 1 p.m. ET for a discussion on Microsoft and its current research plans, goals and challenges." It looks like you can submit your questions in advance and that this is the same place where the chat will happen, but it's darn h...</summary>
+    <content type="html">&lt;h1>Chat w/ MS Research Sr. VP Today @ 9am PST&lt;/h1>
+&lt;a href="http://discuss.washingtonpost.com/wp-srv/zforum/04/sp_technews_Rashid041504.htm">Here&lt;/a>. &lt;P>This seems a nice change from the tedium of paying taxes to the man:&lt;/P>
+&lt;P>"Rick Rashid, a senior vice president at Microsoft, will be online to take questions about innovation at Microsoft and the company's research and development efforts. ... Join Rashid online on April 15 from 12 to 1 p.m. ET for a discussion on Microsoft and its current research plans, goals and challenges."&lt;/P>
+&lt;P>It looks like &lt;A href="http://discuss.washingtonpost.com/wp-srv/zforum/04/submit_sp_technews_Rashid041504.htm">you can submit your questions in advance and that this is the same place where the chat will happen&lt;/A>, but it's darn hard to tell.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1282</id>
+    <title>Touring the Hallowed Halls of MSDN</title>
+    <updated>2004-04-15T07:00:00.000Z</updated>
+    <published>2004-04-15T07:00:00.000Z</published>
+    <summary>If you're interested in what the deepest, darkest jungle of MSDN looks like, take a gander. I was only able to explore a few of our hallowed halls, but did manage to sit in Sara's chair and pretend to run the place. : )</summary>
+    <content type="html">&lt;h1>Touring the Hallowed Halls of MSDN&lt;/h1>
+If you're interested in what the deepest, darkest jungle of MSDN looks like, &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=2949">take a gander&lt;/A>. I was only able to explore a few of our hallowed halls, but did manage to sit in Sara's chair and pretend to run the place. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1278</id>
+    <title>Fundamentals #2: The New Registry</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>Karsten continues his dig into the Fundamentals Pillar of Longhorn by describing the 3 main points of the new configuration settings infrastructure of Longhorn : Configuration schema, which allows settings to be schematized based on XML Configuration engine that has a suite of APIs for reading and writing configuration settings Optimized configuration store that can be synched with legacy stores such as the registry, INI files, etc. Karsten also points out a tool (wcmedit.exe) for browsing the configuration...</summary>
+    <content type="html">&lt;h1>Fundamentals #2: The New Registry&lt;/h1>
+&lt;P>Karsten continues his dig into the Fundamentals Pillar of Longhorn by describing &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/04/13/112493.aspx">the 3 main points of the new configuration settings infrastructure of Longhorn&lt;/A>:&lt;/P>
+&lt;OL>
+&lt;LI>Configuration schema, which allows settings to be schematized based on XML&lt;/LI>
+&lt;LI>Configuration engine that has a suite of APIs for reading and writing configuration settings&lt;/LI>
+&lt;LI>Optimized configuration store that can be synched with legacy stores such as the registry, INI files, etc.&lt;/LI>&lt;/OL>
+&lt;P>Karsten also points out a tool (wcmedit.exe) for browsing the configuration store and a sample (Longhorn SDK-&amp;gt;Samples-&amp;gt;WMI-&amp;gt;WMI.Configuration Sample 1).&lt;/P>
+&lt;P>Personally, I've never been happy with the various configuration settings stories of any of the Windows OSes, so I'm happy to see this problem tackled again. And if this new way of handling application and user configuration settings doesn't meet your needs, &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.fundamentals">let us know&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1277</id>
+    <title>Jeremey Mazner on the Real Status of WinFS</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>I've been silent myself on the real status of WinFS simply because I didn't know enough to really say (although I did ask some of my internal friends who knew more to speak out). One person I didn't even think to ask was Jeremey Mazner, a Longhorn Technical Evangelist who spends quite a bit of time WinFS. Jeremey's bottom line: none of the cuts affect the message from the PDC or the slides or code samples that he uses to show off the benefits of WinFS. &amp;nbsp;He goes on to provide supporting evidence from in...</summary>
+    <content type="html">&lt;h1>Jeremey Mazner on the Real Status of WinFS&lt;/h1>
+&lt;P>I've been silent myself on the real status of WinFS simply because I didn't know enough to really say (although I did ask some of my internal friends who knew more to speak out). One person I didn't even think to ask was Jeremey Mazner, a Longhorn Technical Evangelist who spends quite a bit of time WinFS.&lt;/P>
+&lt;P>&lt;A href="http://blogs.msdn.com/jmazner/archive/2004/04/13/112822.aspx">Jeremey's bottom line: none of the cuts affect the message from the PDC or the slides or code samples that he uses to show off the benefits of WinFS.&lt;/A>&amp;nbsp;He goes on to provide supporting evidence from inside and to speculate on where &lt;A href="http://www.businessweek.com/magazine/content/04_16/b3879001_mz001.htm">the stories to the contrary&lt;/A> came from in the press.&lt;/P>
+&lt;P>That doesn't mean that WinFS or any of the other Longhorn features we showed off at the PDC won't take cuts in the future as we drive for our ship date, but as of right now, Jeremey has detected any real cuts in WinFS.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1276</id>
+    <title>Portland Nerd Dinner, Wednesday, 4/14, 6:30pm</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>Jim's running another Portland Nerd Dinner. Also, if you haven't met Ward Cunningham, you'll want to come by tonight as he'll be there. </summary>
+    <content type="html">&lt;h1>Portland Nerd Dinner, Wednesday, 4/14, 6:30pm&lt;/h1>
+&lt;p>Jim's running &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=509eb23f-61ee-4fb8-b9d5-b2015807f9fe">another Portland Nerd Dinner&lt;/A>.&lt;/p>
+&lt;p>Also, if you haven't met Ward Cunningham, you'll want to come by tonight as he'll be there.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12498</id>
+    <title>More On The Quest To Kill Code</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>Wednesday, April 14, 2004 You're remember the last installment in my continued quest to find the next big leap in program producing productivity (the last two were OO and managed environments), where I thought I had it all figured out with generic algorithms. All we need is a sophisticated enough environment and wham self-writing, self-maintaining, self-debugging algorithms baby. However, after this evening's Portland Nerd Dinner (you didn't pass up a chance to meet Ward Cunningham, did you?), I'm thinking ...</summary>
+    <content type="html">&lt;h1>More On The Quest To Kill Code&lt;/h1>
+&lt;p align="left">&lt;i>Wednesday, &lt;span class="created">April 14, 
+2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">You're remember the last installment in my continued 
+quest to find the next big leap in program producing productivity (the last two 
+were OO and managed environments), where I thought I had it all figured out with &lt;a href="/1221">
+generic algorithms&lt;/a>. All we need is a sophisticated enough environment and &lt;b>&lt;i>
+wham&lt;/i>&lt;/b> self-writing, self-maintaining, self-debugging algorithms baby. 
+However, after &lt;a href="/1276">
+this evening's Portland Nerd Dinner&lt;/a> (you didn't pass up a chance to meet 
+Ward Cunningham, did you?), I'm thinking there's one step in the middle (at 
+least : ).&lt;/p>&lt;p align="left">So, picture the scene. After hearing about a guy 
+that has a &amp;quot;fob&amp;quot; on which he has to enter a password to get a 6-digit number 
+that changes every 60 seconds to that he could log into his company's VPN, 
+declaring that that's what happens when you let &lt;a href="http://www.develop.com/kbrown/">
+Keith Brown&lt;/a> run the world (I love you, man : ), and describing the CSSM (the 
+Chris Sells Security Model -- which I can not only implement under .NET, but 
+actually apply to code [maybe I'll start a workspace...]), I turned to Ward and 
+asked him the same question that I had asked the group from the last PND, i.e. 
+&amp;quot;What's the next big leap away in development?&amp;quot;, being careful not to give him 
+my thinking from last time.&lt;/p>&lt;p align="left">Ward went a whole other way.&lt;/p>&lt;p align="left">
+And he got me thinking it's a good idea.&lt;/p>&lt;p align="left">So, Ward starts 
+describing how to use loose typing (as in computer science &amp;quot;types&amp;quot; &lt;b>&lt;i>and&lt;/i>&lt;/b> 
+what you do with your 101-Key Text Wizard) and TDD-style tests to infer types 
+for your loose typing and I'm shaking my head, 'cuz I still gotta write the 
+code.&lt;/p>&lt;p align="left">Then a long-haired guy to my left who's name I never 
+lernt (I meant to!), starts talking about how each leap in the past came from 
+handling one detail that you don't care about, e.g. register allocation, memory 
+management, etc, and I think that has the possibility of helping me, 'cept the 
+thing I want to get rid of is the code (I mean, if I can't make a business on 
+generating the stuff, then let's kill it altogether : ).&lt;/p>&lt;p align="left">Then 
+Jim Blizzard starts asking an interesting line of questions about whether a leap 
+is really a leap 'til we're passed it and we can look back and decide it was a 
+leap. While I think a leap is a leap because you can feel it (I can still 
+remember the joy of my first program [leap 1], hear the ping in my head when I 
+understood OO [leap 2] and feel the rush in my veins when I got managed 
+programming [leap 3]), I was very interested in Jim's point because I think he 
+was leading me somewhere [leap 4?].&lt;/p>&lt;p align="left">Then, Ward jumped in 
+again with another scenario where you start from nothing and have a programmer 
+at your elbow to translate the next thing you want as you desire it (the first 
+such scenario was Ward's Adventure Diet where you start with nothing, then add 
+one kind of food/day 'til you pass the unit tests I guess [Ward actually put 
+himself on this diet for a while -- man, we &lt;i>&lt;b>are &lt;/b>&lt;/i>nerds]) and that's 
+when I nearly leap across the table so that I can get my own words in edgewise, 
+literally telling Warm that he had to stop talking now so that I could.&lt;/p>&lt;p align="left">
+Because that's when it all hit me.&lt;/p>&lt;p align="left">What I want is &lt;a href="http://www.x1.com">
+X1&lt;/a> for programs. I've fallen in love with X1 because it gives me immediate 
+gratification. It still finds the same things that Outlook search and Explorer 
+Search finds for me, but X1 does it in such real time that I can narrow in 
+several fields at once based on what I know about what I'm looking for, e.g. 
+some of the body content and/or who it's from and/or what folder it's filed in 
+and/or when I got it, etc, until I see a small number of choices from which to 
+pick and I can click on one and say &amp;quot;aha! that's the one!&amp;quot;&lt;/p>&lt;p align="left">I 
+want X1 for programs. I want to start with nothing and keep refining it with 
+commands like, &amp;quot;I want an app,&amp;quot; &amp;quot;I want a grid&amp;quot; and &amp;quot;the data should come from 
+here&amp;quot; and have my computer say, &amp;quot;Would you like an app like this, this or this&amp;quot; 
+and &amp;quot;would you like the grid to look like this, this or this.&amp;quot; And I want my 
+computer to know about every feature that ever been built into 3 or more 
+programs, e.g. from remembering the spot my window was the app last ran to 
+dropping in pivot tables, from reading/writing to/from databases to providing 
+theming. Anything that doesn't work in 3-6 choices, e.g. color themes do but 
+individual colors don't, I want a Property Browser/Windows Forms Designer-like 
+experience and only when I get to implementing something that hasn't already 
+been implemented 3 times do I even want to think about writing a line of code.&lt;/p>&lt;p align="left">
+'cuz here's the thing. I don't want to give up writing code. I love writing 
+code. I just hate writing code that's already been written. What I want is for a 
+customer to go through all of the stuff in the Codeless, Human-enabled, Realtime, 
+Interactive System (or CHRIS*, if you will : ) as described in the previous 
+paragraph, get to an actual working system except that it doesn't do some cool, 
+unique thing that no one's ever thought of before and then send it to me in an 
+email along with a PO for how much they're willing to pay for me to do the last 
+bit.&lt;/p>&lt;p align="left">When the last bit's been written 2 more times, it goes 
+into the CHRIS and around we go again.&lt;/p>&lt;p align="left">And I was all happy 
+with that answer and I presented it the PND crowd just before the Sells Brothers 
+(who had come along and been absolute &lt;b>&lt;i>angels&lt;/i>&lt;/b> for more than 2 hours 
+while I geeked out with my friends), lost it and started throwing their shoes at 
+each other in the Washington Square Mall food court, at which point I had to 
+leave, before hearing what Jim's point was or what Ward was going to say after 
+he said, &amp;quot;OK, wait, what about this...&amp;quot; which is usually what he says just 
+before he tells you that he's already built what he's been warming up to for the 
+last 30 minutes and you find that it rocks.&lt;/p>&lt;p align="left">So, you guys damn 
+well better tell me what happened after I left, especially if it's better then 
+the CHRIS!&lt;/p>&lt;p align="left">BTW, why isn't anyone filming these PNDs? They're 
+the best techie conversations I have all month...&lt;/p>&lt;p align="left">&lt;a href="/1280">
+Discuss&lt;/a>&lt;/p>&lt;p align="left">* I swear that 90% of that acronym 
+(abbreviation?) came out naturally and was only tweaked slightly at the end for 
+marketing appeal. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1280</id>
+    <title>More On The Quest To Kill Code</title>
+    <updated>2004-04-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-14T07:00:00.000Z</published>
+    <summary>Here. The one where I find a half-way point between where we are in our development environments today and self-writing, self-maintaining, self-fixing super programs. P.S. Just to set your expectations, this style of description for Spout entries isn't going to stop after the last episode of Friends. : ) </summary>
+    <content type="html">&lt;h1>More On The Quest To Kill Code&lt;/h1>
+&lt;a href="/12498">Here&lt;/a>. &lt;P>The one where I find &lt;a href="/12498">a half-way point between where we are in our development environments today and self-writing, self-maintaining, self-fixing super programs&lt;/A>.&lt;/P>
+&lt;P>P.S. Just to set your expectations, this style of description for Spout entries isn't going to stop after the last episode of Friends. : )&lt;/P></content>
+  </entry>
+</feed>

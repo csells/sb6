@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed87.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed86.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed88.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed87.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1195</id>
+    <title>WinForms Programming in C# 3rd Printing Ships</title>
+    <updated>2004-03-10T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-03-10T08:00:00.000Z</published>
+    <summary>Here. I find it unbelievable that after umpteen books, I finally seem to have blended quality with quantity as the C# version of my WinForms book enters it's 3rd printing after only 8 months in publication. Wahoo! </summary>
+    <content type="html">&lt;h1>WinForms Programming in C# 3rd Printing Ships&lt;/h1>
+&lt;a href="/public/writing/wfbook">Here&lt;/a>. &lt;P>I find it unbelievable that after umpteen books, I finally seem to have blended quality with quantity as the C# version of &lt;A HREF="/public/writing/wfbook">my WinForms book&lt;/A> enters it's 3rd printing after only 8 months in publication. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1187</id>
+    <title>Interactive XAML Editor Preview from Mobiform</title>
+    <updated>2004-03-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-09T08:00:00.000Z</published>
+    <summary>Mobiform is one of two 3rd party vendors that have been building a XAML parser that runs under the current version of.NET. Today, Mobiform went one better by releasing a working preview of an interactive XAML Editor that runs under the current version of.NET. Plus, the XAML that I created in the editor works on the PDC Longhorn bits. Now there's something other than the 101-Key Text Wizard to use when designing XAML for Longhorn. Mind you, what Mobiform has put together isn't Illustrator or even Paint Brush...</summary>
+    <content type="html">&lt;h1>Interactive XAML Editor Preview from Mobiform&lt;/h1>
+&lt;P>Mobiform is one of two 3rd party vendors that have been building a XAML parser that runs under the current version of .NET. Today, &lt;A href="http://www.mobiform.com/xamlproducts.aspx">Mobiform went one better by releasing a working preview of an interactive XAML Editor&lt;/A> that runs under the current version of .NET. Plus, the XAML that I created in the editor works on the PDC Longhorn bits.&lt;/P>
+&lt;P>Now there's something other than the 101-Key Text Wizard to use when designing XAML for Longhorn. Mind you, what Mobiform has put together isn't Illustrator or even Paint Brush yet, but it's an amazing start.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1188</id>
+    <title>Study: We're Eating Ourselves to Death</title>
+    <updated>2004-03-09T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-09T08:00:00.000Z</published>
+    <summary>Here. Ouch. I resemble that remark...</summary>
+    <content type="html">&lt;h1>Study: We're Eating Ourselves to Death&lt;/h1>
+&lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=514&amp;e=4&amp;u=/ap/20040309/ap_on_he_me/fit_obesity_2">Here&lt;/a>. Ouch. I resemble &lt;A href="http://story.news.yahoo.com/news?tmpl=story&amp;amp;cid=514&amp;amp;e=4&amp;amp;u=/ap/20040309/ap_on_he_me/fit_obesity_2">that remark&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1189</id>
+    <title>Genghis v0.5 Released</title>
+    <updated>2004-03-09T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-09T08:00:00.000Z</published>
+    <summary>After much delay (man, this Microsoft gig keeps a person busy), I'm happy to announce Genghis v0.5 : New HtmlLinkLabel class from Jeff Key that knows how to launch IE and EXEs directly w/o requiring you to handle the event Much prettier images in SimplePad from Chris Burrows Updated MRU code from Michael Weinhardt to match.NET event signature conventions and to fix a problem when using more than one MRU components on a single menu Updated FileSearchEngine code from Mike Marshall to check for whole words at ...</summary>
+    <content type="html">&lt;h1>Genghis v0.5 Released&lt;/h1>
+&lt;P>After much delay (man, this Microsoft gig keeps a person busy), I'm happy to announce &lt;A href="http://www.genghisgroup.com/">Genghis v0.5&lt;/A>:&lt;/P>
+&lt;LI>New HtmlLinkLabel class from &lt;A href="mailto:jeff.key@sliver.com">&lt;FONT color=#000000>Jeff Key&lt;/FONT>&lt;/A> that knows how to launch IE and EXEs directly w/o requiring you to handle the event 
+&lt;LI>Much prettier images in SimplePad from &lt;A href="mailto:Chris_J_burrows@hotmail.com">&lt;FONT color=#000000>Chris Burrows&lt;/FONT>&lt;/A> 
+&lt;LI>Updated MRU code from &lt;A href="mailto:mikedub@bigpond.com">&lt;FONT color=#000000>Michael Weinhardt&lt;/FONT>&lt;/A> to match .NET event signature conventions and to fix a problem when using more than one MRU components on a single menu 
+&lt;LI>Updated FileSearchEngine code from &lt;A href="mailto:MplsCpl@yahoo.com">&lt;FONT color=#000000>Mike Marshall&lt;/FONT>&lt;/A> to check for whole words at beginning and end of line correctly 
+&lt;LI>Updated validation code from &lt;A href="mailto:mikedub@bigpond.com">&lt;FONT color=#000000>Michael Weinhardt&lt;/FONT>&lt;/A> with support for validating controls at a container level, e.g. validating controls on a tab instead of on an entire form 
+&lt;LI>New gradient progress bar from &lt;A href="mailto:MplsCpl@yahoo.com">&lt;FONT color=#000000>Mike Marshall&lt;/FONT>&lt;/A> 
+&lt;LI>Updated FileDocument from &lt;A href="mailto:csells@sellsbrothers.com">&lt;FONT color=#000000>Chris Sells&lt;/FONT>&lt;/A> to match text of &lt;A HREF="/public/writing/wfbook">&lt;FONT color=#000000>Windows Forms Programming&lt;/FONT>&lt;/A> to include more MFC-like features like a pluggable scheme for serialization handling, registration of document extension with the shell, and adding to recent docs, i.e. Start-&amp;gt;Documents 
+&lt;LI>Updated HandleCollector from &lt;SPAN style="COLOR: black">&lt;A href="mailto:ethan.j.brown@eastpointsystems.com">&lt;FONT color=#000000>Ethan Brown&lt;/FONT>&lt;/A>&lt;/SPAN> to work with .NET 1.0 and .NET 1.1 
+&lt;LI>Performance enhancements from &lt;SPAN style="COLOR: black">&lt;A href="mailto:ethan.j.brown@eastpointsystems.com">&lt;FONT color=#000000>Ethan Brown &lt;/FONT>&lt;/A>&lt;/SPAN>in the MappedDrives and SystemShares classes 
+&lt;LI>New user-resizable panel from &lt;A href="mailto:ethan.j.brown@eastpointsystems.com">&lt;FONT color=#000000>Ethan Brown&lt;/FONT>&lt;/A> 
+&lt;LI>Updated WebCommandLineHelper from Andrew Duncan to fix System.IO.FileLoadException in ieexec.exe 
+&lt;LI>Updated AniForm from &lt;A href="mailto:MplsCpl@yahoo.com">&lt;FONT color=#000000>Mike Marshall&lt;/FONT>&lt;/A> to support stacking ala SharpReader and fix a terminal server-related bug 
+&lt;LI>Updated cool menu sample from &lt;A href="mailto:Chris_J_burrows@hotmail.com">&lt;FONT color=#000000>Chris Burrows&lt;/FONT>&lt;/A> with additional support for abstracting commands from click even handlers&lt;/LI>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1190</id>
+    <title>C# Corner on the WinFS Data Model</title>
+    <updated>2004-03-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-09T08:00:00.000Z</published>
+    <summary>Jesus Rodriguez provides an overview of the WinFS data model, including using it for searching and notifications.</summary>
+    <content type="html">&lt;h1>C# Corner on the WinFS Data Model&lt;/h1>
+Jesus Rodriguez provides &lt;A href="http://www.c-sharpcorner.com/Longhorn/WinFS/WinFSDataModel.asp">an overview of the WinFS data model&lt;/A>, including using it for searching and notifications.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1184</id>
+    <title>Putting the Fun Back In Programming</title>
+    <updated>2004-03-08T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-08T08:00:00.000Z</published>
+    <summary>I know that I'm no longer untainted because I work in the big house, but I just don't get this. Do developers really want to build the same thing over and over, project to project, app to app or do they want to spend their time building cool, new stuff? Is.NET or Whidbey or Longhorn any different from continuing the foundation that we've built before? Does anyone really miss building their own file system or declarative content flow or toolbar? Will anyone miss building their own animation, object serializa...</summary>
+    <content type="html">&lt;h1>Putting the Fun Back In Programming&lt;/h1>
+I know that I'm no longer untainted because I work in the big house, but &lt;A href="http://www.milbertus.com/archives/2004/03/003100.php">I just don't get this&lt;/A>. Do developers really want to build the same thing over and over, project to project, app to app or do they want to spend their time building cool, new stuff? Is .NET or Whidbey or Longhorn any different from continuing the foundation that we've built before? Does anyone really miss building their own file system or declarative content flow or toolbar? Will anyone miss building their own animation, object serialization or secure communications&amp;nbsp;framework? I mean, building these infrastructure pieces is fun, but &lt;EM>&lt;STRONG>&lt;FONT color=#ff0000>even more fun is pulling these pieces together to build something that's never been built before&lt;/FONT>&lt;/STRONG>&lt;/EM>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1186</id>
+    <title>Ian on Graphical Composition in Avalon</title>
+    <updated>2004-03-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-08T08:00:00.000Z</published>
+    <summary>Normally I like to consume something before I recommend it, but his stuff is always so good that I'm going to point out Ian's new piece on graphical composition in Avalon before I've even read it. Here's the conclusion to whet your appetite: "The new composition model in Avalon removes many of the visual design constraints that applied to most Win32 applications. It also improves performance by making more effective use of modern graphics cards, reducing the frequency with which the OS has to call the appli...</summary>
+    <content type="html">&lt;h1>Ian on Graphical Composition in Avalon&lt;/h1>
+&lt;P>Normally I like to consume something before I recommend it, but his stuff is always so good that I'm going to point out &lt;A href="http://www.ondotnet.com/pub/a/dotnet/2004/03/08/winfs_detail_3.html">Ian's new piece on graphical composition in Avalon&lt;/A> before I've even read it. Here's the conclusion to whet your appetite:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"The new composition model in Avalon removes many of the visual design constraints that applied to most Win32 applications. It also improves performance by making more effective use of modern graphics cards, reducing the frequency with which the OS has to call the application back to keep the display up to date, and enabling a much higher quality of user interface."&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1185</id>
+    <title>Using Windows Forms Markup (WFML)</title>
+    <updated>2004-03-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-08T08:00:00.000Z</published>
+    <summary>Love markup but can't wait for Longhorn/Avalon/XAML? Check out Joe Stegman's WFML (Windows Forms Markup Language). [ via Chris Anderson ] </summary>
+    <content type="html">&lt;h1>Using Windows Forms Markup (WFML)&lt;/h1>
+&lt;P>Love markup but can't wait for Longhorn/Avalon/XAML? &lt;A href="http://windowsforms.net/articles/wfml.aspx">Check out Joe Stegman's WFML&lt;/A> (Windows Forms Markup Language).&lt;/P>
+&lt;P>[&lt;A href="http://www.simplegeek.com">via Chris Anderson&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1183</id>
+    <title>WinFS Scenario #3: Easing the Development Process</title>
+    <updated>2004-03-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-08T08:00:00.000Z</published>
+    <summary>Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Personally, this is one of my favorite, simply because it talks about the massive developer benefits of having an object-based stored built into the OS.</summary>
+    <content type="html">&lt;h1>WinFS Scenario #3: Easing the Development Process&lt;/h1>
+Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Personally, &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/03/07/85766.aspx">this is one of my favorite&lt;/A>, simply because it talks about the massive developer benefits of having an object-based stored built into the OS.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1177</id>
+    <title>Looking for WinFS Bloggers</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>My call for Indigo bloggers was very successful (although most recommendations came via email), providing several interesting Indigo web blog possibilities. On the WinFS side, I only know about Mike Deem, and he seems to have gone into hybernation. Does anyone have anyone else that they'd like to recommend as a WinFS blogger? Thanks!</summary>
+    <content type="html">&lt;h1>Looking for WinFS Bloggers&lt;/h1>
+&lt;A href="/1168">My call for Indigo bloggers&lt;/A> was very successful (although most recommendations came via email), providing several interesting Indigo web blog possibilities. On the WinFS side, I only know about Mike Deem, and he seems to have gone into hybernation. Does anyone have anyone else that they'd like to &lt;A href="mailto:csells@microsoft.com?subject=Recommended WinFS Blogger">recommend as a WinFS blogger&lt;/A>? Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1182</id>
+    <title>European Longhorn Tour</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>The slides from the European tour showing off Longhorn are available on codezone.info. The usual topics are covered, i.e. Avalon, Indigo, WinFS, as well as an overview of Whidbey and a keynote from David Chappell on the foundations of creativity. I wish the vocals were up, too, but the slides are informative all by themselves.</summary>
+    <content type="html">&lt;h1>European Longhorn Tour&lt;/h1>
+&lt;A href="http://codezone.info/en/tours.aspx">The slides from the European tour showing off Longhorn are available on codezone.info&lt;/A>. The usual topics are covered, i.e. &lt;A href="http://codezone.info/en/downloads/avalon.ppt">Avalon&lt;/A>, &lt;A href="http://codezone.info/en/downloads/indigo.ppt">Indigo&lt;/A>, &lt;A href="http://codezone.info/en/downloads/winfs.ppt">WinFS&lt;/A>, as well as &lt;A href="http://codezone.info/en/downloads/whidbey.ppt">an overview of Whidbey&lt;/A> and &lt;A href="http://codezone.info/en/downloads/keynote.ppt">a keynote from David Chappell on the foundations of creativity&lt;/A>. I wish the vocals were up, too, but the slides are informative all by themselves.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1175</id>
+    <title>Sample: Longhorn ImageStack</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>Jason Nadal has posted a sample application for viewing a stack of images in Longhorn ( with code ).</summary>
+    <content type="html">&lt;h1>Sample: Longhorn ImageStack&lt;/h1>
+Jason Nadal has posted &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/03/06/85288.aspx">a sample application for viewing a stack of images in Longhorn&lt;/A> (&lt;A href="http://www.restlessdelusions.com/projects/archive/imageboxa.zip">with code&lt;/A>).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1176</id>
+    <title>Longhorn Animations and Timelines</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>One of the features that Jason built into his ImageStack application was animated zooming using timelines, which he describes in some detail here.</summary>
+    <content type="html">&lt;h1>Longhorn Animations and Timelines&lt;/h1>
+One of the features that Jason built into his ImageStack application was &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/03/06/85042.aspx">animated zooming using timelines, which he describes in some detail here&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1180</id>
+    <title>Rich Turner on Preparing Today for Indigo Tomorrow</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>Rich Turner, PM on the Indigo team, answers lots of FAQs related to Indigo and how to prepare for it today, including: How do I prepare my code and systems to ease my adoption of Indigo? Which current technologies should I use, where and when? How will Indigo interoperate with systems based on existing platform and technologies? How much of my code will I have to change to migrate my code to Indigo? How will Services Perform &amp;amp; Scale? Thanks for pointing me at Rich, folks. I'm enjoying his Indigo blog a ...</summary>
+    <content type="html">&lt;h1>Rich Turner on Preparing Today for Indigo Tomorrow&lt;/h1>
+&lt;P>Rich Turner, PM on the Indigo team, &lt;A href="http://weblogs.asp.net/richturner666/archive/2004/03/05/84834.aspx">answers lots of FAQs related to Indigo and how to prepare for it today&lt;/A>, including:&lt;/P>
+&lt;UL>
+&lt;LI>How do I prepare my code and systems to ease my adoption of Indigo?&lt;/LI>
+&lt;LI>Which current technologies should I use, where and when?&lt;/LI>
+&lt;LI>How will Indigo interoperate with systems based on existing platform and technologies?&lt;/LI>
+&lt;LI>How much of my code will I have to change to migrate my code to Indigo?&lt;/LI>
+&lt;LI>How will Services Perform &amp;amp; Scale?&lt;/LI>&lt;/UL>
+&lt;P>Thanks for pointing me at Rich, folks. &lt;A href="http://weblogs.asp.net/richturner666/">I'm enjoying his Indigo blog a great deal!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1178</id>
+    <title>I Agree: This *Is* Brilliant</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>I'm constantly amazed at man's (and woman's) ability to solve problems. Truly.</summary>
+    <content type="html">&lt;h1>I Agree: This *Is* Brilliant&lt;/h1>
+I'm constantly amazed at &lt;A href="http://www.eecs.harvard.edu/~vernal/understand/archives/000162.shtml">man's (and woman's) ability to solve problems&lt;/A>. Truly.</content>
+  </entry>
+</feed>

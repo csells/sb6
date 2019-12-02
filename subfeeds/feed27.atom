@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed27.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed26.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed28.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed27.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2031</id>
+    <title>Fixing the Internet</title>
+    <updated>2006-08-18T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-08-18T07:00:00.000Z</published>
+    <summary>About 18 months ago, I asked for an intern and boy did I get one. He doesn't want to be mentioned, but he's done some pretty cool stuff with the site in his spare time (he's also a very busy web development consultant): Dug into what it would take to rebuild sb.com from scratch in ASP.NET 2.0 (although we differ on the moral implications of the license on Community Server 2.0) Updated 404 page that tracks usage on dead/non-existent links, even missing URL #frags Server-side link and client-side #frag forwar...</summary>
+    <content type="html">&lt;h1>Fixing the Internet&lt;/h1>
+&lt;P>About 18 months ago, &lt;A href="/1745">I asked for an intern&lt;/A> and boy did I get one. He doesn't want to be mentioned, but he's done some pretty cool stuff with the site in his spare time (he's also a very busy web development consultant):&lt;/P>
+&lt;OL>
+&lt;LI>Dug into what it would take to rebuild sb.com from scratch in ASP.NET 2.0 (although we differ on the moral implications of the license on Community Server 2.0)&lt;/LI>
+&lt;LI>Updated 404 page that tracks usage on dead/non-existent links, even missing URL #frags&lt;/LI>
+&lt;LI>Server-side link and client-side #frag forwarding&lt;/LI>
+&lt;LI>tinysells.com implementation (e.g. &lt;A href="http://www.tinysells.com/4">www.tinysells.com/4&lt;/A>) and administration console (i.e. book co-authors)&lt;/LI>&lt;/OL>
+&lt;P>#4 was very cool, because it enables me to put links into my writing that are easy for the reader to type and that are easy for me to update when the real URL changes (none of the other URL redirection sites allow administration post-facto as far as I can tell).&lt;/P>
+&lt;P>#3 is also cool, because of the primitive site authoring tools I use (FrontPage), so when I move spout/index.htm (the content of &lt;a href="/tagged/spout">spout/default.aspx&lt;/A>) to spout/archive.htm (the content of &lt;a href="/tagged/spout">spout/archive.aspx&lt;/A>), all of the links that folks have put into their own content are broken. Now, we've got a means for tracking when those links are broken and for forwarding them, even using my silly client-side name #frags. That even means that when folks form their URLs incorrectly (&lt;a href="/737">this one&lt;/A> was never right and should always have been &lt;a href="/12416">this&lt;/A>) can be caught and corrected on my side.&lt;/P>
+&lt;P>Anyway, I wish I could tell you about this guy 'cuz he does great work and he deserves move business. Hopefully this post will shame him into it. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2028</id>
+    <title>Vista Song Parody from Ted + Carl!</title>
+    <updated>2006-08-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-08-15T07:00:00.000Z</published>
+    <summary>I'm a big Ted Pattison fan in general (you have *got* to hear the story where the cowboy shows up at the door in buttless leather chaps), but he's at his best when he's singing (or holding Don's hand). Of course, Carl Franklin's no slouch at singing either (I don't know how he his at holding hands or whether his chaps have a butt or not), so you'll want to hear them singing "Why Did Shipping Vista Turn Out to be so Hard" sttto "Me and Julio Down by the School Yard," by Paul Simon. Enjoy.</summary>
+    <content type="html">&lt;h1>Vista Song Parody from Ted + Carl!&lt;/h1>
+I'm a big Ted Pattison fan in general (you have *got* to hear the story where the cowboy shows up at the door in buttless leather chaps), but he's at his best when he's singing (or holding Don's hand). Of course, Carl Franklin's no slouch at singing either (I don't know how he his at holding hands or whether his chaps have a butt or not), so &lt;A href="http://www.pwop.com/vista.mp3">you'll want to hear them singing "Why Did Shipping Vista Turn Out to be so Hard"&lt;/A> sttto "Me and Julio Down by the School Yard," by Paul Simon. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2029</id>
+    <title>$33 On Bookpool: Windows Forms 2.0 Programming</title>
+    <updated>2006-08-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-08-15T07:00:00.000Z</published>
+    <summary>The nice folks at Bookpool are running a special on Windows Forms 2.0 Programming: only $33! Enjoy.</summary>
+    <content type="html">&lt;h1>$33 On Bookpool: Windows Forms 2.0 Programming&lt;/h1>
+The nice folks at Bookpool are running a special on &lt;A href="http://www.bookpool.com/sm/0321267966">Windows Forms 2.0 Programming: only $33!&lt;/A> Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2027</id>
+    <title>24 and the Comic Book Archive</title>
+    <updated>2006-08-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-08-14T07:00:00.000Z</published>
+    <summary>I'm an avid 24 watcher and one of my favorite parts of the show (offsetting the fact that Jack never so much as cracks a smile let alone giving us a nice "Wahoo! I did it! I rock!") is when one of the technies "sends her screen" to another computer. Man! I want that! It's so often the case that I've got a bunch of morning news sites and documents I'm reading through that I get onto one computer in my house and want to send to another computer for reading (maybe it's the computer downstairs or the Tablet), b...</summary>
+    <content type="html">&lt;h1>24 and the Comic Book Archive&lt;/h1>
+&lt;P>I'm an avid &lt;A href="http://www.fox.com/24/">24&lt;/A> watcher and one of my favorite parts of the show (offsetting the fact that Jack never so much as cracks a smile let alone giving us a nice "Wahoo! I did it! I rock!") is when one of the technies "sends her screen" to another computer. Man! I want that! It's so often the case that I've got a bunch of morning news sites and documents I'm reading through that I get onto one computer in my house and want to send to another computer for reading (maybe it's the computer downstairs or the Tablet), but there's no way to do that. I want a little glyph next to the Minimize button called Send that lets me pick a computer to send the screen to.&lt;/P>
+&lt;P>And what does that have to do with the &lt;A href="http://www.aibq.com/catalog.php">Comic Books Archive&lt;/A>, which was archiving digital images of almost 3000 comic books at last count? These are folks that have figured out how to digitize a specific media and provide a specialized format (the Comic Book Reader format) and provide a specialized reader (&lt;A href="http://www.aibq.com/cdisplay.zip">cdisplay&lt;/A>), which would make an excellent thing to send to a Tablet PC, along with PDFs, Word docs, web sites, 18,000 books from &lt;A href="http://www.gutenberg.org/">Project Gutenberg&lt;/A>, and anything else that you'd like to share between your own computers or those of your friends and colleagues.&lt;/P>
+&lt;P>In April of 2005, &lt;A href="http://www.winsupersite.com/showcase/longhorn_server_preview_1.asp">Paul Thurrott&amp;nbsp;mentioned something called "application sharing"&lt;/A> that would enable sharing of individual apps via terminal services instead of entire winstations. I don't know if we're actually building such a thing, but I in addition to being able to reach from one computer to another to grab an app, I'd also like to send one.&lt;/P>
+&lt;P>Wouldn't that make Jack proud?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2026</id>
+    <title>WPF Security in 14 Points and Some Extra Words</title>
+    <updated>2006-08-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-08-13T07:00:00.000Z</published>
+    <summary>MikeDub has a nice summary to get you started down the road to WPF ClickOnce deployment, both for stand-alone apps and browser-based apps (XBAPs). Enjoy.</summary>
+    <content type="html">&lt;h1>WPF Security in 14 Points and Some Extra Words&lt;/h1>
+MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D26D609CF01!132.entry">a nice summary to get you started down the road to WPF ClickOnce deployment&lt;/A>, both for stand-alone apps and browser-based apps (XBAPs). Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2025</id>
+    <title>Get 'Em While They're Hot</title>
+    <updated>2006-08-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-08-13T07:00:00.000Z</published>
+    <summary>Even though the 1st printing was just in May of this year, Windows Forms 2.0 Programming just entered the 2nd printing. Thanks for reading! </summary>
+    <content type="html">&lt;h1>Get 'Em While They're Hot&lt;/h1>
+&lt;P>Even though &lt;a href="/12462">the 1st printing&lt;/A> was just in May of this year, &lt;A href="http://www.amazon.com/gp/product/0321267966/">Windows Forms 2.0 Programming&lt;/A> just entered the 2nd printing. Thanks for reading!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2024</id>
+    <title>We Sold A Copy of ATL Internals!</title>
+    <updated>2006-08-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-08-11T07:00:00.000Z</published>
+    <summary>You said it couldn't be done, but ATL Internals, 2e, has a review! Thanks, W. </summary>
+    <content type="html">&lt;h1>We Sold A Copy of ATL Internals!&lt;/h1>
+&lt;P>You said it couldn't be done, but ATL Internals, 2e, has &lt;A href="http://www.amazon.com/gp/product/customer-reviews/0321159624/">a review&lt;/A>! Thanks, W.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2023</id>
+    <title>The Media Center PC ain't a desktop; it's a server</title>
+    <updated>2006-08-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-08-08T07:00:00.000Z</published>
+    <summary>I've seen some flack lately about how the Windows Media Center Edition-style computers haven't changed how folks consume content. Man, it sure has changed mine. Sure, you can put a MCE box on your desk and watch TV from your chair, but who the hell wants to do that? A&amp;nbsp;MCE box belongs in a living room or bedroom somewhere or even in a server closet. In fact, while I have my MCE box attached to my bedroom TV, I use it as a media server for music, video, photos and recorded TV shows. My media is&amp;nbsp;avai...</summary>
+    <content type="html">&lt;h1>The Media Center PC ain't a desktop; it's a server&lt;/h1>
+&lt;P>I've seen some flack lately about how the Windows Media Center Edition-style computers haven't changed how folks consume content. Man, it sure has changed mine. Sure, you can put a MCE box on your desk and watch TV from your chair, but who the hell wants to do that?&lt;/P>
+&lt;P>A&amp;nbsp;MCE box belongs in a living room or bedroom somewhere or even in a server closet. In fact, while I have my MCE box attached to my bedroom TV, I use it as a media server for music, video, photos and recorded TV shows. My media is&amp;nbsp;available at every PC in my home and at every TV w/ an MCE extender box (I have an XBox on one TV and an XBox 360 on another). This setup allows my media "room" to be my entire house and allows my family room media setup to consist of an HDTV and an XBox 360.&lt;/P>
+&lt;P>What's not to love about that?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2022</id>
+    <title>3 Degrees of Email Separation</title>
+    <updated>2006-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-08-03T07:00:00.000Z</published>
+    <summary>Microsoft is a sea of answers if only you can find the right person to ask. In my experience, I get a lot of those incoming questions, both internally and externally. Often, I don't know the answer, but I can direct the email to someone closer, who will either know the answer or the right person to ask and so on. Depending on how well a person in this chain is at answering this email, this process can take minutes or days, but it almost always ends up with the person that knows the answer within 3 emails. O...</summary>
+    <content type="html">&lt;h1>3 Degrees of Email Separation&lt;/h1>
+&lt;P>Microsoft is a sea of answers if only you can find the right person to ask. In my experience, I get a lot of those incoming questions, both internally and externally. Often, I don't know the answer, but I can direct the email to someone closer, who will either know the answer or the right person to ask and so on.&lt;/P>
+&lt;P>Depending on how well a person in this chain is at answering this email, this process can take minutes or days, but it almost always ends up with the person that knows the answer within 3 emails. Often this chain involves an internal mailing list (lots of external questions end up on internal email aliases, insults and all : ), which doesn't necessarily shorten the chain, but it does tend to shorten the response time.&lt;/P>
+&lt;P>I consider the ability to follow this chain to an answer one of the huge benefits of my industry -- I wish I was able to tap into it in other disciples, e.g. health care, financial, home repair, etc. Likely these chains exist in other areas, too, I just don't know the first link in the chain. I actually tried to establish a financial chain one time, but that just pissed off the guy who was always my first email. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2021</id>
+    <title>Custom Settings Provider in .NET 2.0</title>
+    <updated>2006-07-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2006-07-30T07:00:00.000Z</published>
+    <summary>I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and built a sample to demonstrate how to integrate it (or any.NET 2.0 custom settings provider) with the settings designer-generated code. Enjoy.</summary>
+    <content type="html">&lt;h1>Custom Settings Provider in .NET 2.0&lt;/h1>
+I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and built a sample to demonstrate how to integrate it (or any .NET 2.0 custom settings provider) with the settings designer-generated code. &lt;A href="/public/writing/dotnet2customsettingsprovider.htm">Enjoy&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12414</id>
+    <title>Number To String Converter</title>
+    <updated>2006-07-30T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/num2str0.jpg"/>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-30T07:00:00.000Z</published>
+    <summary>To capture the work that Doug and I did to make Indigo (WCF) and Avalon (WPF) work together, I tore up our PDC sample application into a set of simpler technology samples. To make it fun for myself, as part of these samples, I built a little library for converting numbers into strings of English words, e.g. 4 is &amp;quot;four:&amp;quot; To drive home the point (of which there wasn't any because the sample had nothing whatever to do with number to English phrase conversions), I spent some time polishing the algorit...</summary>
+    <content type="html">&lt;h1>Number To String Converter&lt;/h1>
+
+	&lt;p align="left">To capture the work that Doug and I did to make Indigo (WCF) 
+	and Avalon (WPF) work together, I tore up
+	&lt;a href="/12467">
+	our PDC sample application&lt;/a> into a set of simpler technology samples. To 
+	make it fun for myself, as part of these samples, I built a little library 
+	for converting numbers into strings of English words, e.g. 4 is &amp;quot;four:&amp;quot;&lt;/p>
+	&lt;p align="left">&lt;img border="0" src="/public/tools/num2str0.jpg" width="318" height="230">&lt;/p>
+	&lt;p align="left">To drive home the point (of which there wasn't any because 
+	the sample had nothing whatever to do with number to English phrase 
+	conversions), I spent some time polishing the algorithm so that it handled 
+	decimal points:&lt;/p>
+	&lt;p align="left">&lt;img border="0" src="/public/tools/num2str1.jpg" width="356" height="230">&lt;/p>
+	&lt;p align="left">and when that didn't satisfy me, I added large numbers and 
+	negative numbers:&lt;/p>
+	&lt;p align="left">&lt;img border="0" src="/public/tools/num2str2.jpg" width="826" height="230">&lt;/p>
+	&lt;p align="left">Before writing this code, I searched the net and didn't find 
+	any algorithms that handled both negative numbers and decimal points, let 
+	alone for .NET or in the number of lines of code to which I cut it down (93, 
+	including comments). I know it's not useful, but it was fun. If you want the 
+	code, you can get it by
+	&lt;a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=26ceb696-1ab1-4860-8bba-ff38472eb6df">
+	downloading the .NET 3.0 Cross Technology samples&lt;/a> and checking out the 
+	WinSDK_Samples\CrossTechnology\WpfDataBindingToWcfResults\service\NumberUtility.cs 
+	file. I built the file to be dropped into any .NET 2.0+ project (and even 
+	.NET 1.x projects, if you remove the &amp;quot;using System.Collections.Generic&amp;quot; 
+	statement at the top of the file -- I don't actually use generics), 
+	regardless of whether you're using Avalon or Indigo or not.&lt;/p>
+	&lt;p align="left">Enjoy.&lt;/p>
+	&lt;p align="left">
+	&lt;a href="/2020">
+	Discuss&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12413</id>
+    <title>RegistrySettingsProvider2</title>
+    <updated>2006-07-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-30T07:00:00.000Z</published>
+    <summary>I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and built a sample to demonstrate how to integrate it (or any.NET 2.0 custom settings provider) with the settings designer-generated code. Enjoy. Discuss </summary>
+    <content type="html">&lt;h1>RegistrySettingsProvider2&lt;/h1>
+
+	&lt;p align="left">I updated the SDK RegistrySettingsProvider to implement 
+	IApplicationSettings and built a sample to demonstrate how to integrate it 
+	(or any .NET 2.0 custom settings provider) with the settings 
+	designer-generated code.
+	&lt;a href="/public/writing/dotnet2customsettingsprovider.htm">
+	Enjoy&lt;/a>.&lt;/p>
+	&lt;p>&lt;a href="/2021">
+	Discuss&lt;/a>&lt;/p>
+   </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2019</id>
+    <title>On W*F Integration Samples</title>
+    <updated>2006-07-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-07-30T07:00:00.000Z</published>
+    <summary>As you may or may not recall, Doug Purdy and I had some trouble at the last PDC getting Avalon (WPF) and Indigo (WCF) to work together. To save myself from having that trouble again, I came back from the PDC and starting the "WinFX Cross-Pillar SDK Samples Working Group," which is just a fancy name for the PMs in charge of Avalon, Indigo and Workflow samples getting together to make sure that we have a list of simple technology samples showing the three W*F technologies working together. You can see the res...</summary>
+    <content type="html">&lt;h1>On W*F Integration Samples&lt;/h1>
+&lt;P>As you may or may not recall, &lt;a href="/12467">Doug Purdy and I had some trouble at the last PDC&lt;/A> getting Avalon (WPF) and Indigo (WCF) to work together. To save myself from having that trouble again, I came back from the PDC and starting the "WinFX Cross-Pillar SDK Samples Working Group," which is just a fancy name for the PMs in charge of Avalon, Indigo and Workflow samples getting together to make sure that we have a list of simple technology samples showing the three W*F technologies working together.&lt;/P>
+&lt;P>You can see the results of that work in the .NET 3.0 SDK under the &lt;A href="http://windowssdk.msdn.microsoft.com/en-us/library/ms756478.aspx">Integration Samples for WinFX Features&lt;/A> topic. Right now, there are 9 integration samples and I'm hoping to almost double that by .NET 3.0 RTM. I'd love feedback. Thanks!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2020</id>
+    <title>Number to String Converter</title>
+    <updated>2006-07-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-07-30T07:00:00.000Z</published>
+    <summary>To capture the work that Doug and I did to make Indigo (WCF) and Avalon (WPF) work together, I tore up our PDC sample application into a set of simpler technology samples. To make it fun for myself, as part of these samples, I built a little library for converting numbers into strings of English words, e.g. Enjoy. </summary>
+    <content type="html">&lt;h1>Number to String Converter&lt;/h1>
+&lt;P align=left>To capture the work that Doug and I did to make Indigo (WCF) and Avalon (WPF) work together, I tore up &lt;a href="/12467">&lt;FONT color=#000000>our PDC sample application&lt;/FONT>&lt;/A> into a set of simpler technology samples. To make it fun for myself, as part of these samples, I built a little library for converting numbers into strings of English words, e.g.&lt;/P>
+&lt;P align=left>&lt;IMG height=230 src="/public/tools/num2str2.jpg" width=826 border=0>&lt;/P>
+&lt;P align=left>&lt;a href="/12414">Enjoy.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2018</id>
+    <title>Laura Foy makes on10.net for me</title>
+    <updated>2006-07-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-07-29T07:00:00.000Z</published>
+    <summary>I had my first on 10 experience today (I was following the links to the PhotoSynth stuff) and I have to say, I instantly fell in love with Laura Foy. I know that Erica Wiechers (of The.NET Show and MSDN TV ) has a huge geekboy fan base (and it was fun to work with her @ MSDN), but Laura's interviewing style&amp;nbsp;and her personality made me subscribe to her interviewer-specific RSS feed on 10. In fact, Laura makes me wish I did something besides developer-related stuff. What do I have to do to be interviewed...</summary>
+    <content type="html">&lt;h1>Laura Foy makes on10.net for me&lt;/h1>
+&lt;P>I had my first &lt;A href="http://www.on10.net/about.aspx">on 10&lt;/A> experience today (I was following the links to the PhotoSynth stuff) and I have to say, I instantly fell in love with &lt;A href="http://www.on10.net/people/Laura/">Laura Foy&lt;/A>. I know that Erica Wiechers (of &lt;A href="http://msdn.microsoft.com/theshow/">The .NET Show&lt;/A> and &lt;A href="http://msdn.microsoft.com/msdntv/">MSDN TV&lt;/A>) has a huge geekboy fan base (and it was fun to work with her @ MSDN), but Laura's interviewing style&amp;nbsp;and her personality made me subscribe to &lt;A href="http://www.on10.net/people/Laura/rss/">her interviewer-specific RSS feed&lt;/A> on 10.&lt;/P>
+&lt;P>In fact, Laura makes me wish I did something besides developer-related stuff. What do I have to do to be interviewed by Laura Foy?!?&lt;/P>
+&lt;P>P.S. I wanted to title this blog entry "Laura Foy is a major babe," but Laura is a fellow Microsoft employee and that would be inappropriate. Also, the whistling and cat calls would be way out...&lt;/P></content>
+  </entry>
+</feed>

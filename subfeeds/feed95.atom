@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed95.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed94.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed96.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed95.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1075</id>
+    <title>Longhorn Meetup</title>
+    <updated>2004-01-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-29T08:00:00.000Z</published>
+    <summary>I don't know what a "Meetup" is, but I signed up for a "Longhorn Meetup" in 97007 (and I wasn't the first). Will it hurt?</summary>
+    <content type="html">&lt;h1>Longhorn Meetup&lt;/h1>
+I don't know what a "Meetup" is, but I signed up for &lt;A href="http://longhorn.meetup.com/">a "Longhorn Meetup"&lt;/A> in 97007 (and I wasn't the first). Will it hurt?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1073</id>
+    <title>The .NET Show: Longhorn Overview</title>
+    <updated>2004-01-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-29T08:00:00.000Z</published>
+    <summary>Robert Hess kicks off a series of Longhorn episodes on The.NET Show with a Longhorn overview, featuring some of the major movers and shakers behind the technology and then, of course, some shenanigans from none other than the poster children of coding for Longhorn, Don "Outofthe" Box and Chris "Mr." Anderson.</summary>
+    <content type="html">&lt;h1>The .NET Show: Longhorn Overview&lt;/h1>
+Robert Hess kicks off a series of Longhorn episodes on The .NET Show with &lt;A href="http://msdn.microsoft.com/theshow/Episode039/default.asp">a Longhorn overview&lt;/A>, featuring some of the major movers and shakers behind the technology and then, of course, some shenanigans from none other than the poster children of coding for Longhorn, Don "Outofthe" Box and Chris "Mr." Anderson.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12508</id>
+    <title>When In Doubt, Ignore Longhorn</title>
+    <updated>2004-01-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-29T08:00:00.000Z</published>
+    <summary>Thursday, January 29th, 2004 A guy walks into an exotic car dealer and asks the salesman the price of the fancy new Ferrari in the corner. The salesman looks at him with a sad look on his face, shakes his head and says, &amp;quot;I'm afraid, sir, that if you have to ask, you won't be able to afford it.&amp;quot; If you're wondering whether you should be paying attention to the information on Longhorn that has appeared on the web and in the news lately, then you shouldn't be. Longhorn RTM is years away. This is the ...</summary>
+    <content type="html">&lt;h1>When In Doubt, Ignore Longhorn&lt;/h1>
+&lt;p>&lt;i>Thursday, &lt;span class="created">January 29th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>
+A guy walks into an exotic car dealer and asks the salesman the price of the 
+fancy new Ferrari in the corner. The salesman looks at him with a sad look on 
+his face, shakes his head and says, &amp;quot;I'm afraid, sir, that if you have to ask, 
+you won't be able to afford it.&amp;quot;&lt;/p>&lt;p>If you're wondering whether you should be 
+paying attention to the information on Longhorn that has appeared on the web and 
+in the news lately, then you shouldn't be. Longhorn RTM is years away. This is 
+the most lead time we've given on any Windows operating system ever. The reason 
+we did it was so that we could get super early adopters to give us meaningful 
+feedback while we still had enough of the development cycle left to make 
+meaningful changes. If you're not a super early adopter, than Longhorn is just 
+going to be noise that you should ignore 'til the beta hits.&lt;/p>&lt;p>For 
+day-to-day development, you should pay attention to .NET 1.1 news sources. For 
+the near future, you'll want to listen for Whidbey, the next version of the .NET 
+Framework, which should work on all supported OSes when it ships. Here are a 
+list of my favorite news sources for current information and near future 
+information:&lt;/p>&lt;h2>.NET Framework 1.x Information Sources:&lt;/h2>&lt;ul>&lt;li>&lt;a href="http://msdn.microsoft.com/">
+	MSDN&lt;/a>: The vast majority of existing and new information you'll find on 
+	MSDN is on currently shipping technologies. &lt;a href="http://msdn.microsoft.com/developercenters/">
+	My Developer Center brethren&lt;/a> post tons of new stuff every month all 
+	about helping you be successful &lt;i>today&lt;/i>. Also, one part of the Longhorn 
+	Developer Center that you should check out is &lt;a href="http://msdn.microsoft.com/longhorn/understanding/preparing/">
+	the Preparing for Longhorn section&lt;/a>, where I keep resources that you'll 
+	need to know about today so that you can keep Longhorn in mind for tomorrow 
+	(or the day after tomorrow : ).&lt;/li>&lt;li>&lt;a href="http://msdn.microsoft.com/msdnmag/">
+	MSDN Magazine&lt;/a>: MSDN Magazine does a fabulous job of helping folks take 
+	advantage of .NET 1.x and have recently been doing articles on Whidbey and 
+	Yukon.&lt;/li>&lt;li>&lt;a href="http://msdn.microsoft.com/columns/">
+	MSDN Columns&lt;/a>: If you haven't seen the columns that MSDN hosts online, 
+	you're missing a ton of great stuff from experts in the field. Besides the 
+	Longhorn columns (which you should ignore if you're in doubt!), my personal 
+	favorite is &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms12182003.asp">
+	Wonders of Windows Forms&lt;/a>, which has also been focused on taking the best 
+	advantage of Windows Forms and where Michael Weinhardt has just started with 
+	a series of Whidbey Windows Forms topics that'll make you drool.&lt;/li>&lt;li>&lt;a href="http://gotdotnet.com/">
+	GotDotNet&lt;/a>: This site is host to a raft of content and tools and code 
+	samples from the .NET product teams along with active web forums.&lt;/li>&lt;li>&lt;a href="http://www.codeproject.com">
+	CodeProject.com&lt;/a>: CodeProject is my favorite user-contributions site and 
+	has tons of new source code samples and articles all the time about all 
+	manner of existing Microsoft technologies.&lt;/li>&lt;li>&lt;a href="http://msdn.microsoft.com/newsgroups/topic.aspx?url=/MSDN-FILES/028/201/317/topic.xml">
+	DotNet Newsgroups&lt;/a>: The newsgroups are a hotbed of information on current 
+	technologies and are staffed by a large number of Microsoft employees to 
+	answer your questions.&lt;/li>&lt;li>&lt;a href="http://www.ineta.org/">
+	International .NET Association (INETA)&lt;/a>: Don't just sit around and code 
+	by yourself, find a user group near you!&lt;/li>&lt;li>&lt;a href="http://discuss.develop.com/">
+	DevelopMentor mailing lists&lt;/a>: The .NET mailing list hosted at 
+	DevelopMentor launched a development culture. Their mailing lists are still 
+	tops in my book.&lt;/li>&lt;li>&lt;a href="http://www.dotnet247.com/">
+	.NET 247&lt;/a>: I can't tell you how often my Google searches on 
+	Microsoft-related technologies yields an answer on this site.&lt;/li>&lt;li>&lt;a href="http://blogs.gotdotnet.com/">
+	Most Microsoft bloggers&lt;/a>: Sure, Box, Anderson and Scoble hog the 
+	limelight, but some of my favorite bloggers concentrate on today's 
+	technologies. Don't miss &lt;a href="http://blogs.msdn.com/adam_nathan/">
+	Adam&lt;/a>, &lt;a href="http://blogs.msdn.com/cbrumme">Chris&lt;/a>, &lt;a href="http://weblogs.asp.net/duncanma/">
+	Duncan&lt;/a>, &lt;a href="http://weblogs.asp.net/despos/">Dino&lt;/a>, &lt;a href="http://weblogs.asp.net/ksharkey/">
+	Kent&lt;/a> or &lt;a href="http://blogs.msdn.com/oldnewthing/">
+	Raymond&lt;/a>.&lt;/li>&lt;li>&lt;a href="http://msdn.microsoft.com/msdntv/archive.aspx">
+	Whidbey Series on MSDN TV&lt;/a>: If you want some info on the not-too-distant 
+	future, Erica Wiechers's series of Whidbey topics on MSDN TV is a great 
+	place to start.&lt;/li>&lt;li>&lt;a href="http://microsoft.sitestream.com/PDC2003/">
+	Whidbey/Yukon PDC talks&lt;/a>: Contrary to popular belief, most of the talks 
+	at the PDC were not Longhorn-related and it's not too late to catch the 
+	videos or download the slides if you weren't able to catch them all.&lt;/li>&lt;li>&lt;a href="http://weblogs.asp.net/scottgu/">
+	Scott Guthrie's Blog&lt;/a>: For juicy bits of ASP.NET 2.0 information, you 
+	can't beat Scott Guthrie's blog.&lt;/li>&lt;li>&lt;a href="http://www.theserverside.net/">
+	theServerSide.NET&lt;/a>: I haven't spent much time on this site yet, but 
+	Richard Burte, an MS PM, says he likes it well enough to add it to this 
+	list.&lt;/li>&lt;li>&lt;a href="mailto:csells@microsoft.com?subject=My Favorite Source of .NET 1.x Information">
+	What did I miss?&lt;/a>&lt;/li>&lt;/ul>&lt;p>That's not to say that Microsoft is going 
+to stop talking about Longhorn in &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">
+the WinFX newsgroups&lt;/a>, on &lt;a href="http://msdn.microsoft.com/longhorn/">
+the Longhorn Developer Center&lt;/a> and in blogs of all kinds. We do this so that 
+those folks that can think about the distant future today have a chance to make 
+their voices heard at a time when we can most take advantage of what they're 
+saying.&lt;/p>&lt;p>However, there continues to be more information than any human can 
+consume on current Microsoft technologies, so don't be alarmed when you see 
+something go by with Longhorn in the title; just ignore it until you think that 
+Longhorn can help make your business more successful. That's why we're building 
+it after all. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1074</id>
+    <title>When In Doubt, Ignore Longhorn</title>
+    <updated>2004-01-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-29T08:00:00.000Z</published>
+    <summary>Here. The one where I list my favorite sources of information for development with today's shipping.NET Framework. </summary>
+    <content type="html">&lt;h1>When In Doubt, Ignore Longhorn&lt;/h1>
+&lt;a href="/12508">Here&lt;/a>. &lt;P>The one where I list my favorite sources of information for development with today's shipping .NET Framework.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1070</id>
+    <title>PSS Security Response Team Alert-New Worm: Mydoom</title>
+    <updated>2004-01-28T08:00:00.000Z</updated>
+    <published>2004-01-28T08:00:00.000Z</published>
+    <summary>Here. " Please review the Microsoft security alert regarding W32/Mydoom@MM and take appropriate action for your environment. This rapidly spreading, mass-mailer virus affects Microsoft Outlook, Microsoft Outlook Express, and Web-based e-mail." </summary>
+    <content type="html">&lt;h1>PSS Security Response Team Alert-New Worm: Mydoom&lt;/h1>
+&lt;a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/alerts/mydoom.asp">Here&lt;/a>. "&lt;SPAN style="COLOR: #000000">Please review the Microsoft security alert regarding W32/Mydoom@MM and take appropriate action for your environment. This rapidly spreading, mass-mailer virus affects Microsoft Outlook, Microsoft Outlook Express, and Web-based e-mail."&lt;/SPAN></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1072</id>
+    <title>XAML as Documents</title>
+    <updated>2004-01-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-28T08:00:00.000Z</published>
+    <summary>Wes muses on whether XAML could become a "standard" document format &amp;nbsp;for even custom types. Certainly, if a document was serialized in XAML using custom types instead of in a custom format, it would save some translation to/from the Avalon object model... </summary>
+    <content type="html">&lt;h1>XAML as Documents&lt;/h1>
+&lt;P>Wes muses on &lt;A href="http://wesnerm.blogs.com/net_undocumented/2004/01/xaml_as_documen.html">whether XAML could become a "standard" document format&lt;/A>&amp;nbsp;for even custom types. Certainly, if a document was serialized in XAML using custom types instead of in a custom format, it would save some translation to/from the Avalon object model...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1071</id>
+    <title>Announcing the Longhorn Developer FAQ</title>
+    <updated>2004-01-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-28T08:00:00.000Z</published>
+    <summary>If you've noticed Stuart Celarier stalking the WinFX newsgroups lately, it's because he's been gathering the best stuff for use in his new Longhorn Developer FAQ. Plus, Stuart's got all kinds of cool FAQ features, like expanding/contracting items and URLs for each category and for each item. Even cooler, the source document is a WordML document that Stuart authors in Word and then translates into HTML for the MSDN site using an XSLT. It's a very cool model for FAQs in general and I know that Stuart's planni...</summary>
+    <content type="html">&lt;h1>Announcing the Longhorn Developer FAQ&lt;/h1>
+&lt;P>If you've noticed &lt;A href="http://www.ferncrk.com/">Stuart Celarier&lt;/A> stalking &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/">the WinFX newsgroups&lt;/A> lately, it's because he's been gathering the best stuff for use in &lt;A href="http://msdn.microsoft.com/longhorn/support/lhdevfaq/default.aspx">his new Longhorn Developer FAQ&lt;/A>.&lt;/P>
+&lt;P>Plus, Stuart's got all kinds of cool FAQ features, like expanding/contracting items and URLs for each category and for each item. Even cooler, the source document is a WordML document that Stuart authors in Word and then translates into HTML for the MSDN site using an XSLT. It's a very cool model for FAQs in general and I know that Stuart's planning to share the FAQ framework on &lt;A href="http://www.ferncrk.com/">his site&lt;/A>.&lt;/P>
+&lt;P>And, if you've got an feedback on the FAQ items or would like to see new ones (or would like to hire him -- he's amazing with all things XML), &lt;A href="mailto:stuart@ferncrk.com">feel free to send him an email&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1069</id>
+    <title>Brian Noyes on .NET Rocks about ClickOnce</title>
+    <updated>2004-01-27T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-27T08:00:00.000Z</published>
+    <summary>Here. "Carl interviews developer and author Brian Noyes. Brian has focused his studies and development efforts on Smart Client development, and in this interview brings us from AutoDeployment of Windows Forms applications into ClickOnce, the next-generation deployment and update technology from Microsoft that will ship with the.NET Framework 2.0. We talk about the issues around AutoDeployment, and how Microsoft is addressing those issues with ClickOnce." ClickOnce debuts in Whidbey and will be a big part of...</summary>
+    <content type="html">&lt;h1>Brian Noyes on .NET Rocks about ClickOnce&lt;/h1>
+&lt;a href="http://weblogs.asp.net/cfranklin/archive/2004/01/25/62864.aspx">Here&lt;/a>. &lt;P>"Carl interviews developer and author Brian Noyes. Brian has focused his studies and development efforts on Smart Client development, and in this interview brings us from AutoDeployment of Windows Forms applications into ClickOnce, the next-generation deployment and update technology from Microsoft that will ship with the .NET Framework 2.0. We talk about the issues around AutoDeployment, and how Microsoft is addressing those issues with ClickOnce."&lt;/P>
+&lt;P>ClickOnce debuts in Whidbey and will be a big part of the deployment story in Longhorn.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1068</id>
+    <title>System Stats Using Avalon Animation Lingo</title>
+    <updated>2004-01-27T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-27T08:00:00.000Z</published>
+    <summary>Ryan Dawson built a fun system stats utility showing off the Avalon's animation of object rotation, position, translation and opacity. And more importantly, he describes how he did it.</summary>
+    <content type="html">&lt;h1>System Stats Using Avalon Animation Lingo&lt;/h1>
+Ryan Dawson built &lt;A href="http://www.longhornblogs.com/rdawson/articles/SystemStats.aspx">a fun system stats utility&lt;/A> showing off the Avalon's animation of object rotation, position, translation and opacity. And more importantly, he describes how he did it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1066</id>
+    <title>MSBuild in 30 Minutes or Less</title>
+    <updated>2004-01-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-26T08:00:00.000Z</published>
+    <summary>Here. I just learned today that one of the most interesting conversationalist in the Windows development world has started a PDF newsletter. In this issue, he provides a quick guide to writing build scripts in MSBuild, the new build engine in Whidbey and Longhorn. Subscribed.</summary>
+    <content type="html">&lt;h1>MSBuild in 30 Minutes or Less&lt;/h1>
+&lt;a href="http://www.iunknown.com/Files/Practical_Eye_Issue2.pdf">Here&lt;/a>. I just learned today that one of the most interesting conversationalist in the Windows development world has started a PDF newsletter. In this issue, he provides a quick guide to writing build scripts in MSBuild, the new build engine in Whidbey and Longhorn. Subscribed.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1064</id>
+    <title>New MSDN Data Access &amp; Storage Developer Center</title>
+    <updated>2004-01-26T08:00:00.000Z</updated>
+    <published>2004-01-26T08:00:00.000Z</published>
+    <summary>MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all your data access and storage needs. Check out Christa's goals for the site and don't hesitate to send your comments her way.</summary>
+    <content type="html">&lt;h1>New MSDN Data Access &amp; Storage Developer Center&lt;/h1>
+MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all your data access and storage needs. Check out &lt;A href="http://msdn.microsoft.com/data/editor/">Christa's goals for the site&lt;/A> and don't hesitate to &lt;A href="mailto:christac@microsoft.com?subject=Comments on the Data Access &amp;amp; Storage Developer Center">send your comments her way&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1067</id>
+    <title>Win32 -> .NET Framework API Map</title>
+    <updated>2004-01-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-26T08:00:00.000Z</published>
+    <summary>Tim Tabor points out a new find, a mapping from Win32 API functions to the closest equivalent in the.NET Framework class library. This is an amazing resource for folks making the switch.</summary>
+    <content type="html">&lt;h1>Win32 -> .NET Framework API Map&lt;/h1>
+&lt;A href="http://www.cheztabor.com/">Tim Tabor&lt;/A> points out a new find, &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp">a mapping from Win32 API functions to the closest equivalent in the .NET Framework class library&lt;/A>. This is an amazing resource for folks making the switch.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1065</id>
+    <title>Generic Sort-only IBindingList Implementation</title>
+    <updated>2004-01-26T08:00:00.000Z</updated>
+    <published>2004-01-26T08:00:00.000Z</published>
+    <summary>Here. Michael has put together a very nice implementation of IBindingList that derives from ArrayList and adds generic sorting based on the types of the items in the list. Very handy for adding sorting to your DataGrid when binding to custom types instead of DataSets.</summary>
+    <content type="html">&lt;h1>Generic Sort-only IBindingList Implementation&lt;/h1>
+&lt;a href="http://www.mikedub.net/default.html">Here&lt;/a>. Michael has put together a very nice implementation of IBindingList that derives from ArrayList and adds generic sorting based on the types of the items in the list. Very handy for adding sorting to your DataGrid when binding to custom types instead of DataSets.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1063</id>
+    <title>Paul Thurrott Talks to the Longhorn Aero Team</title>
+    <updated>2004-01-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-23T08:00:00.000Z</published>
+    <summary>Here. "Hillel Cooperman and Tjeerd ('cheered') Hoek are two of the key figures in the Windows User Experience team at Microsoft, and they've worked on some the company's more advanced user interface projects over the past several years, including MSN "Mars," Internet Explorer/shell, Windows 'Neptune,' Windows XP, and now Longhorn. While my first (somewhat humorous) run-in with the Windows User Experience folks came during a Windows XP Beta 2 event in Seattle three years ago, the team has been working tirele...</summary>
+    <content type="html">&lt;h1>Paul Thurrott Talks to the Longhorn Aero Team&lt;/h1>
+&lt;a href="http://www.winsupersite.com/showcase/longhorn_hillel_tjeerd.asp">Here&lt;/a>. "Hillel Cooperman and Tjeerd ('cheered') Hoek are two of the key figures in the Windows User Experience team at Microsoft, and they've worked on some the company's more advanced user interface projects over the past several years, including MSN "Mars," Internet Explorer/shell, Windows 'Neptune,' Windows XP, and now Longhorn. While my first (somewhat humorous) run-in with the Windows User Experience folks came during a Windows XP Beta 2 event in Seattle three years ago, the team has been working tireless toward Longhorn since the early days of Windows 95, when it moved Windows to the Explorer shell.
+&lt;P>"This interview is the first in a series highlighting the personalities behind the technology. It's often all too easy to depersonalize a company as large as Microsoft, but there are real people behind these products, and they care very deeply that the products they create are as aesthetically beautiful, functional, secure, and reliable as they can be."&lt;/P>
+&lt;P>I agree, Paul. Thanks.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1061</id>
+    <title>Introducing Microsoft WinFX by Brent Rector</title>
+    <updated>2004-01-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-22T08:00:00.000Z</published>
+    <summary>Brent Rector's PDC book on Longhorn/WinFX is now available for purchase. We're posting the chapters on the Longhorn DevCenter, but atoms are nice, too, especially when they come in the shape of a book. [ from Adam Kinney's blog ] </summary>
+    <content type="html">&lt;h1>Introducing Microsoft WinFX by Brent Rector&lt;/h1>
+&lt;P>Brent Rector's PDC book on Longhorn/WinFX is &lt;A href="http://www.bookpool.com/.x/tj6m4a1bt6/sm/0735620857">now available for purchase&lt;/A>. We're posting &lt;A href="http://msdn.microsoft.com/longhorn/understanding/books/rector/default.aspx">the chapters on the Longhorn DevCenter&lt;/A>, but atoms are nice, too, especially when they come in the shape of a book.&lt;/P>
+&lt;P>[&lt;A href="http://www.longhornblogs.com/akinney/archive/2004/01/22/2220.aspx">from Adam Kinney's blog&lt;/A>]&lt;/P></content>
+  </entry>
+</feed>

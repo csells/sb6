@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed156.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed155.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed157.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed156.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/235</id>
+    <title>Standard Conformance Features in Visual C++.NET</title>
+    <updated>2002-09-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-10T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: "Bobby Schmidt wraps up his three-part review of standard-conformance features missing from Microsoft Visual C++.NET."</summary>
+    <content type="html">&lt;h1>Standard Conformance Features in Visual C++.NET&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndeepc/html/deep08272002.asp">Here&lt;/a>. From Razvan Caciula: "Bobby Schmidt wraps up his three-part review of standard-conformance features missing from Microsoft Visual C++ .NET."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12421</id>
+    <title>TAPI Explorer</title>
+    <updated>2002-09-10T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/tools/texplorer.GIF"/>
+    <category term="tools" label="Tools"/>
+    <published>2002-09-10T07:00:00.000Z</published>
+    <summary>I built the TAPI Explorer (tExplorer) to allow me to understand the various capabilities of the telephony devices installed on my system when I was developing TAPI applications and writing my TAPI book. It grew into a utility for showing all line, address and phone capabilities as well as other TAPI settings, e.g. country codes, telephony locations, service providers, etc. If you're running into TAPI errors that you don't understand, TAPI Explorer will help you work through them. This version has been run a...</summary>
+    <content type="html">&lt;h1>TAPI Explorer&lt;/h1>
+
+	&lt;p align="left">I built the TAPI Explorer (tExplorer) to allow me to 
+	understand the various capabilities of the telephony devices installed on my 
+	system when I was developing TAPI applications and writing my TAPI book. It 
+	grew into a utility for showing all line, address and phone capabilities as 
+	well as other TAPI settings, e.g. country codes, telephony locations, 
+	service providers, etc. If you're running into TAPI errors that you don't 
+	understand, TAPI Explorer will help you work through them.&lt;/p>
+&lt;img src="/public/tools/texplorer.GIF" width="300" height="240" />
+	&lt;p align="left">This version has been run and tested on Windows 98, Windows 
+	ME, Windows NT 4.0, Windows 2000 and Windows XP and supports TAPI versions 
+	1.4 through 3.1.&lt;/p>
+	&lt;p align="left">&lt;a href="/public/tools/tExplorerSrcVS.NET.zip">VS.NET Source&lt;/a> |
+	&lt;a href="/public/tools/tExplorerSrcVC6.zip">VC6 Source (previous version)&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/236</id>
+    <title>Stream based access to HTML</title>
+    <updated>2002-09-10T07:00:00.000Z</updated>
+    <published>2002-09-10T07:00:00.000Z</published>
+    <summary>Here. From Harry Pierson: Implemenation of an XmlReader-like class but for HTML. Most sites (like this one) that accept anonymous user input (like this entry) don't allow HTML tags because of the possiblity of scripting attacks. With the HtmlReader class, you could easily scan the HTML stream to ensure only specified and safe tags are used.</summary>
+    <content type="html">&lt;h1>Stream based access to HTML&lt;/h1>
+&lt;a href="http://www.devhawk.net/htmlreader.htm">Here&lt;/a>. From Harry Pierson: Implemenation of an XmlReader-like class but for HTML. Most sites (like this one) that accept anonymous user input (like this entry) don't allow HTML tags because of the possiblity of scripting attacks. With the HtmlReader class, you could easily scan the HTML stream to ensure only specified and safe tags are used.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/233</id>
+    <title>Flash MX and the bigger picture</title>
+    <updated>2002-09-09T07:00:00.000Z</updated>
+    <published>2002-09-09T07:00:00.000Z</published>
+    <summary>Here. From Kim Gräsman: "As the Internet continues to evolve into an "Internet operating system"--programmable interfaces, ubiquitous access, and distributed computing resources--the document-centric browser is an awkward solution to a growing number of emerging needs. The browser is not dying by any means; it just needs a mate."</summary>
+    <content type="html">&lt;h1>Flash MX and the bigger picture&lt;/h1>
+&lt;a href="http://www.oreillynet.com/pub/a/javascript/2002/09/05/flash_runtime.html">Here&lt;/a>. From Kim Gräsman: "As the Internet continues to evolve into an "Internet operating system"--programmable interfaces, ubiquitous access, and distributed computing resources--the document-centric browser is an awkward solution to a growing number of emerging needs. The browser is not dying by any means; it just needs a mate."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/230</id>
+    <title>Larry Wall On Perl, Religion, and...</title>
+    <updated>2002-09-06T07:00:00.000Z</updated>
+    <published>2002-09-06T07:00:00.000Z</published>
+    <summary>Here. "The philosophy of TMTOWTDI (There's more than one way to do it) is a direct result of observing that the Author of the universe is humble, and chooses to exercise control in subtle rather than in heavy-handed ways. The universe doesn't come with enforced style guidelines. Creative people will develop style on their own. Those are the sort of people that will make heaven a nice place." This doesn't have anything to do with Windows programming directly, although I know a lot of Windows programmers use ...</summary>
+    <content type="html">&lt;h1>Larry Wall On Perl, Religion, and...&lt;/h1>
+&lt;a href="http://interviews.slashdot.org/interviews/02/09/06/1343222.shtml?tid=145">Here&lt;/a>. "The philosophy of TMTOWTDI (There's more than one way to do it) is a direct result of observing that the Author of the universe is humble, and chooses to exercise control in subtle rather than in heavy-handed ways. The universe doesn't come with enforced style guidelines. Creative people will develop style on their own. Those are the sort of people that will make heaven a nice place."
+
+This doesn't have anything to do with Windows programming directly, although I know a lot of Windows programmers use Perl, but I find Larry interesting and this in my news and so I'll post what I like. : )
+
+This article is a Slashdot interview where dotters post questions and the interviewee answers them. In this interview, Larry compares Perl to Perl (5 vs. 6), Perl to Java, Perl to Python, Perl to .NET and, my favorite, Perl to the universe as a whole, where he sees himself as applying the same principles in the creation of Perl as God used in creating the universe (which explains why Perl is so messy : ).
+
+[slashdot.org]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/228</id>
+    <title>A Second Look at Windows Forms Multithreading</title>
+    <updated>2002-09-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-05T07:00:00.000Z</published>
+    <summary>Here. "[O]ne thing doesn't make users happy—not having full control of any processing that their applications are performing. Even though the UI is responsive while pi is being calculated, the user would still like the option to cancel the calculation if they've decided they need 1,000,001 digits and they mistakenly asked for only 1,000,000." In this article, I add canceling to my asynchronous pi calculating WinForms app.</summary>
+    <content type="html">&lt;h1>A Second Look at Windows Forms Multithreading&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms08162002.asp">Here&lt;/a>. "[O]ne thing doesn't make users happy—not having full control of any processing that their applications are performing. Even though the UI is responsive while pi is being calculated, the user would still like the option to cancel the calculation if they've decided they need 1,000,001 digits and they mistakenly asked for only 1,000,000."
+
+In this article, I add canceling to my asynchronous pi calculating WinForms app.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/226</id>
+    <title>Bamboo.Prevalence: a .NET object prevalence engine</title>
+    <updated>2002-09-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-05T07:00:00.000Z</published>
+    <summary>Here. Bamboo.Prevalence is a "prevalence engine" for.NET. If you don't know what that means (I didn't), you can check out [1], which gives a good intro and then provides a FAQ for the skeptical. In a nutshell: "For many systems it is already feasible to keep all business objects in RAM.... To avoid losing data, every night your system server saves a snapshot of all business objects to a file using plain object serialization." I admit to still being skeptical after reading the FAQ, but it's mostly a "this fe...</summary>
+    <content type="html">&lt;h1>Bamboo.Prevalence: a .NET object prevalence engine&lt;/h1>
+&lt;a href="http://bbooprevalence.sourceforge.net/">Here&lt;/a>. Bamboo.Prevalence is a "prevalence engine" for .NET. If you don't know what that means (I didn't), you can check out [1], which gives a good intro and then provides a FAQ for the skeptical. In a nutshell:
+
+"For many systems it is already feasible to keep all business objects in RAM. ... To avoid losing data, every night your system server saves a snapshot of all business objects to a file using plain object serialization."
+
+I admit to still being skeptical after reading the FAQ, but it's mostly a "this feels wrong, I'll think of a reason later" kind of a skepticism. : )
+
+[1] http://www.prevayler.org/wiki.jsp?topic=ObjectPrevalenceSkepticalFAQ</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/229</id>
+    <title>Transparent Prevalence</title>
+    <updated>2002-09-05T07:00:00.000Z</updated>
+    <published>2002-09-05T07:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: What happens when you mix Prevalence with ContextBoundObjects? Something like this... I followed the link over to the FAQ on Prevalence and it was interesting enough for me to take a closer look at. However, what really turned me off though was that you had to create all this ICommand and IQuery junk to make it work, so you really weren't working with the same objects anymore (kind of defeats the purpose if you ask me). So, I took a few spare hours after work and hacked a "Transparen...</summary>
+    <content type="html">&lt;h1>Transparent Prevalence&lt;/h1>
+&lt;a href="http://www.activehead.com/downloads/TransparentPrevalence.zip">Here&lt;/a>. From Jesse Ezell: What happens when you mix Prevalence with ContextBoundObjects? Something like this...
+
+I followed the link over to the FAQ on Prevalence and it was interesting enough for me to take a closer look at. However, what really turned me off though was that you had to create all this ICommand and IQuery junk to make it work, so you really weren't working with the same objects anymore (kind of defeats the purpose if you ask me). 
+
+So, I took a few spare hours after work and hacked a "TransparentPrevalence" framework that extends the concept using MessageSinks, ContextBoundObjects, etc. to provide automatic support for persistant objects without all the clumsy command and query objects. It is just a proof of concept, but if someone wants to build on it, feel free to download the source and let me know what you come up with.
+
+Too bad I had to work last Friday, this would have been a great "Spend a Day With .Net" project.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/225</id>
+    <title>Attracting and Keeping Good Folks</title>
+    <updated>2002-09-05T07:00:00.000Z</updated>
+    <published>2002-09-05T07:00:00.000Z</published>
+    <summary>Here..NET Dan [1] asked me for my opinions on attracting and keeping good folks and here is my reply. [1] http://www.dotnetdan.com</summary>
+    <content type="html">&lt;h1>Attracting and Keeping Good Folks&lt;/h1>
+&lt;a href="/12575">Here&lt;/a>. .NET Dan [1] asked me for my opinions on attracting and keeping good folks and here is my reply.
+
+[1] http://www.dotnetdan.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/227</id>
+    <title>Go To Statement Considered Harmful</title>
+    <updated>2002-09-05T07:00:00.000Z</updated>
+    <published>2002-09-05T07:00:00.000Z</published>
+    <summary>Here. I believe that this 1968 article by the recently deceased Edsger Dijkstra, the inventor of the modern operating system and the stack model of computing, is the very first "considered harmful" article from which all others were inspired.</summary>
+    <content type="html">&lt;h1>Go To Statement Considered Harmful&lt;/h1>
+&lt;a href="http://www.acm.org/classics/oct95/">Here&lt;/a>. I believe that this 1968 article by the recently deceased Edsger Dijkstra, the inventor of the modern operating system and the stack model of computing, is the very first "considered harmful" article from which all others were inspired.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/221</id>
+    <title>New .NET Remoting Open Source Project</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>Here. "We like.NET Remoting and its extensibility model. We want to show the world that you can do some pretty useful (and some weird) things with this model. We also like the ideas behind SOAP and web services but somehow believe that.NET Remoting is a superset of them and offers features which are needed by today's developers." This open source site for.NET remoting extensions continues to grow with a new bi-directional TCP channel to work in firewall environments.</summary>
+    <content type="html">&lt;h1>New .NET Remoting Open Source Project&lt;/h1>
+&lt;a href="http://www.dotnetremoting.cc/projects/">Here&lt;/a>. "We like .NET Remoting and its extensibility model. We want to show the world that you can do some pretty useful (and some weird) things with this model. We also like the ideas behind SOAP and web services but somehow believe that .NET Remoting is a superset of them and offers features which are needed by today's developers."
+
+This open source site for .NET remoting extensions continues to grow with a new bi-directional TCP channel to work in firewall environments.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/223</id>
+    <title>Updated VS.NET Fun Facts</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>Here. I know I don't organize things well for finding what's new in my list of VS.NET Fun Facts, but if you haven't checked back in a while, I add new tips and tricks all the time. Today I added Nick Hodapp's tip on reducing the amount of time VC7 spends checking included header files for changes and another on Shawn Van Ness's "grokking" of the VS.NET clipboard ring. If you have a fun fact, send it along!</summary>
+    <content type="html">&lt;h1>Updated VS.NET Fun Facts&lt;/h1>
+&lt;a href="/12594">Here&lt;/a>. I know I don't organize things well for finding what's new in my list of VS.NET Fun Facts, but if you haven't checked back in a while, I add new tips and tricks all the time.
+
+Today I added Nick Hodapp's tip on reducing the amount of time VC7 spends checking included header files for changes and another on Shawn Van Ness's "grokking" of the VS.NET clipboard ring.
+
+If you have a fun fact, send it along!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/220</id>
+    <title>Microsoft XML Diff and Patch 1.0</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>Here. "Microsoft XML Diff and Patch is a set of tools for comparison of two XML documents and application of the changes (patching). XML Diff detect addition, deletion and other changes between two XML documents. It also detects structural changes like a move of a XML subtree. It produces Xml Diff Language Diffgram (XDL diffgram or just diffgram) that describes the differences between the two XML documents. The diffgram can be then used to display these differences or to perform a patch operation using the ...</summary>
+    <content type="html">&lt;h1>Microsoft XML Diff and Patch 1.0&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/xmltools/xmldiff/default.aspx">Here&lt;/a>. "Microsoft XML Diff and Patch is a set of tools for comparison of two XML documents and application of the changes (patching). XML Diff detect addition, deletion and other changes between two XML documents. It also detects structural changes like a move of a XML subtree. It produces Xml Diff Language Diffgram (XDL diffgram or just diffgram) that describes the differences between the two XML documents. The diffgram can be then used to display these differences or to perform a patch operation using the XML Patch tool."
+
+I know that this tool has been sorely needed in the XML community for a while and now MS has released one.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/222</id>
+    <title>CapeScience Release Free WSDL Editor</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>Here. "Cape Clear Software released a free graphical WSDL Editor for programmers interested in working with Web Services. The WSDL Editor delivers the first complete environment for rapid Web Services Definition Language (WSDL) development. It supports novice programmers, while also providing sophisticated features for more experienced Web Services developers. The Editor includes powerful wizards, which eliminate the complexity of WSDL, as well as WSDL validation which simplifies testing, and support for th...</summary>
+    <content type="html">&lt;h1>CapeScience Release Free WSDL Editor&lt;/h1>
+&lt;a href="http://www.capescience.com/downloads/wsdleditor/">Here&lt;/a>. "Cape Clear Software released a free graphical WSDL Editor for programmers interested in working with Web Services. The WSDL Editor delivers the first complete environment for rapid Web Services Definition Language (WSDL) development. It supports novice programmers, while also providing sophisticated features for more experienced Web Services developers. The Editor includes powerful wizards, which eliminate the complexity of WSDL, as well as WSDL validation which simplifies testing, and support for the rapid creation of Web Services from XML Schema."
+
+We're on fire with free XML tools today! This one is cool because it's free and it allows you to define your web service's WSDL first like you should, just like defining your COM interfaces first in the old days.
+
+[staff.develop.com/aarons]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/224</id>
+    <title>Gyro! Gyro!</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>Here. From John Bristowe: Gyro is a set of files that convert an existing installation of the Microsoft Shared Source CLI to support generic type definitions and generic methods. Gyro extends the CLI, ILAsm assembler, and C# compiler. It also includes several samples, documentation (in the form of specifications) and some new tests. It does not support generics in the JScript® compiler.</summary>
+    <content type="html">&lt;h1>Gyro! Gyro!&lt;/h1>
+&lt;a href="http://research.microsoft.com/projects/clrgen/">Here&lt;/a>. From John Bristowe: Gyro is a set of files that convert an existing installation of the Microsoft Shared Source CLI to support generic type definitions and generic methods. Gyro extends the CLI, ILAsm assembler, and C# compiler. It also includes several samples, documentation (in the form of specifications) and some new tests. It does not support generics in the JScript® compiler.</content>
+  </entry>
+</feed>

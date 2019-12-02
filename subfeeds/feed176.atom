@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed176.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed175.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed177.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed176.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12458</id>
+    <title>ATL Composition</title>
+    <updated>2001-07-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-13T07:00:00.000Z</published>
+    <summary>July 13, 2001 I've developed a set of macros to support implementing interfaces using nested composition in ATL (the one common way of implementing interfaces they neglected). The benefit of composition is that it is easy to implement multiple interfaces with methods with the same name but that require different behavior, e.g. interface IArtist : IUnknown { HRESULT Draw();
+} interface ICowboy : IUnknown { HRESULT Draw();
+} The benefit of this particular implementation is that it has no object size overhead....</summary>
+    <content type="html">&lt;h1>ATL Composition&lt;/h1>
+&lt;span class="created">July 13, 2001&lt;/span>
+        
+    &lt;p>
+        I've developed a set of macros to support implementing interfaces using nested 
+        composition in ATL (the one common way of implementing interfaces they 
+        neglected). The benefit of composition is that it is easy to implement multiple 
+        interfaces with methods with the same name but that require different behavior, 
+        e.g.
+    &lt;/p>
+    &lt;pre>interface IArtist : IUnknown {
+     HRESULT Draw();
+}
+
+interface ICowboy : IUnknown {
+     HRESULT Draw();
+}&lt;/pre>
+    &lt;p>
+        The benefit of this particular implementation is that it has no object size 
+        overhead. Interfaces implemented using nested composition have no greater 
+        overhead than using multiple-inheritance. Feel free to &lt;a href="/public/tools/atlcompose.h">
+            download atlcompose.h&lt;/a> for your own use.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12459</id>
+    <title>Client-Side Enumeration Iterator</title>
+    <updated>2001-07-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-12T07:00:00.000Z</published>
+    <summary>July 12, 2001 Have you ever been jealous of the VB programmer who could write this: sub EnumVariants(col as Collection) dim v as variant for each v in col ' Do something with v next v
+end sub If so, you may be interested in the STL-style IEnumXxx iterator I've built. You'll also need a supporting file, atlcopies.h. </summary>
+    <content type="html">&lt;h1>Client-Side Enumeration Iterator&lt;/h1>
+&lt;span class="created">July 12, 2001&lt;/span>
+        
+    &lt;p>
+        Have you ever been jealous of the VB programmer who could write this:
+    &lt;/p>
+    &lt;pre>sub EnumVariants(col as Collection)
+    dim v as variant for each v in col
+        ' Do something with v
+    next v
+end sub&lt;/pre>
+    &lt;p>
+        If so, you may be interested in the &lt;a href="/12653">STL-style IEnumXxx 
+            iterator&lt;/a> I've built. You'll also need a supporting file, &lt;a href="/public/tools/atlcopies.h">
+            atlcopies.h&lt;/a>.
+    &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12653</id>
+    <title>STL Enumerator Iterator</title>
+    <updated>2001-07-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-12T07:00:00.000Z</published>
+    <summary>Have you ever been jealous of the VB programmer who could write this: sub EnumVariants(col as Collection) dim v as variant for each v in col ' Do something with v next v
+end sub when we poor C++ programmers have to write this: void EnumVariants(IEnumVARIANT* pevar)
+{ HRESULT hr; enum { CHUNKSIZE = 100 }; VARIANT rgvar[CHUNKSIZE] = { 0 }; do { ULONG cFetched; hr = pevar-&amp;gt;Next(CHUNKSIZE, rgvar, &amp;amp;cFetched) if( SUCCEEDED(hr) ) { if( hr == S_OK ) cFetched = CHUNKSIZE; for( ULONG i = 0; i &amp;lt; cFetched; i+...</summary>
+    <content type="html">&lt;h1>STL Enumerator Iterator&lt;/h1>
+        &lt;p>
+            Have you ever been jealous of the VB programmer who could write this:
+        &lt;/p>
+        &lt;pre>sub EnumVariants(col as Collection)
+    dim v as variant for each v in col
+        ' Do something with v
+    next v
+end sub&lt;/pre>
+        &lt;p>
+            when we poor C++ programmers have to write this:
+        &lt;/p>
+        &lt;pre>void EnumVariants(IEnumVARIANT* pevar)
+{
+    HRESULT hr;
+    enum { CHUNKSIZE = 100 };
+    VARIANT rgvar[CHUNKSIZE] = { 0 };
+    do {
+        ULONG cFetched;
+
+        hr = pevar-&amp;gt;Next(CHUNKSIZE, rgvar, &amp;amp;cFetched)
+        if( SUCCEEDED(hr) ) {
+            if( hr == S_OK ) cFetched = CHUNKSIZE;
+            for( ULONG i = 0; i &amp;lt; cFetched; i++ )
+            {
+                // Do something with rgvar[i]
+                VariantClear(&amp;amp;rgvar[i]);
+            }
+        }
+    }
+    while (hr == S_OK);
+}&lt;/pre>
+        &lt;p>
+            Well no more! I've built an enumeration iterator class that holds IEnumXxx and 
+            exposes an STL-compatible iterator:
+        &lt;/p>
+        &lt;pre>template &amp;lt;typename EnumItf, const IID* pIIDEnumItf,
+          typename EnumType, typename CopyClass = _Copy&amp;lt;EnumType&amp;gt; &amp;gt;
+class enum_iterator;&lt;/pre>
+        &lt;p>
+            It uses the same copy policy classes as ATL for convenience. Now you can write:
+        &lt;/p>
+        &lt;pre>void EnumVariants(IEnumVARIANT* pevar)
+{
+    typedef enum_iterator&amp;lt;IEnumVARIANT, &amp;amp;IID_IEnumVARIANT, VARIANT&amp;gt; EVI;
+    for( EVI i = EVI(pevar); i != EVI(); ++i )
+    {
+        VARIANT&amp;amp;    v = *i;
+        // Do something with v
+    }
+}&lt;/pre>
+        &lt;p>
+            or you can use the typedefs for the standard enumerators:
+        &lt;/p>
+        &lt;pre>void EnumVariants(IEnumVARIANT* pevar)
+{
+    for( variant_iterator i = variant_iterator(pevar);
+         i != variant_iterator();
+         ++i )
+    {
+        VARIANT&amp;amp;    v = *i;
+        // Do something with v
+    }
+}&lt;/pre>
+        &lt;p>
+            or you can use STL algorithms (this is my personal favorite):
+        &lt;/p>
+        &lt;pre>struct DoSomethingWithVariant
+{
+    void operator()(const VARIANT&amp;amp; v)
+    {
+        // Do something with v
+    }
+};
+
+void EnumVariants(IEnumVARIANT* pevar)
+{
+    for_each(enum_variant(pevar),
+             enum_variant(),
+             DoSomethingWithVariant());    
+}&lt;/pre>
+        &lt;p>
+            Feel free to &lt;a href="/public/tools/enum_iterator.h">download 
+                the enum_iterator class&lt;/a> for your own use. You'll also need a supporting 
+            file, &lt;a href="/public/tools/atlcopies.h">atlcopies.h&lt;/a>.
+        &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12460</id>
+    <title>GitHelp</title>
+    <updated>2001-07-11T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-07-11T07:00:00.000Z</published>
+    <summary>July 11, 2001 githelp.h defines a set of wrappers for implementing inter-thread marshaling using the GIT instead of streams. githelp.cpp provides the non-inline implementation. For another spin on GIT usage, check out Don Box's GitLip. </summary>
+    <content type="html">&lt;h1>GitHelp&lt;/h1>
+&lt;span class="created">July 11, 2001&lt;/span>
+        
+    &lt;p>
+        &lt;a href="/public/tools/githelp.h">githelp.h&lt;/a>defines a set of wrappers for implementing 
+        inter-thread marshaling using the GIT instead of streams. &lt;a href="/public/tools/githelp.cpp">githelp.cpp&lt;/a>
+        provides the non-inline implementation. For another spin on GIT usage, check 
+        out Don Box's &lt;a href="http://www.develop.com/dbox/com/GIT">GitLip&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12659</id>
+    <title>Codename TextBox</title>
+    <updated>2001-06-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2001-06-30T07:00:00.000Z</published>
+    <summary>The Need for Code Generation Have you ever wanted to generate code like the wizards do, i.e. start with a template, mix in some symbols and boom, out comes the code? If you're building a custom AppWizard, you define code like so: int WINAPI WinMain(HINSTANCE hinst, HINSTANCE, LPSTR, int nShow) { $$IF(coinit) // Initialize COM CoInitialize(0); $$ENDIF // Initialize the ATL module _Module.Init(0, hinst); $$IF(axhost) // Initialize support for control containment AtlAxWinInit(); $$ENDIF // Create and show the ...</summary>
+    <content type="html">&lt;h1>Codename TextBox&lt;/h1>
+    &lt;h2>
+        The Need for Code Generation
+    &lt;/h2>
+    &lt;p>
+        Have you ever wanted to generate code like the wizards do, i.e. start with a 
+        template, mix in some symbols and boom, out comes the code? If you're building 
+        a custom AppWizard, you define code like so:
+    &lt;/p>
+    &lt;pre>    int WINAPI WinMain(HINSTANCE hinst, HINSTANCE, LPSTR, int nShow) {
+    $$IF(coinit)
+        // Initialize COM
+        CoInitialize(0);
+
+    $$ENDIF
+        // Initialize the ATL module
+        _Module.Init(0, hinst);
+    $$IF(axhost)
+
+        // Initialize support for control containment
+        AtlAxWinInit();
+    $$ENDIF
+
+        // Create and show the main window
+        HMENU   hMenu = LoadMenu(_Module.GetResourceInstance(),
+                       MAKEINTRESOURCE(IDR_$$ROOT$$));
+    ...
+    &lt;/pre>
+    &lt;p>
+        This is fine if you've got the MFC-based interpreter building your code and 
+        you're willing to live within the boundaries of a very small set of features. 
+        The ATL Object Wizard-style of generation is similar, i.e.
+    &lt;/p>
+    &lt;pre>    class [!ClassName] : 
+     public CAxDialogImpl&amp;lt;[!ClassName]&amp;gt;
+    {
+    public:
+     [!ClassName]()
+     {
+     }
+    [!crlf]
+    ...
+    &lt;/pre>
+    &lt;p>
+        Again, only good if you're running under the ObjectWizard and again, somewhat 
+        limited. What you really want is to be able to do things ASP-style, e.g.
+    &lt;/p>
+    &lt;pre>    &lt;span class=asp>&amp;lt;%@ language=vbscript %&amp;gt;&lt;/span>
+    &lt;span class=asp>&amp;lt;% ' test.cpp.asp %&amp;gt;&lt;/span>
+    &lt;span class=asp>&amp;lt;%&lt;/span>
+        &lt;span class=asp>greeting = Request.QueryString(&amp;quot;greeting&amp;quot;)&lt;/span>
+        &lt;span class=asp>if len(greeting) = 0 then greeting = &amp;quot;Hello, World.&amp;quot;&lt;/span>
+    &lt;span class=asp>%&amp;gt;&lt;/span>
+    // test.cpp
+
+    &lt;span class=asp>&amp;lt;% if Request.QueryString(&amp;quot;iostream&amp;quot;) &amp;lt;&amp;gt; &amp;quot;&amp;quot; then %&amp;gt;&lt;/span>
+    #include &amp;lt;iostream&amp;gt;
+    using namespace std;
+    &lt;span class=asp>&amp;lt;% else %&amp;gt;&lt;/span>
+    #include &amp;lt;stdio.h&amp;gt;
+    &lt;span class=asp>&amp;lt;% end if %&amp;gt;&lt;/span>
+
+    int main()
+    {
+    &lt;span class=asp>&amp;lt;% if Request.QueryString(&amp;quot;iostream&amp;quot;) &amp;lt;&amp;gt; &amp;quot;&amp;quot; then %&amp;gt;&lt;/span>
+        cout &amp;lt;&amp;lt; &amp;quot;&lt;span class=asp>&amp;lt;%= greeting %&amp;gt;&lt;/span>&amp;quot; &amp;lt;&amp;lt; endl;
+    &lt;span class=asp>&amp;lt;% else %&amp;gt;&lt;/span>
+        printf(&amp;quot;&lt;span class=asp>&amp;lt;%= greeting %&amp;gt;&lt;/span>\n&amp;quot;);
+    &lt;span class=asp>&amp;lt;% end if %&amp;gt;&lt;/span>
+        return 0;
+    }&lt;/pre>
+    &lt;p>
+        In this case, you get the same effect as the other two, but you've got the full 
+        power of a scripting language. However, for this to work, you had to run under 
+        ASP... until now...
+    &lt;/p>
+    &lt;h2>
+        TextBox
+    &lt;/h2>
+    &lt;p>
+        TextBox is a ASP-like script host that will process any file you give it 
+        looking for:
+    &lt;/p>
+    &lt;ul>
+        &lt;li>
+        text blocks
+        &lt;li>
+        script blocks (&amp;lt;% script %&amp;gt;)
+        &lt;li>
+        output blocks (&amp;lt;%= output %&amp;gt;)
+        &lt;li>
+            An optional language block as the first line in the file &lt;i>only&lt;/i> (&amp;lt;%@ 
+            language= language %&amp;gt;)
+            &lt;br>
+        (TextBox defaults to vbscript and currently only works with vbscript and 
+        jscript).
+    &lt;/ul>
+    &lt;p>
+        TextBox pre-processes the text to turn the whole thing into into script and 
+        hands it to the scripting engine for execution, outputting the result to 
+        standard out. Whatever features of the scripting language you want to use, feel 
+        free.
+    &lt;/p>
+    &lt;h2>
+        Usage
+    &lt;/h2>
+    &lt;p>
+        To provide for I/O, TextBox emulates ASP somewhat. It provides two intrinsics, 
+        the request object and the response object. The Request object has a single 
+        property, QueryString, that works just like ASP. The Response object has a 
+        single property, Write, just like ASP. In fact, if you only use 
+        Request.QueryString and Response.Write, you should be able to test your script 
+        files using ASP.
+    &lt;/p>
+    &lt;p>
+        To set name/value pairs for use by the script via the Request object, the usage 
+        of TextBox is like so:
+        &lt;pre>    usage: textbox &amp;lt;file&amp;gt; [name=value]&lt;/pre>
+    &lt;p>
+        For example, to interpret the file above, any of the following command lines 
+        would work:
+    &lt;/p>
+    &lt;pre>    textbox test.cpp.asp
+    textbox test.cpp.asp greeting=&amp;quot;Double Wahoo!&amp;quot;
+    textbox test.cpp.asp iostream=true greeting=&amp;quot;Double Wahoo!&amp;quot;
+    &lt;/pre>
+    &lt;p>
+        The first would yield the following output:
+    &lt;/p>
+    &lt;pre>    // test.cpp
+
+    #include &amp;lt;stdio.h&amp;gt;
+
+    int main()
+    {
+        printf(&amp;quot;Hello, World.\n&amp;quot;);
+        return 0;
+    }
+    &lt;/pre>
+    &lt;p>
+        while the last would yield the following:
+    &lt;/p>
+    &lt;pre>    // test.cpp
+
+    #include &amp;lt;iostream&amp;gt;
+    using namespace std;
+
+    int main()
+    {
+        cout &amp;lt;&amp;lt; &amp;quot;Double Wahoo!&amp;quot; &amp;lt;&amp;lt; endl;
+        return 0;
+    }
+    &lt;/pre>
+    &lt;h2>
+        Errors and Debugging
+    &lt;/h2>
+    &lt;p>
+        If the scripting engine finds an error, it will notify TextBox, who will notify 
+        you. However, if you've got script debugging enabled on your machine, the 
+        scripting engine will ask you if you'd like to fire up the debugger, showing 
+        you exactly the offending code.
+    &lt;/p>
+    &lt;h2>
+        Not Just Code
+    &lt;/h2>
+    &lt;p>
+        Of course, TextBox is good for the generation of any text, not just code.
+    &lt;/p>
+    &lt;h2>
+        Download
+    &lt;/h2>
+    &lt;p>
+        TextBox is available for &lt;a href="/public/tools/textbox/textbox.zip">download&lt;/a>. It's just a 
+        prototype, so please adjust your expectations accordingly. If you have any 
+        comments, please send them to &lt;a href="mailto:csells@sellsbrothers.com?subject=TextBox">
+            csells@sellsbrothers.com&lt;/a>.
+    &lt;/p>
+    &lt;h2>
+        Copyright
+    &lt;/h2>
+    &lt;p>
+        Copyright (c) 1998-2001, Chris Sells All rights reserved. NO WARRANTIES 
+        EXTENDED. Use at your own risk.
+    &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12622</id>
+    <title>Limerick</title>
+    <updated>2001-06-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-06-18T07:00:00.000Z</published>
+    <summary>A programmer who coded in C decided he hated GC. "It's bogus" he said, "I keep track in my head - and always remember to free!" Jason Whittington [ jasonw@develop.com ] Private Email </summary>
+    <content type="html">&lt;h1>Limerick&lt;/h1>
+&lt;p>A programmer who coded 
+
+in C &lt;br>decided he hated GC. &lt;br>"It's bogus" he said, &lt;br>"I keep track in 
+
+my head - &lt;br>and always remember to free!" &lt;/p>&lt;p>&lt;i>Jason Whittington [&lt;a 
+
+href="mailto:jasonw@develop.com">jasonw@develop.com&lt;/a>] &lt;br>Private Email 
+
+&lt;/i> &lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12623</id>
+    <title>The .NET</title>
+    <updated>2001-06-14T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-06-14T07:00:00.000Z</published>
+    <summary>A parody of Eddy Poe's "The Raven" Once upon a platform tired, while my code was stranded, mired in a pool of leaky pointers running up the mem'ry load, while I started to debug it, suddenly I screamed "Oh f*** it!", and decided to just chuck it in the hallway guest commode. Then discovered: managed code. Ah, distinctly I remember, bugs caused by a private member, and later having to call AddRefs and Releases by the busload, These things, they fill me with regret, time wasted on pointer management, Now, sim...</summary>
+    <content type="html">&lt;h1>The .NET&lt;/h1>
+&lt;p>&lt;i>A parody of 
+
+Eddy Poe's "The Raven"&lt;/i> &lt;/p>&lt;p>Once upon a platform tired, while my code 
+
+was stranded, mired in a pool of leaky pointers running up the mem'ry load, 
+
+while I started to debug it, suddenly I screamed "Oh f*** it!", and decided to 
+
+just chuck it in the hallway guest commode. &lt;br>Then discovered: managed code. 
+
+&lt;/p>&lt;p>&lt;/p>&lt;p>Ah, distinctly I remember, bugs caused by a private member, and 
+
+later having to call AddRefs and Releases by the busload, These things, they 
+
+fill me with regret, time wasted on pointer management, Now, simply Fire And 
+
+Forget! Oh the freedom newly bestowed! &lt;br>Thank you, thank you, managed code. 
+
+&lt;/p>&lt;p>&lt;/p>&lt;p>Of course the bloat is sometimes scary, and IL can be kind of 
+
+hairy, And there's this Tower of Babel thing that is threat'ning to explode. I 
+
+mean, Perl and Python and Eiffel and all the scripting langs are just a ball 
+
+but please, for God's sake, NOT COBOL! Java, even, but not THAT toad, 
+
+&lt;br>running in my managed code. &lt;/p>&lt;p>&lt;/p>&lt;p>I traded in my GIT and SCM, my 
+
+registry (which was kind of dumb) and in return I got C# and the CLR, my new 
+
+abode. And VS7, though often crashing, as a tool is really smashing. I shan't 
+
+bore you by rehashing the gifts .NET has bestowed. &lt;br>Just be grateful: 
+
+managed code. &lt;/p>&lt;p>&lt;i>Justin Gehtland [&lt;a href="mailto:justin@DEVELOP.COM">
+
+justin@DEVELOP.COM&lt;/a>] &lt;br>&lt;a 
+
+href="mailto:brains@develop.com">brains@develop.com&lt;/a>&lt;/i> &lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12609</id>
+    <title>Choose Your Defaults Carefully</title>
+    <updated>2001-06-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-06-09T07:00:00.000Z</published>
+    <summary>Saturday, 6/9/01 In the last week, I've been bitten twice by developers that have chosen defaults poorly and, therefore, have adversely affected my life. The first was on my Nokia phone. I was in a "meeting" with some of my key engineers (read: we were goofing off at a movie on a Thursday afternoon), and I had set my phone to Silent mode. Now, I have a Nokia 8260 (blue) that I dearly love. It kicks butt on the silly Ericsson that I used to have. However, I noticed when I came out of the meeting that thei</summary>
+    <content type="html">&lt;h1>Choose Your Defaults Carefully&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Saturday, 6/9/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    In the last week, I've been bitten twice by developers that have chosen 
+                    defaults poorly and, therefore, have adversely affected my life. The first was 
+                    on my Nokia phone. I was in a "meeting" with some of my key engineers (read: we 
+                    were goofing off at a movie on a Thursday afternoon), and I had set my phone to 
+                    Silent mode. Now, I have a &lt;a href="http://www.nokiausa.com/beauty/1,2498,,FF.html?zipcode=97007&amp;amp;rowid=49">
+                        Nokia 8260 (blue)&lt;/a> that I dearly love. It kicks butt on &lt;a href="http://ericsson.sundial.com/ericssoncobrand/modules/ericsson_cobrand/phone_info.asp?phone_id=374">
+                        the silly Ericsson&lt;/a> that I used to have. However, I noticed when I came 
+                    out of the meeting that their had been several calls from my blushing bride. 
+                    The Nokia is cool not only because it's small enough to fit into my pocket 
+                    (where I keep it during our "meetings"), but also because it has a vibrate 
+                    mode. So, I figured that if the phone was in Silent mode, but the phone was 
+                    still on, if someone called, I'd get the vibrate in my pocket (separate from my 
+                    change and my keys to honor the spirit of the Nokia Silent profile). 
+                    Unfortunately, this was not the case. Calls came in, but no vibration was 
+                    forthcoming. This happened a couple more times in the next few days until I had 
+                    a free moment to check the settings for Silent mode (ironically this free 
+                    moment came while waiting for another movie to start today -- "Operation: 
+                    Swordfish," which I enjoyed, btw). The default for the vibrate setting in the 
+                    Silent profile was *off*. How could this possibly be right? It's a phone! It's 
+                    on! Sure, I want it silent so it doesn't bug people around me, but I still want 
+                    to know when someone calls! Hence the vibrate mode! Needless to say, my 
+                    blushing bride was less than pleased.
+                &lt;/p>
+                &lt;p>
+                    The second time that incorrect defaults interrupted my life happened to be a 
+                    bug recently found in Gen&amp;lt;X&amp;gt;. 
+                    Because Gen&amp;lt;X&amp;gt; installs some COM components, we require it to be 
+                    installed by an account that's part of the Administrator group. Unfortunately, 
+                    the bug is that once Gen&amp;lt;X&amp;gt; is installed, another user can't use it on 
+                    that machine unless they are also part of the Administrator group. Of course, 
+                    since 98% of developers run with Admin privileges on their own machines, this 
+                    bug was never reported by the secular community. So how did we find it? It was 
+                    reported by none other than Keith "Mr. Security" Brown, who was experimenting 
+                    with running at a lower level of security for some perverse purposes that I can 
+                    only imagine... Anyway, when Keith calls you with a security bug, you listen 
+                    (at least it was the good kind of security bug, i.e. offering less access then 
+                    we should instead of more. I can only imagine what the phone call would be like 
+                    if Keith discovers that we've opened a hole...). The problem with security? 
+                    Defaults.
+                &lt;/p>
+                &lt;p>
+                    The author of CRegKey, a class in ATL we were using to read the serial number 
+                    out of the Registry, built in a default access level setting. We use the 
+                    Registry key when our tools are started to make sure that user has a valid 
+                    serial number on their machine -- standard stuff. You need to be an Admin to 
+                    write the key, but you shouldn't have to be just to read it. However, the 
+                    default setting in the CRegKey::Open method is set to allow read-write 
+                    permissions, as show here:
+                &lt;/p>
+                &lt;p>
+                    &lt;pre>LONG Open(HKEY hKeyParent, LPCTSTR lpszKeyName, &lt;b>REGSAM samDesired = KEY_ALL_ACCESS&lt;/B>);&lt;/pre>
+                &lt;P>
+                &lt;/P>
+                &lt;p>
+                    The developer who wrote the code (let's call him "Shawn"), being a human with 
+                    many tasks interested in doing them all efficiently, left off the default 
+                    value, assuming that the default would be read-only. This was the correct 
+                    assumption to make if you assume that the CRegKey author was specifying his 
+                    defaults properly. Unfortunately, he wasn't, so when we tried to merely read 
+                    the SN out of the Registry, we were asking for read-write permissions, and the 
+                    read failed, causing the SN validation to fail, keeping Keith from using 
+                    Gen&amp;lt;X&amp;gt; and motivating him to call me and complain about it. All due to 
+                    bad defaults.
+                &lt;/p>
+                &lt;h2>
+                    Rules for Defaults
+                &lt;/h2>
+                &lt;p>
+                    Defaults are often set to save typing. That's a bad idea. If the Nokia guy and 
+                    the CRegKey guy had but followed the these simple rules for determining 
+                    defaults, my life would have been better:
+                &lt;/p>
+                &lt;ol>
+                    &lt;li>
+                        &lt;b>Apply "the principle of least surprise."&lt;/b>
+                    I'm sure he didn't invent this rule, but it's one I learned from Don Box and it 
+                    sticks with me as one of "the seven good ideas" that exist in our field (a 
+                    story all its own). The principle of least surprise says that you make 
+                    interface design decisions based on what people expect. Shawn expected the 
+                    default access level to be read-only. I expected my phone to vibrate in Silent 
+                    mode. Pretend that the default isn't even an option. What would people expect?
+                    &lt;li>
+                        &lt;b>Minimize the harm of inadvertently choosing the default.&lt;/b>
+                    Assuming the defaults are not changed (a very common occurrence), what bad 
+                    things could happen? If the default had been read-only on CRegKey, unit testing 
+                    a code path that required read-write would have immediately uncovered that 
+                    greater access was needed, a fix could have been immediately supplied and no 
+                    harm done (except some extra typing). However, because the default was 
+                    read-write, we introduce an invisible bug that Keith has to find. Likewise, if 
+                    the default had been vibrate in Silent mode, when a call came in, it would 
+                    still have been silent, but I would have been notified of the call. Again, no 
+                    harm (assuming no holes in your pockets and that you're wearing underwear). 
+                    However, because of the default, I missed calls and angered my wife. That 
+                    didn't happen with the Ericsson.
+                    &lt;li>
+                        &lt;b>Change defaults sparingly.&lt;/b> Once you've chosen your defaults and released 
+                        your thing, people are going to learn those defaults and depend on them. For 
+                        example, we can't go back into our ATL source and update the default to 
+                        CRegKey::Open because we've got all kinds of code paths through our code 
+                        depending on the default. If you change a default, even if the default was set 
+                        incorrectly to begin with, you're doing more harm than good. Unless you can 
+                        change the defaults without inducing harm, don't.
+                    &lt;/li>
+                &lt;/ol>
+                &lt;p>
+                    Unfortunately, not all developers follow these rules, so when you make use of 
+                    defaults, please double-check them first.
+                &lt;/p>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12624</id>
+    <title>Why I Will Never Offer Don Box A Ride Again...</title>
+    <updated>2001-06-01T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-06-01T07:00:00.000Z</published>
+    <summary>Read all about it... Rohit Khare Posted There: Fri, Aug 2, 1996 20:27:42 -0400 </summary>
+    <content type="html">&lt;h1>Why I Will Never Offer Don Box A Ride Again...&lt;/h1>
+&lt;p>
+&lt;a href="http://www.xent.com/FoRK-archive/summer96/0398.html">
+Read all about it...&lt;/a>&lt;/p>
+&lt;p>&lt;i>Rohit Khare&lt;br>
+Posted There: Fri, Aug 2, 1996 20:27:42 -0400&lt;/i>&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/44</id>
+    <title>Generics for C# and .NET CLR</title>
+    <updated>2001-05-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2001-05-18T07:00:00.000Z</published>
+    <summary>This is a small site dedicated to the.NET generics research, including a version of the whitepaper describing their research updated as of 5/2/02.</summary>
+    <content type="html">&lt;h1>Generics for C# and .NET CLR&lt;/h1>
+This is &lt;a href="http://research.microsoft.com/projects/clrgen/">a small site dedicated to the .NET generics research&lt;/a>, including a version of the whitepaper describing their research updated as of 5/2/02.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12612</id>
+    <title>Other Blogs</title>
+    <updated>2001-05-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-05-16T07:00:00.000Z</published>
+    <summary>5/16/2001 My spout page is just one of literally thousands of web logs ("blogs") available on the net. These are a few of the ones that I like: SlashDot. This is the first blog I ever saw and it's still really cool. Lots of Linux stuff, of course, but also lots of fun&amp;nbsp; general-purpose technology stuff. BetaNews. This has no commentary. It's just a list of software that's gone into beta recently. I often find interesting stuff here. Joel on Software. Joel </summary>
+    <content type="html">&lt;h1>Other Blogs&lt;/h1>
+&lt;i>&lt;span class="created">5/16/2001&lt;/span>&lt;/i>
+                &lt;p>
+                    My spout page is just one of literally thousands of web logs ("blogs") 
+                    available on the net. These are a few of the ones that I like:
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.slashdot.org/">SlashDot&lt;/a>&lt;/b>. 
+                    This is the first blog I ever saw and it's still really cool. Lots of Linux 
+                    stuff, of course, but also lots of fun&amp;nbsp; general-purpose technology stuff.
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.betanews.com/">BetaNews&lt;/a>&lt;/b>. 
+                    This has no commentary. It's just a list of software that's gone into beta 
+                    recently. I often find interesting stuff here.
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.joelonsoftware.com/">Joel on Software&lt;/a>&lt;/b>. 
+                        Joel Spolsky is an ex-Microsofty who runs &lt;a href="http://www.fogcreek.com/">
+                            Fog Creek Software&lt;/a> and has a lot of really good 
+                        ideas when it comes to how to build software. He often 
+                        says what I think, so I think he's a genius. : )&lt;li>
+                        &lt;b>&lt;a href="http://www.dotnetdan.com/">Dot Net Dan's&lt;/a>&lt;/b>. 
+                    Dan Green aka "Dot Net Dan," is a guy who really likes .NET and once mentioned 
+                    me right between Joel Spolsky and Stephen Hawking, so I think he's cool. : )
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.codeproject.com/info/latest.asp">The CodeProject&lt;/a>&lt;/b>. 
+                    This is my favorite code posting site by far. There's something new there daily 
+                    and I almost always start there when I'm looking for a hunk of code.
+                    &lt;li>
+                        &lt;b>&lt;a href="http://www.activewin.com/">ActiveWin&lt;/a>&lt;/b>. This 
+                        one is mostly an excuse to pay homage to Microsoft, but there's interesting 
+                        Windows news up often enough that I still visit pretty regularly.
+                    &lt;/li>
+                    &lt;li>
+                        &lt;b>
+                        &lt;a href="http://staff.develop.com/jasonw/">
+                        Jason Whittington: &lt;/a>
+                        &lt;a href="http://staff.develop.com/jasonw/">Managed Space 
+                        blog&lt;/a>.&lt;/b>
+                    Jason's another DevelopMentor guy heavy into .NET and particularly garbage 
+                    collection (at least for the moment -- most of us have fairly short attention 
+                    spans... : ).
+                    &lt;/ul>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12610</id>
+    <title>Object-Orientation is Over</title>
+    <updated>2001-05-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-05-15T07:00:00.000Z</published>
+    <summary>Tuesday, 5/15/01 Java, and Java 2.0 (aka.NET), have brought with them the end of object-orientation. Of course, by that I mean that object-orientation is no longer a question -- it's just how we program. Even our scripting languages have classes and objects now. That fight is over, as are the advances in that area. Object-oriented programming, with inheritance, polymorphism and encapsulation, is just the way we do things now and Java and.NET represent the end of that line and the beginning of several others...</summary>
+    <content type="html">&lt;h1>Object-Orientation is Over&lt;/h1>
+&lt;p>
+                &lt;i>&lt;span class="created">Tuesday, 5/15/01&lt;/span>&lt;/i> &lt;/p>
+                &lt;p>
+                    Java, and Java 2.0 (aka .NET), have brought with them the end of 
+                    object-orientation. Of course, by that I mean that object-orientation is no 
+                    longer a question -- it's just how we program. Even our scripting languages 
+                    have classes and objects now. That fight is over, as are the advances in that 
+                    area. Object-oriented programming, with inheritance, polymorphism and 
+                    encapsulation, is just the way we do things now and Java and .NET represent the 
+                    end of that line and the beginning of several others:
+                &lt;/p>
+                &lt;h2>
+                    &lt;b>Generic Programming&lt;/b>
+                &lt;/h2>
+                &lt;p>
+                    Generic programming (aka "generics") provides the ability to write a partial 
+                    type or function and let the compiler or runtime environment fill in the 
+                    details based on client usage. Of course, C++ templates have provided generics 
+                    via templates for a long time. Unfortunately, no modern object-oriented 
+                    languages, i.e. Java and C#, have generics as yet, but they're coming. &lt;a href="http://research.microsoft.com/projects/clrgen/generics.pdf">
+                        My favorite research paper in this area describes how generics can be added to 
+                        .NET languages&lt;/a>, using C# as an example, written by Microsoft's own 
+                    researchers, Andrew Kennedy and Don Syme.
+                    &lt;br>
+                    &lt;br>
+                    Generics have been around for a long, long time, so if you aren't already 
+                    familiar with them, you're behind. Only C++ programmers do this now, but very 
+                    soon, everyone will be.
+                &lt;/p>
+                &lt;h2>
+                    &lt;b>Component-based Programming&lt;/b>
+                &lt;/h2>
+                &lt;p>
+                    Components differ from objects in that they are binary objects, often callable 
+                    from languages other than that in which they were written. COM, Java and .NET 
+                    are popular modern component development environments, but even DLLs have 
+                    provided component-like features since Windows. Components provide a degree of 
+                    encapsulation that often exceeds that of source-based OO environments, often at 
+                    the expense of ease of use (although both Java and .NET work real hard to make 
+                    components look and feel like objects).
+                &lt;/p>
+                &lt;h2>
+                    &lt;b>Aspect-Oriented Programming&lt;/b>
+                &lt;/h2>
+                &lt;p>
+                    Aspect-oriented programming (AOP) provides the ability to define a set of 
+                    characteristics of an object or a component that are actually implemented by 
+                    the hosting runtime. The benefit, of course, is that it's much easier to 
+                    declare the need for some feature, e.g. method tracing or the need for a 
+                    component to be part of a transaction, than it is to write the code. To date, 
+                    we've had pretty primitive support of AOP in the popular programming 
+                    environments, but it's been there, e.g.
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                    COM+ catalog attributes that describe services provided by the COM+ runtime to 
+                    components or groups of components (called "applications"), e.g. transactions, 
+                    object pooling or role-based security.
+                    &lt;li>
+                    Keywords in Java, e.g. the transient keyword that signals to the serialization 
+                    engine whether to serialize an object's member variable or not.
+                    &lt;li>
+                    .NET attributes that extend a component's metadata, which is available via .NET 
+                    reflection to clients, some of which are built into the .NET runtime and some 
+                    of which that are custom to your particular application.
+                    &lt;li>
+                        And my personal favorite, as pointed out to me by Don Box, is the PE attribute 
+                        that marks an EXE as a Win32 Console application. This is primitive, but this 
+                        attribute tells the OS to set up a console window for routing of stdio.
+                    &lt;/li>
+                &lt;/ul>
+                &lt;p>
+                    The .NET attribute mechanism represents a giant step forward in AOP. It's the 
+                    first popular environment that provides a convenient, extensible mechanism for 
+                    not only declaring attributes, but also implementing custom attribute provides, 
+                    i.e. those bits of code that are activated when an attribute is encountered. 
+                    Extensible .NET metadata is replacing the COM+ catalog and providing exactly 
+                    what the Java serialization keywords provide and I expect most language to 
+                    converge on the AOP style that .NET provides.
+                &lt;/p>
+                &lt;h2>
+                    Generative Programming
+                &lt;/h2>
+                &lt;p>
+                    Generative programming is the newest of these new programming styles. The term 
+                    itself was boasted into popular usage by the &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201309777">
+                        book of the same name&lt;/a> by Krzysztof Czarnecki and Ulrich Eisenecker. 
+                    Generative programming is about representing your system's design requirements 
+                    in some computer-readable form, e.g. SQL schemas, XML, UML, etc, and feeding it 
+                    to some kind of metaprogram that will generate your program. The main benefit 
+                    of generative programming is that as the design requirements change, your 
+                    programs can be regenerated, saving you from manually replicating design 
+                    changes into the code. Likewise, as the implementation choices need to change, 
+                    e.g. from Java to C# or from Linux to Windows, the metaprograms can change and 
+                    your programs can be regenerated, saving you from doing the porting work.
+                &lt;/p>
+                &lt;p>
+                    Macro languages, e.g. the C preprocessor, are generative languages for 
+                    generating code within files. ASP and PHP are both generative languages for 
+                    building web pages. Of course,
+                        DevelopMentor's own Gen&amp;lt;X&amp;gt;, was built from the ground up to be a 
+                    generative programming tool (although we designed and built it long before we'd 
+                    heard the term). Generative programming has a vast potential, I think (although 
+                    I'm biased), because it encourages you to specify your design requirements and 
+                    keep them up to date with the code, but also because of the potential for 
+                    generating large parts of a system's code, testing data and even documentation. 
+                    In fact, in building Gen&amp;lt;X&amp;gt; itself, we find ourselves generating more and 
+                    more of the next version using the previous version. We don't use it for unique 
+                    code, but we use it for the repetitive horizontal or hierarchical code as well 
+                    as reference docs and test data. Highly recommended.
+                &lt;/p>
+                &lt;p>
+                    &lt;i>&lt;b>[new]&lt;/b> Comment from Mickey Williams &lt;A href="mailto:[mickey.williams@codevtech.com">
+                            [mickey.williams@codevtech.com&lt;/A>], Mon 7/2/2001 10:54 AM:&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    "I'd like to remind you that Eiffel has had generics longer than C++, and 
+                    Eiffel's generics work on .NET. So there.
+                &lt;/p>
+                &lt;p>
+                    "Best regards from the Eiffel bigot,
+                    &lt;br>
+                    "Mickey"
+                &lt;/p>
+                &lt;p>
+                    That's true, Mickey. I knew that &lt;a href="http://www.eiffel.com/">Eiffel&lt;/a>
+                    supported templates, but I didn't know that &lt;a href="http://eiffel.com/doc/manuals/technology/dotnet/eiffelsharp/demo.html">
+                        Eiffel# (the .NET version of Eiffel)&lt;/a> did, so that's really cool.
+                &lt;/p>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12613</id>
+    <title>Rules of Engagement</title>
+    <updated>2001-05-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-05-15T07:00:00.000Z</published>
+    <summary>Tuesday, 5/15/01 This is a page where I can just spout off about whatever. I keep it separate from my Tools page so that you don't mix up any of my spoutings with facts. Before I&amp;nbsp; get started, I'd like to lay some ground rules. First and foremost, I'd like to warn you that every human on the planet has an agenda, often more than one. These are some of mine: I want to make people's lives better. This drives pretty much everything I do. Since my education is in computer science and my sphere of influent ...</summary>
+    <content type="html">&lt;h1>Rules of Engagement&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Tuesday, 5/15/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    This is a page where I can just spout off about whatever. I keep it separate 
+                    from my &lt;A href="/public/tools/">Tools&lt;/A> page so that you don't mix up any of my 
+                    spoutings with facts.
+                &lt;/p>
+                &lt;p>
+                    Before I&amp;nbsp; get started, I'd like to lay some ground rules. First and 
+                    foremost, I'd like to warn you that every human on the planet has an agenda, 
+                    often more than one. These are some of mine:
+                &lt;/p>
+                &lt;ul>
+                    &lt;li>
+                        I want to &lt;b>make people's lives better&lt;/b>. This drives pretty much 
+                    everything I do. Since my education is in computer science and my sphere of 
+                    influent is developers, most of what I do is to help that sub-species of human 
+                    known as "developers." Recently I've been experimenting with ways to help 
+                    normal humans, but what these people want is foreign to me, so it's 
+                    slow going.&lt;li>
+                        I'm interested in &lt;b>putting food on my table&lt;/b>. For the same 
+                    reason, I'm interested in what's good for me and my family. This drive  is the most potentially dangerous to you if you're going 
+                    to put any stock into my spoutings. Be warned.&lt;li>
+                        I'm interested in &lt;b>what I'm interested in&lt;/b>. Once I 
+                        like something, I often like it for a long, long time. 
+                        However, only one thing at a time can really consume me 
+                        and you're likely to hear about it here.&lt;/ul>
+                &lt;p>
+                    The second ground rule is that while I try to be as accurate as possible, I'm 
+                    human and I make mistakes. If you find a mistake or you think my opinion is 
+                    just so wrong that it requires a response or you'd just like to respond in 
+                    general, feel free to send me email at &lt;A href="mailto:csells@sellsbrothers.com">csells@sellsbrothers.com.&lt;/A>&lt;/p>
+   </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12611</id>
+    <title>From COM to .NET</title>
+    <updated>2001-04-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2001-04-21T07:00:00.000Z</published>
+    <summary>Saturday, 4/21/01 Enough people have asked me what I think about the transition from COM to.NET that I thought I'd publish my thoughts instead of responding to each individual email. This is the question that finally lead to me publishing this page in the first place. In the early days of C, ASM was much more efficient, but C was much easier to use and as machines got faster, and C compilers got better, ASM was relegated to use by only a few. During the transition, ASM programmers were valuable and continue...</summary>
+    <content type="html">&lt;h1>From COM to .NET&lt;/h1>
+&lt;p>
+                    &lt;i>&lt;span class="created">Saturday, 4/21/01&lt;/span>&lt;/i>
+                &lt;/p>
+                &lt;p>
+                    Enough people have asked me what I think about the transition from COM to .NET 
+                    that I thought I'd publish my thoughts instead of responding to each individual 
+                    email. This is the question that finally lead to me publishing this page in the 
+                    first place.
+                &lt;/p>
+                &lt;p>
+                    In the early days of C, ASM was much more efficient, but C was much easier to 
+                    use and as machines got faster, and C compilers got better, ASM was relegated 
+                    to use by only a few. During the transition, ASM programmers were valuable and 
+                    continue to be so for very targeted tasks, but they grow increasingly 
+                    unnecessary. For example, in all the time that I've developed software (17 
+                    years), I've needed ASM exactly *once* (and then I just used Keith Brown : ). 
+                    To this day, I have to admit that I can neither write nor even read x86 
+                    assembly. I've always meant to learn and I admit to being embarrassed that I 
+                    can't, but I've never needed it. Each platform I programmed for, I started 
+                    after the platform had moved away from ASM being the dominant programming 
+                    environment.
+                &lt;/p>
+                &lt;p>
+                    As Microsoft ships increasingly stable betas of .NET towards a final release, 
+                    we're nearing the end of a long and messy transition from processor-specific 
+                    low-level programming to programming at a higher level on the Windows platform. 
+                    To be honest, most Windows programmers are already there and have been for a 
+                    while. They're the forward-thinking Visual Basic programmers. They recognized 
+                    that they had no need to learn Win32 or COM. They could program at a 
+                    comfortable level and make their C++ programmer friends do the grunge work for 
+                    them. C++ programmers that haven't moved to VB yet had two reasons: the 
+                    programs run too slowly and VB doesn't let me do what I want. With each 
+                    successive release of VB, the efficiency argument has gotten weaker and weaker. 
+                    Now that VB6 uses the same intermediate language and backend compiler that VC6 
+                    does, speed's really no longer an issue. The 2nd reason, "VB doesn't let me do 
+                    what I want," is real and continues through VB6. The problem is really the 
+                    language. There is one feature that no C++ programmer can live without: 
+                    implementation inheritance. It's so useful for day-to-day programming chores 
+                    that we can't give it up.
+                &lt;/p>
+                &lt;p>
+                    This one fatal flaw in VB6 was made very clear to me the other day when I was 
+                    doing .NET programming using C#. Before we go any further, let me make one 
+                    thing perfectly clear: VB.NET *is* C#. The only difference is the syntax. The 
+                    language features are all the same but one: you can write "unsafe" code in C#, 
+                    but not in VB.NET. Unsafe code in C# is the equivalent of&amp;nbsp; inline ASM: 
+                    when you need it, you can't live without it, but you probably won't need it. 
+                    So, when I'm programming C#, I could as easily be programming VB.NET. And the 
+                    beauty of my experience of programming C# caused me to examine the difference 
+                    between my previous VB6 experience and my current C# experience. I had a 
+                    form-based drag-n-drop environment in both. I had IntelliSense in both. I had a 
+                    programming model that was much simpler than raw Win32 in both. In short, C# 
+                    and .NET gave me everything that VB6 gave me, but with one addition: 
+                    implementation inheritance. When I needed to model the data for my application, 
+                    it was so easy because I had inheritance but would've been so much harder 
+                    without it. That feature made all the difference to me and is the reason that 
+                    C++ programmers will finally feel free to move into the VB-like environment 
+                    that .NET provides.
+                &lt;/p>
+                &lt;p>
+                    Will everyone abandon the Win32 API when .NET ships? No. Will everyone 
+                    eventually move their code over to .NET? No. Will most folks spend most of 
+                    their time programming .NET within 18-24 months of ship? Absolutely, yes. It's 
+                    too compelling a platform with too many real advantages to ignore.
+                &lt;/p>
+                &lt;p>
+                    Does that mean you should stop all development and wait for .NET to ship? 
+                    Absolutely, no. Build you components in COM today and you'll be able to move 
+                    them over to .NET when the time is right (which may be never). The .NET 
+                    backwards compatibility story is a good one. You'll be able to continue to make 
+                    use of most of your COM components and DLLs in .NET, which means that the code 
+                    you're working on today will continue to be useful long after you've moved your 
+                    day-to-day programming activities to .NET. To ease the transition, I recommend 
+                    marking your COM interfaces with [oleautomation] if possible. This limits your 
+                    method parameters to types and attributes that .NET is particularly good at 
+                    marshaling.
+                &lt;/p>
+                &lt;p>
+                    &amp;nbsp;.NET via C# and VB.NET is the future of programming for Windows, leaving 
+                    Win32 and COM as the ASM of .NET.
+                &lt;/p>
+                </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12625</id>
+    <title>College Fun</title>
+    <updated>2001-04-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2001-04-15T07:00:00.000Z</published>
+    <summary>I spoke at a college last week for a friend of mine who's an adjunct professor (Cal Caldwell). During the talk, one of the male attendees bolted &amp;lt;sigh&amp;gt;, but on his way out, trusted sources say that, when sighting a young coed whom our our bolter was clearly interested in engaging with in some way, he said, "Hey! Do you know who's in there? Chris Sells!" Clearly this young man was misguided in his attempt, but I'm glad to hear that someone thinks that using my name will help in attracting members of th...</summary>
+    <content type="html">&lt;h1>College Fun&lt;/h1>
+&lt;p>I spoke at a 
+
+college last week for a friend of mine who's an adjunct professor (Cal 
+
+Caldwell). During the talk, one of the male attendees bolted &amp;lt;sigh&amp;gt;, but 
+
+on his way out, trusted sources say that, when sighting a young coed whom our 
+
+our bolter was clearly interested in engaging with in some way, he said, "Hey! 
+
+Do you know who's in there? Chris Sells!" Clearly this young man was misguided 
+
+in his attempt, but I'm glad to hear that someone thinks that using my name 
+
+will help in attracting members of the opposite sex. It's never worked for 
+
+me... : )&lt;/p></content>
+  </entry>
+</feed>

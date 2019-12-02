@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed160.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed159.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed161.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed160.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/176</id>
+    <title>Programming tool makes bugs sing</title>
+    <updated>2002-08-08T07:00:00.000Z</updated>
+    <published>2002-08-08T07:00:00.000Z</published>
+    <summary>Here. I always said it's better to make bugs loud than quiet, but I had no idea...</summary>
+    <content type="html">&lt;h1>Programming tool makes bugs sing&lt;/h1>
+&lt;a href="http://www.trnmag.com/Stories/2002/080702/Programming_tool_makes_bugs_sing_080702.html">Here&lt;/a>. I always said it's better to make bugs loud than quiet, but I had no idea...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/174</id>
+    <title>Delphi for .NET compiler preview</title>
+    <updated>2002-08-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-08T07:00:00.000Z</published>
+    <summary>Here. From jt: A first look at the Delphi for.NET compiler features and Delphi's new language syntax</summary>
+    <content type="html">&lt;h1>Delphi for .NET compiler preview&lt;/h1>
+&lt;a href="http://bdn.borland.com/article/0,1410,28972,00.html">Here&lt;/a>. From jt: A first look at the Delphi for .NET compiler features and Delphi's new language syntax</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/175</id>
+    <title>.Net name ties Microsoft in knots</title>
+    <updated>2002-08-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-08T07:00:00.000Z</published>
+    <summary>Here. "We still get people saying to us, 'What is.Net?'" Gates said at a conference held two weeks ago specifically to answer that question. "It's one of those great questions that people can say, 'Yes, it's come into focus at the infrastructure level,' but a little bit where we go beyond that has been unclear to people." You'd have thought they would have learned their lesson from COM, OLE and ActiveX before this. I guess the slack caused by the Internet boom has taught even Microsoft bad habits.</summary>
+    <content type="html">&lt;h1>.Net name ties Microsoft in knots&lt;/h1>
+&lt;a href="http://news.com.com/2100-1001-948838.html?tag=fd_lede">Here&lt;/a>. "We still get people saying to us, 'What is .Net?'" Gates said at a conference held two weeks ago specifically to answer that question. "It's one of those great questions that people can say, 'Yes, it's come into focus at the infrastructure level,' but a little bit where we go beyond that has been unclear to people."
+
+&lt;sigh> You'd have thought they would have learned their lesson from COM, OLE and ActiveX before this. I guess the slack caused by the Internet boom has taught even Microsoft bad habits.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/173</id>
+    <title>.NET Framework Service Pack 2</title>
+    <updated>2002-08-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-07T07:00:00.000Z</published>
+    <summary>Here. "This article provides information about the bugs that are fixed in Microsoft.NET Framework Service Pack 2 (SP2)."</summary>
+    <content type="html">&lt;h1>.NET Framework Service Pack 2&lt;/h1>
+&lt;a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;Q321884">Here&lt;/a>. "This article provides information about the bugs that are fixed in Microsoft .NET Framework Service Pack 2 (SP2)."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/172</id>
+    <title>Win a Free Pass to the Web Services DevCon</title>
+    <updated>2002-08-06T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-08-06T07:00:00.000Z</published>
+    <summary>Here. Spend a Day With.NET coding something cool, send it to submission@sellsbrothers.com and the winner wins a free pass to the Web Services DevCon! Other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET and a half-day consulting. Follow the link for details.</summary>
+    <content type="html">&lt;h1>Win a Free Pass to the Web Services DevCon&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. Spend a Day With .NET coding something cool, send it to submission@sellsbrothers.com and the winner wins a free pass to the Web Services DevCon! Other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET and a half-day consulting. Follow the link for details.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/171</id>
+    <title>Tim Ewald's Spoutlet</title>
+    <updated>2002-08-05T07:00:00.000Z</updated>
+    <published>2002-08-05T07:00:00.000Z</published>
+    <summary>Here. My friend, the author of Transactional COM+ and the editor of the XML/Web Services section on MSDN online, has an RSS feed.</summary>
+    <content type="html">&lt;h1>Tim Ewald's Spoutlet&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/tewald/spoutlet.aspx">Here&lt;/a>. My friend, the author of Transactional COM+ and the editor of the XML/Web Services section on MSDN online, has an RSS feed.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/170</id>
+    <title>WinForms Over the Web</title>
+    <updated>2002-08-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-05T07:00:00.000Z</published>
+    <summary>I did a talk at the local Portland Area.NET User's Group on
+zero-setup deployment of WinForms applications over the web, including versioning, caching, optimization, debugging and security. This talk is also an excerpt from DevelopMentor's Essential WinForms course, which I highly recommend (although I'm hardly unbiased : ).</summary>
+    <content type="html">&lt;h1>WinForms Over the Web&lt;/h1>
+I did a talk at &lt;a href="http://www.padnug.org">the local Portland Area .NET User's Group&lt;/a> on
+zero-setup deployment of WinForms applications over the web, including versioning, caching, optimization, debugging and security. This talk is also an excerpt from 
+&lt;a href="http://develop.com/dm/course.asp?id=131">DevelopMentor's Essential WinForms course&lt;/a>, 
+which I highly recommend (although I'm hardly unbiased : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/169</id>
+    <title>.NET Compact Framework Discussion List is Online</title>
+    <updated>2002-08-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-04T07:00:00.000Z</published>
+    <summary>Here. From Jim Wilson: The.NET CF Resource site has been substantially updated and we now have the discussion group online. If you have a questions about the.NET Compact Framework, information that you would like to share or you just want to see what other people are doing with the.NET Compact Framework, this is the list for you. </summary>
+    <content type="html">&lt;h1>.NET Compact Framework Discussion List is Online&lt;/h1>
+&lt;a href="http://www.dotnetcf.com">Here&lt;/a>. From Jim Wilson: The .NET CF Resource site has been substantially updated and we now have the discussion group online.  
+If you have a questions about the .NET Compact Framework, information that you would like to share or you just want to see what other people are doing with the .NET Compact Framework, this is the list for you. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12579</id>
+    <title>Industry Burn-Out</title>
+    <updated>2002-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-08-03T07:00:00.000Z</published>
+    <summary>Do you feel it? I do and I know that a bunch of my friends do. The whole IT industry is in recovery from the crashing lows that can only happen after impossible highs. In recent conversations, I hear terms like &amp;quot;burned out,&amp;quot; &amp;quot;bitter&amp;quot; and &amp;quot;jaded&amp;quot; coming up again and again in our conversations. Since I got into this industry just as it was idling before take off, I have no frame of reference, but I'm guessing that things will level off at a bit better cash flow than right now, bu...</summary>
+    <content type="html">&lt;h1>Industry Burn-Out&lt;/h1>
+
+        &lt;p>Do you feel it? I do and I know that a bunch of my friends do. The 
+        whole IT industry is in recovery from the crashing lows that can only 
+        happen after impossible highs. In recent conversations, I hear terms 
+        like &amp;quot;burned out,&amp;quot; &amp;quot;bitter&amp;quot; and &amp;quot;jaded&amp;quot; coming up again and again in our 
+        conversations. Since I got into this industry just as it was idling 
+        before take off, I have no frame of reference, but I'm guessing that 
+        things will level off at a bit better cash flow than right now, but much 
+        better morale.&lt;/p>
+        &lt;p>The question is, how long will it take for the energy and excitement 
+        to come back? I know that 
+        I'm still healing from a three-year stint on my last big project, and 
+        even though I have an itch to try something else, I fantasize about 
+        trying my hand at another industry. I always figured that the shake-out 
+         
+        would make the bottom feeders leave for something else, 
+        but now that we seemed to have settled on good, although not great, 
+        salaries and benefits and shaky processes at best, how many of the top 
+        folks will just bail from something else? I haven't actually seen anyone 
+        I respect leave for greener pastures, so I've got my fingers crossed 
+        that things will turn around.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/168</id>
+    <title>Industry Burn-Out</title>
+    <updated>2002-08-03T07:00:00.000Z</updated>
+    <published>2002-08-03T07:00:00.000Z</published>
+    <summary>Here. I got to feeling melancholy today about the low moral in the industry. Pay no attention. : )</summary>
+    <content type="html">&lt;h1>Industry Burn-Out&lt;/h1>
+&lt;a href="/12579">Here&lt;/a>. I got to feeling melancholy today about the low moral in the industry. Pay no attention. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/167</id>
+    <title>Mike Lehman's BugTracker.net Released</title>
+    <updated>2002-08-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-03T07:00:00.000Z</published>
+    <summary>Here. From Michael Lehman: "Mike Lehman's BugTracker.net" is an open-source Windows Forms, XML, ADO.net bug tracking application written in C#.</summary>
+    <content type="html">&lt;h1>Mike Lehman's BugTracker.net Released&lt;/h1>
+&lt;a href="http://www.mikelehman.com/bugtracker/bugtracker.html">Here&lt;/a>. From Michael Lehman: "Mike Lehman's BugTracker.net" is an open-source Windows Forms, XML, ADO.net bug tracking application written in C#.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/165</id>
+    <title>Generating Code at Run Time With Reflection.Emit</title>
+    <updated>2002-08-01T07:00:00.000Z</updated>
+    <published>2002-08-01T07:00:00.000Z</published>
+    <summary>Here. by Shawn Van Ness and Chris Sells "Java programmers have long enjoyed the benefits of reflection and full-fidelity type information, and.NET (finally) delivers that bit of nirvana to the Windows platform. But the classes in the Reflection.Emit namespace raise the bar even further, allowing us to generate new types and emit new code, dynamically."</summary>
+    <content type="html">&lt;h1>Generating Code at Run Time With Reflection.Emit&lt;/h1>
+&lt;a href="http://www.wd-mag.com/current/0208c.htm">Here&lt;/a>. by Shawn Van Ness and Chris Sells
+
+"Java programmers have long enjoyed the benefits of reflection and full-fidelity type information, and .NET (finally) delivers that bit of nirvana to the Windows platform. But the classes in the Reflection.Emit namespace raise the bar even further, allowing us to generate new types and emit new code, dynamically."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/162</id>
+    <title>.NET FxCop Updated to Version 1.072</title>
+    <updated>2002-07-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-31T07:00:00.000Z</published>
+    <summary>Here. What's new: "1) UI updated (i.e. exclude tracking info, bold `new' violations, application settings +more) 2) nearly every rule has been touched, most improved 3) addition of 40+ new rules 4) cmd-line version of tool greatly stabilized and improved 5) new, complete set of documentation" [Maciek Sarnowicz via Off Topic]</summary>
+    <content type="html">&lt;h1>.NET FxCop Updated to Version 1.072&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/libraries/">Here&lt;/a>. What's new:
+
+"1) UI updated (i.e. exclude tracking info, bold `new' violations, application settings +more)
+
+2) nearly every rule has been touched, most improved
+
+3) addition of 40+ new rules
+
+4) cmd-line version of tool greatly stabilized and improved
+
+5) new, complete set of documentation"
+
+[Maciek Sarnowicz via Off Topic]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/164</id>
+    <title>Samples Chapters from the Web Services Implementation Guide</title>
+    <updated>2002-07-31T07:00:00.000Z</updated>
+    <published>2002-07-31T07:00:00.000Z</published>
+    <summary>Here. From Stanford Powers: Getting value from stuff you don't own is a compelling idea. Just think, someone else has created something that has value, and has made it available to you. You can now leverage its value in ways that makes all parties richer. That's the promise of web services. Architag Press, a division of Architag International Corporation, announces the publication of Web Services Implementation Guide, Volume 1: Getting Started, by Brian E. Travis and Mae Ozkan.</summary>
+    <content type="html">&lt;h1>Samples Chapters from the Web Services Implementation Guide&lt;/h1>
+&lt;a href="http://www.architag.com/press/wsig">Here&lt;/a>. From Stanford Powers: Getting value from stuff you don't own is a compelling idea. Just think, someone else has created something that has value, and has made it available to you. You can now leverage its value in ways that makes all parties richer. That's the promise of web services. 
+
+Architag Press, a division of Architag International Corporation, announces the publication of Web Services Implementation Guide, Volume 1: Getting Started, by Brian E. Travis and Mae Ozkan.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/161</id>
+    <title>Mastering Visual Studio .NET sample chapters</title>
+    <updated>2002-07-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-31T07:00:00.000Z</published>
+    <summary>Here. "Mastering Visual Studio.NET, by Jon Flanders and Chris Sells "Most developers can perform the basics inside Visual Studio.NET, like creating a project, typing some code, compiling and debugging. Although Mastering Visual Studio.NET covers these topics, it does so very quickly. This book enables intermediate and advanced programmers the kind of depth that's really needed, such as advanced window functionality, macros, advanced debugging, and add-ins, etc. With this book, developers will learn the VS.N...</summary>
+    <content type="html">&lt;h1>Mastering Visual Studio .NET sample chapters&lt;/h1>
+&lt;a href="http://www.oreilly.com/catalog/mastvsnet/chapter/index.html">Here&lt;/a>. "Mastering Visual Studio .NET, by Jon Flanders and Chris Sells
+
+"Most developers can perform the basics inside Visual Studio .NET, like creating a project, typing some code, compiling and debugging. Although Mastering Visual Studio .NET covers these topics, it does so very quickly. This book enables intermediate and advanced programmers the kind of depth that's really needed, such as advanced window functionality, macros, advanced debugging, and add-ins, etc. With this book, developers will learn the VS.NET development environment from top to bottom."</content>
+  </entry>
+</feed>

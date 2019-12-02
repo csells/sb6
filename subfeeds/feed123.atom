@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed123.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed122.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed124.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed123.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/686</id>
+    <title>Web Servers: IIS6 vs. Apache 1.3.23/2.0.4</title>
+    <updated>2003-07-14T07:00:00.000Z</updated>
+    <published>2003-07-14T07:00:00.000Z</published>
+    <summary>Here. Veritest shows that Windows Server 2003/IIS6 creams Linux/Apache by up to 300% vs. Apache 1.3.23 and up to 58% vs. Apache 2.0.4.</summary>
+    <content type="html">&lt;h1>Web Servers: IIS6 vs. Apache 1.3.23/2.0.4&lt;/h1>
+&lt;a href="http://www.veritest.com/clients/reports/microsoft/ms_competitive_webbench_performance.pdf">Here&lt;/a>. Veritest shows that Windows Server 2003/IIS6 creams Linux/Apache by up to 300% vs. Apache 1.3.23 and up to 58% vs. Apache 2.0.4.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/687</id>
+    <title>Notes on Neal Stephenson's USENIX Keynote</title>
+    <updated>2003-07-14T07:00:00.000Z</updated>
+    <published>2003-07-14T07:00:00.000Z</published>
+    <summary>Here. As a frustrated fiction author myself, I find this very cool: "He rented a modern typewriter, secluded himself in his apartment and started to type. Soon a problem appeared: the typewriter had a modern plastic ribbon. The plastic mellowed and became sticky: it was July in Iowa City, and the apartment was hot. The only way to prevent the ribbon from getting stuck is to keep the ribbon moving. And the only way to keep the ribbon moving is to keep pressing the keys. That discovery did wonders for his pro...</summary>
+    <content type="html">&lt;h1>Notes on Neal Stephenson's USENIX Keynote&lt;/h1>
+&lt;a href="http://lambda.weblogs.com/discuss/msgReader$7628#7629">Here&lt;/a>. As a frustrated fiction author myself, I find this very cool:
+
+"He rented a modern typewriter, secluded himself in his apartment and started to type. Soon a problem appeared: the typewriter had a modern plastic ribbon. The plastic mellowed and became sticky: it was July in Iowa City, and the apartment was hot. The only way to prevent the ribbon from getting stuck is to keep the ribbon moving. And the only way to keep the ribbon moving is to keep pressing the keys. That discovery did wonders for his productivity."
+
+This is *so* different from how I write, but it makes a really good story. : ) Plus, he adopted another technique later.
+
+"For instance, many stories of Charles Dickens were first published in a magazine, over a course of several months. It is not often emphasized that Dickens didn't have time to distill his novels and to write draft after draft. He had to write in monthly installments, with barely a time for one draft."
+
+This is how I like to write. I write up articles, post them various places, get feedback and then use those as draft material for the chapters in my books. It works really well, I think, both because it produces better material and because my hardcore audience doesn't have to write for the book publishing process for a lot of the material.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/688</id>
+    <title>Addison-Wesley Announces Five Leading-Edge Books</title>
+    <updated>2003-07-14T07:00:00.000Z</updated>
+    <published>2003-07-14T07:00:00.000Z</published>
+    <summary>Here. "Windows Forms Programming in C# by Chris Sells
+This book is written to help experienced programmers who already possess a basic understanding of Visual C#.NET and the.NET Framework to master the Windows Forms toolkit. Contents include discussion of the core elements of Windows Forms (with concise examples and graphic depictions of user interface features in action), as well as pitfalls to avoid and solutions to common problems. Windows Forms Programming in C# is the seventh book to publish in Addison...</summary>
+    <content type="html">&lt;h1>Addison-Wesley Announces Five Leading-Edge Books&lt;/h1>
+&lt;a href="http://www.awprofessional.com/promotions/promotions.asp?st=3582A8EF-4609-493C-9521-2BC1DF95F492">Here&lt;/a>. "Windows Forms Programming in C# by Chris Sells
+This book is written to help experienced programmers who already possess a basic understanding of Visual C# .NET and the .NET Framework to master the Windows Forms toolkit. Contents include discussion of the core elements of Windows Forms (with concise examples and graphic depictions of user interface features in action), as well as pitfalls to avoid and solutions to common problems. Windows Forms Programming in C# is the seventh book to publish in Addison-Wesley's Microsoft .NET Development Series. Chris Sells has been touring the U.S. as one of Microsoft's Software Legends. (Publishing August 2003)"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12538</id>
+    <title>Alan Cooper's Has A Dream</title>
+    <updated>2003-07-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-14T07:00:00.000Z</published>
+    <summary>In addition to bending my head back during my flight lesson, Alan Cooper always manages to bend my brain back, too. Here's a guy that invented drag-n-drop UI development umpteen years ago and he's been in the business ever since, mostly doing interaction design, but lately trying to tackle the problem of software management. His main thesis is that &amp;quot;web designers are called programmers, programmers are called engineers, engineers are called architects and architects are never called.&amp;quot; He justifies...</summary>
+    <content type="html">&lt;h1>Alan Cooper's Has A Dream&lt;/h1>
+&lt;p>In 
+addition to bending my head back during &lt;a href="#My_First_Flight_Lesson">my 
+flight lesson&lt;/a>, Alan Cooper always manages to bend my brain back, too. Here's 
+a guy that invented drag-n-drop UI development umpteen years ago and he's been 
+in the business ever since, mostly doing interaction design, but lately trying 
+to tackle the problem of software management. His main thesis is that &amp;quot;web 
+designers are called programmers, programmers are called engineers, engineers 
+are called architects and architects are never called.&amp;quot; He justifies this 
+statement by comparing architecture to real-world architecture, which is very 
+different from what the IT industry has co-opted the term mean.&lt;/p>&lt;p>For 
+example, in the world of physical buildings, an architect meets with the clients 
+to understand their needs and listens to their ideas. He then designs a building 
+via a series of increasingly specific sessions with the clients to understand 
+what they need and with engineers to understand what can be done. He uses these 
+interactions to produce blueprints to hand off to the engineer. The engineer 
+decides how to build the building, e.g. what materials to use, what to build or 
+buy, what labor is needed, etc. Before we had mass-produced parts and giant spec 
+books describing every material under the sun, this often required 
+experimentation, which would also feed into the production of a more detailed 
+set of plans to hand off to the construction workers, who do the actual building 
+of the structure. While the structure is built, the engineer and the architect 
+checks in to make sure that things are meeting their requirements and, in fact, 
+it's the engineer's job to sign off when it does. Likewise, there are inspectors 
+that check to make sure things are up to code at certain phases of the project.&lt;/p>&lt;p>
+In the world of software, we've got inspectors, they're called QA staff. We've 
+got construction workers, they're called programmers. We've got engineers, 
+they're called software engineers, even though we have yet to decide what being 
+a &amp;quot;software engineer&amp;quot; means (often it's just another fancy word for 
+&amp;quot;programmer&amp;quot;). We sometimes have architects, but we tend to rely on the 
+combination of engineering and usability folks, most often skipping the 
+usability and most of the contact with the customer altogether.&lt;/p>&lt;p>Alan's 
+view of the world of software is that, because we don't have this very 
+interactive role that really corresponds to the architect very often, 
+non-technical management really has no idea what's going on in the software 
+construction process. Instead, they have to rely on engineers and programmers to 
+tell them things, when they feel like it, and those guys lie (or plain don't 
+know). Likewise, because there is so little architecture, what comes out the 
+other side is often not what the users want anyway.&lt;/p>&lt;p>In Alan's world, 
+architects fill the role between engineers and customers and non-technical 
+management, designing software that users want and communicating what's going on 
+with management. Likewise, engineers design software to spec that works under 
+stress; programmers build software that doesn't crash; QA checks to make sure 
+that this all happens the way it should.&lt;/p>&lt;p>One of the benefits of Alan's 
+view is that before engineering happens, architects figure out in a detailed and 
+thorough way what needs building, handing complete specs to the engineers. 
+Likewise, before programming happens, engineers run the experiments and make the 
+technology and resource decisions before any code is written, passing off 
+details specs to the programmers. These details specs also flow to the QA folks, 
+which uses them along with their own quality standards to make sure that the 
+software is right before it ships.&lt;/p>&lt;p>If this seems silly, think about an 
+inspector signing off on a house before the foundation is poured, a construction 
+worker pouring the concrete before the plans are done or the engineer deciding 
+on the materials of a building before he knows if it's a house or a mall. 
+Software is certainly more fluid than concrete, but it's not so fluid as we like 
+to believe, as evidenced by the number of failed software projects and the cost 
+overruns associated with them.&lt;/p>&lt;p>We think we're doing 
+architect/engineer/programmer now, but Alan disagrees. What we have is software 
+being hand-made by craftsman from the iron age, but reproduced like appliances 
+from the industrial age. What we need is real engineering for the information 
+age. Alan puts it nicely, &amp;quot;We're standing at the front edge of the information 
+age with really sharp tools from the industrial age.&amp;quot;&lt;/p>&lt;p>Of course, what 
+Alan's talking about is the standard waterfall method of software design, which 
+is what I learned in software engineering school. So why don't we do it? Because 
+we don't like drawing up blueprints. We like to make the lights go blinky, 
+blinky on the monitor. Building a shed in your backyard is quicker and easier 
+without an architect or an engineer involved, but is that how you want your 
+house built?&lt;/p>&lt;p>Another benefit of this model of 
+architect/engineer/programmer is that it gives non-technical management much 
+more visibility into and control of the process. You may not think so, but this 
+is good. Right now, the only control they have over the process is the schedule. 
+We say, &amp;quot;That'll take two years,&amp;quot; and they say, &amp;quot;You've got four months.&amp;quot; Why? 
+Because they've been down the &amp;quot;two year&amp;quot; software process before and gotten 
+burned ~100% of the time, whether the software ships late or it doesn't ship at 
+all. At least if they say &amp;quot;four months,&amp;quot; they've only lost 1/6th of the money 
+when/if things go bad. If we want to take the giant hammer of schedule out of 
+their hands, we've got to give them something else so that we have the time we 
+know we need to build quality software that we can be proud of.&lt;/p>&lt;p>I don't 
+know if Alan's right or not, but I sure want him to be. As an architect, I want 
+the tools and the opportunity to design something that the customer will want 
+(I've been down the other road before and it never ends well). As an engineer 
+and as a programmer, I want to build something that will be loved and used when 
+I'm done. Isn't that what we all want?&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12347</id>
+    <title>Fly Daddy Al</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Alan Cooper's 14-year old son rapping about his Dad. Marty Cooper [marty @ cooper.name] Stolen on 7/13/2003 from Alan's USB hard drive when he mistakenly put it into my computer </summary>
+    <content type="html">&lt;h1>Fly Daddy Al&lt;/h1>
+&lt;p>&lt;a href="/public/fun/FlyDaddyAl.avi">Alan Cooper's 14-year old son rapping about his Dad.&lt;/a>&lt;/p>
+&lt;p>&lt;i>Marty Cooper [marty @ cooper.name]&lt;br>
+Stolen on &lt;span class="created">7/13/2003&lt;/span> from Alan's USB hard drive when he mistakenly put it into my 
+computer&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/684</id>
+    <title>My First Flight Lesson</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. The one where the Father of VB turns off the autopilot, giving me control of his airplane and causing me to nearly lose control of my bowels.</summary>
+    <content type="html">&lt;h1>My First Flight Lesson&lt;/h1>
+&lt;a href="/12539">Here&lt;/a>. The one where the Father of VB turns off the autopilot, giving me control of his airplane and causing me to nearly lose control of my bowels.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/682</id>
+    <title>Fly Daddy Al</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. Ever wondered what Alan Cooper, the Father of VB, is like at home? Well, his son illuminates this mystery for us in his very own rap song. Not only fun, but very impressive for a 14-year old. I love computers.</summary>
+    <content type="html">&lt;h1>Fly Daddy Al&lt;/h1>
+&lt;a href="/12347">Here&lt;/a>. Ever wondered what Alan Cooper, the Father of VB, is like at home? Well, his son illuminates this mystery for us in his very own rap song. Not only fun, but very impressive for a 14-year old. I love computers.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12539</id>
+    <title>My First 
+Flight Lesson</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Normally a title like &amp;quot;My First Flight Lesson&amp;quot; would be a metaphor for something else because I'm generally much more engaged by mental pursuits than physical ones. However, in this case it's literal; Alan Cooper (the Father of VB) gave me a lesson in his plane (a Piper 6-seater). Tim Ewald and his wife were staying at my house after the Dev.Conf., so Tim and I and the Sells brothers went to the local little airport to pick Alan up when he flew for an Saturday afternoon lark. When we got there, Al...</summary>
+    <content type="html">&lt;h1>My First 
+Flight Lesson&lt;/h1>
+&lt;p>Normally a title 
+like &amp;quot;My First Flight Lesson&amp;quot; would be a metaphor for something else because I'm 
+generally much more engaged by mental pursuits than physical ones. However, in 
+this case it's literal; Alan Cooper (the Father of VB) gave me a lesson in his 
+plane (a Piper 6-seater).&lt;/p>&lt;p>Tim Ewald and his wife were staying at my house 
+after the Dev.Conf., so Tim and I and the Sells brothers went to the local 
+little airport to pick Alan up when he flew for an Saturday afternoon lark. When 
+we got there, Alan invited us up for a sight-seeing trip. I volunteered to sit 
+in the back with the brothers, giving Tim the front seat, but Alan insisted that 
+I sit up front in the co-pilot's seat, clearly having something in mind.&lt;/p>&lt;p>
+After we took off and Alan took us out of PDX airspace at around 2400 feet, he 
+told me to take the yoke because he was turning off the autopilot. After that, 
+he took me through part of a real lesson, including playing with the flaps via 
+the pedals at my feet, banking, trimming, descending, leveling off after a 
+descend and in general, crapping my pants. Flying a plane was not what I 
+expected to do that day, let alone so close to the ground with non-trivial winds 
+and thick cloud cover. Not one do we have plenty of bumps and *sideways* motion 
+to make mere riding a harrowing experience, but I had my boys and Tim in the 
+back with their lives in my hands in the front. I find the sensation beyond my 
+feeble powers of description, but it was fabulous and terrifying and 
+emproudening all at the same time. And at least I had control. All Tim in the 
+back got was the terrifying part!&lt;/p>&lt;p>Alan said that I did well and had a 
+natural ability to keep the nose up (apparently that's a problem for newbies). 
+Luckily, because he didn't want to make the folks in the back puke, he didn't 
+turn off the engine like he said that he would normally do. Apparently there's 
+nothing like cutting the engine to give a new pilot experience with what 
+actually happens (apparently the plane doesn't drop like a brick no matter how 
+many I were to drop in my shorts). Also, he said that normally he'd make me take 
+off and land, but only in a Cessna, which has special landing gear for newbies, 
+whereas had I done poorly on the Piper, I could've caused $200K worth of damage. 
+On the other hand, while I was relieved not to experience the wonder of 
+zero-engine flight or my first landing, I'm disappointed not to have those 
+experiences as well. It was pretty damn cool to have full control in all three 
+dimensions. That is, except when we overflew the helicopter that the tower 
+didn't warn us about and that we didn't see 'til we were over it. Both Tim and I 
+dropped some bricks when that happened...&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/679</id>
+    <title>.NET Games Development Forum</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. With DX9, I can see lots of games embracing.NET in the future. This is where it'll start.</summary>
+    <content type="html">&lt;h1>.NET Games Development Forum&lt;/h1>
+&lt;a href="http://www.windowsforms.com/Forums/ShowForum.aspx?tabIndex=1&amp;tabId=41&amp;ForumID=24">Here&lt;/a>. With DX9, I can see lots of games embracing .NET in the future. This is where it'll start.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/680</id>
+    <title>Where Are They Now? Kraig Brockschmidt</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. I heard that he gave all his money away and joined a commune. Now, it seems that the author of calc.exe and Inside OLE 2 is back.</summary>
+    <content type="html">&lt;h1>Where Are They Now? Kraig Brockschmidt&lt;/h1>
+&lt;a href="http://www.clarityseminars-nw.com/trainers.htm">Here&lt;/a>. I heard that he gave all his money away and joined a commune. Now, it seems that the author of calc.exe and Inside OLE 2 is back.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/685</id>
+    <title>RSS vs. Necho</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. Rich Salz explains in a clear, calm manner the problems with RSS and what Necho/Echo/Pie brings to the table. Thanks, Rich!</summary>
+    <content type="html">&lt;h1>RSS vs. Necho&lt;/h1>
+&lt;a href="http://webservices.xml.com/pub/a/ws/2003/07/08/salz.html">Here&lt;/a>. Rich Salz explains in a clear, calm manner the problems with RSS and what Necho/Echo/Pie brings to the table. Thanks, Rich!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/681</id>
+    <title>Top 10 XML Specifications Rejected by the W3C</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. The top 10 list from the Applied XML Dev.Conf.</summary>
+    <content type="html">&lt;h1>Top 10 XML Specifications Rejected by the W3C&lt;/h1>
+&lt;a href="/12348">Here&lt;/a>. The top 10 list from the Applied XML Dev.Conf.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/683</id>
+    <title>Another Dev.Conf. Come and Gone</title>
+    <updated>2003-07-13T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-13T07:00:00.000Z</published>
+    <summary>Here. If you didn't get to come to the Applied XML Developer's Conference, you missed a fun show. The conference page (linked to this item) has the materials and a list of blogs that I know of that posted conference commentary.</summary>
+    <content type="html">&lt;h1>Another Dev.Conf. Come and Gone&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. If you didn't get to come to the Applied XML Developer's Conference, you missed a fun show. The conference page (linked to this item) has the materials and a list of blogs that I know of that posted conference commentary.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/677</id>
+    <title>Applied XML Developer's Conference Trip Report</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Here. My notes from the Dev.Conf.</summary>
+    <content type="html">&lt;h1>Applied XML Developer's Conference Trip Report&lt;/h1>
+&lt;a href="/12541">Here&lt;/a>. My notes from the Dev.Conf.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/678</id>
+    <title>The Killer App for Web Services</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Here. The one where I'm completely blown away by the implications of what Amazon.com is doing with web services.</summary>
+    <content type="html">&lt;h1>The Killer App for Web Services&lt;/h1>
+&lt;a href="/12540">Here&lt;/a>. The one where I'm completely blown away by the implications of what Amazon.com is doing with web services.</content>
+  </entry>
+</feed>

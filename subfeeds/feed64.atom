@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed64.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed63.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed65.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed64.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1506</id>
+    <title>The One With The Man That Burns</title>
+    <updated>2004-08-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-30T07:00:00.000Z</published>
+    <summary>I'm in-the-middle-desert unavailable this week @ Burning Man. Wish this open-minded but sheltered Midwestern boy luck. : )</summary>
+    <content type="html">&lt;h1>The One With The Man That Burns&lt;/h1>
+I'm in-the-middle-desert unavailable this week @ &lt;A href="http://www.burningman.com/">Burning Man&lt;/A>. Wish this open-minded but sheltered Midwestern boy luck. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1507</id>
+    <title>1/2 Price Devscovery Ticket for 8/31-9/2</title>
+    <updated>2004-08-30T07:00:00.000Z</updated>
+    <published>2004-08-30T07:00:00.000Z</published>
+    <summary>Rich has one half-price ticket to the Redmond Devscovery running 8/31-9/2.</summary>
+    <content type="html">&lt;h1>1/2 Price Devscovery Ticket for 8/31-9/2&lt;/h1>
+Rich has &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=e7849476-8482-4aea-b145-c8f96ae9ffef">one half-price ticket to the Redmond Devscovery running 8/31-9/2&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1508</id>
+    <title>Jim Allchin, Group VP for Windows, on Channel9 Vid</title>
+    <updated>2004-08-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-30T07:00:00.000Z</published>
+    <summary>Channel9 has the latest Windows/WinFX/Longhorn/WinFS/Avalon/Indigo skinny right from the horse's mouth: Jim Allchin the Group VP in charge of Windows. </summary>
+    <content type="html">&lt;h1>Jim Allchin, Group VP for Windows, on Channel9 Vid&lt;/h1>
+&lt;P>Channel9 has &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=19798">the latest Windows/WinFX/Longhorn/WinFS/Avalon/Indigo skinny right from the horse's mouth: Jim Allchin&lt;/A> the Group VP in charge of Windows.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1509</id>
+    <title>Scoble Takes the Pulse of the Developer Community</title>
+    <updated>2004-08-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-30T07:00:00.000Z</published>
+    <summary>Robert Scoble has done a great job reporting the pulse of the Windows developer community on Friday's news. Recommended.</summary>
+    <content type="html">&lt;h1>Scoble Takes the Pulse of the Developer Community&lt;/h1>
+Robert Scoble has done &lt;A href="http://radio.weblogs.com/0001011/2004/08/30.html#a8167">a great job reporting the pulse of the Windows developer community&lt;/A> on &lt;A href="/1504">Friday's news&lt;/A>. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1505</id>
+    <title>Jeremy Mazern on What Happened To Longhorn &amp; WinFS</title>
+    <updated>2004-08-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-29T07:00:00.000Z</published>
+    <summary>Jeremy contributes to the news about Longhorn and WinFS. Most interesting is Jeremy's discussion of the usability&amp;nbsp;studies we did on WinFS and how we're using that information to improve the API. Check it out.</summary>
+    <content type="html">&lt;h1>Jeremy Mazern on What Happened To Longhorn &amp; WinFS&lt;/h1>
+Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222488.aspx">Longhorn&lt;/A> and &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222493.aspx">WinFS&lt;/A>. Most interesting is Jeremy's discussion of the usability&amp;nbsp;studies we did on WinFS and how we're using that information to improve the API. Check it out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1504</id>
+    <title>WinFX To Be Available On Down-Level Windows</title>
+    <updated>2004-08-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-27T07:00:00.000Z</published>
+    <summary>Lots of interesting news about the plan to make WinFX available on Windows XP and Windows 2003: Press release:&amp;nbsp; Microsoft Announces 2006 Target Date for Broad Availability Of Windows "Longhorn" Client Operating System Note from David Treadwell, the Grand Poobah of WinFX Longhorn Developer Center Editor's Note from yours truly New Longhorn Developer FAQ section: WinFX on Down-Level Windows New WinFS page on the MSDN Data Developer Center Enjoy. </summary>
+    <content type="html">&lt;h1>WinFX To Be Available On Down-Level Windows&lt;/h1>
+&lt;P>Lots of interesting news about the plan to make WinFX available on Windows XP and Windows 2003:&lt;/P>
+&lt;UL>
+&lt;LI>Press release:&amp;nbsp; &lt;A href="http://www.microsoft.com/presspass/press/2004/Aug04/08-27Target2006PR.asp">Microsoft Announces 2006 Target Date for Broad Availability Of Windows "Longhorn" Client Operating System&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://msdn.microsoft.com/Longhorn/letters/tread20040827/default.aspx">Note from David Treadwell&lt;/A>, the Grand Poobah of WinFX&lt;/LI>
+&lt;LI>Longhorn Developer Center &lt;A href="http://msdn.microsoft.com/longhorn/letters/20040827/default.aspx">Editor's Note from yours truly&lt;/A>&lt;/LI>
+&lt;LI>New Longhorn Developer FAQ section: &lt;A href="http://msdn.microsoft.com/Longhorn/Support/lhdevfaq/default.aspx#WinFXDownLevel">WinFX on Down-Level Windows&lt;/A>&lt;/LI>
+&lt;LI>New &lt;A href="http://msdn.microsoft.com/data/winfs/default.aspx">WinFS page on the MSDN Data Developer Center&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1503</id>
+    <title>Enjoyed Listening to Charles Petzold on .NET Rocks</title>
+    <updated>2004-08-25T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-25T07:00:00.000Z</published>
+    <summary>I really enjoyed listening to Charles Petzold on the most recent episode of.NET Rocks. It was wonderful to hear about an entire part of Windows history when I didn't even know that it existed (I never heard of Windows 'til version 3.1). I was also surprised and honored to hear that Charles was familiar with my book (or the sales numbers at least : ). BTW, I'm a huge Richard the Toy Boy fan. He's got such a radio voice and entertaining manner that he should do the radio thing professionally (hopefully I'm no...</summary>
+    <content type="html">&lt;h1>Enjoyed Listening to Charles Petzold on .NET Rocks&lt;/h1>
+&lt;P>I really enjoyed listening to Charles Petzold on &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=78">the most recent episode of .NET Rocks&lt;/A>. It was wonderful to hear about an entire part of Windows history when I didn't even know that it existed (I never heard of Windows 'til version 3.1). I was also surprised and honored to hear that Charles was familiar with my book (or the sales numbers at least : ).&lt;/P>
+&lt;P>BTW, I'm a huge Richard the Toy Boy fan. He's got such a radio voice and entertaining manner that he should do the radio thing professionally (hopefully I'm not embarrassing myself because he's already a professional and I don't know it : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1502</id>
+    <title>Here's A Side Of The Olympic I Hadn't Heard Before</title>
+    <updated>2004-08-24T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-24T07:00:00.000Z</published>
+    <summary>"At the Albertville winter Olympics, condom machines in the athletes' village had to be refilled every two hours. And in Sydney the organisers' original order of 70,000 condoms went so fast that they had to order 20,000 more. Even with the replenishment, the supply was exhausted three days before the end of the competition schedule. (For the record, athletes who were in Sydney report that the Cuban delegation was the first to use up its allocation.) Salt Lake City in 2002 went even bigger: 250,000 condoms w...</summary>
+    <content type="html">&lt;h1>Here's A Side Of The Olympic I Hadn't Heard Before&lt;/h1>
+&lt;P>"At the Albertville winter Olympics, condom machines in the athletes' village had to be refilled every two hours. And in Sydney the organisers' original order of 70,000 condoms went so fast that they had to order 20,000 more. Even with the replenishment, the supply was exhausted three days before the end of the competition schedule. (For the record, athletes who were in Sydney report that the Cuban delegation was the first to use up its allocation.) Salt Lake City in 2002 went even bigger: 250,000 condoms were handed out, despite the objections of the city's Mormon leadership."&lt;/P>
+&lt;P>"&lt;A href="http://news.scotsman.com/features.cfm?id=814602004">There's a lot of sex going on.&lt;/A> You get a lot of people who are in shape, and, you know, testosterone's up and everybody's attracted to everybody," says Breaux Greer, a shaggy-blond Californian who competed in the javelin at the Sydney Games."&lt;/P>
+&lt;P>It sounds like a PDC, except that we don't have anyone in shape, anyone attractive or any the sex... (or maybe I'm just going to the wrong parties : ).&lt;/P>
+&lt;p>[&lt;a href="http://blogs.msdn.com/oldnewthing/archive/2004/08/23/218838.aspx">via Raymond Chen&lt;/a>]&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1500</id>
+    <title>Why Joe Likes XAML</title>
+    <updated>2004-08-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-22T07:00:00.000Z</published>
+    <summary>Here. Joe Marini is&amp;nbsp;working with Longhorn, Avalon and XAML on a Microsoft product team and finds that he really loves XAML. This, in and off itself, is not surprising (I mean, that's what we're paying him for : ), but it's interesting to hear the specifics. One thing that Joe seems to love (and I can hardly blame him) is that data binding in Avalon is used to build the UI, not just show external data. He expounds on this in his wonderful Data Bound User Interfaces in XAML article. Another thing that Jo...</summary>
+    <content type="html">&lt;h1>Why Joe Likes XAML&lt;/h1>
+&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=18714">Here&lt;/a>. &lt;P>Joe Marini is&amp;nbsp;working with Longhorn, Avalon and XAML on a Microsoft product team and finds that he really loves XAML. This, in and off itself, is not surprising (I mean, that's what we're paying him for : ), but it's interesting to hear the specifics.&lt;/P>
+&lt;P>One thing that Joe seems to love (and I can hardly blame him) is that data binding in Avalon is used to build the UI, not just show external data. He expounds on this in his wonderful &lt;A href="http://www.joemarini.com/tutorials/tutorialpages/xamldataboundui.php">Data Bound User Interfaces in XAML&lt;/A> article.&lt;/P>
+&lt;P>
+&lt;P>Another thing that Joe loves is that a Avalon designer's work is in the same format as what the designer needs and can be dropped right into an app w/o converting from bitmap mock-ups (&lt;A href="http://www.petersterndesign.com/longhorn.htm">Peter Stern and I are doing this&lt;/A>).&lt;/P>
+&lt;P>&lt;/P>
+&lt;P>You can read about the work that Joe has done with XAML and download his code samples on his web site's &lt;A href="http://www.joemarini.com/tutorials/index.php">tutorial section&lt;/A>. Joe is definitely one to watch in the Longhorn/Avalon space.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12382</id>
+    <title>Standing Out When Submitting Your Resume</title>
+    <updated>2004-08-22T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-08-22T07:00:00.000Z</published>
+    <summary>After seeing all of those pictures in Wired of the wacky letters that people send, I love the idea of Michael Swanson opening the floodgates by sending his resume along with a life-size cardboard figure. What's next? </summary>
+    <content type="html">&lt;h1>Standing Out When Submitting Your Resume&lt;/h1>
+
+&lt;p>After seeing all of those pictures in Wired of the wacky letters that people 
+send, I love the idea of Michael Swanson opening the floodgates by
+&lt;a href="http://weblogs.asp.net/mswanson/archive/2004/08/21/218216.aspx">
+sending his resume along with a life-size cardboard figure&lt;/a>. What's next?&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1501</id>
+    <title>Tim Sneath On Building a Longhorn Sidebar</title>
+    <updated>2004-08-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-08-22T07:00:00.000Z</published>
+    <summary>Tim Sneath shares his experiences building a Longhorn Sidebar, including some tips on how to do the work w/o making your shell unusable (always a plus : ).</summary>
+    <content type="html">&lt;h1>Tim Sneath On Building a Longhorn Sidebar&lt;/h1>
+&lt;A href="http://weblogs.asp.net/tims/archive/2004/08/20/217893.aspx">Tim Sneath shares his experiences building a Longhorn Sidebar&lt;/A>, including some tips on how to do the work w/o making your shell unusable (always a plus : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1499</id>
+    <title>"You will have gold pieces by the bushel."</title>
+    <updated>2004-08-21T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-21T07:00:00.000Z</published>
+    <summary>That's quite a nice fortune. My lucky numbers were 7, 12, 15, 36, 39 and 21. With the "gold pieces by the bushel," I don't really need the lucky numbers, do I? : )</summary>
+    <content type="html">&lt;h1>"You will have gold pieces by the bushel."&lt;/h1>
+That's quite a nice fortune. My lucky numbers were 7, 12, 15, 36, 39 and 21. With the "gold pieces by the bushel," I don't really need the lucky numbers, do I? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1498</id>
+    <title>Wow. DevCon Already More Than Half Full</title>
+    <updated>2004-08-20T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-08-20T07:00:00.000Z</published>
+    <summary>Here. This is the 5th DevCon that I've thrown and I've never seen it fill up this quickly. We're already half-way full after only a week of registrations. If you want a seat, you should get one quickly. </summary>
+    <content type="html">&lt;h1>Wow. DevCon Already More Than Half Full&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. This is the 5th DevCon that I've thrown and I've &lt;EM>never&lt;/EM> seen it fill up this quickly. We're already half-way full after only a week of registrations. &lt;A HREF="/public/conference/">If you want a seat, you should get one quickly.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12344</id>
+    <title>Wife Objects To Midget Above The Fridge</title>
+    <updated>2004-08-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-08-20T07:00:00.000Z</published>
+    <summary>I've spent the last 8 months driving me wife to get rid of a ton of her stuff so that we could use more than the front 2 inches of every drawer, cupboard and closet in the house (of course, it's her stuff that I find to be extraneous : ). Yesterday, while she was on her 2nd night of working 3 12-hour night shifts in a row, I sent her the following email (yes, that's just the kind of nerd that I am): From: Chris Sells [mailto:csells@sellsbrothers.com] Sent: Thursday, August 19, 2004 10:51 AM To: 'Melissa Sel...</summary>
+    <content type="html">&lt;h1>Wife Objects To Midget Above The Fridge&lt;/h1>
+&lt;p>I've spent the last 8 months driving me wife to get rid of a ton of her stuff 
+so that we could use more than the front 2 inches of every drawer, cupboard and 
+closet in the house (of course, it's her stuff that I find to be extraneous : ). 
+Yesterday, while she was on her 2nd night of working 3 12-hour night shifts in a 
+row, I sent her the following email (yes, that's &lt;i>just&lt;/i> the kind of nerd 
+that I am):&lt;/p>
+&lt;div class="Section1">
+	&lt;blockquote>
+		&lt;div>
+			&lt;p class="MsoNormal">&lt;b>&lt;font face="Tahoma" size="2">
+			&lt;span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">
+			From:&lt;/span>&lt;/font>&lt;/b>&lt;font face="Tahoma" size="2">&lt;span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"> 
+			Chris Sells [mailto:csells@sellsbrothers.com] &lt;br>
+			&lt;b>&lt;span style="FONT-WEIGHT: bold">Sent:&lt;/span>&lt;/b> Thursday, August 
+			19, 2004 10:51 AM&lt;br>
+			&lt;b>&lt;span style="FONT-WEIGHT: bold">To:&lt;/span>&lt;/b> 'Melissa Sells'&lt;br>
+			&lt;b>&lt;span style="FONT-WEIGHT: bold">Subject:&lt;/span>&lt;/b> Moving the 
+			shiny stuff above the frig?&lt;/span>&lt;/font>&lt;/div>
+		&lt;p class="MsoNormal">&lt;font face="Times New Roman" size="3">
+		&lt;span style="FONT-SIZE: 12pt">Melissa, can I move the stuff above the 
+		frig that we never use into the attic?&lt;/span>&lt;/font>&lt;/p>
+	&lt;/blockquote>
+&lt;/div>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;p>The &amp;quot;shiny&amp;quot; stuff above the fridge is all kinds of silver and pewter that we 
+never, ever use but &lt;b>&lt;i>must&lt;/i>&lt;/b> keep because someone in one of our 
+families looked at it once a long time ago. Plus, who knows, the Pope could 
+visit to try to convert us back. This was her complete reply after 25 hours of 
+work, 6 hours of commute and 6 hours of sleep over 2 days:&lt;/p>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;blockquote>
+	&lt;p class="MsoNormal">&lt;b>&lt;span style="font-size:10.0pt;font-family:Tahoma">
+	From:&lt;/span>&lt;/b>&lt;span style="font-size:10.0pt;font-family:Tahoma"> Melissa 
+	Sells [mailto:msells@sellsbrothers.com] &lt;br>
+	&lt;b>Sent:&lt;/b> Friday, &lt;span class="created">August 20, 2004 8:27 AM&lt;/span>&lt;br>
+	&lt;b>To:&lt;/b> 'Chris Sells'&lt;br>
+	&lt;b>Subject:&lt;/b> RE: Moving the shiny stuff above the frig?&lt;/span>&lt;/p>
+	&lt;p class="MsoNormal">
+	&lt;span style="font-size:10.0pt;font-family:Arial;color:navy">Is there 
+	something that you feel you need to put above the fridge? Are you planning 
+	on letting a midget live up there? Because I think that if you are going to 
+	let a midget live in the house, they have a right to have a room with a 
+	window or something. In that case, you should have them move into the 
+	cupboard under the counter in the laundry room and we can knock out a space 
+	for a window. It would also be a lot easier for them to get to without 
+	having to rig up some sort of ladder, as that would just take up more of 
+	your precious space. On the other hand, living above the fridge would give 
+	them easy access to the food, and we could have a string with a roll up 
+	ladder rigging. Although having easier access to the fridge may make them 
+	over eat and they may get wedged up in the space over the fridge, be unable 
+	to escape and then we will have to explain why we have that strange odor in 
+	the kitchen. &lt;/span>&lt;/p>
+&lt;/blockquote>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;p>Is there any doubt why I love her? : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12383</id>
+    <title>Some of the MS Interview Process Filmed (Finally!)</title>
+    <updated>2004-08-20T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-08-20T07:00:00.000Z</published>
+    <summary>Channel9 did what I was unable to ever get done: filmed some of the interview process ( part 1, part 2 and part 3 ). It's not an actual interview, but Gretchen Ledgard and Zoe Goldring, both Central Sourcing Consultants at HR for MS, lead you through what to expect at a Microsoft interview, providing a wealth of wonderful tips, e.g. MS is casual, so it doesn't matter so much what you where (i.e. don't feel you have to wear a suit, but don't show up in flip-flops and headphones around your neck [still playin...</summary>
+    <content type="html">&lt;h1>Some of the MS Interview Process Filmed (Finally!)&lt;/h1>
+
+&lt;p>Channel9 did what I was unable to ever get done: 
+filmed some of the interview 
+process (&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=18472">part 
+1&lt;/a>,
+&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=18718">
+part 2&lt;/a> and
+&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=19171">
+part 3&lt;/a>). It's not an actual interview, but Gretchen Ledgard and Zoe Goldring, 
+both Central Sourcing Consultants at HR for MS, lead you through what to expect 
+at a Microsoft interview, providing a wealth of wonderful tips, e.g.&lt;/p>
+&lt;ul>
+	&lt;li>MS is casual, so it doesn't matter so much what you where (i.e. don't 
+	feel you have to wear a suit, but don't show up in flip-flops and headphones 
+	around your neck [still playing!]). Regardless of what you where, it's 
+	what's in your head that's important.&lt;/li>
+	&lt;li>Interact a lot of with the interviewer. Ask questions, think out loud, 
+	etc. The questions are meant to be vague and again, it's about what's going 
+	on in your head, so verbalize it.&lt;/li>
+	&lt;li>Bring water if you're thirsty, not coffee, as spilling coffee is going 
+	to leave a much more lasting stain/impression.&lt;/li>
+	&lt;li>MS rarely asks logic/riddle questions anymore. They're not a good 
+	indicator of a good employee.&lt;/li>
+	&lt;li>Expect coding questions if you're a dev, testing questions if you're a 
+	tester and passion questions no matter what.&lt;/li>
+	&lt;li>If an MS recruiter calls, don't expect them to have a specific job in 
+	mind. Instead, expect to be asked what you'd like to do at MS.&lt;/li>
+	&lt;li>If the first interview doesn't take, it may well be that you're right 
+	for MS but not right for that job. It can literally take &lt;i>years&lt;/i> to 
+	find the right job for you at MS.&lt;/li>
+&lt;/ul>
+&lt;p>BTW, I have to say that I never got a ride on an HR shuttle. I guess they 
+save that for the &amp;quot;good&amp;quot; hires... : )&lt;/p>
+&lt;p>&lt;a href="/1497">
+Discuss&lt;/a>&lt;/p></content>
+  </entry>
+</feed>

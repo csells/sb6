@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed48.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed47.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed49.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed48.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1732</id>
+    <title>Who knew the Brits were so randy?</title>
+    <updated>2005-03-18T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-18T08:00:00.000Z</published>
+    <summary>Between " dogging " and " toothing " (who comes up with these names?) it's a wonder the Brits have found the time to push the Euro up against the dollar...</summary>
+    <content type="html">&lt;h1>Who knew the Brits were so randy?&lt;/h1>
+Between "&lt;A href="http://www.wired.com/news/culture/0,1284,62718,00.html">dogging&lt;/A>" and "&lt;A href="http://www.wired.com/news/culture/0,1284,62687,00.html">toothing&lt;/A>" (who comes up with these names?) it's a wonder the Brits have found the time to push the Euro up against the dollar...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1731</id>
+    <title>Laugh Out Loud Funny: TechEd Video #2</title>
+    <updated>2005-03-16T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-16T08:00:00.000Z</published>
+    <summary>OK, the first TechEd video from Scott &amp;amp; Rory (" A love story ") was chuckle funny, but the #2 video (" Revenge of the Sith ") was laugh out loud funny all the way through. Recommended.</summary>
+    <content type="html">&lt;h1>Laugh Out Loud Funny: TechEd Video #2&lt;/h1>
+OK, the first TechEd video from Scott &amp;amp; Rory ("&lt;A href="http://www.hanselman.com/blog/RoryAndScottGoToTechEdALoveStory.aspx">A love story&lt;/A>") was chuckle funny, but the #2 video ("&lt;A href="http://www.hanselman.com/blog/RoryAndScottDesignSomeSoftwareTechEdRevengeOfTheSith.aspx">Revenge of the Sith&lt;/A>") was laugh out loud funny all the way through. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1730</id>
+    <title>I want XBOX Live virtual presence for my PC!</title>
+    <updated>2005-03-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-16T08:00:00.000Z</published>
+    <summary>Robert points out a hilarious video of what happens in an XBOX Live session of Halo 2 when the other players find out you've fallen asleep. But, even more interesting than that is the ability for that kind of real-world fidelity to make it into a virtual world so that guys from across the country can all haze the guy in his sleep. I want that for my PC! [ via Scoble ] </summary>
+    <content type="html">&lt;h1>I want XBOX Live virtual presence for my PC!&lt;/h1>
+&lt;P>Robert points out a hilarious video of &lt;A href="http://www.putfile.com/media.php?n=scut">what happens in an XBOX Live session of Halo 2 when the other players find out you've fallen asleep&lt;/A>. But, even more interesting than that is the ability for that kind of real-world fidelity to make it into a virtual world so that guys from across the country can all haze the guy in his sleep. I want that for my PC!&lt;/P>
+&lt;P>[&lt;A href="http://radio.weblogs.com/0001011/2005/03/15.html#a9642">via Scoble&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1728</id>
+    <title>Updater Application Block v2.0 Released</title>
+    <updated>2005-03-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-15T08:00:00.000Z</published>
+    <summary>TheServerSide.NET has a nice summary of what's new in the Updater Application Block 2.0 from the new Enterprise Library on GDN. If you're not using ClickOnce from Windows Forms 2.0 yet (maybe because we haven't shipped it yet...), the Updater AppBlock is your next best bet.</summary>
+    <content type="html">&lt;h1>Updater Application Block v2.0 Released&lt;/h1>
+TheServerSide.NET has a nice summary of &lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=32583">what's new in the Updater Application Block 2.0&lt;/A> from &lt;A href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=295a464a-6072-4e25-94e2-91be63527327">the new Enterprise Library on GDN&lt;/A>. If you're not using ClickOnce from Windows Forms 2.0 yet (maybe because we haven't shipped it yet...), the Updater AppBlock is your next best bet.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1729</id>
+    <title>Smart Client Offline Application Block Demo</title>
+    <updated>2005-03-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-15T08:00:00.000Z</published>
+    <summary>Scott Swigart has a nice video demo of putting the Smart Client Offline Application Block to use. Enjoy!</summary>
+    <content type="html">&lt;h1>Smart Client Offline Application Block Demo&lt;/h1>
+Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/2005/03/smart_client_of.html">a nice video demo of putting the Smart Client Offline Application Block to use&lt;/A>. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1727</id>
+    <title>Lego Star Wars Video Game: Hilarious Fun</title>
+    <updated>2005-03-15T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/legostarwars.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-15T08:00:00.000Z</published>
+    <summary>Here. The PC demo is available and I'll pre-order the XBOX version as soon as that feature is enabled on the site. This game is hilarious,&amp;nbsp;has great&amp;nbsp;visuals&amp;nbsp;and is fun to play; what else is there? </summary>
+    <content type="html">&lt;h1>Lego Star Wars Video Game: Hilarious Fun&lt;/h1>
+&lt;a href="http://www.legostarwarsthevideogame.com/">Here&lt;/a>. &lt;img src="/public/fun/legostarwars.jpg"> 
+&lt;P>The PC demo is available and I'll pre-order the XBOX version as soon as that feature is enabled on the site. This game is hilarious,&amp;nbsp;has great&amp;nbsp;visuals&amp;nbsp;and is fun to play; what else is there?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1726</id>
+    <title>When the student is ready, the teacher will come</title>
+    <updated>2005-03-13T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-03-13T08:00:00.000Z</published>
+    <summary>I've been digging into.NET application extensibility lately, discovering the various pieces discussed here. And then, just when I'd despaired of finding a resource that covered the issues in depth, a copy of " Customizing the Microsoft.NET Framework Common Language Runtime," by Steven Pratscher, showed up at my door (that happens sometimes, but I've never quite figured out how...). Steven's a PM on the CLR team and his book has wonderful chapter titles like: Loading Assemblies in Extensible Applications Ext...</summary>
+    <content type="html">&lt;h1>When the student is ready, the teacher will come&lt;/h1>
+&lt;P>I've been digging into .NET application extensibility lately, discovering the various pieces discussed &lt;A href="/1708">here&lt;/A>. And then, just when I'd despaired of finding a resource that covered the issues in depth, a copy of "&lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0735619883/chrissells/">Customizing the Microsoft .NET Framework Common Language Runtime&lt;/A>," by Steven Pratscher, showed up at my door (that happens sometimes, but I've never quite figured out how...).&lt;/P>
+&lt;P>Steven's a PM on the CLR team and his book has wonderful chapter titles like:&lt;/P>
+&lt;UL>
+&lt;LI>Loading Assemblies in Extensible Applications&lt;/LI>
+&lt;LI>Extending the CLR Security System to Protect Your Extensible Application&lt;/LI>
+&lt;LI>Enforcing Application-Specific Programming Model Constraints&lt;/LI>&lt;/UL>
+&lt;P>And if you're thinking, "Big deal, .NET 2.0 is coming out soon and will makes this info obsolete," au contraire, mon frere! This book is based on the .NET 2.0 beta, so the concepts (and hopefully most of the details) are&amp;nbsp;the latest and greatest (and you can download the source that goes along with the book &lt;A href="http://www.microsoft.com/learning/books/products/6895/">here&lt;/A>). I plan on having quite a bit of fun with this book! Thank you book-mailing-to-my-house-god, wherever you are...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1725</id>
+    <title>Our New PND Dinner Bell Has Rung</title>
+    <updated>2005-03-12T08:00:00.000Z</updated>
+    <published>2005-03-12T08:00:00.000Z</published>
+    <summary>It's time to have another Nerd Dinner! What: Portland Nerd Dinner Where: Washington Square Mall food court When: Thursday, March 24, starting around 6:30 PM </summary>
+    <content type="html">&lt;h1>Our New PND Dinner Bell Has Rung&lt;/h1>
+&lt;P>&lt;A href="http://nerddinner.com/blogs/portland/archive/2005/03/11/798.aspx">It's time to have another Nerd Dinner!&lt;/A>&lt;/P>
+&lt;P>&lt;STRONG>What: &lt;/STRONG>Portland Nerd Dinner&lt;BR>&lt;STRONG>Where: &lt;/STRONG>Washington Square Mall food court&lt;BR>&lt;STRONG>When: &lt;/STRONG>Thursday, March 24, starting around 6:30 PM&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1724</id>
+    <title>Need More Chris Anderson? Don't We All?</title>
+    <updated>2005-03-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-11T08:00:00.000Z</published>
+    <summary>If you're not getting enough Chris Anderson in your diet (and who is?!?), check out these two new interviews: ServerSide.NET TechTalk: Chris Anderson on Avalon video.NET Rocks: Chris Anderson and the Longhorn Evangelism Team Enjoy! </summary>
+    <content type="html">&lt;h1>Need More Chris Anderson? Don't We All?&lt;/h1>
+&lt;P>If you're not getting enough Chris Anderson in your diet (and who is?!?), check out these two new interviews:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=32484">ServerSide.NET TechTalk: Chris Anderson on Avalon video&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=BF848EDC-5465-41F6-8597-B8558E77E87F">.NET Rocks: Chris Anderson and the Longhorn Evangelism Team&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1723</id>
+    <title>Some Of My Favorite Books</title>
+    <updated>2005-03-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-11T08:00:00.000Z</published>
+    <summary>Here. I was just putting together a list of some of my favorite books as recommendations for a gift certificate I sent to a friend as a birthday present. If case you're wondering (I know you're all dying to know : ), here's what I sent. </summary>
+    <content type="html">&lt;h1>Some Of My Favorite Books&lt;/h1>
+&lt;a href="/12477">Here&lt;/a>. &lt;P align=left>I was just putting together a list of some of my favorite books as recommendations for a gift certificate I sent to a friend as a birthday present. If case you're wondering (I know you're all &lt;I>dying&lt;/I> to know : ), &lt;a href="/12477">here's what I sent&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12477</id>
+    <title>Some Of My Favorite Books</title>
+    <updated>2005-03-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-11T08:00:00.000Z</published>
+    <summary>I was just putting together a list of some of my favorite books as recommendations for a gift certificate I sent to a friend as a birthday present. If case you're wondering (I know you're all dying to know : ), here's what I sent: Thriller/Mystery &amp;quot; Angels and Demons,&amp;quot; by Dan Brown, is the prequel to the famous Da Vinci Code and much better, imo. John Sandford's long series about a millionaire cop in Minneapolis starts with &amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0425121631/" href=</summary>
+    <content type="html">&lt;h1>Some Of My Favorite Books&lt;/h1>
+&lt;p align="left">I was just putting together a list of some of my favorite books as recommendations for a gift certificate I sent to a friend as a birthday present. If case you're wondering (I know you're all &lt;i>dying&lt;/i> to know : ), here's what I sent:&lt;/p>&lt;div class="Section1">&lt;div>&lt;h1>&lt;b>&lt;font face="Arial" size="5">&lt;span style="FONT-SIZE: 16pt">Thriller/Mystery&lt;/span>&lt;/font>&lt;/b>&lt;/h1>&lt;ul type="disc">&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/8495618710/" href="http://www.amazon.com/exec/obidos/ASIN/8495618710/">Angels and Demons&lt;/a>,&amp;quot; by Dan Brown, is the prequel to the famous Da Vinci Code and much better, imo.&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">John Sandford's long series about a millionaire cop in Minneapolis starts with &amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0425121631/" href="http://www.amazon.com/exec/obidos/ASIN/0425121631/">Rules of Prey&lt;/a>.&amp;quot; If I were to write my own series of novels, these are the ones I'd emulate.&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0440211727/" href="http://www.amazon.com/exec/obidos/ASIN/0440211727/">A Time to Kill&lt;/a>,&amp;quot; by John Grisham, is his first and by far his best book. The movie's really good, too.&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0451188454/" href="http://www.amazon.com/exec/obidos/ASIN/0451188454/">The Bone Collector&lt;/a>,&amp;quot; by Jeff Deaver, is the first (and my favorite) in a series about a bitter, suicidal forensics genius that loses his career when an accident turns him a quadriplegic and he has to solve crimes from his bed. Avoid the movie.&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/tg/detail/-/0345323211/" href="http://www.amazon.com/exec/obidos/tg/detail/-/0345323211/">Tough Guys Don't Dance&lt;/a>,&amp;quot; by Norman Mailer, is my favorite book by this Pulitzer Prize winner. The first chapter starts with a loser waking up from an alcoholic black-out, going out to look for his drug stash, finding his wife's head instead and spending the rest of the book wondering if he killed her or not. Run, don't walk, from the movie. If you have to be run over by a bus in the process, consider yourself lucky.&lt;/span>&lt;/font> &lt;/li>&lt;/ul>&lt;h1>&lt;b>&lt;font face="Arial" size="5">&lt;span style="FONT-SIZE: 16pt">Fantasy&lt;/span>&lt;/font>&lt;/b>&lt;/h1>&lt;ul type="disc">&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0765300346/" href="http://www.amazon.com/exec/obidos/ASIN/0765300346/">War for the Oaks&lt;/a>,&amp;quot; by Emma Bull, is about a punk band leader that falls in love with an elf from the St. Paul, MN parks. No matter how many times I read it, but the end I'm always crying (and yes, I'm just that kind of sap).&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/tg/detail/-/0345337646/" href="http://www.amazon.com/exec/obidos/tg/detail/-/0345337646/">The Silent Tower&lt;/a>,&amp;quot; by Barbara Hambly, is the first of a three-part series about a modern day female geek that falls in love with a real wizard from another dimension. The relationship that builds between them is as good as any romance novel I've ever read (which is admittedly a small number...)&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">Of course, &lt;a title="http://www.amazon.com/exec/obidos/ASIN/0345340426/" href="http://www.amazon.com/exec/obidos/ASIN/0345340426/">&amp;quot;The Hobbit&amp;quot; and &amp;quot;The Lord of the Rings&amp;quot; trilogy&lt;/a>, by J. R. R. Tolkien has to be on anyone's list. If you loved the movies, you'll love the books. I believe that &amp;quot;The Hobbit&amp;quot; is a better book over all; it's tighter and happier and I'm very much looking forward to the movie, especially if Peter Jackson does it. However, my favorite part of the four books is the &amp;quot;coming home&amp;quot; part at the back half of &amp;quot;The Return of the King,&amp;quot; which is given a 3-minute scene in the movie (although I admit it's a nicely done scene).&lt;/span>&lt;/font> &lt;/li>&lt;/ul>&lt;h1>&lt;b>&lt;font face="Arial" size="5">&lt;span style="FONT-SIZE: 16pt">Sci-Fi&lt;/span>&lt;/font>&lt;/b>&lt;/h1>&lt;ul type="disc">&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0743435710/" href="http://www.amazon.com/exec/obidos/ASIN/0743435710/">On Basilisk Station&lt;/a>,&amp;quot; by David Weber, is the first in a long series about a driven, capable woman rising through the ranks of the space navy in spite of the extreme assholes working double-time against her. The main character is so compelling that I cry at the end of 3 of the first 4 books in this series (did I mention what a sap I was?).&lt;/span>&lt;/font>&lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/tg/detail/-/0812550706/" href="http://www.amazon.com/exec/obidos/tg/detail/-/0812550706/">Ender's Game&lt;/a>,&amp;quot; by Orson Scott Card, is about a boy genius coddled by his sister, tortured by his brother and abandoned by his parents to military school where he saves the world from bug-eyed aliens before he's old enough for his voice to change. This book is widely regarded as one of the best pieces of modern science fiction that there is. The sequels in the original series are also excellent, but you can skip the other related series w/o missing much.&lt;/span>&lt;/font>&lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0553380958/" href="http://www.amazon.com/exec/obidos/ASIN/0553380958/">Snow Crash&lt;/a>,&amp;quot; by Neal Stephenson, is a classic tale of a pizza delivery man/samurai named &amp;quot;Hiro Protagonist&amp;quot; and his virtual reality gear. It's also one of the seminal works in the &amp;quot;cyberpunk&amp;quot; genre.&lt;/span>&lt;/font>&lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0451197968/" href="http://www.amazon.com/exec/obidos/ASIN/0451197968/">The Running Man&lt;/a>,&amp;quot; by Steven King, is about a man that can't tolerate his place in the society of the future, so rams a commercial airliner into the top floor of an evil television network responsible for man's downfall (you can see the ending coming a mile away, but it's still very satisfying). Much, much better than the movie.&lt;/span>&lt;/font> &lt;/li>&lt;/ul>&lt;h1>&lt;b>&lt;font face="Arial" size="5">&lt;span style="FONT-SIZE: 16pt">Misc.&lt;/span>&lt;/font>&lt;/b>&lt;/h1>&lt;ul type="disc">&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0671510053/" href="http://www.amazon.com/exec/obidos/ASIN/0671510053/">Shipping News&lt;/a>,&amp;quot; by Annie Proulx, is an actual Pulitzer Price winner and as such, is different from your average &amp;quot;reading&amp;quot; book. However, I love its quirkiness and the movie ain't bad, either.&lt;/span>&lt;/font> &lt;/li>&lt;li class="MsoNormal">&lt;font face="Times New Roman" size="3">&lt;span style="FONT-SIZE: 12pt">&amp;quot;&lt;a title="http://www.amazon.com/exec/obidos/ASIN/0446673781/" href="http://www.amazon.com/exec/obidos/ASIN/0446673781/">One L&lt;/a>,&amp;quot; by Scott Turow. This is Turow's first book chronicling his first year in law school. I read this one once every few years or so and it always makes me want to go to law school.&lt;/span>&lt;/font>&lt;/li>
+	&lt;/ul>
+	&lt;/div>
+&lt;/div></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1722</id>
+    <title>New Community Web Site: XAML.net</title>
+    <updated>2005-03-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-10T08:00:00.000Z</published>
+    <summary>A new XAML web site enters the fray: XAML.net. How did we miss the boat acquiring this domain name? : )</summary>
+    <content type="html">&lt;h1>New Community Web Site: XAML.net&lt;/h1>
+A new XAML web site enters the fray: &lt;A href="http://xaml.net/">XAML.net&lt;/A>. How did we miss the boat acquiring this domain name? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1721</id>
+    <title>Day of Indigo Videos from VSLive</title>
+    <updated>2005-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-07T08:00:00.000Z</published>
+    <summary>Did you miss the Microsoft's Day of Indigo at VSLive? Have no fear -- you can trade your personal details for free access to the entire day of videos from the FTP web site, including: Keynote: Introducing Indigo, Eric Rudder, Senior VP of Servers and Tools Programming Indigo, Don Box and Steve Swartz Building Secure Services, Doug Purdy Building Reliable, Asynchronous Services, Shy Cohen Orchestrating Service-Oriented Apps With Indigo and BizTalk, Michael Woods (Microsoft) and Curt Peterson (Neudesic) Indig...</summary>
+    <content type="html">&lt;h1>Day of Indigo Videos from VSLive&lt;/h1>
+&lt;P>Did you miss the Microsoft's Day of Indigo at VSLive? Have no fear -- you can trade your personal details for &lt;A href="http://www.ftponline.com/special/indigo/">free access to the entire day of videos from the FTP web site&lt;/A>, including:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>Keynote: Introducing Indigo, &lt;/STRONG>Eric Rudder, Senior VP of Servers and Tools&lt;/LI>
+&lt;LI>&lt;STRONG>Programming Indigo, &lt;/STRONG>Don Box and Steve Swartz&lt;/LI>
+&lt;LI>&lt;STRONG>Building Secure Services, &lt;/STRONG>Doug Purdy&lt;/LI>
+&lt;LI>&lt;STRONG>Building Reliable, Asynchronous Services, &lt;/STRONG>Shy Cohen&lt;/LI>
+&lt;LI>&lt;STRONG>Orchestrating Service-Oriented Apps With Indigo and BizTalk, &lt;/STRONG>Michael Woods (Microsoft) and Curt Peterson (Neudesic)&lt;/LI>
+&lt;LI>&lt;STRONG>Indigo Upgrade and Interoperability, &lt;/STRONG>Steve Swartz and Anand Rajagopalan&lt;/LI>
+&lt;LI>&lt;STRONG>Building Service-Oriented Applications Today, &lt;/STRONG>Rich Turner&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1720</id>
+    <title>MS Survey: Partial Trust and Code Access Security</title>
+    <updated>2005-03-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-03T08:00:00.000Z</published>
+    <summary>As Microsoft gets nearer the gate on the.NET Framework 2.0 and ClickOnce, we want to make double-sure we understand if and how you're using/would like to use partial trust and code access security (CAS). It would be a great help for anyone building.NET applications, whether they're web or Windows, whether you're using partial trust and/or CAS or not, to take this survey so that we can make sure that we've got your needs covered. With ClickOnce, we've come a long way from my initial set of No-Touch Deploymen...</summary>
+    <content type="html">&lt;h1>MS Survey: Partial Trust and Code Access Security&lt;/h1>
+As Microsoft gets nearer the gate on the .NET Framework 2.0 and ClickOnce, we want to make double-sure we understand if and how you're using/would like to use partial trust and code access security (CAS). It would be a great help for anyone building .NET applications, whether they're web or Windows, whether you're using partial trust and/or CAS or not, to &lt;A href="http://host.ultimatesurvey.com/microsoft/surveys/takesurvey.aspx?surveyid=1030">take this survey&lt;/A> so that we can make sure that we've got your needs covered. With ClickOnce, we've come a long way from &lt;A href="http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/">my initial set of No-Touch Deployment complaints&lt;/A>, but that doesn't mean we're where we need to be. Thanks for helping!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1719</id>
+    <title>IT Industry's Own Jobs Training Program</title>
+    <updated>2005-03-02T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-02T08:00:00.000Z</published>
+    <summary>My brother graduated from college with a BS in EE in 2000 and was, predictably, unable to find a job competing with certified, experienced&amp;nbsp;engineers willing to work for the same money after the bubble burst. He was fortunate enough to be able to move into his Mom's basement and get an interest-free loan for an MS in EE that lead to a wonderful job, but if you're not so lucky (hey! I've got next dibs on my Mom's basement!), then check out TechEngage : "TechEngage is a community-based non-profit organiza...</summary>
+    <content type="html">&lt;h1>IT Industry's Own Jobs Training Program&lt;/h1>
+&lt;P>My brother graduated from college with a BS in EE in 2000 and was, predictably, unable to find a job competing with certified, experienced&amp;nbsp;engineers willing to work for the same money after the bubble burst. He was fortunate enough to be able to move into his Mom's basement and get an interest-free loan for an MS in EE that lead to a wonderful job, but if you're not so lucky (hey! I've got next dibs on my Mom's basement!), then check out &lt;A href="http://www.techengage.org/">TechEngage&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"TechEngage is a community-based non-profit organization founded to provide unemployed and under-"employed technical professionals with an affordable opportunity to obtain the high quality training they need to be competitive in today's tough job market."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P dir=ltr>[&lt;A href="http://blogs.officezealot.com/rod/archive/2005/02/25/4211.aspx">via Rod Paddock&lt;/A>]&lt;/P></content>
+  </entry>
+</feed>

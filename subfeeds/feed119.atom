@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed119.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed118.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed120.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed119.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/740</id>
+    <title>Visual Studio .NET Code Generator Shim</title>
+    <updated>2003-08-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-08T07:00:00.000Z</published>
+    <summary>Here. Atif Aziz built a generic VS.NET code generator shim that allows you to build a code generator that plugs into VS.NET by implementing a single method. Cool.</summary>
+    <content type="html">&lt;h1>Visual Studio .NET Code Generator Shim&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=ef3d0a73-0468-46da-8780-ede0f12b6f22">Here&lt;/a>. Atif Aziz built a generic VS.NET code generator shim that allows you to build a code generator that plugs into VS.NET by implementing a single method. Cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/738</id>
+    <title>Just got an invitation to BloggerCon</title>
+    <updated>2003-08-07T07:00:00.000Z</updated>
+    <published>2003-08-07T07:00:00.000Z</published>
+    <summary>Here. BloggerCon is a user conference, which would be very new to me (I've only ever attended developer conferences). Have there been previous BloggerCons? If so, how have folks liked them?</summary>
+    <content type="html">&lt;h1>Just got an invitation to BloggerCon&lt;/h1>
+&lt;a href="http://blogs.law.harvard.edu/bloggerCon/">Here&lt;/a>. BloggerCon is a user conference, which would be very new to me (I've only ever attended developer conferences). Have there been previous BloggerCons? If so, how have folks liked them?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/736</id>
+    <title>Format Specifiers Appendix from C# in a Nutshell</title>
+    <updated>2003-08-06T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-06T07:00:00.000Z</published>
+    <summary>Here. By request, O'Reilly and Assoc. has posted the Format Specifiers appendix from C# in a Nutshell by Drayton et al. It's a wonderful reference to the String.Format/ToString format specifiers that I'm constantly searching for on MSDN. Thanks, ORA!</summary>
+    <content type="html">&lt;h1>Format Specifiers Appendix from C# in a Nutshell&lt;/h1>
+&lt;a href="http://www.oreilly.com/catalog/csharpnut/chapter/appb.pdf">Here&lt;/a>. By request, O'Reilly and Assoc. has posted the Format Specifiers appendix from C# in a Nutshell by Drayton et al. It's a wonderful reference to the String.Format/ToString format specifiers that I'm constantly searching for on MSDN. Thanks, ORA!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/737</id>
+    <title>FormatDesigner</title>
+    <updated>2003-08-06T07:00:00.000Z</updated>
+    <published>2003-08-06T07:00:00.000Z</published>
+    <summary>Here. FormatDesigner is an application to experiment with the format strings used to format data in String.Format and various type's ToString functions.</summary>
+    <content type="html">&lt;h1>FormatDesigner&lt;/h1>
+&lt;a href="/12416">Here&lt;/a>. FormatDesigner is an application to experiment with the format strings used to format data in String.Format and various type's ToString functions.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12416</id>
+    <title>.NET FormatDesigner</title>
+    <updated>2003-08-06T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/tools/formatd.JPG"/>
+    <category term="tools" label="Tools"/>
+    <published>2003-08-06T07:00:00.000Z</published>
+    <summary>FormatDesigner is an application to experiment with the format strings used to format data in String.Format and various type's ToString functions. Click here to launch the application directly (requires the.NET Framework 1.1 ). Click here to download the source code. Enjoy. </summary>
+    <content type="html">&lt;h1>.NET FormatDesigner&lt;/h1>
+
+	&lt;p>
+  FormatDesigner is an application to experiment with the format strings used to 
+  format data in String.Format and various type's ToString functions.&lt;/p>
+&lt;P>&lt;a href="/public/tools/FormatDesigner.exe">
+&lt;img border="0" src="/public/tools/formatd.JPG" width="368" height="360">&lt;/a>&lt;/P>
+	&lt;P>&lt;a href="/public/tools/FormatDesigner.exe">Click here to launch the application 
+	directly&lt;/a> (requires the
+	&lt;a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=262D25E3-F589-4842-8157-034D1E7CF3A3&amp;displaylang=en">
+	.NET Framework 1.1&lt;/a>).&lt;/P>
+	&lt;P>&lt;a href="/public/tools/FormatDesigner.zip">Click here to download the source code&lt;/a>.&lt;/P>
+	&lt;P>Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/735</id>
+    <title>P2P + DRM</title>
+    <updated>2003-08-06T07:00:00.000Z</updated>
+    <published>2003-08-06T07:00:00.000Z</published>
+    <summary>Here. I hesitate to blog this because you might not believe the "my friend" part, but my friend was just downloading some stuff with Kazaa and found a bunch of it tagged with DRM. Apparently AltNet is tagging porn content with Digital Rights Management and dropping it into peer-to-peer networks. When someone finds the AltNcontent in their search, downloads it and is asked to pay some small amount of money before consuming the content. What a great way to get your content out to folks and get paid for it! Wh...</summary>
+    <content type="html">&lt;h1>P2P + DRM&lt;/h1>
+&lt;a href="http://www.altnet.com/">Here&lt;/a>. I hesitate to blog this because you might not believe the "my friend" part, but my friend was just downloading some stuff with Kazaa and found a bunch of it tagged with DRM. Apparently AltNet is tagging porn content with Digital Rights Management and dropping it into peer-to-peer networks. When someone finds the AltNcontent in their search, downloads it and is asked to pay some small amount of money before consuming the content. What a great way to get your content out to folks and get paid for it! Why didn't the RIAA think of this instead of suing their customers into oblivion? Those porn guys are always way ahead of their time...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/732</id>
+    <title>Howl: Windows implementation of Rendezvous(tm)</title>
+    <updated>2003-08-05T07:00:00.000Z</updated>
+    <published>2003-08-05T07:00:00.000Z</published>
+    <summary>Here. Here's an open source implementation of Apple's Rendezvous(tm). I don't know what this protocol enables, but folks seemed to like it at the Applied XML Dev.Conf.</summary>
+    <content type="html">&lt;h1>Howl: Windows implementation of Rendezvous(tm)&lt;/h1>
+&lt;a href="http://www.swampwolf.com/products/">Here&lt;/a>. Here's an open source implementation of Apple's Rendezvous(tm). I don't know what this protocol enables, but folks seemed to like it at the Applied XML Dev.Conf.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/733</id>
+    <title>Consider offering freelance technical support</title>
+    <updated>2003-08-05T07:00:00.000Z</updated>
+    <published>2003-08-05T07:00:00.000Z</published>
+    <summary>Here. Grant lays out his successful business model in a crappy IT economy, starting right away by laying it on the line for those of us having trouble getting over the old days: "I find again and again that the main barrier to re-entry in the work force for many people--not just technically-oriented folks--is a reluctance to admit that things will never be quite what they were. It's pride, mostly: they have difficulty reducing their expectations." Well-reasoned and well-written.</summary>
+    <content type="html">&lt;h1>Consider offering freelance technical support&lt;/h1>
+&lt;a href="http://homepage.mac.com/monickels/techjob.html">Here&lt;/a>. Grant lays out his successful business model in a crappy IT economy, starting right away by laying it on the line for those of us having trouble getting over the old days:
+
+"I find again and again that the main barrier to re-entry in the work force for many people--not just technically-oriented folks--is a reluctance to admit that things will never be quite what they were. It's pride, mostly: they have difficulty reducing their expectations."
+
+Well-reasoned and well-written.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/734</id>
+    <title>Don Box Sings</title>
+    <updated>2003-08-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-05T07:00:00.000Z</published>
+    <summary>Here. You haven't lived 'til you've had Don Box call you at home to sing you the fresh lyrics from a new parody to be performed by the Band on the Runtime at the next major MS event. PDC is going to rock.</summary>
+    <content type="html">&lt;h1>Don Box Sings&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. You haven't lived 'til you've had Don Box call you at home to sing you the fresh lyrics from a new parody to be performed by the Band on the Runtime at the next major MS event. PDC is going to rock.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/730</id>
+    <title>Unskilled and Unaware of It</title>
+    <updated>2003-08-04T07:00:00.000Z</updated>
+    <published>2003-08-04T07:00:00.000Z</published>
+    <summary>Here. This article was made the rounds recently because it's interesting. What makes it interesting is the conclusion (backed but tons of study): "In sum, we present this article as an exploration into why people tend to hold overly optimistic and miscalibrated views about themselves. We propose that those with limited knowledge in a domain suffer a dual burden: Not only do they reach mistaken conclusions and make regrettable errors, but their incompetence robs them of the ability to realize it." In other w...</summary>
+    <content type="html">&lt;h1>Unskilled and Unaware of It&lt;/h1>
+&lt;a href="http://www.apa.org/journals/psp/psp7761121.html">Here&lt;/a>. This article was made the rounds recently because it's interesting. What makes it interesting is the conclusion (backed but tons of study):
+
+"In sum, we present this article as an exploration into why people tend to hold overly optimistic and miscalibrated views about themselves. We propose that those with limited knowledge in a domain suffer a dual burden: Not only do they reach mistaken conclusions and make regrettable errors, but their incompetence robs them of the ability to realize it."
+
+In other words, the folks that are most incompetent don't even know it so that they can look for ways to improve themselves. Why don't they know? My take is that we're too damn polite to tell them, preferring instead to complain about them behind their backs. Is that nicer? Sure. Is it better for the incompetents of the world? No.
+
+On a lighter note, I love how the researchers go "meta" at the end of their article:
+
+"Although we feel we have done a competent job in making a strong case for this analysis, studying it empirically, and drawing out relevant implications, our thesis leaves us with one haunting worry that we cannot vanquish. That worry is that this article may contain faulty logic, methodological errors, or poor communication. Let us assure our readers that to the extent this article is imperfect, it is not a sin we have committed knowingly."
+
+: )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/731</id>
+    <title>RSSJobs</title>
+    <updated>2003-08-04T07:00:00.000Z</updated>
+    <published>2003-08-04T07:00:00.000Z</published>
+    <summary>Here. Another RSS gateway, this time for job sites. With all of the RSS "agents" I've been finding, I'm come to the conclusion that my RSS aggregator is more important than my browser. My browser displays the information but my RSS aggregator tells me there is some information of interest to me, a much harder and more important job.</summary>
+    <content type="html">&lt;h1>RSSJobs&lt;/h1>
+&lt;a href="http://www.rssjobs.com/rssjobs/index.jsp">Here&lt;/a>. Another RSS gateway, this time for job sites.
+
+With all of the RSS "agents" I've been finding, I'm come to the conclusion that my RSS aggregator is more important than my browser. My browser displays the information but my RSS aggregator tells me there is some information of interest to me, a much harder and more important job.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/728</id>
+    <title>Comics via RSS?</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. Has anyone built a comics.com to RSS gateway? I'd like to subscribe to my favorite comics w/o being forced to actually visit the site on a daily basis (I don't do that anymore [*]). A dilbert.com to RSS gateway would be nice, too. [*] http://127.0.0.1:8080/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
+</summary>
+    <content type="html">&lt;h1>Comics via RSS?&lt;/h1>
+&lt;a href="http://www.comics.com">Here&lt;/a>. Has anyone built a comics.com to RSS gateway? I'd like to subscribe to my favorite comics w/o being forced to actually visit the site on a daily basis (I don't do that anymore [*]).
+
+A dilbert.com to RSS gateway would be nice, too.
+
+[*] http://127.0.0.1:8080/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/727</id>
+    <title>Positive Affirmation</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. The one where I mix Scott Adams and losing the lottery and pretend that I'm OK with the whole thing... : )</summary>
+    <content type="html">&lt;h1>Positive Affirmation&lt;/h1>
+&lt;a href="/12531">Here&lt;/a>. The one where I mix Scott Adams and losing the lottery and pretend that I'm OK with the whole thing... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/729</id>
+    <title>Another Reason That Feedster Rocks</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. When asked properly, Feedster will return search results in RSS format. That means that I can subscribe to RSS feeds for topics that I care about in the blogisphere without having to spend any time surfing to feedster.com. When combined with recent versions of SharpReader that has built in support for Feedster, I can enter a search term directly in SR, press Enter, press Subscribe, and I've got myself another "intelligent agent" to go along with the ones I'm already using [1-2]. Why doesn't Google pro...</summary>
+    <content type="html">&lt;h1>Another Reason That Feedster Rocks&lt;/h1>
+&lt;a href="http://www.feedster.com">Here&lt;/a>. When asked properly, Feedster will return search results in RSS format. That means that I can subscribe to RSS feeds for topics that I care about in the blogisphere without having to spend any time surfing to feedster.com.
+
+When combined with recent versions of SharpReader that has built in support for Feedster, I can enter a search term directly in SR, press Enter, press Subscribe, and I've got myself another "intelligent agent" to go along with the ones I'm already using [1-2].
+
+Why doesn't Google provide their results in RSS? Anyone built an RSS gateway for Google yet?
+
+[1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=707
+[2] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/725</id>
+    <title>Intellectual Sensuality</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. I know exactly what you're talking about, Dave. I get this feeling when talking to a bunch of smart DevelopMentor and Microsoft guys. I *really* get it when I'm giving a talk and I'm really *on*. All of us need a cigarette after an experience like that…</summary>
+    <content type="html">&lt;h1>Intellectual Sensuality&lt;/h1>
+&lt;a href="http://scriptingnews.userland.com/2003/08/03#thinkOrgasmically">Here&lt;/a>. I know exactly what you're talking about, Dave. I get this feeling when talking to a bunch of smart DevelopMentor and Microsoft guys. I *really* get it when I'm giving a talk and I'm really *on*. All of us need a cigarette after an experience like that…</content>
+  </entry>
+</feed>

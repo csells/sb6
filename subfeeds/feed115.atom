@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed115.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed114.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed116.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed115.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12525</id>
+    <title>"Your enquiries frustrate the hell out of me"</title>
+    <updated>2003-09-05T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-05T07:00:00.000Z</published>
+    <summary>Friday, September 5, 2003 I would classify my style of communication as &amp;quot;get to conflict sooner rather than later.&amp;quot; A radio DJ once classified engineering abilities as a series of personality flaws that are accidentally useful in today's IT industry and, arguably, he's right. For most folks that have to work with me, it's generally hard at first, but eventually you either love me or hate me (and I continuously work to tip that percentage towards the former : ). However, it's the rare individual th...</summary>
+    <content type="html">&lt;h1>"Your enquiries frustrate the hell out of me"&lt;/h1>
+&lt;p>&lt;i>Friday, &lt;span class="created">September 5, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>I would classify my style of communication as &amp;quot;get to conflict 
+sooner rather than later.&amp;quot; A radio DJ once classified engineering abilities as a 
+series of personality flaws that are accidentally useful in today's IT industry 
+and, arguably, he's right. For most folks that have to work with me, it's 
+generally hard at first, but eventually you either love me or hate me (and I 
+continuously work to tip that percentage towards the former : ).&lt;/p>&lt;p>However, 
+it's the rare individual that can see past someone's personal communications 
+style and still pull out the value. Alan Cooper is one such person. I was 
+reading one of his books and was so lost that I called and blamed him and his 
+parents. He straightened me out by letting politely me know that he book wasn't 
+even trying to solve my problems and therefore it's not surprising that it 
+didn't. Further, he ended his email like this:&lt;/p>&lt;blockquote>&amp;quot;PS. Your 
+	enquiries frustrate the hell out of me. That's why they are good and I want 
+	you to keep making them. If I growl at you, well, that's my problem. Not 
+	yours.&amp;quot;&lt;/blockquote>&lt;p>I don't know if other people would appreciate Alan 
+encouraging my behavior, but it's still cool to know that such tolerance exists 
+in the world. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/791</id>
+    <title>XML Eye for the Object Guy</title>
+    <updated>2003-09-05T07:00:00.000Z</updated>
+    <published>2003-09-05T07:00:00.000Z</published>
+    <summary>Here. Tim's blogging again.</summary>
+    <content type="html">&lt;h1>XML Eye for the Object Guy&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/tewald/">Here&lt;/a>. Tim's blogging again.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/793</id>
+    <title>James Bond-like Water Car</title>
+    <updated>2003-09-05T07:00:00.000Z</updated>
+    <published>2003-09-05T07:00:00.000Z</published>
+    <summary>Here. This would cut the commute times across Lake Washington...</summary>
+    <content type="html">&lt;h1>James Bond-like Water Car&lt;/h1>
+&lt;a href="http://www.aquada.host.goodtechnology.net/aquada/homepage.jsp?flash=true">Here&lt;/a>. This would cut the commute times across Lake Washington...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/788</id>
+    <title>Proof of Life</title>
+    <updated>2003-09-03T07:00:00.000Z</updated>
+    <published>2003-09-03T07:00:00.000Z</published>
+    <summary>Here. Having never used SOAP before, Phillip Pearson posted an example of using the new microsoft.com web service from Python, including support for the developer token and the WS-Security headers.</summary>
+    <content type="html">&lt;h1>Proof of Life&lt;/h1>
+&lt;a href="http://www.myelin.co.nz/post/2003/9/4/#200309041">Here&lt;/a>. Having never used SOAP before, Phillip Pearson posted an example of using the new microsoft.com web service from Python, including support for the developer token and the WS-Security headers.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/789</id>
+    <title>Don on SOA from the Applied XML Dev.Conf., part 2</title>
+    <updated>2003-09-03T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-09-03T07:00:00.000Z</published>
+    <summary>Here. Either I was way behind on part 1, or I'm way ahead on part 2, but here it is. Enjoy.</summary>
+    <content type="html">&lt;h1>Don on SOA from the Applied XML Dev.Conf., part 2&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030902SOAPDB/manifest.xml">Here&lt;/a>. Either I was way behind on part 1, or I'm way ahead on part 2, but here it is. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/790</id>
+    <title>Handy .NET Generics Terms to Impress the Chicks</title>
+    <updated>2003-09-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-09-03T07:00:00.000Z</published>
+    <summary>Here. From Eric Gunnerson.</summary>
+    <content type="html">&lt;h1>Handy .NET Generics Terms to Impress the Chicks&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/EricGu/permalink.aspx/abba7015-b8ea-4367-878b-5dd82c8821a5">Here&lt;/a>. From Eric Gunnerson.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/787</id>
+    <title>Don on SOA from the Applied XML Dev.Conf., part 1</title>
+    <updated>2003-09-03T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-09-03T07:00:00.000Z</published>
+    <summary>Here. Part 1 of Don's day #2 keynote from the Applied XML Developer's Conference.</summary>
+    <content type="html">&lt;h1>Don on SOA from the Applied XML Dev.Conf., part 1&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030827SOAPDB/manifest.xml">Here&lt;/a>. Part 1 of Don's day #2 keynote from the Applied XML Developer's Conference.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/782</id>
+    <title>977!</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. According to JungleScan.com, Windows Forms Programming in C# has been as well as 977. That's as well as any of my books in the last year (except Essential.NET, which hit 226, but I didn't write any of that... : ).</summary>
+    <content type="html">&lt;h1>977!&lt;/h1>
+&lt;a href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;days=30">Here&lt;/a>. According to JungleScan.com, Windows Forms Programming in C# has been as well as 977. That's as well as any of my books in the last year (except Essential .NET, which hit 226, but I didn't write any of that... : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/783</id>
+    <title>Windows Forms Programming in C# Sample Chapter</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. AW has been kind enough to post the preface and a sample chapter (Chapter 9: Design-Time Integration) to the official AW Windows Forms Programming in C# book page. They've also posted Mike Blaszczak's foreword. Enjoy.</summary>
+    <content type="html">&lt;h1>Windows Forms Programming in C# Sample Chapter&lt;/h1>
+&lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={B757E215-0FB4-4EA1-A051-65EE537AE9C7}">Here&lt;/a>. AW has been kind enough to post the preface and a sample chapter (Chapter 9: Design-Time Integration) to the official AW Windows Forms Programming in C# book page. They've also posted Mike Blaszczak's foreword. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/785</id>
+    <title>Meet Duncan Mackenzie: AndAlso Zealot</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. Duncan is a fellow Content Strategist at MSDN in charge of protecting VB against semi-colon zealot's like me. : )</summary>
+    <content type="html">&lt;h1>Meet Duncan Mackenzie: AndAlso Zealot&lt;/h1>
+&lt;a href="http://students.mainfunction.com/GearUp/display.asp?page=duncan_interview">Here&lt;/a>. Duncan is a fellow Content Strategist at MSDN in charge of protecting VB against semi-colon zealot's like me. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/784</id>
+    <title>Typeless Schemas and Services</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. Any article that starts like this, I like: "Chris Sells has been running a boutique developer's conference for a few years. It's currently called the 'Applied XML Developers Conference,' with the sub-title 'applied topics for XML and Web Services zealots.' The devcon is clearly a case where, contrary to the spam we all get, size doesn't matter: Chris attracts an influential set of speakers and attendees, and what is discussed at these conferences is often a leading indicator of major trends in web ser...</summary>
+    <content type="html">&lt;h1>Typeless Schemas and Services&lt;/h1>
+&lt;a href="http://webservices.xml.com/pub/a/ws/2003/09/02/typeless.html">Here&lt;/a>. Any article that starts like this, I like:
+
+"Chris Sells has been running a boutique developer's conference for a few years. It's currently called the 'Applied XML Developers Conference,' with the sub-title 'applied topics for XML and Web Services zealots.' The devcon is clearly a case where, contrary to the spam we all get, size doesn't matter: Chris attracts an influential set of speakers and attendees, and what is discussed at these conferences is often a leading indicator of major trends in web services."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/781</id>
+    <title>Book of the Week at ASPExperts.com</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. I don't know why ASPExperts.com would designate a WinForms book as "Book of the Week," but I'm honored none-the-less. : )</summary>
+    <content type="html">&lt;h1>Book of the Week at ASPExperts.com&lt;/h1>
+&lt;a href="http://www.aspexperts.com/">Here&lt;/a>. I don't know why ASPExperts.com would designate a WinForms book as "Book of the Week," but I'm honored none-the-less. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/786</id>
+    <title>Holy Cow!</title>
+    <updated>2003-09-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-02T07:00:00.000Z</published>
+    <summary>Here. Apparently my book has sold out on BookPool.com already. Cool...</summary>
+    <content type="html">&lt;h1>Holy Cow!&lt;/h1>
+&lt;a href="http://www.bookpool.com/.x/3dnsq5n3gr/sm/0321116208">Here&lt;/a>. Apparently my book has sold out on BookPool.com already. Cool...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/779</id>
+    <title>Missing it</title>
+    <updated>2003-09-01T07:00:00.000Z</updated>
+    <published>2003-09-01T07:00:00.000Z</published>
+    <summary>Here. Don's take on the state of MS's developer relations (although, as he admits, he's no longer unbiased).</summary>
+    <content type="html">&lt;h1>Missing it&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-09-01T05:47:51Z">Here&lt;/a>. Don's take on the state of MS's developer relations (although, as he admits, he's no longer unbiased).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12526</id>
+    <title>Communication Is All</title>
+    <updated>2003-09-01T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-09-01T07:00:00.000Z</published>
+    <summary>It's amazing to me the&amp;nbsp; number of problems that can be solved or avoided completely with communication. For example, the prevailing attitude of the day is that children should not be let out of an adult's sight, in spite of an all-time low in the history of violent crime. Towards that end, and since tomorrow is the first day of school, my oldest boy is currently testing the range of our walkie-talkies to see if he and his younger brother can walk to school. The reason? Because I can communicate with hi...</summary>
+    <content type="html">&lt;h1>Communication Is All&lt;/h1>
+&lt;p>It's 
+amazing to me the&amp;nbsp; number of problems that can be solved or avoided 
+completely with communication. For example, the prevailing attitude of the day 
+is that children should not be let out of an adult's sight, in spite of an 
+all-time low in the history of violent crime. Towards that end, and since 
+tomorrow is the first day of school, my oldest boy is currently testing the 
+range of our walkie-talkies to see if he and his younger brother can walk to 
+school. The reason? Because I can communicate with him to know that they got to 
+school OK. I need that communication so that I can continue to be paranoid while 
+still letting him walk the half-mile to school.&lt;/p>&lt;p>Here's another example: 
+Recently at work there was a minor fracas when group A published their planned 
+work based on group B's input aka *implicit* buy-in, but without group B's 
+*explicit* buy-in. This made group B unhappy, because they felt that their input 
+wasn't been taken (even though it was). The solution? Group A set up a regular 
+meeting to communicate on their various projects with group B, making sure to 
+get everyone's buy-in explicitly.&lt;/p>&lt;p>Here's another one: My co-author on the 
+VB version of my WinForms book has been working like a dog on his new job and 
+his new baby and the VB port of my book. However, since most of his 
+communications were with the publishing company directly, I didn't see most of 
+the work that he was doing and, because of our tight schedule, that caused me to 
+worry that we wouldn't make it. The solution? I asked him about it and he told 
+me of the pile of work he'd done that I didn't know about. He also volunteered 
+to make sure to cc me on all of his email related to the book.&lt;/p>&lt;p>And here's 
+my favorite example: For a long, long time, MS was labeled (and is often still 
+labeled) as an &amp;quot;evil&amp;quot; because of a perceived uncaring about developer's hopes 
+and dreams. Ironically, with a software engineer at the helm, all of Microsoft's 
+decisions are driven by that need to meet the needs of 3rd party developers. The 
+issue was communication, both in letting internal folks make their intentions 
+known to the external folks and in getting the hopes and dreams of external 
+folks into the planning processes of internal folks. It's my belief that the 
+reason that &lt;a href="http://blogs.gotdotnet.com/anathan/">Adam&lt;/a>, &lt;a href="http://www.gotdotnet.com/team/rdias/default.aspx">
+Becky&lt;/a>, &lt;a href="http://blogs.gotdotnet.com/BradA/">Brad&lt;/a>, &lt;a href="http://www.livejournal.com/users/brianjo/">
+Brian&lt;/a>, &lt;a href="http://www.simplegeek.com/">Chris&lt;/a>, &lt;a href="http://blogs.gotdotnet.com/cbrumme/">
+Chris&lt;/a>, &lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx">
+Don&lt;/a>, &lt;a href="http://weblogs.asp.net/duncanma/">Duncan&lt;/a>, &lt;a href="http://blogs.gotdotnet.com/EdKaim/">
+Ed&lt;/a>, &lt;a href="http://blogs.gotdotnet.com/EricGu/">Eric&lt;/a>, &lt;a href="http://weblogs.asp.net/ksharkey/">
+Kent&lt;/a>, &lt;a href="http://www.aisto.com/Roeder/Frontier/">Lutz&lt;/a>, &lt;a href="http://www.gotdotnet.com/team/mgudgin/default.aspx">
+Martin&lt;/a>, &lt;a href="http://blogs.gotdotnet.com/saraw/">Sara&lt;/a>, &lt;a href="http://weblogs.asp.net/scottgu/">
+Scott&lt;/a>, &lt;a href="http://sapid.com/tommy/">Tommy&lt;/a>, and tons 
+of other MS employees are not only &lt;i>not &lt;/i>reprimanded for our blog posts, 
+but &lt;i>encouraged&lt;/i>, is so that our intentions can be known to external folks. 
+And believe me, when someone external puts a substantive comment into their blog 
+and one of the thousands of MS employees finds it, it makes its way into the 
+inboxes of the internal MS employees that use that feedback. This need for &lt;i>
+bi-directional communication &lt;/i>between internal and external folks at MS has 
+driven all kinds of new ways of doing things and you're going to see a whole lot 
+more of that at the PDC.&lt;/p>&lt;p>I could keep going on for days about problems in 
+my life that are solved with communication and could have been avoided with 
+communication up front. In fact, I'm started to get a feel for it when I realize 
+that my communication could have been better and what problem I'm going to have 
+because it wasn't. Also, I've recently started to try to really concentrate on 
+what my friends and family are saying when they start conversations with me 
+while I'm working. (Previously I would continue working, giving a grunt now and 
+again, as necessary.) This little thing has made a big difference. Of course, 
+lots of folks way smarter than I already know this stuff, but to a geek who only 
+learned how to communicate with other humans relatively recently, this is deep 
+thinking! BTW, don't tell my sister-in-law with the Master's degree in 
+communications. We give each other crap all the time on any number of topics and 
+the idea that she knows more about what's really important in the world would 
+give her all kinds of extra ammunition (which she rarely needs anyway... : )&lt;/p>
+</content>
+  </entry>
+</feed>

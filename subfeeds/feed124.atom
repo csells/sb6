@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed124.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed123.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed125.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed124.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12540</id>
+    <title>The Killer App for Web Services</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>After watching Amazon's amazing presentation at the Dev.Conf., it hit me that Amazon.com is the killer app for web services. Not only are they technically cool, but they have two business models for themselves and their associates built right in: I can build a business on their back-end data, selling targeted stuff to my customers, using their services to do all the hard stuff on the back end I can use their front-end to sell my own products Amazon has turned the infrastructure on which they build their own...</summary>
+    <content type="html">&lt;h1>The Killer App for Web Services&lt;/h1>
+&lt;p>
+After watching Amazon's amazing presentation at the Dev.Conf., it hit me that 
+Amazon.com is the killer app for web services. Not only are they technically 
+cool, but they have two business models for themselves and their associates 
+built right in:&lt;/p>&lt;ol>&lt;li>I can build a business on their back-end data, 
+	selling targeted stuff to my customers, using their services to do all the 
+	hard stuff on the back end&lt;/li>&lt;li>I can use their front-end to sell my own 
+	products&lt;/li>&lt;/ol>&lt;p>Amazon has turned the infrastructure on which they 
+build their own business into a major revenue generator for not only themselves, 
+but for associates. And, if they wanted to take it further, Amazon could provide 
+all of their payment, distribution and storing/querying data as web services for 
+things that weren't even available for sale on Amazon.com, e.g. medical supplies 
+or porn, removing the need to build all of these services yourself. In fact, 
+they're already planning on doing this for payment services.&lt;/p>&lt;p>*That's* what 
+web services are supposed to enable. *Wow*.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/676</id>
+    <title>Scott Hanselman + Applied XML Dev.Conf.</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>Scott Hanselman + Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0106747/">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/674</id>
+    <title>Steve Maine blogs the Applied XML Dev.Conf.</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>Steve Maine blogs the Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="http://stevemaine.blogspot.com/">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/675</id>
+    <title>Patrick Cauldwell, a speaker, blogs the Dev.Conf.</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>Patrick Cauldwell, a speaker, blogs the Dev.Conf.&lt;/h1>
+&lt;a href="http://www.cauldwell.net/patrick/blog/">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12541</id>
+    <title>Applied XML DevCon Trip Report</title>
+    <updated>2003-07-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-11T07:00:00.000Z</published>
+    <summary>Dave Winer's Keynote: Users care about you software working, not *how* it works Users don't want to be controlled As developers, &amp;quot;we're very impressed with the complexity that we can understand&amp;quot; Don Box: &amp;quot;No one that gets laid actually replaces the CPU in their computers anymore. And, since they don't get laid, they can't reproduce and natural selection will take it's toll. Likewise, objects are not meant for field replacement.&amp;quot; Building on abstractions means that the abstraction needs t...</summary>
+    <content type="html">&lt;h1>Applied XML DevCon Trip Report&lt;/h1>
+&lt;h2>
+Dave Winer's Keynote:&lt;/h2>&lt;ul>&lt;li>Users care about you software working, not 
+	*how* it works&lt;/li>&lt;li>Users don't want to be controlled&lt;/li>&lt;li>As 
+	developers, &amp;quot;we're very impressed with the complexity that we can 
+	understand&amp;quot;&lt;/li>&lt;/ul>&lt;h2>Don Box:&lt;/h2>&lt;ul>&lt;li>&amp;quot;No one that gets laid 
+	actually replaces the CPU in their computers anymore. And, since they don't 
+	get laid, they can't reproduce and natural selection will take it's toll. 
+	Likewise, objects are not meant for field replacement.&amp;quot;&lt;/li>&lt;li>Building on 
+	abstractions means that the abstraction needs to be kept constant&lt;/li>&lt;li>
+	the wire is god. schemas are relative to your needs. the same XML instance 
+	doc can be many different schemas in a pipeline&lt;/li>&lt;li>I missed why the 
+	abstractions in a service-oriented architecture are somehow better than 
+	those in an object-oriented architecture, except that maybe SOA abstractions 
+	are courser grained, but that can be true of OOA, too, can't it?&lt;/li>&lt;/ul>&lt;h2>
+Brian Jepson:&lt;/h2>&lt;ul>&lt;li>WAP is just another XML format to product that exposes 
+	your data to WAP-enabled devices, e.g. phones&lt;/li>&lt;li>Very cool to watch 
+	Brian control his presentation via his cell phone (nothing to do with XML, 
+	but very cool never the less). He was using a Mac and didn't know if a niche 
+	OS like Windows had apps that did such things (although he did find &lt;a href="http://www.jeyo.com/">
+	this that might work&lt;/a>)&lt;/li>&lt;/ul>&lt;h2>Don &amp;quot;XML&amp;quot;:&lt;/h2>&lt;ul>&lt;li>In NJ, they 
+	teach middle school kids HTML, XML and PowerPoint (holy cow!)&lt;/li>&lt;li>Lots 
+	of folks asking questions, evidently interested in SVG and/or 
+	declarative-based UI models&lt;/li>&lt;/ul>&lt;h2>Patrick Logan:&lt;/h2>&lt;ul>&lt;li>Patrick 
+	gave his talk sitting down, which didn't help him keep the audience's 
+	attention&lt;/li>&lt;/ul>&lt;h2>Ted Neward:&lt;/h2>&lt;ul>&lt;li>EJB 2.1 for web services 
+	looks pretty easy&lt;/li>&lt;li>&amp;quot;Swing sucks. People are using WinForms to access 
+	J2EE web services.&amp;quot;&lt;/li>&lt;li>&amp;quot;Sun has drunk very deeply of the idea that web 
+	services are just CORBA.Next&amp;quot; aka Sun views web services as just another RPC, 
+	which means that they use rcp/encoded instead of doc/literal&lt;/li>&lt;/ul>&lt;h2>
+David Ing:&lt;/h2>&lt;ul>&lt;li>Don't take &amp;quot;rules&amp;quot; from speakers at conferences. You can 
+	be entertained by such talks, but you need to make your own decisions&lt;/li>&lt;/ul>&lt;h2>
+KeithBa:&lt;/h2>&lt;ul>&lt;li>Keith starts right where I love -- in the code. What better 
+	way to show the new programming model and features of WSE 2.0 than to jump 
+	right to the code? Fabulous&lt;/li>&lt;li>And not only did he do a fabulous job 
+	writing code to demo WSE 2.0, he did it by building a heckle application 
+	that the audience loved (and took full advantage of : ). You are a master, 
+	Keith&lt;/li>&lt;li>And! His application is a great example of the need for the 
+	flexible model that WSE 2.0 provides and he brings it right back around how 
+	his amusing, seemingly trivial app is really not suited for an RPC-style 
+	(which we should eschew anyway). Nice&lt;/li>&lt;li>And then Dave Winer jumps in 
+	to accuse him of saying that there is no such thing as asynch; there is only 
+	polling. Keith is way over the top nice about it and the audience disagrees 
+	with Dave pretty much as a whole&lt;/li>&lt;/ul>&lt;h2>Speaker Panel:&lt;/h2>&lt;ul>&lt;li>
+	tons of controversy; end result is that XML solves a huge number of problems 
+	and there's no reason to do &amp;quot;this vs. that&amp;quot; because XML allows everyone to 
+	co-exist and interop (although programming may be needed to gain the latter)&lt;/li>&lt;/ul>&lt;h2>
+Ken Levy:&lt;/h2>&lt;ul>&lt;li>First time showing these plans in public (off of a 2am 
+	build)&lt;/li>&lt;li>Showed off cool new XML editor integrated into VS.NET: &lt;ul>&lt;li>
+		showed red squiggles and helpful error messages about invalid XML&lt;/li>&lt;li>
+		can select text and have it wrapped in XML comments, CDATA blocks, etc.&lt;/li>&lt;/ul>&lt;/li>&lt;li>
+	showed integration of errors using DTD files, i.e. checking elements that 
+	don't have appropriate attributes as defined by the DTD, etc.&lt;ul>&lt;li>will 
+		reformat your XML&lt;/li>&lt;li>may provide outline view for drilling into 
+		large XML docs&lt;/li>&lt;li>lots of intellisense based on XML/DTD/XSD tools&lt;/li>&lt;/ul>&lt;/li>&lt;li>
+	can create schema from a DTD inside of VS.NET&lt;/li>&lt;li>can infer schema from 
+	an XML instance&lt;/li>&lt;li>will enable custom mappings of XML namespaces to 
+	corresponding visual editors, e.g. showed an example of editing SVG: first 
+	view is the rendering of SVG; second view was code. If you change the code 
+	while you're also looking at the SVG view, the SVG view is updated on the 
+	fly&lt;/li>&lt;li>showed interactive XSLT debugger&lt;/li>&lt;li>will be releasing &lt;a href="http://www.gotdotnet.com/team/xmltools/">
+	these tools on the XML Tools page for use w/ VS.NET 2003&lt;/a> in the fall 
+	(tentatively)&lt;/li>&lt;li>send &lt;a href="mailto:klevy@microsoft.com">Ken Levy&lt;/a> 
+	the things that you'd like to see in the XML tools space&lt;/li>&lt;/ul>&lt;h2>Jeff 
+Barr&lt;/h2>&lt;ul>&lt;li>Amazon is able to turn around small features very quickly and 
+	that's the corporate culture&lt;/li>&lt;li>they spent $300M on distribution 
+	centers and $900M on technology&lt;/li>&lt;li>when folks were scraping the web, 
+	Amazon could have broken those apps, but realized that the folks doing the 
+	scraping were building legitimate apps with that data that was good for 
+	Amazon, so instead of crushing those folks, they tried to not change the 
+	format of the pages w/o a good reason (in spite of the added cost of 
+	supporting robot traffic)&lt;/li>&lt;li>to support the largest number of 
+	customers, they support rich SOAP interface and a REST interface&lt;/li>&lt;li>
+	return &amp;quot;light&amp;quot; and &amp;quot;heavy&amp;quot; data, depending on how much info developers want&lt;/li>&lt;li>
+	business model for users seems to be picking an unused domain, setting up a 
+	site selling something specific, e.g. power tools, then building the whole 
+	site using the data and purchasing/shipping services of the Amazon web 
+	services. Wow&lt;/li>&lt;li>the associate program is hugely successful for Amazon 
+	in terms of revenue generation&lt;/li>&lt;li>the protocol is loose so that 
+	developers have a wide range of choices of what they want to do with it, 
+	e.g. if Amazon doesn't have all of the information being requested, they 
+	return what they have instead of failing, letting the developer decide if 
+	they want to use the info that Amazon provides or fail on their own&lt;/li>&lt;li>
+	Amazon versioning: new versions get new URLs. Old versions use new code 
+	internally, but return same old data format from same old URL&lt;/li>&lt;li>for 
+	keeping their own data up to date, Amazon also publishes a set of services 
+	for sellers to update their data and will soon be exposing a service for 
+	sellers to create new ASINs (Amazon product IDs) for their own products&lt;/li>&lt;li>
+	80% of the requests are for raw XML/REST (with or without transformation)&lt;/li>&lt;li>
+	as things get more complex, SOAP will take over&lt;/li>&lt;/ul>&lt;h2>Steve Loughran:&lt;/h2>&lt;ul>&lt;li>
+	bottom line: SOAP is ready for use in embedded systems (although things can 
+	get better and likely will)&lt;/li>&lt;/ul>&lt;h2>Tarlochan Cheema:&lt;/h2>&lt;ul>&lt;li>the 
+	motivation for the sets of web services that microsoft.com is about to 
+	expose is for better communication with partners, e.g. avoiding shipping 
+	CD-ROMs around, as well as providing real programmatic interfaces for folks 
+	that are scraping data from microsoft.com, e.g. top downloads&lt;/li>&lt;li>the 
+	way that MS stayed at lots of 9s of reliability is with writing good code, 
+	of course, but mostly with heavy use of caching&lt;/li>&lt;/ul>&lt;h2>Tim Ewald:&lt;/h2>&lt;ul>&lt;li>
+	XML schema shouldn't be used for nominal typing; it should be used for 
+	structural typing&lt;/li>&lt;li>different parts of an XML pipeline can have 
+	different XML schemas to check different things&lt;/li>&lt;/ul>&lt;h2>Chris Dix:&lt;/h2>&lt;ul>&lt;li>
+	&amp;quot;Everywhere is walking distance if you have the time. Steven Wright&amp;quot;&lt;/li>&lt;li>
+	Since you can embed non-SVG data and script into SVG, these are the elements 
+	needed for stand-alone, cross-platform &amp;quot;intelligent&amp;quot; data that can provide 
+	it's own UI&lt;/li>&lt;/ul>&lt;h2>Aaron Skonnard:&lt;/h2>&lt;ul>&lt;li>&amp;quot;Scott (my code monkey) 
+	and I are still in the running for the $1M playing DevelopMentor Survivor. 
+	We kicked Don off the island first because he was the strongest and Tim 
+	second because he was the smartest.&amp;quot;&lt;/li>&lt;li>XSD isn't enough to check real 
+	business rules&lt;/li>&lt;li>XPath is more flexible&lt;/li>&lt;li>Can write a .NET 
+	SoapExtension like this:&lt;/li>&lt;/ul>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;">
+[WebService]&lt;br>[AssertNamespaceBinding(&amp;quot;t&amp;quot;,&amp;quot;urn:geometry/&amp;quot;)]&lt;br>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+public&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> &lt;span style="color:blue">
+class&lt;/span> Geometry {&lt;br>&amp;nbsp; [WebMethod]&lt;br>&amp;nbsp; [Assert(&amp;quot;//t:length &amp;gt; //t:width&amp;quot;, 
+&amp;quot;Length must be greater than width&amp;quot;)]&lt;br>&amp;nbsp; [Assert(&amp;quot;(//t:length div //t:width) 
+= 2&amp;quot;, &amp;quot;Length must be double the width&amp;quot;)]&lt;br>&amp;nbsp; &lt;span style="color:blue">
+public&lt;/span> &lt;span style="color:blue">double&lt;/span> CalcArea(&lt;span style="color:blue">double&lt;/span> 
+length, &lt;span style="color:blue">double&lt;/span> width){&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;ul>&lt;li>&lt;p style="text-autospace: none">
+	Even cooler, because the constraints are part of the .NET metadata of the 
+	method, when the docs and the WSDL is generated from the Geometry web 
+	service, the constraints can be pushed in as well, making the constraints 
+	available to the developer&lt;/li>&lt;/ul>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/672</id>
+    <title>Quake II.NET in Managed C++</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. These guys demonstrate not only a cool application of Managed C++, but also what a fabulous bridge that MC++ is between the unmanaged and managed worlds. Folks that haven't moved to VS.NET because they're doing C++ are *really* missing out.</summary>
+    <content type="html">&lt;h1>Quake II.NET in Managed C++&lt;/h1>
+&lt;a href="http://www.vertigosoftware.com/Quake2.htm">Here&lt;/a>. These guys demonstrate not only a cool application of Managed C++, but also what a fabulous bridge that MC++ is between the unmanaged and managed worlds. Folks that haven't moved to VS.NET because they're doing C++ are *really* missing out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/668</id>
+    <title>Aaron B. Hockley</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. Aaron joins in the fun.</summary>
+    <content type="html">&lt;h1>Aaron B. Hockley &lt;/h1>
+&lt;a href="http://www.hockley.org/xmlcon/">Here&lt;/a>. Aaron joins in the fun.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/666</id>
+    <title>Don "XML" Blogging Applied XML Dev.Conf.</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. Don's blogging the Applied XML Developer's Conference.</summary>
+    <content type="html">&lt;h1>Don "XML" Blogging Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="http://weblogs.asp.net/donxml">Here&lt;/a>. Don's blogging the Applied XML Developer's Conference.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/670</id>
+    <title>And the bad part about wireless access...</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>While it's cool that we have bits and electrons at this year's Developer's Conference, unfortunately the speaker has to compete with the entire web during their talk. This means that if you're less than completely riveting (which few speakers are), folks check out and often can't catch up. It's hard enough to give a good talk, but that's just brutal.</summary>
+    <content type="html">&lt;h1>And the bad part about wireless access...&lt;/h1>
+While it's cool that we have bits and electrons at this year's Developer's Conference, unfortunately the speaker has to compete with the entire web during their talk. This means that if you're less than completely riveting (which few speakers are), folks check out and often can't catch up. It's hard enough to give a good talk, but that's just brutal.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/669</id>
+    <title>And so's Jeremy</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>And so's Jeremy&lt;/h1>
+&lt;a href="http://www.eskimo.com/~jeremyk/">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/667</id>
+    <title>Rory Blyth is blogging the Dev.Conf., too</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. Rory Blyth seems to be keeping track of who he's eating with and who he meets in the rest room, so clearly, a must read. : )</summary>
+    <content type="html">&lt;h1>Rory Blyth is blogging the Dev.Conf., too&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/">Here&lt;/a>. Rory Blyth seems to be keeping track of who he's eating with and who he meets in the rest room, so clearly, a must read. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/671</id>
+    <title>Forgetting the pain of childbirth</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Apparently, as excruciating as giving birth is, women quickly forget it when they've got the baby in their arms. I say “apparently,” because having watched my wife give birth to my first son, I can’t imagine that she’d have agreed to the other if she had clear memories of what it was like. That’s what happens to me at each DevCon. Every time I run one, folks say nice things about it, which means that I completely forget what it’s like during the actual conference. The pain can be excruciating. As each perso...</summary>
+    <content type="html">&lt;h1>Forgetting the pain of childbirth&lt;/h1>
+Apparently, as excruciating as giving birth is, women quickly forget it when they've got the baby in their arms. I say “apparently,” because having watched my wife give birth to my first son, I can’t imagine that she’d have agreed to the other if she had clear memories of what it was like.
+
+That’s what happens to me at each DevCon. Every time I run one, folks say nice things about it, which means that I completely forget what it’s like during the actual conference. The pain can be excruciating. As each person gives their talk, I’m giving it right along with them, willing them to do well and being pained when, inevitably, sometimes, they don’t. When something goes wrong, it pains me as much as if it was happening to me directly.
+
+And yet, this is “SellsCon” IV (as Don calls it) and I keep doing them. Luckily, I tend to forget the pain once I have the baby in my arms, which will be sometime on Friday after 5:45pm.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12348</id>
+    <title>Top 10 XML Specifications Rejected by the W3C</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>10. WS-IrishSpring: for scented, more pleasing SOAP packets 9. WS-UPS: for sending SOAP packets in real envelopes 8. WS-USPS: for sending SOAP packets that dont need to get there 7. WS-PrisonShower: for picking up the dropped SOAP packets 6. X-Wife: protocol for monetary transfer 5. WS-Insecurity: dating protocol for web services programmers 4. WS-Monopoly: protocol used to keep antitrust penalties to manageable levels 3. NICKLE: for encoding smaller binary attachments 2. SFFCI: Syndication Format for Compl...</summary>
+    <content type="html">&lt;h1>Top 10 XML Specifications Rejected by the W3C&lt;/h1>
+&lt;p>10. WS-IrishSpring: for scented, more pleasing SOAP packets&lt;/p>
+&lt;p>9. WS-UPS: for sending SOAP packets in real envelopes&lt;/p>
+&lt;p>8. WS-USPS: for sending SOAP packets that dont need to get there&lt;/p>
+&lt;p>7. WS-PrisonShower: for picking up the dropped SOAP packets&lt;/p>
+&lt;p>6. X-Wife: protocol for monetary transfer&lt;/p>
+&lt;p>5. WS-Insecurity: dating protocol for web services programmers&lt;/p>
+&lt;p>4. WS-Monopoly: protocol used to keep antitrust penalties to manageable 
+levels&lt;/p>
+&lt;p>3. NICKLE: for encoding smaller binary attachments&lt;/p>
+&lt;p>2. SFFCI: Syndication Format for Complete Idiots&lt;/p>
+&lt;p>1. WS-XXX: bringing a business model to XML, e.g.&lt;/p>
+&lt;p class="MsoNormal" style="text-autospace: none">
+&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">&amp;lt;&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:maroon">xxx:image&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:fuchsia">
+&lt;/span>
+&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:maroon">
+xmlns&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:fuchsia">:&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:red">xxx&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">=&amp;quot;uri://hustler.com/2003/oohlala&amp;quot;&amp;gt;&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;">&lt;br>
+&amp;nbsp; &lt;span style="color:blue">&amp;lt;&lt;/span>&lt;span style="color:maroon">xxx:setting&lt;/span>&lt;span style="color:blue">&amp;gt;&lt;/span>the 
+storeroom&lt;span style="color:blue">&amp;lt;/&lt;/span>&lt;span style="color:maroon">xxx:setting&lt;/span>&lt;span style="color:blue">&amp;gt;&lt;br>
+&lt;/span>&amp;nbsp; &lt;span style="color:blue">&amp;lt;&lt;/span>&lt;span style="color:maroon">xxx:model&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:red">gender&lt;/span>&lt;span style="color:blue">=&amp;quot;female&amp;quot;&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:red">tattoo&lt;/span>&lt;span style="color:blue">=&amp;quot;skull&amp;quot;&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:blue">/&amp;gt;&lt;br>
+&lt;/span>&amp;nbsp; &lt;span style="color:blue">&amp;lt;&lt;/span>&lt;span style="color:maroon">xxx:model&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:red">gender&lt;/span>&lt;span style="color:blue">=&amp;quot;male&amp;quot;&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:red">moustache&lt;/span>&lt;span style="color:blue">=&amp;quot;true&amp;quot;&lt;/span>&lt;span style="color:fuchsia">
+&lt;/span>&lt;span style="color:blue">/&amp;gt;&lt;br>
+&lt;/span>&amp;nbsp; &lt;span style="color:blue">&amp;lt;&lt;/span>&lt;span style="color:maroon">xxx:pose&lt;/span>&lt;span style="color:blue">&amp;gt;&lt;/span>saucy&lt;span style="color:blue">&amp;lt;/&lt;/span>&lt;span style="color:maroon">xxx:pose&lt;/span>&lt;span style="color:blue">&amp;gt;&lt;br>
+&lt;/span>&lt;/span>
+&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">&amp;lt;/&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:maroon">xxx:image&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">&amp;gt;&lt;/span>&lt;/p>
+&lt;p>&lt;i>Chris Sells, Jason Whittington, Tim Ewald, Becky Dias &amp;amp; Brian Jepson&lt;br>
+Presented at the Applied XML Developer's Conference West 2003&lt;br>
+&lt;span class="created">July 10, 2003&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/673</id>
+    <title>Steve Loughran blogs the Dev.Conf.</title>
+    <updated>2003-07-10T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-07-10T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>Steve Loughran blogs the Dev.Conf.&lt;/h1>
+&lt;a href="http://www.iseran.com/cgi-bin/blosxom2.pl">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/663</id>
+    <title>New Software at Spout Manor</title>
+    <updated>2003-07-09T07:00:00.000Z</updated>
+    <published>2003-07-09T07:00:00.000Z</published>
+    <summary>Apparently someone has confused me with Jerry Pournelle and has started sending me software. At least ActiveWords came in an email and the guy who sent it was nice about it (although I admit to installing it and then uninstalling it w/o getting much use out of it). Today I just got the full version of PowerBASIC in the mail. Apparently these folks don't know where I work. : ) Doesn't anyone know what PowerBASIC is? Is it cool? I plan on giving it away (if I can) at the Applied XML Developer's Conference.</summary>
+    <content type="html">&lt;h1>New Software at Spout Manor&lt;/h1>
+Apparently someone has confused me with Jerry Pournelle and has started sending me software.
+
+At least ActiveWords came in an email and the guy who sent it was nice about it (although I admit to installing it and then uninstalling it w/o getting much use out of it).
+
+Today I just got the full version of PowerBASIC in the mail. Apparently these folks don't know where I work. : )
+
+Doesn't anyone know what PowerBASIC is? Is it cool? I plan on giving it away (if I can) at the Applied XML Developer's Conference.</content>
+  </entry>
+</feed>

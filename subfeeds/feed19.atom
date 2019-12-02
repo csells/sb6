@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed19.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed18.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed20.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed19.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2146</id>
+    <title>MS Math Add-In for Word 2007</title>
+    <updated>2007-11-30T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-11-30T08:00:00.000Z</published>
+    <summary>I mention this because this is just the thing I've wanted to be able to check my kid's math homework: the Microsoft Math Add-In for Word 2007. For example, after installing it, I can open Word, press Alt+= to get myself a new equation and then enter: x^2 +2x + 2 + 3x - 4x^2 it translates into: If I right-click and choose Simplify, I get the following: If I right-click again and choose Plot in 2D, I get: If I've got an equation that I want to solve, I can enter it: and then right-click and choose Solve for x...</summary>
+    <content type="html">&lt;h1>MS Math Add-In for Word 2007&lt;/h1>
+&lt;P>I mention this because this is just the thing I've wanted to be able to check my kid's math homework: the &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=030fae9c-704f-48ca-971d-56241aefc764">Microsoft Math Add-In for Word 2007&lt;/A>.&lt;/P>
+&lt;P>For example, after installing it, I can open Word, press Alt+= to get myself a new equation and then enter:&lt;/P>
+&lt;P>x^2 +2x + 2 + 3x - 4x^2&lt;/P>
+&lt;P>it translates into:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/math1.jpg">&lt;/P>
+&lt;P>If I right-click and choose Simplify, I get the following:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/math2.jpg">&lt;/P>
+&lt;P>If I right-click again and choose Plot in 2D, I get:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/math3.jpg">&lt;/P>
+&lt;P>If I've got an equation that I want to solve, I can enter it:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/math4.jpg">&lt;/P>
+&lt;P>and then right-click and choose Solve for x and get all the possible solutions:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/math5.jpg">&lt;/P>
+&lt;P>This even works if you have multiple equations with multiple unknowns, which means this is good through at least 8th grade Algebra. Wahoo!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2144</id>
+    <title>Why aren't Windows settings stored in %HOMEPATH%?</title>
+    <updated>2007-11-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-11-27T08:00:00.000Z</published>
+    <summary>Normally, this is the kind of question I'd pose and then provide an answer, but this time I just don't have one. If my Word settings were stored in %HOMEPATH%\WordSettings.xml, I could edit the file, back it up, carry it to other machines and generally manage it. Instead, my settings seem to be stored in the Registry, %LOCALAPPDATA% or %APPDATA%, but who knows what's stored where or how to manage it. Obviously, Unix already does just this and I'm jealous. If I had settings stored somewhere I could understan...</summary>
+    <content type="html">&lt;h1>Why aren't Windows settings stored in %HOMEPATH%?&lt;/h1>
+&lt;P>Normally, this is the kind of question I'd pose and then provide an answer, but this time I just don't have one.&lt;/P>
+&lt;P>If my Word settings were stored in %HOMEPATH%\WordSettings.xml, I could edit the file, back it up, carry it to other machines and generally manage it. Instead, my settings seem to be stored in the Registry, %LOCALAPPDATA% or %APPDATA%, but who knows what's stored where or how to manage it.&lt;/P>
+&lt;P>Obviously, Unix already does just this and I'm jealous. If I had settings stored somewhere I could understand and apps that actually used XCOPY deployment, I wouldn't have to uninstall at all -- I could just delete.&lt;/P>
+&lt;P>These are the thoughts you have uninstalling VS05 and VS08b2...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2145</id>
+    <title>1 Setup == Innumerable Uninstalls?</title>
+    <updated>2007-11-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-11-27T08:00:00.000Z</published>
+    <summary>OK, what's the deal with installing 1 product (Visual Studio 2008 beta 2) and having to do 22 separate uninstalls?!? How is this a good thing? </summary>
+    <content type="html">&lt;h1>1 Setup == Innumerable Uninstalls?&lt;/h1>
+&lt;P>OK, what's the deal with installing 1 product (Visual Studio 2008 beta 2) and having to do &lt;A href="http://www.microsoft.com/express/support/uninstall/default.aspx">&lt;EM>&lt;STRONG>22 separate uninstalls&lt;/STRONG>&lt;/EM>&lt;/A>?!?&lt;EM>&lt;STRONG> &lt;/STRONG>&lt;/EM>How is this a good thing?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2142</id>
+    <title>C# 3.0 in a Nutshell, LINQPad and Pure Genius</title>
+    <updated>2007-11-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2007-11-26T08:00:00.000Z</published>
+    <summary>I absolutely love what the Albahari brothers (Joe &amp;amp; Ben) have done with C# 3.0 in a Nutshell. Not only is their prose concise in a way that mine is not, but I have learned a bunch of stuff about LINQ I didn't know, they built a tool ( LINQPad ) that lets you experiment with LINQ interactively in a way that the designers of LINQ themselves don't support and the tool has all kinds of wonderful features that LINQ, SQL and Regular Expression programmers alike will want to use regularly long after they've re...</summary>
+    <content type="html">&lt;h1>C# 3.0 in a Nutshell, LINQPad and Pure Genius&lt;/h1>
+&lt;P>I absolutely love what the Albahari brothers (Joe &amp;amp; Ben) have done with &lt;A href="http://www.albahari.com/nutshell/">C# 3.0 in a Nutshell&lt;/A>. Not only is their prose concise in a way that mine is not, but I have learned a bunch of stuff about LINQ I didn't know, they built a tool (&lt;A href="http://www.linqpad.net/">LINQPad&lt;/A>) that lets you experiment with LINQ interactively in a way that the designers of LINQ themselves don't support and the tool has all kinds of wonderful features that LINQ, SQL and Regular Expression programmers alike will want to use regularly long after they've read the book.&lt;/P>
+&lt;P>And if that weren't enough, the tool comes with an integrated tree of samples that follow along with the material in the book, teaching the material from another angle and reinforcing it perfectly. It's pure genius and if I ever write another book, it's a model I'm going to follow. Very highly recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2143</id>
+    <title>I had to load FireFox on my machine yesterday</title>
+    <updated>2007-11-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-11-26T08:00:00.000Z</published>
+    <summary>In general, IE7 more than meets my needs. It shows me the web pages I want and it works well. However, there is one killer feature that FireFox has that I desperately needed yesterday that caused me to load it onto my machine. It's not my default browser and it doesn't replace IE7, but FireFox is there and fulfilling my one killer feature needs nicely. What's the feature, you ask? Well I'll tell you: sane content scaling. IE7 has Ctrl+, but it works very poorly, unlike FireFox, where it works fabulously. He...</summary>
+    <content type="html">&lt;h1>I had to load FireFox on my machine yesterday&lt;/h1>
+&lt;P>In general, IE7 more than meets my needs. It shows me the web pages I want and it works well. However, there is one killer feature that FireFox has that I desperately needed yesterday that caused me to load it onto my machine. It's not my default browser and it doesn't replace IE7, but FireFox is there and fulfilling my one killer feature needs nicely.&lt;/P>
+&lt;P>What's the feature, you ask? Well I'll tell you: sane content scaling. IE7 has Ctrl+, but it works very poorly, unlike FireFox, where it works fabulously.&lt;/P>
+&lt;P>Here's the problem. Yesterday, I started reading the most excellent C# 3.0 in a Nutshell online, but the "Text Zoom +" button didn't increase the font size nearly enough for me to read on my giant LCD monitor. So, I started pressing Ctrl+ on IE7 and the text got bigger, but &lt;EM>it didn't wrap the text inside the window, instead giving me horizontal scroll bar.&lt;/EM> This confuses me, because IE wraps text just fine when the window is resized or when the text size changes -- why can't it wrap when the content is scaled?&lt;/P>
+&lt;P>Anyway, FireFox rescales things very nicely and made my online reading very pleasant.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2141</id>
+    <title>Amazon Kindle Real-Life Review</title>
+    <updated>2007-11-24T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-11-24T08:00:00.000Z</published>
+    <summary>I've posted about ebooks before (e.g. I Hate Books ). It sounds like the Amazon Kindle has some real potential. All we need is a product with enough critical mass to create a market and then we can have real competition ala the music player market. Has anyone used an ebook reader before? I have some friends with the Sony version and they love it. Are we there yet? Does anyone have a Kindle? </summary>
+    <content type="html">&lt;h1>Amazon Kindle Real-Life Review&lt;/h1>
+&lt;P>I've posted about ebooks before (e.g. &lt;A href="/1944">I Hate Books&lt;/A>). &lt;A href="http://gizmodo.com/gadgets/our-kindle-verdict/amazon-kindle-real+life-review-verdict-lightweight-long-lasting-and-easy-to-grip-in-bed-325939.php">It sounds like the Amazon Kindle has some real potential.&lt;/A> All we need is a product with enough critical mass to create a market and then we can have real competition ala the music player market.&lt;/P>
+&lt;P>Has anyone used an ebook reader before? I have some friends with the Sony version and they love it. Are we there yet? Does anyone have a Kindle?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2140</id>
+    <title>Visual Studio 2008 Has Been Released!</title>
+    <updated>2007-11-19T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2007-11-19T08:00:00.000Z</published>
+    <summary>From the Visual Studio home page : Learn more about Visual Studio 2008 MSDN Subscribers: Get Visual Studio 2008 Download Trial Editions of Visual Studio 2008 Download Visual Studio 2008 Express Editions (and see Dan's Top 15 Things to love about Visual Studio 2008 Express ) Download the.NET Framework 3.5 Download the Visual Studio 2008 1</summary>
+    <content type="html">&lt;h1>Visual Studio 2008 Has Been Released!&lt;/h1>
+&lt;P>From &lt;A href="http://microsoft.com/vstudio/">the Visual Studio home page&lt;/A>:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://msdn2.microsoft.com/en-us/vstudio/products/default.aspx">Learn more about Visual Studio 2008&lt;/A>
+&lt;LI>&lt;A href="http://msdn2.microsoft.com/subscriptions/bb608344.aspx">MSDN Subscribers: Get Visual Studio 2008&lt;/A>
+&lt;LI>&lt;A href="http://msdn2.microsoft.com/en-us/vstudio/products/aa700831.aspx">Download Trial Editions of Visual Studio 2008&lt;/A> 
+&lt;LI>&lt;A href="http://www.microsoft.com/express">Download Visual Studio 2008 Express Editions&lt;/A> (and see &lt;a href="http://blogs.msdn.com/danielfe/archive/2007/11/19/top-15-things-to-love-about-visual-studio-2008-express.aspx">Dan's Top 15 Things to love about Visual Studio 2008 Express&lt;/a>)
+&lt;LI>&lt;A href="http://go.microsoft.com/?linkid=7755937">Download the .NET Framework 3.5&lt;/A>&lt;/LI>
+&lt;li>&lt;a href="http://www.microsoft.com/downloads/details.aspx?familyid=30402623-93ca-479a-867c-04dc45164f5b">Download the Visual Studio 2008 1.0 SDK&lt;/a> (includes all kinds of cool stuff for developing against VS itself, including the new &lt;a href="http://msdn2.microsoft.com/en-us/vstudio/bb856491.aspx">Visual Studio Shell&lt;/a>).&lt;/li>
+&lt;/UL>
+&lt;P>Enjoy! I know I have been.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2139</id>
+    <title>My Team is Hiring and We Need YOU!</title>
+    <updated>2007-11-16T08:00:00.000Z</updated>
+    <published>2007-11-16T08:00:00.000Z</published>
+    <summary>As Don&amp;nbsp;Box, Chris Anderson &amp;nbsp;and Doug Purdy &amp;nbsp;have mentioned, my team is hiring. We use agile methods and "everyone shovels," i.e. everyone designs, codes, writes unit tests, gives presentations on their stuff and writes the core docs. Presently, we need language designers and UI framework designers. Interested? Tell Doug I sent you. P.S. Did I mention that the team includes Don Box, Chris Anderson and Doug Purdy as well as Martin Gudgin, Jeff Schlimmer and Clemens Szyperski, as well as a bunch...</summary>
+    <content type="html">&lt;h1>My Team is Hiring and We Need YOU!&lt;/h1>
+&lt;P>As &lt;A href="http://www.pluralsight.com/blogs/dbox/archive/2007/11/14/49154.aspx">Don&amp;nbsp;Box&lt;/A>, &lt;A href="http://www.simplegeek.com/">Chris Anderson&lt;/A>&amp;nbsp;and &lt;A href="http://www.douglasp.com/blog/2007/11/15/MyTeamIsHiring.aspx">Doug Purdy&lt;/A>&amp;nbsp;have mentioned, my team is hiring. We use agile methods and "everyone shovels," i.e. everyone designs, codes, writes unit tests, gives presentations on their stuff and writes the core docs.&lt;/P>
+&lt;P>Presently, we need language designers and UI framework designers. Interested? &lt;A href="mailto:douglasp@microsoft.com?subject=Chris Sells sent me!">Tell Doug I sent you.&lt;/A>&lt;/P>
+&lt;P>P.S. Did I mention that the team includes Don Box, Chris Anderson and Doug Purdy as well as &lt;A href="http://www.pluralsight.com/blogs/mgudgin/">Martin Gudgin&lt;/A>, &lt;A href="http://www.pluralsight.com/blogs/jeffsch/">Jeff Schlimmer&lt;/A> and &lt;A href="http://research.microsoft.com/~cszypers/">Clemens Szyperski&lt;/A>, as well as a bunch more talented folks?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2138</id>
+    <title>Free copies of "Programming WPF" for YOU!</title>
+    <updated>2007-11-14T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2007-11-14T08:00:00.000Z</published>
+    <summary>I just got a box full of free copies of Programming WPF from ORA. If you want one, post a comment on this post with a) a reason why you deserve one and b) contact info so I can follow up for snail mail addresses. That's it! I'll pick the top n folks based on how many books I've got when I unpack the boxes. : ) </summary>
+    <content type="html">&lt;h1>Free copies of "Programming WPF" for YOU!&lt;/h1>
+&lt;P>I just got a box full of free copies of &lt;A HREF="/public/writing/wpfbook/">Programming WPF&lt;/A> from ORA.&lt;/P>
+&lt;P>If you want one, post a comment on this post with a) a reason why you deserve one and b) contact info so I can follow up for snail mail addresses.&lt;/P>
+&lt;P>That's it! I'll pick the top n folks based on how many books I've got when I unpack the boxes. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2137</id>
+    <title>Volunteering as Christmas Present?</title>
+    <updated>2007-11-05T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-11-05T08:00:00.000Z</published>
+    <summary>When I was a kid, Christmas was my favorite holiday because my entire family (grandparents, parents, siblings, cousins, aunts and uncles) would get together at our lake cabin, chop wood for the fireplace by day and play games at night, culminating in an hours-long gift opening bonanza on Christmas Eve where each of us would watch the opener open a gift, youngest-to-oldest, one at a time. Did we like opening? Sure, but even better was seeing the look at the person's face when you'd managed to get them just t...</summary>
+    <content type="html">&lt;h1>Volunteering as Christmas Present?&lt;/h1>
+&lt;P>When I was a kid, Christmas was my favorite holiday because my entire family (grandparents, parents, siblings, cousins, aunts and uncles) would get together at our lake cabin, chop wood for the fireplace by day and play games at night, culminating in an hours-long gift opening bonanza on Christmas Eve where each of us would watch the opener open a gift, youngest-to-oldest, one at a time. Did we like opening? Sure, but even better was seeing the look at the person's face when you'd managed to get them just the right thing because you saw them all the time and you knew what they wanted.&lt;/P>
+&lt;P>Now, I'm building my own family in Oregon, but I still have parents and in-laws and grandparents that need Christmas presents. Do I know what they want and need? No, because I hardly ever see them. Do I get to see their faces when they open the gifts? No, because I'm in Oregon. Does that get me off the hook? No, because when the presents don't show up in time, one or two have been known to call and complain. So, what's a remote relative to do?&lt;/P>
+&lt;P>In the past, I've floated the idea of sending donations in their names to various charities, but that seems kind of like a cop out, as there's no real thought or effort in it. Plus, it's not every much fun to open.&lt;/P>
+&lt;P>This year, I thought I'd give an hour of volunteer service and then write a little story about it for them to read around the tree in our absence. I'll pick an organization that fits their personality. For my step-mom, I might walk dogs at the local Humane Society (she likes dogs). For my Grandmother, I might volunteer to drive some elderly shut-in on her holiday errands (as I do for her when I can when I'm in town). Then, step-mom and Grandma can hear about how the hour went and share it with whoever they're opening presents with by reading my description out loud. This way, someone gets something they need, I've put in the effort to show my loved on that they really are loved and there's a little something under the tree.&lt;/P>
+&lt;P>Thoughts? Has anyone done something like this before? Does anyone have any ideas for Portland-area organizations that can help me get my volunteer hours in this holiday season?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2136</id>
+    <title>The Future of Telecommuting</title>
+    <updated>2007-10-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-10-29T07:00:00.000Z</published>
+    <summary>I truly believe that the future of employment will be much more individualistic and that requiring people to move will be an anachronism. Right now, phone + LiveMeeting is about 50% as good as being there; you're limited in what jobs you can do based on how much a part of your job "being there" actually is. We already have the pieces of technology to push "being there" to about 80%; we just haven't put them together yet. When we do, a bunch more barriers are going to come down. Until then, some folks are on...</summary>
+    <content type="html">&lt;h1>The Future of Telecommuting&lt;/h1>
+&lt;P class=MsoNormal>I truly believe that the future of employment will be much more individualistic and that requiring people to move will be an anachronism. Right now, phone + LiveMeeting is about 50% as good as being there; you're limited in what jobs you can do based on how much a part of your job "being there" actually is. We already have the pieces of technology to push "being there" to about 80%; we just haven't put them together yet. When we do, a bunch more barriers are going to come down. Until then, some folks are on the bleeding edge and isn't that what this whole industry is about anyway? : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2135</id>
+    <title>Working Remotely for Microsoft: Misc Tips &amp; Tricks</title>
+    <updated>2007-10-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-10-28T07:00:00.000Z</published>
+    <summary>I used to drive up because it gave me the freedom of traveling whenever I wanted and I always had a car on the far end. Besides the speeding tickets, the other big problem was the amount of human energy it takes to drive back and forth so often. I've taken the train, which I love because of the comfy surroundings and the electron dispensers, but if I want to be at a 9:45am meeting on Monday morning, I have to leave on the 2pm train on Sunday, which really cuts into family time. Now I fly. The drive to the a...</summary>
+    <content type="html">&lt;h1>Working Remotely for Microsoft: Misc Tips &amp; Tricks&lt;/h1>
+&lt;UL>
+&lt;LI>I used to drive up because it gave me the freedom of traveling whenever I wanted and I always had a car on the far end. Besides the speeding tickets, the other big problem was the amount of human energy it takes to drive back and forth so often.&lt;/LI>
+&lt;LI>I've taken the train, which I love because of the comfy surroundings and the electron dispensers, but if I want to be at a 9:45am meeting on Monday morning, I have to leave on the 2pm train on Sunday, which really cuts into family time.&lt;/LI>
+&lt;LI>Now I fly. The drive to the airport is only 30 minutes and I've never gotten a ticket along the way. When I get there, I use the express line to Seattle flights and get myself a Chai tea on the far side of security, itself made easy by long practice and my slip-off Crocs. The flight is short and I've long ago dropped off luggage that I leave in building 42, so I only have to bring clean undies in my laptop carry-on. When I land, instead of renting a car, I take a cab and get the benefit of the HOV lane when means I can take the 8am flight instead of the 7:30am flight, giving me 30 more minutes in bed. When I arrive, I have a junker freebie car I leave in the parking lot for tooling around town.&lt;/LI>
+&lt;LI>I split my overnights between my long-time friend and mentor Don Box and a local hotel. I stay at the hotel because I don't want to overstay my welcome and I stay at Don's because he and his family have made me feel so at home that I can't not stay there. As much as Don would prefer I be in WA, he has really gone a long way to enable my lifestyle and I love him for it.&lt;/LI>
+&lt;LI>Sometimes when I'm on a roll, I'll keep going long into the night, just like the old days at DM. And sometimes when I'm not feeling it, I'll take the afternoon off and see a movie with my sweetie. It's all about the balance.&lt;/LI>
+&lt;LI>I've always had an office for when I'm in Redmond, but I've always made sure I was the first guy on the double-up list when things get tight. Now only does this give me more face time when I'm in town, but I look like a hero and the guy who rooms with me only has to put up with me 3 days out of 10. I also let the other guy decide how to lay out the office, since my real office is set up just how I like it at my house. I've worked on couches, in the hall, in conference rooms, in the care and at the local Starbucks on 156th. Give me a laptop and wi-fi and I'm good to go.&lt;/LI>
+&lt;LI>Keep a machine setup inside the firewall. Every once in a while, VPN won't let you do anything except terminal serve into a machine, at which point you can do anything just like you were there.&lt;/LI>
+&lt;LI>Make Microsoft pay at least half of your phone and internet bills.&lt;/LI>
+&lt;LI>Just because you're working from home, you should expect adequate equipment to be supplied by your employer. Over a 4.5 year period, Microsoft has supplied me with two laptops, a 20" LCD monitor and a printer-fax-scanner-copier, all in my home office.&lt;/LI>&lt;/UL>
+&lt;P>Tomorrow, I'll post the final entry in this series with my thoughts about &lt;a href="/2136">the future of telecommuting&lt;/a>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2134</id>
+    <title>Working Remotely for Microsoft: What Are the Consequences?</title>
+    <updated>2007-10-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-10-27T07:00:00.000Z</published>
+    <summary>When I went to work for Microsoft without moving up, I knew I was making a tradeoff. Before Microsoft, I spent a lot of time traveling, so MS meant staying home much more with my family. It also meant, because of MS's cultural bias, that my rate of advancement would be considerably slower than it would be if I was local. In fact, I was prepared to be completely unpromoted as several senior folks I trusted at Microsoft promised I would be. As it turned out, even though I came into Microsoft at a fairly high ...</summary>
+    <content type="html">&lt;h1>Working Remotely for Microsoft: What Are the Consequences?&lt;/h1>
+&lt;P class=MsoNormal>When I went to work for Microsoft without moving up, I knew I was making a tradeoff. Before Microsoft, I spent a lot of time traveling, so MS meant staying home much more with my family. It also meant, because of MS's cultural bias, that my rate of advancement would be considerably slower than it would be if I was local. In fact, I was prepared to be completely unpromoted as several senior folks I trusted at Microsoft promised I would be. As it turned out, even though I came into Microsoft at a fairly high level (high enough that it wouldn't have been hard to not meet expectations even if I were local), I was promoted. I doubt seriously that I'll be promoted again, but I never thought I would be promoted at all. In fact, I've often referred to my Microsoft job, especially my new one on a product team, as "the world's greatest dead-end job." : )&lt;/P>
+&lt;P class=MsoNormal>I know this sounds bad, but it gives me two freedoms. First, and most importantly, it gives me the freedom to spend evenings and weekends with my family (especially since I shipped the last book I plan on working on for a long, long time) and to put them first. This was the conscious decision I made going it and I'm happy every day that I made it. The second freedom that took me by surprise is that I can focus on the parts of my job that I really love without worrying about picking up tasks just because they'll look good at review time. It's almost like I'm one of those Microsofties with "fuck you money" without the actual money. : )&lt;/P>
+&lt;P class=MsoNormal>Because my current boss cares deeply about making me as successful as I can be, we've talked about me having direct reports. I've done it before and I believe I could do it effectively again, even remotely (I've run successful remote development teams all over the world). However, because of the strong MS bias, I told my boss that I'd only take direct reports that had bought into the downsides of being remote, &lt;I>even if they're local&lt;/I>. If I'm not perceived as effective because I'm remote, then by extension, neither will anyone that works for me. My boss hasn't pushed it since our conversation on that matter and frankly, I don't expect to get any reports, but he's surprised me before, so we'll see. : )&lt;/P>
+&lt;P class=MsoNormal>Tomorrow: &lt;a href="/2135">Misc tips &amp;amp; tricks.&lt;/a>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2133</id>
+    <title>Working Remotely for Microsoft: Can You Communicate Effectively From Home During Meetings?</title>
+    <updated>2007-10-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-10-26T07:00:00.000Z</published>
+    <summary>Communicating during a meeting is an art unto itself and has its own set of considerations: Learn to love LiveMeeting: If you can't see faces, the next best thing is whiteboards and what's on each other's computer screens. For whiteboards, you really need a video camera, which I'll talk about later. For desktop sharing, I've tried NetMeeting, VNC, Terminal Services (in shadow mode) every version of MS Messenger, Office Communicator, Vista Meeting Space and LiveMeeting and a bunch more I'm not remembering. T...</summary>
+    <content type="html">&lt;h1>Working Remotely for Microsoft: Can You Communicate Effectively From Home During Meetings?&lt;/h1>
+&lt;P>Communicating during a meeting is an art unto itself and has its own set of considerations:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>Learn to love LiveMeeting: &lt;/STRONG>If you can't see faces, the next best thing is whiteboards and what's on each other's computer screens. For whiteboards, you really need a video camera, which I'll talk about later. For desktop sharing, I've tried NetMeeting, VNC, Terminal Services (in shadow mode) every version of MS Messenger, Office Communicator, Vista Meeting Space and LiveMeeting and a bunch more I'm not remembering. The only one that works consistently through firewalls (mine and Microsoft's) and is easy to get bootstrapped is LiveMeeting. Learn how to start a "Meet Now" meeting (I have an URL that starts up the "Meet Now: Chris Sells" meeting but I have no idea where I got it) and use it! I've actually heard Don Box, who hates working with me when I'm not in the room, say "LiveMeeting is better than you being here!" And when you're jointly working on a shared document or shared code, it's pretty damn good.&lt;/LI>
+&lt;LI>&lt;STRONG>Get a LiveMeeting monkey: &lt;/STRONG>If you're going to do a remote presentation, make sure there's someone on the other end with LiveMeeting tested and running that can project your slides for you while you narrate.&lt;/LI>
+&lt;LI>&lt;STRONG>Learn the short path through LiveMeeting: &lt;/STRONG>Microsoft employees, like most humans, don't like to be distracted by things they don't care about. They don't want to install a new piece of software on a machine they just got working again last week and they certainly don't know how to use it. Make sure you can talk them through the shortest path to getting LiveMeeting installed and sharing their desktops. The first time, this takes 10-15 minutes of disk churn (unfortunately), so ideally you'll do it before the big meeting.&lt;/LI>
+&lt;LI>&lt;STRONG>Keep time zones in mind: &lt;/STRONG>Martin was at GMT+0. Tim was at GMT-5. Microsoft is at GMT-8, as am I. Being working and available for meetings, phone calls and quick turn emails is important, otherwise, your team is going to start forgetting to include you in ad hoc stuff, as was a problem for Tim and completely impossible for Martin.&lt;/LI>
+&lt;LI>&lt;STRONG>Meet new people face-to-face: &lt;/STRONG>I go up to Microsoft 3 days/2 nights every other week with the idea that I'm not going to get much actual coding or writing done, but I'm going to get face time with new people I need to start relationships with. When they hear you're remote, most folks at Microsoft will want to postpone the meeting 'til you're in town. To make them comfortable with you and to put faces to the voices, that's a good idea the first time. However, after that, phone calls are just fine, especially when combined with LiveMeeting.&lt;/LI>
+&lt;LI>&lt;STRONG>Learn your address book: &lt;/STRONG>When a meeting room is scheduled, the scheduler doesn't know the phone number for the meeting nor are they even going to remember that you're calling in, so you need to know how to get the phone number yourself. At Microsoft, the address book lists conference room phone numbers as "conf room [blg]/[room]," e.g. "conf room 42/5646". If you have any trouble or you need someone to call you a cab for the airport on the last day of your trip, you can look up the receptionist for the building you're in with "Reception Bldg [bldg]," e.g. "Reception Building 42".&lt;/LI>
+&lt;LI>&lt;STRONG>Get your own personal conference call number: &lt;/STRONG>If more than one person is calling into a single meeting room, have your personal conference call phone number and code ready. Again, Microsoft issues these to anyone that wants one (and again I can't remember where I got mine : ).&lt;/LI>
+&lt;LI>&lt;STRONG>Take meeting notes: &lt;/STRONG>If you are finding yourself missing out what's going on during meetings while you're on the phone, offer to take the meeting notes. That way, when you have questions, you're asking as the guy taking notes not the annoying guy who's too full of him/herself to move.&lt;/LI>
+&lt;LI>&lt;STRONG>Play solitaire: &lt;/STRONG>If you're not taking notes and you find yourself zoning out during a phone meeting, either because you're surfing the web or starting to do "real" work, you need to do something that will occupy your eyes and your hands while keeping your ears and brain free to pay attention. For that I recommend solitaire or, when I've really let my work interfere with my home life balance, I like to put the dishes away or fold clothes. Handy access to the Mute button on your phone covers up the "clink" noises. : )&lt;/LI>
+&lt;LI>&lt;STRONG>Learn to intuit what's going on to the whiteboard: &lt;/STRONG>I find that the single biggest downside to not being there in person, especially on a product team, is not being able to see the whiteboard. Microsoft has a face-to-face, brute force culture; if a design or implementation problem can't be solved in two sentences in email, that's cause for a whiteboard scribble session. What I've learned, however, is that most such whiteboard scribbles look the same: there are going to be some boxes, some lines and some letters. The most powerful thing about what's happening on the whiteboard is not the whiteboard itself, but the story that's told while the boxes and lines are being scribbled. With some practice, you can learn to guess what's on the whiteboard by listening to the story, even if you have to ask a clarifying question or two. Further, just the mere act of saying something like "Well, I'm just guessing, but what I think you think drew is&amp;#8230;" More often than not, the folks on the other end of the phone will say something like, "Wow. That's pretty close, Chris, except that&amp;#8230;" With a little practice, you too can become a "whiteboard whisper." : )&lt;/LI>&lt;/UL>
+&lt;P>That's not to say that I wouldn't love a better solution for remote telepresence then I've got. I've tried a number of experiments over the years and right now Scott Hanselman and I are trying yet another one. For me, a basket of laptop that my team can carry to meetings for me that's running Skype for a/v sharing (it works through firewalls and does great noise cancelation), with a high quality pan/tilt/zoom camera I can control from my end is the killer app for remote employees. Scott's got more of a mobile IvanAnywhere mindset, but between the two of us, we hope to cobble together something that closes 80% of the remaining gap I can't close with the communication tips I've listed above.&lt;/P>
+&lt;P>Tomorrow we'll discuss &lt;a href="/2134">the career consequences of working remotely at Microsoft&lt;/a>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2132</id>
+    <title>Working Remotely for Microsoft: Can You Communicate Effectively From Home?</title>
+    <updated>2007-10-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2007-10-25T07:00:00.000Z</published>
+    <summary>Assuming you can focus on work and you can find someone to hire you, effective communication is the next issue you'll run into. When I was working for DM, practically everyone was remote, so our communication was based on email conversations that would be long and involved, sometimes lasting for days. However, that's not the case at Microsoft, where brevity in email is valued and meetings are called for the tough issues. How do you fit into this culture? I use several techniques: Over-communicate: I like to...</summary>
+    <content type="html">&lt;h1>Working Remotely for Microsoft: Can You Communicate Effectively From Home?&lt;/h1>
+&lt;P class=MsoNormal>Assuming you can focus on work and you can find someone to hire you, effective communication is the next issue you'll run into. When I was working for DM, practically everyone was remote, so our communication was based on email conversations that would be long and involved, sometimes lasting for days. However, that's not the case at Microsoft, where brevity in email is valued and meetings are called for the tough issues. How do you fit into this culture? I use several techniques:&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Over-communicate: &lt;/STRONG>I like to check and double check the things I heard and read vs. the things I've seeing done. "I did X. Can you check it and make sure it's what we agreed on?" "We agree that you were going to do Y. How's that coming? I looked at that last check-in you made and you seem to be doing Z. Why?"&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Pick good email subjects: &lt;/STRONG>Lots of times, people have so much email, if the subject isn't relevant, they don't bother.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Keep emails short: &lt;/STRONG>At Microsoft, we have literally thousands of mailing lists and it's not unusual for a single employee to belong to tens of them, generating 200-500 emails/day. If you want to be heard in that ruckus, you have to be succinct. If you get a reputation for long, rambling emails, especially without a summary, your missives will be ignored.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Summarize long emails at the top: &lt;/STRONG>When I need my email to go over a page, I summarize it at the top with a single sentence or two. That saves folks from having to dig through an email to get the gist.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Resend emails: &lt;/STRONG>I know &lt;A href="http://blogs.msdn.com/oldnewthing/archive/2007/04/13/2106139.aspx">Raymond Chen says not to&lt;/A>, but if you don't get an answer to an email, send it again. I can't tell you how many times the first email was ignored, but the second email was answered.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Reply to yourself: &lt;/STRONG>If you're asking a question that doesn't get answered, follow up with the answer when you get it. I've had threads of conversation that were 80% me. At least they'll see you're there so they'll remember to keep sending the paycheck. : )&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Follow up on hints: &lt;/STRONG>Sometimes you'll see something go by in an email that implies a different understanding than you had when last you talked to folks. For example, you're expecting to participate in a design review on Wednesday, but someone sends an email including the sentence like, "We'll have to have this question answered by Tuesday's design review anyway." In the hallway/meeting/face-to-face communication culture of Microsoft, decisions are made and changed all the time without a written follow-up, but most of the time you'll see the new data referenced in some kind of way. When that happens, follow up, e.g. "I thought the design review was on Wednesday. Has it been changed?"&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Read those status mails: &lt;/STRONG>You're saving all kinds of time and being more productive by skipping those random conversations in the hallway, so you can afford to actual read your colleagues' status emails. I also like to follow up on them, asking questions about the stuff I'm curious about. Often it helps me get my own work done and it almost always means I can integrate my work with that of my team's better.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Own the efforts you're involved in: &lt;/STRONG>It's very easy to get focused on your own work and get out of sync with the team. If you're dependent on other folks to get their work done so that the thing you're doing gets done correctly and on time, you've got yourself a powerful motivator to communicate.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Get everyone on your team to use IM: &lt;/STRONG>IM is a wonderful simulation for hallway conversations that works even when the target of your question/comment is in a meeting (it's common for Microsofties to have their laptops open during meetings). At Microsoft, even if folks don't have a personal IM account via Yahoo or Live Messenger, they do have one with Office Communicator. If you're trying to get someone that's never online with it, instead of sending them an email with your question, send them a link to the Office Communicator installation and a request for them to log in. If that doesn't work, start calling them and asking them the same thing. They'll get the hint. : )&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Pick up the phone: &lt;/STRONG>A ringing desktop phone is a novelty at Microsoft that few folks will ignore. Use it to startle them into submission! : )&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal>&lt;STRONG>Schedule a meeting for a phone call: &lt;/STRONG>If you can't get your team on the phone for a quick discussion, schedule a 15-minute phone call.&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P class=MsoNormal>Tomorrow I'll focus on &lt;a href="/2133">remote communication during meetings&lt;/a>.&lt;/P></content>
+  </entry>
+</feed>

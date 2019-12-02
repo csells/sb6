@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed153.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed152.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed154.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed153.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/278</id>
+    <title>Giving SOAP a REST</title>
+    <updated>2002-10-09T07:00:00.000Z</updated>
+    <published>2002-10-09T07:00:00.000Z</published>
+    <summary>Here. "Many developers will be surprised to learn that SOAP isn't the only game in town for Web services interfacing. REST offers a perfectly good solution for the majority of implementations, with greater flexibility and lower overhead. Developers need to stop reaching immediately for SOAP and start choosing the right technology for the application." I thought that this article would be an interesting counter-point to Peter Drayton's "Designing a RESTful SOAP API" at the DevCon this week.</summary>
+    <content type="html">&lt;h1>Giving SOAP a REST&lt;/h1>
+&lt;a href="http://www.devx.com/free/hotlinks/2002/ednote100902.asp">Here&lt;/a>. "Many developers will be surprised to learn that SOAP isn't the only game in town for Web services interfacing. REST offers a perfectly good solution for the majority of implementations, with greater flexibility and lower overhead. Developers need to stop reaching immediately for SOAP and start choosing the right technology for the application."
+
+I thought that this article would be an interesting counter-point to Peter Drayton's "Designing a RESTful SOAP API" at the DevCon this week.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/277</id>
+    <title>What's New in Outlook 11</title>
+    <updated>2002-10-08T07:00:00.000Z</updated>
+    <published>2002-10-08T07:00:00.000Z</published>
+    <summary>Here. "With current versions of Outlook, losing a network connection or working with a slow or unreliable network connection produces horrible results. If Outlook loses its network connectivity, error messages pop up before Outlook freezes completely. Outlook 11 eliminates this problem. Details have not been fully released, but Outlook 11 will work in what is termed "cached Exchange mode." When a fat pipe (a high-speed network connection) is present, Outlook will run much like it does now, where headers and...</summary>
+    <content type="html">&lt;h1>What's New in Outlook 11&lt;/h1>
+&lt;a href="http://www.fawcette.com/reports/mec/2002/10_09_02/pcardoza/">Here&lt;/a>. "With current versions of Outlook, losing a network connection or working with a slow or unreliable network connection produces horrible results. If Outlook loses its network connectivity, error messages pop up before Outlook freezes completely. Outlook 11 eliminates this problem. Details have not been fully released, but Outlook 11 will work in what is termed "cached Exchange mode." When a fat pipe (a high-speed network connection) is present, Outlook will run much like it does now, where headers and message bodies will be downloaded as new messages arrive. When Outlook detects a slower pipe, either a dial-up or a cellular modem connection, only message headers will be downloaded. If a user wants to display a message, the entire message body will then be downloaded from the server. Outlook's default behavior will be to work against its local cache."
+
+Now this sounds more like it!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/276</id>
+    <title>Microsoft's New Enterprise View</title>
+    <updated>2002-10-08T07:00:00.000Z</updated>
+    <published>2002-10-08T07:00:00.000Z</published>
+    <summary>Here. "MEC 2002 opened yesterday morning with a keynote address by Paul Flessner, senior vice president of.NET Enterprise Servers, that was packed with product announcements, demonstrations, and promises for the future." Apparently, Microsoft thinks that.NET Server's support for Volume Shadow Copy (VSS) Virtual Disk Service (VDS) are both really cool. Mr. Fetcher also demo'd the simply amazing ability of Outlook 11 to show the preview pane to the right of the list of emails instead of at the bottom. Myself,...</summary>
+    <content type="html">&lt;h1>Microsoft's New Enterprise View&lt;/h1>
+&lt;a href="http://www.fawcette.com/reports/mec/2002/10_09_02/keynote/">Here&lt;/a>. "MEC 2002 opened yesterday morning with a keynote address by Paul Flessner, senior vice president of .NET Enterprise Servers, that was packed with product announcements, demonstrations, and promises for the future."
+
+Apparently, Microsoft thinks that .NET Server's support for Volume Shadow Copy (VSS) Virtual Disk Service (VDS) are both really cool. Mr. Fetcher also demo'd the &lt;sarcasm>simply amazing ability of Outlook 11 to show the preview pane to the right of the list of emails instead of at the bottom&lt;/sarcasm>. Myself, I'd be really happy if Outlook had zero new features, but included responsive multi-threading code.
+
+One thing that does sound interesting is "Greenwich" which is supposed to be an intranet, secure platform for doing IM. If I can use MSN IM to connect to internal and external IM accounts simultaneously, that'd be pretty darn cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/275</id>
+    <title>Can You Feel It In The Air?</title>
+    <updated>2002-10-08T07:00:00.000Z</updated>
+    <published>2002-10-08T07:00:00.000Z</published>
+    <summary>Here. That's DevCon fever...</summary>
+    <content type="html">&lt;h1>Can You Feel It In The Air?&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. That's DevCon fever...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/274</id>
+    <title>.NET Rocks Interviews Mark Anders</title>
+    <updated>2002-10-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-08T07:00:00.000Z</published>
+    <summary>Here. "Carl and Mark talk with Mark Anders about ASP.NET, Framework v1.1, Languages, IIS 6.0, and other great topics. This week we had some celebrity callers: Developmentor's Chris Sells and MSDN Regional Director Stephen Forte ring the show, making for some great tech talk." I couldn't resist calling Mark and giving him a hard time. : )</summary>
+    <content type="html">&lt;h1>.NET Rocks Interviews Mark Anders&lt;/h1>
+&lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. "Carl and Mark talk with Mark Anders about ASP.NET, Framework v1.1, Languages, IIS 6.0, and other great topics. This week we had some celebrity callers: Developmentor's Chris Sells and MSDN Regional Director Stephen Forte ring the show, making for some great tech talk."
+
+I couldn't resist calling Mark and giving him a hard time. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/273</id>
+    <title>Compatibility Considerations and Version Changes</title>
+    <updated>2002-10-07T07:00:00.000Z</updated>
+    <published>2002-10-07T07:00:00.000Z</published>
+    <summary>Here. "The following document describes changes between versions of the.NET Framework that might affect the backward or forward compatibility of your application. Information is also provided about the types of changes that can cause incompatibilities, ways to modify your application to work around incompatibilities, and how to test and run your application on different versions of the.NET Framework." And so begins the grand experiment of whether it's actually possible to version the.NET runtime and keep ev...</summary>
+    <content type="html">&lt;h1>Compatibility Considerations and Version Changes&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/changeinfo/default.aspx">Here&lt;/a>. "The following document describes changes between versions of the .NET Framework that might affect the backward or forward compatibility of your application.  Information is also provided about the types of changes that can cause incompatibilities, ways to modify your application to work around incompatibilities, and how to test and run your application on different versions of the .NET Framework."
+
+And so begins the grand experiment of whether it's actually possible to version the .NET runtime and keep everything running and working.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/272</id>
+    <title>VBXMLDoc - Generates XML Docs from VB Source</title>
+    <updated>2002-10-05T07:00:00.000Z</updated>
+    <published>2002-10-05T07:00:00.000Z</published>
+    <summary>Here. "Features present in Beta1: -Generate XML documentation files directly from the VB source files -Integrated into Visual Studio.NET
+-Integrated into the Property grid for VB projects -Integrated into the Build process -Conversion of regular comments to XML comments -Automaticly generate documentation XML documentation stubs for elements in the code" Lots of VB.NET folks have wondered why the C# boys get XML docs and they don't. Now they do. [win_tech_off_topic]</summary>
+    <content type="html">&lt;h1>VBXMLDoc - Generates XML Docs from VB Source&lt;/h1>
+&lt;a href="http://vbxmldoc.tor-erik.net/">Here&lt;/a>. "Features present in Beta1:
+
+-Generate XML documentation files directly from the VB source files 
+-Integrated into Visual Studio.NET
+-Integrated into the Property grid for VB projects 
+-Integrated into the Build process 
+-Conversion of regular comments to XML comments 
+-Automaticly generate documentation XML documentation stubs for elements in the code"
+
+Lots of VB.NET folks have wondered why the C# boys get XML docs and they don't. Now they do.
+
+[win_tech_off_topic]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/271</id>
+    <title>.NET Saves Boy Down Well</title>
+    <updated>2002-10-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-04T07:00:00.000Z</published>
+    <summary>Here. What's that.NET? You say Jimmy's fallen down a well? [Sam Ruby: radio.weblogs.com/0101679]</summary>
+    <content type="html">&lt;h1>.NET Saves Boy Down Well&lt;/h1>
+&lt;a href="http://www.webservile.com/stories/downwell.htm">Here&lt;/a>. What's that .NET? You say Jimmy's fallen down a well?
+
+[Sam Ruby: radio.weblogs.com/0101679]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/270</id>
+    <title>NUnit 2.0 Released</title>
+    <updated>2002-10-03T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-10-03T07:00:00.000Z</published>
+    <summary>Here. From Bernard Vander Beken: From the readme: "This is the second major release of the xUnit based unit testing tool for Microsoft.NET. It is written
+entirely in C# and has been completely redesigned to take advantage of many.NET language features,
+for example custom attributes and other reflection related capabilities." "In the next few weeks we will be
+formulating the next release trying to incorporate as many requests as possible."</summary>
+    <content type="html">&lt;h1>NUnit 2.0 Released&lt;/h1>
+&lt;a href="http://sourceforge.net/project/showfiles.php?group_id=10749&amp;release_id=114369">Here&lt;/a>. From Bernard Vander Beken: From the readme:
+
+"This is the second major release of the xUnit based unit testing tool for Microsoft .NET. It is written
+entirely in C# and has been completely redesigned to take advantage of many .NET language features,
+for example custom attributes and other reflection related capabilities."
+
+"In the next few weeks we will be
+formulating the next release trying to incorporate as many requests as possible."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12573</id>
+    <title>The Fallout Begins</title>
+    <updated>2002-10-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-10-02T07:00:00.000Z</published>
+    <summary>Two months ago, I noted a fall in morale in the IT industry amongst my friends and colleagues. I wondered whether the best people in the industry who'd been fighting for a sane development process, but living without it because people were handing out cars as signing bonuses, would rather not work in another industry when the cars were no longer available and the fight for what was right didn't seem to make as much difference any more. Yesterday, one of the people that I'd put into the &amp;quot;right up there&amp;...</summary>
+    <content type="html">&lt;h1>The Fallout Begins&lt;/h1>
+
+        &lt;p>&lt;a href="#burnout">Two months ago&lt;/a>, I noted a fall in morale in 
+        the IT industry amongst my friends and colleagues. I wondered whether 
+        the best people in the industry who'd been fighting for a sane 
+        development process, but living without it because people were handing out 
+        cars as signing bonuses, would rather not work in another industry when 
+        the cars were no longer available and the fight for what was right 
+        didn't seem to make as much difference any more. Yesterday, one of the 
+        people that I'd put into the &amp;quot;right up there&amp;quot; category,
+        &lt;a href="http://pinetree-tech.com/weblog/archives/2002/10/01.shtml#finally_figured_it_out">
+        Justin Rudd, announced his intention to pack it in and go back to school 
+        to be a doctor&lt;/a>. &lt;/p>
+        &lt;p>This kind of thing shakes my own faith. Should I continue to bust my 
+        hump on the latest and greatest technologies or ditch it all and start 
+        that novel I've got in the back of my head? I still really love doing 
+        the former, but it seems that everyone has to work a lot harder for a 
+        lot less these days. Maybe I just need to readjust my thinking, but 
+        damn, being smack dab in the middle of an economic boom really does a 
+        number on you! I feel like the guy who found a silver mine in the middle 
+        of the gold rush. I don't have any trouble feeding my family and it's 
+        not fool's gold, but I still pine for those deep, yellow nuggets...&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/268</id>
+    <title>Alladyn Unifies Browser DOMs in 2403 Bytes</title>
+    <updated>2002-10-02T07:00:00.000Z</updated>
+    <published>2002-10-02T07:00:00.000Z</published>
+    <summary>Here. The Alladyn library unifies the various browser Document Object Models (DOMs) into a single object model, leting you write one set of JScript code for your dynamic sites and have it work across browsers. The library let you program Flash-like sites that don't use Flash. The gallery demos how much you can do. It's hard to tell from the site, but it seems to support IE4+, NS4+, Opera and Mozilla. And it does all this in 2403 bytes! Truly amazing.</summary>
+    <content type="html">&lt;h1>Alladyn Unifies Browser DOMs in 2403 Bytes&lt;/h1>
+&lt;a href="http://alladyn.art.pl/">Here&lt;/a>. The Alladyn library unifies the various browser Document Object Models (DOMs) into a single object model, leting you write one set of JScript code for your dynamic sites and have it work across browsers. The library let you program Flash-like sites that don't use Flash. The gallery demos how much you can do.
+
+It's hard to tell from the site, but it seems to support IE4+, NS4+, Opera and Mozilla. And it does all this in 2403 bytes! Truly amazing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/269</id>
+    <title>The Fallout Begins</title>
+    <updated>2002-10-02T07:00:00.000Z</updated>
+    <published>2002-10-02T07:00:00.000Z</published>
+    <summary>Here. Justin Rudd shakes my faith.</summary>
+    <content type="html">&lt;h1>The Fallout Begins&lt;/h1>
+&lt;a href="/12573">Here&lt;/a>. Justin Rudd shakes my faith.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/267</id>
+    <title>.NET Evangelist</title>
+    <updated>2002-10-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-01T07:00:00.000Z</published>
+    <summary>Here. From Hussein: Microsoft's wireless desktop</summary>
+    <content type="html">&lt;h1>.NET Evangelist&lt;/h1>
+&lt;a href="http://chkpt.zdnet.com/chkpt/zdhpedittop/http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2881700,00.html">Here&lt;/a>. From Hussein: Microsoft's wireless desktop</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/266</id>
+    <title>Apache Support For ASP.NET Web Services</title>
+    <updated>2002-09-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-30T07:00:00.000Z</published>
+    <summary>Here. "Apache, the world's most widely deployed Web server, now supports the Microsoft ASP.NET Web services development platform through the Covalent Enterprise Ready Server. This gives enterprise customers who wish to use ASP.NET the freedom to deploy Apache, thus enabling development and operations groups to independently utilize technologies that meet their needs. Covalent has written a white paper describing the technology in more detail." The Covalent guys have added ASP.NET support to the open source ...</summary>
+    <content type="html">&lt;h1>Apache Support For ASP.NET Web Services&lt;/h1>
+&lt;a href="http://www.covalent.net/products/rotate.php?page=93">Here&lt;/a>. "Apache, the world's most widely deployed Web server, now supports the Microsoft ASP.NET Web services development platform through the Covalent Enterprise Ready Server. This gives enterprise customers who wish to use ASP.NET the freedom to deploy Apache, thus enabling development and operations groups to independently utilize technologies that meet their needs. Covalent has written a white paper describing the technology in more detail."
+
+The Covalent guys have added ASP.NET support to the open source Apache using a lot of elbow grease to map between the differences between the two processing models and the ASP.NET hosting stuff, which Microsoft arguably implemented for just this purpose. If we could get ASP.NET as part of Rotor and Rotor on Linux, you could run ASP.NET-based web servers for free (except for the money you’d pay Covalent for their bits, of course, but since they hired me to help advise them on the implementation of those bits, that works for me : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/264</id>
+    <title>Tools for the Microsoft IT Consultant</title>
+    <updated>2002-09-28T07:00:00.000Z</updated>
+    <published>2002-09-28T07:00:00.000Z</published>
+    <summary>Here. From Ramon: Hundreds of useful Microsoft resources, and technical documentation about, Great Plains, eEnterprise, Solomon, ASP resources,ASP links,ASP documents, ASPX, ASP.NET, VB, VB.NET, AD, Active Directory, etc... </summary>
+    <content type="html">&lt;h1>Tools for the Microsoft IT Consultant &lt;/h1>
+&lt;a href="http://www.only4gurus.com">Here&lt;/a>. From Ramon: Hundreds of useful Microsoft resources, and technical documentation about, Great Plains, eEnterprise, Solomon, ASP resources,ASP links,ASP documents, ASPX, ASP.NET, VB, VB.NET, AD, Active Directory, etc... </content>
+  </entry>
+</feed>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed149.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed148.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed150.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed149.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/336</id>
+    <title>My Coding Standards</title>
+    <updated>2002-11-27T08:00:00.000Z</updated>
+    <published>2002-11-27T08:00:00.000Z</published>
+    <summary>Here. This software development moment brought to you by Chris Sells, the naked guy in the upper-left corner.</summary>
+    <content type="html">&lt;h1>My Coding Standards&lt;/h1>
+&lt;a href="/12569">Here&lt;/a>. This software development moment brought to you by Chris Sells, the naked guy in the upper-left corner.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12569</id>
+    <title>My Coding Standards</title>
+    <updated>2002-11-27T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-11-27T08:00:00.000Z</published>
+    <summary>Wednesday, November 27, 2002 Sometimes it's like I'm a war veteran in my head. I'll be going along, minding my own business, when *bang*! out of nowhere, a flashback from my days as the director of a software organization hits me right between the eyes. When it happened today, I thought it would be therapeutic to talk about it instead of trying to bury it when these &amp;quot;episodes&amp;quot; intruded on my normal life. The nice thing about setting up your own software organization is that you get to set your own...</summary>
+    <content type="html">&lt;h1>My Coding Standards&lt;/h1>
+&lt;p>&lt;i>Wednesday, &lt;span class="created">November 27, 2002&lt;/span>&lt;/i>&lt;/p>
+        &lt;p>Sometimes it's like I'm a war veteran in my head. I'll be going 
+        along, minding my own business, when *bang*! out of nowhere, a flashback 
+        from my days as the director of a software organization hits me right 
+        between the eyes. When it happened today, I thought it would be 
+        therapeutic to talk about it instead of trying to bury it when these 
+        &amp;quot;episodes&amp;quot; intruded on my normal life.&lt;/p>
+        &lt;p>The nice thing about setting up your own software organization is 
+        that you get to set your own rules, and this time &amp;quot;do it right.&amp;quot; I had 
+        always planned on getting my engineers together one day and coming up 
+        with a common coding standards document, just like every software 
+        organization had, but in the interim, we started with this one:&lt;/p>
+        &lt;ol>
+          &lt;li>All code will use spaces instead of tabs.&lt;/li>
+          &lt;li>All new code in an existing file will match the existing style.&lt;/li>
+        &lt;/ol>
+        &lt;p>Rule #1 nicely handles the case where different editors expand tabs 
+        to different spaces, causing code that was easy to read when it was 
+        written to go all crazy. Rule #2 says not to waste time reformatting 
+        existing code into your own style, but to mimic the coding style that 
+        was used by the original author. Rule #2 had the unexpected side effect 
+        of helping developers get into each others' heads, which helped transfer 
+        knowledge between us. I personally learned a bunch of cool tricks by 
+        fixing bugs in files in the style of the original author.&lt;/p>
+        &lt;p>After a few attempts at adding other, more traditional rules to this 
+        short list, like where the braces go and how to name variables, we 
+        couldn't find anything that was worth ruining the simplicity of our 
+        two-rule coding standards with, so that's what I've used ever since. One 
+        other benefit of this simple set of coding standards was that it left us 
+        all kinds of time to debate the merits of various text editors, which is 
+        an argument that won't be solved until just after the Christianity vs. 
+        Judaism debate is ended...&lt;/p>
+        &lt;p>
+        &lt;a href="/336">
+		Discuss&lt;/a>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/335</id>
+    <title>The .NET Show: The Compact Framework</title>
+    <updated>2002-11-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-26T08:00:00.000Z</published>
+    <summary>Here. A new episode of The.NET Show shipped today on the Compact Framework. More and more I want to use WinForms for smaller and smaller devices. I am looking forward to programming CF apps on my cell phone!</summary>
+    <content type="html">&lt;h1>The .NET Show: The Compact Framework&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/theshow/Episode029/default.asp">Here&lt;/a>. A new episode of The .NET Show shipped today on the Compact Framework. More and more I want to use WinForms for smaller and smaller devices. I am looking forward to programming CF apps on my cell phone!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/334</id>
+    <title>SOAPScope Ships</title>
+    <updated>2002-11-22T08:00:00.000Z</updated>
+    <published>2002-11-22T08:00:00.000Z</published>
+    <summary>Here. "Mindreef SOAPscope Personal is an easy-to-use, toolkit independent diagnostic aid for developers, testers and application support technicians who must isolate Web Services problems. Our primary design goal with SOAPscope Personal was to create the best logger/viewer for Web Services - one that is SOAP, WSDL and XML aware. Most Web Services developers and testers use some type of tracing tool to troubleshoot problems, but the available tools lack the features needed to make troubleshooting efficient. ...</summary>
+    <content type="html">&lt;h1>SOAPScope Ships&lt;/h1>
+&lt;a href="http://www.mindreef.com/products/products.html">Here&lt;/a>. "Mindreef SOAPscope Personal is an easy-to-use, toolkit independent diagnostic aid for developers, testers and application support technicians who must isolate Web Services problems. Our primary design goal with SOAPscope Personal was to create the best logger/viewer for Web Services - one that is SOAP, WSDL and XML aware. Most Web Services developers and testers use some type of tracing tool to troubleshoot problems, but the available tools lack the features needed to make troubleshooting efficient. By combining a scaleable logging environment with many innovative features, Mindreef SOAPscope Personal easily meets our original goal."
+
+MindReef showed the beta version at the Web Services DevCon to critical acclaim. It sure looks good.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/333</id>
+    <title>.NET Refactoring Tool Enters Beta</title>
+    <updated>2002-11-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-22T08:00:00.000Z</published>
+    <summary>Here. "C# Refactory is a revolutionary new tool which enhances Microsoft's Visual Studio.NET IDE. It performs a number of complex refactorings automatically, allowing you to shape and re-shape your code as needs arise. It also helps you identify code which needs attention by calculating metrics, from 'lines of code' all the way up to 'cyclomatic complexity'. It is fully integrated with the IDE - no external tools means that refactorings are always ready at your fingertips." As I'm writing a bunch of book co...</summary>
+    <content type="html">&lt;h1>.NET Refactoring Tool Enters Beta&lt;/h1>
+&lt;a href="http://www.xtreme-simplicity.net/index.cfm?PageID=3">Here&lt;/a>. "C# Refactory is a revolutionary new tool which enhances Microsoft's Visual Studio.NET IDE. It performs a number of complex refactorings automatically, allowing you to shape and re-shape your code as needs arise. It also helps you identify code which needs attention by calculating metrics, from 'lines of code' all the way up to 'cyclomatic complexity'. It is fully integrated with the IDE - no external tools means that refactorings are always ready at your fingertips."
+
+As I'm writing a bunch of book code just now, I'm not a good beta tester for this tool, but the descriptions of what it does look yummy. I would especially love Extract Method and Rename Type.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/330</id>
+    <title>Building Secure ASP.NET Applications</title>
+    <updated>2002-11-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-19T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: From MSDN library:
+Summary: This guide presents a practical, scenario driven approach to designing and building secure ASP.NET applications for Windows 2000 and version 1.0 of the.NET Framework. It focuses on the key elements of authentication, authorization, and secure communication within and across the tiers of distributed.NET Web applications. (This roadmap: 6 printed pages; the entire guide: 608 printed pages) </summary>
+    <content type="html">&lt;h1>Building Secure ASP.NET Applications&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetlpMSDN.asp">Here&lt;/a>. From Hun Boon Teo: From MSDN library:
+Summary: This guide presents a practical, scenario driven approach to designing and building secure ASP.NET applications for Windows 2000 and version 1.0 of the .NET Framework. It focuses on the key elements of authentication, authorization, and secure communication within and across the tiers of distributed .NET Web applications. (This roadmap: 6 printed pages; the entire guide: 608 printed pages)
+
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/328</id>
+    <title>Hierarchy Doesn't Scale</title>
+    <updated>2002-11-18T08:00:00.000Z</updated>
+    <published>2002-11-18T08:00:00.000Z</published>
+    <summary>Here. My thoughts on the short-comings of the use of hierarchy to organize data and a plea for something better.</summary>
+    <content type="html">&lt;h1>Hierarchy Doesn't Scale&lt;/h1>
+&lt;a href="/12570">Here&lt;/a>. My thoughts on the short-comings of the use of hierarchy to organize data and a plea for something better.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/329</id>
+    <title>'Essential .NET' is shipping in the UK</title>
+    <updated>2002-11-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-18T08:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: It's in stock at the PC Bookshop.
+</summary>
+    <content type="html">&lt;h1>'Essential .NET' is shipping in the UK&lt;/h1>
+&lt;a href="http://www.pcbooks.co.uk/details.aspx?sn=1239916">Here&lt;/a>. From Andrew Webb: It's in stock at the PC Bookshop.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/327</id>
+    <title>Download the Visual Studio .NET 2003 Final Beta</title>
+    <updated>2002-11-17T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-17T08:00:00.000Z</published>
+    <summary>Here. "Be the first to try Visual Studio.NET 2003, which is currently in Final Beta and available for download from MSDN® Subscriber Downloads." "With integrated support for the.NET Compact Framework, Visual Studio.NET 2003 brings mobile and embedded devices such as the Pocket PC, as well as other devices powered by the Microsoft Windows CE.NET operating system, to.NET. Now, developers can use the same programming model, development tools, and skills to build applications that span from small devices to the...</summary>
+    <content type="html">&lt;h1>Download the Visual Studio .NET 2003 Final Beta&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vstudio/productinfo/vstudio03/default.asp">Here&lt;/a>. "Be the first to try Visual Studio .NET 2003, which is currently in Final Beta and available for download from MSDN® Subscriber Downloads."
+
+"With integrated support for the .NET Compact Framework, Visual Studio .NET 2003 brings mobile and embedded devices such as the Pocket PC, as well as other devices powered by the Microsoft Windows CE .NET operating system, to .NET. Now, developers can use the same programming model, development tools, and skills to build applications that span from small devices to the largest data center."
+
+The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is available for download by MSDN subscribers. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/326</id>
+    <title>If Richard Feynman applied for a job at Microsoft</title>
+    <updated>2002-11-15T08:00:00.000Z</updated>
+    <published>2002-11-15T08:00:00.000Z</published>
+    <summary>Here. Shawn Van Ness sent me a *fabulous* story of what would happen if Richard Feynman interviewed at Microsoft which sums up nicely what drives me to keep the page going in the first place. : )</summary>
+    <content type="html">&lt;h1>If Richard Feynman applied for a job at Microsoft&lt;/h1>
+&lt;a href="/12395">Here&lt;/a>. Shawn Van Ness sent me a *fabulous* story of what would happen if Richard Feynman interviewed at Microsoft which sums up nicely what drives me to keep the page going in the first place. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/325</id>
+    <title>"Longhorn" Alpha Preview</title>
+    <updated>2002-11-15T08:00:00.000Z</updated>
+    <published>2002-11-15T08:00:00.000Z</published>
+    <summary>Here. "Longhorn is now considered a major Windows release by Microsoft, and early alpha builds are now testing at the company's Redmond campus. Last month, some of those builds leaked to the Internet, causing a stir in the Windows enthusiast community. I take a look at one of those builds here."</summary>
+    <content type="html">&lt;h1>"Longhorn" Alpha Preview&lt;/h1>
+&lt;a href="http://www.winsupersite.com/reviews/longhorn_alpha.asp">Here&lt;/a>. "Longhorn is now considered a major Windows release by Microsoft, and early alpha builds are now testing at the company's Redmond campus. Last month, some of those builds leaked to the Internet, causing a stir in the Windows enthusiast community. I take a look at one of those builds here."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12355</id>
+    <title>Shtoo</title>
+    <updated>2002-11-15T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-11-15T08:00:00.000Z</published>
+    <summary>Stu Halloway, conference speaker, respected author of Component Development for the Java Platform as well as many 5-day short courses and CTO of DevelopMentor, pronounces his name like this (I found it hard to believe myself...) </summary>
+    <content type="html">&lt;h1>Shtoo&lt;/h1>
+&lt;p>Stu Halloway, conference speaker, respected author of &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201753065/chrissells">Component Development for the Java Platform&lt;/a> as well as many 5-day short courses and CTO of DevelopMentor, &lt;a href="/public/fun/shtoo.wav">pronounces his name like this&lt;/a> (I found it hard to believe myself...)&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/319</id>
+    <title>C# and Java: The Smart Distinctions</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: Article by Dominik Gruntz from Journal of Object Technology (Nov-Dec 2002 Issue), this article shows some of the subtle difference between C# and Java.</summary>
+    <content type="html">&lt;h1>C# and Java: The Smart Distinctions&lt;/h1>
+&lt;a href="http://www.jot.fm/issues/issue_2002_11/article4">Here&lt;/a>. From Hun Boon Teo: Article by Dominik Gruntz from Journal of Object Technology (Nov-Dec 2002 Issue), this article shows some of the subtle difference between C# and Java.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/323</id>
+    <title>WinForms Auto-Scaling</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. That cool auto-scaling that WinForms does when moving between system font settings baffled me 'til I sat down to really understand it.</summary>
+    <content type="html">&lt;h1>WinForms Auto-Scaling&lt;/h1>
+&lt;a href="/public/writing/winformsAutoScaling.htm">Here&lt;/a>. That cool auto-scaling that WinForms does when moving between system font settings baffled me 'til I sat down to really understand it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/318</id>
+    <title>From the angle bracket department ...</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. From cn: The W3C's updated a whole bunch of specs lately: - XPointer: Proposed Recommendation
+- XForms: Candidate Recommendation
+- RDF Primer, Schema, Abstract Syntax, and more An XForms tech preview is available from Novell/SilverStream (of all places).</summary>
+    <content type="html">&lt;h1>From the angle bracket department ...&lt;/h1>
+&lt;a href="http://www.w3.org">Here&lt;/a>. From cn: The W3C's updated a whole bunch of specs lately:
+
+- XPointer:  Proposed Recommendation
+- XForms:  Candidate Recommendation
+- RDF Primer, Schema, Abstract Syntax, and more
+
+An XForms tech preview is available from Novell/SilverStream (of all places).</content>
+  </entry>
+</feed>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed53.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed52.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed54.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed53.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1665</id>
+    <title>Creating 2-D and 3-D Dynamic Animations in "Avalon</title>
+    <updated>2005-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-20T08:00:00.000Z</published>
+    <summary>"Karsten shows how to build an animated version of Task Manager using the 2-D animation infrastructure provided by Avalon, then moving into the world of 3-D, showing how to create a dynamically animated 3-D mesh." </summary>
+    <content type="html">&lt;h1>Creating 2-D and 3-D Dynamic Animations in "Avalon&lt;/h1>
+&lt;EM>"Karsten shows &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/avalon2d-3d.asp">how to build an animated version of Task Manager using the 2-D animation infrastructure provided by Avalon, then moving into the world of 3-D&lt;/A>, showing how to create a dynamically animated 3-D mesh."&lt;/EM></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1664</id>
+    <title>JasonW on ClickOnce Permission Elevations</title>
+    <updated>2005-01-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-20T08:00:00.000Z</published>
+    <summary>Jason Whittington has some thoughts about ClickOnce and user-managed permission evaluation. Basically, he thinks that the user should have to sacrifice a chicken to get a FullTrust component running on their box via ClickOnce (I'm paraphrasing : ). I definitely see his pov. Thoughts? </summary>
+    <content type="html">&lt;h1>JasonW on ClickOnce Permission Elevations&lt;/h1>
+Jason Whittington has &lt;A href="http://neocranium.com/jasonw/archive/2005/01/20/266.aspx">some thoughts about ClickOnce and user-managed permission evaluation&lt;/A>. Basically, he thinks that the user should have to sacrifice a chicken to get a FullTrust component running on their box via ClickOnce (I'm paraphrasing : ). I definitely see his pov. &lt;A href="/1664">Thoughts?&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1660</id>
+    <title>Get Out The Vote: .NET DJ Reader's Choice Awards</title>
+    <updated>2005-01-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-19T08:00:00.000Z</published>
+    <summary>It's time for the annual&amp;nbsp;.NET Developer's Journal Reader's Choice awards. Even better, this year Windows Forms Programming in C# has been nominated (yea!). And while it's an honor to be nominated, it'd be an even bigger honor to actually win (my birthday's coming up : ). Voting for MSDN and Visual Studio 2003 would be cool, too. Don't be shy! Vote! </summary>
+    <content type="html">&lt;h1>Get Out The Vote: .NET DJ Reader's Choice Awards&lt;/h1>
+It's time for the annual&amp;nbsp;&lt;A href="http://www.sys-con.com/dotnet/readerschoice2004/vote.cfm">.NET Developer's Journal Reader's Choice&lt;/A> awards. Even better, this year &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/chrissells/">Windows Forms Programming in C#&lt;/A> has been nominated (yea!). And while it's an honor to be nominated, it'd be an even bigger honor to actually win (my birthday's coming up : ). Voting for MSDN and Visual Studio 2003 would be cool, too. Don't be shy! &lt;A href="http://www.sys-con.com/dotnet/readerschoice2004/vote.cfm">Vote!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1662</id>
+    <title>The Reason For Code Access Security</title>
+    <updated>2005-01-19T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-01-19T08:00:00.000Z</published>
+    <summary>I had a question in my inbox the other day that went something like this: "Since programming within the partial trust sandbox I get by default when using ClickOnce is so hard, why wouldn't I just kick it up to FullTrust and let the user press the OK button?" You can do that. Since ClickOnce supports user management of permission awarding for code deployed via ClickOnce (aka there's a dialog that the user has to approve if the app wants more permissions than are the default), you could ask for FullTrust. If ...</summary>
+    <content type="html">&lt;h1>The Reason For Code Access Security&lt;/h1>
+&lt;P>I had a question in my inbox the other day that went something like this:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Since programming within the partial trust sandbox I get by default when using ClickOnce is so hard, why wouldn't I just kick it up to FullTrust and let the user press the OK button?"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>You can do that. Since ClickOnce supports user management of permission awarding for code deployed via ClickOnce (aka there's a dialog that the user has to approve if the app wants more permissions than are the default), you could ask for FullTrust.&lt;/P>
+&lt;P>If I were you, I wouldn't ask for FullTrust in my ClickOnce apps and not just because I don't want users to be freaked out by the dialog box I expect to see that says "Danger, Will Robinson, Danger, Danger!" Personally, I don't want the liability. If I write code the requires FullTrust, I have to write my code to take full responsibility for its actions, including if the code is hijacked by other code to do bad things.&lt;/P>
+&lt;P>On the other hand, if I request the minimal set of permissions that I need, I'm walking with a net. If I miss an exploit, I'm limited to doing bad things inside of the limited set of permissions that the user has awarded to me and not the whole darn thing.&lt;/P>
+&lt;P>Full trust isn't easier; it's much, much harder. I like partial trust because I'm lazy: I don't want to do the work to warrant the user's full trust.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1661</id>
+    <title>Let Slip The Dogs of War!</title>
+    <updated>2005-01-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-19T08:00:00.000Z</published>
+    <summary>Here. Ford McKinstry, PM on the Microsoft Indigo team, gives us a hint as to when the next preview release of the Indigo bits will be available : "We are planning a CTP release with Indigo soon after the VSLive event. But&amp;nbsp; it will not be available simultaneously with VSLive. We're moving on it as quickly </summary>
+    <content type="html">&lt;h1>Let Slip The Dogs of War!&lt;/h1>
+&lt;a href="http://groups-beta.google.com/group/microsoft.public.windows.developer.winfx.indigo/browse_frm/thread/1f0c7d10ce803035/04fb6472c297ed23?q=group:microsoft.public.windows.developer.winfx.*+vslive+indigo&amp;_done=%2Fgroups%3Fq%3Dgroup:microsoft.public.windows.d">Here&lt;/a>. &lt;P>Ford McKinstry, PM on the Microsoft Indigo team, gives us &lt;A href="http://groups-beta.google.com/group/microsoft.public.windows.developer.winfx.indigo/browse_frm/thread/1f0c7d10ce803035/04fb6472c297ed23?q=group:microsoft.public.windows.developer.winfx.*+vslive+indigo&amp;amp;_done=%2Fgroups%3Fq%3Dgroup:microsoft.public.windows.developer.winfx.*+vslive+indigo%26&amp;amp;_doneTitle=Back+to+Search&amp;amp;&amp;amp;d">a hint as to when the next preview release of the Indigo bits will be available&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"We are planning a CTP release with Indigo soon after the VSLive event. But&amp;nbsp; it will not be available simultaneously with VSLive. We're moving on it as quickly as we can and we appreciate your interest and patience. --Ford McKinstry, Indigo Program Manager"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;p>[via &lt;a href="http://cs.ferncrk.com/blogs/stuart/archive/2005/01/19/95.aspx">Stuart Celarier&lt;/a>]&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1663</id>
+    <title>Telling us we're Bad and Ugly is Good!</title>
+    <updated>2005-01-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-19T08:00:00.000Z</published>
+    <summary>Rod Paddock sat down to use Avalon in a real way and then kept notes. Some of those notes said good things about Avalon Some of them said not so good things. While we appreciate the good things, we need to hear about the bad things. And we appreciate it. Thanks, Rod! Keep it coming! </summary>
+    <content type="html">&lt;h1>Telling us we're Bad and Ugly is Good!&lt;/h1>
+&lt;P>Rod Paddock sat down to use Avalon in a real way and then kept &lt;A href="http://blogs.officezealot.com/rod/archive/2005/01/19/3906.aspx">notes&lt;/A>.&lt;/P>
+&lt;P>Some of those notes said good things about Avalon&lt;/P>
+&lt;P>Some of them said not so good things.&lt;/P>
+&lt;P>While we appreciate the good things, we &lt;EM>need&lt;/EM> to hear about the bad things. And &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2005/01/19/12155.aspx">we appreciate it&lt;/A>. Thanks, Rod!&lt;/P>
+&lt;P>Keep it coming!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1658</id>
+    <title>Email Throughput</title>
+    <updated>2005-01-17T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-01-17T08:00:00.000Z</published>
+    <summary>To get technical work done, I sometimes let my inbox fill up beyond what makes my comfortable. Today, that caught up with me, but I plowed into it and handled it like a man: Handled 206 incoming emails (filed, deleted or dealt with in some other way): Started with 47 emails in my inbox Received 177 emails Ended with 18 emails in my inbox Sent 92 outgoing emails I don't normally track such things, so I can't say if that's a lot or a little, but it sure seemed like a lot to me. &amp;lt;whew&amp;gt; </summary>
+    <content type="html">&lt;h1>Email Throughput&lt;/h1>
+&lt;P>To get technical work done, I sometimes let my inbox fill up beyond what makes my comfortable. Today, that caught up with me, but I plowed into it and handled it like a man:&lt;/P>
+&lt;UL>
+&lt;LI>Handled 206 incoming emails (filed, deleted or dealt with in some other way):&lt;/LI>
+&lt;UL>
+&lt;LI>Started with 47 emails in my inbox&lt;/LI>
+&lt;LI>Received 177 emails&lt;/LI>
+&lt;LI>Ended with 18 emails in my inbox&lt;/LI>&lt;/UL>
+&lt;LI>Sent 92 outgoing emails&lt;/LI>&lt;/UL>
+&lt;P>I don't normally track such things, so I can't say if that's a lot or a little, but it sure &lt;EM>seemed&lt;/EM> like a lot to me. &lt;EM>&amp;lt;whew&amp;gt;&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1656</id>
+    <title>MSDN Webcast: .NET Compact Framework 2.0</title>
+    <updated>2005-01-17T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-17T08:00:00.000Z</published>
+    <summary>Here. I just noticed this on the MSDN Webcast list. I'm hoping to attend myself! "The upcoming 2.0 release of.NET offers many new features and enhancements for the Microsoft.NET Compact Framework and also for the standard Microsoft.NET Framework and Microsoft Visual Studio IDE. In this presentation, Derek Ferguson, Editor-in-Chief of the.NET Developer's Journal, will provide a complete introduction to writing device-based applications using Compact Framework 2.0. Full coding demonstrations will be presented...</summary>
+    <content type="html">&lt;h1>MSDN Webcast: .NET Compact Framework 2.0&lt;/h1>
+&lt;a href="http://msevents.microsoft.com/CUI/WebCastEventDetails.aspx?EventID=1032266531&amp;Culture=en-US">Here&lt;/a>. &lt;P>I just noticed this on the MSDN Webcast list. I'm hoping to attend myself!&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The upcoming 2.0 release of .NET offers many new features and enhancements for the Microsoft .NET Compact Framework and also for the standard Microsoft .NET Framework and Microsoft Visual Studio IDE. In &lt;A href="http://msevents.microsoft.com/CUI/WebCastEventDetails.aspx?EventID=1032266531&amp;amp;Culture=en-US">this presentation&lt;/A>, Derek Ferguson, Editor-in-Chief of the .NET Developer's Journal, will provide a complete introduction to writing device-based applications using Compact Framework 2.0. Full coding demonstrations will be presented, so you are ready to catch the next wave in mobile .NET technology! Previous experience writing managed applications is assumed, but no specific experience with the Compact Framework is required."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1659</id>
+    <title>Formatting Web Content for Compact Devices</title>
+    <updated>2005-01-17T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-17T08:00:00.000Z</published>
+    <summary>I just noticed these two posts from Steve Makofsky &amp;nbsp;formatting web content for compact devices: Pocket IE dasBlog and.Text on Pocket IE Mostly, I'd listing these links for myself, as I've a hankering for some Smart Phone programming... </summary>
+    <content type="html">&lt;h1>Formatting Web Content for Compact Devices&lt;/h1>
+&lt;P>I just noticed these two posts from &lt;A href="http://www.furrygoat.com/">Steve Makofsky&lt;/A>&amp;nbsp;formatting web content for compact devices:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.furrygoat.com/2004/12/pocket_ie.html">Pocket IE&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.furrygoat.com/2005/01/dasblog_and_tex.html">dasBlog and .Text on Pocket IE&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Mostly, I'd listing these links for myself, as I've a hankering for some Smart Phone programming...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1657</id>
+    <title>MSDN Webcast: .NET Smart Client</title>
+    <updated>2005-01-17T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-17T08:00:00.000Z</published>
+    <summary>Here. If you're not sure what the heck a Smart Client is, Tim Huckaby explains it like no other: " This webcast defines the 'smart client' and explores the implications and opportunities for smart client application development. The session will focus heavily on high level demos of technologies like Windows Forms, Compact Framework, and Office System 2003 technologies. It will delve into the tips and tricks, positives and negatives when designing, developing and deploying.NET Smart Client applications..NET ...</summary>
+    <content type="html">&lt;h1>MSDN Webcast: .NET Smart Client&lt;/h1>
+&lt;a href="http://msevents.microsoft.com/CUI/WebCastEventDetails.aspx?EventID=1032265861&amp;Culture=en-US">Here&lt;/a>. &lt;P>If you're not sure what the heck a Smart Client is, Tim Huckaby explains it like no other:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;/EM>&lt;A href="http://msevents.microsoft.com/CUI/WebCastEventDetails.aspx?EventID=1032265861&amp;amp;Culture=en-US">&lt;EM>This webcast defines the 'smart client'&lt;/EM>&lt;/A>&lt;EM> and explores the implications and opportunities for smart client application development. The session will focus heavily on high level demos of technologies like Windows Forms, Compact Framework, and Office System 2003 technologies. It will delve into the tips and tricks, positives and negatives when designing, developing and deploying .NET Smart Client applications. .NET Smart Client Applications can run on many different types of devices and in many different scenarios. Join this webcast to learn when it's smartest to create rich or thin client applications and about how each type handles data and connectivity."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1655</id>
+    <title>Getting Started w/ the Public Avalon CTP for Newbies</title>
+    <updated>2005-01-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-16T08:00:00.000Z</published>
+    <summary>Samuel Wan has posted an excellent explanation of the various terms involved in the public pre-release of the Nov. 2004 Avalon CTP as well as a step-by-step install overview. Nicely done, Sam!</summary>
+    <content type="html">&lt;h1>Getting Started w/ the Public Avalon CTP for Newbies&lt;/h1>
+Samuel Wan has posted &lt;A href="http://www.samuelwan.com/information/archives/000226.html">an excellent explanation&lt;/A> of the various terms involved in &lt;A href="http://www.microsoft.com/downloads/details.aspx?familyid=C8F904E1-B4CA-402B-ACCF-AAA2BD60DA74">the public pre-release of the Nov. 2004 Avalon CTP&lt;/A> as well as a step-by-step install overview. Nicely done, Sam!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1654</id>
+    <title>Vote for Balloon Help in .NET 2.0</title>
+    <updated>2005-01-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-15T08:00:00.000Z</published>
+    <summary>I like exercising my democratic rights. : )</summary>
+    <content type="html">&lt;h1>Vote for Balloon Help in .NET 2.0&lt;/h1>
+I like &lt;A href="http://www.hanselman.com/blog/PermaLink,guid,77b99b55-c168-4581-871e-3caec282fcaa.aspx">exercising my democratic rights&lt;/A>. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1652</id>
+    <title>Nov. '04 Avalon CTP Available for Public Download</title>
+    <updated>2005-01-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-14T08:00:00.000Z</published>
+    <summary>By popular demand, the Avalon team has provided the November 2004 Avalon Community Technology Preview for the general public.&amp;nbsp;In addition, the team has provided a batch file to enable the Avalon project item templates for use in the beta of Visual Studio 2005 Express Edition, which is also freely available to the general public. This combination enables folks without an MSDN Subscription to try out Avalon with Visual Studio 2005 without an MSDN Subscription. Don't be shy about giving feedback on these ...</summary>
+    <content type="html">&lt;h1>Nov. '04 Avalon CTP Available for Public Download&lt;/h1>
+&lt;P>By popular demand, &lt;A href="http://www.microsoft.com/downloads/details.aspx?familyid=C8F904E1-B4CA-402B-ACCF-AAA2BD60DA74">the Avalon team has provided the November 2004 Avalon Community Technology Preview for the general public&lt;/A>.&amp;nbsp;In addition, the team has provided a batch file to enable the Avalon project item templates for use in the beta of Visual Studio 2005 Express Edition, which is also freely available to the general public.&lt;/P>
+&lt;P>This combination enables folks without an MSDN Subscription to try out Avalon with Visual Studio 2005 without an MSDN Subscription.&lt;/P>
+&lt;P>Don't be shy about giving feedback on these bits now that you've got 'em. The Avalon team is standing by in &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.avalon">the Avalon newsgroup&lt;/A> to answer your questions and take your suggestions.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1653</id>
+    <title>Request for Proposal: ClickOnce Application Series</title>
+    <updated>2005-01-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-14T08:00:00.000Z</published>
+    <summary>Do you have a series of simple yet compelling ClickOnce applications in you that you can build and deliver to show off the benefits of Windows Forms 2.0 smart clients? Do you have a track record of delivering top-quality code on time and on budget? If so, send me a proposal, listing a series of ClickOnce applications, your schedule and your price. You don't have to be a 3Leaf, a PluralSight, a Relevance LLC, a Wintellect&amp;nbsp;or a DevelopMentor (although I'd be happy to hear from those guys, too!). You just...</summary>
+    <content type="html">&lt;h1>Request for Proposal: ClickOnce Application Series&lt;/h1>
+&lt;P>Do you have a series of simple yet compelling ClickOnce applications in you that you can build and deliver to show off the benefits of Windows Forms 2.0 smart clients? Do you have a track record of delivering top-quality code on time and on budget?&lt;/P>
+&lt;P>If so, &lt;A href="mailto:csells@microsoft.com">send me a proposal&lt;/A>, listing a series of ClickOnce applications, your schedule and your price. You don't have to be a 3Leaf, a PluralSight, a Relevance LLC, a Wintellect&amp;nbsp;or a DevelopMentor (although I'd be happy to hear from those guys, too!). You just have to have a song in your heart, a snap in your step and a story to tell.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1649</id>
+    <title>Microsoft Plans Information Bridge Update</title>
+    <updated>2005-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-13T08:00:00.000Z</published>
+    <summary>Here. " Microsoft is working on an update to its Information Bridge Framework (IBF) for this spring, a company spokeswoman confirmed Tuesday. What had been referred to as IBF 1.5 by partner sources will actually be a service pack for the integration software. The update, to be delivered via MSDN, will add support for two new host applications, InfoPath and Internet Explorer. The current IBF supports Word 2003, Excel 2003, and Outlook 2003."</summary>
+    <content type="html">&lt;h1>Microsoft Plans Information Bridge Update&lt;/h1>
+&lt;a href="http://www.informationweek.com/story/showArticle.jhtml?articleID=57700954&amp;tid=5979">Here&lt;/a>. "&lt;A href="http://www.informationweek.com/story/showArticle.jhtml?articleID=57700954&amp;amp;tid=5979">Microsoft is working on an update to its Information Bridge Framework (IBF) for this spring&lt;/A>, a company spokeswoman confirmed Tuesday. What had been referred to as IBF 1.5 by partner sources will actually be a service pack for the integration software. The update, to be delivered via MSDN, will add support for two new host applications, InfoPath and Internet Explorer. The current IBF supports Word 2003, Excel 2003, and Outlook 2003."</content>
+  </entry>
+</feed>

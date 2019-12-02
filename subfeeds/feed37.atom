@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed37.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed36.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed38.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed37.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1884</id>
+    <title>@ MS, We Share Your Pain</title>
+    <updated>2005-10-21T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-21T07:00:00.000Z</published>
+    <summary>Check out the new feature in Vista that allows MS developers to feel your pain when a crash occurs in a very real way.</summary>
+    <content type="html">&lt;h1>@ MS, We Share Your Pain&lt;/h1>
+Check out the &lt;A href="http://www.activewin.com/awin/comments.asp?HeadlineIndex=32022">new feature in Vista that allows MS developers to feel your pain&lt;/A> when a crash occurs in a very real way.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1885</id>
+    <title>I'm starting to speak in numbers</title>
+    <updated>2005-10-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-21T07:00:00.000Z</published>
+    <summary>Someone posted an URL to a mailing list I'm on. My response to his post was "404." I bet you know what I meant w/o thinking about it. He knew and responded as if I'd written in English. This reminds me of the old joke about the guys that'd be around each other so long, they replaced back the same&amp;nbsp;old jokes with numbers and make each other laugh. It's a funny old world.</summary>
+    <content type="html">&lt;h1>I'm starting to speak in numbers&lt;/h1>
+Someone posted an URL to a mailing list I'm on. My response to his post was "404." I bet you know what I meant w/o thinking about it. He knew and responded as if I'd written in English. This reminds me of the old joke about the guys that'd be around each other so long, they replaced back the same&amp;nbsp;old jokes with numbers and make each other laugh. It's a funny old world.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1883</id>
+    <title>I'm the "with" @ the Redmond P&amp;P Summit</title>
+    <updated>2005-10-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-20T07:00:00.000Z</published>
+    <summary>Sure, sure, Alan Cooper and Anders Hejlsberg are keynoting, but I'm the "with" at this year's Redmond, WA Patterns &amp;amp; Practices Summit 12/13 - 12/15. I don't yet know what that means, but maybe if I'm enough "with it" in Redmond, it'll lead to "with-ness" in Sydney or Oslo (hint, hint... : ). </summary>
+    <content type="html">&lt;h1>I'm the "with" @ the Redmond P&amp;P Summit&lt;/h1>
+&lt;P>Sure, sure, Alan Cooper and Anders Hejlsberg are keynoting, but I'm the "with" at &lt;A href="http://www.pnpsummit.com/">this year's Redmond, WA Patterns &amp;amp; Practices Summit 12/13 - 12/15&lt;/A>. I don't yet know what that means, but maybe if I'm enough "with it" in Redmond, it'll lead to "with-ness" in Sydney or Oslo (hint, hint... : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12341</id>
+    <title>Top 10 List of Top 10 Lists</title>
+    <updated>2005-10-20T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-20T07:00:00.000Z</published>
+    <summary>I decided to go a little meta for this year's XML DevCon: 10. Top 10 List of Top 10 List of Top 10 List Ideas (a little too meta) 9. Top 10 Reasons that XAML Uses XML (Couldnt figure out a good representation of gradients in EDI) 8. Top 10 Secrets of the CLR (Boxing was almost called Richtering) 7. Top 10 Members of the XML Community Least Likely To Fit In At Burning Man (I don't want to see Doug Purdy showing up at the ice tent in his thong...) 6. Top 10 Members of the XML Community Most Likely To Fit In A...</summary>
+    <content type="html">&lt;h1>Top 10 List of Top 10 Lists&lt;/h1>
+&lt;p>I decided to go a little meta for this year's XML DevCon:&lt;/p>
+&lt;p>10. Top 10 List of Top 10 List of Top 10 List Ideas (a little too meta)&lt;/p>
+&lt;p>9. Top 10 Reasons that XAML Uses XML (Couldnt figure out a good 
+representation of gradients in EDI)&lt;/p>
+&lt;p>8. Top 10 Secrets of the CLR (Boxing was almost called Richtering)&lt;/p>
+&lt;p>7. Top 10 Members of the XML Community Least Likely To Fit In At Burning Man 
+(I don't want to see Doug Purdy showing up at the ice tent in his thong...)&lt;/p>
+&lt;p>6. Top 10 Members of the XML Community Most Likely To Fit In At Burning Man 
+(Wasnt Rory born at Burning Man?)&lt;br>
+&lt;br>
+5. Top 10 Similarities Between Team America Characters and XML Community Members 
+(XML: Heck yeah!)&lt;/p>
+&lt;p>4. Top 10 Reasons That Raw XML Programmers Exhibit More Animal Magnetism 
+Than, Well, Anyone Else (Tim Ewald is really all the evidence we need...)&lt;br>
+&lt;br>
+3. Top 10 New Enterprise Features in Visual Studio Orcas (Clippy: It looks like 
+youre designing an insurance agency schema. Can I help you with that?)&lt;/p>
+&lt;p>2. Top 10 Reasons Democrats Are More Likely To Be XML Programmers Than 
+Republicans (89% of the angle brackets should not go to the top 1% of 
+programmers!)&lt;/p>
+&lt;p>1. Top 10 Reasons That The Red Sox Are Going To Kick Butt! (Just pandering to 
+the crowd...)&lt;/p>
+&lt;p>&lt;i>Chris Sells (with help from Scott Hanselman, Tim Ewald, Matt Powell and 
+Scott Bloom)&lt;br>
+Applied XML Developer's Conference&lt;br>
+Friday, &lt;span class="created">October 20th, 2005&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1882</id>
+    <title>Retaking the holy land</title>
+    <updated>2005-10-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-18T07:00:00.000Z</published>
+    <summary>I just found the most awesome site: http://grouphug.us. So far, this is my favorite.</summary>
+    <content type="html">&lt;h1>Retaking the holy land&lt;/h1>
+I just found the most awesome site: &lt;A href="http://grouphug.us">http://grouphug.us&lt;/A>. So far, &lt;A href="http://grouphug.us/confessions/643541420">this is my favorite&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1881</id>
+    <title>Web Services and Data Binding?</title>
+    <updated>2005-10-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-17T07:00:00.000Z</published>
+    <summary>What does it mean to bind to a web service? It's not hard to think of taking the result of a web service and binding it as input to some set of controls, but what about changes to that data? Should data from web services be read-only, requiring an explicit call to add, remove or update or should their be some standard WS-CRUD standard? What do you nice folks do?</summary>
+    <content type="html">&lt;h1>Web Services and Data Binding?&lt;/h1>
+What does it mean to bind to a web service? It's not hard to think of taking the result of a web service and binding it as input to some set of controls, but what about changes to that data? Should data from web services be read-only, requiring an explicit call to add, remove or update or should their be some standard WS-CRUD standard? What do you nice folks do?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1880</id>
+    <title>More Workflow Communications Spelunking</title>
+    <updated>2005-10-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-16T07:00:00.000Z</published>
+    <summary>Here. The one where I take Dennis's suggestion, try wca.exe with my workflow communications problems, and discover as many more problems as I solve.</summary>
+    <content type="html">&lt;h1>More Workflow Communications Spelunking&lt;/h1>
+&lt;a href="/12465">Here&lt;/a>. The one where I take Dennis's suggestion, &lt;a href="/12465">try wca.exe with my workflow communications problems&lt;/A>, and discover as many more problems as I solve.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12465</id>
+    <title>More Workflow Communciation Spelunking</title>
+    <updated>2005-10-16T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/wf2.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-16T07:00:00.000Z</published>
+    <summary>After complaining about the inability to bind directly to event inputs, Dennis suggested I try the Workflow Communications Activity generator utility (wca.exe). If you point it at an assembly that contains interfaces decorated with the DataExchangeService attribute, it will generate typed invoke method and event sink activities for each method and event in the interface. To support this, I moved the communication interface, IOrderService, and types the interface depends on, i.e. Order and OrderEventArgs, to...</summary>
+    <content type="html">&lt;h1>More Workflow Communciation Spelunking&lt;/h1>
+&lt;p align="left">After &lt;a href="#Workflow_Communication_Spelunking">complaining about the inability to bind directly to event inputs&lt;/a>, Dennis suggested I try the Workflow Communications Activity generator utility (wca.exe). If you point it at an assembly that contains interfaces decorated with the DataExchangeService attribute, it will generate typed invoke method and event sink activities for each method and event in the interface. To support this, I moved the communication interface, IOrderService, and types the interface depends on, i.e. Order and OrderEventArgs, to a separate library project and added the following post-build step:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;quot;C:\Program Files\Microsoft SDks\Windows Workflow Foundation\wca.exe&amp;quot;
+  &amp;quot;$(TargetPath)&amp;quot; /o:&amp;quot;$(SolutionDir)\EventSinkAndMethodInvoke2&amp;quot;&lt;/pre>&lt;/div>&lt;p align="left">The reason I added this as a post-build step in the library project instead of as a pre-build stuff in the actual wf app, is because I want to have the types to program against whenever the library changes. However, either way, to get the new activities to show up on the toolbar, you have to build the application. Once I'd done that, I updated my workflow using the typed activities:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/wf2.jpg" width="203" height="440">&lt;/p>&lt;p align="left">Unfortunately, just as I was capturing that screenshot, the Workflow Designer couldn't find the activities, so it dropped them from my workflow without so much as a &amp;quot;by your leave,&amp;quot; reminding me where much of the early WinForms Designer.&lt;/p>&lt;p align="left">However, two nice things result from these generated types. The first is that my design-time experience, either in the designer or in the XOML, is improved because I don't have to do a bunch of parameter binding:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;lt;SequentialWorkflow
+  x:Class=&amp;quot;EventSinkAndMethodInvoke2.Workflow2&amp;quot;
+  x:CompileWith=&amp;quot;Workflow2.xoml.cs&amp;quot;
+  ID=&amp;quot;Workflow2&amp;quot;
+  xmlns:x=&amp;quot;Definition&amp;quot;
+  xmlns=&amp;quot;Activities&amp;quot;&amp;gt;
+
+  &amp;lt;ns0:&lt;b>CreateOrder&lt;/b>
+customer=&amp;quot;Fabrikam&amp;quot;
+    orderDescription=&amp;quot;42&amp;amp;quot; Plasma TV&amp;quot;
+    ID=&amp;quot;createOrder1&amp;quot;
+    MethodName=&amp;quot;CreateOrder&amp;quot;
+    InterfaceType=&amp;quot;EventSinkAndMethodInvoke2.IOrderService&amp;quot;
+    xmlns:ns0=&amp;quot;IOrderService_Operations&amp;quot; /&amp;gt;
+
+  &amp;lt;ns1:&lt;b>OrderApproved&lt;/b>
+ID=&amp;quot;orderApproved1&amp;quot;
+    EventName=&amp;quot;OrderApproved&amp;quot;
+    InterfaceType=&amp;quot;EventSinkAndMethodInvoke2.IOrderService&amp;quot;
+    xmlns:ns1=&amp;quot;IOrderService_Events&amp;quot; /&amp;gt;
+
+  &amp;lt;&lt;b>Code&lt;/b> ExecuteCode=&amp;quot;code1_ExecuteCode&amp;quot; ID=&amp;quot;code1&amp;quot; /&amp;gt;
+
+  &amp;lt;&lt;b>Terminate&lt;/b>
+&lt;b>Error=&amp;quot;*d2p1:ActivityBind(ID={orderApproved1};Path=Comment)&amp;quot;&lt;/b>
+ID=&amp;quot;terminate1&amp;quot;
+    xmlns:d2p1=&amp;quot;ComponentModel&amp;quot; /&amp;gt;
+
+&amp;lt;/SequentialWorkflow&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">The other nice thing is that, because the typed event sink has properties that directly expose the event arguments, i.e. Comment and Order, instead of just via parameter bindings, I can bind to them in the b1 build of WF. This reduces my coupling, because the terminate activity doesn't know where it's getting it's input, and it takes away that &amp;quot;global variable&amp;quot; feel I had when I was binding parameters in and out of fields on the workflow itself. If I want to access the event sink's typed properties directly, I can do so, as shown in the code activity's handler:&lt;/p>&lt;div align="left">
+&lt;pre>public partial class Workflow2 : SequentialWorkflow {
+  void code1_ExecuteCode(object sender, EventArgs e) {
+    Console.WriteLine(&amp;quot;Order: approved w/ comment= {0}&amp;quot;, &lt;b>orderApproved1.Comment&lt;/b>);
+  }
+}&lt;/pre>&lt;/div>&lt;p align="left">I really like that typed activities are generated for me based on my data exchange service interfaces, but it's still a manual, multi-stage process today. I'd prefer that it happened automatically, like typed resources and settings in VS05. If that can't happen, I'd prefer to be able to bind directly to the parameter binding list that the generic event sink activity already knows about. At least that way, if there's a problem, my workflow doesn't get destroyed because of it.&lt;/p>&lt;p align="left">The updated VS05b2, WF/WinFXb1 sample code is available &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2typed.zip">for your enjoyment&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1878</id>
+    <title>Quote of the day</title>
+    <updated>2005-10-14T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-14T07:00:00.000Z</published>
+    <summary>"More and more people I know know more and more people I know." --Melissa Sells </summary>
+    <content type="html">&lt;h1>Quote of the day&lt;/h1>
+&lt;P>&lt;EM>"More and more people I know know more and more people I know." --Melissa Sells&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12466</id>
+    <title>Workflow Communication Spelunking</title>
+    <updated>2005-10-14T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/wf.1.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-14T07:00:00.000Z</published>
+    <summary>I just an interesting week taking a crash course in Windows Workflow Foundation (formerly WWF, not just WF) programming. My big hang-up was, how do I communicate into, out of and between activities? I started with Dennis's explanation of communications into and out of a workflow. The fundamental idea is that, once a workflow has started, you can't talk to it directly. Instead, you set up a communications interface that the workflow can use to talk to the host and that the workflow can use to watch for event...</summary>
+    <content type="html">&lt;h1>Workflow Communication Spelunking&lt;/h1>
+&lt;p align="left">I just an interesting week taking a crash course in Windows Workflow Foundation (formerly WWF, not just WF) programming. My big hang-up was, how do I communicate into, out of and between activities?&lt;/p>&lt;p align="left">I started with &lt;a href="http://www.dennispi.com/#112803113054978800">Dennis's explanation of communications into and out of a workflow&lt;/a>. The fundamental idea is that, once a workflow has started, you can't talk to it directly. Instead, you set up a communications interface that the workflow can use to talk to the host and that the workflow can use to watch for events from the host, e.g.&lt;/p>&lt;div align="left">
+&lt;pre>&lt;b>[DataExchangeService]
+&lt;/b>public interface IOrderService {
+  void CreateOrder(string customer, string orderDescription);
+  event EventHandler&amp;lt;OrderEventArgs&amp;gt; OrderApproved;
+}&lt;/pre>&lt;/div>&lt;p align="left">The interface is marked with the DataExchangeServer attribute to mark it as an interface suitable for host&amp;lt;-&amp;gt;workflow communication, but other than that, it's a normal .NET interface. The&lt;i> host, &lt;/i>i.e. the chunk of code that creates the WF runtime, implements data exchange service interfaces as singletons, e.g.&lt;/p>&lt;div align="left">
+&lt;pre>class OrderServiceImpl : &lt;b>IOrderService&lt;/b> {
+  Dictionary&amp;lt;Guid, Order&amp;gt; _workflowOrderMap = new Dictionary&amp;lt;Guid, Order&amp;gt;();
+
+  public void CreateOrder(string customer, string desc) {
+    _workflowOrderMap.Add(&lt;b>BatchEnvironment.CurrentInstanceId&lt;/b>, new Order(customer, desc));
+  }
+
+  public void ApproveOrder(WorkflowInstance wf, string comment) {
+    if (OrderApproved != null) {
+      Guid wfId = wf.InstanceId;
+      OrderApproved(null, new OrderEventArgs(wfId, _workflowOrderMap[wfId], comment));
+    }
+  }
+
+  public event EventHandler&amp;lt;OrderEventArgs&amp;gt; OrderApproved;
+}&lt;/pre>&lt;/div>&lt;p align="left">With this implementation, the host is allowing the workflow to call the CreateOrder method (which we'll see it do later) and to subscribe to the OrderApproved event. The CreateOrder method uses its arguments to create an Order object and associate it with the ID of the currently executing workflow (available via BatchEnvironment.CurrentInstanceId). Remember, the service implementation is a singleton, but any number of workflows can call it, so when they do, we track information on a per workflow basis.&lt;/p>&lt;p align="left">&lt;b>&lt;i>WF Question #1: How do I associate objects directly w/ a running workflow instead of tracking things in dictionaries?&lt;/i>&lt;/b>&lt;/p>&lt;p align="left">The OrderApproved event is used to get information into the workflow.&lt;/p>&lt;p align="left">In our scenario, imagine we're creating an order, approving it (w/ a comment) and logging the result. In my sample, I have a workflow imaginatively named &amp;quot;Workflow2&amp;quot; which captures this sequence:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/wf.1.jpg" width="171" height="436">&lt;/p>&lt;p align="left">The invoke method activity is bound to the CreateOrder method of the IOrderMethod method:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;lt;&lt;b>InvokeMethodActivity&lt;/b>
+ID=&amp;quot;invokeMethodActivity1&amp;quot;
+&lt;b>  MethodName=&amp;quot;CreateOrder&amp;quot;
+  InterfaceType=&amp;quot;EventSinkAndMethodInvoke2.IOrderService&amp;quot;&lt;/b>&amp;gt;
+  &amp;lt;InvokeMethodActivity.ParameterBindings&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;customer&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      &amp;lt;wcm:ParameterBinding.Value&amp;gt;
+        &amp;lt;?Mapping XmlNamespace=&amp;quot;System&amp;quot; ClrNamespace=&amp;quot;System&amp;quot; Assembly=&amp;quot;mscorlib&amp;quot; ?&amp;gt;
+        &amp;lt;ns0:String xmlns:ns0=&amp;quot;System&amp;quot;&amp;gt;&lt;b>Fabrikam&lt;/b>&amp;lt;/ns0:String&amp;gt;
+      &amp;lt;/wcm:ParameterBinding.Value&amp;gt;
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;orderDescription&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      &amp;lt;wcm:ParameterBinding.Value&amp;gt;
+        &amp;lt;?Mapping XmlNamespace=&amp;quot;System&amp;quot; ClrNamespace=&amp;quot;System&amp;quot; Assembly=&amp;quot;mscorlib&amp;quot; ?&amp;gt;
+        &amp;lt;ns0:String xmlns:ns0=&amp;quot;System&amp;quot;&amp;gt;&lt;b>42&amp;quot; Plasma TV&lt;/b>&amp;lt;/ns0:String&amp;gt;
+      &amp;lt;/wcm:ParameterBinding.Value&amp;gt;
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+  &amp;lt;/InvokeMethodActivity.ParameterBindings&amp;gt;
+&amp;lt;/InvokeMethodActivity&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">In this case, we're hard-coding the custom and order description fields, but in a real workflow, you'd take those as input parameters.&lt;/p>&lt;p align="left">&lt;i>&lt;b>WF Question #2: How do you pass input parameters into a workflow?&lt;/b>&lt;/i>&lt;/p>&lt;p align="left">&lt;i>&lt;b>WF Question #3: Is it legal XML to have a processing instruction in the middle of a file, e.g. &amp;lt;?Mapping...?&amp;gt;?&lt;/b>&lt;/i>&lt;/p>&lt;p align="left">After the workflow creates the order, it waits for a human to approve it via an event sink activity:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;lt;&lt;b>EventSinkActivity&lt;/b>
+ID=&amp;quot;eventSinkActivity1&amp;quot;
+&lt;b>  EventName=&amp;quot;OrderApproved&amp;quot;
+  InterfaceType=&amp;quot;EventSinkAndMethodInvoke2.IOrderService&amp;quot;&lt;/b>&amp;gt;
+  &amp;lt;EventSinkActivity.ParameterBindings&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;Comment&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      ...
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;Order&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      ...
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+  &amp;lt;/EventSinkActivity.ParameterBindings&amp;gt;
+&amp;lt;/EventSinkActivity&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">The event sink waits for the host to fire an event, which has several interesting bits. The first interesting bit is the parameter names, which are bound to the public properties of the OrderEventArgs class passed to the OrderEvent event:&lt;/p>&lt;div align="left">
+&lt;pre>&lt;b>[Serializable]
+&lt;/b>public class OrderEventArgs &lt;b>: WorkflowMessageEventArgs&lt;/b> {
+  Order _order;
+  public Order &lt;b>Order&lt;/b> { get { return _order; } }
+
+  string _comment;
+  public string &lt;b>Comment&lt;/b> { get { return _comment; } }
+
+  public OrderEventArgs(&lt;b>Guid workflowInstanceId, &lt;/b>Order order, string comment)
+&lt;b>: base(workflowInstanceId)&lt;/b> {
+    _order = order;
+    _comment = comment;
+  }
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">Notice that the custom OrderEventArgs class derives from the WorkflowMessageEventArgs class and passes in the workflow instance ID. This is required so that the event can be routed to the appropriate workflow. Without it, you'll get the following illuminating error in beta 1:&lt;/div>&lt;div align="left">&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;An unhandled exception of type 'System.Workflow.Runtime.EventDeliveryFailedException' occurred System.Workflow.Runtime.dll&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;/div>&lt;div align="left">&lt;p align="left">&lt;i>&lt;b>WF Question #4: Can we get more descriptive exception messages?&lt;/b>&lt;/i>&lt;/div>&lt;div align="left">&lt;p align="left">Luckily, this error only happens when you're running under the debugger; it's swallowed completely when your program runs normally.&lt;/div>&lt;div align="left">&lt;p align="left">&lt;i>&lt;b>WF Question #5: Can we get exceptions at runtime, too?&lt;/b>&lt;/i>&lt;/div>&lt;div align="left">&lt;p align="left">Notice also that the OrderEventArgs class is marked with the Serializable attribute. This is required to cross the boundary into the workflow. Without it, you'll get the ever helpful EventDeliveryFailedException exception.&lt;/div>&lt;div align="left">&lt;p align="left">&lt;b>&lt;i>WF Question #6: What boundary are we crossing when fire an event into a workflow?&lt;/i>&lt;/b>&lt;/div>&lt;div align="left">&lt;p align="left">Further, all objects sent into a workflow need to be serializable as well, like the Order class (also yielding EventDeliveryFailedException if you forget):&lt;/div>&lt;div align="left">
+&lt;pre>&lt;b>[Serializable]
+&lt;/b>public class Order {
+  Guid _orderId = Guid.NewGuid();
+  public Guid OrderId { get { return _orderId; } }
+
+  string _customer;
+  public string Customer {
+    get { return _customer; }
+    set { _customer = value; }
+  }
+
+  string _desc;
+  public string Description {
+    get { return _desc; }
+    set { _desc = value; }
+  }
+
+  public Order(string customer, string desc) {
+    _customer = customer;
+    _desc = desc;
+  }
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">Firing the event is as easy as calling our helper function from outside of our workflow to cross the boundary into the workflow:&lt;/div>&lt;div align="left">&lt;div align="left">
+&lt;pre>class OrderServiceImpl : &lt;b>IOrderService&lt;/b> {
+  ...
+  public void ApproveOrder(WorkflowInstance wf, string comment) {
+    if (OrderApproved != null) {
+      Guid wfId = wf.InstanceId;
+&lt;b>      OrderApproved(null, new OrderEventArgs(wfId, _workflowOrderMap[wfId], comment));
+&lt;/b>    }
+  }
+
+&lt;b>  public event EventHandler&amp;lt;OrderEventArgs&amp;gt; OrderApproved;
+&lt;/b>}&lt;/pre>&lt;/div>&lt;p align="left">Notice that we need the workflow instance ID, which we pass in via the WorkflowInstance we get when starting the workflow:&lt;/p>&lt;div align="left">
+&lt;pre>static void Main() {
+  WorkflowRuntime workflowRuntime = new WorkflowRuntime();
+
+  // Add IOrderService implementation
+  OrderServiceImpl orderService = new OrderServiceImpl();
+  workflowRuntime.AddService(orderService);
+
+  workflowRuntime.StartRuntime();
+  workflowRuntime.WorkflowCompleted += OnWorkflowCompleted;
+
+  Type type = typeof(EventSinkAndMethodInvoke2.Workflow2);
+&lt;b>  WorkflowInstance wf = workflowRuntime.StartWorkflow(type);
+&lt;/b>
+&lt;b>  // Simulate human decision time and approve the order
+  System.Threading.Thread.Sleep(1000);
+  orderService.ApproveOrder(wf, &amp;quot;this is a *fine* order!&amp;quot;);
+&lt;/b>
+waitHandle.WaitOne();
+  workflowRuntime.StopRuntime();
+}&lt;/pre>&lt;/div>&lt;/div>&lt;div align="left">&lt;p align="left">Once the event data is fired into the event, the event sink's parameter binding provide enough infrastructure to be able to access the data in subsequent activities, e.g. the code activity that comes right after the event activity:&lt;/div>&lt;div align="left">
+&lt;pre>&amp;lt;&lt;b>Code ExecuteCode=&amp;quot;code1_ExecuteCode&amp;quot;&lt;/b> ID=&amp;quot;code1&amp;quot; /&amp;gt;&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">In the code1_ExecuteCode method, my code can reach over to the event sink activity's parameter bindings and access the data that was fired into it:&lt;/div>&lt;div align="left">
+&lt;pre>public partial class Workflow2 : SequentialWorkflow {
+  void code1_ExecuteCode(object sender, EventArgs e) {
+    Console.WriteLine(&amp;quot;Order: approved w/ comment= {0}&amp;quot;,&lt;b>
+eventSinkActivity1.ParameterBindings[&amp;quot;Comment&amp;quot;].Value&lt;/b>);
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">There are three reasons I really don't like this code. The first is that I have to cast to get something typed out of the Value property and I don't like casting. The second reason is that this technique only works through code; I can't bind to a parameter from an event sink to a property on another activity, e.g. the Error property on a Termination activity. The third, and most damning reason, is because this induces coupling from my code activity to my event sink activity. I don't want this coupling to be captured in code, which is another reason to really like the declarative data binding solution.&lt;/div>&lt;div align="left">&lt;p align="left">&lt;i>&lt;b>WF Question #7: Why can't I bind event sink parameters as input into other activities?&lt;/b>&lt;/i>&lt;/div>&lt;div align="left">&lt;p align="left">Unfortunately, while I can't solve reasons #2 or #3 very well, I can solve them partially and I can solve #1 nicely by adding some fields to my workflow class:&lt;/div>&lt;div align="left">
+&lt;pre>public partial class Workflow2 : SequentialWorkflow {
+&lt;b>  Order _approvedOrder;
+  string _approvalComment;
+&lt;/b>
+void code1_ExecuteCode(object sender, EventArgs e) {
+    Console.WriteLine(&amp;quot;Order: approved w/ comment= {0}&amp;quot;, &lt;b>_approvalComment&lt;/b>);
+  }
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">The _approvedOrder and _approvalComment fields can be bound to the event sink parameters like so:&lt;/div>&lt;div align="left">
+&lt;pre>&amp;lt;&lt;b>EventSinkActivity&lt;/b>
+ID=&amp;quot;eventSinkActivity1&amp;quot;
+  EventName=&amp;quot;OrderApproved&amp;quot;
+  InterfaceType=&amp;quot;EventSinkAndMethodInvoke2.IOrderService&amp;quot;&amp;gt;
+  &amp;lt;EventSinkActivity.ParameterBindings&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;Comment&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      &amp;lt;wcm:ParameterBinding.Value&amp;gt;
+        &amp;lt;wcm:ActivityBind &lt;b>Path=&amp;quot;_approvalComment&amp;quot; ID=&amp;quot;{/Workflow}&amp;quot;&lt;/b> /&amp;gt;
+      &amp;lt;/wcm:ParameterBinding.Value&amp;gt;
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+    &amp;lt;wcm:ParameterBinding &lt;b>ParameterName=&amp;quot;Order&amp;quot;&lt;/b> xmlns:wcm=&amp;quot;ComponentModel&amp;quot;&amp;gt;
+      &amp;lt;wcm:ParameterBinding.Value&amp;gt;
+        &amp;lt;wcm:ActivityBind &lt;b>Path=&amp;quot;_approvedOrder&amp;quot; ID=&amp;quot;{/Workflow}&amp;quot;&lt;/b> /&amp;gt;
+      &amp;lt;/wcm:ParameterBinding.Value&amp;gt;
+    &amp;lt;/wcm:ParameterBinding&amp;gt;
+  &amp;lt;/EventSinkActivity.ParameterBindings&amp;gt;
+&amp;lt;/EventSinkActivity&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">Now, when the event sink activity fires, these two workflow fields are populated so that by the time the code activity is executed, they're ready for use, all typed up and ready to go. However, while this reduces coupling to some degree, i.e. the code activity just hopes that somebody provides the data and not that is has to be a specific activity, this is not the same as failing to execute an activity until you have valid values to pass to a function. Instead, it's like setting global variables, hoping they're set properly when the code that accesses them needs them and having no idea what's affected if you have to remove them.&lt;/p>&lt;p align="left">Still, with the parameter binding in place between the event sink parameters and the workplace class fields, I can bind the input to an activity:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;lt;Terminate
+&lt;b>Error=&amp;quot;*d2p1:ActivityBind(ID={/Workflow};Path=_approvalComment)&amp;quot;&lt;/b> ID=&amp;quot;terminate1&amp;quot;
+  xmlns:d2p1=&amp;quot;ComponentModel&amp;quot; /&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">Clearly, this is binding syntax only a mother could love, but luckily the designer did it for me, it's going to change in the next beta and it does most of what I want, i.e. bind the input of the Error property on the Terminate activity to something produced by another activity. It's not the same as binding the event sink activity parameters directly, thereby allowing me to shed this dirty global variable feeling, but it's oh so close.&lt;/p>&lt;p align="left">The VS05b2, WF/WinFXb1 sample code is available &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2.zip">for your enjoyment&lt;/a>.&lt;/p>&lt;p align="left">Props to Dennis Pilarinos and Anandhi Somasekaran from the WF group for help figuring this out.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1879</id>
+    <title>Workflow Communication Spelunking</title>
+    <updated>2005-10-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-14T07:00:00.000Z</published>
+    <summary>Here. The one where I figure out how to communicate into, out of and between WF activities, but not in a satisfying way.</summary>
+    <content type="html">&lt;h1>Workflow Communication Spelunking&lt;/h1>
+&lt;a href="/12466">Here&lt;/a>. The one where I figure out &lt;a href="/12466">how to communicate into, out of and between WF activities&lt;/A>, but not in a satisfying way.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1877</id>
+    <title>His Outsourced Life</title>
+    <updated>2005-10-13T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-13T07:00:00.000Z</published>
+    <summary>Here. An Esquire magazine author hires not one but two Indian assistants and outsources practically everything but watching TV to them. By the end of the article, he's outsourced writing the article. I don't know if it's true, but it is funny (and scary). </summary>
+    <content type="html">&lt;h1>His Outsourced Life&lt;/h1>
+&lt;a href="http://www.smartmoney.com/esquire/index.cfm?Story=20050909-outsource&amp;pgnum=1">Here&lt;/a>. &lt;P>&lt;A href="http://www.smartmoney.com/esquire/index.cfm?Story=20050909-outsource&amp;amp;pgnum=1">An Esquire magazine author hires not one but two Indian assistants and outsources practically everything but watching TV to them&lt;/A>. By the end of the article, he's outsourced writing the article. I don't know if it's true, but it is funny (and scary).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1876</id>
+    <title>How is "workflow" different from "visual programming?"</title>
+    <updated>2005-10-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-10-13T07:00:00.000Z</published>
+    <summary>Is there something intrinsic about "workflow" that needs to be surfaced to folks or would any visual programming language do? I'm not finding any commercial products in my web searches, but I know that there have been some "integrated component"-style programming languages where you lay flow and logic out from a set of components on a toolbox. Is Windows Workflow Foundation one of those that MS just happens to be doing or is there something important about "workflow" that interests folks?</summary>
+    <content type="html">&lt;h1>How is "workflow" different from "visual programming?"&lt;/h1>
+Is there something intrinsic about "workflow" that needs to be surfaced to folks or would any visual programming language do? I'm not finding any commercial products in my web searches, but I know that there have been some "integrated component"-style programming languages where you lay flow and logic out from a set of components on a toolbox. Is Windows Workflow Foundation one of those that MS just happens to be doing or is there something important about "workflow" that interests folks?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1875</id>
+    <title>What interests you about Windows Workflow Foundation?</title>
+    <updated>2005-10-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-10-11T07:00:00.000Z</published>
+    <summary>The PDC was a buzz with folks praising WWF. Please tell me a) what you think is cool about WWF and b) how it will improve your life or the lives of your colleagues or customers. Thanks!</summary>
+    <content type="html">&lt;h1>What interests you about Windows Workflow Foundation?&lt;/h1>
+The PDC was a buzz with folks praising WWF. Please tell me a) what you think is cool about WWF and b) how it will improve your life or the lives of your colleagues or customers. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1874</id>
+    <title>It's a Windows Life</title>
+    <updated>2005-10-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-10T07:00:00.000Z</published>
+    <summary>A story about how the world would be if MS never existed. I come from a world where I had a Mac at home and a Unix box at work, giving me the best of both worlds in the late '80s. After that, I got a job at Intel programming Windows 3.1 and wondered why the hell this piece o' crap ran most of the world. 15 years later, I'm a happy Windows user and programmer. Did I change or did Windows? </summary>
+    <content type="html">&lt;h1>It's a Windows Life&lt;/h1>
+&lt;P>A story about &lt;A href="http://www.extremerfid.com/article/If+Microsoft+Never+Existed/162101_1.aspx">how the world would be if MS never existed&lt;/A>.&lt;/P>
+&lt;P>I come from a world where I had a Mac at home and a Unix box at work, giving me the best of both worlds in the late '80s. After that, I got a job at Intel programming Windows 3.1 and wondered why the hell this piece o' crap ran most of the world. 15 years later, I'm a happy Windows user and programmer. Did I change or did Windows?&lt;/P></content>
+  </entry>
+</feed>

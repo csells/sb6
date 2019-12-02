@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed89.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed88.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed90.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed89.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1161</id>
+    <title>Starting from Scratch: The Visual Basic.NET Coach</title>
+    <updated>2004-03-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-01T08:00:00.000Z</published>
+    <summary>Sometimes I get aspiring programmers stumbling onto my web site and asking me how to get started having no programming background. I can't really tell them to do what I did, i.e. spend 4 years programming Applesoft Basic, so instead I recommend "The Visual Basic.NET Coach," which is supposed to introduce.NET programming from the ground up, assuming no previous programming experience. Does anyone have any experience with this book or other similiar titles?</summary>
+    <content type="html">&lt;h1>Starting from Scratch: The Visual Basic.NET Coach&lt;/h1>
+Sometimes I get aspiring programmers stumbling onto my web site and asking me how to get started having no programming background. I can't really tell them to do what I did, i.e. spend 4 years programming Applesoft Basic, so instead &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321113500/chrissells">I recommend "The Visual Basic .NET Coach,"&lt;/A> which is supposed to introduce .NET programming from the ground up, assuming no previous programming experience. Does anyone have any experience with this book or other similiar titles?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1160</id>
+    <title>Suggestions for WinForms Programming 2/e</title>
+    <updated>2004-02-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-02-29T08:00:00.000Z</published>
+    <summary>Here. My co-author for the 2nd edition of Windows Forms Programming, Michael Weinhardt, doesn't have enough to do to with the new features in Whidbey or all of the stuff that I wished that I added to the 1st edition but didn't. No, he wants more, so he asked me to ask you nice folks what you'd like to see. The goal of the 2/e edition of the book is to cover the features of WinForms Whidbey as well as related.NET features that are important to WinForms programmers. Also, we'd like to continue to encapsulate ...</summary>
+    <content type="html">&lt;h1>Suggestions for WinForms Programming 2/e&lt;/h1>
+&lt;a href="/public/writing/wfbook">Here&lt;/a>. &lt;P>My co-author for the 2nd edition of &lt;A HREF="/public/writing/wfbook">Windows Forms Programming&lt;/A>, &lt;A href="http://www.mikedub.net/default.html">Michael Weinhardt&lt;/A>, doesn't have enough to do to with the new features in Whidbey or all of the stuff that I wished that I added to the 1st edition but didn't. No, he wants more, so he asked me to ask you nice folks what you'd like to see.&lt;/P>
+&lt;P>The goal of the 2/e edition of the book is to cover the features of WinForms Whidbey as well as related .NET features that are important to WinForms programmers. Also, we'd like to continue to encapsulate WinForms community best practices. What did I miss in either of these categories that you'd like to see in the 2/e?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1159</id>
+    <title>Introducing the New Avalon Graphics Model</title>
+    <updated>2004-02-27T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-27T08:00:00.000Z</published>
+    <summary>Ian Griffiths has a very nice piece about the new drawing model in Avalon and how it differs from the drawing model that's we've known and loved since 16-bit Windows. It also includes such tidbits as a reference for the currently under-documented Path.Data attribute. Highly recommended.</summary>
+    <content type="html">&lt;h1>Introducing the New Avalon Graphics Model&lt;/h1>
+Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/longhorn/?pull=/library/en-us/dnlong/html/avalongraphics.asp">the new drawing model in Avalon&lt;/A> and how it differs from the drawing model that's we've known and loved since 16-bit Windows. It also includes such tidbits as a reference for the currently under-documented Path.Data attribute. Highly recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1157</id>
+    <title>The .NET Show's Got a Blog</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>Since it's inception, I've been a big fan of the.NET Show and I've seen most of the episodes. Now, the host, Robert Hess, has got himself a.NET Show-related blog. Subscribed. </summary>
+    <content type="html">&lt;h1>The .NET Show's Got a Blog&lt;/h1>
+&lt;P>Since it's inception, I've been a big fan of the .NET Show and I've seen most of the episodes. Now, the host, Robert Hess, has got himself &lt;A href="http://blogs.msdn.com/theshow">a .NET Show-related blog&lt;/A>. &lt;A href="http://blogs.msdn.com/theshow/Rss.aspx">Subscribed&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1154</id>
+    <title>Same-Sex Marriages *Should* Be Allowed</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>Being from the Midwest (and big and dumb-looking besides), most folks assume I'm a homophobic. As it turns out, I've known a few homosexuals in my life, but not very many. Or rather, I suspect that I know a lot more of them then I recognize, but I never think about it. I never think about it because it doesn't matter. Real love is rare enough that people should be able to love and live and *marry* whoever the hell they want to and I resent a government that thinks that they get to decide who's love counts a...</summary>
+    <content type="html">&lt;h1>Same-Sex Marriages *Should* Be Allowed&lt;/h1>
+&lt;P>Being from the Midwest (and big and dumb-looking besides), most folks assume I'm a homophobic. As it turns out, I've known a few homosexuals in my life, but not very many. Or rather, I suspect that I know a lot more of them then I recognize, but I never think about it. I never think about it because it doesn't matter.&lt;/P>
+&lt;P>Real love is rare enough that people should be able to love and live and *marry* whoever the hell they want to and I resent a government that thinks that they get to decide who's love counts and who's love doesn't count (although I do support parents being able to decide whether their minor children should be able to marry).&lt;/P>
+&lt;P>&lt;A href="http://radio.weblogs.com/0001011/2004/02/25.html#a6667">So, I'm with Robert Scoble on this one: "Homosexual couples should be treated by society the same as heterosexual couples."&lt;/A>&lt;/P>
+&lt;P>BTW, you can save yourself the trouble of responding if you're going to say anything other than "+1", as I won't be responding to any kind of negative comments on this issue. There is literally nothing you can say to change my mind, so don't even try.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1156</id>
+    <title>The Selling Point of Indigo</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>Here. Right on, Benjamin: "The selling point of the Indigo Service model is that it is simple and easy to use.&amp;nbsp; The benefits for developers is that they get all the benefits of enterprise-quality features such as transactions, reliable messaging and security without having to write any code.&amp;nbsp; Letting Microsoft do the plumbing allows developers more time to write code that focuses on solving complex and interesting business problems." </summary>
+    <content type="html">&lt;h1>The Selling Point of Indigo&lt;/h1>
+&lt;a href="http://benjaminm.net/PermaLink.aspx?guid=c2d26c0a-0c1e-49a6-b734-40f647c2af3c">Here&lt;/a>. &lt;P>Right on, Benjamin:&lt;/P>
+&lt;P>"The selling point of the Indigo Service model is that it is simple and easy to use.&amp;nbsp; The benefits for developers is that they get all the benefits of enterprise-quality features such as transactions, reliable messaging and security without having to write any code.&amp;nbsp; Letting Microsoft do the plumbing allows developers more time to write code that focuses on solving complex and interesting business problems."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1153</id>
+    <title>A Redundant Chris Sells</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>When I'm having fun with the Sells brothers, I like to tell them that I don't have two boys, but rather one boy and one redundant backup in case one of them needs "erasing." I have never told which of them is which, however, 'cuz I like to tortune them (hey! I paid for 'em!) I would if Chris J. Sells in Beaverton, OR or Chris D. Sells in Dallas, TX is the redundant one... </summary>
+    <content type="html">&lt;h1>A Redundant Chris Sells&lt;/h1>
+&lt;P>When I'm having fun with the Sells brothers, I like to tell them that I don't have two boys, but rather one boy and one redundant backup in case one of them needs "erasing." I have never told which of them is which, however, 'cuz I like to tortune them (hey! I paid for 'em!)&lt;/P>
+&lt;P>I would if &lt;A HREF="">Chris J. Sells in Beaverton, OR&lt;/A> or &lt;A href="http://www.chrissells.com">Chris D. Sells in Dallas, TX&lt;/A> is the redundant one...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1158</id>
+    <title>Ohhhh.... MapPoint Location Server...</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>Here. Oh man! I *need* a SmartPhone. Imagine "Find Nearest Starbucks." Dude!</summary>
+    <content type="html">&lt;h1>Ohhhh.... MapPoint Location Server...&lt;/h1>
+&lt;a href="http://blogs.msdn.com/cthota/archive/2004/02/22/78004.aspx">Here&lt;/a>. Oh man! I *need* a SmartPhone. Imagine "Find Nearest Starbucks." Dude!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1155</id>
+    <title>Timeshifting Rocks</title>
+    <updated>2004-02-26T08:00:00.000Z</updated>
+    <published>2004-02-26T08:00:00.000Z</published>
+    <summary>Here. My ReplayTV has made me such a bigot that I can't even watch normal TV w/o turning up my nose in disgust anymore. Also, I love download into MS lectures and playing them back at 1.5 speed while I'm on my treadmill; exercising my mind and my body at the same time. All media should be timeshifted. *All* *media*. </summary>
+    <content type="html">&lt;h1>Timeshifting Rocks&lt;/h1>
+&lt;a href="http://slashdot.org/article.pl?sid=04/02/26/1420209">Here&lt;/a>. &lt;P>My ReplayTV has made me such a bigot that I can't even watch normal TV w/o turning up my nose in disgust anymore. Also, I love download into MS lectures and playing them back at 1.5 speed while I'm on my treadmill; exercising my mind and my body at the same time. All media should be timeshifted. *All* *media*.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1150</id>
+    <title>Time for some Longhorn DevCenter Feedback</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>It's been about 5 months since the Longhorn Developer Center was launched and I'm curious what you guys think of it. Do you like it? What about it don't you like? How could it support your current Longhorn development goals better? What can I do for the budding Longhorn developers that we're not doing? Don't be shy; call it like you see it. </summary>
+    <content type="html">&lt;h1>Time for some Longhorn DevCenter Feedback&lt;/h1>
+&lt;P>It's been about 5 months since &lt;A href="http://msdn.microsoft.com/longhorn">the Longhorn Developer Center&lt;/A> was launched and I'm curious what you guys think of it. Do you like it? What about it don't you like? How could it support your current Longhorn development goals better? What can I do for the budding Longhorn developers that we're not doing? Don't be shy; call it like you see it.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12504</id>
+    <title>Of Mixed Career Minds</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>Tuesday, February 24th, 2004 Don and I have an ongoing debate -- whether everyone was put on this planet for one purpose or whether a person gets to choose their path. This all started back in the middle of the bubble where we thought that we were so smart that we could take our success in training and turn our minds to anything we chose. We thought we could be anything, but used to talk most about politics (and Don even promised to get me elected as mayor of Beaverton) and religion (I'd like to get in on t...</summary>
+    <content type="html">&lt;h1>Of Mixed Career Minds&lt;/h1>
+&lt;p align="left">&lt;i>Tuesday, &lt;span class="created">February 24th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+Don and I have an ongoing debate -- whether everyone was put on this planet for 
+one purpose or whether a person gets to choose their path. This all started back 
+in the middle of the bubble where we thought that we were so smart that we could 
+take our success in training and turn our minds to anything we chose. We thought 
+we could be anything, but used to talk most about politics (and Don even 
+promised to get me elected as mayor of Beaverton) and religion (I'd like to get 
+in on the ground floor of one of those &amp;quot;free love&amp;quot; cults : ).&lt;/p>&lt;p align="left">
+Of course, the bubble burst, giving of us perspective on just what part of the 
+success was us and what part was the go-go economy. Now, most of us that used to 
+have those conversations work at Microsoft as a place to keep doing fun work 
+without traveling to globe trying to keep up our old standards of living. These 
+days Don talks about all of us having a specific place in the world and that 
+he's pretty darn sure that he's found his (and you should see the guy; he's in 
+there, fighting for what he thinks is best for the platform and building quite 
+an impressive reputation base to extend his influence wider and wider). He's 
+also of a firm mind that I've found my place and that I should be a s/w guy of 
+some kind for the rest of my life.&lt;/p>&lt;p align="left">So, I'm of two minds. On 
+the one hand, I'm happy with the spot I've carved for myself in the Windows 
+developer community and I think that there are plenty of fun s/w challenges to 
+meet. Plus, my resume helps me get good gigs.&lt;/p>&lt;p align="left">On the other 
+hand, I'm not a big fan of being &amp;quot;predestined&amp;quot; to anything. I don't like the 
+idea that fate or even my inborn predilections decides what I do and don't do in 
+my life. I also still think that I'm smart enough and flexible enough that I 
+could start another career. My latest fantasies revolve around moving into a 
+place that my wife could afford on her nurse's salary while I write novels and 
+spend my afternoons filling the public education gap my kids are experiencing. 
+Previous fantasies include getting my jurist doctor at Harvard and becoming a 
+courtroom prosecutor on my way to being a judge (I always know what's best for 
+everyone : ). Also, &lt;a href="/money">the equities market calls my name&lt;/a> and 
+I've got a little property investment business on the side that could use more 
+attention. So, I've got plenty of things I'd like to dig into before I die that 
+have nothing whatever to do with my background or training. In fact, I've got so 
+many other things to try that &lt;a href="http://www.aisto.com/roeder/">
+Lutz&lt;/a> was making fun of me just last night, &amp;quot;Haven't you noticed that 
+everyone in 2004 wants a new career?&amp;quot; Still, should I stick with what's safe 
+because I may never achieve in other industries what I've achieved in this one 
+or should I roll the dice and takes my chances, knowing that life is pretty 
+short to spend it all doing the safe, comfortable thing?&lt;/p>&lt;p align="left">
+Don't get me wrong; I'm not going anywhere just yet. I've started &lt;a href="http://msdn.microsoft.com/longhorn/">
+this Longhorn thing&lt;/a> and I've got lots more to do there before I'm done. But 
+I do think about hitting the reset button some day and starting over again from 
+scratch. What do you guys think? Have any of you hit the reset button and ended 
+up reading this post? Has anyone tried to escape from this industry only to end 
+up back here and are happy they did? Does anything think that my hubris is going 
+to get me into serious trouble? : )&lt;/p>&lt;p align="left">&lt;a href="/1148">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1149</id>
+    <title>Benjamin Summarizes WS Alphabet Soup</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>Benjamin Mitchell does such a good job summarizing Jon Udell's WS Alphabet Soup article that I felt no need to read the actual article. : )</summary>
+    <content type="html">&lt;h1>Benjamin Summarizes WS Alphabet Soup&lt;/h1>
+Benjamin Mitchell does such &lt;A href="http://benjaminm.net/PermaLink.aspx?guid=26730e61-14fe-400e-a923-0527ad4caa12">a good job summarizing&lt;/A> &lt;A href="http://www.infoworld.com/article/04/02/20/08OPstrategic_1.html">Jon Udell's WS Alphabet Soup article&lt;/A> that I felt no need to read the actual article. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1148</id>
+    <title>Of Mixed Career Minds</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>Here. The one where Microsoft's up-coming Mid-Year Discussion and a late night IM chat with Lutz Roeder makes me introspective.</summary>
+    <content type="html">&lt;h1>Of Mixed Career Minds&lt;/h1>
+&lt;a href="/12504">Here&lt;/a>. The one where Microsoft's up-coming Mid-Year Discussion and a late night IM chat with &lt;A href="http://www.aisto.com/roeder/">Lutz Roeder&lt;/A> &lt;a href="/12504">makes me introspective&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1151</id>
+    <title>MSBuild Preview Quickstart Tutorials</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>Alex Kipman, PM on the MSBuild team, was kind enough to provide several tutorials on MSBuild, each of which includes sample projects and documentation. If you're looking to get up to speed on MSBuild, the nextgen.NET build engine, there's no better way. Enjoy!</summary>
+    <content type="html">&lt;h1>MSBuild Preview Quickstart Tutorials&lt;/h1>
+Alex Kipman, PM on the MSBuild team, was kind enough to provide &lt;A href="http://download.microsoft.com/download/d/4/0/d401e5cd-04c7-4b72-b644-a00ae3fd5681/msbuildqs.msi">several tutorials on MSBuild&lt;/A>, each of which includes sample projects and documentation. If you're looking to get up to speed on MSBuild, the nextgen .NET build engine, there's no better way. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1147</id>
+    <title>O'Reilly Dedicates More Energy to Windows</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>The one and only time that I ever met Tim O'Reilly, I turned into fan-boy, telling him how I used to be a Unix guy and I would just buy every single "animal book," even if I didn't know what the topic was because the quality of the books was so high that I knew I needed to know whatever was between the covers. Now a days, ORA produces too many quality books to purchase (or even read) them all, but I've been very happy to see them turn more and more of their attention towards Windows, where I've put all of m...</summary>
+    <content type="html">&lt;h1>O'Reilly Dedicates More Energy to Windows&lt;/h1>
+&lt;P>The one and only time that I ever met Tim O'Reilly, I turned into fan-boy, telling him how I used to be a Unix guy and I would just buy every single "animal book," even if I didn't know what the topic was because the quality of the books was so high that I knew I needed to know whatever was between the covers.&lt;/P>
+&lt;P>Now a days, ORA produces too many quality books to purchase (or even read) them all, but I've been very happy to see them turn more and more of their attention towards Windows, where I've put all of my developer energies for more than a decade. In fact, &lt;A HREF="/writing">I've written one book for ORA myself and I've got two more in the works&lt;/A>, so I continue to be a big fan. Today they launched &lt;A href="http://www.windowsdevcenter.com/">the Windows DevCenter&lt;/A>, where they are concentrating and aggregating all of their considerable Windows juice. And, of course, they have &lt;A href="http://www.oreillynet.com/meerkat/?_fl=rss10&amp;amp;t=ALL&amp;amp;c=5932">an RSS feed&lt;/A>. Subscribed!&lt;/P></content>
+  </entry>
+</feed>

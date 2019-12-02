@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed78.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed77.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed79.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed78.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1316</id>
+    <title>*Sweet* Windows Forms 2.0 Features Screen Shots</title>
+    <updated>2004-05-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-03T07:00:00.000Z</published>
+    <summary>The Windows Forms team has posted some sweet screenshots and overviews of the major new features in Windows Forms 2.0, including two I hadn't heard about before: Client Configuration using type-safe per-user serialization of application settings Document Outline to show how controls are nested in a container This is in additional to all of the other cool stuff, like a.NET WebBrowser wrapper, the new &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;</summary>
+    <content type="html">&lt;h1>*Sweet* Windows Forms 2.0 Features Screen Shots&lt;/h1>
+&lt;P>The Windows Forms team has posted some &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?tabindex=4">sweet screenshots and overviews of the major new features in Windows Forms 2.0&lt;/A>, including two I hadn't heard about before:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=16&amp;amp;Cat=Runtime&amp;amp;tabindex=4">Client Configuration&lt;/A> using type-safe per-user serialization of application settings&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;ItemID=5&amp;Cat=Designer&amp;tabindex=4">Document Outline&lt;/A> to show how controls are nested in a container&lt;/LI>&lt;/UL>
+&lt;P>This is in additional to all of the other cool stuff, like &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=18&amp;amp;Cat=Controls&amp;amp;tabindex=4">a .NET WebBrowser wrapper&lt;/A>, the new &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=13&amp;amp;Cat=Controls&amp;amp;tabindex=4">DataGridView&lt;/A>, &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=14&amp;amp;Cat=Controls&amp;amp;tabindex=4">the strip controls&lt;/A>, even &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=17&amp;amp;Cat=Runtime&amp;amp;tabindex=4">more flexible layout&lt;/A>, &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?PageID=2&amp;amp;ItemID=19&amp;amp;Cat=Runtime&amp;amp;tabindex=4">ClickOnce deployment&lt;/A> (my personal favorite) and &lt;A href="http://www.windowsforms.net/WhidbeyFeatures/default.aspx?tabindex=4">more&lt;/A>.&lt;/P>
+&lt;P>[&lt;A href="http://www.mikedub.net/windowsformsredux/archives/000018.html">via Mike Weinhardt&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1317</id>
+    <title>"Just think Chris Sells on my TV set!"</title>
+    <updated>2004-05-03T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-03T07:00:00.000Z</published>
+    <summary>I think David meant this as a good thing, but it sounded scary to me... : )</summary>
+    <content type="html">&lt;h1>"Just think Chris Sells on my TV set!"&lt;/h1>
+I think David meant this as &lt;A href="http://www.davidmcnamee.com/PermaLink.aspx?guid=ed72e88c-fc7c-48de-b0fa-2fbcf4943e60">a good thing&lt;/A>, but it sounded scary to me... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1315</id>
+    <title>More Free WIndows Forms Controls:xpCommon Controls</title>
+    <updated>2004-05-02T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-02T07:00:00.000Z</published>
+    <summary>And the hits, they keep on coming...</summary>
+    <content type="html">&lt;h1>More Free WIndows Forms Controls:xpCommon Controls&lt;/h1>
+And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep on coming&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1314</id>
+    <title>Lutz Releases Reflector 4.0 (Finally!)</title>
+    <updated>2004-05-02T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-02T07:00:00.000Z</published>
+    <summary>It has been hell keeping this to myself as Lutz has been sending me beta drops for the last coupla months for the completely reworked Reflector 4.0. Two very cool things about this release of Reflector: It supports any version of the.NET Framework, so it works great on Longhorn and Whidbey It has a replacement for the Class Viewer tools in the.NET SDK (wincv.exe) that I came to depend on in my writing and that hasn't been updated for WinFX, so Reflector 4.0 is even more important to me than it would normall...</summary>
+    <content type="html">&lt;h1>Lutz Releases Reflector 4.0 (Finally!)&lt;/h1>
+&lt;P>It has been hell keeping this to myself as Lutz has been sending me beta drops for the last coupla months for the completely reworked Reflector 4.0. Two very cool things about this release of Reflector:&lt;/P>
+&lt;OL>
+&lt;LI>It supports any version of the .NET Framework, so it works great on Longhorn and Whidbey&lt;/LI>
+&lt;LI>It has a replacement for the Class Viewer tools in the .NET SDK (wincv.exe) that I came to depend on in my writing and that hasn't been updated for WinFX, so Reflector 4.0 is even more important to me than it would normally be&lt;/LI>&lt;/OL>
+&lt;P>If you're a .NET developer, you must use Reflector and if you use Reflector, &lt;A href="http://www.aisto.com/roeder/DotNet/">you must use Reflector 4.0&lt;/A>. Thanks, Lutz! We love you, man!&lt;/P>
+&lt;p>BTW, Lutz has set up &lt;a href="http://www.gotdotnet.com/community/workspaces/workspace.aspx?ID=0F5846C3-C7AA-4879-8043-E0F4FC233ADE">a workspace for the Reflector 4.0 add-ins&lt;/a>.&lt;/p>
+&lt;p>UPDATE: Denis Bauer has provided his own &lt;a href="http://www.denisbauer.com/weblog/PermaLink,guid,d8da2708-8e5f-47a1-84ad-2cd81589d3fa.aspx">Reflector 4.0 Add-In to disassemble an entire assembly to a set of files&lt;/a>. This is handy if, like me, you like to curl up with a good chuck of source code, put your feet up and enjoy a good cigar.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1313</id>
+    <title>NetXP: More Free Windows Forms Controls</title>
+    <updated>2004-05-01T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-01T07:00:00.000Z</published>
+    <summary>Roy points out some Windows Forms controls that Mike pointed out to him and now I'm pointing out to you: NetXP, which includes all kinds of fun controls and components for use for free for personal and freeware use. It's amazing the number of high-quality free.NET controls exist. Wahoo!</summary>
+    <content type="html">&lt;h1>NetXP: More Free Windows Forms Controls&lt;/h1>
+&lt;A href="http://weblogs.asp.net/rosherove/archive/2004/05/01/124503.aspx">Roy points out&lt;/A> some Windows Forms controls that &lt;A href="http://www.larkware.com/Articles/TheDailyGrind361.html">Mike pointed out to him&lt;/A> and &lt;A href="http://www.dacris.com/netxp/">now I'm pointing out to you: NetXP&lt;/A>, which includes all kinds of fun controls and components for use for free for personal and freeware use. It's amazing the number of high-quality free .NET controls exist. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1312</id>
+    <title>Talking To Kids About Money</title>
+    <updated>2004-05-01T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2004-05-01T07:00:00.000Z</published>
+    <summary>Here. I found a new site focusing on a topic near and dear to my heart -- educating kids about money -- so I thought I'd log it for future reference (although you're free to read my thoughts about it, too : ). </summary>
+    <content type="html">&lt;h1>Talking To Kids About Money&lt;/h1>
+&lt;a href="/12405">Here&lt;/a>. &lt;P>I found &lt;A href="http://www.themint.org/">a new site&lt;/A> focusing on a topic near and dear to my heart -- &lt;a href="/12405">educating kids about money&lt;/A> -- so I thought I'd log it for future reference (although you're free to &lt;a href="/12405">read my thoughts about it&lt;/A>, too : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12405</id>
+    <title>Talking To Kids About Money</title>
+    <updated>2004-05-01T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2004-05-01T07:00:00.000Z</published>
+    <summary>I'm a huge fan of talking to kids about money (actually, I'll talk an adult's ears off about money, too, if given half a chance -- I once lectured Matt Pietrek and his girlfriend on the topic for an hour over pancakes [sorry, guys...]). When I was growing up, the training I got in school about money management has how to write a check, i.e. how to be a good little consumer. I also learned the basics of compound interest, but not as related to anything real, e.g. buying a house or saving for retirement. Most...</summary>
+    <content type="html">&lt;h1>Talking To Kids About Money&lt;/h1>
+		&lt;p>I'm a &lt;em>huge&lt;/em> fan of talking to kids about money (actually, 
+		I'll talk an adult's ears off about money, too, if given half a chance 
+		-- I once lectured &lt;a href="http://www.wheaty.net/">Matt 
+		Pietrek&lt;/a> and his girlfriend on the topic for an hour over pancakes 
+		[sorry, guys...]). When I was growing up, the training I got in school 
+		about money management has how to write a check, i.e. how to be a good 
+		little consumer. I also learned the basics of compound interest, but not 
+		as related to anything real, e.g. buying a house or saving for 
+		retirement. Most of what I didn't learn in school, I also didn't learn 
+		from my parents because one of them (who managed to buy high and sell 
+		low during the recent market correction) isn't any good at money 
+		management and the other was very private about such things (although 
+		has been opening up on this topic recently).&lt;/p>
+		&lt;p>Me, I go the other way. While they know not to talk about it outside 
+		of our immediate family, my kids know how much my wife and I make, how 
+		much we spend month to month, how we're saving for their college 
+		education, how we're saving for retirement, the investment property I've 
+		purchased with my money-savvy brother-in-law (whose parents also refused 
+		to talk money with him), etc. The Sells brothers have their own 
+		allowance that goes up annually on their hire date aka their birthday. I 
+		act as their bank, keeping track of their income and expenses in an 
+		Excel spreadsheet as they deposit and withdraw money, limiting them to a 
+		single week's &amp;quot;advance&amp;quot; on their allowance (giving them the choice of 
+		spending what they've got now vs. saving for what they want in the 
+		future). In the future, I plan on letting them maintain their own 
+		balance sheet (subject to random audit), like my Mom let me maintain 
+		mine on a paper check register (I guess I did learn a little something 
+		from my parents -- come to think of it, the way I award allowance is 
+		just like my Mom, too -- way to go, Mom! : ).&lt;/p>
+		&lt;p>Anyway, as open as I am about our money and as much as I bring it up with 
+		them in an attempt to stamp the consumer culture out of my children 
+		before it takes hold, there are still more things to be done, as I 
+		learned this morning on
+		&lt;a href="http://www.themint.org/">&amp;quot;the mint,&amp;quot;&lt;/a> a web 
+		site dedicated to what kids should know about money and how teachers and
+		&lt;a href="http://www.themint.org/parents/talktoyourkids.php">
+		parents can help&lt;/a>. Check it out.&lt;/p>
+		&lt;p>BTW, I've recently come to the conclusion that a parent paying for 
+		their child's college education is a sucker's game, as it drains much 
+		needed funds out of the parent's own investments when it should be 
+		enjoying the magic of compound interest. Instead, grandparents should 
+		pay for college, letting each generation have another 20-30 years of 
+		compound interest before skimming off the top for college. The problem 
+		with this, of course, is that it requires one generation to pay for both 
+		their kids and their grandkids to shift into this new thinking 
+		(assuming, of course, that the parents can pay for their kid's college 
+		at all, which isn't a given with our current consumer-oriented society). 
+		I plan on being that bridge in my family, i.e. I plan to pay for my 
+		kids' and my grandkids' college education. I also plan to have myself 
+		cryogenically frozen, putting half of my money into a trust for myself 
+		when I'm rejuvenated, leaving the other half for my wife. Neither of 
+		these has anything to do with this subject, but I thought I'd stick them 
+		on the end here anyway. : )&lt;/p>
+		&lt;p>
+		&lt;a href="/1312">
+		Discuss&lt;/a>&lt;/p>
+		</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1311</id>
+    <title>Google Files for IPO @ e Billion Dollars</title>
+    <updated>2004-04-30T07:00:00.000Z</updated>
+    <published>2004-04-30T07:00:00.000Z</published>
+    <summary>Unlike some lame "e" prefix that the kids like to put on things these days, Google's IPO valued at e billion dollars ($2,718,281,828) is the mathematical value e (multiplied by 1 billion, of course). Luckily, they didn't have to spell this famous mathematical number. : ) </summary>
+    <content type="html">&lt;h1>Google Files for IPO @ e Billion Dollars&lt;/h1>
+&lt;P>Unlike some lame "e" prefix that the kids like to put on things these days, &lt;A href="http://www.wired.com/news/business/0,1367,63286,00.html">Google's IPO valued at e billion dollars ($2,718,281,828) is the mathematical value e&lt;/A> (multiplied by 1 billion, of course). Luckily, they didn't have to spell &lt;EM>this&lt;/EM> famous mathematical number. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1310</id>
+    <title>"The Great Windows 95 Trade-In Program"</title>
+    <updated>2004-04-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-29T07:00:00.000Z</published>
+    <summary>Oh man, Richard Childress nailed it. We should let people walk into their nearest Comp-U-Buy with their copy of any flavor of Win9x and give them a copy of Windows XP SP2 for free. And, if they happen to need a beefier computer to run XP, and they trade in a copy of Win9x at the time, we should take the cost of the OS off the price of the computer. Not only do we get rid of a significant portion of Win9x in the world, reducing our support costs, but we get XPSP2 into more hands, stimulate PC purchasing and ...</summary>
+    <content type="html">&lt;h1>"The Great Windows 95 Trade-In Program"&lt;/h1>
+&lt;P>Oh man, &lt;A href="http://www25.brinkster.com/rchildress/postView.aspx?id=83">Richard Childress &lt;STRONG>&lt;EM>nailed it&lt;/EM>&lt;/STRONG>&lt;/A>.&lt;/P>
+&lt;P>We should let people walk into their nearest Comp-U-Buy with their copy of any flavor of Win9x and give them a copy of Windows XP SP2 for free. And, if they happen to need a beefier computer to run XP, and they trade in a copy of Win9x at the time, we should take the cost of the OS off the price of the computer.&lt;/P>
+&lt;P>Not only do we get rid of a significant portion of Win9x in the world, reducing our support costs, but we get XPSP2 into more hands, stimulate PC purchasing and reduce the number of versions of Windows that ISVs have to support. Of course, we eat it on the price of XP itself, but I bet the savings in support would make up for it.&lt;/P>
+&lt;P>Who else thinks that Richard Childress is absolutely right?!? Let's hear it!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1309</id>
+    <title>Safe, Even Simpler Multithreading in Windows Forms</title>
+    <updated>2004-04-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-04-29T07:00:00.000Z</published>
+    <summary>Mike Weinhardt adds a 4th installment to my series on threading in Windows Forms by illustrating the BackgroundWorker component from Windows Forms 2.0. I have to admit that after I saw this component, I felt very silly for not wrapping my own code up in this form. Thank goodness for.the Windows Forms 2.0 team. : )</summary>
+    <content type="html">&lt;h1>Safe, Even Simpler Multithreading in Windows Forms&lt;/h1>
+Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000009.html">threading in Windows Forms by illustrating the BackgroundWorker component from Windows Forms 2.0&lt;/A>. I have to admit that after I saw this component, I felt very silly for not wrapping my own code up in this form. Thank goodness for .the Windows Forms 2.0 team. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1308</id>
+    <title>You Clever IM People Are Driving Me Nuts!</title>
+    <updated>2004-04-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-04-29T07:00:00.000Z</published>
+    <summary>What is the deal with people like Iristyle, josefiend, Mongo, Moribund the Burgermeister and the cheers component? These are the IM names of my "friends" that are currently online in IM. I mean, come on! How the hell am I supposed to find Ethan, Joesephine, Scott, Shawn and Betsy if they hide behind these names?!? At least Iristyle and josefiend stay the same so that I can learn them, but Mongo, Moribund and cheers are merely temporary based on the quickly changing whims of the people on the other end of th...</summary>
+    <content type="html">&lt;h1>You Clever IM People Are Driving Me Nuts!&lt;/h1>
+&lt;P>What is the deal with people like Iristyle, josefiend, Mongo, Moribund the Burgermeister and the cheers component? These are the IM names of my "friends" that are currently online in IM. I mean, come on! How the hell am I supposed to find Ethan, Joesephine, Scott, Shawn and Betsy if they hide behind these names?!?&lt;/P>
+&lt;P>At least Iristyle and josefiend stay the same so that I can learn them, but Mongo, Moribund and cheers are merely temporary based on the quickly changing whims of the people on the other end of the line. I mean, I'm as much in favor of &lt;A HREF="/public/fun/centerfold/">personal expression&lt;/A> as the next guy, but not if it stops me from the chief component of the app they're using, e.g. finding them and actually talking to them!&lt;/P>
+&lt;P>And what's with the guy that has nothing but characters that don't even show up but render as the dreaded square! Can everyone please at least start their cleverness with their first names so that I can find you on the list? That's what Brian Randell [Working at home], Carl Frankline [.NET Rocks!], Fritz [easp.net@torrance], Jeff - [Redmond] and even, LJ, just ducky, thanks, do and they seem like happy, fulfilled people. Thank you!&lt;/P>
+&lt;P>Plus, while we're on the subject, what is it with MSN Messenger's invitation dialog? How the hell do I know who keith at pluralsight.com is? I know tons of Keiths and I've never heard of &lt;A href="http://www.PluralSight.com">www.PluralSight.com&lt;/A> (and even now that I know what it is, I haven't a clue what &lt;A href="http://www.PluralSite.com">www.PluralSite.com&lt;/A> *means*). Can't MSN Messenger give me a name along with the email? I get lots of request to be added to folks IM friend list and I'd like to be able to figure out who I'd like tracking my online life and who I'd prefer to hear from only via email.&lt;/P>
+&lt;P>Thus endith today's rant. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1307</id>
+    <title>Rory Sells His Ex's Wedding Dress</title>
+    <updated>2004-04-29T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-04-29T07:00:00.000Z</published>
+    <summary>Here. At least, if this isn't Rory, it sure reads like Rory... : )</summary>
+    <content type="html">&lt;h1>Rory Sells His Ex's Wedding Dress&lt;/h1>
+&lt;a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=4146756343">Here&lt;/a>. At least, if this isn't Rory, &lt;A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;amp;item=4146756343">it sure &lt;EM>reads&lt;/EM> like Rory&lt;/A>... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1305</id>
+    <title>Miguel de Icaza On Why Longhorn Matters</title>
+    <updated>2004-04-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-28T07:00:00.000Z</published>
+    <summary>If you don't know him, Miguel is the architect of the Mono open source project whose aim is to implement the.NET CLR and the Framework Class Libraries on Linux (and other places) so that.NET apps can run on OSes other than Windows. In this essay, Miguel comments on the importance of Longhorn : "...the combination of Microsoft deployment power, XAML, Avalon and.NET is killer.... "The combination means that Longhorn apps get the web-like deployment benefits : develop centrally, deploy centrally, and safely ac...</summary>
+    <content type="html">&lt;h1>Miguel de Icaza On Why Longhorn Matters&lt;/h1>
+&lt;P>If you don't know him, Miguel is the architect of &lt;A href="http://www.go-mono.com/">the Mono open source project&lt;/A> whose aim is to implement the .NET CLR and the Framework Class Libraries on Linux (and other places) so that .NET apps can run on OSes other than Windows.&lt;/P>
+&lt;P>In this essay, &lt;A href="http://primates.ximian.com/~miguel/archive/2004/Apr-24.html">Miguel comments on the importance of Longhorn&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>"...the combination of Microsoft deployment power, XAML, Avalon and .NET is killer. ...&lt;/P>
+&lt;P>"The combination means that Longhorn apps get the web-like deployment &lt;A href="http://msdn.microsoft.com/msdnmag/issues/04/05/ClickOnce/default.aspx">benefits&lt;/A>: develop centrally, deploy centrally, and safely access any content with your browser. &lt;/P>
+&lt;P>"The sandboxed execution in .NET means that you can visit &lt;B>any&lt;/B> web site and run local rich applications as oppposed to web applications without fearing about your data security: spyware, trojans and what have you. &lt;/P>
+&lt;P>"Avalon means also that these new 'Web' applications can visually integrate with your OS, that can use native dialogs can use the functionality in the OS (like the local contact picker).&lt;/P>
+&lt;P>"And building fat-clients is arguably easier than building good looking, integrated, secure web applications (notice: applications, not static web pages)."&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>What I find most interesting is that while Miguel doesn't cover the entire Longhorn story, e.g. he doesn't mention WinFS at all, what he does mention, he summaries well. I'm glad to see the message of what's going to make Longhorn cool is getting out. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1306</id>
+    <title>OSS Groups Teaming Up to Combat Longhorn</title>
+    <updated>2004-04-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-28T07:00:00.000Z</published>
+    <summary>It's interesting to hear what the Mozilla and Gnome guys are thinking about to rally their forces to combat Longhorn. The interesting thing about it for me, a developer and user of software, is that when MS products improve, competitors feel the need to keep up and vice versa. In other words, I think competition is a big win for everyone and I, for one, am glad we have it.</summary>
+    <content type="html">&lt;h1>OSS Groups Teaming Up to Combat Longhorn&lt;/h1>
+It's interesting to hear &lt;A href="http://news.com.com/2100-1032_3-5201325.html?tag=nefd.lede">what the Mozilla and Gnome guys are thinking about to rally their forces to combat Longhorn&lt;/A>. The interesting thing about it for me, a developer and user of software, is that when MS products improve, competitors feel the need to keep up and vice versa. In other words, I think competition is a big win for everyone and I, for one, am glad we have it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1304</id>
+    <title>Tic-Tac-Toe for Longhorn</title>
+    <updated>2004-04-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-04-28T07:00:00.000Z</published>
+    <summary>If you can't wait for Solitaire, he's a game you can play on Longhorn today, Deepak's sample implementation of tic-tac-toe in C# and XAML. It also comes with a nice little write-up for your development edification and the source. Enjoy.</summary>
+    <content type="html">&lt;h1>Tic-Tac-Toe for Longhorn&lt;/h1>
+If you can't wait for Solitaire, he's a game you can play on Longhorn today, &lt;A href="http://www.codeproject.com/dotnet/TicTacToeLonghorn.asp">Deepak's sample implementation of tic-tac-toe in C# and XAML&lt;/A>. It also comes with a nice little write-up for your development edification and the source. Enjoy.</content>
+  </entry>
+</feed>

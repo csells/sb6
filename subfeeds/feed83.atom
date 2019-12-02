@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed83.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed82.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed84.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed83.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1247</id>
+    <title>Ian on Service API Evolution</title>
+    <updated>2004-03-31T08:00:00.000Z</updated>
+    <published>2004-03-31T08:00:00.000Z</published>
+    <summary>Ian's piece says to evolve an SOA endpoint that you're best off creating and running a new service along side the old one. He takes 2267 words to say what I said in 20, but it's still a joy to wind your way down Ian's road. : )</summary>
+    <content type="html">&lt;h1>Ian on Service API Evolution&lt;/h1>
+Ian's piece says to evolve an SOA endpoint that you're best off creating and running a new service along side the old one. He takes 2267 words to say what I said in 20, but &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/03/31/serviceevolution">it's still a joy to wind your way down Ian's road&lt;/A>. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1248</id>
+    <title>*This* Is Why We Released LH to Developers Early</title>
+    <updated>2004-03-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-31T08:00:00.000Z</published>
+    <summary>Marc Clifton, a concerned 3rd party,&amp;nbsp;provides thoughtful criticism of XAML. Chris Anderson, Avalon Architect, takes Marc's criticism and provides a thoughtful response. Because of where we are in the Longhorn release cycle, i.e. a long way from a release, if the Avalon team agrees with Marc, they can make real changes. As a result, Longhorn gets better because it's able to accept early, critical feedback. Perfect. </summary>
+    <content type="html">&lt;h1>*This* Is Why We Released LH to Developers Early&lt;/h1>
+&lt;P>&lt;A href="http://myxaml.com/marcclifton/">Marc Clifton&lt;/A>, a concerned 3rd party,&amp;nbsp;provides &lt;A href="/1241">thoughtful criticism of XAML&lt;/A>.&lt;/P>
+&lt;P>&lt;A href="http://www.simplegeek.com">Chris Anderson&lt;/A>, Avalon Architect, takes Marc's criticism and provides &lt;A href="http://www.simplegeek.com/PermaLink.aspx/36697366-bbdb-4f55-8490-3aceafcf391d">a thoughtful response&lt;/A>.&lt;/P>
+&lt;P>Because of where we are in the Longhorn release cycle, i.e. a long way from a release, if the Avalon team agrees with Marc, they can make real changes.&lt;/P>
+&lt;P>As a result, Longhorn gets better because it's able to accept early, critical feedback. Perfect.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1244</id>
+    <title>More on IE in XPSP2</title>
+    <updated>2004-03-30T08:00:00.000Z</updated>
+    <published>2004-03-30T08:00:00.000Z</published>
+    <summary>Tony Schreiner has&amp;nbsp;2 more pieces on changes in IE in XPSP2 bringing the total to 3: Authenticode - No and never again! Information Bar - Stopping the modal dialog madness Web Site Compatibility I especially appreciate the Information Bar, which I'd describe as a status bar at the top of the window. I hate modal dialogs, so not stopping what I'm doing to inform me of something is nice. Plus, studies show that nobody ever looks at the bottom of the screen for info, so putting the InfoBar at the top makes...</summary>
+    <content type="html">&lt;h1>More on IE in XPSP2&lt;/h1>
+&lt;P>Tony Schreiner has&amp;nbsp;2 more pieces on changes in IE in XPSP2 bringing the total to 3:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://blogs.msdn.com/tonyschr/archive/2004/03/21/93430.aspx">Authenticode - No and never again!&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/tonyschr/archive/2004/03/21/93551.aspx">Information Bar - Stopping the modal dialog madness&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/tonyschr/archive/2004/03/30/102248.aspx">Web Site Compatibility&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>I especially appreciate the Information Bar, which I'd describe as a status bar at the top of the window. I hate modal dialogs, so not stopping what I'm doing to inform me of something is nice. Plus, studies show that nobody ever looks at the bottom of the screen for info, so putting the InfoBar at the top makes a lot more sense.&lt;/P>
+&lt;P>Also, I've got XPSP2 RC1 on one of my machines that was plagued with pop-ups and web crap of all kinds. Now, all of that is gone and I've got a lot more info about things that sites were doing that no longer works, but I didn't want them doing that stuff anyway.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1246</id>
+    <title>Avalon: From All Code to No Code And In Between</title>
+    <updated>2004-03-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-30T08:00:00.000Z</published>
+    <summary>Today, Joe Marini, a Microsoft PM on a project that dare not speak it's name, posts a blog reader built entirely in XAML, i.e. no.NET code. Last week, Chris Anderson, an Architect on the Avalon team, showed us that Avalon requires no XAML at all if you don't want to use it. However, closer to the truth are Don and ChrisAn, Longhorn architects, on using a mixture of XAML for declarative UI tasks and code for handling events. My own preferred model is to do just as much as I can in XAML, because I find declar...</summary>
+    <content type="html">&lt;h1>Avalon: From All Code to No Code And In Between&lt;/h1>
+&lt;P>Today, Joe Marini, a Microsoft PM on a project that dare not speak it's name, posts &lt;A href="http://www.joemarini.com/tutorials/tutorialpages/xamlblogexplorer.php">a blog reader built entirely in XAML&lt;/A>, i.e. no .NET code.&lt;/P>
+&lt;P>Last week, Chris Anderson, an Architect on the Avalon team, showed us &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnavalon/html/avalon03262004.asp">that Avalon requires no XAML at all&lt;/A> if you don't want to use it.&lt;/P>
+&lt;P>However, closer to the truth are Don and ChrisAn, Longhorn architects, on using a mixture of &lt;A href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031028LHORNDB/manifest.xml">XAML for declarative UI tasks and code for handling events&lt;/A>.&lt;/P>
+&lt;P>My own preferred model is to do just as much as I can in XAML, because I find declarative style coding more flexible, but to put into code what makes sense, e.g. most event handling. My line in the sand is this: if I would have to embed code in the XAML, I go to real code, otherwise, I use XAML.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1243</id>
+    <title>Buy My Comic Book Collection</title>
+    <updated>2004-03-30T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-30T08:00:00.000Z</published>
+    <summary>Here. I've had 2600 comic books bagged and boxed in my garage since I've had a garage. These are comics that I collected as a kid and had always planned on turning into Benjamins. However, when doing a massive do-it-yourself Clean Sweep on my entire house, I figured it was time. But I couldn't sell them to a local comic shop, as they can only give me a tiny fraction of their worth, so I immediately thought about eBay. And that's why the comics have been sitting in my garage for so long. The mere thought of ...</summary>
+    <content type="html">&lt;h1>Buy My Comic Book Collection&lt;/h1>
+&lt;a href="http://search.stores.ebay.com/search/search.dll?query=Your%20bidadoo%20Auctions%20(reference%20id:%20VfRSsreoe5ti3v6iQkeT1L20Qlw%20)&amp;srchdesc=y&amp;sid=32623954&amp;store=BidadooAuctions&amp;colorid=0&amp;fp=0&amp;st=2">Here&lt;/a>. &lt;P>I've had 2600 comic books bagged and boxed in my garage since I've had a garage. These are comics that I collected as a kid and had always planned on turning into Benjamins. However, when doing a massive do-it-yourself &lt;A href="http://tlc.discovery.com/fansites/cleansweep/cleansweep.html">Clean Sweep&lt;/A> on my entire house, I figured it was time. But I couldn't sell them to a local comic shop, as they can only give me a tiny fraction of their worth, so I immediately thought about eBay. And that's why the comics have been sitting in my garage for so long. The mere thought of cataloging, assessing, photoing and posting all 2600, even in reasonable groups, was &lt;EM>way &lt;/EM>more&amp;nbsp;work than I was willing to do. And so they sat.&lt;/P>
+&lt;P>That is, until I was driving with a pack of &lt;A href="http://www.microsoft.com/learning/">MSLearning&lt;/A> folks on our way to lunch recently in Redmond and came across a &lt;A href="http://www.bidadoo.com/">Bidadoo&lt;/A> truck. I'd never heard of it, but they explained it as a new startup dedicated to taking your stuff, particularly your collections, and doing all of the grunt work to get it sold on eBay, including bringing in experts to help them figure out exactly what's what. So I spent 5 hours putting making a list of what was in my 9 long comic boxes, hauled them up to their "showroom" in Redmond and now they're getting ready to put my entire comic collection on eBay for 33% off to top. They've got &lt;A href="http://search.stores.ebay.com/search/search.dll?query=Your%20bidadoo%20Auctions%20(reference%20id:%20VfRSsreoe5ti3v6iQkeT1L20Qlw%20)&amp;amp;srchdesc=y&amp;amp;sid=32623954&amp;amp;store=BidadooAuctions&amp;amp;colorid=0&amp;amp;fp=0&amp;amp;st=2">34 of my X-Menu comics up on eBay in 6 bundles now&lt;/A> and they'll be doing the rest directly.&lt;/P>
+&lt;P>So, in summary, &lt;A href="http://search.stores.ebay.com/search/search.dll?query=Your%20bidadoo%20Auctions%20(reference%20id:%20VfRSsreoe5ti3v6iQkeT1L20Qlw%20)&amp;amp;srchdesc=y&amp;amp;sid=32623954&amp;amp;store=BidadooAuctions&amp;amp;colorid=0&amp;amp;fp=0&amp;amp;st=2">buy my comics&lt;/A> and &lt;A href="http://www.bidadoo.com/">check out Bidadoo&lt;/A> (if for no other reason than their fun name -- I'm a sucker for double meanings : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1245</id>
+    <title>Visual Studio 6 SP6</title>
+    <updated>2004-03-30T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-30T08:00:00.000Z</published>
+    <summary>I used to live and die with Visual Studio Service Packs and the DevDiv Sustaining Engineering team has just released another SP for you Visual C++ 6 and Visual Basic 6 programmers. Millions of folks still use these products and it warms my heart that we're 2.5 generations past this, but still releasing SPs. I don't anticipate any more of them, though, so I recommend using this SP for your current projects and moving to Visual Studio.NET 2003 or Visual Studio 2005 on the next one, depending on the timing.</summary>
+    <content type="html">&lt;h1>Visual Studio 6 SP6&lt;/h1>
+I used to live and die with Visual Studio Service Packs and the DevDiv Sustaining Engineering team has just released &lt;A href="http://msdn.microsoft.com/vstudio/downloads/updates/sp/vs6/sp6/default.aspx">another SP for you Visual C++ 6 and Visual Basic 6 programmers&lt;/A>. Millions of folks still use these products and it warms my heart that we're 2.5 generations past this, but still releasing SPs. I don't anticipate any more of them, though, so I recommend using this SP for your current projects and moving to Visual Studio .NET 2003 or Visual Studio 2005 on the next one, depending on the timing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1241</id>
+    <title>Is Microsoft Bollixing Up XAML?</title>
+    <updated>2004-03-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-29T08:00:00.000Z</published>
+    <summary>Marc Clifton, author of the MyXaml open source project, publishes a series of articles exploring opportunities for improvement for the Avalon architects to consider: Is Microsoft Bollixing Up XAML?--a look at "tag names are class names" Is Microsoft Bollixing Up XAML? -- The joys of VisualTree Is Microsoft Bollixing Up XAML? -- The case of the missing collection &lt;A class=posttitle id=_94477d56267_HomePageDay</summary>
+    <content type="html">&lt;h1>Is Microsoft Bollixing Up XAML?&lt;/h1>
+&lt;P>Marc Clifton, author of &lt;A href="http://www.myxaml.com/">the MyXaml open source project&lt;/A>, publishes a series of articles exploring opportunities for improvement for the Avalon architects to consider:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A class=posttitle id=_94477d56267_HomePageDays_DaysList__ctl1_DayItem_DayList__ctl1_TitleUrl href="http://myxaml.com/marcclifton/archive/2004/03/28/166.aspx">Is Microsoft Bollixing Up XAML?--a look at "tag names are class names"&lt;/A> &lt;/LI>
+&lt;LI>&lt;A class=posttitle id=_94477d56267_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl5_TitleUrl href="http://myxaml.com/marcclifton/archive/2004/03/29/169.aspx">Is Microsoft Bollixing Up XAML? -- The joys of VisualTree&lt;/A> &lt;/LI>
+&lt;LI>&lt;A class=posttitle id=_94477d56267_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl3_TitleUrl href="http://myxaml.com/marcclifton/archive/2004/03/29/170.aspx">Is Microsoft Bollixing Up XAML? -- The case of the missing collection&lt;/A> &lt;/LI>
+&lt;LI>&lt;A class=posttitle id=_94477d56267_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl1_TitleUrl href="http://myxaml.com/marcclifton/archive/2004/03/29/171.aspx">Is Microsoft Bollixing Up XAML? -- Decorating the house of cards&lt;/A> &lt;/LI>&lt;/UL>
+&lt;P>I only wish that he would post his thoughts of how XAML &lt;EM>should&lt;/EM> look.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1242</id>
+    <title>Rory Hosts .NET Rock While Chris Adds Color</title>
+    <updated>2004-03-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-29T08:00:00.000Z</published>
+    <summary>The tables are well and truly turned from when I interviewed Carl with Rory acting as color man to where Rory is hosting and I'm just there to fill a seat. The guest is Tony Bain, who is new to me, and the topic is SQL Server apps, which, while I'm familiar with the technology, hasn't been part of my production quality app work since embedded SQL was the rage (and I miss it!). Should be interesting at the very most. : )</summary>
+    <content type="html">&lt;h1>Rory Hosts .NET Rock While Chris Adds Color&lt;/h1>
+The tables are well and truly turned from when &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=6feadfd0-6ba6-4c7f-a51a-e1cb32f8af7d&amp;amp;DisplayLang=en">I interviewed Carl with Rory acting as color man&lt;/A> to where &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/29/101241.aspx">Rory is hosting and I'm just there to fill a seat&lt;/A>. The guest is Tony Bain, who is new to me, and the topic is SQL Server apps, which, while I'm familiar with the technology, hasn't been part of my production quality app work since embedded SQL was the rage (and I miss it!). Should be interesting at the very most. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1240</id>
+    <title>HTTP.SYS, IIS, Indigo, and Windows XP SP2 oh my!</title>
+    <updated>2004-03-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-29T08:00:00.000Z</published>
+    <summary>Don Box expands on his explanation of HTTP.SYS, IIS and&amp;nbsp;XPSP2, including providing a.NET Whidbey sample that uses HTTP.SYS along side of IIS6 running on XPSP2.</summary>
+    <content type="html">&lt;h1>HTTP.SYS, IIS, Indigo, and Windows XP SP2 oh my!&lt;/h1>
+Don Box expands on &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-03-29T05:40:47Z">his explanation of HTTP.SYS, IIS and&amp;nbsp;XPSP2&lt;/A>, including providing a .NET Whidbey sample that uses HTTP.SYS along side of IIS6 running on XPSP2.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1239</id>
+    <title>Fun Meeting with a Longhorn UX Guy Last Week</title>
+    <updated>2004-03-28T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-28T08:00:00.000Z</published>
+    <summary>Here. He said, "Do you think we should support RSS in Longhorn?" I said, "Well, there's that RSS Tile..." He said, "Yeah, but shouldn't we do more?" I said, "Well, sure, what we should really do is blah, but we'd also need foo to make that work." He said, "Right. What if we did quuz to enable foo?" I said, "Wow. That'd be cool. Can you actually make that happen?" He said, "Yep." Whoa. </summary>
+    <content type="html">&lt;h1>Fun Meeting with a Longhorn UX Guy Last Week&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/understanding/ux/">Here&lt;/a>. &lt;P>He said, "Do you think we should support RSS in Longhorn?"&lt;/P>
+&lt;P>I said, "Well, there's that RSS Tile..."&lt;/P>
+&lt;P>He said, "Yeah, but shouldn't we do more?"&lt;/P>
+&lt;P>I said, "Well, sure, what we should really do is blah, but we'd also need foo to make that work."&lt;/P>
+&lt;P>He said, "Right. What if we did quuz to enable foo?"&lt;/P>
+&lt;P>I said, "Wow. That'd be cool. Can you actually make that happen?"&lt;/P>
+&lt;P>He said, "Yep."&lt;/P>
+&lt;P>Whoa.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1237</id>
+    <title>Do Not Install VS2005 on Longhorn!</title>
+    <updated>2004-03-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-26T08:00:00.000Z</published>
+    <summary>While it's true that a new preview version of Visual Studio 2005 is available for MSDN Subscribers, DO NOT INSTALL THIS BUILD OF VS2005 ON LONGHORN. It won't work.</summary>
+    <content type="html">&lt;h1>Do Not Install VS2005 on Longhorn!&lt;/h1>
+While it's true that &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.asp">a new preview version of Visual Studio 2005 is available&lt;/A> for MSDN Subscribers, &lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>DO NOT INSTALL THIS BUILD OF VS2005 ON LONGHORN&lt;/FONT>&lt;/EM>&lt;/STRONG>. It won't work.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1238</id>
+    <title>Time-Shifting Radio?</title>
+    <updated>2004-03-26T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-26T08:00:00.000Z</published>
+    <summary>I was reading Paul Vick, who agrees with Carl Franklin that the "This American Life" weekly NPR radio program rocks (I'm paraphrasing : ). In addition, I really like Garrison Keillor, "Whad'Ya Know?" and&amp;nbsp;a bunch of the financial programs on AM radio. However, unlike my time-shifting TV appliance, I don't have any good way to time-shift radio (the AM stuff is rife with commercials, so really needs a fast-forward feature). Anyone got something for me? Ideally, I'd be able to dump programs to an MP3 playe...</summary>
+    <content type="html">&lt;h1>Time-Shifting Radio?&lt;/h1>
+I was reading &lt;A href="http://www.panopticoncentral.net/PermaLink.aspx/4bc19137-0150-46f6-90e7-cd3808ff6fe2">Paul Vick&lt;/A>, who agrees with &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/25/95783.aspx">Carl Franklin&lt;/A> that the "This American Life" weekly NPR radio program rocks (I'm paraphrasing : ). In addition, I really like Garrison Keillor, "Whad'Ya Know?" and&amp;nbsp;a bunch of the financial programs on AM radio. However, unlike &lt;A href="http://www.digitalnetworksna.com/replaytv/default.asp">my time-shifting TV appliance&lt;/A>, I don't have any good way to time-shift radio (the AM stuff is rife with commercials, so &lt;EM>really&lt;/EM> needs a fast-forward feature). Anyone got something for me? Ideally, I'd be able to dump programs to an MP3 player for convenient playback.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12502</id>
+    <title>Checking Spec. Compliance at Build Time</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/tdd6.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Thursday, March 25th, 2004 Even though Ward Cunningham and I have been living only 4 miles away from each other for some years, I really didn't know that he lived in in the same state 'til he sold his soul hired on at Microsoft. Since then, we've been meeting at a local Starbucks on a regular basis to shoot the shit in a very DevelopMentor/Tektronix-like way, i.e. ramble on about whatever 'til we hit on something fun to try. In one of those meetings, we were talking about requirements for a web services API...</summary>
+    <content type="html">&lt;h1>Checking Spec. Compliance at Build Time&lt;/h1>
+&lt;p align="left">&lt;i>Thursday, 
+&lt;span class="created">March 25th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">Even though Ward Cunningham and I have 
+been living only 4 miles away from each other for some years, I really didn't 
+know that he lived in in the same state 'til he &lt;strike>sold his soul&lt;/strike> 
+hired on at Microsoft. Since then, we've been meeting at a local Starbucks on a 
+regular basis to shoot the shit in a very DevelopMentor/Tektronix-like way, i.e. 
+ramble on about whatever 'til we hit on something fun to try. In one of those 
+meetings, we were talking about requirements for a web services API that I'm 
+working on and he took us off on what I thought was a tangent, but turn out to 
+be very cool.&lt;/p>&lt;p align="left">Before Ward set me straight, I thought that 
+Test-Driven Development (TDD) was when I built a little console app to test my 
+APIs. I routinely do this before I write an API so that I can imagine what I 
+wish I had to program against without being encumbered with an existing 
+implementation. Then, I run my console app(s) afterwards for testing and 
+regression testing, but only sporadically. I knew that NAnt let me run these 
+tests into my build process, but since I'm a VS.NET guy and I haven't done the 
+NAnt/VS.NET integration work that I know I should do, I haven't done as much 
+with this as I knew I should be. Plus, as it was only me, it didn't seem like 
+such a big deal.&lt;/p>&lt;p align="left">What makes TDD a big deal, however, is when 
+you've got a team of folks. Of course, every developer is expected to check in 
+tests for their stuff and those would be run as part of the nightly build. But 
+that's not the cool part. The cool part is when another developer adopts my API 
+and &lt;i>puts &lt;b>his&lt;/b> tests into &lt;b>my&lt;/b> build process&lt;/i>. When someone 
+adopts an API that I build, then make certain assumptions about how it works and 
+what side effects they can expect. TDD lets Joe R. Programmer encode his 
+assumptions as unit test code so that &lt;i>when I break &lt;b>his&lt;/b> assumptions 
+during an iteration of my API, I see it as part of &lt;b>my&lt;/b> compiler output&lt;/i>.&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/tdd6.jpg" width="664" height="491">&lt;/p>&lt;p align="left">
+Until I get a build error, I don't need to know or care about Joe's test. But 
+when I do, I look at Joe's unit test code and decide whether he was right. If 
+Joe's unit test is valid, I need to either fix my breaking change or be prepared 
+to help everyone that uses my API to rewrite and redeploy their code. If Joe's 
+unit test isn't valid, I've got to help Joe fix his code and prepare to help 
+everyone else that made &amp;quot;invalid&amp;quot; use of my API to begin with. The very nicest 
+things about TDD is that &amp;quot;fixing breaking changes&amp;quot; becomes the least painful 
+thing to do!&lt;/p>&lt;p align="left">This is &lt;b>&lt;i>huge&lt;/i>&lt;/b>. In fact, it's so 
+huge, that MS should provide an end point for people to submit their own unit 
+tests against our Windows and .NET APIs so that when we make breaking changes, 
+we can either fix them or know the proportion of folks affected by this breaking 
+change.&lt;/p>&lt;p align="left">Anyway, when Ward told me this, my eyes were opened 
+and I was changed. But he was just getting warmed up. After showing me the power 
+of formal unit tests across a team, he then went on to describe the power of 
+putting the unit tests right into specifications themselves. For example, 
+imagine a table in a spec laying out a series of inputs and expected outputs:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/tdd1.jpg" width="494" height="421">&lt;/p>&lt;p align="left">
+Now imagine a parser that could read through this table and execute the code 
+being specified, checking expected output against actual output, lighting 
+matching output green and mismatched output red:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/tdd2.jpg" width="494" height="421">&lt;/p>&lt;p align="left">
+This scheme lets designers define the spec long before it's implemented and then 
+check it's progress as it's implemented. Likewise, a spec itself can be put into 
+the build process as another set of unit tests. Plus, the readability and 
+maintainability of specs in this format is much improved and very much more 
+accessible then unit test code.&lt;/p>&lt;p align="left">But wait, there's more. This 
+isn't some pipe dream. Ward has a .NET implementation of it called &lt;a href="http://fit.c2.com/">
+the FIT Framework on the web&lt;/a> and yesterday he and I played around with it in 
+my kitchen. Our goal was to take Ward's .NET FIT implementation and add support 
+to it for SOAP endpoints. We started with the &lt;a href="http://www.xmethods.org/ve2/ViewListing.po;jsessionid=dexwx5Xc9t2KPmivNhO5Gnr5(QhxieSRM)?key=uuid:50ABDF31-8769-457B-EFB8-4E990E1BC19E">
+ISBN Information web service&lt;/a> that we found on &lt;a href="http://www.xmethods.org/">
+xmethods.org&lt;/a> and defined the following spec:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/tdd4.jpg" width="677" height="190">&lt;/p>&lt;p align="left">
+We specified the name of the FIT &amp;quot;fixture&amp;quot; (which is the class that implements 
+the tests in FIT), as well as the WSDL URL, the service type and method we'd 
+like to test, the arguments we'd like to test and the results we expected to 
+get. We mixed in some of &lt;a href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=35c47ebb-d806-4995-8797-a42251a8ace3">
+Christian Weyer's Dynamic Web Services Proxy&lt;/a> and we got this:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/tdd5.jpg" width="759" height="429">&lt;/p>&lt;p align="left">
+Notice that we're not quite done yet, i.e. nothing is green and we're not 
+reaching into the retrieved XML and pulling out the Author, Publisher, etc. 
+Still, while FIT requires a matching piece of code for every spec, we dropped a 
+bit more metadata into the tables for the SOAP version, leveraged WSDL and have 
+narrowed the project to a single piece of generic code for any WSDL-described 
+SOAP endpoint (so long as Christian's code can parse it).&lt;/p>&lt;p align="left">Our 
+plan is to finish up the extensions to FIT for SOAP and to put it into practice 
+on the SOAP API that I'm currently designing and even to push it into our build 
+process if I can. Further, I'd like to build another FIT fixture that, instead 
+of executing the tests, generates sample code to demonstrate example usage and 
+expected output (including expected errors). Rest assured, when we get it 
+working well enough for public consumption, Ward and I will publish the SOAP 
+extensions for your enjoyment.&lt;/p>&lt;p align="left">But don't wait for that! You 
+can do TDD with custom actions in VS.NET 2003 and with &lt;a href="http://fit.c2.com/">
+the FIT Framework&lt;/a> today!&lt;/p>&lt;p align="left">&lt;a href="/1227">
+Discuss&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1228</id>
+    <title>Adam Kinney on Avalon Property Triggers</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Adam has a nice, concise sample of property triggers in Avalon, which are a XAML way to change the properties of an object based on an action, e.g. implementing rollover. He also shows a small example of using property triggers with animations to build pleasing transitions.</summary>
+    <content type="html">&lt;h1>Adam Kinney on Avalon Property Triggers&lt;/h1>
+Adam has &lt;A href="http://www.longhornblogs.com/akinney/archive/2004/03/25/2849.aspx">a nice, concise sample of property triggers in Avalon&lt;/A>, which are a XAML way to change the properties of an object based on an action, e.g. implementing rollover. He also shows a small example of using property triggers with animations to build pleasing transitions.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1230</id>
+    <title>XAML is Not Your Father's HTML</title>
+    <updated>2004-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-25T08:00:00.000Z</published>
+    <summary>Jason Olson talks about dock, absolute and relative positioning in Avalon and shows XAML mark-up examples that make his points nicely.</summary>
+    <content type="html">&lt;h1>XAML is Not Your Father's HTML&lt;/h1>
+Jason Olson talks about &lt;A href="http://geekswithblogs.net/jolson/archive/2004/03/24/3329.aspx">dock, absolute and relative positioning in Avalon&lt;/A> and shows XAML mark-up examples that make his points nicely.</content>
+  </entry>
+</feed>

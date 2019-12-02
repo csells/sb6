@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed88.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed87.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed89.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed88.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1179</id>
+    <title>Rich Turner on Is .NET Remoting Dead?</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>Rich Turner, a PM on the Microsoft Indigo team, has a pretty firm answer to the question of whether.NET remoting is dead: no.</summary>
+    <content type="html">&lt;h1>Rich Turner on Is .NET Remoting Dead?&lt;/h1>
+Rich Turner, a PM on the Microsoft Indigo team, has &lt;A href="http://weblogs.asp.net/richturner666/archive/2004/03/05/84771.aspx">a pretty firm answer to the question of whether .NET remoting is dead: no&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1181</id>
+    <title>Enabling SSL On Your Server For Free</title>
+    <updated>2004-03-07T08:00:00.000Z</updated>
+    <published>2004-03-07T08:00:00.000Z</published>
+    <summary>I have never really understood the machinations that you have to go through to enable SSL, but Scot Gellock has posted a script to simplify part of it, i.e. getting the certificate. And he does it with freely available tools, which is always a nice bonus. : )</summary>
+    <content type="html">&lt;h1>Enabling SSL On Your Server For Free&lt;/h1>
+I have never really understood the machinations that you have to go through to enable SSL, but &lt;A href="http://www.scotg.net/permalink.aspx/1a767f7e-ec48-435b-be91-bad1ac35056f">Scot Gellock has posted a script to simplify part of it, i.e. getting the certificate&lt;/A>. And he does it with freely available tools, which is always a nice bonus. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1174</id>
+    <title>How the Longhorn SDK is Built</title>
+    <updated>2004-03-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-06T08:00:00.000Z</published>
+    <summary>Lori Pearce, the&amp;nbsp;Matriarch of the Longhorn SDK, describes what goes into the&amp;nbsp;LHSDK and how it's built. The scope is beyond belief.&amp;nbsp;</summary>
+    <content type="html">&lt;h1>How the Longhorn SDK is Built&lt;/h1>
+Lori Pearce, the&amp;nbsp;Matriarch of the Longhorn SDK, describes &lt;A href="http://weblogs.asp.net/loripe/archive/2004/03/04/84070.aspx">what goes into the&amp;nbsp;LHSDK and how it's built&lt;/A>. The scope is beyond belief.&amp;nbsp;</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1173</id>
+    <title>Automating Windows Forms for Testing</title>
+    <updated>2004-03-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-05T08:00:00.000Z</published>
+    <summary>Brian McMaster from the Windows Forms team provides an article on how to automate Windows Forms applications for testing via tools like Visual Test. Check it out if that's the kind of thing you want to do.</summary>
+    <content type="html">&lt;h1>Automating Windows Forms for Testing&lt;/h1>
+Brian McMaster from the Windows Forms team provides &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/autowforms.asp?frame=true">an article on how to automate Windows Forms applications for testing via tools like Visual Test&lt;/A>. Check it out if that's the kind of thing you want to do.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1170</id>
+    <title>Introducing Chris “Flash” Sells</title>
+    <updated>2004-03-05T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/chrisflashsells.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2004-03-05T08:00:00.000Z</published>
+    <summary>Don &amp;quot;XML&amp;quot; worked a little PhotoShop magic on a poster for a movie that I loved growing up (it was one of two record albums I had and I listened to it over and over and over): Don &amp;quot;XML&amp;quot; Demsak DonXML Demsak's Grok This </summary>
+    <content type="html">&lt;h1>Introducing Chris “Flash” Sells&lt;/h1>
+&lt;p>&lt;a href="http://donxml.com/grokthis/">Don &amp;quot;XML&amp;quot;&lt;/a> worked a 
+little PhotoShop magic on a poster for a movie that I loved growing up (it was 
+one of two record albums I had and I listened to it over and over and over):&lt;/p>
+&lt;p>
+&lt;a href="http://donxml.com/grokthis/archive/2004/03/04/464.aspx">
+&lt;img border="0" src="/public/fun/chrisflashsells.jpg" width="218" height="294">&lt;/a>&lt;/p>
+&lt;p>&lt;i>&lt;a href="http://donxml.com/grokthis/">Don &amp;quot;XML&amp;quot; Demsak&lt;/a>&lt;br>
+&lt;a href="http://donxml.com/grokthis/archive/2004/03/04/464.aspx">
+DonXML Demsak's Grok This&lt;/a></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1171</id>
+    <title>Longhorn Concept Video: Financial Services</title>
+    <updated>2004-03-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-05T08:00:00.000Z</published>
+    <summary>In this concept video, Carter Maslan explores how we imagine that Longhorn's capabilities could be applied to a financial services application.</summary>
+    <content type="html">&lt;h1>Longhorn Concept Video: Financial Services&lt;/h1>
+In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/productinfo/conceptvid/#finserv">Carter Maslan explores how we imagine that Longhorn's capabilities could be applied to a financial services application&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1172</id>
+    <title>Reimplementing Mike's cmdline Utility using WMI</title>
+    <updated>2004-03-05T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-03-05T08:00:00.000Z</published>
+    <summary>Here. In early 2000, Mike Woodring moved Heaven and Earth to write a tool that would inject a DLL into a process's memory for purposes of finding the command line with which the process was launched. While hanging around Don and Tim this week, Don was all hot on WMI, so we fired it up in.NET and rebuilt Mike's tool like so: using System; using System.Management; &lt;SPAN style="FO</summary>
+    <content type="html">&lt;h1>Reimplementing Mike's cmdline Utility using WMI&lt;/h1>
+&lt;a href="http://www.bearcanyon.com/tools/">Here&lt;/a>. &lt;P>In early 2000, Mike Woodring moved Heaven and Earth to write a tool that would inject a DLL into a process's memory for purposes of finding the command line with which the process was launched. While hanging around Don and Tim this week, Don was all hot on WMI, so we fired it up in .NET and rebuilt Mike's tool like so:&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Courier New" color=blue size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'">using&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'"> System;&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" color=blue size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'">using&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'"> System.Management;&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" color=blue size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'">&lt;FONT color=#000000>&lt;BR>&lt;/FONT>class&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'"> cmdline {&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp; &lt;FONT color=blue>&lt;SPAN style="COLOR: blue">static&lt;/SPAN>&lt;/FONT> &lt;FONT color=blue>&lt;SPAN style="COLOR: blue">void&lt;/SPAN>&lt;/FONT> &lt;?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" />&lt;st1:place w:st="on">Main&lt;/st1:place>(&lt;FONT color=blue>&lt;SPAN style="COLOR: blue">string&lt;/SPAN>&lt;/FONT>[] args) {&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;FONT color=blue>&lt;SPAN style="COLOR: blue">if&lt;/SPAN>&lt;/FONT>( args.Length != 1 ) {&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Console.WriteLine("usage: cmdline &amp;lt;processId&amp;gt;");&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;FONT color=blue>&lt;SPAN style="COLOR: blue">return&lt;/SPAN>&lt;/FONT>;&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;BR>&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp; ManagementObject obj =&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;FONT color=blue>&lt;SPAN style="COLOR: blue">new&lt;/SPAN>&lt;/FONT> ManagementObject(&lt;FONT color=blue>&lt;SPAN style="COLOR: blue">string&lt;/SPAN>&lt;/FONT>.Format("Win32_Process.Handle=\"{0}\"", args[0]));&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(obj.Properties["CommandLine"].Value);&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&amp;nbsp; }&lt;BR>&lt;/SPAN>&lt;/FONT>&lt;FONT face="Courier New" size=2>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">}&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P>This makes WMI pretty darn cool in my book. I'll be reading Jon Fancey's article on WMI + .NET in &lt;A href="http://msdn.microsoft.com/msdnmag/issues/04/04/default.aspx">the latest MSDN Magazine&lt;/A>.&lt;/P>
+&lt;P>BTW, I have to admit that I'm nowhere near as manly as Mike. I'll take this sissy code any day. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1169</id>
+    <title>Sample: Hello Longhorn on CodeProject</title>
+    <updated>2004-03-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-03T08:00:00.000Z</published>
+    <summary>Looks like CodeProject is getting into the Longhorn act with a nice Hello, Longhorn sample by Deepak Kapoor. </summary>
+    <content type="html">&lt;h1>Sample: Hello Longhorn on CodeProject&lt;/h1>
+&lt;P>Looks like CodeProject is getting into the Longhorn act with &lt;A href="http://www.codeproject.com/csharp/HelloLonghorn.asp">a nice Hello, Longhorn sample by Deepak Kapoor&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1166</id>
+    <title>Short, but Revealing, Interview of David Treadwell</title>
+    <updated>2004-03-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-02T08:00:00.000Z</published>
+    <summary>David doesn't get many questions to answer about the present and future of.NET, but the ones he gets asked, he answers well. My favorite: "As for code identity, I love the vision. But I&amp;#8217;ll acknowledge that it hasn&amp;#8217;t taken off as we&amp;#8217;d hoped. When people tried to write partial-trust apps, it always turned out there was one thing they needed to do and couldn&amp;#8217;t. We have to do more work to find the right scenarios where you can do a functional smart-client app that runs in partial trust a...</summary>
+    <content type="html">&lt;h1>Short, but Revealing, Interview of David Treadwell&lt;/h1>
+&lt;P>David doesn't get many questions to answer about the present and future of .NET, but &lt;A href="http://www.infoworld.com/article/04/02/27/09FEmsnetguthrie_1.html?s=feature">the ones he gets asked, he answers well&lt;/A>. My favorite:&lt;/P>
+&lt;P>"As for code identity, I love the vision. But I&amp;#8217;ll acknowledge that it hasn&amp;#8217;t taken off as we&amp;#8217;d hoped. When people tried to write partial-trust apps, it always turned out there was one thing they needed to do and couldn&amp;#8217;t. We have to do more work to find the right scenarios where you can do a functional smart-client app that runs in partial trust and doesn&amp;#8217;t require the user to micromanage permissions. &lt;EM>In WinFX, I want to make it viable to write partial-trust apps that can do real things.&lt;/EM>"&lt;/P>
+&lt;P>The emphasis is mine.&lt;/P>
+&lt;P>[&lt;A href="http://www.gotdotnet.com/team/dbox/">via Don Box&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1164</id>
+    <title>BizTalk Server 2004</title>
+    <updated>2004-03-02T08:00:00.000Z</updated>
+    <published>2004-03-02T08:00:00.000Z</published>
+    <summary>Microsoft has launched BizTalk Server 2004. For me, the biggest deal is the integration of the schema mapper into VS.NET, which lets me build an XSLT document interactively with a coupla schemas (and I can come up with schemas from instances via Microsoft's schema inference tool ).</summary>
+    <content type="html">&lt;h1>BizTalk Server 2004&lt;/h1>
+&lt;A href="http://www.microsoft.com/biztalk/">Microsoft has launched BizTalk Server 2004&lt;/A>. For me, the biggest deal is &lt;A href="http://www.microsoft.com/biztalk/evaluation/overview/biztalkserver.asp">the integration of the schema mapper into VS.NET&lt;/A>, which lets me build an XSLT document interactively with a coupla schemas (and I can come up with schemas from instances via &lt;A href="http://apps.gotdotnet.com/xmltools/xsdinference/">Microsoft's schema inference tool&lt;/A>).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1168</id>
+    <title>The .NET Show: I'm Green With Envy for Indigo</title>
+    <updated>2004-03-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-02T08:00:00.000Z</published>
+    <summary>Before watching this episode of The.NET Show, I used to think that Don's speaking ability made the Indigo team somehow special, but after watching this episode on Indigo and seeing John Shewchuk and Steve Swartz wax elopquent about the high level interop and functionality goals of Indigo as well as the programming model goals, I think Don is just the guy that's willing to be publicly naked ( not that I can really point that finger : ). John and Steve provide *such* a compelling story. If you haven't heard t...</summary>
+    <content type="html">&lt;h1>The .NET Show: I'm Green With Envy for Indigo&lt;/h1>
+&lt;P>Before watching this episode of The .NET Show, I used to think that Don's speaking ability made the Indigo team somehow special, but after watching &lt;A href="http://msdn.microsoft.com/theshow/episode040/default.asp">this episode on Indigo&lt;/A> and seeing John Shewchuk and Steve Swartz wax elopquent about the high level interop and functionality goals of Indigo as well as the programming model goals, I think &lt;a href="/12640">Don is just the guy that's willing to be publicly naked&lt;/A> (&lt;A HREF="/public/fun/centerfold/">not that I can really point that finger&lt;/A> : ).&lt;/P>
+&lt;P>John and Steve provide *such* a compelling story. If you haven't heard the Indigo story or even if you have, this is the place to get it.&lt;/P>
+&lt;P>Following up on Steve's places to go for more:&lt;/P>
+&lt;UL dir=ltr>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">&lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.indigo">Indigo newsgroup&lt;/A>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">&lt;A href="http://msdn.microsoft.com/longhorn/understanding/pillars/indigo/migratevideo/">Joe Long's prescriptive guidelines on preparing for Indigo&lt;/A>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">&lt;A href="http://msdn.microsoft.com/Longhorn/understanding/pillars/Indigo/default.aspx">Indigo site on the Longhorn Developer Center&lt;/A>&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P style="MARGIN-RIGHT: 0px">BTW, does anyone have some &lt;A href="mailto:csells@sellsbrothers.com?subject=Recommended Indigo Blogger">recommendations for Indigo bloggers&lt;/A>? I subscribe to &lt;A href="http://www.gotdotnet.com/team/dbox/">Don&lt;/A>, &lt;A href="http://weblogs.asp.net/yassers/">Yasser&lt;/A> and &lt;A href="http://skonnard.com/">Aaron&lt;/A>, but don't see much Indigo traffic on those sites.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1165</id>
+    <title>Jon Udell Sends Home the .NET Report Card</title>
+    <updated>2004-03-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-02T08:00:00.000Z</published>
+    <summary>I'm always nervous about going to see the teacher about my kids' performance this year. They're both very bring, but the older one is easily bored (like his father) and the younger one is social and emotional charged (like his mother). Also, I'm of the belief that at this age (9 and 8), the parents still have an enormous influence over their children, which includes how well they do in school. All of that is wrapped up into that 20-minute meeting at those tiny little desks and it's nerve-wracking. On the ot...</summary>
+    <content type="html">&lt;h1>Jon Udell Sends Home the .NET Report Card&lt;/h1>
+&lt;P>I'm always nervous about going to see the teacher about my kids' performance this year. They're both very bring, but the older one is easily bored (like his father) and the younger one is social and emotional charged (like his mother). Also, I'm of the belief that at this age (9 and 8), the parents still have an enormous influence over their children, which includes how well they do in school. All of that is wrapped up into that 20-minute meeting at those tiny little desks and it's nerve-wracking.&lt;/P>
+&lt;P>On the other hand, I find myself pleasantly surprised by &lt;A href="http://www.infoworld.com/article/04/02/27/09FEmsnet_1.html">Jon Udell's .NET Report Card&lt;/A>. To be sure, there is room for improvement (Don always says, "The largest room in the world is the room for improvement" : ), but two As and two Bs is pretty damn good in this age of very high expections, so I'm a proud 2nd cousin right now (the product teams are the real parents, of course).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1167</id>
+    <title>Living Two Lives</title>
+    <updated>2004-03-02T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-03-02T08:00:00.000Z</published>
+    <summary>Here. I would say that I'm really living two lives. The first is what you see and today it's very boring as I'm sitting very still looking at a 14" LCD panel all day long making almost no noise. When my family comes home, that'll be more outwardly interesting, but it skips the entire reality of what I'm doing while I live that second life inside the machine. In the upcoming documentary, Almost Real, Ann Shin explores folks living the extreme virtual life, e.g. monks leading prayer and SM folks doing their t...</summary>
+    <content type="html">&lt;h1>Living Two Lives&lt;/h1>
+&lt;a href="http://www.wired.com/news/digiwood/0,1412,62486,00.html">Here&lt;/a>. &lt;P>I would say that I'm really living two lives. The first is what you see and today it's very boring as I'm sitting very still looking at a 14" LCD panel all day long making almost no noise. When my family comes home, that'll be more outwardly interesting, but it skips the entire reality of what I'm doing while I live that second life inside the machine.&lt;/P>
+&lt;P>In the upcoming documentary, Almost Real, Ann Shin explores folks living the extreme virtual life, e.g. monks leading prayer and SM folks doing their thing, all over the Internet (in case you need it, my safety word is "yellow" : ). These people are living very real virtual lives, often more real than there normal lives. Is that OK? Is that unnatural? I think it *is* OK. Why should the virtual life inside of our creations be any less valued than our so-called "normal" life (which was just created by the Overlords to test their simulation machine : ).&lt;/P>
+&lt;P>Anyway, it all boils down to one thing: impact. Are you impacted by the things that happen in the virtual world? I know I am. Sometimes it's negative and sometimes it's positive, but it can be just as strong as the impact I feel in my "normal" life. For me, most of my most meaningful impact happens in the "real" world, but as technology advances, I think more and more of that balance will tip, whether that's OK with you or not.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1163</id>
+    <title>Sample: Avalon DawsonDraw</title>
+    <updated>2004-03-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-01T08:00:00.000Z</published>
+    <summary>Ryan Dawson posts a nice sample showing the basics of a drawing program in Avalon, including a floating toolbar and the ability to draw and select lines, rectangles and circles. He also provides the source. BTW, Ryan's pretty darn prolific on Longhorn and I recommend his blog in general. Also, if I remember correctly, he's 19, so you're getting pure enthusiasm and uncensored truth. Recommended. </summary>
+    <content type="html">&lt;h1>Sample: Avalon DawsonDraw&lt;/h1>
+&lt;P>Ryan Dawson posts &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/02/27.aspx">a nice sample showing the basics of a drawing program in Avalon&lt;/A>, including a floating toolbar and the ability to draw and select lines, rectangles and circles. He also provides the source.&lt;/P>
+&lt;P>BTW, Ryan's pretty darn prolific on Longhorn and &lt;A href="http://www.longhornblogs.com/rdawson/">I recommend his blog&lt;/A> in general. Also, if I remember correctly, he's 19, so you're getting pure enthusiasm and uncensored truth. Recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1162</id>
+    <title>How fast does Avalon need to be?</title>
+    <updated>2004-03-01T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-03-01T08:00:00.000Z</published>
+    <summary>Markus Mielke, one of the guys making Avalon go just as fast as possible, posts his guidelines and goals for Avalon performance.</summary>
+    <content type="html">&lt;h1>How fast does Avalon need to be?&lt;/h1>
+Markus Mielke, one of the guys making Avalon go just as fast as possible, posts his &lt;A href="http://www.longhornblogs.com/mmielke/archive/2004/03/01/2650.aspx">guidelines and goals for Avalon performance&lt;/A>.</content>
+  </entry>
+</feed>

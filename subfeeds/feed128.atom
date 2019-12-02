@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed128.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed127.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed129.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed128.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12546</id>
+    <title>End-To-End RSS + Comments</title>
+    <updated>2003-06-18T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-18T07:00:00.000Z</published>
+    <summary>My RSS 2.0 feed exposes end-to-end support for the comments specifications I'm aware of: The RSS 2.0 &amp;lt;comments&amp;gt; element to expose a link for a browser-based UI to view/add comments The &amp;lt;slash:comments&amp;gt; extension element to expose the number of comments current made on an item The &amp;lt;wfw:comment&amp;gt; extension element to expose the URL endpoint for posting comments via the CommentAPI The &amp;lt;wfw:commentRss&amp;gt; extension element to expose the RSS endpoint for consuming the comments of an RSS item....</summary>
+    <content type="html">&lt;h1>End-To-End RSS + Comments&lt;/h1>
+&lt;p>&lt;a href="feed.rss">
+My RSS 2.0 feed&lt;/a> exposes end-to-end support for the comments specifications 
+I'm aware of:&lt;/p>&lt;ul>&lt;li>The &lt;a href="http://backend.userland.com/rss2#comments">
+	RSS 2.0 &amp;lt;comments&amp;gt; element&lt;/a> to expose a link for a browser-based UI to 
+	view/add comments&lt;/li>&lt;li>The &lt;a href="http://groups.yahoo.com/group/rss-dev/files/Modules/Proposed/mod_slash.html#model">
+	&amp;lt;slash:comments&amp;gt; extension&lt;/a> element to expose the number of comments 
+	current made on an item&lt;/li>&lt;li>The &lt;a href="http://wellformedweb.org/story/9">
+	&amp;lt;wfw:comment&amp;gt; extension&lt;/a> element to expose the URL endpoint for posting 
+	comments via &lt;a href="http://wellformedweb.org/story/9">the 
+	CommentAPI&lt;/a>&lt;/li>&lt;li>The &lt;a href="#exposingRssComments">&amp;lt;wfw:commentRss&amp;gt; 
+	extension&lt;/a> element to expose the RSS endpoint for consuming the comments 
+	of an RSS item.&lt;/li>&lt;/ul>&lt;p>Several other folks are working on producing 
+and/or consuming the &amp;lt;wfw:commentRss&amp;gt; extension as well, including &lt;a href="http://bitworking.org/news/Extension_To_The_CommentAPI">
+Joe&lt;/a>, &lt;a href="http://www.intertwingly.net/blog/1466.html">
+Sam&lt;/a>, &lt;a href="http://aspnetweblog.com/posts/7819.aspx">Scott&lt;/a>, &lt;a href="http://www.snellspace.com/blog/archives/000505.html">
+JamesS&lt;/a> and &lt;a href="http://www.intertwingly.net/blog/1464.html#c1055567636">
+Kevin&lt;/a>. &lt;a href="http://www.eight-cubed.com/blog/archives/000121.html">
+JamesD posted instructions on how to do it with MoveableType&lt;/a>. Hopefully &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=cb8d3173-9f65-46fe-bf17-122e3703bb00">
+Dare&lt;/a>, &lt;a href="http://www.hutteman.com/weblog/">Luke&lt;/a> and &lt;a href="http://www.bradsoft.com/feeddemon/">
+Nick&lt;/a> will follow suit.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/629</id>
+    <title>End-To-End RSS + Comments</title>
+    <updated>2003-06-18T07:00:00.000Z</updated>
+    <published>2003-06-18T07:00:00.000Z</published>
+    <summary>Here. The one where I release my RSS 2.0 feed, complete with end-to-end comment support.</summary>
+    <content type="html">&lt;h1>End-To-End RSS + Comments&lt;/h1>
+&lt;a href="/12546">Here&lt;/a>. The one where I release my RSS 2.0 feed, complete with end-to-end comment support.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/628</id>
+    <title>Hosting Windows Forms Designers</title>
+    <updated>2003-06-18T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-18T07:00:00.000Z</published>
+    <summary>Here. This article comes with the full source for hosting the WinForms Designers to enable form design in your own app. To my knowledge, none of this stuff is supported, but that doesn't make it any less cool! [mikedub.net/GalleySlave]</summary>
+    <content type="html">&lt;h1>Hosting Windows Forms Designers&lt;/h1>
+&lt;a href="http://www.divil.co.uk/net/articles/designers/hosting.asp">Here&lt;/a>. This article comes with the full source for hosting the WinForms Designers to enable form design in your own app. To my knowledge, none of this stuff is supported, but that doesn't make it any less cool!
+
+[mikedub.net/GalleySlave]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12417</id>
+    <title>XmlSerializerPreCompiler</title>
+    <updated>2003-06-18T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="http://www.cybral.com/images/XmlPrecompiler.gif"/>
+    <category term="tools" label="Tools"/>
+    <published>2003-06-18T07:00:00.000Z</published>
+    <summary>Tired of the XmlSerializer's generic &amp;quot;File or assembly name ctewkx4b.dll, or one of its dependencies, was not found&amp;quot; exception? The XmlSerializerPreCompiler tools checks to see if a type can be serialized by the XmlSerializer class and if it can't, shows the compiler errors happening behind the scenes so that the type can be modified. Enjoy. This just in: Mathew Nolton has posted a GUI front-end to my XmlSerializerPreCompiler that you might find useful. Thanks, Matt! </summary>
+    <content type="html">&lt;h1>XmlSerializerPreCompiler&lt;/h1>
+
+	&lt;p align="left">Tired of the XmlSerializer's generic &amp;quot;File or assembly name 
+	ctewkx4b.dll, or one of its dependencies, was not found&amp;quot; exception?
+	&lt;a href="/public/tools/XmlSerializerPreCompiler.zip">The XmlSerializerPreCompiler tools&lt;/a> 
+	checks to see if a type can be serialized by the XmlSerializer class and if 
+	it can't, shows the compiler errors happening behind the scenes so that the 
+	type can be modified. Enjoy.&lt;/p>
+	&lt;p align="left">This just in: Mathew Nolton has posted
+	&lt;a href="http://www.cybral.com/solutions/tools.htm#XmlPrecompiler">
+	a GUI front-end to my XmlSerializerPreCompiler&lt;/a> that you might find 
+	useful. Thanks, Matt!&lt;/p>
+	&lt;p align="left">
+	&lt;a href="http://www.cybral.com/solutions/tools.htm#XmlPrecompiler">
+	&lt;img src="http://www.cybral.com/images/XmlPrecompiler.gif" width="552" height="343">&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/630</id>
+    <title>XmlSerializerPreCompiler</title>
+    <updated>2003-06-18T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-06-18T07:00:00.000Z</published>
+    <summary>Here. Tired of the XmlSerializer's generic "File or assembly name ctewkx4b.dll, or one of its dependencies, was not found" exception? The XmlSerializerPreCompiler tools checks to see if a type can be serialized by the XmlSerializer class and if it can't, shows the compiler errors happening behind the scenes so that the type can be modified. Enjoy.</summary>
+    <content type="html">&lt;h1>XmlSerializerPreCompiler&lt;/h1>
+&lt;a href="/12417">Here&lt;/a>. Tired of the XmlSerializer's generic "File or assembly name ctewkx4b.dll, or one of its dependencies, was not found" exception?
+
+The XmlSerializerPreCompiler tools checks to see if a type can be serialized by the XmlSerializer class and if it can't, shows the compiler errors happening behind the scenes so that the type can be modified. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/627</id>
+    <title>Reminder: Win a Free Seat at the Applied XML Dev. Conference</title>
+    <updated>2003-06-17T07:00:00.000Z</updated>
+    <published>2003-06-17T07:00:00.000Z</published>
+    <summary>Here. Don't forget to help me rename my RSS feed and potentially win a free seat at the Applied XML Developer's Conference. Even if you don't submit a contest entry, don't forget to reserve your spot at the conference! Seats are going fast and all three other DevCon's have sold out.</summary>
+    <content type="html">&lt;h1>Reminder: Win a Free Seat at the Applied XML Dev. Conference&lt;/h1>
+&lt;a href="/614">Here&lt;/a>. Don't forget to help me rename my RSS feed and potentially win a free seat at the Applied XML Developer's Conference.
+
+Even if you don't submit a contest entry, don't forget to reserve your spot at the conference! Seats are going fast and all three other DevCon's have sold out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/625</id>
+    <title>Filter Files With Unknown Extensions For XP</title>
+    <updated>2003-06-16T07:00:00.000Z</updated>
+    <published>2003-06-16T07:00:00.000Z</published>
+    <summary>Here. The fact that Windows XP Find in Files only searches files with known file extensions drives me crazy because it skips, among other things,.cs files. Every time I set up a new system, I have to re-figure out how to fix this. To facilitate that, I put together a.reg file that enable Find in Files to search all unknown file extensions as text files. Enjoy.</summary>
+    <content type="html">&lt;h1>Filter Files With Unknown Extensions For XP&lt;/h1>
+&lt;a href="/12418">Here&lt;/a>. The fact that Windows XP Find in Files only searches files with known file extensions drives me crazy because it skips, among other things, .cs  files. Every time I set up a new system, I have to re-figure out how to fix this. To facilitate that, I put together a .reg file that enable Find in Files to search all unknown file extensions as text files. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/624</id>
+    <title>(web) matrix reloaded</title>
+    <updated>2003-06-16T07:00:00.000Z</updated>
+    <published>2003-06-16T07:00:00.000Z</published>
+    <summary>Here. From Rick Childress (www25.brinkster.com/rchildress): Web Matrix 0.6 has been released.</summary>
+    <content type="html">&lt;h1>(web) matrix reloaded&lt;/h1>
+&lt;a href="http://www.asp.net/webmatrix/default.aspx">Here&lt;/a>. From Rick Childress (www25.brinkster.com/rchildress): Web Matrix 0.6 has been released.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/626</id>
+    <title>Releasing Nested Objects in Rotor</title>
+    <updated>2003-06-16T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-16T07:00:00.000Z</published>
+    <summary>Here. ChrisT continues to make progress in the "Adding Ref-Counting to Rotor" project.</summary>
+    <content type="html">&lt;h1>Releasing Nested Objects in Rotor&lt;/h1>
+&lt;a href="/12547">Here&lt;/a>. ChrisT continues to make progress in the "Adding Ref-Counting to Rotor" project.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12547</id>
+    <title>Releasing Nested Objects in Rotor</title>
+    <updated>2003-06-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-16T07:00:00.000Z</published>
+    <summary>Chris Tavares is making more progress finishing up the Ref-Counting in Rotor project: class FinalizerObj { &amp;nbsp; int n; &amp;nbsp; public FinalizerObj( int n ) { &amp;nbsp;&amp;nbsp;&amp;nbsp; this.n = n; &amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Created Finalizer object {0}&amp;quot;, n); &amp;nbsp; } &amp;nbsp; &amp;nbsp; ~FinalizerObj() { &amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Finalizing finalizer object {0}&amp;quot;, n); &amp;nbsp; } } &amp;nbsp; class FinalizerContainingObj { &amp;n</summary>
+    <content type="html">&lt;h1>Releasing Nested Objects in Rotor&lt;/h1>
+&lt;p>
+Chris Tavares is making more progress finishing up the Ref-Counting in Rotor 
+project:&lt;/p>&lt;p style="text-autospace: none">&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+class&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+FinalizerObj {&lt;br>&amp;nbsp; &lt;span style="color:blue">int&lt;/span> n;&lt;br>&lt;br>&amp;nbsp; &lt;span style="color:blue">
+public&lt;/span> FinalizerObj( &lt;span style="color:blue">int&lt;/span> n ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+this&lt;/span>.n = n;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Created Finalizer 
+object {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>&amp;nbsp;&lt;br>&amp;nbsp; ~FinalizerObj() {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+Console.WriteLine(&amp;quot;Finalizing finalizer object {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>}&lt;br>&amp;nbsp;&lt;br>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+class&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+FinalizerContainingObj {&lt;br>&amp;nbsp; FinalizerObj subObj1;&lt;br>&amp;nbsp; &lt;span style="color:blue">
+int&lt;/span> n;&lt;br>&amp;nbsp; FinalizerObj subObj2;&lt;br>&amp;nbsp;&lt;br>&amp;nbsp; &lt;span style="color:blue">
+public&lt;/span> FinalizerContainingObj( &lt;span style="color:blue">int&lt;/span> n ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">
+this&lt;/span>.n = n;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; subObj1 = &lt;span style="color:blue">new&lt;/span> 
+FinalizerObj(n * 100);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; subObj2 = &lt;span style="color:blue">
+new&lt;/span> FinalizerObj((n * 100) + 1);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+Console.WriteLine(&amp;quot;Creating containing object {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>&amp;nbsp;&lt;br>&amp;nbsp; 
+~FinalizerContainingObj( ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(&amp;quot;Finalizing 
+finalizer containing obj {0}&amp;quot;, n);&lt;br>&amp;nbsp; }&lt;br>}&lt;br>&amp;nbsp;&lt;br>&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;;color:blue">
+class&lt;/span>&lt;span style="font-size:10.0pt;font-family:&amp;quot;Courier New&amp;quot;"> 
+TestApp {&lt;br>&amp;nbsp; &lt;span style="color:blue">static&lt;/span> &lt;span style="color:blue">
+void&lt;/span> Main() {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">for&lt;/span>( &lt;span style="color:blue">
+int&lt;/span> i = 0; i &amp;lt; 5; ++i ) LeakAnObj(i);&lt;br>&amp;nbsp; }&lt;br>&amp;nbsp;&lt;br>&amp;nbsp; &lt;span style="color:blue">
+static&lt;/span> &lt;span style="color:blue">void&lt;/span> LeakAnObj(&lt;span style="color:blue">int&lt;/span> 
+i) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; FinalizerContainingObj obj = &lt;span style="color:blue">
+new&lt;/span> FinalizerContainingObj(i);&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;p>Running&amp;nbsp;this 
+app under our ref-counted Rotor yields the following output:&lt;/p>
+&lt;pre>C:\Home\Chris\Projects\Rotor\src\tests&amp;gt;clix FinalizerTest.exe
+Created Finalizer object 0
+Created Finalizer object 1
+Creating containing object 0
+Finalizing finalizer containing obj 0
+Finalizing finalizer object 0
+Finalizing finalizer object 1
+Created Finalizer object 100
+Created Finalizer object 101
+Creating containing object 1
+Finalizing finalizer containing obj 1
+Finalizing finalizer object 100
+Finalizing finalizer object 101
+Created Finalizer object 200
+Created Finalizer object 201
+Creating containing object 2
+Finalizing finalizer containing obj 2
+Finalizing finalizer object 200
+Finalizing finalizer object 201
+Created Finalizer object 300
+Created Finalizer object 301
+Creating containing object 3
+Finalizing finalizer containing obj 3
+Finalizing finalizer object 300
+Finalizing finalizer object 301
+Created Finalizer object 400
+Created Finalizer object 401
+Creating containing object 4
+Finalizing finalizer containing obj 4
+Finalizing finalizer object 400
+Finalizing finalizer object 401&lt;/pre>&lt;p>In other words, all top-level and 
+2nd-level objects are finalized deterministically. Wahoo!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/622</id>
+    <title>Much Improved FxCop v1.21 Released</title>
+    <updated>2003-06-15T07:00:00.000Z</updated>
+    <published>2003-06-15T07:00:00.000Z</published>
+    <summary>Here. FxCop should be part of the build process for any.NET code that has a build process. Recommended!</summary>
+    <content type="html">&lt;h1>Much Improved FxCop v1.21 Released&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/fxcop/">Here&lt;/a>. FxCop should be part of the build process for any .NET code that has a build process. Recommended!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/620</id>
+    <title>nprof - Open-source .NET profiler</title>
+    <updated>2003-06-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-14T07:00:00.000Z</published>
+    <summary>Here. From Matthew Mastracci: I just released the fifth alpha version of my free, open-source.NET profiling application. It supports everything I've thrown at it so far (multi-threaded programs, NAnt, SWF apps) and is getting close to feature-complete. It comes with a basic VS.NET add-in that lets you profile from DevStudio. There is a complete source package on the downloads page for those who are interested in learning how a profiler works, or just want to tinker.
+</summary>
+    <content type="html">&lt;h1>nprof - Open-source .NET profiler &lt;/h1>
+&lt;a href="http://nprof.sourceforge.net">Here&lt;/a>. From Matthew Mastracci: I just released the fifth alpha version of my free, open-source .NET profiling application. It supports everything I've thrown at it so far (multi-threaded programs, NAnt, SWF apps) and is getting close to feature-complete.
+
+It comes with a basic VS.NET add-in that lets you profile from DevStudio. There is a complete source package on the downloads page for those who are interested in learning how a profiler works, or just want to tinker.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12418</id>
+    <title>Filter Files With Unknown Extensions For XP</title>
+    <updated>2003-06-13T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-06-13T07:00:00.000Z</published>
+    <summary>The fact that Windows XP Find in Files only searches files with known file extensions drives me crazy because it skips, among other things,.cs&amp;nbsp; files. Every time I set up a new system, I have to re-figure out how to fix this. To facilitate that, I put together a.reg file that will search all unknown file extensions as text files. Enjoy. </summary>
+    <content type="html">&lt;h1>Filter Files With Unknown Extensions For XP&lt;/h1>
+
+	&lt;p align="left">The fact that Windows XP Find in Files only searches files 
+	with known file extensions drives me crazy because it skips, among other 
+	things, .cs&amp;nbsp; files. Every time I set up a new system, I have to 
+	re-figure out how to fix this. To facilitate that, I put together
+	&lt;a href="/public/tools/FilterFilesWithUnknownExtensionsForXP.reg">a .reg file that will 
+	search all unknown file extensions as text files&lt;/a>. Enjoy.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/612</id>
+    <title>[open mouthed amazement]</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. I'm speechless. I can't imagine what this will lead to. [radio.weblogs.com/0001011]</summary>
+    <content type="html">&lt;h1>[open mouthed amazement]&lt;/h1>
+&lt;a href="http://www.xthink.com/product.html">Here&lt;/a>. I'm speechless. I can't imagine what this will lead to.
+
+[radio.weblogs.com/0001011]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/614</id>
+    <title>Win a Free Seat at the Applied XML Dev. Conference</title>
+    <updated>2003-06-12T07:00:00.000Z</updated>
+    <published>2003-06-12T07:00:00.000Z</published>
+    <summary>Here. Pick the new name for this feed and win a free seat at the Applied XML Developer's Conference in greater Portland, OR, July 10-11. If you're already registered (a good idea, since it's filling fast), you can have a free seat for a friend or co-worker. Here's the scoop: When I built this news feed, it was an attempt to build a Windows equivilent of SlashDot. Unfortunately, I'm not interested in keeping up on all the news in the Windows developer space and the few folks that have stepped up to post on t...</summary>
+    <content type="html">&lt;h1>Win a Free Seat at the Applied XML Dev. Conference&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Pick the new name for this feed and win a free seat at the Applied XML Developer's Conference in greater Portland, OR, July 10-11. If you're already registered (a good idea, since it's filling fast), you can have a free seat for a friend or co-worker.
+
+Here's the scoop:
+
+When I built this news feed, it was an attempt to build a Windows equivilent of SlashDot. Unfortunately, I'm not interested in keeping up on all the news in the Windows developer space and the few folks that have stepped up to post on this site are largely spammers (although not all of them, by any means).
+
+So, I'll be moving this feed to be just stuff from me. The problem is, I don't know what to call it. In addition to posting links to stuff I produce, e.g. tools, writings, editorial, etc., this blog (ok, I admit it : ) is really about the things that I find interesting and my personal insights, so I'll want a name that reflects that. Also, I'm a big fan of puns, alliteration and double meanings (the logo has *three* meanings).
+
+If you suggest the best name by 8am PST, Friday, June 19th, you win a free seat (travel and hotel is still on you).</content>
+  </entry>
+</feed>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed108.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed107.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed109.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed108.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/894</id>
+    <title>Case Study: Porting SourceOffsite from Java to C#</title>
+    <updated>2003-10-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-24T07:00:00.000Z</published>
+    <summary>Here. "When SourceGear needed to move its SourceOffSite product away from the Microsoft® Java Virtual Machine (MSJVM), which Microsoft is no longer able to fully support as a result of a legal agreement with Sun Microsystems, SourceGear turned to C# and the Microsoft.NET Framework."</summary>
+    <content type="html">&lt;h1>Case Study: Porting SourceOffsite from Java to C#&lt;/h1>
+&lt;a href="http://www.microsoft.com/resources/casestudies/CaseStudy.asp?CaseStudyID=14694">Here&lt;/a>. "When SourceGear needed to move its SourceOffSite product away from the Microsoft® Java Virtual Machine (MSJVM), which Microsoft is no longer able to fully support as a result of a legal agreement with Sun Microsystems, SourceGear turned to C# and the Microsoft .NET Framework."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/891</id>
+    <title>Rico Mariani on Managed Code Performance</title>
+    <updated>2003-10-23T07:00:00.000Z</updated>
+    <published>2003-10-23T07:00:00.000Z</published>
+    <summary>Here. Very nice talk about.NET and performance. [blogs.gotdotnet.com/BradA]</summary>
+    <content type="html">&lt;h1>Rico Mariani on Managed Code Performance&lt;/h1>
+&lt;a href="http://gotdotnet.com/team/clr/about_clr_performance.aspx">Here&lt;/a>. Very nice talk about .NET and performance.
+
+[blogs.gotdotnet.com/BradA]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/890</id>
+    <title>Search Full Text of 120,000 Books on Amazon</title>
+    <updated>2003-10-23T07:00:00.000Z</updated>
+    <published>2003-10-23T07:00:00.000Z</published>
+    <summary>Here. Wahoo!!!</summary>
+    <content type="html">&lt;h1>Search Full Text of 120,000 Books on Amazon&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/subst/home/home.html/ref%3Dtab%5Fb%5Fgw%5F1/103-5687357-8183853">Here&lt;/a>. Wahoo!!!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/889</id>
+    <title>MSDN Wants You</title>
+    <updated>2003-10-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-10-23T07:00:00.000Z</published>
+    <summary>Here. Want to write for MSDN online? Here's how.</summary>
+    <content type="html">&lt;h1>MSDN Wants You&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/aboutmsdn/submit.asp">Here&lt;/a>. Want to write for MSDN online? Here's how.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/888</id>
+    <title>Why Showing Longhorn at the PDC Isn't Too Early</title>
+    <updated>2003-10-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-23T07:00:00.000Z</published>
+    <summary>Here. Robert lays out why it's important that MS show off our current Longhorn thinking ASAP: so that we can incorporate as much of your feedback as humanly possible. Unfortunately, Robert frames his post in terms of hatred for MS, which is a bit more negative then necessary, I think. Still, given his current status as the I-hate-MS-lightning-rod, I'm not surprised that he covers his head on his way outdoors... : )</summary>
+    <content type="html">&lt;h1>Why Showing Longhorn at the PDC Isn't Too Early&lt;/h1>
+&lt;a href="http://longhornblogs.com/scobleizer/posts/345.aspx">Here&lt;/a>. Robert lays out why it's important that MS show off our current Longhorn thinking ASAP: so that we can incorporate as much of your feedback as humanly possible.
+
+Unfortunately, Robert frames his post in terms of hatred for MS, which is a bit more negative then necessary, I think. Still, given his current status as the I-hate-MS-lightning-rod, I'm not surprised that he covers his head on his way outdoors... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/885</id>
+    <title>The Cow Puncher Punchline</title>
+    <updated>2003-10-22T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-10-22T07:00:00.000Z</published>
+    <summary>Here. I did remember the rest of the cow branding story from last night's Portland Nerd Dinner: -I'm embarrassed to admit that it was I who paid the cowboy $2 to eat the newly harvested cow testicle -A few months later, Cal sent me a copy of the Klamath Falls Herald and News featuring a visit from "Visiting Windows Expert Chris Sells" (or some such) shaking Cal's hand. I don't think it was the cow testicle incident that got me in the paper, but I try not too think about it too much BTW, if you're on the fen...</summary>
+    <content type="html">&lt;h1>The Cow Puncher Punchline&lt;/h1>
+&lt;a href="http://neopoleon.com/blog/posts/1221.aspx">Here&lt;/a>. I did remember the rest of the cow branding story from last night's Portland Nerd Dinner:
+
+-I'm embarrassed to admit that it was I who paid the cowboy $2 to eat the newly harvested cow testicle
+
+-A few months later, Cal sent me a copy of the Klamath Falls Herald and News featuring a visit from "Visiting Windows Expert Chris Sells" (or some such) shaking Cal's hand. I don't think it was the cow testicle incident that got me in the paper, but I try not too think about it too much
+
+BTW, if you're on the fence about the Portland Nerd Dinners and you have trouble with conversations involving cow testicles, mafia hits or how to defraud the phone company, you might want to stay home for the next one...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/886</id>
+    <title>Windows Source Code for Eligible MVPs</title>
+    <updated>2003-10-22T07:00:00.000Z</updated>
+    <published>2003-10-22T07:00:00.000Z</published>
+    <summary>Here. Whoa: "Microsoft Corp. today announced the latest addition to its Shared Source Initiative source licensing program, the Most Valuable Professional Source Licensing Program (MVPSLP). The program recognizes individuals with expertise in one or more Microsoft® products and technologies for their active participation and efforts to help other Microsoft customers. Recognizing the importance of supporting MVPs and the online and offline technical communities they assist, Microsoft is delivering one of its ...</summary>
+    <content type="html">&lt;h1>Windows Source Code for Eligible MVPs&lt;/h1>
+&lt;a href="http://www.microsoft.com/presspass/press/2003/oct03/10-22MVPSLP2003PR.asp">Here&lt;/a>. Whoa:
+
+"Microsoft Corp. today announced the latest addition to its Shared Source Initiative source licensing program, the Most Valuable Professional Source Licensing Program (MVPSLP). The program recognizes individuals with expertise in one or more Microsoft® products and technologies for their active participation and efforts to help other Microsoft customers. Recognizing the importance of supporting MVPs and the online and offline technical communities they assist, Microsoft is delivering one of its most valuable assets, Windows® source code, to eligible MVPs through the MVPSLP."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/887</id>
+    <title>Chris Anderson Sets Up Longhorn-ish Wiki</title>
+    <updated>2003-10-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-22T07:00:00.000Z</published>
+    <summary>Here. "This Wiki is hosted by ChrisAnderson. The topics for this Wiki will be anything that we all want - mostly Longhorn, Windows, Microsoft,.NET, and other technology.."</summary>
+    <content type="html">&lt;h1>Chris Anderson Sets Up Longhorn-ish Wiki&lt;/h1>
+&lt;a href="http://wiki.simplegeek.com/">Here&lt;/a>. "This Wiki is hosted by ChrisAnderson. The topics for this Wiki will be anything that we all want - mostly Longhorn, Windows, Microsoft, .NET, and other technology.."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/884</id>
+    <title>ASP Alliance reviews WinForms Programming in C#</title>
+    <updated>2003-10-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-10-20T07:00:00.000Z</published>
+    <summary>Here. I don't know why an ASP site is reviewing a WinForms book, but they do a thorough job and, of course, I like their conclusion: "If you are looking for a Windows Forms book, don’t let this one slip out of your hands. The book has such insight and experience included that every reader, beginner and professional, will get benefit from reading it."</summary>
+    <content type="html">&lt;h1>ASP Alliance reviews WinForms Programming in C#&lt;/h1>
+&lt;a href="http://www.aspalliance.com/articleViewer.aspx?aId=214">Here&lt;/a>. I don't know why an ASP site is reviewing a WinForms book, but they do a thorough job and, of course, I like their conclusion:
+
+"If you are looking for a Windows Forms book, don’t let this one slip out of your hands. The book has such insight and experience included that every reader, beginner and professional, will get benefit from reading it."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/883</id>
+    <title>Every Vain Author's Best Friend</title>
+    <updated>2003-10-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-10-20T07:00:00.000Z</published>
+    <summary>Here. Rory built me an RSS feed to track book reviews on Amazon.com. And then he thanked me for letting him do it. You're welcome, Rory... BTW, to complete your Vain Author's Toolkit, you'll need junglescan.com to track a portfolio of books' sales rank. If those ain't web services, I don't know what are!</summary>
+    <content type="html">&lt;h1>Every Vain Author's Best Friend&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/arss.aspx">Here&lt;/a>. Rory built me an RSS feed to track book reviews on Amazon.com. And then he thanked me for letting him do it. You're welcome, Rory...
+
+BTW, to complete your Vain Author's Toolkit, you'll need junglescan.com to track a portfolio of books' sales rank.
+
+If those ain't web services, I don't know what are!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/882</id>
+    <title>Black Cube for "Chris Sells (Likeness)"</title>
+    <updated>2003-10-19T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-10-19T07:00:00.000Z</published>
+    <summary>Here. This caused me to laugh 'til I snorted. : )</summary>
+    <content type="html">&lt;h1>Black Cube for "Chris Sells (Likeness)"&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-10-18T08:21:01Z">Here&lt;/a>. This caused me to laugh 'til I snorted. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/881</id>
+    <title>Aaron at the Applied XML Dev.Conf. part 2</title>
+    <updated>2003-10-17T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-10-17T07:00:00.000Z</published>
+    <summary>Here. "Some XML applications don't require validation to function properly but others absolutely require it in one form or another to avoid disasters. Aaron Skonnard discusses when validation is a MUST, then presents different implementation techniques for tackling the problem."</summary>
+    <content type="html">&lt;h1>Aaron at the Applied XML Dev.Conf. part 2&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031016XMLAS/manifest.xml">Here&lt;/a>. "Some XML applications don't require validation to function properly but others absolutely require it in one form or another to avoid disasters. Aaron Skonnard discusses when validation is a MUST, then presents different implementation techniques for tackling the problem."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/877</id>
+    <title>Scott Guthrie's ASP.NET Whidbey Demo</title>
+    <updated>2003-10-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-15T07:00:00.000Z</published>
+    <summary>Here. ScottGu describes his ASP.NET Whidbey demo at the ASP.NET Connections conference. I'm no ASP.NET programmer, but that *is* one tasty dish...</summary>
+    <content type="html">&lt;h1>Scott Guthrie's ASP.NET Whidbey Demo&lt;/h1>
+&lt;a href="http://weblogs.asp.net/scottgu/posts/32007.aspx">Here&lt;/a>. ScottGu describes his ASP.NET Whidbey demo at the ASP.NET Connections conference. I'm no ASP.NET programmer, but that *is* one tasty dish...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/876</id>
+    <title>How Does One Obtain Inside Information?</title>
+    <updated>2003-10-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-10-15T07:00:00.000Z</published>
+    <summary>Here. The one where I list the steps I use to figure out stuff that isn't documented.</summary>
+    <content type="html">&lt;h1>How Does One Obtain Inside Information?&lt;/h1>
+&lt;a href="/12519">Here&lt;/a>. The one where I list the steps I use to figure out stuff that isn't documented.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/879</id>
+    <title>Part 1 of Aaron's Applied XML Dev.Conf. talk</title>
+    <updated>2003-10-15T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-10-15T07:00:00.000Z</published>
+    <summary>Here. "Some XML applications don't require validation to function properly but others absolutely require it in one form or another to avoid disasters. Aaron Skonnard discusses when validation is a MUST, then presents different implementation techniques for tackling the problem."</summary>
+    <content type="html">&lt;h1>Part 1 of Aaron's Applied XML Dev.Conf. talk&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031007XMLAS/manifest.xml">Here&lt;/a>. "Some XML applications don't require validation to function properly but others absolutely require it in one form or another to avoid disasters. Aaron Skonnard discusses when validation is a MUST, then presents different implementation techniques for tackling the problem."</content>
+  </entry>
+</feed>

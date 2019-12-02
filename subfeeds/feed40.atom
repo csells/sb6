@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed40.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed39.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed41.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed40.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1846</id>
+    <title>No DevCon This Year</title>
+    <updated>2005-08-26T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2005-08-26T07:00:00.000Z</published>
+    <summary>Please return to your regularly scheduled programming. P.S. I imagine the DevCon come back in time, but it may well be a while... </summary>
+    <content type="html">&lt;h1>No DevCon This Year&lt;/h1>
+&lt;P>Please return to your regularly scheduled programming.&lt;/P>
+&lt;P>P.S. I imagine the DevCon come back in time, but it may well be a while...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1845</id>
+    <title>Avalon + Indigo = Magic @ the PDC</title>
+    <updated>2005-08-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-08-26T07:00:00.000Z</published>
+    <summary>Doug and I will be giving the following talk at the PDC this year: "Are you tired of lackluster user interfaces and bit-dropping communication infrastructures that don't work together? If so, then you'll want to see the magic that Doug Purdy and Chris Sells can wield when they build a couple of smart client applications using Windows Presentation Foundation and Windows Communication Foundation. In this talk, you'll be astounded and amazed by the power and simplicity of Doug and Chris, plus they might show y...</summary>
+    <content type="html">&lt;h1>Avalon + Indigo = Magic @ the PDC&lt;/h1>
+&lt;P>&lt;a href="http://www.douglasp.com/blog/default.aspx">Doug&lt;/a> and I will be giving &lt;A href="http://commnet.microsoftpdc.com/content/sessionview.aspx?TopicID=aa50c82e-add2-4138-9374-5b503d67709b">the following talk&lt;/A> at &lt;a href="http://microsoft.com/pdc">the PDC&lt;/a> this year:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Are you tired of lackluster user interfaces and bit-dropping communication infrastructures that don't work together? If so, then you'll want to see the magic that Doug Purdy and Chris Sells can wield when they build a couple of smart client applications using Windows Presentation Foundation and Windows Communication Foundation. In this talk, you'll be astounded and amazed by the power and simplicity of Doug and Chris, plus they might show you some WinFX, if you ask nicely."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>It's midnight as I post this description and Doug has been in my office since 6:30pm working with me on it. If nothing else, it's going to be hella fun for us. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1844</id>
+    <title>PND For You And Me</title>
+    <updated>2005-08-24T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-08-24T07:00:00.000Z</published>
+    <summary>Between the new job, the new house and the book, I haven't had nearly enough contact with my local nerd friends. I'm starting to experience nerd withdrawal symptoms! Come to the PND next Tuesday and ask me about MDD, my PDC talk or how Jeff Richter and I were recently blamed for IDisposable. </summary>
+    <content type="html">&lt;h1>PND For You And Me&lt;/h1>
+&lt;P>Between &lt;a href="/12474">the new job&lt;/A>, the new house and &lt;A href="/wpfbook">the book&lt;/A>, I haven't had nearly enough contact with &lt;A href="http://www.neopoleon.com/blog/">my&lt;/A> &lt;A href="http://www.hanselman.com/blog/">local&lt;/A> &lt;A href="http://richhubbins.theclaussens.com/">nerd&lt;/A> &lt;A href="http://www.managed-world.com/">friends&lt;/A>. I'm starting to experience nerd withdrawal symptoms! Come to &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/08/23/7021.aspx">the PND next Tuesday&lt;/A> and ask me about &lt;A href="http://www.google.com/search?hl=en&amp;amp;q=define+mdd">MDD&lt;/A>, &lt;A href="http://msdn.microsoft.com/events/pdc/">my PDC talk&lt;/A> or &lt;A href="http://www.dotnetrocks.com/default.aspx?showID=130">how Jeff Richter and I were recently blamed for IDisposable&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1843</id>
+    <title>Show Off @ The PDC</title>
+    <updated>2005-08-23T07:00:00.000Z</updated>
+    <published>2005-08-23T07:00:00.000Z</published>
+    <summary>According to the post on Channel9 : "At this year&amp;#8217;s PDC, we&amp;#8217;ll be hosting our first-ever Show Off event. What the heck is Show Off, you ask? Well, Show Off is an evening event held at the PDC where you can show off your application, tip, tool, technique, animation, or anything cool that can help or inspire other developers. We&amp;#8217;re asking you to submit a short video demonstrating what you want to show off." Careful; these are the kinds of events that inspire me and my friends to get a little...</summary>
+    <content type="html">&lt;h1>Show Off @ The PDC&lt;/h1>
+&lt;P>According to &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=102337">the post on Channel9&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"At this year&amp;#8217;s PDC, we&amp;#8217;ll be hosting our first-ever Show Off event. What the heck is Show Off, you ask? Well, Show Off is an evening event held at the PDC where you can show off your application, tip, tool, technique, animation, or anything cool that can help or inspire other developers. We&amp;#8217;re asking you to submit a short video demonstrating what you want to show off."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Careful; these are the kinds of events that inspire &lt;a href="/12357">me&lt;/A> &lt;a href="/12360">and&lt;/A> &lt;a href="/12618">my&lt;/A> &lt;a href="/12640">friends&lt;/A> &lt;a href="/12348">to&lt;/A> &lt;A HREF="/public/fun/centerfold/">get&lt;/A> &lt;a href="/12350">a&lt;/A> &lt;a href="/12346">little&lt;/A> &lt;a href="/12352">crazy&lt;/A>. Still, there ain't an audience on the planet that wants to see your cool, geeky stuff more than the PDC audience. Come one, come all!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1842</id>
+    <title>New Contractor Advice: Time Estimation</title>
+    <updated>2005-08-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-08-22T07:00:00.000Z</published>
+    <summary>I got a time estimate from a friend who's a brand new contractor in the area of home renovation (my wife made me promise to start renovations on our new place immediately as a condition of purchase). He'd already bid me an hourly rate, but I asked for a rough estimate of time spent. He hasn't yet seen the place (we can't talk the owner into letting us come over again), but he answered my question anyway, giving me an estimate 5x lower than I suspected it would be (Danger! Danger, Will Robinson!). I replied ...</summary>
+    <content type="html">&lt;h1>New Contractor Advice: Time Estimation&lt;/h1>
+&lt;P>I got a time estimate from a friend who's a brand new contractor in the area of home renovation (my wife made me promise to start renovations on our new place immediately as a condition of purchase). He'd already bid me an hourly rate, but I asked for a rough estimate of time spent. He hasn't yet seen the place (we can't talk the owner into letting us come over again), but he answered my question anyway, giving me an estimate 5x lower than I suspected it would be (Danger! Danger, Will Robinson!). I replied with the following advise on how a contractor should estimate time for maximum customer happiness (and therefore maximum revenue):&lt;/P>
+&lt;P>There are two schools of thought on time estimates. One school of thought, which I&amp;#8217;ll call "bait &amp;amp; switch," says to knowingly under-estimate so that by the time the customer notices a slip, they're committed and they continue with their contractor by sheer momentum, hoping it'll all be over soon. This technique produces customers that either pay more than they thought or that force the contractor to cut corners to meet their initial estimate, lowering the quality. In either case, the customer tends to get unhappy, which hurts repeat business and word of mouth.&lt;/P>
+&lt;P>The other estimation technique I'll call "under-promise &amp;amp; over-deliver." In this scenario, the contractor estimates their time very conservatively, then doubles or triples it to take into account the unforeseen. This estimate may scare the customer away, but a good contractor will say things like "I hope it'll be less, but I want to make sure that we spend enough time to make sure that you're happy," to smooth the way. Plus, when the contractor delivers early, the customer is happy, calls again for future work and says things like "and he came in under the initial estimate!" to all his friends.&lt;/P>
+&lt;P>Obviously, very few people that read this site are contractors in the area of home renovation, but I think the advice applies to most forms of contracting. Take it as you will.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1839</id>
+    <title>The List</title>
+    <updated>2005-08-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-08-20T07:00:00.000Z</published>
+    <summary>Lord keep me off of the list of people that don't have to go through regular security checks : "The Aug. 5 memo recommends reducing patdowns by giving screeners the discretion not to search those wearing tight-fitting clothes. It also suggests exempting several categories of passengers from screening, including federal judges, members of Congress, Cabinet members, state governors, high-ranking military officers and those with high-level security clearances." Can't you just picture the movie where the terror...</summary>
+    <content type="html">&lt;h1>The List&lt;/h1>
+&lt;P>Lord keep me off of &lt;A href="http://www.washingtonpost.com/wp-dyn/content/article/2005/08/13/AR2005081300691.html">the list of people that don't have to go through regular security checks&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Aug. 5 memo recommends reducing patdowns by giving screeners the discretion not to search those wearing tight-fitting clothes. It also suggests exempting several categories of passengers from screening, including federal judges, members of Congress, Cabinet members, state governors, high-ranking military officers and those with high-level security clearances."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Can't you just picture the movie where the terrorists kidnap a Cabinet member, hold their family hostage and use them as a mule to blow up some airplane? I'll take the anal probes at the airport, thank you.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1838</id>
+    <title>Cool New IVR Feature</title>
+    <updated>2005-08-19T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-08-19T07:00:00.000Z</published>
+    <summary>In a (very) past life, I used to write intergrated voice response (IVR) systems aka "voicemail hell." It may not seem like it, but we spent a *ton* of time trying to make a voice output/12-key&amp;nbsp;input UI as friendly as possible. However, I never thought of the IVR feature I ran into today. While transfering my utilities to our new address, one of the utilities put me on hold and offered to call me back when it was my turn in line (promising me that I would not lose my place). I've got the world's most pe...</summary>
+    <content type="html">&lt;h1>Cool New IVR Feature&lt;/h1>
+&lt;P>In a (very) past life, I used to write intergrated voice response (IVR) systems aka "voicemail hell." It may not seem like it, but we spent a *ton* of time trying to make a voice output/12-key&amp;nbsp;input UI as friendly as possible.&lt;/P>
+&lt;P>However, I never thought of the IVR feature I ran into today. While transfering my utilities to our new address, one of the utilities put me on hold and offered to call me back when it was my turn in line (promising me that I would not lose my place). I've got &lt;A href="http://www.audiovox.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&amp;amp;storeId=10001&amp;amp;productId=13758&amp;amp;langId=-1">the world's most perfect cell phone&lt;/A> and &lt;A href="http://www.motorola.com/mdirect/demos/bluetooth03/">the world's most perfect Bluetooth headset&lt;/A>, so staying on hold was just as easy as not, but still, that's a damn cool feature.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12469</id>
+    <title>The Half Monty</title>
+    <updated>2005-08-12T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/spout/halfmonty.PNG"/>
+    <category term="spout" label="The Spout"/>
+    <published>2005-08-12T07:00:00.000Z</published>
+    <summary>I spent last weekend in Reno with Joel, my fraternity brother, wife's sister's husband and business partner (we have an investing business). We'd both been working killer hours lately and we needed a break, so we spent three days on a &amp;quot;dirty boy's weekend&amp;quot; (as another friend called it). We gambled and drank and ate and slept in and took in a showing of The Dukes of Hazzard and, one night, we went to a comedy club. The main act was a fabulous comedian that took his craft very seriously. In fact, he...</summary>
+    <content type="html">&lt;h1>The Half Monty&lt;/h1>
+&lt;p align="left">I spent last weekend in Reno with Joel, my fraternity brother, wife's sister's husband and business partner (we have an investing business). We'd both been working killer hours lately and we needed a break, so we spent three days on a &amp;quot;dirty boy's weekend&amp;quot; (as another friend called it). We gambled and drank and ate and slept in and took in a showing of &lt;a href="http://www.imdb.com/title/tt0377818/">The Dukes of Hazzard&lt;/a> and, one night, we went to a comedy club. The main act was a fabulous comedian that took his craft very seriously. In fact, he was so committed to what he did, that he went to all the trouble to have his hair cut so that it looked short with it tucked into his hat, even though it was really very long, just so he could whip it out in his act for comedic effect. During his act, he juggled a chainsaw, did an amazing card trick, road a unicycle, played music on the MP3 player he'd plugged into his mic, brought folks up on stage and had us all laughing the entire time. He had this way of bringing folks up on stage where he'd point at a person, ask them their name (e.g. &amp;quot;Bob&amp;quot;) and then say, &amp;quot;Folks, give Bob a hand as he comes up to help me out with this next bit.&amp;quot; He was a true entertainer.&lt;/p>&lt;p align="left">After he'd had us busting a gut for about an hour, he pointed to me and said, &amp;quot;What's your name?&amp;quot; I answered him and he said, &amp;quot;Folks, give Chris a hand as he comes up to help me out with this next bit&amp;quot; and up on stage I went. Now, from a distance, I look fairly normal sized, especially sitting down. Our comedian was a tad on the short size, frankly, so when I walked up on stage, I towered over him and his eyes got real big. Of course, I'm shy on stage, so I didn't say much, but nodded and played along good-naturedly. I mean, hell, I'd once led an audience into &lt;a href="/12352">a public pie lynching of a suited marketing person&lt;/a>, so I knew the drill.&lt;/p>&lt;p align="left">He looked at me and said, &amp;quot;Chris, I want you to follow along with me. Do what I do. If you don't do what I do, it won't be funny. The funnier it is, the more likely you are to get laid.&amp;quot; Of course, I was in Reno w/o my wife, so unless Joel got frisky, I wasn't going to get laid, but that didn't mean I wasn't enthusiastic about increasing my chances (and, of course, the audience was egging me on), so I nodded my head earnestly that I would do my best to follow along. He gave me a floppy cabby hat and put a top hat on his own head -- I followed along. He did a little bit of &lt;a href="http://www.imdb.com/title/tt0204946/">&amp;quot;spirit fingers&amp;quot;&lt;/a> and I followed. He did some &lt;a href="http://www.elvis.com/">hip gyrations&lt;/a>; I followed. Of course, the audience was loving this and I love it when the audience is having a good time, so I'm having a good time.&lt;/p>&lt;p align="left">Then he started the music: &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/B000005K6Y/qid=1123905990">&amp;quot;You Can Leave Your Hat On,&amp;quot;&lt;/a> by Tom Jones, made famous in strip routines the world over and most especially in the excellent movie: &lt;a href="http://www.imdb.com/title/tt0119164/">The Fully Monty&lt;/a>.&lt;/p>&lt;p align="left">I can see where this is going.&lt;/p>&lt;p align="left">So can the audience.&lt;/p>&lt;p align="left">Now I'm trying to remember what underwear I'm wearing.&lt;/p>&lt;p align="left">Our comedian starts into his routine, doing flips and tricks with his hat that I try to keep up with, but it's hard enough to balance a stiff top hat on your head, let alone a floppy cabby hat so, while I make the best of it, I'm only funny because I can't do what this guy is doing. The best bit, of course, is when he holds his hat over his crotch, I follow, he gyrates, I follow, he lets go of his hat, I follow, his hat stays up and mine... does not (obviously he's more likely to get laid at this point than I am : ).&lt;/p>&lt;p align="left">After this, he pulls half his belt out and swings it around in a sexy manner; I follow, being as sexy as a giant, overweight geek can be (remember the fat guy from The Full Monty?). He throws his belt over his should and I do the same.&lt;/p>&lt;p align="left">And then the inevitable. The music builds to a fever pitch, he reaches down and pulls off his pull-away pants in one smooth motion, throwing them over his shoulder and the crowd goes wild.&lt;/p>&lt;p align="left">Then he looks at me expectantly and the crowd goes even more wild (especially Joel who's nearly choking in laughter at this point). I raise my eyebrow to the comedian and he eggs me on. I raise my eyebrow to the audience and they egg me on. I remember that I'm no stranger to public nudity and a crazy audience is even more fun than &lt;a href="/public/fun/centerfold/">a quiet photo studio&lt;/a>, so I reach for my pants.&lt;/p>&lt;p align="left">Of course, I'm not wearing my tear-away pants, so I'm laboriously unbuttoning and unzipping, following by carefully pulling off my pants over my sandals, which is not an easy thing to do without falling down when you're 6'5&amp;quot; and your center of gravity is someone near your left ear. But, I manage it and throw my pants over my shoulder, suddenly reminded of the underwear I chose for my day of revelry:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/halfmonty.PNG" width="640" height="480">&lt;/p>&lt;p align="left">Now the comedian was nearly choking with laughter, but he said I did a great job and reached out to give me a hug (being careful to keep his hips as far away from mine as I was keeping mine from his), then shoo'd me off the stage. Then, while I'm still struggling to get my pants back on, the house lights go up, the act is over and the comedian is gone. And now, half the audience wants to shake my hand on the way out for showing off my polka dots on stage. It was a good way to start the weekend. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1836</id>
+    <title>Very Cool Nullable Fix</title>
+    <updated>2005-08-12T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-08-12T07:00:00.000Z</published>
+    <summary>.NET 2.0 has the idea of a "nullable" type built right in, e.g. Nullable&amp;lt;int&amp;gt; x = null; // legal This adds nullability to value types as well as reference types. Further, C# adds direct support with this syntax: int? x = null; // legal However, while the C# language was updated to support nullability, the CLR was not, which lead to problems with boxing: int? x = null; object y = x; // a boxed Nullable&amp;lt;T&amp;gt; was never null if( y!= null ) Console.WriteLine("Doh!"); This problem was fixed this late in...</summary>
+    <content type="html">&lt;h1>Very Cool Nullable Fix&lt;/h1>
+&lt;P>.NET 2.0 has the idea of a "nullable" type built right in, e.g.&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>Nullable&amp;lt;int&amp;gt; x = null; // legal&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>This adds nullability to value types as well as reference types. Further, C# adds direct support with this syntax:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>int? x = null; // legal&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>However, while the C# language was updated to support nullability, the CLR was not, which lead to problems with boxing:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>int? x = null;&lt;BR>object y = x;&lt;BR>// a boxed Nullable&amp;lt;T&amp;gt; was never null&lt;BR>if( y != null ) Console.WriteLine("Doh!");&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>This problem was fixed this late in the .NET 2.0 game by getting a &lt;EM>bunch &lt;/EM>of folks together to rejigger things so that the following works the way you expect:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>int? x = null;&lt;BR>object y = x;&lt;BR>// a boxed Nullable&amp;lt;T&amp;gt; can now be null&lt;BR>if( y == null ) Console.WriteLine("Wahoo!");&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>&lt;A href="http://blogs.msdn.com/somasegar/archive/2005/08/11/450640.aspx">Somasgar has the full scoop.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1837</id>
+    <title>Chris does the Half Monty</title>
+    <updated>2005-08-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-08-12T07:00:00.000Z</published>
+    <summary>Here. The one where I shake my booty up on stage in Reno : </summary>
+    <content type="html">&lt;h1>Chris does the Half Monty&lt;/h1>
+&lt;a href="/12469">Here&lt;/a>. &lt;P>The one where &lt;a href="/12469">I shake my booty up on stage in Reno&lt;/A>:&lt;/P>
+&lt;P>&lt;IMG height=480 src="/public/spout/halfmonty.PNG" width=640 border=0>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1835</id>
+    <title>What should I do w/ the metadata?</title>
+    <updated>2005-08-11T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-08-11T07:00:00.000Z</published>
+    <summary>Imagine I've got some "metadata" that describes some functionality of my system, e.g. the command line parameters to a tool: &amp;lt;args description="Two wrongs don't make a right, but three lefts do"&amp;gt; &amp;nbsp; &amp;lt;arg name="lefts" description="Number of left turns" type="int" default=4" /&amp;gt; &amp;nbsp; &amp;lt;arg name="attitude" description="Driver attitude" required="true" type="string" /&amp;gt; &amp;lt;/args&amp;gt; Once I have this "metadata" in place, should I a) use it to generate a class at compile-time that implements...</summary>
+    <content type="html">&lt;h1>What should I do w/ the metadata?&lt;/h1>
+&lt;P>Imagine I've got some "metadata" that describes some functionality of my system, e.g. the command line parameters to a tool:&lt;/P>
+&lt;P>&amp;lt;args description="Two wrongs don't make a right, but three lefts do"&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;arg name="lefts" description="Number of left turns" type="int" default=4" /&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;arg name="attitude" description="Driver attitude" required="true" type="string" /&amp;gt;&lt;BR>&amp;lt;/args&amp;gt;&lt;/P>
+&lt;P>Once I have this "metadata" in place, should I a) use it to generate a class at compile-time that implements the command line parsing, or should I b) use it to drive a command-line parsing framework at run-time?&lt;/P>
+&lt;P>If I do a), generate the code, the result might look like this:&lt;/P>
+&lt;P>class Args {&lt;BR>&amp;nbsp; public void Parse(string[] args) {...}&lt;BR>&amp;nbsp; public string Usage { get {...} }&lt;BR>&amp;nbsp; public int Lefts { get {...}&amp;nbsp;set {...} }&lt;BR>&amp;nbsp; public string Attitude { get {...} set {...} }&lt;BR>}&lt;/P>
+&lt;P>I've got better perf, but I have to generate the code in some way and .NET doesn't come with any built-in tools to do that (no, I don't count ASP.NET or XSLT as good codegen tools). Plus, the command-line args are now baked in and require a re-compile to change and who cares about perf to parse the command line? Finally, I'm much more likely to have most of the work done in a base class, e.g.&lt;/P>
+&lt;P>class Args&amp;nbsp;: &lt;STRONG>ArgsBase&lt;/STRONG>&amp;nbsp;{&lt;BR>&amp;nbsp; public void Parse(string[] args) { &lt;STRONG>return base.Parse(args, ...);&lt;/STRONG> }&lt;BR>&amp;nbsp; public string Usage { get {...} }&lt;BR>&amp;nbsp; public int Lefts { get {...}&amp;nbsp;set {...} }&lt;BR>&amp;nbsp; public string Attitude { get {...} set {...} }&lt;BR>}&lt;/P>
+&lt;P>In my experience, most of the work of code-gen is generating the smallest possible bit of code to provide a nice wrapper around a base class that does most of the work in a very interpretive manner.&lt;/P>
+&lt;P>If I do b), have a run-time interpretter of the "metadata," I've got to build a command-line argument interpreter, but, as I've said, you almost always have that anyway. However, I also give up a develop-time wrapper aka "Intellicrack" which will be pried from my cold, dead fingers.&lt;/P>
+&lt;P>What do you guys do?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1833</id>
+    <title>I Love Arguing with Ian</title>
+    <updated>2005-08-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-08-05T07:00:00.000Z</published>
+    <summary>Here. Ian and I submitted the final manuscript for Programming Avalon, Beta Edition, on July 13th (right on time, I'll point out). Since then, the O'Reilly folks have been working overtime to fix my prose (I'm not a big fan of editorial guidelines or templates). As part of that process, they sent Ian and me a 400+ page PDF file for us to check. In the process, I submit changes to the manuscript, Ian argues about the ones with which he disagrees and then I argue with his arguments. It's great fun. Here an ex...</summary>
+    <content type="html">&lt;h1>I Love Arguing with Ian&lt;/h1>
+&lt;a href="http://www.interact-sw.co.uk/iangblog/">Here&lt;/a>. &lt;P>Ian and I submitted the final manuscript for &lt;A href="http://www.bookpool.com/sm/0596101139">Programming Avalon, Beta Edition&lt;/A>, on July 13th (right on time, I'll point out). Since then, the O'Reilly folks have been working overtime to fix my prose (I'm not a big fan of editorial guidelines or templates). As part of that process, they sent Ian and me a 400+ page PDF file for us to check. In the process, I submit changes to the manuscript, Ian argues about the ones with which he disagrees and then I argue with his arguments. It's great fun.&lt;/P>
+&lt;P>Here an excerpt in which we're arguing over a single word that has nothing whatsoever to do with the technical content of the book while two professional editors from ORA watch, waiting for us to decide:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">Page 51:&amp;nbsp; You want to change "breathing space" to "breathing room"? &amp;nbsp;Why?&amp;nbsp; The term "breathing space" is a common idiom. &amp;nbsp;(And judging by Google, that&amp;#8217;s not just a UKism.) &amp;nbsp;I prefer it to "breathing room", so unless there&amp;#8217;s a good reason to change I'd prefer to leave it.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">[&lt;SPAN class=GramE>csells&lt;/SPAN>] &lt;SPAN class=SpellE>googlefight&lt;/SPAN> shows "breathing room" to be slightly more popular than "breathing space," plus I&amp;#8217;d never personally heard the latter. Also, you use the word "space" in a close previous sentence and I liked the variety.&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">&lt;o:p>Here we're arguing over a single word again and, to help make my argument, I claim super powers:&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">&lt;o:p>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">Page 205: Why do you want to change "useful" to "handy"? Is there something wrong with "useful"?&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">[&lt;SPAN class=GramE>csells&lt;/SPAN>] because you use the word "used" later in that same sentence. Having "useful" and "used" so close together made my spider sense tingle.&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">Here we're dealing with the vagaries of our personal styles and my preference for brevity (Ian can highlight a single word and write several paragraphs on it, while I like to highlight several paragraphs and comment "huh?"). In this case, I circled an URL and said "too big:"&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">Page 222: Yes it's a big URL, but there's not a lot I can do about that &amp;#8211; if you can convince Microsoft to make a smaller URL in the next day or so, please do. &amp;nbsp;There's a shrinkster URL in there too, so I don't see what the problem is. &amp;nbsp;And I'm not going to agree to &lt;SPAN class=GramE>removing&lt;/SPAN> the original URL.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">[&lt;SPAN class=GramE>csells&lt;/SPAN>] I didn't say it was a *&lt;B>&lt;SPAN style="FONT-WEIGHT: bold">long&lt;/SPAN>&lt;/B>* URL (I can hardly blame you for that, Ian : ); I said it was a *&lt;B>&lt;SPAN style="FONT-WEIGHT: bold">big&lt;/SPAN>&lt;/B>* URL. What I meant was&lt;SPAN class=GramE>,&lt;/SPAN> the font looks too big in comparison to the size of the fonts around it.&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">Here we're arguing over grammatic style, again, while two professional editors look on, letting us fight it out like children in the backseat of the car on a family vacation:&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">Page 224: I'm not quite sure what you&amp;#8217;re proposing as the new text here, although I do see the problem. &amp;nbsp;How about:&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">"(It doesn&amp;#8217;t matter where the UICulture element appears within this section.)"&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">[&lt;SPAN class=GramE>csells&lt;/SPAN>] I'm suggesting that I prefer parenthetical comments to be part of the sentence, e.g. "Foo sucks (and by 'sucks,' I mean 'blows')." You tend to do it the other way and I find it jarring, e.g. "Foo sucks. (And by 'sucks,' I mean 'blows.')" Plus, there's the matter of consistency, i.e. I do it in the former way in my writing and you do it in the latter way in yours; we should pick one and stick with it (and to be clear &amp;#8211; we should pick my way : ). Unfortunately, I packed my &lt;SPAN class=SpellE>Strunk&lt;/SPAN> &amp;amp; White, but I have every confidence that they got it right, too. : )&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">In this case, after reading several hundred pages of the book &lt;EM>again&lt;/EM>, I was getting a little punchy, so I highlighted a Bezier curve, redrew it by a couple of pixels and suggested that after doing the math in my head, I feared a bug in Avalon's rendering of Beziers; could ORA check it with their Cray?&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P class=MsoNormal>&lt;FONT face=Arial color=navy size=2>&lt;SPAN style="FONT-SIZE: 10pt; COLOR: navy; FONT-FAMILY: Arial">Page 252: Well those were all drawn in Avalon using the exact positions chosen for the control points. &amp;nbsp;Also, I've been using Bezier curves for about 15 years now, and they all look exactly as I'd expect them to look. &amp;nbsp;I just cranked up Illustrator on the Mac.&amp;nbsp; It seems to agree with Avalon&amp;#8230;&amp;nbsp; So does Acrylic.&amp;nbsp; What maths &lt;SPAN class=GramE>are&lt;/SPAN> you doing that indicates a different result?&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">[&lt;SPAN class=GramE>csells&lt;/SPAN>] I was just teasing. If my mention of the use of a Cray wasn&amp;#8217;t enough, didn&amp;#8217;t the bit about me doing the math "in my head" tip you off? I am delighted to know that you spent time double-checking things, however. : )&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">See? Big fun! : )&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/FONT></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1834</id>
+    <title>Fight Club Rules 9-16</title>
+    <updated>2005-08-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-08-05T07:00:00.000Z</published>
+    <summary>If you love Fight Club (who doesn't?!?), then you'll love the rest of the Fight Club rules.</summary>
+    <content type="html">&lt;h1>Fight Club Rules 9-16&lt;/h1>
+If you love &lt;A href="http://www.imdb.com/title/tt0137523/">Fight Club&lt;/A> (who doesn't?!?), then you'll love &lt;A href="http://www.drinkatwork.com/2005/08/ninth-through-sixteenth-rules-of-fight.html">the rest of the Fight Club rules&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1832</id>
+    <title>WinFX Beta 1 Online SDK Docs</title>
+    <updated>2005-08-03T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-08-03T07:00:00.000Z</published>
+    <summary>I think the title says it all... </summary>
+    <content type="html">&lt;h1>WinFX Beta 1 Online SDK Docs&lt;/h1>
+&lt;A href="http://winfx.msdn.microsoft.com/library/">I think the title says it all...&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1831</id>
+    <title>Don Box Slept Here</title>
+    <updated>2005-07-28T07:00:00.000Z</updated>
+    <published>2005-07-28T07:00:00.000Z</published>
+    <summary>I put my house in Beaverton, OR on the market today. Please buy it. Thank you. </summary>
+    <content type="html">&lt;h1>Don Box Slept Here&lt;/h1>
+&lt;P>&lt;A href="http://www.rmlsweb.com/Reports.asp?CMAID=6138052&amp;amp;Time=1312&amp;amp;ReportID=CLFULLRES">I put my house in Beaverton, OR on the market today&lt;/A>. Please buy it. Thank you.&lt;/P></content>
+  </entry>
+</feed>

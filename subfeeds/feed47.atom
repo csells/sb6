@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed47.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed46.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed48.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed47.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1744</id>
+    <title>Avalon is changing my thinking...</title>
+    <updated>2005-03-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-31T08:00:00.000Z</published>
+    <summary>Here. This application demonstrates the two things I'm finding that Avalon has changed about my thinking. The first is that data binding makes itself into even trivial Avalon applications and its presence is appreciated. The second is that I want to push as much stuff into XAML as I can. Keeping the data separate from the code makes a bunch of sense and, for my trivial application, keeping the data inline with the rest of the UI was very useful. It allows for easy maintenance and localization while pushing ...</summary>
+    <content type="html">&lt;h1>Avalon is changing my thinking...&lt;/h1>
+&lt;a href="/12475">Here&lt;/a>. &lt;a href="/12475">This application demonstrates the two things I'm finding that Avalon has changed about my thinking&lt;/A>. The first is that data binding makes itself into even trivial Avalon applications and its presence is appreciated. The second is that I want to push as much stuff into XAML as I can. Keeping the data separate from the code makes a bunch of sense and, for my trivial application, keeping the data inline with the rest of the UI was very useful. It allows for easy maintenance and localization while pushing as much of my application into declarations and out of imperative statements. The more I can tell the computer &lt;I>what&lt;/I> I want instead of &lt;I>how&lt;/I> I want to accomplish it, the better off I am.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1745</id>
+    <title>sellsbrothers.com needs an intern!</title>
+    <updated>2005-03-31T08:00:00.000Z</updated>
+    <published>2005-03-31T08:00:00.000Z</published>
+    <summary>I am completely swamped this year and sellsbrothers.com needs a serious upgrade, so, I'm looking for one or more interns interested in the following work: rebuilding sellsbrothers.com from scratch in ASP.NET 2.0 and either Community Server or dasBlog real-world requirements like porting the existing content and keeping existing links working, even embedded &amp;lt;a name&amp;gt; links real-world working conditions (like this is the entire spec of the site reimplementation) working with a graphics artist to implemen...</summary>
+    <content type="html">&lt;h1>sellsbrothers.com needs an intern!&lt;/h1>
+&lt;P>I am completely swamped this year and sellsbrothers.com needs a serious upgrade, so, I'm looking for one or more interns interested in the following work:&lt;/P>
+&lt;UL>
+&lt;LI>rebuilding sellsbrothers.com from scratch in ASP.NET 2.0 and either &lt;A href="http://www.telligentsystems.com/Solutions/OpenSource.aspx">Community Server&lt;/A> or &lt;A href="http://www.dasblog.net/documentation/CategoryView.aspx?category=Overview">dasBlog&lt;/A>&lt;/LI>
+&lt;LI>real-world requirements like porting the existing content and keeping existing links working, even embedded &amp;lt;a name&amp;gt; links&lt;/LI>
+&lt;LI>real-world working conditions (like this is the entire spec of the site reimplementation)&lt;/LI>
+&lt;LI>working with a graphics artist to implement a new site design (I like &lt;A href="http://www.edwardtufte.com/tufte/">Ed's site&lt;/A>)&lt;/LI>
+&lt;LI>experimenting with ways to close the gap on RSS comments based on work already done with &lt;a href="/12548">the wfw:commentRss standard&lt;/A>&lt;/LI>
+&lt;LI>hands-on mentoring from an experienced member of the Windows developer community (aka I promise to complain loud and long if you build stuff I don't like... : )&lt;/LI>
+&lt;LI>exposing the complete content of the site for consumption by other web sites and smart clients&lt;/LI>
+&lt;LI>&lt;A href="/1735">hosting MSDN content&lt;/A> in the site's chrome&lt;/LI>
+&lt;LI>no money, but you do get to brag about reimplementing one of the web's most popular one-person developer-centric sites, serving almost 1M unique visitors/month&lt;/LI>
+&lt;LI>integrating existing features, like the Windows Forms FAQ and the Wahoo! check for the .NET Framework&lt;/LI>
+&lt;LI>free access to the new site for life for you and your ancestors (and let me throw in 256 free GUIDs while I'm at it... : )&lt;/LI>
+&lt;LI>integrating ads into the overall design&lt;/LI>
+&lt;LI>btw, did I mention there's no money?&lt;/LI>&lt;/UL>
+&lt;P>If you're interested, &lt;A href="mailto:csells@sellsbrothers.com?subject=I want to work for no money!">drop me a line&lt;/A>&amp;nbsp;(I'm sure I'll be flooded... : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1743</id>
+    <title>Leaders and Legacy</title>
+    <updated>2005-03-30T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-30T08:00:00.000Z</published>
+    <summary>Here. For an internal thingie, I was asked to write a short bio, define what I think a "leader" is, describe my target legacy and list my biggest source of pride. This is what I came up with.</summary>
+    <content type="html">&lt;h1>Leaders and Legacy&lt;/h1>
+&lt;a href="/12476">Here&lt;/a>. For an internal thingie, I was asked to write a short bio, define what I think a "leader" is, describe my target legacy and list my biggest source of pride. &lt;a href="/12476">This is what I came up with&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1741</id>
+    <title>Another Laugh Out Loud TechEd Video</title>
+    <updated>2005-03-30T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-30T08:00:00.000Z</published>
+    <summary>Scott and Rory do it again.</summary>
+    <content type="html">&lt;h1>Another Laugh Out Loud TechEd Video&lt;/h1>
+&lt;A href="http://www.hanselman.com/blog/TechEdVideo3DrinkTheTechEdKoolAid.aspx">Scott and Rory do it again&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12476</id>
+    <title>Leaders and Legacy</title>
+    <updated>2005-03-30T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-30T08:00:00.000Z</published>
+    <summary>For an internal thingie, I was asked to write a short bio, define what I think a &amp;quot;leader&amp;quot; is, describe my target legacy and list my biggest source of price. This is what I came up with: I've been pretty much everything you can be in the IT industry including author, speaker, consultant, conference organizer, grunt in a start-up, CEO in a start-up, developer, tester, documenter, etc. I'm currently a content strategist for MSDN in the areas of WinFX/Longhorn and smart clients. I'm passionate about b...</summary>
+    <content type="html">&lt;h1>Leaders and Legacy&lt;/h1>
+&lt;p align="left">For an internal thingie, I was asked to write a short bio, define what I think a &amp;quot;leader&amp;quot; is, describe my target legacy and list my biggest source of price. This is what I came up with:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>I've been pretty much everything you can be in the IT industry including author, speaker, consultant, conference organizer, grunt in a start-up, CEO in a start-up, developer, tester, documenter, etc. I'm currently a content strategist for MSDN in the areas of WinFX/Longhorn and smart clients. I'm passionate about building products to make people happier, whether that's because they're more productive or because I've solved some hard problem or just because they lean back and say &amp;quot;cool!&amp;quot; My biggest regret is that I've never yet been on a product team at Microsoft; to get the full experience, someday I need to do that! After that, I can retire and write novels from coffee shops around the world. : ) &lt;/i>&lt;/p>&lt;p align="left">&lt;i>A great leader is someone that inspires you to do things you didn't even know you were capable of doing.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>The legacy I'd like to leave behind is that people can look back at their interactions with me and think that I helped make their lives better, whether it was an answer to a tough question or an insight that they hadn't had before or a comment that tickled their funny bone.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>The biggest source of pride in my life is the family I've built with my wife and two sons (the Sells brothers, whence the name of my web site came: &lt;a href="/">www.sellsbrothers.com&lt;/a>).&lt;/i>&lt;/p>&lt;/blockquote></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12475</id>
+    <title>I can feel Avalon changing me...</title>
+    <updated>2005-03-30T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/excuse1.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-30T08:00:00.000Z</published>
+    <summary>I'm writing a tiny little application for my writing on ClickOnce in Avalon. In fact, to demonstrate ClickOnce, the app hardly matters, so I picked something really simple: an excuse generator. I didn't even have to make up the excuses, as I stole them from an office gag gift two years ago and wrapped them in an excuse web service (which is a whole other story : ). Binding to Data Defined in Code The idea was to have an array of excuse strings like so: public partial class Window1 : Window { static string[]...</summary>
+    <content type="html">&lt;h1>I can feel Avalon changing me...&lt;/h1>
+&lt;p align="left">I'm writing a tiny little application for my writing on ClickOnce in Avalon. In fact, to demonstrate ClickOnce, the app hardly matters, so I picked something really simple: an excuse generator. I didn't even have to make up the excuses, as I stole them from an office gag gift two years ago and wrapped them in &lt;a href="/public/samples/excuses-asmx.zip">an excuse web service&lt;/a> (which is a whole other story : ).&lt;/p>&lt;h2 align="left">Binding to Data Defined in Code&lt;/h2>&lt;p align="left">The idea was to have an array of excuse strings like so:&lt;/p>&lt;div align="left">
+&lt;pre>public partial class Window1 : Window {
+&lt;b>  static string[] excuses = {
+    &amp;quot;Jury Duty&amp;quot;,
+    ...
+    &amp;quot;It's Not My Job&amp;quot;,
+  };
+&lt;/b>
+public Window1() {
+    InitializeComponent();
+&lt;b>    this.DataContext = Window1.excuses;
+&lt;/b>  }
+  ...
+}&lt;/pre>&lt;/div>&lt;p align="left">Once I had the collection of strings, I make them available for binding by setting them to the DataContext of the main window and the rest of the code would simply be a matter of binding a TextBlock to the current excuse like so:&lt;/p>&lt;div align="left">
+&lt;pre>&amp;lt;Window ...&amp;gt;
+  ...
+&lt;b>  &amp;lt;TextBlock TextContent=&amp;quot;{Bind Path=/}&amp;quot; /&amp;gt;
+  &amp;lt;Button x:ID=&amp;quot;newExcuseButton&amp;quot;&amp;gt;New Excuse&amp;lt;/Button&amp;gt;
+&lt;/b>  ...
+&amp;lt;/Window&amp;gt;&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">By binding the TextContent property of the TextBlock to a Path of &amp;quot;/&amp;quot;, I'm explicitly saying &amp;quot;don't try to dig into each object in the collection looking for sub-properties, but binding to the item itself.&amp;quot; Initially, the TextBlock will show the first item in the list:&lt;/div>&lt;div align="left">&lt;p align="left">&lt;img border="0" src="/public/spout/excuse1.jpg" width="583" height="480">&lt;/div>&lt;div align="left">&lt;p align="left">When the button is pressed, I change the output by selecting a random item from the collection and setting it as the &amp;quot;current&amp;quot; item in the collection:&lt;/div>&lt;div align="left">
+&lt;pre>Random rnd = new Random();
+void newExcuseButton_Click(object sender, RoutedEventArgs e) {
+&lt;b>  ListCollectionView view =
+    (ListCollectionView)Binding.GetDefaultView((IEnumerable)Window1.excuses);
+  view.MoveCurrentToPosition(rnd.Next(view.Count - 1));
+&lt;/b>}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">By grabbing the view for the excuses collection, I can do a number of things with it, including move the current item in the view to some specific position. When I do that, the data bound TextContent property of the TextBlock will be updated to show whatever is current:&lt;/div>&lt;div align="left">&lt;p align="left">&lt;img border="0" src="/public/spout/excuse2.jpg" width="583" height="480">&lt;/div>&lt;div align="left">&lt;p align="left">So here's the first thing that I'm notice that I really approach differently in Avalon: the data binding hammer is almost always the first tool I reach for in the programming box. In the old days, to write this app, I'd set the TextContent property directly in code. Now, I don't even &lt;i>think &lt;/i>to do that. Instead, I've got data and a property to set, so that's data binding.&lt;/div>&lt;div align="left">&lt;h2 align="left">Binding to Objects Defined in XAML&lt;/h2>&lt;/div>&lt;div align="left">&lt;p align="left">&amp;quot;But wait!&amp;quot; I hear you howl. &amp;quot;What about internationalization?!?&amp;quot; I know. Hard-coded data in the source code is a bad idea. So where does it go? Into the XAML itself, of course, so that anyone working on the UI, whether for an English-speaking country or not, can add new items, port them to another language, etc. How to do it? Well, since XAML is an XML dialect for describing object hierarchies, I could define a new type (roughly):&lt;/div>&lt;div align="left">
+&lt;pre>class Excuse {
+  string value;
+  public string Value { get { ... } set { ... } }
+}
+
+class ExcuseData : List&amp;lt;Excuse&amp;gt; {
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">Then I could write my excuse data as a hydration of objects using the ObjectDataSource (roughly):&lt;/div>&lt;div align="left">
+&lt;pre>...
+&amp;lt;Window.Resources&amp;gt;
+&lt;b>  &amp;lt;ObjectDataSource x:Key=&amp;quot;ExcuseData&amp;quot;&amp;gt;
+    &amp;lt;l:ExcuseData&amp;gt;
+      &amp;lt;l:Excuse Value=&amp;quot;Jury Duty&amp;quot; /&amp;gt;
+      ...
+      &amp;lt;l:Excuse Value=&amp;quot;It's Not My Job&amp;quot; /&amp;gt;
+    &amp;lt;/l:ExcuseData&amp;gt;
+  &amp;lt;/ObjectDataSource&amp;gt;
+&lt;/b>&amp;lt;/Window.Resources&amp;gt;
+...&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">The XAML inside the ObjectDataSource will create an instance of the ExcuseData type, adding an object of type Excuse for each &amp;lt;Excuse&amp;gt; element, setting the Value property of the object using the Value attribute from the XAML. With the object data source, I can create a little &amp;quot;data island&amp;quot; in the middle of my app where the list of excuses can be poked and prodded without touching the code.&lt;/div>&lt;div align="left">&lt;h2 align="left">Binding to Data Defined in XAML&lt;/h2>&lt;/div>&lt;div align="left">&lt;p align="left">Still, why go to the trouble of defining my own custom data type, which doesn't have any behavior to speak of, when I've got the universal behavior-less data type -- XML? I can use the XmlDataSource without any custom type at all:&lt;/div>&lt;div align="left">&lt;p align="left">&amp;lt;Window.Resources&amp;gt;&lt;br>&lt;b>&amp;nbsp; &amp;lt;XmlDataSource x:Key=&amp;quot;ExcuseData&amp;quot; XPath=&amp;quot;/Excuses/Excuse&amp;quot;&amp;gt;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;Excuses xmlns=&amp;quot;&amp;quot;&amp;gt;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;Excuse&amp;gt;Jury Duty&amp;lt;/Excuse&amp;gt;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;Excuse&amp;gt;It's Not My Job&amp;lt;/Excuse&amp;gt;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/Excuses&amp;gt;&lt;br>&amp;nbsp; &amp;lt;/XmlDataSource&amp;gt;&lt;br>&lt;/b>&amp;lt;/Window.Resources&amp;gt;&lt;/div>&lt;div align="left">&lt;p align="left">You'll notice that the XML looks almost exactly like the object data source, except that instead of using an attribute to keep the juicy bits, I use the content area itself to store the data, very like the initial array example (I could have used XML attributes, but it seemed overkill in this case). One other interesting bit is that XPath of the XML data source itself. It defines the bit of the data island from which I'm pulling the data. If I had used /Excuses, the data collection would have had a single item with a bunch of children. But using /Excuses/Excuse, I'm exposing the children directly.&lt;/div>&lt;div align="left">&lt;p align="left">To use the XML data source, I need to set it as somebody's data context in the hierarchy of controls and bind to it:&lt;/div>&lt;div align="left">
+&lt;pre>&amp;lt;Window ...&amp;gt;
+  &amp;lt;Window.Resources&amp;gt;
+&lt;b>    &amp;lt;XmlDataSource x:Key=&amp;quot;ExcuseData&amp;quot; XPath=&amp;quot;/Excuses/Excuse&amp;quot;&amp;gt;...&amp;lt;/XmlDataSource&amp;gt;
+&lt;/b>  &amp;lt;/Window.Resources&amp;gt;
+  &amp;lt;Grid ... &lt;b>DataContext=&amp;quot;{Bind DataSource={StaticResource ExcuseData}}&amp;quot;&lt;/b>&amp;gt;
+    ...
+    &amp;lt;TextBlock ... &lt;b>TextContent=&amp;quot;{Bind XPath=.}&amp;quot;&lt;/b> /&amp;gt;
+    &amp;lt;Button ... x:ID=&amp;quot;newExcuseButton&amp;quot;&amp;gt;New Excuse&amp;lt;/Button&amp;gt;
+  &amp;lt;/Grid&amp;gt;
+&amp;lt;/Window&amp;gt;&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">&lt;i>I should note that in future bits, I'll be able to set the grid's data context to {StaticResource ExcuseData} directly, but in the March 2005 CTP Avalon bits, I have to actually bind the data source to the data context in a double bind that blows my mind.&lt;/i>&lt;/div>&lt;div align="left">&lt;p align="left">More importantly, notice that instead of using a Path to get to the data I want, I use an XPath. This allows me to further refine the XPath statement provided as part of the XML data source itself. However, since I don't want to refine it any further, I use the XPath statement that says &amp;quot;just use the content of each of the elements.&amp;quot; You'll notice that I used &amp;quot;.&amp;quot; in the XPath statement to provide this meaning instead of &amp;quot;/&amp;quot; as I did in the case where I was using an object Path. The two syntaxi look the same, but are very different and you'll want to watch yourself switching between the two.&lt;/div>&lt;div align="left">&lt;p align="left">Anyway, with the data moved to the XAML along with the UI and the binding logic, my actual code boils down to only the following:&lt;/div>&lt;div align="left">
+&lt;pre>public partial class Window1 : Window {
+  Random rnd = new Random();
+
+  public Window1() {
+    InitializeComponent();
+&lt;b>    this.newExcuseButton.Click += newExcuseButton_Click;
+&lt;/b>  }
+
+  void newExcuseButton_Click(object sender, RoutedEventArgs e) {
+&lt;b>    IDataSource dataSource = (IDataSource)this.FindResource(&amp;quot;ExcuseData&amp;quot;);
+    ListCollectionView view =
+      (ListCollectionView)Binding.GetDefaultView((IEnumerable)dataSource.Data);
+    view.MoveCurrentToPosition(rnd.Next(view.Count - 1));
+&lt;/b>  }
+}&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">So, this is really only a few lines of code, one to hook up the button event handler, one to find the excuse data from the window resources, one to get the view on the excuse data and one to move the currency pointer to some other random spot. The actual display of the data is left to the data binding code (which somebody else gets to maintain).&lt;/div>&lt;div align="left">&lt;p align="left">One other thing worth noting is that I had defining event handlers in the XAML. Even when it's me writing both the XAML and the code, I don't like the XAML making demands on the code. If the XAML handles an event, e.g. with an event trigger, than that's fine, but don't make requirements of the code form the XAML. Instead, provide hooks for the code to do its work, e.g. the x:ID on the ExcuseData and the TextBlock are both used in the code, but neither &lt;i>requires&lt;/i> anything of the code. If you're going to separate the presentation from the logic, this is the kind of thing you'll want to think about.&lt;/div>&lt;div align="left">&lt;h2 align="left">Where Are We?&lt;/h2>&lt;/div>&lt;div align="left">&lt;p align="left">Two things I'm finding that Avalon has changed about my thinking. The first is that data binding makes itself into even trivial Avalon applications and its presence is appreciated. The second is that I want to push as much stuff into XAML as I can. Keeping the data separate from the code makes a bunch of sense and, for my trivial application, keeping the data inline with the rest of the UI was very useful. It allows for easy maintenance and localization while pushing as much of my application into declarations and out of imperative statements. The more I can tell the computer &lt;i>what&lt;/i> I want instead of &lt;i>how&lt;/i> I want to accomplish it, the better off I am.&lt;/div></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1742</id>
+    <title>The *Official* Place for Avalon and Indigo Bugs!</title>
+    <updated>2005-03-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-30T08:00:00.000Z</published>
+    <summary>What with the public availability of the Avalon and Indigo CTPs &amp;nbsp;and our stated goal of pre-beta bit releases to gather feedback, you might wonder, "But where should this feedback go?" I'll tell you where to go -- the MSDN Product Feedback Center, which now has entries for Avalon and Indigo. Hog pile on the WinFX API product teams!</summary>
+    <content type="html">&lt;h1>The *Official* Place for Avalon and Indigo Bugs!&lt;/h1>
+What with the public availability of the &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013">Avalon and Indigo CTPs&lt;/A>&amp;nbsp;and our stated goal of pre-beta bit releases to gather feedback, you might wonder, "But where should this feedback go?" I'll tell you where to go -- &lt;A href="http://lab.msdn.microsoft.com/productfeedback/default.aspx">the MSDN Product Feedback Center&lt;/A>, which now has entries for Avalon and Indigo. Hog pile on the WinFX API product teams!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1739</id>
+    <title>Betsy's Got Them GotDotNet Blues</title>
+    <updated>2005-03-29T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-03-29T08:00:00.000Z</published>
+    <summary>Betsy Aoki, the matriarch of GotDotNet, sings a song of GDN Blues. And not only did she write and sing the song (with a surprisingly good voice for a geek), she also had a hard time getting it published across all GDN servers, further illustrating the point. Recommended! </summary>
+    <content type="html">&lt;h1>Betsy's Got Them GotDotNet Blues&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/betsya">Betsy Aoki&lt;/A>, the matriarch of &lt;A href="http://www.gotdotnet.com">GotDotNet&lt;/A>, sings &lt;A href="http://www.gotdotnet.com/team/betsy/gdnblues.aspx">a song of GDN Blues&lt;/A>. And not only did she write and sing the song (with a surprisingly good voice for a geek), she also had a hard time getting it published across all GDN servers, further illustrating the point. Recommended!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1738</id>
+    <title>La Vida Robot</title>
+    <updated>2005-03-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-29T08:00:00.000Z</published>
+    <summary>This story of a set of illegal alien high school students from the wrong side of the tracks in Phoenix competing against MIT college students was heart warming and heart breaking at the same time.</summary>
+    <content type="html">&lt;h1>La Vida Robot &lt;/h1>
+&lt;A href="http://www.wired.com/wired/archive/13.04/robot.html">This story of a set of illegal alien high school students from the wrong side of the tracks in Phoenix competing against MIT college students&lt;/A> was heart warming and heart breaking at the same time.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1740</id>
+    <title>Translate C# To And From VB.NET As You Type!</title>
+    <updated>2005-03-29T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-03-29T08:00:00.000Z</published>
+    <summary>Carlos Aguilar Mares, an SDE on the MS Web Platform &amp;amp; Tools team, has created a fabulous C# to/from VB.NET code translation tool. You can hand it a file and translate in batch mode or you can just type in one language and see it translated in real-time into the other. Now all Carlos needs is a project-wide batch mode and he'd have the problem licked!</summary>
+    <content type="html">&lt;h1>Translate C# To And From VB.NET As You Type!&lt;/h1>
+&lt;A href="http://www.carlosag.net/">Carlos Aguilar Mares&lt;/A>, an SDE on the MS Web Platform &amp;amp; Tools team, has created &lt;A href="http://www.carlosag.net/Tools/CodeTranslator/Default.aspx">a fabulous C# to/from VB.NET code translation tool&lt;/A>. You can hand it a file and translate in batch mode or you can just type in one language and see it translated in real-time into the other. Now all Carlos needs is a project-wide batch mode and he'd have the problem licked!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1737</id>
+    <title>Steve Maine on Indigo Duplex Contracts</title>
+    <updated>2005-03-28T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-28T08:00:00.000Z</published>
+    <summary>Steve Maine of Brain.Save() has done a really good job on the description of a set of duplex contracts in Indigo, i.e. those contracts where callbacks are specified, using the design of a multi-player game of blackjack. Steve shows the service contract interfaces, a bunch of the messaging code and even what's on the wire. Recommended.</summary>
+    <content type="html">&lt;h1>Steve Maine on Indigo Duplex Contracts&lt;/h1>
+Steve Maine of &lt;A href="http://hyperthink.net/blog/default.aspx">Brain.Save()&lt;/A> has done a really good job on &lt;A href="http://hyperthink.net/blog/PermaLink,guid,460c1f1e-dffc-4a26-a811-57a6e9fd74bf.aspx">the description of a set of duplex contracts in Indigo&lt;/A>, i.e. those contracts where callbacks are specified, using the design of a multi-player game of blackjack. Steve shows the service contract interfaces, a bunch of the messaging code and even what's on the wire. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1736</id>
+    <title>March Avalon/Indigo CTP Available for Public Download</title>
+    <updated>2005-03-25T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-25T08:00:00.000Z</published>
+    <summary>It took a coupla days more than we wanted 'cuz I was fighting with some internal tools, but the March 2005 Avalon/Indigo CTP is available for public download. Make sure you follow the instructions on the download page and only use it with the February CTP release of Visual Studio 2005, i.e. don't use it against the Whidbey beta 2 that'll "coming soon*" to a theater near you. * for some definition of "coming soon..." </summary>
+    <content type="html">&lt;h1>March Avalon/Indigo CTP Available for Public Download&lt;/h1>
+&lt;P>It took a coupla days more than we wanted 'cuz I was fighting with some internal tools, but &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013">the March 2005 Avalon/Indigo CTP is available for public download&lt;/A>.&lt;/P>
+&lt;P>Make sure you follow the instructions on &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013">the download page&lt;/A> and only use it with the &lt;A href="http://lab.msdn.microsoft.com/vs2005/downloads/">February CTP release of Visual Studio 2005&lt;/A>, i.e. don't use it against the Whidbey beta 2 that'll "coming soon*" to a theater near you.&lt;/P>
+&lt;P>* for some definition of "coming soon..."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1735</id>
+    <title>Duncan Shows How To Host MSDN Content On Your Site</title>
+    <updated>2005-03-22T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-03-22T08:00:00.000Z</published>
+    <summary>Are you unhappy with how MSDN arranges content on our site? Would you like to host the content you've written on your own site in your own chrome?&amp;nbsp;You can't do it with everything, but for the content with which it works, Duncan Mackenzie has posted code that pulls content out of MSDN's current content management system * and hosts in in your own chrome. For those of you that don't like how MSDN arranges its content, you now have the technical means to arrange it to suit your own tastes. * DISCLAIMER: M...</summary>
+    <content type="html">&lt;h1>Duncan Shows How To Host MSDN Content On Your Site&lt;/h1>
+&lt;P>Are you unhappy with how MSDN arranges content on our site? Would you like to host the content you've written on your own site in your own chrome?&amp;nbsp;You can't do it with everything, but for the content with which it works, &lt;A href="http://blogs.duncanmackenzie.net/duncanma/archive/2005/03/22/1247.aspx">Duncan Mackenzie has posted code that pulls content out of MSDN's current content management system&lt;/A>* and hosts in in your own chrome. For those of you that don't like how MSDN arranges its content, you now have the technical means to arrange it to suit your own tastes.&lt;/P>
+&lt;P>* DISCLAIMER: Microsoft's copyright still applies. The internal details of our content management system are going to change without notice. Use at your risk. No warranties extended. Void where prohibited. Some assembly required. blah, blah, blah...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1733</id>
+    <title>A Coder in Courierland</title>
+    <updated>2005-03-21T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-03-21T08:00:00.000Z</published>
+    <summary>I always love reading about people that love their jobs. In this case, a Toronto coder gave up half his salary to get out of cubeland and onto the back of a bike as a courier. His descriptions, especially the diary entries at the end, make me pine for the part of my childhood when I'd spend hours on the back of the bike simply because it was the most fun thing I could think of to do. Recommended.</summary>
+    <content type="html">&lt;h1>A Coder in Courierland&lt;/h1>
+I always love reading about people that love their jobs. In this case, &lt;A href="http://www.kuro5hin.org/story/2005/3/19/133129/548">a Toronto coder gave up half his salary to get out of cubeland and onto the back of a bike as a courier&lt;/A>. His descriptions, especially the diary entries at the end, make me pine for the part of my childhood when I'd spend hours on the back of the bike simply because it was the most fun thing I could think of to do. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1734</id>
+    <title>Chris Anderson's AvPad for the March CTP</title>
+    <updated>2005-03-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-03-21T08:00:00.000Z</published>
+    <summary>Chris Anderson has updated XamlPad for the March 2005 CTP of Avalon and renamed it AvPad. As a tool for learning and experimenting with XAML/Avalon, it can't be beat. Enjoy!</summary>
+    <content type="html">&lt;h1>Chris Anderson's AvPad for the March CTP&lt;/h1>
+Chris Anderson has updated XamlPad for the March 2005 CTP of Avalon and renamed it &lt;A href="http://blog.simplegeek.com/PermaLink.aspx/e0b2f9bc-5a8f-4d5f-b378-16ca634e0646">AvPad&lt;/A>. As a tool for learning and experimenting with XAML/Avalon, it can't be beat. Enjoy!</content>
+  </entry>
+</feed>

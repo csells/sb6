@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed35.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed34.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed36.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed35.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1912</id>
+    <title>Use IM to Ask Encarta</title>
+    <updated>2005-11-22T08:00:00.000Z</updated>
+    <published>2005-11-22T08:00:00.000Z</published>
+    <summary>If you add encarta@conversagent.com &amp;nbsp;to your MSN IM contacts list, you can ask it questions, e.g. What is the size of Mexico? When was Leonardo da Vinci born? How many calories are there in an orange? I want to see the map of Italy. When was Abraham Lincoln born? Solve 2x^2+7x=5 I especial love the "solve" thing. If I could figure out how to give it simultaneous equations, most of my boys' math home would be solved in IM... </summary>
+    <content type="html">&lt;h1>Use IM to Ask Encarta&lt;/h1>
+&lt;P>If you add &lt;A href="mailto:encarta@conversagent.com">encarta@conversagent.com&lt;/A>&amp;nbsp;to your MSN IM contacts list, you can ask it questions, e.g.&lt;/P>
+&lt;UL>
+&lt;LI>What is the size of Mexico?&lt;/LI>
+&lt;LI>When was Leonardo da Vinci born?&lt;/LI>
+&lt;LI>How many calories are there in an orange?&lt;/LI>
+&lt;LI>I want to see the map of Italy.&lt;/LI>
+&lt;LI>When was Abraham Lincoln born?&lt;/LI>
+&lt;LI>Solve 2x^2+7x=5&lt;/LI>&lt;/UL>
+&lt;P>I especial love the "solve" thing. If I could figure out how to give it simultaneous equations, most of my boys' math home would be solved in IM...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1911</id>
+    <title>WinFX November 2005 CTP</title>
+    <updated>2005-11-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-11-21T08:00:00.000Z</published>
+    <summary>You&amp;#8217;ve probably seen this by now, but I thought I&amp;#8217;d post the WinFX Nov05 CTP-related links together in a spot where I could find them later. In addition to being closer to what we plan on shipping, this CTP also works with VS05 RTM: WinFX Readme What's New&amp;nbsp;in WPF &lt;A href="http://www.microsoft.com/downloads/details.asp</summary>
+    <content type="html">&lt;h1>WinFX November 2005 CTP&lt;/h1>
+&lt;P>You&amp;#8217;ve probably seen this by now, but I thought I&amp;#8217;d post the WinFX Nov05 CTP-related links together in a spot where I could find them later. In addition to being closer to what we plan on shipping, this CTP also works with VS05 RTM:&lt;/P>
+&lt;UL type=disc>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://msdn.microsoft.com/windowsvista/support/relnotes/winfxnovctp/default.aspx">WinFX Readme&lt;/A>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://winfx.members.winisp.net/files/introductionnovctp.mht">What's New&amp;nbsp;in WPF&lt;/A>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=E5376297-DA10-4FC3-967D-38C96F767FC4&amp;amp;displaylang=en">WinFX Runtime Components&lt;/A>&amp;nbsp;(WCF, WPF and WF)&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=0A118D5F-21E7-4A3E-82D9-F30C6CE3F63D&amp;amp;displaylang=en">WinFX SDK&lt;/A>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=2202A637-2B68-40C0-B3AE-9235D60F42C4&amp;amp;displaylang=en">VS05 Extensions for WCF and WPF&lt;/A>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=589E23DD-503E-4179-9858-D080C669F8B9&amp;amp;displaylang=en">VS05 Extensions for WF&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1910</id>
+    <title>Lots of WinForms 2.0 Chewy Goodness</title>
+    <updated>2005-11-16T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-11-16T08:00:00.000Z</published>
+    <summary>Here. The WinForms team has put up all kinds of WinForms 2.0 resources, including a bunch of FAQs and samples. Enjoy.</summary>
+    <content type="html">&lt;h1>Lots of WinForms 2.0 Chewy Goodness&lt;/h1>
+&lt;a href="http://www.windowsforms.net/Default.aspx?tabindex=5&amp;tabid=60">Here&lt;/a>. The WinForms team has put up &lt;A href="http://www.windowsforms.net/Default.aspx?tabindex=5&amp;amp;tabid=60">all kinds of WinForms 2.0 resources&lt;/A>, including a bunch of FAQs and samples. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1909</id>
+    <title>Turning off special features in DVDs and CDs?</title>
+    <updated>2005-11-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-11-15T08:00:00.000Z</published>
+    <summary>Does anyone know if it's possible to turn off the special PC features of DVDs and CDs? I'd like to avoid Sony-sponsored virus enablers on CDs and required players for DVD content and just treat each of these CDs and DVDs as un-special. Is such a thing possible?</summary>
+    <content type="html">&lt;h1>Turning off special features in DVDs and CDs?&lt;/h1>
+Does anyone know if it's possible to turn off the special PC features of DVDs and CDs? I'd like to avoid &lt;A href="http://news.com.com/Microsoft+will+wipe+Sonys+rootkit/2100-1002_3-5949041.html?tag=nefd.top">Sony-sponsored virus enablers&lt;/A> on CDs and &lt;A href="http://www.intervideo.com/jsp/Home.jsp">required players&lt;/A> for DVD content and just treat each of these CDs and DVDs as un-special. Is such a thing possible?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1908</id>
+    <title>Dilbert on Trial Redundancy</title>
+    <updated>2005-11-13T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-11-13T08:00:00.000Z</published>
+    <summary>As an engineer, I appreciate the efficiency of combining the criminal and civil trials into one. Plus, if it weren't for "women who have inexplicably bad judgment," I'd never have reproduced. : )</summary>
+    <content type="html">&lt;h1>Dilbert on Trial Redundancy&lt;/h1>
+As an engineer, I appreciate the efficiency of &lt;A href="http://dilbertblog.typepad.com/the_dilbert_blog/2005/11/trial_redundanc.html">combining the criminal and civil trials into one&lt;/A>. Plus, if it weren't for "women who have inexplicably bad judgment," I'd never have reproduced. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1907</id>
+    <title>USB HD w/ OS/Apps + FolderShare = Portable Computing?</title>
+    <updated>2005-11-13T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-11-13T08:00:00.000Z</published>
+    <summary>If you could boot Windows Vista from a USB drive large enough for the OS and apps, like this version of Linux, and log into FolderShare for your data, you could use any computer that allowing booting from USB into a temporary terminal (although device drivers would be a challenge). </summary>
+    <content type="html">&lt;h1>USB HD w/ OS/Apps + FolderShare = Portable Computing?&lt;/h1>
+&lt;P>If you could boot Windows Vista from a USB drive large enough for the OS and apps, like &lt;A href="http://hardware.slashdot.org/hardware/05/11/13/1635229.shtml?tid=90&amp;amp;tid=137">this version of Linux&lt;/A>, and log into &lt;A href="https://www.foldershare.com">FolderShare&lt;/A> for your data, you could use any computer that allowing booting from USB into a temporary terminal (although device drivers would be a challenge).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1903</id>
+    <title>After the writing is done</title>
+    <updated>2005-11-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-11-11T08:00:00.000Z</published>
+    <summary>Today Michael Weinhardt and I submitted the final chapters of "Windows Forms 2.0 Programming in C#" for review. Mike has worked his butt off for the last 20 months to bring this revision about, taking a fresh look at every single chapter, not only for updates to the technology, but also for story. The book is far, far better than it was without him and he deserves your love and praise when the book is released (hopefully in April of 2006). Since this is Mike's first book, I imagine he thinks that most of th...</summary>
+    <content type="html">&lt;h1>After the writing is done&lt;/h1>
+&lt;P>Today Michael Weinhardt and I submitted the final chapters of "Windows Forms 2.0 Programming in C#" for review. Mike has worked his butt off for the last 20 months to bring this revision about, taking a fresh look at every single chapter, not only for updates to the technology, but also for story. The book is far, far better than it was without him and he deserves your love and praise when the book is released (hopefully in April of 2006).&lt;/P>
+&lt;P>Since this is Mike's first book, I imagine he thinks that most of the work is done. Here's the list of things I sent him that still needs doing:&lt;/P>
+&lt;OL style="MARGIN-TOP: 0in" type=1>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Mike will make changes to the chapters based on reviewer feedback, being careful to leave in change marks so I can see what he's changed&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">I&amp;#8217;ll review each chapter, approving or rejecting changes and making my own edits and comments&amp;nbsp;and we'll repeat this &amp;#8216;til we&amp;#8217;re both happy&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">We&amp;#8217;ll send everything by our post-reviewer-comment-application reviewer and apply his feedback like steps 1-2&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">I&amp;#8217;ll update the preface after Thanksgiving, sending it by Mike and our final reviewer &amp;#8216;til we're all happy (and in the process, you&amp;#8217;ll put in your acknowledgements)&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">We&amp;#8217;ll each update the frontmatter.doc to include dedications&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">I&amp;#8217;ll update the TOC.doc to match our final TOC&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Mike will pull out all of the figures into separate bitmap files (.bmp)&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">By 12/12, we&amp;#8217;ll upload the complete final manuscript, both Word and PDF versions, and send it off to AW&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Hopefully AW will send it along to Betsy, my most favorite copy editor ever, and she&amp;#8217;ll mark it up, sending Mike the marked up pages to approve or disapprove each copy edit&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">AW will drop PDF versions of each of the final chapters to us, which we&amp;#8217;ll submit change lists for&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">We&amp;#8217;ll ask for updated PDFs, &amp;#8216;cuz the publisher&amp;nbsp;traditionally only applies half of the feedback on each round, so we&amp;#8217;ll repeat 10-11 &amp;#8216;til they get them all&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Sometime in April of 2006, we&amp;#8217;ll each get a big box of books with our names on the front cover, which indicates that they&amp;#8217;re on their way to the book sellers, e.g. B&amp;amp;N, Amazon, Borders, etc. At this point, I&amp;#8217;ll update the web site and post the sample code while Mike updates the app that tracks errata&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">People will send us email telling us how much they like the book to butter us up before asking a technical question. We&amp;#8217;ll answer each question to the best of our ability and ask each questioner to post a review on Amazon.com&lt;o:p>&lt;/o:p>&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Some of the questioners will submit bugs in the book, which we&amp;#8217;ll track in the errata database&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">When a print run has been exhausted (the initial print run will be between 10K &amp;#8211; 20K copies, with subsequent print runs between 3K &amp;#8211; 5K copies), AW will ask us for a list of changes for the n+1th edition. For some reason, they&amp;#8217;ll always ask for those changes less than a week before they need them&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">AW will send us each a copy of the n+1th edition, which we&amp;#8217;ll use to check that the errata we submitted was actually applied (for some reason, publishers don&amp;#8217;t always apply all the changes we ask for), marking errata in the database as fixed in the n+1th edition&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Repeat 13-16 for 18-24 months &amp;#8216;til everyone that wants a book on this technology has purchased it&lt;/LI>
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">Get started on "Programming Windows Forms 3.0 in C#," repeating steps 1-17 after all of the chapters have been submitted for review&lt;/LI>&lt;/OL>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in">I figured Mike has had about 12 hours to enjoy being "done," so it was high time to crush his spirit. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12336</id>
+    <title>Best Exam 
+Answer Ever</title>
+    <updated>2005-11-11T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="/public/fun/exam.gif"/>
+    <category term="fun" label="Fun"/>
+    <published>2005-11-11T08:00:00.000Z</published>
+    <summary>Private email forwarded by Adam Denning </summary>
+    <content type="html">&lt;h1>Best Exam 
+Answer Ever&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/exam.gif" width="394" height="310">&lt;/p>
+&lt;p>&lt;i>Private email forwarded by Adam Denning&lt;/i>&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1906</id>
+    <title>Best Exam Answer Ever</title>
+    <updated>2005-11-11T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-11-11T08:00:00.000Z</published>
+    <summary>This is how you tell the marketing guys from the engineers... : ) </summary>
+    <content type="html">&lt;h1>Best Exam Answer Ever&lt;/h1>
+&lt;P>This is how you &lt;a href="/12336">tell the marketing guys from the engineers&lt;/a>... : )&lt;/P>
+&lt;P>&lt;IMG height=310 src="/public/fun/exam.gif" width=394 border=0>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1905</id>
+    <title>WPF: Handling Button.Click or defining a command?</title>
+    <updated>2005-11-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-11-11T08:00:00.000Z</published>
+    <summary>If I've got an Avalon Button, e.g. &amp;lt;Button Content="OK" /&amp;gt; Should I give the button a name so I can handle the event (I would never put the event handler directly in the XAML) like this: &amp;lt;Button Content="OK" x:Name="okButton" /&amp;gt; Or, should I define a custom command and invoke it like this: &amp;lt;Button Content="OK"&amp;nbsp;Command="local:MyDialog.OkCommand" /&amp;gt; Defining a command seems like overkill (you do some stuff in the static ctor and some other stuff in the instance ctor), but I like consist...</summary>
+    <content type="html">&lt;h1>WPF: Handling Button.Click or defining a command?&lt;/h1>
+&lt;P>If I've got an Avalon Button, e.g.&lt;/P>
+&lt;P>&amp;lt;Button Content="OK" /&amp;gt;&lt;/P>
+&lt;P>Should I give the button a name so I can handle the event (I would never put the event handler directly in the XAML) like this:&lt;/P>
+&lt;P>&amp;lt;Button Content="OK" x:Name="okButton" /&amp;gt;&lt;/P>
+&lt;P>Or, should I define a custom command and invoke it like this:&lt;/P>
+&lt;P>&amp;lt;Button Content="OK"&amp;nbsp;Command="local:MyDialog.OkCommand" /&amp;gt;&lt;/P>
+&lt;P>Defining a command seems like overkill (you do some stuff in the static ctor and some other stuff in the instance ctor), but I like consistency, e.g. my main window's menu will use commands.&lt;/P>
+&lt;P>Thoughts on the best practice here?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1904</id>
+    <title>Wahoo2!</title>
+    <updated>2005-11-11T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-11-11T08:00:00.000Z</published>
+    <summary>Because Michael Weinhardt has ported it to Windows Forms 2.0 and ClickOnce, now Wahoo2! is available on your Start menu whether you're connected to the internet or not. Enjoy! </summary>
+    <content type="html">&lt;h1>Wahoo2!&lt;/h1>
+&lt;P>Because Michael Weinhardt has ported it to Windows Forms 2.0 and ClickOnce, now &lt;A HREF="/public/wahoo2/publish.htm">Wahoo2!&lt;/A> is available on your Start menu whether you're connected to the internet or not. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1902</id>
+    <title>Windows Forms 2.0 UI Clones</title>
+    <updated>2005-11-10T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-11-10T08:00:00.000Z</published>
+    <summary>Here. The Windows Forms team has posted.NET 2.0 versions of their UI clone apps, including: Outlook 2003 Clone File Explorer Clone RSS Portal &lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=200&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.</summary>
+    <content type="html">&lt;h1>Windows Forms 2.0 UI Clones&lt;/h1>
+&lt;a href="http://www.windowsforms.net/Default.aspx?tabindex=4&amp;tabid=49#WinForms%20V2%20(Whidbey)">Here&lt;/a>. &lt;P>The Windows Forms team has posted &lt;A href="http://www.windowsforms.net/Default.aspx?tabindex=4&amp;amp;tabid=49#WinForms%20V2%20(Whidbey)">.NET 2.0 versions of their UI clone apps&lt;/A>, including:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=203&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d203%26tabindex%3d4">Outlook 2003 Clone&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=202&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d202%26tabindex%3d4">File Explorer Clone&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=201&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d201%26tabindex%3d4">RSS Portal&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=200&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d200%26tabindex%3d4">Money Clone&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=199&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d199%26tabindex%3d4">IE Clone&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=198&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d198%26tabindex%3d4">MSN Messenger Clone&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>If you want a Windows Forms app in one of those styles, those samples are where I'd start.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1901</id>
+    <title>Have I missed anything?</title>
+    <updated>2005-11-08T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-11-08T08:00:00.000Z</published>
+    <summary>I've noticed that various prolific bloggers feel the need to tell me that they're going to stop blogging for more than 24 hours. That's one of the things I love about RSS readers: no matter how long someone goes away, so long as I'm subscribed, I here their every utterance. On the other hand, what I've come to hate about RSS readers is that nothing gets by me. Keeping track of absolutely everything was exhausting, so I went cold turkey. I've been off #R since I repaved my machine a coupla weeks ago. I still...</summary>
+    <content type="html">&lt;h1>Have I missed anything?&lt;/h1>
+&lt;P>I've noticed that various prolific bloggers feel the need to tell me that they're going to stop blogging for more than 24 hours. That's one of the things I love about RSS readers: no matter how long someone goes away, so long as I'm subscribed, I here their every utterance.&lt;/P>
+&lt;P>On the other hand, what I've come to hate about RSS readers is that nothing gets by me. Keeping track of absolutely everything was exhausting, so I went cold turkey. I've been off &lt;A href="http://www.sharpreader.com/">#R&lt;/A> since I repaved my machine a coupla weeks ago. I still surf to slashdot.org about once/day, but that's it. No Scobelizer. No Don. No Ian. No Dilbert or Gizmodo or any of the 100s of other items in my OPML that I can't even remember. No RSS reader of any kind.&lt;/P>
+&lt;P>So far, I'm enjoying the extra time on my hands. Have I missed anything?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1900</id>
+    <title>Using VS05 to build .NET 1.x apps</title>
+    <updated>2005-11-08T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-11-08T08:00:00.000Z</published>
+    <summary>Jomo Fisher has put together a list of steps to take when you want to use Visual Studio 2005 to continue to maintain your.NET 1.x applications under the.NET 1.x Framework.</summary>
+    <content type="html">&lt;h1>Using VS05 to build .NET 1.x apps&lt;/h1>
+Jomo Fisher has put together &lt;A href="http://blogs.msdn.com/jomo_fisher/archive/2005/04/22/410903.aspx">a list of steps to take when you want to use Visual Studio 2005 to continue to maintain your .NET 1.x applications under the .NET 1.x Framework&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1899</id>
+    <title>11/10 PND Topic: What does MDD mean to you?</title>
+    <updated>2005-11-06T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2005-11-06T08:00:00.000Z</published>
+    <summary>I haven't been able to hang out at the Portland Nerd Dinners in forever, but it's on my calendar for 11/10 and my topic is "what does model-driven development mean to you?" I've been doing a ton of experimentation lately and I'm especially interested in how folks deal with a client-model, e.g. data binding, linq, etc, that expects client-server and a middle tier that exposes a service endpoint.</summary>
+    <content type="html">&lt;h1>11/10 PND Topic: What does MDD mean to you?&lt;/h1>
+I haven't been able to hang out at the Portland Nerd Dinners in forever, but &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/11/05/11937.aspx">it's on my calendar for 11/10&lt;/A> and my topic is "what does model-driven development mean to you?" I've been doing a ton of experimentation lately and I'm especially interested in how folks deal with a client-model, e.g. data binding, linq, etc, that expects client-server and a middle tier that exposes a service endpoint.</content>
+  </entry>
+</feed>

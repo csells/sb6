@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed109.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed108.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed110.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed109.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12519</id>
+    <title>How Does One Obtain "Inside" Information?</title>
+    <updated>2003-10-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-10-15T07:00:00.000Z</published>
+    <summary>Wednesday, October 15, 2003 I got an email today from John Reilly today asking me a question I get from time to time: I got my signed copy of your book. It is a great read. You have information that a friend and I have been trying to dig out for weeks. Which leads me to our question. How do you find out all those details? They are not to be found in the MSDN documentation, as far as we can tell. Do you just experiment, like we do? We have been unable to find any.NET training that is much more than how to us...</summary>
+    <content type="html">&lt;h1>How Does One Obtain "Inside" Information?&lt;/h1>
+&lt;p>&lt;i>Wednesday, &lt;span class="created">October 15, 
+2003&lt;/span>&lt;/i>&lt;/p>&lt;p>I got an email today from John Reilly today asking me a question 
+I get from time to time:&lt;/p>&lt;blockquote>&lt;p>&lt;i>I got my signed copy of &lt;a href="/public/writing/wfbook">
+	your book&lt;/a>. It is a great read. You have information that a friend and I 
+	have been trying to dig out for weeks.&lt;/i>&lt;/p>&lt;p>&lt;i>Which leads me to our 
+	question. How do you find out all those details? They are not to be found in 
+	the MSDN documentation, as far as we can tell. Do you just experiment, like 
+	we do? We have been unable to find any .NET training that is much more than 
+	how to use the IDE. Alan and I crave detail, meat, the stuff of your book. 
+	Seriously, how does one obtain this seemingly inside information? We are 
+	personally and professionally motivated weenies.&lt;/i>&lt;/p>&lt;/blockquote>&lt;p>Now 
+that I'm a Microsoft employee, I have access to not only the source for most of 
+what I'm researching, but the architects and internal mailing lists populated by 
+the developers on the project, so that really is &amp;quot;inside information.&amp;quot; However, 
+over the 8+ years that I was a contributing member of the Windows developer 
+community, 99% of what I've done has not been based on inside information. So, 
+before I had access to internal info, how did I figure stuff out if the docs 
+don't answer my questions? I do the following, in order of decreasing frequency:&lt;/p>&lt;ul>&lt;li>&lt;span style="">
+	I experiment, writing hundreds of projects consisting of 10 lines of code or 
+	less to experiment with particular features&lt;/span>&lt;/li>&lt;li>&lt;span style="">I 
+	read the source, even if that means reverse engineering it first (&lt;a href="http://www.aisto.com/roeder/dotnet/">Reflector 
+	is fabulous for .NET code&lt;/a>)&lt;/span>&lt;/li>&lt;li>&lt;span style="">I search on the &lt;a href="http://www.google.com/microsoft.html">
+	Microsoft-specific Google search page&lt;/a>&lt;/span>&lt;/li>&lt;li>&lt;span style="">I 
+	IM, email and call my friends who know more than I do (which is most of them 
+	: )&lt;/span>&lt;/li>&lt;li>&lt;span style="">I ask questions on my &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic">
+	favorite&lt;/a> &lt;a href="http://discuss.develop.com">mailing&lt;/a> &lt;a href="http://www.gotdotnet.com/community/messageboard/Home.aspx">
+	lists&lt;/a> and &lt;a href="http://msdn.microsoft.com/newsgroups/">
+	newsgroups&lt;/a>&lt;/span>&lt;/li>&lt;li>&lt;span style="">As a last resort, I ask my 
+	friends at MS. Buying a Microsoftie a beer at a conference, being smart in 
+	online forums and saying nice things about their technologies are all 
+	excellent ways to gain friends at MS&lt;/span>&lt;/li>&lt;/ul>
+	</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/878</id>
+    <title>Lawrence Lessig on copyrights, patents and freedom</title>
+    <updated>2003-10-15T07:00:00.000Z</updated>
+    <published>2003-10-15T07:00:00.000Z</published>
+    <summary>Here. Chris Anderson [1] is right. Now only is this a great presentation on the battle ranging between "theft" and "freedom," but the style in which it's given is fabulous. [1] simplegeek.com</summary>
+    <content type="html">&lt;h1>Lawrence Lessig on copyrights, patents and freedom&lt;/h1>
+&lt;a href="http://randomfoo.net/oscon/2002/lessig/free.html">Here&lt;/a>. Chris Anderson [1] is right. Now only is this a great presentation on the battle ranging between "theft" and "freedom," but the style in which it's given is fabulous.
+
+[1] simplegeek.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/875</id>
+    <title>Why I F-ing Hate Weblogs!</title>
+    <updated>2003-10-14T07:00:00.000Z</updated>
+    <published>2003-10-14T07:00:00.000Z</published>
+    <summary>Here. I found this *hilarious*! I consider myself the "Aspiring Writer" type (although clearly with a bit of "Town Crier" thrown in : ). Warning: Not to be read by small children or while operating heavy machinery. [radio.weblogs.com/0001011]</summary>
+    <content type="html">&lt;h1>Why I F-ing Hate Weblogs!&lt;/h1>
+&lt;a href="http://mama.indstate.edu/users/bones/WhyIHateWebLogs.html">Here&lt;/a>. I found this *hilarious*! I consider myself the "Aspiring Writer" type (although clearly with a bit of "Town Crier" thrown in : ).
+
+Warning: Not to be read by small children or while operating heavy machinery.
+
+[radio.weblogs.com/0001011]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/874</id>
+    <title>Use VS.NET to install .NET w/ your app</title>
+    <updated>2003-10-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-14T07:00:00.000Z</published>
+    <summary>Here. The VS.NET teams has placed a "preview" version of their VS.NET.NET Framework Bootstrapper Plug-In up on GotDotNet. [weblogs.asp.net/duncanma]</summary>
+    <content type="html">&lt;h1>Use VS.NET to install .NET w/ your app&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=2f8f0a23-f529-4158-8e0a-d187d16f41f1">Here&lt;/a>. The VS.NET teams has placed a "preview" version of their VS.NET .NET Framework Bootstrapper Plug-In up on GotDotNet.
+
+[weblogs.asp.net/duncanma]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/873</id>
+    <title>Missing Foo Camp</title>
+    <updated>2003-10-11T07:00:00.000Z</updated>
+    <published>2003-10-11T07:00:00.000Z</published>
+    <summary>Here. Tim O'Reilly himself invited me, but I just can't be there because of my work load before the PDC. : (</summary>
+    <content type="html">&lt;h1>Missing Foo Camp&lt;/h1>
+&lt;a href="http://wiki.oreillynet.com/foo-camp/csp?HomePage">Here&lt;/a>. Tim O'Reilly himself invited me, but I just can't be there because of my work load before the PDC. : (</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/869</id>
+    <title>Guerrilla Usability Group Strikes!</title>
+    <updated>2003-10-10T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-10-10T07:00:00.000Z</published>
+    <summary>Here. I *love* the idea that militant usability experts are scraping terribly designed web sites to present the information in a more pleasant way. Can't you just see Alan Cooper in a beret? : )</summary>
+    <content type="html">&lt;h1>Guerrilla Usability Group Strikes!&lt;/h1>
+&lt;a href="http://boingboing.net/2003_10_01_archive.html#106579967027263838">Here&lt;/a>. I *love* the idea that militant usability experts are scraping terribly designed web sites to present the information in a more pleasant way. Can't you just see Alan Cooper in a beret? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/868</id>
+    <title>I've been enjoying Feedable</title>
+    <updated>2003-10-10T07:00:00.000Z</updated>
+    <published>2003-10-10T07:00:00.000Z</published>
+    <summary>Here. Roy Osherove wrote a component for turning web sites into RSS feeds, then starting taking requests for web sites that don't have RSS feeds. He even put up a couple just for me. Thanks, Roy.</summary>
+    <content type="html">&lt;h1>I've been enjoying Feedable&lt;/h1>
+&lt;a href="http://royo.is-a-geek.com/sitefeeder/">Here&lt;/a>. Roy Osherove wrote a component for turning web sites into RSS feeds, then starting taking requests for web sites that don't have RSS feeds. He even put up a couple just for me. Thanks, Roy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/872</id>
+    <title>Joel on Character Set Encodings</title>
+    <updated>2003-10-10T07:00:00.000Z</updated>
+    <published>2003-10-10T07:00:00.000Z</published>
+    <summary>Here. Joel lays out a very nice piece on encoding that drives home one point very clearly, "There Ain't No Such Thing As Plain Text." He also provides some supporting facts, which makes it all the more fun. Enjoy.</summary>
+    <content type="html">&lt;h1>Joel on Character Set Encodings&lt;/h1>
+&lt;a href="http://www.joelonsoftware.com/articles/Unicode.html">Here&lt;/a>. Joel lays out a very nice piece on encoding that drives home one point very clearly, "There Ain't No Such Thing As Plain Text." He also provides some supporting facts, which makes it all the more fun. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/870</id>
+    <title>Amazon giving 30% off WinForms Programming in C#</title>
+    <updated>2003-10-10T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-10-10T07:00:00.000Z</published>
+    <summary>Here. I think those Amazon guys knew I was talking about them...</summary>
+    <content type="html">&lt;h1>Amazon giving 30% off WinForms Programming in C#&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/chrissells">Here&lt;/a>. I think those Amazon guys knew I was talking about them...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/871</id>
+    <title>Eric Sink on Outlook 2003</title>
+    <updated>2003-10-10T07:00:00.000Z</updated>
+    <published>2003-10-10T07:00:00.000Z</published>
+    <summary>Here. I agree with Eric. The old version of Outlook was a love/hate thing for me. Outlook 2003 is mostly love. Thanks, guys!</summary>
+    <content type="html">&lt;h1>Eric Sink on Outlook 2003&lt;/h1>
+&lt;a href="http://software.ericsink.com/20031010.html#10126">Here&lt;/a>. I agree with Eric. The old version of Outlook was a love/hate thing for me. Outlook 2003 is mostly love. Thanks, guys!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/866</id>
+    <title>The Wedding Toast</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>Here. Don and I send out a video of a toast to a newly married couple. We get back their reactions via video. Not as nice as real-time, but I don't get overseas much, so still very cool. You gotta love the Internet!</summary>
+    <content type="html">&lt;h1>The Wedding Toast&lt;/h1>
+&lt;a href="http://weblogs.asp.net/yosit/posts/31385.aspx">Here&lt;/a>. Don and I send out a video of a toast to a newly married couple. We get back their reactions via video. Not as nice as real-time, but I don't get overseas much, so still very cool. You gotta love the Internet!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/865</id>
+    <title>Tim records Don's and Chris's love...</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>Here. These are pictures from a video wedding toast we did for a pair of fans (both the husband and the wife!). Tim Ewald is the camera man and I'm sure he's wincing as much as Don Box and I are during this kiss...</summary>
+    <content type="html">&lt;h1>Tim records Don's and Chris's love...&lt;/h1>
+&lt;a href="http://weblogs.asp.net/yosit/posts/31239.aspx">Here&lt;/a>. These are pictures from a video wedding toast we did for a pair of fans (both the husband and the wife!). Tim Ewald is the camera man and I'm sure he's wincing as much as Don Box and I are during this kiss...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12520</id>
+    <title>What Is An RSS Feed?</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>As a deadline nears and I spend an increasing amount of time avoiding the work I should be doing, I find a finance geek acquaintance of mine asking what an RSS feed is after I implored him to add one to his web site. This is a 20-year old that's owned stock since he was 11, read 12,000 company reports in 2002, earned 155% on his money is the last 11 months and recently been given his own $35M mutual fund to manage (becoming the youngest ever mutual fund manager). If this guy doesn't know what an RSS feed is...</summary>
+    <content type="html">&lt;h1>What Is An RSS Feed?&lt;/h1>
+&lt;p>As a 
+deadline nears and I spend an increasing amount of time avoiding the work I 
+should be doing, I find a finance geek acquaintance of mine asking what an RSS 
+feed is after I implored him to add one to &lt;a href="http://www.lahiji.com/">
+his web site&lt;/a>. This is a 20-year old that's &lt;a href="http://www.lahiji.com/pages/bio.shtml">
+owned stock since he was 11&lt;/a>, &lt;a href="http://www.lahiji.com/pages/bestreports.shtml">
+read 12,000 company reports in 2002&lt;/a>, &lt;a href="http://www.lahiji.com/">
+earned 155% on his money is the last &lt;b>&lt;i>11 months&lt;/i>&lt;/b>&lt;/a>&lt;b>&lt;i> &lt;/i>&lt;/b>
+and &lt;a href="http://www.lahiji.com/archives/1063147097.shtml">
+recently been given his own $35M mutual fund to manage&lt;/a> (becoming the 
+youngest ever mutual fund manager). If &lt;i>this&lt;/i> guy doesn't know what an RSS 
+feed is, then I'm guessing at least some of my readers don't know either (yes, 
+I'm talking to you, Mom). When he asked me what an RSS feed was, this is what I 
+told him:&lt;/p>&lt;p>An RSS feed is a thing of pure beauty. If you've ever been to a 
+web site with an orange XML or RSS button, clicking it will yield a page that 
+looks something like this:&lt;/p>&lt;div class="e">&lt;span class="m">&amp;lt;?&lt;/span>&lt;span class="pi">xml 
+	version=&amp;quot;1.0&amp;quot; &lt;/span>&lt;span class="m">?&amp;gt;&lt;/span> &lt;/div>&lt;div class="e">&lt;div class="c">&lt;span class="m">
+	&amp;lt;&lt;/span>&lt;span class="t">rss version&lt;/span>&lt;span class="m">=&amp;quot;&lt;/span>2.0&lt;span class="m">&amp;quot;&lt;/span>&lt;span class="ns"> 
+	xmlns:dc&lt;/span>&lt;span class="m">=&amp;quot;&lt;/span>http://purl.org/dc/elements/1.1/&lt;span class="m">&amp;quot;&lt;/span>&lt;span class="ns"> 
+	xmlns:slash&lt;/span>&lt;span class="m">=&amp;quot;&lt;/span>http://purl.org/rss/1.0/modules/slash/&lt;span class="m">&amp;quot;&lt;/span>&lt;span class="ns"> 
+	xmlns:wfw&lt;/span>&lt;span class="m">=&amp;quot;&lt;/span>http://wellformedweb.org/CommentAPI/&lt;span class="m">&amp;quot;&amp;gt;&lt;/span>&lt;/div>&lt;div>&lt;blockquote>&lt;div class="e">&lt;div class="c">&lt;span class="m">
+		&amp;lt;&lt;/span>&lt;span class="t">channel&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;/div>&lt;div>&lt;div class="e">&lt;div>&lt;span class="m">
+			&amp;lt;&lt;/span>&lt;span class="t">title&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">Marquee 
+			de Sells: Chris's insight outlet&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">title&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div>&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">link&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://127.0.0.1:8080/&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">link&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div>&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">description&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">Thoughts 
+				that Chris Sells has about whatever interests him that day&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">description&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div>&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">dc:language&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">en-us&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">dc:language&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div>&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">dc:rights&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">Copyright 
+				 2002-2003, Chris Sells&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">dc:rights&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div>&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">dc:creator&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">csells@sellsbrothers.com&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">dc:creator&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div class="c" >&lt;span class="m">
+				&amp;lt;&lt;/span>&lt;span class="t">item&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;/div>&lt;div>&lt;blockquote>&lt;div class="e">&lt;div >&lt;span class="m">
+					&amp;lt;&lt;/span>&lt;span class="t">title&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">The 
+					Wedding Toast&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">title&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">dc:date&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">2003-10-10T04:17:02Z&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">dc:date&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">guid isPermaLink&lt;/span>&lt;span class="m">=&amp;quot;&lt;/span>false&lt;span class="m">&amp;quot;&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://127.0.0.1:8080/news/topic866&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">guid&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">link&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://weblogs.asp.net/yosit/posts/31385.aspx&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">link&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">dc:creator&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">Chris 
+						Sells&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">dc:creator&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">slash:comments&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">0&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">slash:comments&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">comments&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=866&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">comments&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">wfw:commentRss&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://127.0.0.1:8080/news/commentRss.aspx?ixTopic=866&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">wfw:commentRss&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">wfw:comment&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">http://127.0.0.1:8080/news/commentApi.aspx?ixTopic=866&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">wfw:comment&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;div class="e">&lt;div >&lt;span class="m">
+						&amp;lt;&lt;/span>&lt;span class="t">description&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;b>&lt;span class="tx">Don 
+						and I send out a video of a toast to a newly married 
+						couple. We get back their reactions via video. Not as 
+						nice as real-time, but I don't get overseas much, so 
+						still very cool. You gotta love the Internet!&lt;/span>&lt;/b>&lt;span class="m">&amp;lt;/&lt;/span>&lt;span class="t">description&lt;/span>&lt;span class="m">&amp;gt;&lt;/span> &lt;/div>&lt;/div>&lt;/blockquote>&lt;div>&lt;span class="m">
+						&amp;lt;/&lt;/span>&lt;span class="t">item&lt;/span>&lt;span class="m">&amp;gt;&lt;br>
+						...&lt;/span>&lt;/div>&lt;/div>&lt;/div>&lt;/div>&lt;/div>&lt;div>&lt;div>&lt;div>&lt;span class="m">
+			&amp;lt;/&lt;/span>&lt;span class="t">channel&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;/div>&lt;/div>&lt;/div>&lt;/blockquote>&lt;div>&lt;span class="m">
+			&amp;lt;/&lt;/span>&lt;span class="t">rss&lt;/span>&lt;span class="m">&amp;gt;&lt;/span>&lt;/div>&lt;/div>&lt;/div>&lt;p>
+While RSS is fairly unreadable for normal humans, computers eat it up. For 
+example, if you read the RSS feed from my site on a regular basis, whenever I 
+make a new post, you'll see a new entry in the RSS feed. RSS feeds aren't useful 
+for you, but when fed to an &amp;quot;RSS reader&amp;quot; program, you can keep up to date on 
+literally hundreds of web sites without having to browse to them manually. The 
+RSS reader will check each RSS feed to which you subscribe, letting you know 
+when something new on a web site has happened and showing you what it is, giving 
+you the option to follow up or ignore the new thing. Thousands of sites have RSS 
+feeds, letting me keep up on a bunch of things:&lt;/p>&lt;ul>&lt;li>My friends' writings&lt;/li>&lt;li>
+	Global and financial news&lt;/li>&lt;li>People talking about topics of interest to 
+	me, like my favorite technologies or my latest book&lt;/li>&lt;li>My favorite 
+	comics strips (I need my daily Dilbert!)&lt;/li>&lt;li>The latest product and 
+	articles releases from Microsoft&lt;/li>&lt;li>Practically anything else I care 
+	about on a regular basis&lt;/li>&lt;/ul>&lt;p>I keep up on all of this without ever 
+visiting the web sites themselves them 'til something of interest catches my 
+eye.&lt;/p>&lt;p>There are a bunch of RSS readers in the world, but &lt;a href="http://www.sharpreader.net">
+my favorite is SharpReader&lt;/a>. If you install this program and start it up, SR 
+will check all of the RSS feeds that you subscribe to on a regular basis in the 
+background while you work, notifying you of something new by changing it's icon 
+from blue to yellow. If you decide to install SharpReader, your next stop should 
+be &lt;a href="http://www.newsisfree.com">NewsIsFree.com, where 
+you'll find all kinds of RSS feeds in any number of categories&lt;/a>. After 
+subscribing to a few of those, you'll want to stop by &lt;a href="http://dwlt.net/tapestry/">
+Tapestry, where you can find RSS feeds for tons of daily comic strips&lt;/a>. If 
+you want to get fancy, you can go to &lt;a href="http://www.googlealert.com/">
+GoogleAlert, where you can subscribe to searches&lt;/a> so that whenever Google 
+finds something new on your search topic, your RSS reader will let you know.&lt;/p>&lt;p>
+If you find the ability to track hundreds of web sites without surfing to each 
+of them manually, RSS is for you. If you find my instructions intimidating, ask 
+a computer friend to help you out (I'll be home for Christmas, Mom).&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/864</id>
+    <title>Why Thursday at PDC will suck less</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>Here. This year's PDC will turn the traditionally most boring day into potentially the most interesting. Jeremy Mazner's posted the list of panels we're having that day as well as a place for folks to seed the MCs of the panels with questions they'd like to have asked of the panelists. Should be fun!</summary>
+    <content type="html">&lt;h1>Why Thursday at PDC will suck less&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/jmazner/PermaLink.aspx/c74b726c-f19f-4d69-91c6-3070be03327a">Here&lt;/a>. This year's PDC will turn the traditionally most boring day into potentially the most interesting. Jeremy Mazner's posted the list of panels we're having that day as well as a place for folks to seed the MCs of the panels with questions they'd like to have asked of the panelists. Should be fun!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/863</id>
+    <title>Nice WinForms Reviews in the Blogesphere</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>Here. I've noticed that lots of folks have nice things to say about "Windows Forms Programming in C#". I thank you and my publisher thanks you. If you do post a review, you'll likely get an email from me asking you to post it on Amazon.com. That's because Amazon has noticed that it's the number of reviews of a product that determines whether something sells better than it's competitors, not the rating of the reviews (although feel free to say nice things... : ). I'm posting this here to a) warn you that a r...</summary>
+    <content type="html">&lt;h1>Nice WinForms Reviews in the Blogesphere&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208">Here&lt;/a>. I've noticed that lots of folks have nice things to say about "Windows Forms Programming in C#". I thank you and my publisher thanks you.
+
+If you do post a review, you'll likely get an email from me asking you to post it on Amazon.com. That's because Amazon has noticed that it's the number of reviews of a product that determines whether something sells better than it's competitors, not the rating of the reviews (although feel free to say nice things... : ).
+
+I'm posting this here to a) warn you that a review on my book is likely to get you an email from me and b) because Scott Galloway's Contact form is busted ("You must enter a search term"), so I needed *some* way to ask him to post his review on Amazon. Thanks!</content>
+  </entry>
+</feed>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed97.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed96.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed98.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed97.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1048</id>
+    <title>Give Your Feedback on the WinFX Docs</title>
+    <updated>2004-01-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-15T08:00:00.000Z</published>
+    <summary>Here. Brad Abrams, Lead PM on the.NET Framework team, is asking how you'd like to see Microsoft improve the WinFX documentation. Don't be shy; complaining now can improve your life later.</summary>
+    <content type="html">&lt;h1>Give Your Feedback on the WinFX Docs&lt;/h1>
+&lt;a href="http://blogs.msdn.com/brada/archive/2004/01/14/58648.aspx">Here&lt;/a>. Brad Abrams, Lead PM on the .NET Framework team, is asking how you'd like to see Microsoft improve &lt;A href="http://longhorn.msdn.microsoft.com">the WinFX documentation&lt;/A>. Don't be shy; complaining now can improve your life later.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1044</id>
+    <title>Intro'ing Longhorn for Developers Ch4: Storage</title>
+    <updated>2004-01-15T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-15T08:00:00.000Z</published>
+    <summary>Here. In this chapter, Brent Rector provides his overview of WinFS, including the programming model and how to access items from the WinFS API and via SQL directly (the latter sounds a lot more fun that it is : ). </summary>
+    <content type="html">&lt;h1>Intro'ing Longhorn for Developers Ch4: Storage&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/understanding/books/default.aspx?pull=/library/en-us/dnintlong/html/longhornch04.asp">Here&lt;/a>. &lt;P>In this chapter, Brent Rector provides his overview of WinFS, including the programming model and how to access items from the WinFS API and via SQL directly (the latter sounds a lot more fun that it is : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1047</id>
+    <title>Bush: Get Your Own Dream!</title>
+    <updated>2004-01-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-15T08:00:00.000Z</published>
+    <summary>Here. It bugs me that Bush would steal JFK's dream of getting off of our planet, especially after we've already done it. Why not reach for getting America off of foreign oil by developing alternative energy sources, freeing us from the need to screw around with other countries and making us targets for terrorism? That's a cool dream. But noooo, you can't do that one, because you're just a shill for US big oil! Sorry about that... I now return you to your regularly scheduled programming. </summary>
+    <content type="html">&lt;h1>Bush: Get Your Own Dream!&lt;/h1>
+&lt;a href="http://www.wired.com/news/technology/0,1282,61915,00.html">Here&lt;/a>. &lt;P>It bugs me that Bush would steal JFK's dream of getting off of our planet, especially after we've already done it. Why not reach for getting America off of foreign oil by developing alternative energy sources, freeing us from the need to screw around with other countries and making us targets for terrorism? That's a cool dream. But noooo, you can't do that one, because you're just a shill for US big oil!&lt;/P>
+&lt;P>Sorry about that... I now return you to your regularly scheduled programming.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1040</id>
+    <title>Don Box on Indigo</title>
+    <updated>2004-01-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-14T08:00:00.000Z</published>
+    <summary>The new.NET site TheServerSide.NET has an interview with Don Box on Indigo.</summary>
+    <content type="html">&lt;h1>Don Box on Indigo&lt;/h1>
+The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt;/A> has &lt;A href="http://www.theserverside.net/talks/index.aspx">an interview with Don Box on Indigo&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1043</id>
+    <title>Inside Avalon: Timing Is Everything</title>
+    <updated>2004-01-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-14T08:00:00.000Z</published>
+    <summary>Here. Jeff Bogdan, one of the chief architects on the Microsoft Avalon team, kicks off the new Avalon column that he shares with Chris Anderson, the other chief architect on the Avalon team. These guys know Avalon because they had a hand in inventing it, so I'm *very* much looking forward to this column. Recommended.</summary>
+    <content type="html">&lt;h1>Inside Avalon: Timing Is Everything&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnavalon/html/avalon01062004.asp">Here&lt;/a>. Jeff Bogdan, one of the chief architects on the Microsoft Avalon team, kicks off the new Avalon column that he shares with &lt;A href="http://www.simplegeek.com">Chris Anderson&lt;/A>, the other chief architect on the Avalon team. These guys know Avalon because they had a hand in inventing it, so I'm *very* much looking forward to this column. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1042</id>
+    <title>Creating Indigo Applications with the PDC Bits</title>
+    <updated>2004-01-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-14T08:00:00.000Z</published>
+    <summary>Here. Yasser Shohoud, a member of the Indigo team at Microsoft,&amp;nbsp;kicks off his new Indigo column with a walk-through of how to get started programming Indigo using the Visual Studio.NET templates that come with the Longhorn SDK. Yasser is also the author of the well-regarded Real World XML Web Services: For VB and VB.NET Developers, so I'm looking forward to more discussions of how to apply Indigo in the real world. Recommended.</summary>
+    <content type="html">&lt;h1>Creating Indigo Applications with the PDC Bits&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlingo/html/indigolingo01062004.asp">Here&lt;/a>. Yasser Shohoud, a member of the Indigo team at Microsoft,&amp;nbsp;kicks off his new Indigo column with a walk-through of how to get started programming Indigo using the Visual Studio .NET templates that come with the Longhorn SDK. Yasser is also the author of the well-regarded &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201774259">Real World XML Web Services: For VB and VB .NET Developers&lt;/A>, so I'm looking forward to more discussions of how to apply Indigo in the real world. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1041</id>
+    <title>Evidence of Life on Mars</title>
+    <updated>2004-01-14T08:00:00.000Z</updated>
+    <published>2004-01-14T08:00:00.000Z</published>
+    <summary>Here. Getting this from Tim Ewald, a high-brow New Englander [1], set me up for the punchline even more. [1] but in a good way! </summary>
+    <content type="html">&lt;h1>Evidence of Life on Mars&lt;/h1>
+&lt;a href="http://inessential.com/?comments=1&amp;postid=2776">Here&lt;/a>. &lt;P>Getting this from Tim Ewald, a high-brow New Englander [1], set me up for the punchline even more.&lt;/P>
+&lt;P>[1] but in a good way!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1039</id>
+    <title>Passing the Torch on Wonder of Windows Forms</title>
+    <updated>2004-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-13T08:00:00.000Z</published>
+    <summary>Here. This month, Mike Weinhardt takes over for me on the Wonder of Windows Forms column so that I can concentrate on Longhorn. Mike is the co-author on the 2e of Windows Forms Programming book and a co-author with me on a couple of Windows Forms Designer integration pieces for MSDN Magazine, so he's well qualified. Plus, as an Ozzie, he's got quite an interesting outlook. Recommended.</summary>
+    <content type="html">&lt;h1>Passing the Torch on Wonder of Windows Forms&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms12182003.asp">Here&lt;/a>. This month, Mike Weinhardt takes over for me on the Wonder of Windows Forms column so that I can concentrate on Longhorn. Mike is the co-author on the 2e of Windows Forms Programming book and a co-author with me on &lt;A href="http://msdn.microsoft.com/msdnmag/issues/03/04/Design-TimeControls/default.aspx">a couple of Windows Forms&lt;/A> &lt;A href="http://msdn.microsoft.com/msdnmag/issues/03/05/Design-TimeControls/default.aspx">Designer integration pieces&lt;/A> for MSDN Magazine, so he's well qualified. Plus, as an Ozzie, he's got quite an interesting outlook. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1037</id>
+    <title>My Windows Forms Book On Amazon's Top 10</title>
+    <updated>2004-01-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-12T08:00:00.000Z</published>
+    <summary>Holy cow! Windows Forms Programming in C# is #10 on the list of best-selling Microsoft-related books. I'd like to thank the academy...</summary>
+    <content type="html">&lt;h1>My Windows Forms Book On Amazon's Top 10&lt;/h1>
+Holy cow! Windows Forms Programming in C# is &lt;A href="http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/books/285844/ref%3Dbr%5Fts%5Fslwth%5Fth%5Fmore/002-8484084-0560053">#10 on the list of best-selling Microsoft-related books&lt;/A>. I'd like to thank the academy...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1036</id>
+    <title>WinFX 247 Web Site Beta</title>
+    <updated>2004-01-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-12T08:00:00.000Z</published>
+    <summary>From the same folks that brought you dotnet247.com comes winfx247.com. Since half of my.NET coding research yields answers at dotnet247.com, I'm excited to see the Longhorn/WinFX equivalent. It's new, but I'm sure it will be a very useful site over time.</summary>
+    <content type="html">&lt;h1>WinFX 247 Web Site Beta&lt;/h1>
+From the same folks that brought you &lt;A href="http://www.dotnet247.com/">dotnet247.com&lt;/A> comes &lt;A href="http://www.winfx247.com/">winfx247.com&lt;/A>. Since half of my .NET coding research yields answers at dotnet247.com, I'm excited to see the Longhorn/WinFX equivalent. It's new, but I'm sure it will be a very useful site over time.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1038</id>
+    <title>Joe Hewitt on What Longhorn Needs for Developers</title>
+    <updated>2004-01-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-12T08:00:00.000Z</published>
+    <summary>Here. Joe has a particularly dim view of where we've come with GUIs in the last 10 years. In fact, it's much more dim than my own view. On the other hand, I think he nails one point: "There is a core set of patterns that are repeated over and over in thousands of applications, each of which has their own subtly different behavior and visuals. Back and forward, undo and redo, delete, find, bookmark, etc... And there are a core set of graphical objects like images, text, maps, and calendars, which everybody h...</summary>
+    <content type="html">&lt;h1>Joe Hewitt on What Longhorn Needs for Developers&lt;/h1>
+&lt;a href="http://www.joehewitt.com/archive.php?month=2004-01#000125">Here&lt;/a>. &lt;P>Joe has a particularly dim view of where we've come with GUIs in the last 10 years. In fact, it's much more dim than my own view. On the other hand, I think he nails one point:&lt;/P>
+&lt;P>"There is a core set of patterns that are repeated over and over in thousands of applications, each of which has their own subtly different behavior and visuals. Back and forward, undo and redo, delete, find, bookmark, etc... And there are a core set of graphical objects like images, text, maps, and calendars, which everybody has to reinvent every time they need one in their application, and they usually do a lousy job of reinventing it. Sure, there are classes for some of these things in GUI libraries, but the user doesn't see that - they see the programmer's personal interpretation of how they think it should look and work."&lt;/P>
+&lt;P>As a app builder in my heart, I absolutely want the tools to build *good* applications, not just *pretty* applications.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12389</id>
+    <title>Interviewing at 
+Lego</title>
+    <updated>2004-01-10T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2004-01-10T08:00:00.000Z</published>
+    <summary>Sat 1/10/2004 10:12 am Jamie, a contender for a Master Builder spot at Lego, describes a very different interview process than you're likely to get at Microsoft (except that 'softies hit you with sneaky stuff, too, sometimes : ). </summary>
+    <content type="html">&lt;h1>Interviewing at 
+Lego&lt;/h1>
+&lt;p>&lt;i>Sat &lt;span class="created">1/10/2004 10:12 am&lt;/span>&lt;/i>&lt;/p>
+&lt;p>Jamie, a contender for a Master Builder spot at Lego, describes a very 
+different interview process than you're likely to get at Microsoft (except that 
+'softies hit you with sneaky stuff, too, sometimes : ).&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12509</id>
+    <title>Surprised by Microsoft's Openness</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Friday, January 9th, 2004 I get a lot of emails from folks surprised about how open Microsoft is being lately, mostly due to all of the blogging we've been doing lately (some of us started long before we ever became employees). However, even I was surprised in an internal blogging meeting today filled with a bunch of MS bloggers. During the meeting, we talked about a bunch of the benefits to MS and to our customers. Sara talked about how blogs are driving more traffic to MSDN than our own headlines. Robert ...</summary>
+    <content type="html">&lt;h1>Surprised by Microsoft's Openness&lt;/h1>
+&lt;p>&lt;i>Friday, &lt;span class="created">January 9th, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>
+I get a lot of emails from folks surprised about how open Microsoft is being 
+lately, mostly due to all of the blogging we've been doing lately (some of us 
+started long before we ever became employees). However, even I was surprised in 
+an internal blogging meeting today filled with a bunch of MS bloggers. During 
+the meeting, we talked about a bunch of the benefits to MS and to our customers. 
+Sara talked about how blogs are driving more traffic to MSDN than our own 
+headlines. Robert described his &amp;quot;green, yellow, red&amp;quot; scale for determining 
+whether to blog about something (believe it or not, he does decide not to 
+sometimes : ).&lt;/p>&lt;p>And then Adam Sohn from marketing talked about the need to 
+police ourselves, describing some of the downsides in regards to blowing some 
+group's launch plans or unconstructively criticizing another group. He preached 
+caution when approaching the line between what was good for the customer and 
+what was good for Microsoft. After listening to what I began to interpret as a 
+message of self-censorship, I asked Adam a warm up, &amp;quot;Isn't it true that a lot of 
+the stuff close to the 'line' is what our customers find most valuable?&amp;quot; He 
+agreed that it was. And then I asked Adam my real question, &amp;quot;So, when we get 
+close to that line, do we err on the side of our customer or ourselves?&amp;quot;&lt;/p>&lt;p>
+Now, you have to remember that I've been a contributing member of the Windows 
+development community for a lot of years. I've seen how aggressive Microsoft is 
+in everything it does to always be on top. So when I asked on what side of the 
+line I should come down, I fully expected to be told to keep the shareholders in 
+mind.&lt;/p>&lt;p>Of course, you know what his answer was or this story wouldn't have 
+made it into my blog until after my tenure at MS was complete (or just before : 
+). He said, without hesitation, &amp;quot;Err on the side of the customer.&amp;quot;&lt;/p>&lt;p>That 
+blew me away. Of course, I've been doing just that since before I became an MS 
+employee and Robert rides the ragged edge all day long, but it was *very* nice 
+to hear that guy with the PR and legal battle scars tell me to keep the customer 
+first and foremost in my mind.&lt;/p>&lt;p>Thanks, Adam. You've confirmed my decision 
+to work at Microsoft.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1030</id>
+    <title>Developers Shrug Off Longhorn Delay Rumors</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Here. &amp;lt;whew&amp;gt; : ) </summary>
+    <content type="html">&lt;h1>Developers Shrug Off Longhorn Delay Rumors&lt;/h1>
+&lt;a href="http://www.ecommercetimes.com/perl/story/32522.html">Here&lt;/a>. &lt;P>&amp;lt;whew&amp;gt; : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1031</id>
+    <title>New Home for Many MS Bloggers</title>
+    <updated>2004-01-09T08:00:00.000Z</updated>
+    <published>2004-01-09T08:00:00.000Z</published>
+    <summary>Don't have enough bloggers to listen to? Can't find your favorite MS blogger? Chances are that you'll find a bunch of interesting tidbits at the new MSDN blogger site.</summary>
+    <content type="html">&lt;h1>New Home for Many MS Bloggers&lt;/h1>
+Don't have enough bloggers to listen to? Can't find your favorite MS blogger? Chances are that you'll find a bunch of interesting tidbits at &lt;A href="http://blogs.msdn.com/">the new MSDN blogger site&lt;/A>.</content>
+  </entry>
+</feed>

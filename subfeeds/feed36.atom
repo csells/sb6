@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed36.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed35.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed37.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed36.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1898</id>
+    <title>Generics Q: Best way to convert a string to a T?</title>
+    <updated>2005-11-04T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-11-04T08:00:00.000Z</published>
+    <summary>What's the best way to implement the following semantic (feel free to change the signature)? bool ConvertFromStringToT&amp;lt;T&amp;gt;(string in, ref T out) {...} I'd like to be able to call it like so: int x = 452; double y = 77.7; ConvertFromStringToT("123", ref x); // x is now 123 ConvertFromStringToT("abc", ref y); // y remains 77.7 I came up with a solution that relies more than I'd like on run-time behavior rather than compile-time behavior, which is why I'm asking. </summary>
+    <content type="html">&lt;h1>Generics Q: Best way to convert a string to a T?&lt;/h1>
+&lt;P>What's the best way to implement the following semantic (feel free to change the signature)?&lt;/P>
+&lt;P>bool ConvertFromStringToT&amp;lt;T&amp;gt;(string in, ref T out) {...}&lt;/P>
+&lt;P>I'd like to be able to call it like so:&lt;/P>
+&lt;P>int x = 452;&lt;BR>double y = 77.7;&lt;BR>&lt;BR>ConvertFromStringToT("123", ref x); // x is now 123&lt;BR>ConvertFromStringToT("abc", ref y); // y remains 77.7&lt;/P>
+&lt;P>I came up with a solution that relies more than I'd like on run-time behavior rather than compile-time behavior, which is why I'm asking.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1897</id>
+    <title>WinFX in the BackRow</title>
+    <updated>2005-11-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-11-04T08:00:00.000Z</published>
+    <summary>Casey Chesnum has put together what is probably the first real WinFX app: a Media Center "light" app that looks damn cool. Check it out. </summary>
+    <content type="html">&lt;h1>WinFX in the BackRow&lt;/h1>
+Casey Chesnum has put together what is probably the first real WinFX app: a Media Center "light" app that looks damn cool. &lt;A href="http://www.mperfect.net/backRow/">Check it out.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1896</id>
+    <title>What's a group of geeks called?</title>
+    <updated>2005-10-31T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-31T08:00:00.000Z</published>
+    <summary>Sloth of bears. Army of ants. Murder of crows. Tribe of monkeys. Embarrassment of richest. What about geeks? Conference? Shy? Intelligence? Slather? P.S. this site on collective nouns has a bunch of fun ones. I think I like "smack of jellyfish" best... </summary>
+    <content type="html">&lt;h1>What's a group of geeks called?&lt;/h1>
+&lt;P>Sloth of bears.&lt;/P>
+&lt;P>Army of ants.&lt;/P>
+&lt;P>Murder of crows.&lt;/P>
+&lt;P>Tribe of monkeys.&lt;/P>
+&lt;P>Embarrassment of richest.&lt;/P>
+&lt;P>What about geeks? Conference? Shy? Intelligence? Slather?&lt;/P>
+&lt;p>P.S. &lt;a href="http://rinkworks.com/words/collective.shtml">this site on collective nouns&lt;/a> has a bunch of fun ones. I think I like "smack of jellyfish" best...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1895</id>
+    <title>Testing ASP.NET 2.0 port of sb.com</title>
+    <updated>2005-10-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-29T07:00:00.000Z</published>
+    <summary>Pay no attention to the may behind the curtain...</summary>
+    <content type="html">&lt;h1>Testing ASP.NET 2.0 port of sb.com&lt;/h1>
+Pay no attention to the may behind the curtain...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1893</id>
+    <title>VS05 Has Shipped! Wahoo!</title>
+    <updated>2005-10-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-10-27T07:00:00.000Z</published>
+    <summary>Soma says it all. </summary>
+    <content type="html">&lt;h1>VS05 Has Shipped! Wahoo!&lt;/h1>
+&lt;A href="http://blogs.msdn.com/somasegar/archive/2005/10/27/485665.aspx">Soma says it all.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1894</id>
+    <title>Scraping old versions of VS05 off your system</title>
+    <updated>2005-10-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-10-27T07:00:00.000Z</published>
+    <summary>If you read the ReadMe.htm from the Visual Studio 2005 setup, you'll see a detailed list of up to&amp;nbsp; 23 things to uninstall in the right order (plus 2 notes if you have trouble). To solve this problem, Dan Fernandez posts about a VS05 uninstall tool that worked wonderfully for me. </summary>
+    <content type="html">&lt;h1>Scraping old versions of VS05 off your system&lt;/h1>
+&lt;P>If you read the ReadMe.htm from the Visual Studio 2005 setup, you'll see a detailed list of up to&amp;nbsp;&lt;EM>&lt;STRONG>23&lt;/STRONG>&lt;/EM> things to uninstall in the right order (plus 2 notes if you have trouble).&lt;/P>
+&lt;P>To solve this problem, Dan Fernandez posts about a &lt;A href="http://blogs.msdn.com/danielfe/archive/2005/10/27/485863.aspx">VS05 uninstall tool&lt;/A> that worked wonderfully for me.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1891</id>
+    <title>I'm all ready for 9th grade</title>
+    <updated>2005-10-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-26T07:00:00.000Z</published>
+    <summary>You Passed 8th Grade Math Congratulations, you got 9/10 correct! Could You Pass 8th Grade Math? </summary>
+    <content type="html">&lt;h1>I'm all ready for 9th grade&lt;/h1>
+&lt;TABLE cellSpacing=0 cellPadding=2 width=350 align=center border=0>
+&lt;TBODY>
+&lt;TR>
+&lt;TD align=middle bgColor=#cddeff>&lt;FONT style="FONT-SIZE: 14pt; COLOR: black" face="Georgia, Times New Roman, Times, serif">&lt;STRONG>You Passed 8th Grade Math&lt;/STRONG> &lt;/FONT>&lt;/TD>&lt;/TR>
+&lt;TR>
+&lt;TD bgColor=#ebf2ff>
+&lt;CENTER>&lt;IMG height=100 src="http://images.blogthings.com/couldyoupasseighthgrademathquiz/passed.jpg" width=100>&lt;/CENTER>&lt;FONT color=#000000>Congratulations, you got 9/10 correct! &lt;/FONT>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>
+&lt;DIV align=center>&lt;A href="http://www.blogthings.com/couldyoupasseighthgrademathquiz/">Could You Pass 8th Grade Math?&lt;/A>&lt;/DIV></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1892</id>
+    <title>The Most Amazing Consumer Experience</title>
+    <updated>2005-10-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-26T07:00:00.000Z</published>
+    <summary>I just had the most amazing consumer experience and I just had to share it. I was looking for the local Mom &amp;amp; Pop computer store in my area and I stumbled across www.puzzlecomputers.com. His site doesn't mention a store, but I left him a message asking if he could upgrade my computer or point me at the local Mom &amp;amp; Pop. Not only does he do that kind of work, but he came to my house, picked up the two computers I wanted to use as parts, e.g. case, RW-DVD, HD, etc, recommended and purchased the new mot...</summary>
+    <content type="html">&lt;h1>The Most Amazing Consumer Experience&lt;/h1>
+&lt;P>I just had the most amazing consumer experience and I just had to share it.&lt;/P>
+&lt;P>I was looking for the local Mom &amp;amp; Pop computer store in my area and I stumbled across &lt;A href="http://www.puzzlecomputers.com">www.puzzlecomputers.com&lt;/A>. His site doesn't mention a store, but I left him a message asking if he could upgrade my computer or point me at the local Mom &amp;amp; Pop. Not only does he do that kind of work, but he came to my house, picked up the two computers I wanted to use as parts, e.g. case, RW-DVD, HD, etc, recommended and purchased the new motherboard, CPU, memory and quiet power supply, put them all together (including modifying my old proprietary Dell case to fit), brought the whole thing back to my house and then spent another hour installing another HD I had lying around. The specs on the parts were 1GB of RAM (upgradeable to 2GB), 2.8GHz AMD processor and ABIT motherboard with all the trimmings.&lt;/P>
+&lt;P>The whole thing, parts, labor, delivery, etc. cost $400. Plus, he hauled away the extra parts so I don't have to look at them. And when the drivers didn't install right away, he was available for phone support.&lt;/P>
+&lt;P>Highly recommended. I wish all my consumer experiences were like this one!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1889</id>
+    <title>WF Activity Context</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>Here. The one where I find more WF activity instances than I expect.</summary>
+    <content type="html">&lt;h1>WF Activity Context&lt;/h1>
+&lt;a href="/12463">Here&lt;/a>. The one where I find &lt;a href="/12463">more WF activity instances than I expect&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1887</id>
+    <title>Petzold on "Does Visual Studio Rot the Mind?"</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>I'm really loving having Mr. Petzold in the blogesphere. His latest essay has the following abstract: Visual Studio can be one of the programmer's best friends, but over the years it has become increasingly pushy, domineering, and suffering from unsettling control issues. Should we just surrender to Visual Studio's insistence on writing our code for us? Or is Visual Studio sapping our programming intelligence rather than augmenting it? This talk dissects the code generated by Visual Studio; analyzes the app...</summary>
+    <content type="html">&lt;h1>Petzold on "Does Visual Studio Rot the Mind?"&lt;/h1>
+&lt;P>I'm really loving having Mr. Petzold in the blogesphere. &lt;A href="http://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html">His latest essay&lt;/A> has the following abstract:&lt;/P>
+&lt;P>&lt;EM>Visual Studio can be one of the programmer's best friends, but over the years it has become increasingly pushy, domineering, and suffering from unsettling control issues. Should we just surrender to Visual Studio's insistence on writing our code for us? Or is Visual Studio sapping our programming intelligence rather than augmenting it? This talk dissects the code generated by Visual Studio; analyzes the appalling programming practices it perpetuates; rhapsodizes about the joys, frustrations, and satisfactions of unassisted coding; and speculates about the radical changes that Avalon will bring.&lt;/EM>&lt;/P>
+&lt;P>It doesn't end the way I expected it to. Fun stuff.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12464</id>
+    <title>Typed WF Communications Details</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>If you downloaded the samples from my previous two forays into WF communications programming, you probably couldn't get them to build. The problem is that when I packaged things up, I removed the bin directories. I haven't figured out just why this causes everything to stop building, but with the help of Dennis Pilarinos, I rearranged the two projects into three: communications interface (CommunicationLibrary): the data exchange service interface definition, compiles into CommunicationLibrary.dll communicat...</summary>
+    <content type="html">&lt;h1>Typed WF Communications Details&lt;/h1>
+&lt;p align="left">If you downloaded the samples from my previous &lt;a href="#Workflow_Communication_Spelunking">two&lt;/a> &lt;a href="#More_Workflow_Communciation_Spelunking">forays&lt;/a> into WF communications programming, you probably couldn't get them to build. The problem is that when I packaged things up, I removed the bin directories. I haven't figured out just why this causes everything to stop building, but with the help of Dennis Pilarinos, I rearranged the two projects into three:&lt;/p>&lt;ol>&lt;li>&lt;p align="left">communications interface (CommunicationLibrary): the data exchange service interface definition, compiles into CommunicationLibrary.dll&lt;/li>&lt;li>&lt;p align="left">communications activities (WorkflowProject1): uses a pre-build step to generate the typed activities generated from the communications library using the wca tool, references CommunicationLibrary.dll and compiles into WorkflowProject1.dll (nice name, eh? : )&lt;/li>&lt;li>&lt;p align="left">application (EventSinkAndMethodInvoke2): the app that uses the typed activities, references both CommunicationLibrary.dll and WorkflowProject1.dll&lt;/li>&lt;/ol>&lt;p align="left">It's only by separating the communications activities into a separate assembly that things can build and rebuild reliably. You can &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2with3projectsAndStateMachine.zip">download the newly configured code here&lt;/a>. Enjoy.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1890</id>
+    <title>PDC05 Sessions Online</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>Mike Swanson and the folks that made this possible, you guys rock! "If you were unable to attend the Microsoft Professional Developers Conference 2005 (PDC05) in Los Angeles this year, never fear; 209 breakout sessions, panels, and symposia are now available online. Each session includes a video of the presenter, a navigable index of the content, the PowerPoint presentation itself, and video of any demos. We'll be hosting this content for free, for anyone, for six full months." </summary>
+    <content type="html">&lt;h1>PDC05 Sessions Online&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/mswanson/archive/2005/10/24/484434.aspx">Mike Swanson and the folks that made this possible&lt;/A>, you guys rock!&lt;/P>
+&lt;P>&lt;EM>"If you were unable to attend the &lt;/EM>&lt;A href="http://msdn.microsoft.com/events/pdc/">&lt;EM>Microsoft Professional Developers Conference 2005&lt;/EM>&lt;/A>&lt;EM> (PDC05) in Los Angeles this year, never fear; 209 breakout sessions, panels, and symposia are &lt;/EM>&lt;A href="http://microsoft.sitestream.com/PDC05/">&lt;EM>now available online&lt;/EM>&lt;/A>&lt;EM>. Each session includes a video of the presenter, a navigable index of the content, the PowerPoint presentation itself, and video of any demos. We'll be hosting this content for free, for anyone, for six full months."&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1888</id>
+    <title>Typed WF Communications Details</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>Here. The one where I finally figure out how to get wca integrated with my WF VS projects in a sane way. </summary>
+    <content type="html">&lt;h1>Typed WF Communications Details&lt;/h1>
+&lt;a href="/12464">Here&lt;/a>. &lt;P>The one where I finally figure out &lt;a href="/12464">how to get wca integrated with my WF VS projects in a sane way&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12463</id>
+    <title>WF Activity Context</title>
+    <updated>2005-10-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-10-24T07:00:00.000Z</published>
+    <summary>I was playing around with a state machine workflow in WF and ran across something that I didn't except. Apparently if you have a an activity that can be other than a singleton, e.g. inside of a loop or as part of a state machine workflow, then an activity can not be accessed by it's workflow instance variable. For example, the following works just fine in a sequence workflow: public partial class Workflow2 : SequentialWorkflow { private void code1_ExecuteCode( object sender, EventArgs e) { // Retrieve Comme...</summary>
+    <content type="html">&lt;h1>WF Activity Context&lt;/h1>
+&lt;p align="left">I was playing around with a state machine workflow in WF and ran across something that I didn't except. Apparently if you have a an activity that can be other than a singleton, e.g. inside of a loop or as part of a state machine workflow, then an activity can not be accessed by it's workflow instance variable. For example, the following works just fine in a sequence workflow:&lt;/p>&lt;div align="left">
+&lt;pre>&lt;span style="COLOR: blue">public&lt;/span> &lt;span style="COLOR: blue">partial&lt;/span> &lt;span style="COLOR: blue">class&lt;/span> Workflow2 : SequentialWorkflow {
+&lt;span style="COLOR: blue">private&lt;/span> &lt;span style="COLOR: blue">void&lt;/span> code1_ExecuteCode(&lt;span style="COLOR: blue">object&lt;/span> sender, EventArgs e) {
+&lt;span style="COLOR: green">// Retrieve Comment property from typed event sink (generated by wca)&lt;/span>
+string comment = &lt;b>this.eventSink1.Comment&lt;/b>;
+    Console.WriteLine(&lt;span style="COLOR: maroon">&amp;quot;Order approved w/ comment= {0}&amp;quot;&lt;/span>, comment);
+  }
+}&lt;/pre>&lt;/div>&lt;p align="left">However, in the case where the activity can be executed more than once, it's my understand that each time through, there's a new activity object that's different from the named activity associated with the workflow. To get a hold of the current activity, you have to traverse the activity tree, which you can access in a code activity via the sender's parent property:&lt;/p>&lt;div align="left">
+&lt;pre>&lt;span style="COLOR: blue">public&lt;/span> &lt;span style="COLOR: blue">partial&lt;/span> &lt;span style="COLOR: blue">class&lt;/span> StateMachine1 : StateMachineWorkflow {
+&lt;span style="COLOR: blue">void&lt;/span> code2_ExecuteCode(&lt;span style="COLOR: blue">object&lt;/span> sender, EventArgs e) {
+&lt;span style="COLOR: green">// Retrieve Comment property from typed event sink (generated by wca)&lt;/span>
+&lt;b>    Code codeActivity = (Code)sender;
+    IOrderService_Events.OrderApproved eventSink2 =
+      (IOrderService_Events.OrderApproved)(codeActivity.Parent.Activities[&lt;span style="COLOR: maroon">&amp;quot;eventSink1&amp;quot;&lt;/span>]);
+&lt;/b>    &lt;span style="COLOR: blue">string&lt;/span> comment = &lt;b>eventSink2.Comment; &lt;span style="COLOR: green">// eventSink1.Comment will be unbound&lt;/span>
+&lt;/b>    Console.WriteLine(&lt;span style="COLOR: maroon">&amp;quot;order approved w/ comment= {0}&amp;quot;&lt;/span>, comment);
+  }
+}&lt;/pre>&lt;/div>&lt;p align="left">I haven't figured out whether this makes sense to me yet, but that's how it is. You can get the code &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2with3projectsAndStateMachine.zip">here&lt;/a>.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1886</id>
+    <title>Samwise Gamgee was the ultimate Program Manager</title>
+    <updated>2005-10-22T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-10-22T07:00:00.000Z</published>
+    <summary>That is all.</summary>
+    <content type="html">&lt;h1>Samwise Gamgee was the ultimate Program Manager&lt;/h1>
+That is all.</content>
+  </entry>
+</feed>

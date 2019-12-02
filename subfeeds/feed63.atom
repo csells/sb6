@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed63.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed62.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed64.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed63.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1523</id>
+    <title>Your distinct personality: The Black Knight</title>
+    <updated>2004-09-23T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-09-23T07:00:00.000Z</published>
+    <summary>According to this survey, my personality type is The Black Knight: "Your distinct personality, The Black Knight, might be found in most of the thriving kingdoms of the time. Your overriding goal is to win. You approach each task or situation as a contest to be won strategically and efficiently. Because you can control your feelings, it is not unusual for you to charm, as well as successfully delegate tasks and responsibilities to the more emotional types. You are often concerned with what's in it for you. Y...</summary>
+    <content type="html">&lt;h1>Your distinct personality: The Black Knight&lt;/h1>
+&lt;P>&lt;IMG src="http://www.cmi-lmi.com/images/bknight.gif" align=left>&lt;/IMG>According to &lt;A href="http://www.cmi-lmi.com/kingdom.html">this survey&lt;/A>, my personality type is The Black Knight: "Your distinct personality, The Black Knight, might be found in most of the thriving kingdoms of the time. Your overriding goal is to win. You approach each task or situation as a contest to be won strategically and efficiently. Because you can control your feelings, it is not unusual for you to charm, as well as successfully delegate tasks and responsibilities to the more emotional types. You are often concerned with what's in it for you. You seldom involve yourself in activities where you can not foresee a reward for your investment or effort. On the positive side, you can be analytically empathic and logically persuasive. On the negative side, you may be unemotionally manipulative as well as impulsive. Interestingly, your preference is just as applicable in today's corporate kingdoms."&lt;/P>
+&lt;P>The title is certainly cooler than "Scullery Maid," but the text makes me sound like kind of an asshole... (not that I'm arguing, mind you, I'm just surprised that a computer program can pick it up so readily : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1522</id>
+    <title>Very Much Enjoying .NET Rocks Lately</title>
+    <updated>2004-09-23T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-09-23T07:00:00.000Z</published>
+    <summary>DNR goes up and down like every other media outlet (it's not unlike this very web site in that way), but I've really been enjoying it muchly lately. Not only did I get to hear someone besides my normal brethren talk about CAS in a way that didn't make my flinch ( Don Kiely on developing with least privilege ), but I also got to listen to Mark Miller talk (at break-neck speeds) about my Dad freaking out when the jelly got into the peanut butter at the same time he was enthusing about CodeRush and telling Ror...</summary>
+    <content type="html">&lt;h1>Very Much Enjoying .NET Rocks Lately&lt;/h1>
+&lt;P>&lt;A href="http://www.franklins.net/dotnetrocks/">DNR&lt;/A> goes up and down like every other media outlet (it's not unlike this very web site in that way), but I've really been enjoying it muchly lately. Not only did I get to hear someone besides &lt;A href="http://www.pluralsite.com/">my normal brethren&lt;/A> talk about CAS in a way that didn't make my flinch (&lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=79">Don Kiely on developing with least privilege&lt;/A>), but I also got to listen to &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=81">Mark Miller&lt;/A> talk (at break-neck speeds) about my Dad freaking out when the jelly got into the peanut butter at the same time he was enthusing about CodeRush and telling Rory that he didn't need counseling to deal with his relationship problems, he needed penicillin. Fabulous.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1520</id>
+    <title>Mike Harsh On the Life Left in Windows Forms (Lots!)</title>
+    <updated>2004-09-22T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-09-22T07:00:00.000Z</published>
+    <summary>Mike Harsh, a PM on the Windows Forms team, gives his opinion on several important Windows Forms and Avalon-related questions : Is [Windows Forms 2.0 as the last version of Windows Forms] a bad thing from a developer perspective? So UI library innovation for Windows Forms is finished.&amp;nbsp; Does that make it dead? (no) Is it worth investing in Windows Forms? (yes) Will Windows Forms apps be able to integrate Longhorn controls in under 5 lines of code? (absolutely) If I invest in a large Windows Forms app to...</summary>
+    <content type="html">&lt;h1>Mike Harsh On the Life Left in Windows Forms (Lots!)&lt;/h1>
+&lt;P>Mike Harsh, a PM on the Windows Forms team, gives &lt;A href="http://blogs.msdn.com/mharsh/archive/2004/09/20/231888.aspx">his opinion on several important Windows Forms and Avalon-related questions&lt;/A>:&lt;/P>
+&lt;UL>
+&lt;LI>Is [Windows Forms 2.0 as the last version of Windows Forms] a bad thing from a developer perspective?&lt;/LI>
+&lt;LI>So UI library innovation for Windows Forms is finished.&amp;nbsp; Does that make it dead? (no)&lt;/LI>
+&lt;LI>Is it worth investing in Windows Forms? (yes)&lt;/LI>
+&lt;LI>Will Windows Forms apps be able to integrate Longhorn controls in under 5 lines of code? (absolutely)&lt;/LI>
+&lt;LI>If I invest in a large Windows Forms app today will I have to rewrite it in 3 years for Avalon?&lt;/LI>&lt;/UL>
+&lt;P>These are Mike's opinions and not official Microsoft messaging, but I'll leave you to decide whether that's worse or better. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1519</id>
+    <title>Giving a Mapped Drive .NET FullTrust</title>
+    <updated>2004-09-21T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-09-21T07:00:00.000Z</published>
+    <summary>Lately, I've been running Virtual PC a lot to test various versions of WinFX on various platforms. To save me for locking any valuable code into a VPC HD, I use VPC shares, mapping Z to the D HD on my VPC host PC. That's all well and good 'til I try to load a project from Z which, according to the OS, is a mapped network drive (in spite of the fact that it's just the other partition on the very same PC), and Visual Studio complains that since I don't have FullTrust on that drive, things may not work out the...</summary>
+    <content type="html">&lt;h1>Giving a Mapped Drive .NET FullTrust&lt;/h1>
+&lt;P>Lately, I've been running Virtual PC a lot to test various versions of WinFX on various platforms. To save me for locking any valuable code into a VPC HD, I use VPC shares, mapping Z to the D HD on my VPC host PC. That's all well and good 'til I try to load a project from Z which, according to the OS, is a mapped network drive (in spite of the fact that it's just the other partition on the very same PC), and Visual Studio complains that since I don't have FullTrust on that drive, things may not work out the way I'd hoped (and for whoever decided to write the code and put up that message box, thank you!):&lt;/P>&lt;PRE>The project location is not trusted.&lt;/PRE>&lt;PRE>Running the application may result in security exceptions when it&lt;BR>attempts to perform actions which require full trust.&lt;/PRE>
+&lt;P>What's happening is that VS is detecting that the project on the network drive is getting Intranet permissions according to the good and true workings of .NET Code Access Security (CAS). However, since I'm just trying to pretend that Z is on my PC (and, in fact, it is), I want it to have FullTrust permissions. To accomplish this, you need to add a new Code Group with an URL membership permission specifying the folder (in URL form) to which you'd like to grant full trust. You can do with the .NET Framework Configuration tool or you can do it from the command line like so:&lt;/P>&lt;PRE>c:\&amp;gt;caspol -q -machine -addgroup&amp;nbsp;1 -url file://z:/* FullTrust -name "Z Drive"&lt;/PRE>
+&lt;P>Once this new code group is in place, any new .NET processes you start will give any assemblies on the Z drive full trust (make sure to cycle the devenv.exe process if you want these new permissions and that message box to go away).&lt;/P>
+&lt;P>Since awarding new permissions, full trust or not, to any chunk of code is something that can cause a security hole, be careful. In this case, I'm awarding full trust so that Z acts just like a normal HD which has full trust by default, so I'm OK. Please make sure that you're OK before adding permission via code groups willy nilly.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1518</id>
+    <title>Windows Command Shell Partner Drop 3 Available</title>
+    <updated>2004-09-20T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-09-20T07:00:00.000Z</published>
+    <summary>For Windows Command Shell (aka MSH aka Monad) users, Partner Drop #3 was just posted today on http://beta.microsoft.com. So far, all I know is that it fixes 45 internally and externally reported bugs, but it's nice to know that things are moving along on the first new shell we've had since NT 3.1.</summary>
+    <content type="html">&lt;h1>Windows Command Shell Partner Drop 3 Available&lt;/h1>
+For Windows Command Shell (aka MSH aka Monad) users, Partner Drop #3 was just posted today on &lt;A href="http://beta.microsoft.com">&lt;U>&lt;FONT color=#0000ff>http://beta.microsoft.com&lt;/U>&lt;/FONT>&lt;/A>. So far, all I know is that it fixes 45 internally and externally reported bugs, but it's nice to know that things are moving along on the first new shell we've had since NT 3.1.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1517</id>
+    <title>DevCon Sold Out; Added A Little Extra Space</title>
+    <updated>2004-09-20T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-09-20T07:00:00.000Z</published>
+    <summary>Here. After only 5 weeks of registrations, the Applied XML Developer's Conference has sold out. With 4 weeks of registrations left to go, we've gone back to the venue for extra space. It's not much extra space, though, so if you want a seat, you should register expeditiously. </summary>
+    <content type="html">&lt;h1>DevCon Sold Out; Added A Little Extra Space&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. &lt;P>After only 5 weeks of registrations, &lt;A HREF="/public/conference/">the Applied XML Developer's Conference&lt;/A> has sold out. With 4 weeks of registrations left to go, &lt;STRONG>we've gone back to the venue for extra space&lt;/STRONG>. It's not much extra space, though, so if you want a seat, &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">you should register expeditiously&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1516</id>
+    <title>Go See Shaun Of The Dead</title>
+    <updated>2004-09-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-09-18T07:00:00.000Z</published>
+    <summary>I don't care who or what you are, male or female, rich or poor, heterosexual, homosexual, pansexual or Rory, you should go and see Shaun of the Dead. I went to a sneak preview tonight and it's the best movie I've see all year. Absolutely hil-laugh-your-ass-off-larious.</summary>
+    <content type="html">&lt;h1>Go See Shaun Of The Dead&lt;/h1>
+I don't care who or what you are, male or female, rich or poor, heterosexual, homosexual, pansexual or Rory, you should go and see &lt;A href="http://www.imdb.com/title/tt0365748/">Shaun of the Dead&lt;/A>. I went to a sneak preview tonight and it's the best movie I've see all year. Absolutely hil-laugh-your-ass-off-larious.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1515</id>
+    <title>Chris and Melissa Go To Burning Man</title>
+    <updated>2004-09-12T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-09-12T07:00:00.000Z</published>
+    <summary>Here. Click here for the full story. </summary>
+    <content type="html">&lt;h1>Chris and Melissa Go To Burning Man&lt;/h1>
+&lt;a href="/public/fun/burningman/">Here&lt;/a>. &lt;P>&lt;A HREF="/public/fun/burningman/">&lt;IMG height=386 src="/public/fun/burningman/index.11.jpg" width=256 border=0>&lt;/A>&lt;/P>
+&lt;P>&lt;A HREF="/public/fun/burningman/">&lt;FONT color=#000000>Click here for the full story.&lt;/FONT>&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12343</id>
+    <title>Chris and Melissa Go To Burning Man</title>
+    <updated>2004-09-12T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/burningman/index.11.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2004-09-12T07:00:00.000Z</published>
+    <summary>&amp;quot;Welcome Home&amp;quot; [ed: all pictures clickable. b/w pictures used without permission.] &amp;quot;Welcome Home,&amp;quot; was the first thing my wife and I heard when we pulled into the greeter station at Burning Man 2004 in the Black Rock Desert just outside of Gerlach, Nevada. We'd spent most of the last year gathering information about how to prepare for this year's Burning Man gathering, the last few months actively preparing, e.g. menu plans and kilt shopping, the last week packing and buying the last few...</summary>
+    <content type="html">&lt;h1>Chris and Melissa Go To Burning Man&lt;/h1>
+&lt;p>&lt;img border="0" src="/public/fun/burningman/index.11.jpg" width="256" height="386">&lt;/p>
+&lt;p>
+&lt;h1>&amp;quot;Welcome Home&amp;quot;&lt;/h1>
+
+&lt;p>&lt;b>&lt;i>[ed: all pictures clickable. b/w pictures used without permission.]&lt;/i>&lt;/b>&lt;/p>
+&lt;p>&amp;quot;Welcome Home,&amp;quot; was the first thing my wife and I heard when we pulled into 
+the greeter station at Burning Man 2004 in the Black Rock Desert just outside of 
+Gerlach, Nevada. We'd spent most of the last year gathering information about 
+how to prepare for this year's Burning Man gathering, the last few months 
+actively preparing, e.g. menu plans and kilt shopping, the last week packing and 
+buying the last few things we needed, like bagels and fur for homemade bikinis 
+(a dark one for the day and a light one for more formal evenings) and the last two 
+days driving in our loaded-down Ford, spending the previous night in a 
+surprisingly pleasant Best Western Travel Inn Motor Lodge in otherwise desolate 
+downtown Alturas, California.&lt;/p>
+&lt;p>The greeter was a very enthusiastic, bouncy woman obviously enormously 
+excited to welcome another of her &amp;quot;family&amp;quot; to the world's largest and most 
+extreme art festival/party in the middle of a lifeless bit of desert in North 
+Western Nevada known to its temporary inhabitants as &amp;quot;the playa.&amp;quot; The greeter, 
+who introduced herself as &amp;quot;Star,&amp;quot; was dressed in what I would consider a plain, 
+but flattering shift, obviously the only piece of clothing she was wearing (did 
+I mention that she was &amp;quot;bouncy?&amp;quot;). As it turned out, this outfit was downright 
+puritan given the range of costumes and coverage I was to experience in Star's 
+family who had mostly taken residence over a circle of 2 square miles (although 
+it seemed much larger), split between a half circle of camping areas&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04240003.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.2.jpg" width="358" height="256">&lt;/a>&lt;/p>
+&lt;p>and a half circle of art structures ranging from hand-blown glass&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04190018.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.3.jpg" width="386" height="256">&lt;/a>&lt;/p>
+&lt;p>to the interactive exhibit at the base of the man attraction: &amp;quot;The Man.&amp;quot;&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/theRoadToTheMan.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.4.gif" width="358" height="190">&lt;/a>&lt;/p>
+&lt;p>In the early '80s, a man named Larry Harvey&lt;/p>
+&lt;p>
+&lt;a href="http://www.burningman.com/whatisburningman/people/1_harvey_bio.html">
+&lt;img border="0" src="/public/fun/burningman/index.5.gif" width="234" height="166">&lt;/a>&lt;/p>
+&lt;p>was camping with his friends on 
+the California coast and, in a fit of boredom, decided it would be fun to 
+construct a life-sized statue of a man out of 2x4s and burn it in effigy. This 
+turned out to be so much fun that it was repeated the next year with a larger 
+set of friends and a larger statue. Eventually, the yearly gathering and the statue of the man, now 
+being carted in in pieces across multiple vehicles for the main event, grew too 
+large for the camp ground and a new home had to be found. Now this &amp;quot;camping 
+trip&amp;quot; takes up 10 days the two weekends and the week before Labor Day, housing 
+camp sites in a desert that is so harsh and so alkali that it is home to 
+literally no life during the 355 days when &amp;quot;Burners&amp;quot; (what Burning Man alumnae 
+call themselves) are not present. This, of course, doesn't count the several 
+weeks before the main event it takes for Burning Man staff and volunteers to 
+layout their circular city and then to tear it down and clean it up afterwards.&lt;/p>
+&lt;p>As the 7th largest city in Nevada during the event, Black Rock City (BRC) is home 
+to a post office (complete with surly Disgruntled Postal Workers that have just 
+recently been disarmed [no case of a worker heading for a local clock tower has 
+even been documented), an airport (two plane crashes last year -- this year's 
+statistics are still being compiled), a hospital, an ice house, a coffee 
+shop/exhibit hall/lounge known as &amp;quot;The Cafe,&amp;quot; three separate daily papers (the 
+main paper, The Black Rock City Gazette, the alternative paper called &amp;quot;Piss 
+Clear&amp;quot; [after the measure one is advised to use to ensure appropriate water 
+intake]&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/pissClear.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.6.gif" width="374" height="249">&lt;/a>&lt;/p>
+&lt;p>and the alternate, alternate paper called the Spock Science Monitor), an 
+information booth/rest area/message board, a police force known as the Black 
+Rock Rangers and the group responsible for the creation, maintenance and 
+destruction of the city itself, and most importantly, in excess of 100 porta-potties, 
+the BRC Department of Public Works.&lt;/p>
+&lt;p>However, as much work as you might imagine planning and running a city may 
+be, the bulk of the work is done by the attendees themselves.&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04220013.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.13.jpg" width="325" height="513">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04190017.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.7.jpg" width="256" height="386">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04200010.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.8.jpg" width="256" height="386">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04220011.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.9.jpg" width="386" height="256">&lt;/a>&lt;/p>
+&lt;p>Unlike your 
+typical Renaissance Fair, where middle-class America feels comfortable bringing 
+their family for a bit of light debauchery, making sure to clear out before dark 
+when the real debauchery happens in the Staff Only area, Burning Man attendees 
+are all participants in the event. Even curious attendees like my wife and I are 
+&amp;quot;specipicipants&amp;quot; in that we're part of the continuous pageantry in my fur vest, 
+working miner's helmet, combat boots and kilt (&amp;quot;utility&amp;quot; not &amp;quot;dress&amp;quot;)&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04210003.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.10.jpg" width="398" height="328">&lt;/a>&lt;/p>
+&lt;p>and in her 
+naughty nurse costume and go-go boots, complete with Vanilla Rum-filled IV bags 
+for convenient access.&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04200012.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.11.jpg" width="256" height="386">&lt;/a>&lt;/p>
+&lt;p>The only true spectators are known as &amp;quot;tourists&amp;quot; or &amp;quot;frat 
+boys,&amp;quot; due to their prophecy to sit apart from the crowd on their RVs in polo 
+shirts, drinking beers and hollering for the hotties to show them their tits.&lt;/p>
+&lt;p>Still, while the frat boys at at the bottom of this particular social 
+hierarchy (finally), they hardly need bother with the hollering. I saw more of every kind of body 
+part, male and female, young and old, short and tall, thin and fat, black, white, 
+green and purple (really), topless, bottomless (also known as &amp;quot;The D&amp;quot; for Donald 
+Duck, i.e. a top but no bottom)&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/theDLook.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.12.gif" width="478" height="220">&lt;/a>&lt;/p>
+&lt;p>and full-on nude than I imagine the population of the 8th largest city in Nevada to be 
+in its entirety. However, the amount of skin 
+that people shown paled in comparison to the costumes that they used to display 
+it. It was like Mardi Gras, Carnival and your local gay pride parade all rolled 
+into one ever-increasing majestic, perverted display that a conservative 
+Midwestern boy couldn't have imagined, let alone taken all in. As evening 
+approached each night and we migrated towards &amp;quot;Center Camp&amp;quot; where the theme 
+camps were gathered&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/themeCamp.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.17.gif" width="324" height="175">&lt;/a>&lt;/p>
+&lt;p>and the main activity took place,&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/gadgetsAndGizmos.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.18.gif" width="222" height="338">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/ridingRheRides.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.19.gif" width="200" height="275">&lt;/a>&lt;/p>
+&lt;p>the crowd grew thicker and 
+the regalia more fantastic. Even in my kilt (my token attempt to fit in), I felt 
+much more like a tourist than a participant, giving myself continuous whiplash 
+trying to assimilate.&lt;/p>
+&lt;p>And it just wasn't the skin that drew my attention (although I admit that 
+took first priority). Burning Man's primary theme during it's life has been 
+&amp;quot;extreme expression,&amp;quot; which includes all manner of art expressed as costumes, of 
+course, but also paintings, sculpture, dance, &amp;quot;art cars&amp;quot; and structures of all 
+sizes, some for inhabitation, some for burning and some for both (like the 
+interactive exhibit/neon highlighted Burning Man sculpture itself). For example, 
+an &amp;quot;art car&amp;quot; is the only type of motorized vehicle that's allowed to drive on 
+the playa, and only if it's sufficiently decorated to pass muster by the BRC 
+equivalent of the Frence Ministry of Art in most ways that matter, e.g. a 
+tricked out pimp mobile will stay in camp will the two-story observation 
+deck/bar on wheels can cruise all day and all night.&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/artcar.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.14.gif" width="375" height="250">&lt;/a>&lt;/p>
+&lt;p>Artless cars, on the other 
+hand, drive in to their camp site, park and stay parked 'til it's time to head 
+home. This for two main reasons. The first is because of the 35,000 attendees, 
+most of them spend a large part of the time experiencing alternate 
+consciousnesses, aka drunk or stoned, a lot of which happens in the dark (BRC is 
+definitely a 24x7 kind of place). Cars and motorcycles just don't mix in a 
+friendly way with altered, darkened pedestrians and cyclists (the preferred mode 
+of travel for more than bumming cigs off of the neighbors).&lt;/p>
+&lt;p>However, there's another reason high-speed vehicles are grounded in BRC (even 
+art cars are forbidden to exceed 5 MPH and pedestrians and cycles &lt;i>always&lt;/i> have 
+the right of way as they stumble/weave their way in and out of traffic): dust. 
+Dust rules the playa. Even after a 24-hour break in Reno and 6 hours into my 
+trip home, I was still popping antacid tablets like candy to combat the heartburn 
+caused by the pounds of playa dust I ingested. The combination of the dust, the 
+elevation (4000 feet above sea level) and the humidity (0%) laid both Melissa 
+and I low with gripping headaches after our first afternoon and kept us in naps 
+during much of our first full day. And therefore, to keep the dust down, no vehicle is allowed over 5 MPH in camp or 
+over 10 MPH within 10 miles of camp. Few things causes 
+harsh treatment in the accepting environment populated by the most repressed 
+members of society that can actually afford to attend Burning Man (our 5 days 
+probably cost us $1000 in gate fees [$450], food, travel and fake fur) than 
+stirring up dust. I mean, you can serve up home brew from a dispenser in the 
+shape and location of your penis (really) and be patted on the back for your public 
+service, but stir up an unnecessary amount of dust and be prepared for a beating.&lt;/p>
+&lt;p>Dust gets into every nook and cranny. Dust stops you from being able to cook 
+or eat. Dust stops you from getting to the toilet (which is an important thing 
+to be able to do when you are trying to drink a gallon of water every day). Dust 
+stops you from keeping the roach going. Dust gets into the vodka tonics 
+dispensed from kegs. Dust stops Camp Arachnid from their daily 
+morning seminar on Beginner Rope Bondage (&amp;quot;Bring your own favorite rope&amp;quot;), which screws 
+students up that need the practice before the evening seminar on Advanced 
+Rope Bondage (this is one of those classes where the prerequisites are something to 
+which you should really pay attention). Dust is the enemy and everyone carries 
+some kind of dust mask and ventless eye goggles where ever they go&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04200009.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.15.jpg" width="359" height="361">&lt;/a>&lt;/p>
+&lt;p>lest they be 
+trapped in a storm (this year was especially rife with dust storms, I'm told) 
+and can't take of Wednesday's World Naked Bike Ride - Black Rock City Chapter (&amp;quot;Oil 
+Dependency Bad! Freedom of Expression Good!&amp;quot;).&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/bmevents.JPG">
+&lt;img border="0" src="/public/fun/burningman/index.16.gif" width="398" height="247">&lt;/a>&lt;/p>
+&lt;p>So, if dust and water are the two most important things that a Burner needs 
+to manage, the third is the toilet. A camp spot is judged most importantly by 
+it's proximity not to the hub of activity at Center Camp (in spite of the 
+availability of ice, lattes and the continuous parade of skin) but by the 
+proximity to the local row of porta-potties. And not just any porta-potties, 
+either. For example, we were about half-way between two sets of porta-potties, 
+one was towards the center of camp and one outside the fence of the main camp. 
+One morning, one of our camping neighbors came back from the porta-pottie 
+outside the main fence and declared it Christmas, because it was actually clean 
+and contained toilet paper (both luxuries on the scale of water and shelter from 
+the dust). Word spread like wild-fire and the &amp;quot;Christmas Toilet&amp;quot; was what we 
+preferred for the rest of the trip. Unfortunately, so did everyone else in a 
+1000 person radius, as you can't keep news like that to yourself. Soon enough, 
+the Christmas Toilets turned into Morning After Hang-Over Toilets and we were 
+back to scouting for suitable seats and bringing our own toilet paper.&lt;/p>
+&lt;p>So, with Burning Man as an interesting mix of extreme self-expression and 
+survival camping, you may ask yourself, &amp;quot;But is it fun?&amp;quot; The answer, for me, was 
+&amp;quot;yes and no.&amp;quot; Ironically, I enjoyed the survival camping bit the best. Or, I 
+enjoyed gawking at the people and the structures, but the camp I was in was 
+filled with veterans. This was intimidating. For example, when some really 
+attractive naked person wondered by or when I read about Xanadu Roller Disco 
+(&amp;quot;Don't have skates, it's ok, you can use ours.&amp;quot;), I was supposed to pretend 
+that this wasn't worth a comment. What the hell fun is that? I want to point and 
+laugh and enjoy myself with like-minded folks. Instead, when they passed around 
+the pot pipe, I was befuddled by the carburetor and pass it on w/o a toke. Hell, 
+in spite of the ton of alcohol we brought, neither Melissa or I ever even got 
+drunk (let alone stoned) because our fellow campers were into &amp;quot;softer stuff&amp;quot; 
+(beer and funny brownies, apparently). I have to admit that, at least for the 
+first year, I'd have been more comfortable on top of the RVs with the frat boys 
+then down on the ground with the blas vets.&lt;/p>
+&lt;p>What this meant is that after 1 day of setting up and headaches, a day of 
+laying around recovering, I talked Melissa into a day in Reno (100 miles 
+southwest of Black Rock Desert) for some social relief. There we showered for 45 
+minutes cleaning off the playa, played nickel slots, enjoyed free casino drinks, 
+took in a hilarious comedy show, lost $100 bucks on Blackjack and generally had 
+a very nice time. Then, we headed back and dressed for the burn.&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04190013.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.20.jpg" width="389" height="365">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04190014.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.21.jpg" width="449" height="559">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04220004.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.22.jpg" width="537" height="469">&lt;/a>&lt;/p>
+&lt;p>The afternoon of preparation for the burn and the evening of was easily the 
+best part of the trip. According to the Travel Channel, the burn is the best 
+party in the world. I have to say, it was pretty cool. The event was 35K people 
+wrapped around the center of the camp, watching what seemed like hundreds of 
+fire spinners, then the fireworks and the burn of the man itself. When it came 
+down, the crowd rushed the burning pile and we went in, too, 'til we could touch 
+the protective fireman and things got just pushy enough to feel like control 
+would be lost at any moment. Then we ducked back and walked the desert where 
+hundreds of separate parties of all kinds were taking place. Still, without 
+friends, neither Melissa nor I felt like partying, so we wandered for an hour or 
+so and then headed back to camp for what was comparatively an early evening 
+(midnight is bright and early for many burners).&lt;/p>
+&lt;p>In the morning after the burn, we were awaked near dawn by the exact same 
+music and drums and revelry that we'd fallen asleep to the night before. One 
+thing that made burning man interesting was while you expected it to be hot 
+during the day (mid-90s this year), you didn't expect it to be so cold at night 
+or in the early morning (50s). I remember Melissa being at her most beautiful 
+bundled for the chill that morning (you can't quite see the BM tattoo on her 
+chest, but it was quite fetching):&lt;/p>
+&lt;p>&lt;a href="/public/fun/burningman/04190019.jpg">
+&lt;img border="0" src="/public/fun/burningman/index.23.jpg" width="269" height="381">&lt;/a>&lt;/p>
+&lt;p>To avoid a 2-hour wait out the door, we were packed and heading for one last 
+trip to the porta-potties by 8am and out the door by 8:30. Since then, the car's 
+been cleaned but my garage still houses the playa-encrusted tent and other camp 
+equipment we haven't yet put away. I don't know if this trip was worthy of
+&lt;a href="http://neopoleon.com/blog/posts/7962.aspx">Rory's song&lt;/a> 
+(let alone &lt;a href="http://neopoleon.com/blog/posts/8133.aspx">
+Jason's remix&lt;/a>), but I'm glad I went and I would go again. However, I would 
+need some much closer friends to go with. I'm big on acceptance and tolerance 
+and new experience, but I don't bond easily with new people and getting 
+sufficiently stupid to really enjoy burning man requires a level of intimacy 
+that I only have with my closest friends. Without those kinds of friends, just 
+BM wasn't &amp;quot;home&amp;quot; to me, despite the greeter's welcome.&lt;/p>
+&lt;p>Interestingly, the greeter's words of &amp;quot;Welcome Home,&amp;quot; while they threw me off 
+having never attended BM before, were echoed by others as a standard greeting 
+through-out the week. I came to realize it's importance. For folks that would 
+prefer an alternative to our puritan culture and are therefore forced to enjoy 
+their proclivities of self-expression and enjoyment underground, BM provides an 
+environment of open acceptance, tolerance and, for the lucky ones, even love. 
+This is an important thing to provide for an otherwise disenfranchised group of 
+folks and it's easy to see why one man's camping trip turning into the enormity 
+it is today.&lt;/p>
+&lt;p>However, while I consider myself accepting and tolerating of other people's 
+lifestyles, my own is fairly puritan (&lt;i>mostly &lt;/i>by choice : ). The &amp;quot;Welcome 
+Home&amp;quot; that I most treasured was the one I got from my sons on our return.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1513</id>
+    <title>Catching up with Longhorn</title>
+    <updated>2004-09-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-09-10T07:00:00.000Z</published>
+    <summary>That was interesting. I spent all week getting ready for the big announcement, we launched it on a Friday and then I took off for a week of fun in the sun. And now, it's taken me a week to catch up with what everyone is thinking. People I've found particular interesting are: Chris Anderson, Architect on the Avalon team&amp;nbsp;( 1, 2, 3, 4, 5 ) Joe Beda, recently formerly on the Avalon team (&lt;A href="http://www.eightypercent.net/Archive/2004</summary>
+    <content type="html">&lt;h1>Catching up with Longhorn&lt;/h1>
+&lt;P>That was interesting. I spent all week getting ready for &lt;A href="http://www.msdn.com/longhorn/">the big announcement&lt;/A>, we launched it on a Friday and then I took off for &lt;A href="/1506">a week of fun in the sun&lt;/A>. And now, it's taken me a week to catch up with what everyone is thinking. People I've found particular interesting are:&lt;/P>
+&lt;ul>
+&lt;LI>Chris Anderson, Architect on the Avalon team&amp;nbsp;(&lt;A href="http://www.simplegeek.com/PermaLink.aspx/8ccbbce9-0ec7-408f-9209-6ef233850dbb">1&lt;/A>, &lt;A href="http://www.simplegeek.com/permalink.aspx/eb453f85-10e3-48ee-a6f5-cc4b886ce668">2&lt;/A>, &lt;A href="http://www.simplegeek.com/permalink.aspx/bf0e86f9-5e77-44e7-b615-871270d7f062">3&lt;/A>, &lt;A href="http://www.simplegeek.com/permalink.aspx/80ac6f16-1ceb-48c4-8f22-e768c1d24290">4&lt;/A>, &lt;A href="http://www.simplegeek.com/permalink.aspx/59325a3c-6558-42c6-a97d-6b303ce9731d">5&lt;/A>)&lt;/LI>
+&lt;LI>Joe Beda, recently formerly on the Avalon team (&lt;A href="http://www.eightypercent.net/Archive/2004/08/30.html">1&lt;/A>)&lt;/LI>
+&lt;li>Jeremy Mazner, Longhorn Evangelist (&lt;a href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222488.aspx">1&lt;/a>, &lt;a href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222493.aspx">2&lt;/a>)&lt;/li>
+&lt;li>Robert Scoble, MS RSS Filler (&lt;a href="http://radio.weblogs.com/0001011/2004/08/30.html#a8167">1&lt;/a>, &lt;a href="http://radio.weblogs.com/0001011/2004/08/30.html#a8168">2&lt;/a>)&lt;/li>
+&lt;LI>Miguel de Icaza, Architect on the Mono project, a .NET clone (&lt;A href="http://primates.ximian.com/~miguel/archive/2004/Sep-01.html">1&lt;/A>, &lt;A href="http://primates.ximian.com/~miguel/archive/2004/Sep-09.html">2&lt;/A>)&lt;/LI>
+&lt;LI>Robert McLaws, a 3rd party developer (&lt;A href="http://www.longhornblogs.com/robert/archive/2004/08/29/4987.aspx">1&lt;/A>, &lt;A href="http://www.longhornblogs.com/robert/archive/2004/09/04/5163.aspx">2&lt;/A>)&lt;/LI>
+&lt;li>Jason Olson, a 3rd party developer (&lt;a href="http://geekswithblogs.net/jolson/archive/2004/08/27/10302.aspx">1&lt;/a>, &lt;a href="http://geekswithblogs.net/jolson/archive/2004/08/27/10315.aspx">2&lt;/a>)&lt;/li>
+&lt;LI>Jim Allchin, Group VP for Platforms (&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=19798">1&lt;/A>)&lt;/LI>&lt;/ul>
+&lt;P>In the meantime, I'm re-aligning the Longhorn DevCenter content with our new goals, making sure to keep on my toes as things suss out (we're &lt;I>far&lt;/I> from completely sussed on the details or implementations of this announcement, which is why watching internal and external commentary is so interesting right now).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1514</id>
+    <title>Joe Stegman on Windows Forms and Avalon Together</title>
+    <updated>2004-09-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-09-10T07:00:00.000Z</published>
+    <summary>Joe Stegman, Lead PM on the Windows Forms team, talks about how tight the integration between Windows Forms and Avalon will be, including hosting Windows Forms controls inside of Avalon, Avalon controls inside of Windows Forms and sharing a data binding model. In other words, developing on Windows Forms is a wonderful way to get tasty managed UI goodness today and long into the future, whether you'd like to target Avalon and/or Longhorn in the future or not.</summary>
+    <content type="html">&lt;h1>Joe Stegman on Windows Forms and Avalon Together&lt;/h1>
+Joe Stegman, Lead PM on the Windows Forms team, talks about &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=21751">how tight the integration between Windows Forms and Avalon will be&lt;/A>, including hosting Windows Forms controls inside of Avalon, Avalon controls inside of Windows Forms and sharing a data binding model. In other words, developing on Windows Forms is a wonderful way to get tasty managed UI goodness today and long into the future, whether you'd like to target Avalon and/or Longhorn in the future or not.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1512</id>
+    <title>Windows Forms 2.0 Rocks The House</title>
+    <updated>2004-09-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-09-10T07:00:00.000Z</published>
+    <summary>Joe Stegman shows off the ability of Windows Forms 2.0 to build very professional looking UIs, including clones of MSN Messenger, MS Money, IE and Outlook, all using out of the box controls. In particular, IE was implemented with 10 lines of non-Designer code. Whoa. I can only assume that the Windows Forms team will ship these code samples on windowsforms.net &amp;nbsp;ASAP. Recommended.</summary>
+    <content type="html">&lt;h1>Windows Forms 2.0 Rocks The House&lt;/h1>
+&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=21658">Joe Stegman shows off the ability of Windows Forms 2.0 to build very professional looking UIs&lt;/A>, including clones of MSN Messenger, MS Money, IE and Outlook, all using out of the box controls. In particular, IE was implemented with 10 lines of non-Designer code. Whoa. I can only assume that the Windows Forms team will ship these code samples on &lt;A href="http://www.windowsforms.net/">windowsforms.net&lt;/A>&amp;nbsp;ASAP. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1511</id>
+    <title>New XML Dev.Conf. Talk: XML in .NET 2.0</title>
+    <updated>2004-09-07T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-09-07T07:00:00.000Z</published>
+    <summary>Here. Neetu Rajpal, a PM on the SQL Server team, has agreed to give us an overview of what's new in XML for.NET 2.0 and in design-time support for Visual Studio 2005 at the Applied XML Developer's Conference, October 20-21 at the Skamania Lodge in Stevenson, Washington. While I was away enjoying America's version of a nude beach, we've surged to 80% full, so register soon.</summary>
+    <content type="html">&lt;h1>New XML Dev.Conf. Talk: XML in .NET 2.0&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. Neetu Rajpal, a PM on the SQL Server team, has agreed to give us an overview of what's new in XML for .NET 2.0 and in design-time support for Visual Studio 2005 at &lt;A HREF="/public/conference/">the Applied XML Developer's Conference&lt;/A>, October 20-21 at the Skamania Lodge in Stevenson, Washington. While I was away enjoying &lt;A href="http://www.burningman.com/">America's version of a nude beach&lt;/A>, we've surged to 80% full, so &lt;A HREF="/public/conference/">register soon&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12485</id>
+    <title>The Week Before Burning Man</title>
+    <updated>2004-09-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-09-06T07:00:00.000Z</published>
+    <summary>I was just listing my activities for the week before Burning Man and amazed even myself: Shopping for and celebrating my wife's 36th birthday Helping to prepare for and then watching Sells brother #1 test for his Jr. Brown belt in karate (he was amazing) Hosting my aunt and grandmother on a very rare 4-day trip A day-trip to the beach Celebrating the birthday of Sells brother #2 Coordinating the update, from my house and at the last possible moment, of more than 100 pages on microsoft.com to reflect the rec...</summary>
+    <content type="html">&lt;h1>The Week Before Burning Man&lt;/h1>
+&lt;p align="left">I was just listing my activities for the week before Burning Man and amazed even myself:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">Shopping for and celebrating my wife's 36th birthday&lt;/li>&lt;li>&lt;p align="left">Helping to prepare for and then watching Sells brother #1 test for his Jr. Brown belt in karate (he was amazing)&lt;/li>&lt;li>&lt;p align="left">Hosting my aunt and grandmother on a &lt;i>very &lt;/i>rare 4-day trip&lt;/li>&lt;li>&lt;p align="left">A day-trip to the beach&lt;/li>&lt;li>&lt;p align="left">Celebrating the birthday of Sells brother #2&lt;/li>&lt;li>&lt;p align="left">Coordinating the update, from my house and at the last possible moment, of more than 100 pages on microsoft.com to reflect the recent announcement of WinFX being made available on down-level versions of Windows (this included 3 all-nighters)&lt;/li>&lt;li>&lt;p align="left">Preparing for and running a 2-day garage sale of the stuff I pulled out of my house over the last 8 months in my own personal episode of &lt;a href="http://tlc.discovery.com/fansites/cleansweep/cleansweep.html">Clean Sweep&lt;/a>&lt;/li>&lt;li>&lt;p align="left">Packing for 5 days in the desert (I worried about survival and my wife worried about having enough costumes...)&lt;/li>&lt;/ul>&lt;p align="left">Of course, after that I spent a week at Burning Man, and today we're cleaning the playa out of everything, preparing the boys for school, hanging out with the relatives for Labor Day and celebrating our 13th wedding anniversary. Starting tomorrow, I have to figure out what to do with the Longhorn Developer Center now that WinFX will be available on down-level windows, co-author two Avalon books and one Windows Forms book and run the Applied XML Developer's Conference 5. Should be fun. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1510</id>
+    <title>The Week Before Burning Man</title>
+    <updated>2004-09-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-09-06T07:00:00.000Z</published>
+    <summary>Here. The one where I list the activites in which I was involved the week before Burning Man.</summary>
+    <content type="html">&lt;h1>The Week Before Burning Man&lt;/h1>
+&lt;a href="/12485">Here&lt;/a>. The one where I list &lt;a href="/12485">the activites in which I was involved the week before Burning Man&lt;/A>.</content>
+  </entry>
+</feed>

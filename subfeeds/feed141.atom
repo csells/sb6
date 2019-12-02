@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed141.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed140.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed142.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed141.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/452</id>
+    <title>eXtensible C#© Is Here!</title>
+    <updated>2003-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-19T08:00:00.000Z</published>
+    <summary>Here. From Pierre Nallet: I just released eXtensible C# (XC#), a companion to Visual studio and C#.
+XC# supports
+- Obfuscation
+- Code coverage
+- Declarative assertions
+- Partial code verification
+- and more... XC# can be downloaded for free at
+www.resolvecorp.com
+</summary>
+    <content type="html">&lt;h1>eXtensible C#© Is Here!&lt;/h1>
+&lt;a href="http://www.resolvecorp.com">Here&lt;/a>. From Pierre Nallet: I just released eXtensible C# (XC#), a companion to Visual studio and C#.
+XC# supports
+- Obfuscation
+- Code coverage
+- Declarative assertions
+- Partial code verification
+- and more...
+
+XC# can be downloaded for free at
+www.resolvecorp.com
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/450</id>
+    <title>Pies &amp; Marketing Guys</title>
+    <updated>2003-02-18T08:00:00.000Z</updated>
+    <published>2003-02-18T08:00:00.000Z</published>
+    <summary>Here. The results of my marketing guy's recent foray are in...</summary>
+    <content type="html">&lt;h1>Pies &amp; Marketing Guys&lt;/h1>
+&lt;a href="/12352">Here&lt;/a>. The results of my marketing guy's recent foray are in...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/451</id>
+    <title>Microsoft &amp; Patents</title>
+    <updated>2003-02-18T08:00:00.000Z</updated>
+    <published>2003-02-18T08:00:00.000Z</published>
+    <summary>Here. My retort to a report's questions about Microsoft's recent.NET patent application.</summary>
+    <content type="html">&lt;h1>Microsoft &amp; Patents&lt;/h1>
+&lt;a href="/12560">Here&lt;/a>. My retort to a report's questions about Microsoft's recent .NET patent application.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/449</id>
+    <title>.NET Reverse Engineering Techniques</title>
+    <updated>2003-02-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-18T08:00:00.000Z</published>
+    <summary>Here. From Michael Box: Understanding.NET reverse engineering techniques: file examination, disassembly, spying, using a Debugger and other tools.</summary>
+    <content type="html">&lt;h1>.NET Reverse Engineering Techniques &lt;/h1>
+&lt;a href="http://www.only4gurus.com/download.asp?ID=2372">Here&lt;/a>. From Michael Box: Understanding .NET reverse engineering techniques: file examination, disassembly, spying, using a Debugger and other tools.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12560</id>
+    <title>Microsoft &amp; Patents</title>
+    <updated>2003-02-18T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-02-18T08:00:00.000Z</published>
+    <summary>Tue, Feb 18, 2003 The buzz was all around VSLive last week about Microsoft patenting the.NET Framework API. In fact, an eWEEK reporter asked my opinion and this is what I said: I'm no patent attorney, but in examining the patent application, it looks to me as if they're claiming a patent for the entire.NET Framework, which comprises the classes that a.NET programmers uses to get anything done. My understanding of the patent laws says that Microsoft has every right to do this, since they invented it. The rea...</summary>
+    <content type="html">&lt;h1>Microsoft &amp; Patents&lt;/h1>
+&lt;p>&lt;i>Tue, &lt;span class="created">Feb 18, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>The buzz was all around VSLive last week about Microsoft 
+patenting the .NET Framework API. In fact, an eWEEK reporter asked my opinion 
+and this is what I said:&lt;/p>&lt;blockquote>I'm no patent attorney, but in examining 
+	the patent application, it looks to me as if they're claiming a patent for 
+	the entire .NET Framework, which comprises the classes that a .NET 
+	programmers uses to get anything done. My understanding of the patent laws 
+	says that Microsoft has every right to do this, since they invented it. The 
+	reason for them to do this is so that they can maintain control of its 
+	implementation. Hopefully Microsoft will grant a royalty free license to all 
+	implementations of the CLI ECMA standard, which makes up a large percentage 
+	of the .NET Framework, or that standard will be worthless.&lt;/blockquote>&lt;blockquote>
+	Even if they grant such a license, projects like Mono are still vulnerable. 
+	They plan on implementing even the parts of .NET that aren't standardized, 
+	like ASP.NET and WinForms. This would allow Windows programs compiled 
+	against .NET to run under Mono on Linux, providing a single API for 
+	cross-platform applications. This has been tried and failed in the past as 
+	recently as Java, but I had hoped that the Mono guys could make this work. 
+	When Microsoft is granted this patent, they can shut down the 
+	non-standardized parts of Mono whenever they want. That's good for Microsoft 
+	share holders, but it's not good for 3rd party developers that want to write 
+	cross-platform solutions.&lt;/blockquote>&lt;p>What I should have added is that as 
+far as I know, Microsoft hasn't ever enforced its patents. Apparently they keep 
+them for defensive reasons only. Or, they could be waiting 'til they have a 
+critical mass of patents, enforce them all at once and win the game of Risk that 
+they're playing with the world. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/448</id>
+    <title>What Is Meant By Marketing</title>
+    <updated>2003-02-17T08:00:00.000Z</updated>
+    <published>2003-02-17T08:00:00.000Z</published>
+    <summary>Here. In my quest for understanding the business side of this industry, I found this amusing...</summary>
+    <content type="html">&lt;h1>What Is Meant By Marketing&lt;/h1>
+&lt;a href="/12353">Here&lt;/a>. In my quest for understanding the business side of this industry, I found this amusing...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/447</id>
+    <title>Microsoft Gets a Clue From Its Kiddie Corps</title>
+    <updated>2003-02-17T08:00:00.000Z</updated>
+    <published>2003-02-17T08:00:00.000Z</published>
+    <summary>Here. A bunch of kids gather in a real-world like setting to design an app, only consulting an actual software engineer after the spec is done. Not only does the core app sound cool, i.e. groups of contacts that play/chat together in an online environment, but the way they designed it sounds cool, too. I'd like to grab a set of my customer base and hang in a trendy Seattle downtown warehouse for a month, too, but my customers are all too old to get away for that long. : )</summary>
+    <content type="html">&lt;h1>Microsoft Gets a Clue From Its Kiddie Corps&lt;/h1>
+&lt;a href="http://www.msnbc.com/news/873455.asp">Here&lt;/a>. A bunch of kids gather in a real-world like setting to design an app, only consulting an actual software engineer after the spec is done. Not only does the core app sound cool, i.e. groups of contacts that play/chat together in an online environment, but the way they designed it sounds cool, too. I'd like to grab a set of my customer base and hang in a trendy Seattle downtown warehouse for a month, too, but my customers are all too old to get away for that long. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/446</id>
+    <title>dotEASY</title>
+    <updated>2003-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-16T08:00:00.000Z</published>
+    <summary>Here. From Juan Esteban Suarez: Academic project. Free download from www.doteasy.addr.com. Abstract: "dotEASY" is a Visual Studio.Net Add-in that evaluates C# source code and performs "advices" in order to improve software quality. The configuration and programming of the "advices" is invisible to the developer, the tool’s final user, who only requests for code evaluation. A new "advice" can be created defining metrics, thresholds and optionally programming validation classes and execution classes to automa...</summary>
+    <content type="html">&lt;h1>dotEASY&lt;/h1>
+&lt;a href="http://www.doteasy.addr.com">Here&lt;/a>. From Juan Esteban Suarez: Academic project. Free download from www.doteasy.addr.com.
+
+Abstract: "dotEASY" is a Visual Studio .Net Add-in that evaluates C# source code and performs "advices" in order to improve software quality. The configuration and programming of the "advices" is invisible to the developer, the tool’s final user, who only requests for code evaluation. A new "advice" can be created defining metrics, thresholds and optionally programming validation classes and execution classes to automatically modify the code. The export and import capabilities allow one person to create an "advice", which can be configured and exported, so it can be used by many other people.
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/445</id>
+    <title>No touch deployment</title>
+    <updated>2003-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-16T08:00:00.000Z</published>
+    <summary>From David Taylor: I just read Chris Sell's "Distributed.config Files with Smart Clients" article:
+http://www.ondotnet.com/pub/a/dotnet/2003/01/27/ztd.html Here is another problem I just came across. I often use System.Diagnostics.Process.Start("http://www.sellsbrothers.com") to launch a website (or mailto, etc). However when deploying a simple URL shortcut to the actual application (on a web server), the assembly gets hosted by IEEXEC.exe. The problem is that the Process.Start method then returns a file no...</summary>
+    <content type="html">&lt;h1>No touch deployment&lt;/h1>
+From David Taylor: I just read Chris Sell's "Distributed .config Files with Smart Clients" article:
+http://www.ondotnet.com/pub/a/dotnet/2003/01/27/ztd.html
+
+Here is another problem I just came across.  I often use System.Diagnostics.Process.Start("http://www.sellsbrothers.com") to launch a website (or mailto, etc).  However when deploying a simple URL shortcut to the actual application (on a web server), the assembly gets hosted by IEEXEC.exe.  The problem is that the Process.Start method then returns a file not found error!  I did get it working by directly invoking Internet Explorer, but I needed to know it's directory from the registry because it is not always in the path (and there were some other strange behaviors).  So I have ended up using a minimalist setup.msi file that leaves a 5-10 line Loader.exe program on the users computer which in turn loads the assembly from the web server.  That way it is *not* hosted in IEEXEC and Process.Start works as expected.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/441</id>
+    <title>Data Tier Modeler for .Net - O/R mapping tool</title>
+    <updated>2003-02-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-14T08:00:00.000Z</published>
+    <summary>Here. From Sébastien Ros: This new tool is an object-relational framework fully integrated in VS.Net. Its main features are true UML importation, automatic object cache, database specific generation, transparent data encryption and bidirectional relations navigation. </summary>
+    <content type="html">&lt;h1>Data Tier Modeler for .Net - O/R mapping tool&lt;/h1>
+&lt;a href="http://www.evaluant.com">Here&lt;/a>. From Sébastien Ros: This new tool is an object-relational framework fully integrated in VS.Net. Its main features are true UML importation, automatic object cache, database specific generation, transparent data encryption and bidirectional relations navigation. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/443</id>
+    <title>More Safe Serialization for .NET</title>
+    <updated>2003-02-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-14T08:00:00.000Z</published>
+    <summary>Here. From Dominic Cooney: This library provides similar functionality to the.NET Framework's binary serialization (although unlike Chris Sell's SafeFormatter, it's not a drop-in replacement for the binary formatter; you have to implement an interface). It works on the.NET Compact Framework, and in downloaded code with only 'Internet' permissions. Unlike SafeFormatter, this library preserves the object reference graph.</summary>
+    <content type="html">&lt;h1>More Safe Serialization for .NET&lt;/h1>
+&lt;a href="http://www.dcooney.com/wiki/?PickleFramework">Here&lt;/a>. From Dominic Cooney: This library provides similar functionality to the .NET Framework's binary serialization (although unlike Chris Sell's SafeFormatter, it's not a drop-in replacement for the binary formatter; you have to implement an interface). It works on the .NET Compact Framework, and in downloaded code with only 'Internet' permissions. Unlike SafeFormatter, this library preserves the object reference graph.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/442</id>
+    <title>Distributed .NET Newsletter</title>
+    <updated>2003-02-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-14T08:00:00.000Z</published>
+    <summary>Here. From Ingo Rammer: Starting with February 2003, I will publish a free, bi-weekly newsletter on distributed programming with.NET which covers architecture, design and development guides and tips as well as links to other free material I consider as "must reads". </summary>
+    <content type="html">&lt;h1>Distributed .NET Newsletter&lt;/h1>
+&lt;a href="http://www.ingorammer.com/contact/newsletter.aspx">Here&lt;/a>. From Ingo Rammer: Starting with February 2003, I will publish a free, bi-weekly newsletter on distributed programming with .NET which covers architecture, design and development guides and tips as well as links to other free material I consider as "must reads". </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/440</id>
+    <title>Inside the Windows Deveopment Process</title>
+    <updated>2003-02-13T08:00:00.000Z</updated>
+    <published>2003-02-13T08:00:00.000Z</published>
+    <summary>Here. From Mike Johnson: A look at how Microsoft develops and maintains the Windows operating system. Fascinating reading for developers!</summary>
+    <content type="html">&lt;h1>Inside the Windows Deveopment Process&lt;/h1>
+&lt;a href="http://www.winsupersite.com/reviews/winserver2k3_gold2.asp">Here&lt;/a>. From Mike Johnson: A look at how Microsoft develops and maintains the Windows operating system.  Fascinating reading for developers!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/439</id>
+    <title>Oracle Data Provider for .NET</title>
+    <updated>2003-02-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-02-13T08:00:00.000Z</published>
+    <summary>Here. From Mihies: The Oracle Data Provider for.NET (ODP.NET) features optimized data access to the Oracle database from a.NET environment. Unlike OLE DB.NET and ODBC.NET, ODP.NET is a native driver and does not use a data access bridge, which can reduce performance. ODP.NET allows developers to take advantage of advanced Oracle database functionality. The data provider can be used from any.NET language, including C# and Visual Basic.NET. </summary>
+    <content type="html">&lt;h1>Oracle Data Provider for .NET&lt;/h1>
+&lt;a href="http://otn.oracle.com/tech/windows/odpnet/content.html">Here&lt;/a>. From Mihies: The Oracle Data Provider for .NET (ODP.NET) features optimized data access to the Oracle database from a .NET environment. Unlike OLE DB .NET and ODBC .NET, ODP.NET is a native driver and does not use a data access bridge, which can reduce performance. ODP.NET allows developers to take advantage of advanced Oracle database functionality. The data provider can be used from any .NET language, including C# and Visual Basic .NET. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12353</id>
+    <title>What is Meant by "Marketing"?</title>
+    <updated>2003-02-13T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2003-02-13T08:00:00.000Z</published>
+    <summary>People often ask what is meant by Marketing. Perhaps the following analogies will help clear it up: You see a gorgeous girl at a party. You go up to her and say, &amp;quot;I'm fantastic in bed.&amp;quot; That's Direct Marketing. You're at a party with a bunch of friends and see a gorgeous girl. One of your friends goes up to her and pointing at you says, &amp;quot;He's fantastic in bed.&amp;quot; That's Advertising. You see a gorgeous girl at a party. You go up to her and get her telephone number. The next day you call and...</summary>
+    <content type="html">&lt;h1>What is Meant by "Marketing"?&lt;/h1>
+&lt;p>People often ask what is meant by Marketing. Perhaps the following analogies will help clear it up:&lt;/p>&lt;ul>&lt;li>You see a gorgeous girl at a party. You go up to her and say, &amp;quot;I'm fantastic in bed.&amp;quot; That's Direct Marketing.&lt;/li>&lt;li>You're at a party with a bunch of friends and see a gorgeous girl. One of your friends goes up to her and pointing at you says, &amp;quot;He's fantastic in bed.&amp;quot; That's Advertising.&lt;/li>&lt;li>You see a gorgeous girl at a party. You go up to her and get her telephone number. The next day you call and say,&amp;quot; Hi, I'm fantastic in bed.&amp;quot; that's Telemarketing.&lt;/li>&lt;li>You're at a party and see a handsome man. You get up and straighten your dress. You walk up to him and pour him a drink. You say, &amp;quot;May I,&amp;quot; And reach up to straighten his tie brushing your breast lightly against his arm, and then say, &amp;quot;By the way, I'm fantastic in bed.&amp;quot; That's Public Relations.&lt;/li>&lt;li>You're at a party and see a gorgeous girl. She walks up to you and says, &amp;quot;I hear you're fantastic in bed.&amp;quot; That's Brand Recognition.&lt;/li>&lt;li>You're at a party and see a gorgeous girl. You talk her into going home with your friend. That's a Sales Rep.&lt;/li>&lt;li>Your friend can't satisfy her so he calls you. That's Technical Service.&lt;/li>&lt;li>You're on your way to a party when you realize that there could be gorgeous women in all the houses you're passing. So you climb onto the roof of one situated in the middle and shout at the top of your voice, &amp;quot;I'm fantastic in bed!&amp;quot;. That's Spam.&lt;/li>&lt;li>You hear about women like this but never meet one. That's False Advertising.&lt;/li>&lt;/ul>&lt;p>&lt;i>Created by unknown&lt;br>Contributed by Asaf Shelly&lt;br>Thu &lt;span class="created">2/13/2003 6:50 AM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+</feed>

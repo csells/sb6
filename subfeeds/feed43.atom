@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed43.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed42.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed44.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed43.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1802</id>
+    <title>Col. Jessup on the .NET Performance Team</title>
+    <updated>2005-06-09T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-06-09T07:00:00.000Z</published>
+    <summary>This is fabulous! Let me give you a taste: "We use words like L2, swaps, and working set. We use these words as the backbone of a life spent defending something. You use them as a punchline." </summary>
+    <content type="html">&lt;h1>Col. Jessup on the .NET Performance Team&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/ricom/archive/2005/06/09/427404.aspx">This is fabulous!&lt;/A> Let me give you a taste:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"We use words like L2, swaps, and working set. We use these words as the backbone of a life spent defending something. You use them as a punchline."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1800</id>
+    <title>Career Path for Developers?</title>
+    <updated>2005-06-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-07T07:00:00.000Z</published>
+    <summary>"Pete" email me the following questions: "I'm a senior software developer, age 34, specializing in C# development for Windows Forms / ASP.Net, having come from a VB background. Having had some (if not most) of my enjoyment of development sucked out of me by my current employer, I'm contemplating my next career move. "Thing is (and it's not just me, several of my colleagues concur), where do I go from here? What is the career path of a software developer? I.e. junior developer, senior developer, guru, author...</summary>
+    <content type="html">&lt;h1>Career Path for Developers?&lt;/h1>
+&lt;P>"Pete" email me the following questions:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"I'm a senior software developer, age 34, specializing in C# development for Windows Forms / ASP.Net, having come from a VB background. Having had some (if not most) of my enjoyment of development sucked out of me by my current employer, I'm contemplating my next career move.&lt;BR>&lt;BR>"Thing is (and it's not just me, several of my colleagues concur), where do I go from here? What is the career path of a software developer? I.e. junior developer, senior developer, guru, author,...? Is there such a thing as a career path for a developer (or anyone, these days)?&lt;BR>&lt;BR>"I surmise that developers such as myself (4th / 5th&amp;nbsp;gen language developers) may actually be the first at the crest of this particular wave - I guess COBOL developers could have migrated into hardware / system maintenance, but what for folks like myself? I can't see myself being a developer until I retire (31 years later), but I don't really want to move into management either (perhaps software delivery manager, but not a full-blown person manager).&lt;BR>&lt;BR>"Or maybe this is just a mid-life crisis. Maybe those COBOL programmers were thinking the same thing. Maybe you've thought the same thing, and said 'Sod it, I'll just learn as much as I can and write books.' Maybe my malaise is indicative of the general malaise within IT at the moment (still suffering from the dot com crash, companies more interested in fixing up their offices than investing in IT, etc), companies not knowing their arse from their elbow when it comes to IT spending, etc.&lt;BR>&lt;BR>"We live in a world of ever-increasing technology, yet seem to be doing less development? Obviously there are still very clever people out there writing code for phones, text delivery. HDTV innards, etc., but is software development becoming stagnant? Are we still doing the same things with new tools? Why do we still not have modular development? Why are there many standards for Web Services? Where are the really, really cool applications?"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>"Pete," those are all fine questions. I think there are a ton of interesting things to do for software developers in the world and being a part of a big company development machine is only one of them. I've done most of the rest (I consider Microsoft to my last job in this industry), so I can recommend start-ups, speaking, shared/open source development, consulting and writing as all valuable, interesting and fun experiences (although, as you might imagine, each of them has their downsides, too).&lt;/P>
+&lt;P>Or, even if you wanted to stay as a developer, I can recommend different kinds of software to be refreshing, e.g. I've spent a lot of time on code-based developer tools and now have moved to model-based developer tools (that's not a big shift, mind you, but hey, I'm growing! : ). Maybe you'd like to switch away from front ends to back ends or to databases? Maybe you'd like to switch from imperative to declarative or logic? Maybe you'd like to go all the way on front ends and build games? Or maybe you'd like a platform like a mobile device better? (I personally lust after this one!)&lt;/P>
+&lt;P>Your malaise-related questions are good ones, too. It seems like you've identified a bunch of "problems" in the IT industry. You've got two ways to handle this problem: ranting or doing something about it. You've done the former. Maybe you'd like to put on your "start-up" goggles where "problem" == "opportunity," bring some of your friends along and roll up your sleeves? Are you brave enough to risk the kid's college fund to follow your heart? I've done it a coupla times and there's nothing like it.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1801</id>
+    <title>Q: What is "funding the clubbing of baby seals?"</title>
+    <updated>2005-06-07T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-07T07:00:00.000Z</published>
+    <summary>A: The reason I gave for wanting to cancel an extra credit card. I bet they don't have that reason in their script! : ) </summary>
+    <content type="html">&lt;h1>Q: What is "funding the clubbing of baby seals?"&lt;/h1>
+&lt;P>A: The reason I gave for wanting to cancel an extra credit card.&lt;/P>
+&lt;P>I bet they don't have &lt;EM>that&lt;/EM> reason in their script! : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1799</id>
+    <title>@this freaked me out</title>
+    <updated>2005-06-06T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-06-06T07:00:00.000Z</published>
+    <summary>I saw code that looked like this today: class Class1 { &amp;nbsp; static void Foo( object @this) { &amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(@this); &amp;nbsp; } &amp;nbsp; static void Main( string [] args) { &amp;nbsp; &amp;nbsp; Foo("hi"); &amp;nbsp; } } It freaked me out, but it's completely legal and kinda cool... </summary>
+    <content type="html">&lt;h1>@this freaked me out&lt;/h1>
+&lt;P>I saw code that looked like this today:&lt;/P>&lt;FONT color=#0000ff size=2>
+&lt;P>class&lt;/FONT>&lt;FONT size=2> Class1 {&lt;BR>&lt;STRONG>&amp;nbsp; &lt;/STRONG>&lt;/FONT>&lt;STRONG>&lt;FONT color=#0000ff size=2>static&lt;/FONT>&lt;FONT size=2> &lt;/FONT>&lt;FONT color=#0000ff size=2>void&lt;/FONT>&lt;FONT size=2> Foo(&lt;/FONT>&lt;FONT color=#0000ff size=2>object&lt;/FONT>&lt;/STRONG>&lt;FONT size=2>&lt;STRONG> @this) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; Console.WriteLine(@this);&lt;BR>&amp;nbsp; }&lt;BR>&lt;/STRONG>&lt;BR>&lt;/FONT>&lt;FONT color=#0000ff size=2>&amp;nbsp; static&lt;/FONT>&lt;FONT size=2> &lt;/FONT>&lt;FONT color=#0000ff size=2>void&lt;/FONT>&lt;FONT size=2> Main(&lt;/FONT>&lt;FONT color=#0000ff size=2>string&lt;/FONT>&lt;FONT size=2>[] args) {&lt;BR>&amp;nbsp; &amp;nbsp; Foo("hi");&lt;BR>&amp;nbsp; }&lt;BR>}&lt;/P>&lt;/FONT>
+&lt;P>It freaked me out, but it's completely legal and kinda cool...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1798</id>
+    <title>More Skype Love</title>
+    <updated>2005-06-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-04T07:00:00.000Z</published>
+    <summary>I was chatting with Mike in Australia today and we pulled up Skype as we usually do, 'cuz it just works, e.g. no connection problems, no echo/feedback problems, etc. However, we couldn't get video4skype to work, so we tried switching over to MSN Messenger 7. The video worked just fine from MM7, but the audio was terrible, exhibiting volume, echo and feedback problems. So, we used a hybrid, i.e. MM7 for video and Skype for audio, which worked just fine. This hybrid model is prevalent in my communications rec...</summary>
+    <content type="html">&lt;h1>More Skype Love&lt;/h1>
+&lt;P>I was chatting with Mike in Australia today and we pulled up Skype as we usually do, 'cuz it just works, e.g. no connection problems, no echo/feedback problems, etc. However, we couldn't get video4skype to work, so we tried switching over to MSN Messenger 7. The video worked just fine from MM7, but the audio was terrible, exhibiting volume, echo and feedback problems. So, we used a hybrid, i.e. MM7 for video and Skype for audio, which worked just fine.&lt;/P>
+&lt;P>This hybrid model is prevalent in my communications recently:&lt;/P>
+&lt;UL>
+&lt;LI>queued messaging: email for text and files, vmail for nuance&lt;/LI>
+&lt;LI>text chat: MSN Messenger 7 or Communicator, depending on whether the person is an employee or not&lt;/LI>
+&lt;LI>video chat: MM7 or Communicator&lt;/LI>
+&lt;LI>audio chat: phone, Skype, MM7 or Communicator&lt;/LI>
+&lt;LI>person-to-person app sharing: MM7, Communicator&lt;/LI>
+&lt;LI>group app sharing: LiveMeeting&lt;/LI>&lt;/UL>
+&lt;P>Would it be too much to ask that one app do all of this well? Do I really need 6 different apps?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1797</id>
+    <title>Realistic Conference Expectations</title>
+    <updated>2005-06-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-06-04T07:00:00.000Z</published>
+    <summary>I was chatting today with a friend that complained that he didn't get any deep technical knowledge from a conference talk. I said that he had unreasonable expectations; the most he could expect from a good conference was the following: Networking opportunities (hard for geeks; often works via friend-of-a-friend in bars and restaurants, but only if you have at least one friend and s/he has at least two) "Info triggers," i.e. if you attend a 90 minute talk on MSMQ and you're having or are about to have a prob...</summary>
+    <content type="html">&lt;h1>Realistic Conference Expectations&lt;/h1>
+&lt;P>I was chatting today with a friend that complained that he didn't get any deep technical knowledge from a conference talk. I said that he had unreasonable expectations; the most he could expect from a good conference was the following:&lt;/P>
+&lt;UL>
+&lt;LI>Networking opportunities (hard for geeks; often works via friend-of-a-friend in bars and restaurants, but only if you have at least one friend and s/he has at least two)&lt;/LI>
+&lt;LI>"Info triggers," i.e. if you attend a 90 minute talk on MSMQ and you're having or are about to have a problem that MSMQ solves well, the talk should a) let you know that MSMQ provides a good solution and b) where to go for more info&lt;/LI>
+&lt;LI>Entertainment (and that's only the &lt;EM>good&lt;/EM> conferences)&lt;/LI>&lt;/UL>
+&lt;P>In general, every talk should be structured like so:&lt;/P>
+&lt;UL>
+&lt;LI>Name the thing&lt;/LI>
+&lt;LI>What's the thing good for&lt;/LI>
+&lt;LI>A demo of the major use(s) of the thing&lt;/LI>
+&lt;LI>Here's where to go for more info&lt;/LI>
+&lt;LI>Any questions?&lt;/LI>
+&lt;LI>Please remember to tip your waitress&lt;/LI>&lt;/UL>
+&lt;P>That's why I really love the idea of &lt;A href="http://www.groktalk.net/">groktalks&lt;/A>. If you attend 3 groktalks instead of 1 regular talk, the chances of you finding an info trigger are 3x, while still keeping your networking and entertainment chances even.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1796</id>
+    <title>IanG Interview on ServerSide.NET</title>
+    <updated>2005-06-03T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-06-03T07:00:00.000Z</published>
+    <summary>See IanG, my Avalon book co-author in crime, talk with Ted Neward about WinForms, Avalon and.NET. Nicely done. </summary>
+    <content type="html">&lt;h1>IanG Interview on ServerSide.NET&lt;/h1>
+&lt;P>&lt;A href="http://www.theserverside.net/talks/videos/IanGriffiths/interview.tss?bandwidth=dsl">See IanG&lt;/A>, my Avalon book co-author in crime, talk with Ted Neward about WinForms, Avalon and .NET. Nicely done.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1794</id>
+    <title>Blogging is not marketing copy!</title>
+    <updated>2005-05-31T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-31T07:00:00.000Z</published>
+    <summary>As soon as corps hire bloggers as part of their marketing budget, they've missed the point completely. Marketing and PR folks are chiefly concerned with only saying the good things about their own products and (the good ones anyway) nothing at all about the competitor's products. Blogs are about the whole truth, which is why are the best corp bloggers are constantly in fear of losing their jobs. Does anyone see a disconnect here?!? </summary>
+    <content type="html">&lt;h1>Blogging is not marketing copy!&lt;/h1>
+&lt;P>As soon as corps &lt;A href="http://integrate.factiva.com/search/article.asp?">hire bloggers as part of their marketing budget&lt;/A>, they've missed the point completely. Marketing and PR folks are chiefly concerned with only saying the good things about their own products and (the good ones anyway) nothing at all about the competitor's products.&lt;/P>
+&lt;P>Blogs are about the whole truth, which is why are the best corp bloggers are constantly in fear of losing their jobs.&lt;/P>
+&lt;P>&lt;A href="http://integrate.factiva.com/search/article.asp?">Does anyone see a disconnect here?!?&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1795</id>
+    <title>Every PC Should Have A Camera, Mic + Stylus</title>
+    <updated>2005-05-31T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-31T07:00:00.000Z</published>
+    <summary>I've been doing a lot of remote collaborative communications over the last decade. Email, IM and phone calls literally enable me to be an effective remote employee (along with my wit and charm : ). However, to take it to the next level as MS Communicator, MSN Messenger and Skype get real a/v conferencing and app-sharing features (that actually works through VPN and firewalls), every computer needs some extra equipment. Most modern laptops come with built-in mics, but very few come with built-in cameras. Why...</summary>
+    <content type="html">&lt;h1>Every PC Should Have A Camera, Mic + Stylus&lt;/h1>
+&lt;P>I've been doing a lot of remote collaborative communications over the last decade. Email, IM and phone calls literally enable me to be an effective remote employee (along with my wit and charm : ). However, to take it to the next level as MS Communicator, MSN Messenger and Skype get real a/v conferencing and app-sharing features (that actually works through VPN and firewalls), every computer needs some extra equipment.&lt;/P>
+&lt;P>Most modern laptops come with built-in mics, but very few come with built-in cameras. Why should I have to use a strap-on webcam when the camera lens could be built right into the LCD screen? Plus, the mics and software really needs decent noise cancellation (MSN7 and Skype do this well, but not all apps do).&lt;/P>
+&lt;P>Still, I've got my phone, so I can live w/o audio and once I've already met someone, video is just a novelty, especially when compared with the power of app-sharing (it's like you're sitting right next to someone!).&lt;/P>
+&lt;P>The thing that I really need that I'm missing is for my computer, and everyone's computer that I'm conferencing with, to have a stylus attached to their screen. The "let's just sketch something on the white board" is really the last remote collaboration frontier 'til we get some kind of fancy "virtual presence" stuff going.&lt;/P>
+&lt;P>I don't mean that every computer needs to be a Tablet PC. Frankly, I'm not very productive on a computer that doesn't have a keyboard. But, I want to be able to sketch something right on my computer screen like a tablet can and instantly share it as I do so. Plus, and here's the rub, &lt;EM>I want everyone else to have a stylus, too&lt;/EM>. If they don't, they'll turn to the white board and I'm out of luck across the great divide.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1793</id>
+    <title>URLs in the Footnotes?</title>
+    <updated>2005-05-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-05-30T07:00:00.000Z</published>
+    <summary>Here's a question for folks. Right now, the 1st edition of the WinForms book has several footnotes like the following that include URLs: "The ntcopyres.exe tool can be obtained from http://www.codeguru.com/cpp_mfc/rsrc-simple.html." Unfortunately, unlike the browser you're using now, while we can underline an URL in a book, we can't do anything useful with you "click" it, which forces you to type it. Since the URL above is by no means the longest in the book (MS likes to put GUIDs in theirs), I'd prefer not...</summary>
+    <content type="html">&lt;h1>URLs in the Footnotes?&lt;/h1>
+&lt;P>Here's a question for folks. Right now, the 1st edition of the WinForms book has several footnotes like the following that include URLs:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The ntcopyres.exe tool can be obtained from &lt;/EM>&lt;A href="http://www.codeguru.com/cpp_mfc/rsrc-simple.html">&lt;EM>http://www.codeguru.com/cpp_mfc/rsrc-simple.html&lt;/EM>&lt;/A>&lt;EM>."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Unfortunately, unlike the browser you're using now, while we can underline an URL in a book, we can't do anything useful with you "click" it, which forces you to type it. Since the URL above is by no means the longest in the book (MS likes to put GUIDs in theirs), I'd prefer not to put that burden on the reader if I don't have to. With the invention of shrinkster, I don't have to:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The ntcopyres.exe tool can be obtained from &lt;/EM>&lt;EM>http://s&lt;/EM>&lt;EM>hrinkster.com/452&lt;/EM>&lt;EM>."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>The problem with this, of course, is that I don't really know if shrinkster is going to be around forever or if I want to tie my book to a single external resource that I can't control. The idea I had this morning was to use both, which increases the size of the URL in print but gives the reader a shortcut and doesn't hold me hostage to shrinkster*:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The ntcopyres.exe tool can be obtained from &lt;/EM>&lt;A href="http://www.codeguru.com/cpp_mfc/rsrc-simple.html">&lt;EM>http://www.codeguru.com/cpp_mfc/rsrc-simple.html&lt;/EM>&lt;/A>&amp;nbsp;(shrinker.com/452)&lt;EM>."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>What do people think?&lt;/P>
+&lt;P>*Don't get me wrong. I'm a big shrinkster fan, else I wouldn't be dropping their links into my books at all.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1792</id>
+    <title>IanG Builds a Real Magnifying Glass in Avalon</title>
+    <updated>2005-05-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-05-29T07:00:00.000Z</published>
+    <summary>You've seen it in the concept videos, now see it for real: Ian has implemented a working magnifying glass in Avalon.</summary>
+    <content type="html">&lt;h1>IanG Builds a Real Magnifying Glass in Avalon&lt;/h1>
+You've seen it in the concept videos, now see it for real: &lt;A href="http://www.interact-sw.co.uk/iangblog/2005/05/29/magnify">Ian has implemented a working magnifying glass in Avalon&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1791</id>
+    <title>Darth Vader vs. Yoda?</title>
+    <updated>2005-05-28T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-28T07:00:00.000Z</published>
+    <summary>I just realized: Lucas took us through the entire 6 film series and we never got to see Yoda fight with Darth Vader! What's with that?!? P.S. I like that "Vader" is in my spelling dictionary. Lucas changed the world. </summary>
+    <content type="html">&lt;h1>Darth Vader vs. Yoda?&lt;/h1>
+&lt;P>I just realized: Lucas took us through the entire 6 film series and we never got to see Yoda fight with Darth Vader! What's with that?!?&lt;/P>
+&lt;P>P.S. I like that "Vader" is in my spelling dictionary. Lucas changed the world.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12472</id>
+    <title>The Logic of Logic</title>
+    <updated>2005-05-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-27T07:00:00.000Z</published>
+    <summary>My son came to me the other day and said, &amp;quot;Dad, I need help with a math problem.&amp;quot; The problem went like this: We're going out to dinner taking 1-6 grandparents, 1-10 parents and/or 1-40 children Grandparents cost $3 for dinner, parents $2 and children $0.50 There must be 20 total people at dinner and it must cost $20 How many grandparents, parents and children are going to dinner? The reason this problem is interesting is because there are 3 variables, but only 2 equations: grandparents * 3 + pare...</summary>
+    <content type="html">&lt;h1>The Logic of Logic&lt;/h1>
+&lt;p align="left">My son came to me the other day and said, &amp;quot;Dad, I need help with a math problem.&amp;quot; The problem went like this:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">We're going out to dinner taking 1-6 grandparents, 1-10 parents and/or 1-40 children&lt;/li>&lt;li>&lt;p align="left">Grandparents cost $3 for dinner, parents $2 and children $0.50&lt;/li>&lt;li>&lt;p align="left">There must be 20 total people at dinner and it must cost $20&lt;/li>&lt;li>&lt;p align="left">How many grandparents, parents and children are going to dinner?&lt;/li>&lt;/ul>&lt;p align="left">The reason this problem is interesting is because there are 3 variables, but only 2 equations:&lt;/p>&lt;ol>&lt;li>&lt;p align="left">grandparents * 3 + parents * 2 + children * .5 = 20&lt;/li>&lt;li>&lt;p align="left">grandparents + parents + children = 20&lt;/li>&lt;/ol>&lt;p align="left">Being a coder, I sat down to write the program to enumerate all possible solutions:&lt;/p>&lt;p class="MsoNormal" style="text-autospace: none">&lt;span style="font-size: 10.0pt; font-family: Courier New; color: blue">class&lt;/span>&lt;span style="font-size: 10.0pt; font-family: Courier New"> &lt;span style="color:teal">Program&lt;/span> {&lt;br>&amp;nbsp; &lt;span style="color:blue">static&lt;/span> &lt;span style="color:blue">void&lt;/span> Main(&lt;span style="color:blue">string&lt;/span>[] args) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">for&lt;/span>( &lt;span style="color:blue">int&lt;/span> grandparents = 1; grandparents &amp;lt; 7; ++grandparents ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">for&lt;/span>( &lt;span style="color:blue">int&lt;/span> parents = 1; parents &amp;lt; 11; ++parents ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">for&lt;/span>( &lt;span style="color:blue">int&lt;/span> children = 2; children &amp;lt; 41; children += 2 ) {&lt;br>&lt;b>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">double&lt;/span> dollars = grandparents * 3 + parents * 2 + children * .50;&lt;span style="color:gray">&lt;br>&lt;/span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">int&lt;/span> people = grandparents + parents + children;&lt;span style="color:gray">&lt;br>&lt;/span>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:blue">if&lt;/span>( dollars == 20 &amp;amp;&amp;amp; people == 20 ) {&lt;br>&lt;/b>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style="color:teal">Console&lt;/span>.WriteLine(&lt;span style="color:maroon">&amp;quot;grand parents= {0}, parents= {1}, kids= {2}&amp;quot;&lt;/span>,&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; grandparents, parents, children);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;p class="MsoNormal">Running this program saves my son the time to figure out the solution through tedious trial-and-error (plus, he didn't even have to write the program, since I did that part -- tricky little bastard, isn't he?!?) by producing the following output:&lt;/p>
+&lt;pre>grand parents= 1, parents= 5, kids= 14&lt;/pre>&lt;p class="MsoNormal">That was all well and good 'til Alex, a friend of mine, boiled the problem down to a single-statement Prolog program for me (although this program doesn't capture the range of values the variables can take on):&lt;/p>
+&lt;pre>people_at_the_meal(Grandparents, Parents, Children) :-
+  Grandparents * 3 + Parents * 2 + Children * 0.5 = 20,
+  Grandparents + Parents + Children = 20.&amp;nbsp;&lt;/pre>&lt;p align="left">Then I went on to regale Alex about the time my grandmother asked me to schedule her tennis tournament for her on my computer. She had requirements like, &amp;quot;everyone has to place everyone else at least once&amp;quot; and &amp;quot;you have to lose twice to be out of the tournament&amp;quot; and &amp;quot;nobody can play twice in a row&amp;quot; (it's not good politics for a computer program to kill old ladies...). My grandmother's problem statement doesn't fit the traditional algorithmic statements that I'm used to using computers for, nor was I ever able to re-form the problem in those terms (it's not like my grandma was ever going to leave me a bunch of money anyway...). Alex completely understood and informed me that the NBA has the same problem (with slightly sprier players) and they use logic programs to solve it. In fact, in his experience, these problems happen all the time in the business world.&lt;/p>&lt;p align="left">Constraint Logic Programs (CLPs) break down into constants, variables over ranges and relations of truth, which together make up the constraints in a logic system. In my son's case, the constants are the numbers, e.g. 3, 20, etc, the variables are the number of people of each type and the relations form the constraints, e.g. the sum of all people must be 20. The CLP &amp;quot;solver&amp;quot; (in Alex's parlance) provides the logic over a particular &amp;quot;domain&amp;quot; (real numbers in our case) and knows how to do all the iteration and forward and backward chaining to solve the people_at_the_meal problem. A different solver would be able to solve my grandmother's and the NBA's scheduling problem.&lt;/p>&lt;p align="left">It was only after most of this discussion that I realized that I recognized the syntax that Alex had produced: it was Prolog, a CLP language I had blocked. I had taken a Prolog course in it in college and absolutely hated it, but not because of the things that allowed me to solve these kinds of problems: that was great. The things I hated were all of the algorithmic things that I needed to be able to do that Prolog was terrible at, e.g. take input, product output, suck in facts from data external to the system (like the NBA player roster), etc. CLPs themselves are damn cool.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1789</id>
+    <title>Studs from Microsoft</title>
+    <updated>2005-05-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-27T07:00:00.000Z</published>
+    <summary>I have no idea where&amp;nbsp; the "Studs from Microsoft" video &amp;nbsp;came from or how old it is and I had to download it first before playing it, but it was totally worth it to see Bill Nye as a 'softie and to watch those women run for their lives instead of facing the possibility of dating any of us. : ) [via jj5 (would doesn't like people to know he exists, let alone link to him...)] </summary>
+    <content type="html">&lt;h1>Studs from Microsoft&lt;/h1>
+&lt;P>I have no idea where&amp;nbsp;&lt;A href="http://mentor.creighton.edu/coolstuff/Images/Movies/Sample%20Movies/MISC/STUDS.AVI">the "Studs from Microsoft" video&lt;/A>&amp;nbsp;came from or how old it is and I had to download it first before playing it, but it was totally worth it to see Bill Nye as a 'softie and to watch those women run for their lives instead of facing the possibility of dating any of us. : )&lt;/P>
+&lt;P>[via jj5 (would doesn't like people to know he exists, let alone link to him...)]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1790</id>
+    <title>The Logic of Logic</title>
+    <updated>2005-05-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-27T07:00:00.000Z</published>
+    <summary>Here. The one where I re-discover the good parts of constraint logic programming.</summary>
+    <content type="html">&lt;h1>The Logic of Logic&lt;/h1>
+&lt;a href="/12472">Here&lt;/a>. The one where &lt;a href="/12472">I re-discover the good parts of constraint logic programming&lt;/A>.</content>
+  </entry>
+</feed>

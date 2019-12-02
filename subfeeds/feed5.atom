@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed5.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed4.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed6.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed5.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12686</id>
+    <title>LINQ Has Changed Me</title>
+    <updated>2010-10-27T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2010-10-27T07:00:00.000Z</published>
+    <summary>In the old days, the post-colonial, pre-LINQ days of yore, I’d have written a one-way MD5 encryption like so: static string GetMD5String( string s) { MD5 md5 = new MD5CryptoServiceProvider(); byte [] hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s)); StringBuilder sb = new StringBuilder(); foreach ( byte b in hash ) sb.AppendFormat( &amp;quot;{0:x2}&amp;quot;, b); return sb.ToString();
+}.csharpcode,.csharpcode pre
+{ font-size: small; color: black; font-family: consolas, "Courier New", courier, monospace; backgroun...</summary>
+    <content type="html">&lt;h1>LINQ Has Changed Me&lt;/h1>
+&lt;p>In the old days, the post-colonial, pre-LINQ days of yore, I’d have written a one-way MD5 encryption like so:&lt;/p>  &lt;pre class="csharpcode">&lt;span class="kwrd">static&lt;/span> &lt;span class="kwrd">string&lt;/span> GetMD5String(&lt;span class="kwrd">string&lt;/span> s) {
+  MD5 md5 = &lt;span class="kwrd">new&lt;/span> MD5CryptoServiceProvider();
+  &lt;span class="kwrd">byte&lt;/span>[] hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+  StringBuilder sb = &lt;span class="kwrd">new&lt;/span> StringBuilder();
+  &lt;span class="kwrd">foreach&lt;/span>( &lt;span class="kwrd">byte&lt;/span> b &lt;span class="kwrd">in&lt;/span> hash ) sb.AppendFormat(&lt;span class="str">&amp;quot;{0:x2}&amp;quot;&lt;/span>, b);
+  &lt;span class="kwrd">return&lt;/span> sb.ToString();
+}&lt;/pre>
+&lt;style type="text/css">
+
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>
+
+&lt;p>This implementation is fine and has served me well for 10 years (I pulled it out of &lt;a href="/12426">the first .NET project I ever really did&lt;/a>). However, after using LINQ for so long, it’s hard not to see every problem as an operation over sets:&lt;/p>
+
+&lt;pre class="csharpcode">&lt;span class="kwrd">static&lt;/span> &lt;span class="kwrd">string&lt;/span> GetMD5String(&lt;span class="kwrd">string&lt;/span> s) { 
+  &lt;span class="kwrd">return&lt;/span> (&lt;span class="kwrd">new&lt;/span> MD5CryptoServiceProvider()). 
+    ComputeHash(Encoding.Unicode.GetBytes(s)). 
+    Aggregate(&lt;span class="kwrd">new&lt;/span> StringBuilder(), (working, b) =&amp;gt; working.AppendFormat(&lt;span class="str">&amp;quot;{0:x2}&amp;quot;&lt;/span>, b)). 
+    ToString(); 
+} &lt;/pre>
+
+&lt;p>&lt;style type="text/css">
+
+
+
+.csharpcode, .csharpcode pre
+{
+	font-size: small;
+	color: black;
+	font-family: consolas, "Courier New", courier, monospace;
+	background-color: #ffffff;
+	/*white-space: pre;*/
+}
+.csharpcode pre { margin: 0em; }
+.csharpcode .rem { color: #008000; }
+.csharpcode .kwrd { color: #0000ff; }
+.csharpcode .str { color: #006080; }
+.csharpcode .op { color: #0000c0; }
+.csharpcode .preproc { color: #cc6633; }
+.csharpcode .asp { background-color: #ffff00; }
+.csharpcode .html { color: #800000; }
+.csharpcode .attr { color: #ff0000; }
+.csharpcode .alt 
+{
+	background-color: #f4f4f4;
+	width: 100%;
+	margin: 0em;
+}
+.csharpcode .lnum { color: #606060; }&lt;/style>I can’t say that the LINQ version is any better, but it felt better. However, you’ll notice that I’m not using any of the LINQ keywords, e.g. “select”, “where”, etc. I find that I don’t really use them that much. It’s too jarring to mix them, e.g. “(from f in foos select f).Take(3)”, since not everything has a LINQ keyword equivalent. I tend to do “LINQ-less LINQ” more often then not.&lt;/p>
+
+&lt;p>P.S. I assume someone will be able to tell me how I can do it better. : )&lt;/p>
+
+&lt;p>P.P.S. I’m using &lt;a href="http://gallery.live.com/liveItemDetail.aspx?li=1f57bd9b-a692-4593-9e9e-e2962d9c0eee&amp;amp;bt=9&amp;amp;pl=8">the Insert Code for Windows Live Writer add-in&lt;/a>. I love WLW!&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12683</id>
+    <title>A Function That Forces</title>
+    <updated>2010-10-27T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="http://dickard.files.wordpress.com/2008/04/schoolforthegifted.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2010-10-27T07:00:00.000Z</published>
+    <summary>At Microsoft, there’s this passive-aggressive cultural thing called a “forcing function,” which, to put it crudely, is an engineering way for us to control the behavior of others. The idea is that you set up something to happen, like a meeting or an event, that will “force” a person or group to do something that you want them to do. For example, if someone won’t answer your email, you can set up a meeting on their calendar. Since Microsoft is a meeting-oriented culture (even though we all hate them), a ‘sof...</summary>
+    <content type="html">&lt;h1>A Function That Forces&lt;/h1>
+&lt;p>&lt;img style="margin: 2px; display: inline; float: right" title="Far Side - Midvale School for the Gifted" alt="Far Side - Midvale School for the Gifted" align="right" src="http://dickard.files.wordpress.com/2008/04/schoolforthegifted.jpg" />At Microsoft, there’s this passive-aggressive cultural thing called a “forcing function,” which, to put it crudely, is an engineering way for us to control the behavior of others. The idea is that you set up something to happen, like a meeting or an event, that will “force” a person or group to do something that you want them to do.&lt;/p>  &lt;p>For example, if someone won’t answer your email, you can set up a meeting on their calendar. Since Microsoft is a meeting-oriented culture (even though we all hate them), a ‘softie will be very reticent to decline your meeting request. So, they have a choice – they can attend your meeting so that they can answer your question in person or they can answer your email and get that time back in their lives. This kind of forcing function can take larger forms as well. I can’t say that our execs make the decision like this (since they don’t talk to me : ), but it is the case that signing up a large number of Microsoft employees to host and speak at important industry events does have the effect of making us get together to ensure that our technologies and our descriptions of those technologies holds together (well, holds together better than they would otherwise : ).&lt;/p>  &lt;p>Unfortunately, this way of thinking has become so much a part of me that I’ve started to use it on my family (which they very much do not like). Worse, I use it on myself.&lt;/p>  &lt;p>For example, I have been holding back on half a dozen or more blog posts until I have the software set up on &lt;a href="/12670">my newly minted web site&lt;/a> to handle blog posts in a modern way, namely via &lt;a href="http://explore.live.com/windows-live-writer">Windows Live Writer&lt;/a>. In other words, I was using the pressure inherent in the build up of blogging topics to motivate me to build the support I wanted into sellsbrothers.com to have a secure blogging endpoint for WLW. Before I moved all my content into a database, I could just pull up FrontPage/Expression Web and type into static HTML. Now that everything is data-driven, however, the content for my posts are just rows in a database. As much as I love SQL Server Management Studio, it doesn’t yet have HTML editing support that I consider adequate. Further, getting images into my database was very definitely a programming task not handled by existing tools that I was familiar with.&lt;/p>  &lt;p>So, this is the first post using my new WLW support and I’m damn proud of it. It was work that I did with Kent Sharkey, a close friend of mine that most resembles &lt;a href="http://en.wikipedia.org/wiki/Eeyore">Eeyore&lt;/a> in temperament and facial expressions, and that just made it all the more fun!&lt;/p>  &lt;p>Anyway, I’m happy with the results of my forcing function and I’ll post the code and all the details ASAP, but I just wanted to apologize for my relative silence on this blog and that things should get better RSN. XXOO.&lt;/p>  &lt;p>P.S. I’m loving Windows Live Writer 11!&lt;/p>  </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12678</id>
+    <title>Data at PDC 2010</title>
+    <updated>2010-10-25T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2010-10-25T07:00:00.000Z</published>
+    <summary>There are lots of great data talks at PDC 2010, all of which are available for online viewing : Code First Development with Entity Framework Jeff Derstadt, Tim Laverty Thursday, 2:00 PM-3:00 PM (GMT-7) Creating Custom OData Services: Inside Some of The Top OData Services Pablo Castro Thursday, 3:15 PM-4:15 PM (GMT-7) Enabling New Scenarios and Applications with Data in the Cloud Dave Campbell Thursday, 4:30 PM-5:30 PM (GMT-7) Building Scale-Out Database Solutions on SQL Azure Lev Novik Friday, 2:00 PM-3:00 ...</summary>
+    <content type="html">&lt;h1>Data at PDC 2010&lt;/h1>
+&lt;p>There are lots of great data talks at PDC 2010, all of which are &lt;a 
+
+href="http://player.microsoftpdc.com/">available for online viewing&lt;/a>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;b>Code First Development with Entity Framework&lt;/b>&lt;br />
+Jeff Derstadt, Tim Laverty&lt;br />
+Thursday, 2:00 PM-3:00 PM (GMT-7)&lt;br /> 
+&lt;/li>
+&lt;li>&lt;b>Creating Custom OData Services: Inside Some of The Top OData Services&lt;/b>&lt;br />
+Pablo Castro&lt;br />
+Thursday, 3:15 PM-4:15 PM (GMT-7)&lt;br />
+&lt;/li>
+&lt;li>&lt;b>Enabling New Scenarios and Applications with Data in the Cloud&lt;/b>&lt;br />
+Dave Campbell&lt;br />
+Thursday, 4:30 PM-5:30 PM (GMT-7)&lt;br />
+&lt;/li>
+&lt;li>&lt;b>Building Scale-Out Database Solutions on SQL Azure&lt;/b>&lt;br />
+Lev Novik&lt;br />
+Friday, 2:00 PM-3:00 PM (GMT-7)&lt;br /> 
+&lt;/li>
+&lt;li>&lt;b>Building Offline Applications using the Sync Framework and SQL Azure&lt;/b>&lt;br /> 
+Nina Hu&lt;br />
+On Demand&lt;br />
+&lt;/li>
+&lt;/ul>
+&lt;p>Enjoy!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12677</id>
+    <title>Time to check the donuts</title>
+    <updated>2010-09-27T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="http://www.gmailnotifier.com/images/gmail_notifier3.gif"/>
+    <category term="tools" label="Tools"/>
+    <published>2010-09-27T07:00:00.000Z</published>
+    <summary>One day when I was supposed to be writing, I needed something to do (as often happens). In this particular case, I built a little tray icon app using the new (at the time) tray icon support in Windows Forms (this was a while ago : ). The data I was checking was my gmail account and whenever there was new mail, I'd pop up a notification. All very simple, so to be funny, instead of saying &amp;quot;You've got mail,&amp;quot;� my program said &amp;quot;I's time to check the donuts.&amp;quot; Over time, I came to rely on this ...</summary>
+    <content type="html">&lt;h1>Time to check the donuts&lt;/h1>
+&lt;img src="http://www.gmailnotifier.com/images/gmail_notifier3.gif" align=right />
+&lt;p>One day when I was supposed to be writing, I needed something to do (as often happens). In this particular case, I built a little tray icon app using the new (at the time) tray icon support in Windows Forms (this was a while ago : ). The data I was checking was my gmail account and whenever there was new mail, I'd pop up a notification. All very simple, so to be funny, instead of saying 
+&amp;quot;You've got mail,&amp;quot;� my program said &amp;quot;I's time to check the donuts.&amp;quot;&lt;/p>
+&lt;p>Over time, I came to rely on this app but lamented the lack of features, like 
+seeing who the email was from or marking an email as read w/o logging in, etc. Over time, I came to wish I had something like
+&lt;a href="http://download.cnet.com/Gmail-Notifier/3000-2369_4-10914118.html">Gmail Notifier&lt;/a>. I's free and while it doesn't contain an 
+'80s commercial reference, it has way more features than I ever built into mine. 
+Oh, and the noise it makes when you get an email is priceless. Recommended.&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12676</id>
+    <title>The Downside Of Working At Home</title>
+    <updated>2010-08-26T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="http://s3.amazonaws.com/theoatmeal-img/comics/working_home/6.png"/>
+    <category term="fun" label="Fun"/>
+    <published>2010-08-26T07:00:00.000Z</published>
+    <summary>I've been working at home off and (mostly) on for 16 years... From theoatmeal.com. Recommended! </summary>
+    <content type="html">&lt;h1>The Downside Of Working At Home&lt;/h1>
+&lt;a href="http://s3.amazonaws.com/theoatmeal-img/comics/working_home/6.png">&lt;img src="http://s3.amazonaws.com/theoatmeal-img/comics/working_home/6.png" />&lt;/a>
+&lt;p>I've been working at home off and (mostly) on for 16 years...&lt;/p>
+&lt;p>From &lt;a href="http://theoatmeal.com/">theoatmeal.com&lt;/a>. Recommended!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12675</id>
+    <title>Why can't it all just be messages?</title>
+    <updated>2010-08-08T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="/public/spout/messages_0071.PNG"/>
+    <category term="spout" label="The Spout"/>
+    <published>2010-08-08T07:00:00.000Z</published>
+    <summary>My mobile device is driving me crazy. I have an iPhone 4.0. Normally when it's driving me crazy, it's standard stuff like the battery life sucks or that the iOS 4.0.1 update didn't fix the proximity detection or stop emails I send via Exchange from just disappearing into the ether. This time, it's something else and I can't blame the iPhone; I think all modern smart phones have the same problem. The problem is that I constantly have to switch between apps to see my messages. Here are screenshots for 5 of th...</summary>
+    <content type="html">&lt;h1>Why can't it all just be messages?&lt;/h1>
+&lt;p>My mobile device is driving me crazy.&lt;/p>
+&lt;p>I have an iPhone 4.0. Normally when it's driving me crazy, it's standard 
+stuff like the battery life sucks or that the iOS 4.0.1 update didn't fix the 
+proximity detection or stop emails I send via Exchange from just disappearing 
+into the ether.&lt;/p>
+&lt;p>This time, it's something else and I can't blame the iPhone; I think all 
+modern smart phones have the same problem. The problem is that I constantly have 
+to switch between apps to see my messages. Here are screenshots for 5 of the 
+messaging clients I use reguarly:&lt;/p>
+&lt;p>
+&lt;img alt="Voicemail" style="margin: 5px;" height="480" src="/public/spout/messages_0071.PNG" width="320">
+&lt;img alt="Exchange Email" style="margin: 5px;" height="480" src="/public/spout/messages_0072.PNG" width="320">
+&lt;img alt="SMS/MMS" style="margin: 5px;" height="480" src="/public/spout/messages_0073.PNG" width="320">
+&lt;img alt="Facebook" style="margin: 5px;" height="480" src="/public/spout/messages_0074.PNG" width="320">
+&lt;img alt="Twitter" style="margin: 5px;" height="480" src="/public/spout/messages_0075.PNG" width="320">&lt;/p>
+&lt;p>This list doesn't include real-time messages like IM, or notifications like 
+Twitter or RSS. I'm just talking about plain ol' async messaging. We used to 
+think of it as &amp;quot;email,&amp;quot; but really voicemail, email, SMS, MMS, Facebook messages 
+and Twitter Direct Messages are all the same -- they are meant to queue up until 
+you get to them.&lt;/p>
+&lt;p>Now, some folks would argue that SMS/MMS aren't meant to be queued; they're 
+meant to be seen and handled immediately. Personally, I find it annoying that 
+there is a pop-up for every single text or media messages I get on my phone and 
+there seems to be no way to turn that off. On the other hand, if I want that to 
+happen for other types of messages, e.g. voicemail, I can find no way to turn it 
+on even if I want to. Why are text messages special, especially since most 
+mobile clients let you get over the 160 character limit and will just send them 
+one after the other for you anyway?&lt;/p>
+&lt;p>iOS 4 takes a step in the right direction with the &amp;quot;universal&amp;quot; inbox:&lt;/p>
+&lt;p>
+&lt;img alt="iOS4 &amp;quot;universal&amp;quot; inbox" height="480" src="/public/spout/messages_0070.PNG" width="320">&lt;/p>
+&lt;p>Here I've got a great UI for getting to all my email messages at once, but 
+why can't it handle all my messages instead?&lt;/p>
+&lt;p>
+&lt;img alt="super-universal inbox" height="480" src="/public/spout/messages_0069.PNG" width="320">&lt;/p>
+&lt;p>Not only would this put all my messages in one place at one time, but it 
+would unify up the UI and preferences across the various messaging sources. Do 
+you want your text messages to quietly queue up like email? Done. Do you want 
+your voicemail to pop to the front like an SMS? Done. Do you want the same 
+swipe-to-delete gestures on your voicemail as you have with your email? Done!&lt;/p>
+&lt;p>Maybe someone with some experience on the new Windows Phone 7 can tell me 
+that there is a &amp;quot;messaging&amp;quot; hub that manages all this for me. Since they're 
+already doing things like bringing facebook pictures into the &amp;quot;pictures&amp;quot; hub (or 
+whatever they call it), that doesn't seem completely out of the realm of 
+possibility. If that's the case, I'll say again what I've been saying for a 
+while -- I can't wait for my Windows Phone 7!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12674</id>
+    <title>David Ramel Asks About Interviewing at Microsoft</title>
+    <updated>2010-06-18T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2010-06-18T07:00:00.000Z</published>
+    <summary>David Ramel from 1105media.com is writing an article that includes the Microsoft interviewing process and he send me some questions: [David] How would you succinctly sum up the Microsoft interview process as compared to those of other tech companies? [Chris] MS does some things similarly to other high-tech companies I've worked with, e.g. having each interviewer focus on an aspect or aspects, e.g. team skills, people skills, technical skills, etc., expecting a candidate to ask questions, communicating betwe...</summary>
+    <content type="html">&lt;h1>David Ramel Asks About Interviewing at Microsoft&lt;/h1>
+&lt;p>David Ramel from &lt;a href="http://1105media.com">1105media.com&lt;/a> is writing an article that includes the Microsoft interviewing process and he send me some questions:&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>How would you succinctly sum up the Microsoft interview process as compared to those of other tech companies?
+&lt;/em>
+&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>MS does some things similarly to other high-tech companies I've worked with, e.g. having each interviewer focus on an aspect or aspects, e.g. team skills, people skills, technical skills, etc., expecting a candidate to ask questions, communicating between interviewers to push more on one area or another, etc. The riddle questions are a uniqueness at Microsoft (at least they were when I last interviewed), but theyire pretty rare these days. Coding on the whiteboard also seems pretty unique to Microsoft (myself, I prefer the keyboard : ).
+&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>How has the Microsoft interview process changed over time? (Microsoft seems to have shaken up the tech interview process some years ago with those brain-teasing puzzle� questions, but now seem to be much more technically-oriented and job-specific. Just wondering about your thoughts on this observation.)
+&lt;/em>
+&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>While I have had them, puzzle questions were rare even when I was interviewed 7 years ago. Since then, I haven't run into many people that use them. However, when they are used, an interviewer is often looking for how a candidate works through an issue as much as the solution that they come up with. In an ever changing world, being able to learn and adapt quickly is a huge part of how successfully you can be in the tech industry at all and at Microsoft specifically. I prefer technical design questions for these kinds of results, however, and it seems that most 
+'softies agree.
+&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>What would you say was the biggest factor in your being offered a job at Microsoft?&lt;/em>&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>I had a reputation outside of MS before I interviewed, but that almost didn't matter. If I hadn't done well during the interview, I would not have been offered the job. When in doubt, a team generally prefers to turn away a good candidate rather than to risk taking on a bad one, so if there's anything wrong, team fit, technical ability, role fit, etc., a candidate won't get an offer.&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>What's the single most important piece of advice you can offer to those preparing for a Microsoft job interview?&lt;/em>&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>You asked for just one, but I'm going to give you two anyway. : )&lt;/p>
+&lt;p>&lt;ol>
+&lt;li>If you need more information to answer a question, ask for it. Thatis how the real-world works and many questions are intentionally vague to simulate just this kind of interaction.&lt;/li>
+&lt;li>Try to answer non-technical questions based on your personal experience, e.g. instead of saying 
+&amp;quot;here's how I would deal with that situation,&amp;quot;� say &amp;quot;I had a similar situation in my past and hereis how I dealt with it.&amp;quot;� This is a style of interviewing known as 
+&lt;a href="http://en.wikipedia.org/wiki/Job_interview#Behavioral">behavioral�&lt;/a> and even if your interviewer doesn't phrase his questions in that way, e.g. 
+&amp;quot;give me an example of how you dealt with a situation like blah,&amp;quot;� it's helpful and impressive if you can use your own history to pull out a positive result.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>&lt;strong>[David] &lt;/strong>Could you please share any other observations you have on the Microsoft interview process that may not be covered in your site or the Jobsblog?&lt;/em>&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>I run &lt;a href="/interview">a little section of my web site dedicated to the MS interviewing process&lt;/a> and the thing I will tell you is this: don't prepare. Be yourself. If you're not a fit for MS, no amount of preparation in the days before an interview will help and if you are a fit, that will come through in the interview. Also, make sure you ask questions. Working at Microsoft isn't just a job, it's a way of life, so make sure you're sure you want the team and the job for which you're interviewing.&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>Does MS provide training for interviewers? If so, what do they stress most?&lt;/em>&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>I'm sure MS does provide training for interviewing, but Iive never been to it. At Intel, I learned the behavioral interviewing technique, which Iive used in every interview since, both as an interviewer and as a job candidate.&lt;/p>
+&lt;p>
+&lt;em>[David] Do you have standard questions, or do you tailor them to the situation? If the latter, is it usually tailored for team fit, to a specific open position, particular skills, etc.?&lt;/em>&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>I have once standard technique question and a few standard behavioral interview questions. The technical question is to ask them what their favorite technology is and/or what they consider themselves to be an expert� in and then drill in on their understanding. If they can answer my questions deeply, this shows passion about technology and the ability to learn something well, both of which are crucial for success at MS.
+&lt;/p>
+&lt;p>
+My behavioral interviewing questions are things like &amp;quot;Tell me about a time when youive been in conflict with a peer. How did you resolve it? What was the result? What did you learn?&amp;quot;� and 
+&amp;quot;Tell me about a time when you had much too much work to do in the time you were given. How do you resolve that issue? What was the result? What did you learn?&amp;quot;� The core idea of behavioral interviewing is that past behavior indicates future behavior, so instead of asking people things like 
+&amp;quot;How &lt;em>would &lt;/em>you deal with such-and-such?�&amp;quot; you ask them &amp;quot;How &lt;em>did
+&lt;/em>you dealt with such-and-such in the past?&amp;quot;� This forces them to find a matching scenario and you get to see if they way they dealt with the issue in real life matches what you want from a team mate in that job.
+&lt;/p>
+&lt;p>
+&lt;em>&lt;strong>[David] &lt;/strong>How would you describe the kinds of coding questions you ask? A couple of real examples would be perfect!
+&lt;/em>
+&lt;/p>
+&lt;p>
+&lt;strong>[Chris] &lt;/strong>I don't often ask coding questions, but when I have, I let them use a keyboard. I hate coding on the board myself as it's not representative of how people actually code, so I don't find it to be a good indicator of what people will actually do. I guess I even use behavioral techniques for technical questions, now that I think about it. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12673</id>
+    <title>Spurious MachineToApplication Error With VS2010 Deployment</title>
+    <updated>2010-05-23T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="http://img11.imageshack.us/img11/6894/microsoftvisualstudio20.png"/>
+    <category term=".net" label=".NET"/>
+    <published>2010-05-23T07:00:00.000Z</published>
+    <summary>Often when I'm building my MVC 2 application using Visual Studio 2010, I get the following error: It is an error to use a section registered as allowDefinition='MachineToApplication' beyond application level. This error can be caused by a virtual directory not being configured as an application in IIS. On the internet, this error seems to be related to having a nested web.config in your application. I do have such a thing, but it's just the one that came out of the MVC 2 p</summary>
+    <content type="html">&lt;h1>Spurious MachineToApplication Error With VS2010 Deployment&lt;/h1>
+&lt;img align="right" width="256" height="205" style="margin: 5px" src="http://img11.imageshack.us/img11/6894/microsoftvisualstudio20.png" />
+&lt;p>Often when I'm building my MVC 2 application using Visual Studio 2010, I get 
+the following error:&lt;/p>
+&lt;p class="style1">&lt;em>It is an error to use a section registered as 
+allowDefinition='MachineToApplication' beyond application level. This error can 
+be caused by a virtual directory not being configured as an application in IIS.&lt;/em>&lt;/p>
+&lt;p>
+&lt;a href="http://www.bing.com/search?q=It+is+an+error+to+use+a+section+registered+as+allowDefinition%3D%27MachineToApplication%27+beyond+application+level.+This+error+can+be+caused+by+a+virtual+directory+not+being+configured+as+an+application+in+IIS.&amp;amp;src=IE-SearchBox&amp;amp;FORM=IE8SRC">
+On the internet&lt;/a>, this error seems to be related to having a nested 
+web.config in your application. I do have such a thing, but it's just the one 
+that came out of the MVC 2 project item template and I haven't touched it. &lt;/p>
+&lt;p>
+In my case, this error in my case doesn't seem to have anything to do with a 
+nested web.config. This 
+error only started to happen when I began using the web site deployment features 
+in VS2010 which by itself, rocks (see Scott Hanselman's
+&lt;a href="http://blogs.iis.net/shanselman/archive/2010/03/24/web-deployment-made-awesome-if-you-re-using-xcopy-you-re-doing-it-wrong.aspx">
+&amp;quot;Web Deployment Made Awesome: If You're Using XCopy, You're Doing It Wrong&amp;quot;&lt;/a> 
+for details).&lt;/p>
+&lt;p>
+&amp;nbsp;If it happens to you and it doesn't seem to make any sense, you can try to 
+fix it with a Build Clean command. If you're using to previous versions of 
+Visual Studio, you'll be surprised, like I was, not to find a Clean option in 
+sparse the Build menu. Instead, you can only get to it by right-clicking on your 
+project in the Solution Explorer and choosing Clean.&lt;/p>
+&lt;p>
+Doing that, however, seems to make the error go away. I don't think that's a 
+problem with my app; I think that's a problem with VS2010.&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12670</id>
+    <title>a whole new sellsbrothers.com</title>
+    <updated>2010-05-20T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/images/sellsbrothers_logo.jpg"/>
+    <category term="colophon" label="Colophon"/>
+    <published>2010-05-20T07:00:00.000Z</published>
+    <summary>The new sellsbrothers.com implementation has been a while in the making. In fact, I've had the final art in my hands since August of 2005. I've tried several times to sit down and rebuild my 15-year-old sellsbrothers.com completely from scratch using the latest tools. This time, I had a book contract (&amp;quot;Programming Data,&amp;quot; Addison-Wesley, 2010) and I needed some real-world experience with Entity Framework 4.0 and OData, so I fired up Visual Studio 2010 a coupla months ago and went to town. The Data ...</summary>
+    <content type="html">&lt;h1>a whole new sellsbrothers.com&lt;/h1>
+&lt;img align="right" width="182" height="132" src="/public/images/sellsbrothers_logo.jpg" />
+&lt;p>The new sellsbrothers.com implementation has been a while in the making. In fact, I've had the final art in my hands 
+since August of 2005. I've tried several times to sit down and rebuild my 
+15-year-old sellsbrothers.com completely from scratch using the latest tools. 
+This time, I had a book contract (&amp;quot;Programming Data,&amp;quot; Addison-Wesley, 2010) and 
+I needed some real-world experience with Entity Framework 4.0 and OData, so I 
+fired up Visual Studio 2010 a coupla months ago and went to town.&lt;/p>
+&lt;h2>The Data Modeling&lt;/h2>
+&lt;p>The first thing I did was design my data model. I started very small with 
+just Post and Comment. That was enough to get most of my content in. And that 
+lead to my first principle (we all need principles):&lt;/p>
+&lt;p>&lt;em>thou shalt have no .html files served from the file system.&lt;/em>&lt;/p>
+&lt;p>On my old site, I had a mix of static and dynamic content which lead to all 
+kinds of trouble. This time, the HTML at least was going to be all dynamic. So, once I had my 
+model defined, I had to import all of my static data into my live system. For 
+that, I needed a tool to parse the static HTML and pull out structured data. 
+Luckily, &lt;a href="http://haacked.com/">Phil Haack&lt;/a> came to my rescue here.&lt;/p>
+&lt;p>Before he was a Microsoft employee in charge of MVC, Phil was well-known 
+author of &lt;a href="http://subtextproject.com/">the SubText open source CMS project&lt;/a>. A few years ago, in one of my 
+aborted attempts to get my site into a reasonable state (it has evolved from a 
+single static text file into a mish-mash of static and dynamic content over 15 
+years), I asked Phil to help me get my site moved over to SubText. To help me 
+out, he built 
+the tool that parsed my static HTML, transforming the data into the SubText database format. 
+For this, all I had to do was transform the 
+data from his format into mine, but before I could do that, I had to hook my 
+schema up to a real-live datastore. I didn't want to have to take old web site 
+down at all; I wanted to have both sites up and running at the same time. This 
+lead to principle #2:&lt;/p>
+&lt;p>&lt;em>thou shalt keep both web sites running with the existing live set of 
+data.&lt;/em>&lt;/p>
+&lt;p>And, in fact, that's what happened. For many weeks while I was building my 
+new web site, I was dumping static data into the live database. However, since 
+my old web site sorting things by date, there was only one place to even see 
+this old data being put in (the &lt;a href="/">/news/archive.aspx&lt;/a> page). Otherwise, it was all 
+imperceptible.&lt;/p>
+&lt;p>To make this happen, I had to map my new data model onto my existing data. I 
+could do this in one of two ways:&lt;/p>
+&lt;ol>
+	&lt;li>I could create the new schema on my ISP-hosted SQL Server 2008 database 
+	(&lt;a href="http://securewebs.com">securewebs.com&lt;/a> rocks, btw -- highly recommended!) and move the data over.&lt;/li>
+	&lt;li>I could use my existing schema and just map it on the client-side using 
+	the wonder and beauty that was EF4.&lt;/li>
+&lt;/ol>
+&lt;p>Since I was trying to get real-world experience with our data stack, I tried 
+to use the tools and processes that a real-world developer has and they often don't 
+get to change the database without a real need, especially on a running system. So, I went with option #2.&lt;/p>
+&lt;p>And 
+I'm so glad I did. It worked really, really well to change names and select 
+fields I cared about or didn't care about all from the client-side without ever 
+touching the database. Sometimes I had to make database changes and when that happened, I 
+has careful and deliberate, making the case to my inner DB administrator, but 
+mostly I just didn't have to.&lt;/p>
+&lt;p>And when I needed whole new tables of data, that lead to another principle:&lt;/p>
+&lt;p>&lt;em>build out all new tables in my development environment first.&lt;/em>&lt;/p>
+&lt;p>This way, I could make sure they worked in my new environment and could 
+refactor to my heart's content before disturbing my (inner) DB admin with 
+request after request to change a live, running database. I used a very simple 
+repository pattern in my MVC2 web site to hide the fact that I was actually 
+accessing two databases, so when I switched everything to a single database, 
+none of my view or controller code had to change. Beautiful!&lt;/p>
+&lt;h2>Data Wants To Be Clean&lt;/h2>
+&lt;p>And even though I was careful to keep my schema the same on the backend and 
+map it as I wanted in my new web site via EF, not all of my old data worked in my new 
+world. For example, I was building a web site on my local box, so anything with 
+a hard-coded link to sellsbrothers.com had to be changed. Also, I was using a 
+set of &amp;lt;a name=&amp;quot;tag&amp;quot; ? elements to reference specific posts in my static HTML that just didn't 
+scale to my dynamic ID-based permalinks, so data had to be &amp;quot;cleaned.&amp;quot;&lt;/p>
+&lt;p>To do this cleaning, I used a combination of 
+&lt;a href="http://www.linqpad.net/">LINQPad&lt;/a>, 
+&lt;a href="http://msdn.microsoft.com/en-us/library/ms174173.aspx">SSMS&lt;/a> and EF-based C# 
+code to perform data cleaning tasks. This yielded two tools that I'm still 
+using:&lt;/p>
+&lt;ol>
+	&lt;li>&lt;strong>BlogEdit: &lt;/strong>An unimagintively named general-purpose post 
+	and comment creation and editing tool. I built the first version of this 
+	long before WPF, so kept hacking on it in WinForms (whose data binding sucks 
+	compared to WPF, btw) as I needed it to have new features. Eventually I gave 
+	this tool WYSIWIG HTML editing by shelling out to Expression Web, but I need 
+	real AtomPub support on the site so I can move to Windows Live Writer for 
+	that functionality in the future.&lt;/li>
+	&lt;li>&lt;strong>BulkChangeDatabaseTable: &lt;/strong>This was an app that I'd use 
+	to run my questions to find &amp;quot;dirty&amp;quot; data, perform regular expression 
+	replaces with and then -- and this is the best part -- show the changes in 
+	WinDiff so I could make sure I was happy with the changes before commiting 
+	them to the database. This extra eyeballing saved me from wrecking a bunch 
+	of data.&lt;/li>
+&lt;/ol>
+&lt;p>During this data cleaning, I applied one simple rule that I adopted early and 
+always regretted when I ignored:&lt;/p>
+&lt;p>&lt;em>thou shalt throw away no data&lt;/em>.&lt;/p>
+&lt;p>Even if the data didn't seem to have any use in the new world, I kept it. And 
+it's a good thing I did, because I always, always needed it.&lt;/p>
+&lt;p>For example, when I ran Phil's tool to parse my static web pages, he pulled 
+out the &amp;lt;a name=&amp;quot;tag&amp;quot; /&amp;gt; tags that went with all of my static posts. I wasn't 
+going to use them to build permalinks, why did I need them?&lt;/p>
+&lt;p>I'll tell you why: because I've got 2600 posts in my blog from 15 years of 
+doing this, I cross-link to my own content all the live-long day and a bunch of 
+those cross-links are to, you guessed it, to what used to be static data. So, I 
+have to turn links embedded in my content of the form &amp;quot;/writing/#footag&amp;quot; into 
+links of the form &amp;quot;/posts/details/452&amp;quot;. But how do I look up the mapping between 
+&amp;quot;footag&amp;quot; and &amp;quot;452&amp;quot;? That's right -- I actually went to my (inner) DB admin and 
+begged him for a new column on my live database called &amp;quot;EntryName&amp;quot; where I 
+tucked the &amp;lt;a name=&amp;quot;tag&amp;quot; /&amp;gt; data as I imported the data from Phil's tool, even 
+though I didn't know why I might need it. It was a good principle.&lt;/p>
+&lt;h2>Forwarding Old Links&lt;/h2>
+&lt;p>And how did I even figure out I had all those broken links? Well, I asked my 
+good friend and web expert Kent Sharkey how to make sure my site was at least 
+internally consist before I shipped it and he recommended
+&lt;a href="http://home.snafu.de/tilman/xenulink.html">Xenu Link Sleuth&lt;/a> for the 
+job. This lead to another principle:&lt;/p>
+&lt;p>&lt;em>thou shalt ship the new site with no broken internal links&lt;/em>.&lt;/p>
+&lt;p>Which was followed closely by another principle:&lt;/p>
+&lt;p>&lt;em>thou shalt not stress over broken links to external content.&lt;/em>&lt;/p>
+&lt;p>Just because I'm completely anal about making sure every link I ever pass out 
+to the world stays valid for all eternity doesn't mean that the rest of the 
+world is similiarly anal. That's a shame, but there's nothing I can do if little 
+sites like microsoft.com decide to move things without a forwarding address. I 
+can, however, make sure that all of my links worked internally and I used Xenu 
+to do that. I started out with several hundred broken links and before I shipped 
+the new site, I had zero.&lt;/p>
+&lt;p>Not all of that was changing old content, however. In fact, most of it 
+wasn't. Because I wanted existing external links out in the world to find the 
+same content in the new place, I had to make sure the old links still worked. That's not to say I was a slave to the old URL format, however. I didn't 
+want to expose .aspx extensions. I wanted to do things the new, cool, MVC way, 
+i.e. instead of /news/showTopic.aspx?ixTopic=452 (my old format), I wanted 
+/posts/details/452. So, this lead to a new principle:&lt;/p>
+&lt;p>&lt;em>thou shalt built the new web site the way you want and make the old URLs 
+work externally.&lt;/em>&lt;/p>
+&lt;p>I was using MVC and I wanted to do it right. That meant laying out the &amp;quot;URL 
+space&amp;quot; the way it made sense in the new world (and it's much nicer in general, 
+imo). However, instead of changing my content to use this new URL schema, I used 
+it as a representative sample of how links to my content in the real-world might 
+be coming into my site, which gave me initial data about what URLs I needed to 
+forward. Ongoing, I'll dig through 404 logs to find the rest and make those URLs 
+work appropriately.&lt;/p>
+&lt;p>I used a few means of forwarding the old URLs:&lt;/p>
+&lt;ol>
+	&lt;li>&lt;strong>Mapping sub-folders to categories: &lt;/strong>In the old site, I 
+	physically had the files in folders that matched the sub-folders, e.g. /fun 
+	mapped to /fun/default.aspx. In the new world, /fun meant 
+	/posts/details/?category=fun. This sub-folder thing only works for the set 
+	of well-defined categories on the site (all of which are entries in the 
+	database, of course), but if you want to do sub-string search across 
+	categories on my site you can, e.g. /posts/details/?category=foo.&lt;/li>
+	&lt;li>&lt;strong>Kept sub-folder URLs&lt;/strong>, e.g. /tinysells and /writing: I 
+	still liked these URLs, so I kept them and built controllers to handle them.&lt;/li>
+	&lt;li>&lt;a href="http://www.iis.net/download/URLRewrite">&lt;strong>Using the IIS 
+	URL Rewriter&lt;/strong>&lt;/a>&lt;strong>: &lt;/strong>This was the big gun.
+	&lt;a href="http://weblogs.asp.net/jgalloway/">Jon Galloway&lt;/a>, who was 
+	invaluable in this work, turned me onto it and I'm glad he did. The URL 
+	Rewriter is a small, simple add-in to IIS7 that lets you describe patterns and rules for 
+	forwarding when those patterns are matched. I have something like a dozen 
+	patterns that do the work to forward 100s of URLs that are in my own content 
+	and might be out in the world. And it works so, so well. Highly recommended.&lt;/li>
+&lt;/ol>
+&lt;p>So, with a combination of data cleaning to make my content work across both 
+the old site and the new site under development, making some of my old URLs work 
+because of conventions I adopted that I wanted to keep and URL rewriting, I had 
+a simple, feature-complete, 100% data-driven re-implementation of 
+sellsbrothers.com. &lt;/p>
+&lt;h2>What's New?&lt;/h2>
+&lt;p>Of course, I couldn't just reimplement the site without doing something new:&lt;/p>
+&lt;ul>
+	&lt;li>&lt;strong>Way, way faster. &lt;/strong>SQL Server 2008 and EF4 make the site 
+	noticibly faster. I love it. Surfing from my box, as soon as the browser 
+	window is visible, I'm looking at the content on my site. What's better than 
+	that?&lt;/li>
+	&lt;li>&lt;strong>I made tinysells.com work again&lt;/strong>, e.g.
+	&lt;a href="http://tinysells.com/42">tinysells.com/42&lt;/a>. I broke when I moved 
+	it from simpleurl.com to godaddy.com. Luckily, godaddy.com was just 
+	forwarding to sellsbrothers.com/tinysells/&amp;lt;code&amp;gt;, so that was easy to 
+	implement with a MVC controller. That was all data I already had in the 
+	database because John Elliot, another helper I had on the site a while ago, 
+	set it up for me.&lt;/li>
+	&lt;li>&lt;strong>I added reCAPTCHA support: &lt;/strong>Now I'm hoping I won't have 
+	to moderate comments at all. So far, so good. Also, I added the ability to 
+	add HTML content, which is encoded, so it comes right back the way it went 
+	in, i.e. no action scripts or links or anything a spammer would want but the 
+	characters a coder wants putting content into a technical blog.&lt;/li>
+	&lt;li>&lt;strong>Per category ATOM and OData feeds&lt;/strong> (and RSS feeds, too, 
+	if you care). For example, if you click on the ATOM or OData icons on the 
+	home page, you'll get the feed for everything. However, if you click on it 
+	on one of the category pages, e.g. &lt;a href="/fun">/fun&lt;/a>, you'll get a feed filtered by 
+	category.&lt;/li>
+	&lt;li>&lt;strong>Paging in OData and HTML: &lt;/strong>This lets you scroll to the 
+	bottom of both the OData feed and the HTML page to scroll backwards and 
+	forwards in time.&lt;/li>
+	&lt;li>&lt;strong>New layout&lt;/strong> including fixed-sized content area for 
+	readability, google ads and bing search (I'd happily replace google ads with 
+	bing ads if they'd let me).&lt;/li>
+	&lt;li>&lt;strong>Nearly every sub-page is category driven&lt;/strong>, although even 
+	the ones that aren't, e.g. &lt;a href="/tinysells">/tinysells&lt;/a> and 
+	&lt;a href="/writing">/writing&lt;/a> and still completely 
+	data-driven. Further, the writing page is so data-driven that if the data is 
+	just an ISDN, it creates an ASIN associate ID for amazon.com. Buy those 
+	books, people! : )&lt;/li>
+&lt;/ul>
+&lt;h2>The Room for Improvement&lt;/h2>
+&lt;p>As always, there's a long list of things I wish I had time to do:&lt;/p>
+&lt;ul>
+	&lt;li>&lt;strong>The way I handle layout&lt;/strong> is with tables 'cuz I couldn't 
+	figure out how to make CSS do what I wanted. I'd love expert help!&lt;/li>
+	&lt;li>&lt;strong>Space preservation in comments so code is formatted correctly.&lt;/strong> 
+	I don't actually know the right way to go about this.&lt;/li>
+	&lt;li>&lt;strong>Blog Conversations: &lt;/strong>The idea here is to let folks put 
+	their email on a forum comment so that when someone else comments, they're 
+	notified. This happens on forums and Facebook now and I like it for 
+	maintaining a conversation over time.&lt;/li>
+	&lt;li>In spite of my principle, &lt;strong>I didn't get 100% of the HTML content 
+	on the site into the database&lt;/strong>. Some of the older, obscure stuff is 
+	still in HTML. It's still reachable, but I haven't motivated myself to get 
+	every last scrap. I will.&lt;/li>
+	&lt;li>I can easily &lt;strong>expose more via OData&lt;/strong>. I can't think why 
+	not to and who knows what folks might want to do with the data.&lt;/li>
+	&lt;li>I could make the site a little &lt;strong>more readable on mobile devices&lt;/strong>.&lt;/li>
+	&lt;li>I really need &lt;strong>full support for AtomPub&lt;/strong> so I can use 
+	Windows Live Writer.&lt;/li>
+	&lt;li>I'd like to add the name of the article into the URL (apparently search 
+	engines like that kind of thing : ).&lt;/li>
+	&lt;li>Pulling &lt;strong>book covers on the writing page&lt;/strong> from the ISBN number 
+	would liven up the joint, I think.&lt;/li>
+	&lt;li>Pass the &lt;a href="http://www.iis.net/download/SEOToolkit">SEO Toolkit&lt;/a> check. (I'm 
+	not so great just now.)&lt;/li>
+&lt;/ul>
+&lt;p>Luckily, with the infrastructure I've got in place now, laying in these 
+features over time will be easy, which was the whole point of doing this work in 
+the first place.&lt;/p>
+&lt;h2>Where are we?&lt;/h2>
+&lt;p>All of this brings me back to one more principle. I call it Principle Zero:&lt;/p>
+&lt;p>&lt;em>thou shalt make everything data-driven.&lt;/em>&lt;/p>
+&lt;p>I'm living the data-driven application dream here, people. When designing my 
+data model and writing my code, I imagined that sellsbrothers.com was but one instance of a class of web 
+applications and I kept all of the content, down to my name and email address, 
+in the database. If I found myself putting data into the code, I figured out 
+where it belonged in the database instead.&lt;/p>
+&lt;p>This lead to all kinds of real-world uses of the database features of Visual Studio, including EF, OData, Database 
+projects, SQL execution, live table-based data editing, etc. I lived the 
+data-driven dream and it yielded a web site that's much faster and runs on much 
+less code:&lt;/p>
+&lt;ul>
+	&lt;li>Old site:&lt;ul>
+		&lt;li>191 .aspx file, 286 KB&lt;/li>
+		&lt;li>400 .cs file,&amp;nbsp; 511 KB&lt;/li>
+	&lt;/ul>
+	&lt;/li>
+	&lt;li>New site:&lt;ul>
+		&lt;li>14 .aspx files, 19 KB&lt;/li>
+		&lt;li>34 .cs files,&amp;nbsp; 80 KB&lt;/li>
+	&lt;/ul>
+	&lt;/li>
+&lt;/ul>
+&lt;p>Do the math and that's 100+% of the content and functionality for 10% of the 
+code. I knew I wanted to do it to gain experience with our end-to-end data stack 
+story. I had no idea I would love it so much.&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12665</id>
+    <title>Entity Framework 4.0 POCO Classes and Data Services</title>
+    <updated>2010-05-11T07:00:00.000Z</updated>
+    <category term="data" label="Data"/>
+    <published>2010-05-11T07:00:00.000Z</published>
+    <summary>If you've flipped on the POCO (Plain Ol' CLR Objects) code generation T4 templates for Entity Framework to enable testing or just 'cuz you like the code better, you might find that you lack the ability to expose that same model via Data Services as OData (Open Data). If you surf to the feed, you'll likely see something like this: The XML page cannot be displayed Cannot view XML input using XSL style sheet. Please correct the error and then click the Refresh button, or try again later. The following tags wer...</summary>
+    <content type="html">&lt;h1>Entity Framework 4.0 POCO Classes and Data Services&lt;/h1>
+&lt;p>If you've flipped on
+&lt;a href="http://blogs.msdn.com/adonet/pages/walkthrough-poco-template-for-the-entity-framework.aspx">
+the POCO (Plain Ol' CLR Objects) code generation T4 templates for Entity 
+Framework&lt;/a> to enable testing or just 'cuz you like the code better, you might 
+find that you lack the ability to expose that same model via Data Services as
+&lt;a href="http://odata.org">OData (Open Data)&lt;/a>. If you surf to the feed, 
+you'll likely see something like this:&lt;/p>
+&lt;p>
+	&lt;p style="FONT: 13pt/15pt verdana">The XML page cannot be displayed &lt;/p>
+	&lt;p style="FONT: 8pt/11pt verdana">Cannot view XML input using XSL style 
+	sheet. Please correct the error and then click the
+	&lt;u style="color:blue">Refresh&lt;/u> button, or 
+	try again later. &lt;/p>
+	&lt;hr>
+	&lt;p style="FONT: bold 8pt/11pt verdana">The following tags were not closed: 
+	feed. Error processing resource 'http://localhost:10749/MyODataEndpoint.svc/Posts'&lt;/p>
+	&lt;pre style="LINE-HEIGHT: 12pt; FONT-VARIANT: normal; FONT-STYLE: normal; FONT-SIZE: 10pt; FONT-WEIGHT: normal">&amp;nbsp;&lt;/pre>
+
+&lt;p>There are two problems. The first problem is that we're not reporting the 
+problem very well. You can't see what's happening in IE8 with a simple View 
+Source, as apparently IE won't show malformed XML. Instead, you have to use
+&lt;a href="http://www.fiddler2.com/fiddler2/">Fiddler&lt;/a> or some other tool (I'm 
+a big &lt;a href="http://www.pocketsoap.com/tcptrace/">tcpTrace&lt;/a> fan) to see the 
+actual error in the HTTP response:&lt;/p>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;pre>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;utf-8&amp;quot; standalone=&amp;quot;yes&amp;quot;?&amp;gt;
+&amp;lt;feed ...&amp;gt;
+&amp;lt;title type=&amp;quot;text&amp;quot;&amp;gt;Posts&amp;lt;/title&amp;gt;
+&amp;lt;id&amp;gt;http://localhost:8080/MyODataEndpoint.svc/Posts&amp;lt;/id&amp;gt;
+&amp;lt;updated&amp;gt;2010-05-11T22:48:13Z&amp;lt;/updated&amp;gt;
+&amp;lt;link rel=&amp;quot;self&amp;quot; title=&amp;quot;Posts&amp;quot; href=&amp;quot;Posts&amp;quot; /&amp;gt;
+&lt;strong>&amp;lt;m:error&amp;gt;
+&amp;lt;m:code&amp;gt;&amp;lt;/m:code&amp;gt;
+&amp;lt;m:message xml:lang=&amp;quot;en-US&amp;quot;&amp;gt;Internal Server Error. The type
+'System.Data.Entity.DynamicProxies.Post_CF2ABE5AD0B93AE51D470C9FDFD72E780956A6FD7294E0B4205C6324E1053422'
+is not a complex type or an entity type.&amp;lt;/m:message&amp;gt;
+&amp;lt;/m:error&amp;gt;&lt;/strong>&lt;/pre>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;p>It's in the creation of the OData feed that the error happens, so instead of 
+clearing the response and just returning the error, we dump it into the middle 
+of the output, making it very difficult to find. In this case, what we're 
+telling you is that you've mistakenly left dynamic proxy creation on, which 
+doesn't work with EF4 POCO objects and Data Services in .NET 4.0. To fix this, 
+you need to override the CreateDataSource method in your DataService&amp;lt;T&amp;gt; derived 
+class:&lt;/p>
+&lt;pre>&amp;nbsp;&lt;/pre>
+&lt;pre>public class MyODataEndpoint : DataService&amp;lt;FooEntities&amp;gt; {
+  public static void InitializeService(DataServiceConfiguration config) {
+    ...
+  }
+
+&lt;strong>  protected override sellsbrothersEntities CreateDataSource() {
+    var dataSource = new FooEntities();
+    dataSource.ContextOptions.ProxyCreationEnabled = false;
+    return dataSource;
+  }
+&lt;/strong>}&lt;/pre>
+&lt;p>&amp;nbsp;&lt;/p>
+&lt;p>This solution came from Shyam Pather, a Dev Manager on the EF team. He says 
+that once you turn off proxy generation, you give up lazy loading and 
+&amp;quot;immediate&amp;quot; change tracking. Instead, you'll get &amp;quot;snapshot&amp;quot; change tracking, 
+which means the context won't be informed when the properites are changed, but the context 
+still detects changes when you call DetectChanges() or SaveChanges(). For the internals of 
+a Data Service, none of this matters, but any code you write in query interceptors, change interceptors, or service 
+operations will have to be aware of this.&lt;/p>
+&lt;p>This limitations are only true when used from the OData endpoint, of course. 
+The rest of your app will get proxy creation by default unless you turn it off.&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12664</id>
+    <title>Working Hard: WhirlyBall</title>
+    <updated>2010-05-07T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2010-05-07T07:00:00.000Z</published>
+    <summary>What my team does on an average Wednesday afternoon: It was surprisingly fun. </summary>
+    <content type="html">&lt;h1>Working Hard: WhirlyBall&lt;/h1>
+&lt;P>What my team does on an average Wednesday afternoon:&lt;/P>
+&lt;P>
+&lt;OBJECT width=650 height=382>&lt;PARAM NAME="movie" VALUE="http://www.youtube.com/v/QTqUl1WCZL8&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;rel=0&amp;amp;hd=1&amp;amp;border=1">&lt;PARAM NAME="allowFullScreen" VALUE="true">&lt;PARAM NAME="allowscriptaccess" VALUE="always">
+&lt;embed src="http://www.youtube.com/v/QTqUl1WCZL8&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;hd=1&amp;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="650" height="382">&lt;/embed>&lt;/OBJECT>&lt;/P>
+&lt;P>It was surprisingly fun.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12663</id>
+    <title>We're taking OData on the Road!</title>
+    <updated>2010-05-06T07:00:00.000Z</updated>
+    <published>2010-05-06T07:00:00.000Z</published>
+    <summary>We have a series of free, day-long events we're doing around the world to show off the beauty and wonder that is the Open Data Protocol. In the morning we'll be showing you OData and in the afternoon we'll help you get your OData services up and running. Come one, come all! New York, NY - May 12, 2010 Chicago, IL - May 14, 2010 Mountain View, CA - May 18, 2010 Shanghai, China - June 1, 2010 Tokyo, Japan - June 3, 2010 Reading, United Kingdom - June 15, 2010 Paris, France - June 17, 2010 Your speakers are go...</summary>
+    <content type="html">&lt;h1>We're taking OData on the Road!&lt;/h1>
+&lt;P>We have a series of free, day-long events we're doing around the world to &lt;A href="http://www.odata.org/roadshow/">show off the beauty and wonder that is the Open Data Protocol&lt;/A>. In the morning we'll be showing you OData and in the afternoon we'll help you get your OData services up and running. &lt;A href="http://www.odata.org/roadshow/">Come one, come all!&lt;/A>&lt;/P>
+&lt;UL>
+&lt;LI>New York, NY - May 12, 2010&lt;/LI>
+&lt;LI>Chicago, IL - May 14, 2010&lt;/LI>
+&lt;LI>Mountain View, CA - May 18, 2010&lt;/LI>
+&lt;LI>Shanghai, China - June 1, 2010&lt;/LI>
+&lt;LI>Tokyo, Japan - June 3, 2010&lt;/LI>
+&lt;LI>Reading, United Kingdom - June 15, 2010&lt;/LI>
+&lt;LI>Paris, France - June 17, 2010&lt;/LI>&lt;/UL>
+&lt;P>Your speakers are going to include Doug Purdy, &lt;A href="http://www.odata.org/roadshow/">so book now&lt;/A>. Spots are going to go fast!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12638</id>
+    <title>SQL Server Modeling CTP (November 2009 Release 3) for Visual Studio 2010 RTM Now Available</title>
+    <updated>2010-04-20T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2010-04-20T07:00:00.000Z</published>
+    <summary>Here's what Kraig has to say about the November 2010 SQL Server Model CTP that matches the RTM of Visual Studio 2010: A update of the SQL Server Modeling CTP (November 2009) that's compatible with the official (RTM) release of Visual Studio 2010 is now available on the Microsoft Download Center.&amp;nbsp; This release is strictly an updated version of the original November 2009 CTP release to support the final release of Visual Studio 2010 and.NET Framework 4. SQL Server Modeling Nov09 CTP Release 3 Release Not...</summary>
+    <content type="html">&lt;h1>SQL Server Modeling CTP (November 2009 Release 3) for Visual Studio 2010 RTM Now Available&lt;/h1>
+&lt;P>Here's what Kraig has to say about the November 2010 SQL Server Model CTP that matches the RTM of Visual Studio 2010:&lt;/P>
+&lt;P>A update of the SQL Server Modeling CTP (November 2009) that's compatible with the official (RTM) release of Visual Studio 2010 is now available on the Microsoft Download Center.&amp;nbsp; This release is strictly an updated version of the original November 2009 CTP release to support the final release of Visual Studio 2010 and .NET Framework 4.&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://go.microsoft.com/?linkid=9648442">SQL Server Modeling Nov09 CTP Release 3&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://go.microsoft.com/fwlink/?LinkID=165497">Release Notes&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>We highly recommend you uninstall and install in the following order.&lt;/P>
+&lt;OL>
+&lt;LI>Uninstall any existing SQL Server Modeling CTP from Add and Remove Programs&lt;/LI>
+&lt;LI>Uninstall Visual Studio 2010 and .NET Framework 4 Beta 2 or RC from Add and Remove Programs&lt;/LI>
+&lt;LI>Install Visual Studio 2010 and .NET Framework 4&lt;/LI>
+&lt;LI>Install the SQL Server Modeling November 2009 CTP Release 3. &lt;/LI>&lt;/OL>
+&lt;P>If you are unable to uninstall SQL Server Modeling CTP from Add and Remove Programs for any reason, you can remove each component using the following command lines.&amp;nbsp; You need to run all three in order to completely remove SQL Server Modeling CTP so you can install the new CTP:&lt;/P>
+&lt;P>M Tools: Msiexec /x {B7EE8AF2-3DCC-4AFE-8BD2-5A6CE9E85B3A}&lt;/P>
+&lt;P>Quadrant: Msiexec /x {61F3728B-1A7D-4dd8-88A5-001CBB9D2CFA}&lt;/P>
+&lt;P>Domains: Msiexec /x {11DA75C8-10AB-4288-A1BB-B3C2593524A7}&lt;/P>
+&lt;P>Note: These steps will not remove the SQL Server Modeling CTP entry in Add and Remove Programs but you will be able to install the new CTP.&lt;/P>
+&lt;P>Thank you and enjoy Visual Studio 2010! &lt;/P>
+&lt;P>Kraig Brockschmidt&lt;BR>Program Manager, Data Developer Center&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12614</id>
+    <title>The performance implications of IEnumerable vs. IQueryable</title>
+    <updated>2010-04-05T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2010-04-05T07:00:00.000Z</published>
+    <summary>It all started innocently enough. I was implementing a "Older Posts/Newer Posts" feature for my new web site and was writing code like this: IEnumerable&amp;lt;Post&amp;gt; FilterByCategory(IEnumerable&amp;lt;Post&amp;gt; posts, string category) { &amp;nbsp; if(!string.IsNullOrEmpty(category) ) { return posts.Where(p =&amp;gt; p.Category.Contains(category)); } }... &amp;nbsp; var posts = FilterByCategory(db.Posts, category); &amp;nbsp; int count = posts.Count();... The "db" was an EF object context object, but it could just as easily been...</summary>
+    <content type="html">&lt;h1>The performance implications of IEnumerable vs. IQueryable&lt;/h1>
+&lt;P>It all started innocently enough. I was implementing a "Older Posts/Newer Posts" feature for my new web site and was writing code like this:&lt;/P>&lt;PRE>IEnumerable&amp;lt;Post&amp;gt; FilterByCategory(IEnumerable&amp;lt;Post&amp;gt; posts, string category) {&lt;BR>&amp;nbsp; if( !string.IsNullOrEmpty(category) ) {&lt;BR>    return posts.Where(p =&amp;gt; p.Category.Contains(category));&lt;BR>  }&lt;BR>}&lt;BR>...&lt;BR>&amp;nbsp; var posts = FilterByCategory(db.Posts, category);&lt;BR>&amp;nbsp; int count = posts.Count();&lt;BR>...&lt;BR>&lt;/PRE>
+&lt;P>The "db" was an EF object context object, but it could just as easily been a LINQ to SQL context. Once I ran this code, it failed at run-time with a null reference exception on Category. "That's strange," I thought. "Some of my categories are null, but I expect the 'like' operation in SQL to which Contains maps to skip the null values." That should've been my first clue.&lt;/P>
+&lt;P>Clue #2 was when I added the null check into my Where expression and found that their were far fewer results than I expected. Some experimentation revealed that the case of the category string mattered. "Hm. That's really strange," I thought. "By default, the 'like' operation doesn't care about case." Second clue unnoticed.&lt;/P>
+&lt;P>My 3rd and final clue was that even though my site was only showing a fraction of the values I knew where in the database, it had slowed to a crawl. By now, those of you experienced with LINQ to&amp;nbsp;Entities/SQL are hollering from the audience: "Don't go into the woods alone! IEnumerable kills all the benefits of IQueryable!"&lt;/P>
+&lt;P>See, what I'd done was unwittingly switched from LINQ to Entities, which takes my C# expressions and translates them into SQL, and was now running LINQ to Objects, which executes my expressions directly.&lt;/P>
+&lt;P>"But that can't be," I thought, getting hot under the collar (I was wearing a dress shirt that day -- the girlfriend likes me to look dapper!). "To move from LINQ to Entities/SQL to LINQ to Objects, I thought I had to be explicit and use a method like ToList() or ToArray()." Au contraire mon fraire (the girlfriend also really likes France).&lt;/P>
+&lt;P>Here's what I expected to be happening. If I have an expression like "db.Posts" and I execute that expression by doing a foreach, I expect the SQL produced by LINQ to Entities/SQL to look like this:&lt;/P>&lt;PRE>select * from Posts&lt;/PRE>
+&lt;P>If I add a Where clause, I expect the SQL to be modified:&lt;/P>&lt;PRE>select * from Posts where Category like '%whatever%'&lt;/PRE>
+&lt;P>Further, if I do a Count on the whole thing, e.g.&lt;/P>&lt;PRE>db.Posts.Where(p =&amp;gt; p.Contains(category)).Count()&lt;/PRE>
+&lt;P>I expect that to turn into the following SQL:&lt;/P>&lt;PRE>select count(*) from Posts where Category like '%whatever%'&lt;/PRE>
+&lt;P>And that's all true if I keep things to just "var" but I wasn't -- I was being clever and building functions to build up my queries. And because I couldn't use "var" as a function parameter, I had to pick a type. I picked the wrong one: IEnumerable.&lt;/P>
+&lt;P>The problem with IEnumerable is that it doesn't have enough information to support the building up of queries. Let's take a look at the extension method of Count over an IEnumerable:&lt;/P>&lt;PRE>public static int Count&amp;lt;TSource&amp;gt;(this IEnumerable&amp;lt;TSource&amp;gt; source) {&lt;BR>  ...&lt;BR>  int num = 0;&lt;BR>&amp;nbsp;&amp;nbsp;using (IEnumerator&amp;lt;TSource&amp;gt; enumerator = source.GetEnumerator()) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; while (enumerator.MoveNext()) { num++; }&lt;BR>&amp;nbsp;&amp;nbsp;}&lt;BR>&amp;nbsp;&amp;nbsp;return num;&lt;BR>}&lt;/PRE>
+&lt;P>See? It's not composing the source IEnumerable over which it's operating -- it's executing the enumerator and counting the results. Further, since our example IEnumerator was a Where statement, which was in turn a accessing the list of Posts from the database, the effect was filtering in the Where over objects constituted from the following SQL:&lt;/P>&lt;PRE>select * from Posts&lt;/PRE>
+&lt;P>How did I see that? Well, I tried hooking up the supremely useful SQL Profiler to my ISP's database that was holding the data, but I didn't have permission. Luckily, the SQL tab in &lt;A href="http://linqpad.net">LinqPad&lt;/A> will show me what SQL is being executed and it showed me just that (or rather, the slightly more verbose and more correct SQL that LINQ to Entities generates in these circumstances).&lt;/P>
+&lt;P>Now, I had a problem. I didn't want to pass around IEnumerable, because clearly that's slowing things down. A lot. On the other hand, I don't want to use&amp;nbsp;ObjectSet&amp;lt;Post&amp;gt; because it doesn't compose, i.e. Where doesn't return that. What is the right interface to use to compose separate expressions into a single SQL statement? As you've probably guessed by now from the title of this post, the answer is: IQueryable.&lt;/P>
+&lt;P>Unlike IEnumerable, IQueryable exposes the underlying expression so that it can be composed by the caller. In fact, if you look at the IQueryable implementation of the Count extension method, you'll see something very different:&lt;/P>&lt;PRE>public static int Count&amp;lt;TSource&amp;gt;(this IQueryable&amp;lt;TSource&amp;gt; source) {&lt;BR>&amp;nbsp; ...&lt;BR>&amp;nbsp; return source.Provider.Execute&amp;lt;int&amp;gt;(&lt;BR>    Expression.Call(null,&lt;BR>      ((MethodInfo) MethodBase.GetCurrentMethod()).&lt;BR>      MakeGenericMethod(&lt;BR>        new Type[] { typeof(TSource) }),&lt;BR>        new Expression[] { source.Expression }));&lt;BR>}&lt;/PRE>
+&lt;P>This code isn't exactly intuitive, but what's happening is that we're forming an expression which is composed of whatever expression is exposed by the IQueryable we're operating over and the Count method, which we're then implementing. To get this code path to execute for our example, we simply have to replace the use of IEnumerable with IQueryable:&lt;/P>&lt;PRE>&lt;STRONG>IQueryable&lt;/STRONG>&amp;lt;Post&amp;gt; FilterByCategory(&lt;STRONG>IQueryable&lt;/STRONG>&amp;lt;Post&amp;gt; posts, string category) {&lt;BR>&amp;nbsp; if( !string.IsNullOrEmpty(category) ) {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; return posts.Where(p =&amp;gt; p.Category.Contains(category));&lt;BR>&amp;nbsp; }&lt;BR>}&lt;BR>...&lt;BR>&amp;nbsp; var posts = FilterByCategory(db.Posts, category);&lt;BR>&amp;nbsp; int count = posts.Count();&lt;BR>...&lt;/PRE>
+&lt;P>Notice that none of the actual code changes. However, this new code runs much faster and with the case- and null-insensitivity built into the 'like' operator in SQL instead of semantics of the Contains method in LINQ to Objects.&lt;/P>
+&lt;P>The way it works is that we stack one IQueryable implementation onto another, in our case Count works on the Where which works on the ObjectSet returned from the Posts property on the object context (ObjectSet itself is an IQueryable). Because each outer IQueryable is reaching into the expression exposed by the inner IQueryable, it's only the outermost one -- Count in our example -- that causes the execution (foreach would also do it, as would ToList() or ToArray()).&lt;/P>
+&lt;P>Using IEnumerable, I was pulling back the ~3000 posts from my blog, then filtering them on the client-side and then doing a count of that.&lt;STRONG>With IQueryable, I execute the complete query on the server-side:&lt;/STRONG>&lt;/P>&lt;PRE>select count(*) from Posts where Category like '%whatever%'&lt;/PRE>
+&lt;P>And, as our felon friend Ms. Stewart would say: "that's a good thing."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2339</id>
+    <title>College info for my sophomore</title>
+    <updated>2010-04-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2010-04-02T07:00:00.000Z</published>
+    <summary>I went to a college planning sessions at my sons' high school not because I'm hung up on getting my Sophomore into a top school, but because I thought I'd get a jump on things. I learned I was actually behind. For one, I learned that the high school has an online system that will do some amazing things: It will give my son a personality test and an interest test. From those tests, it will tell him what kinds of careers he might want to consider. Based on those careers, what major should he have. From the ma...</summary>
+    <content type="html">&lt;h1>College info for my sophomore&lt;/h1>
+&lt;P>I went to a college planning sessions at my sons' high school not because I'm hung up on getting my Sophomore into a top school, but because I thought I'd get a jump on things. I learned I was actually behind.&lt;/P>
+&lt;P>For one, I learned that the high school has an online system that will do some amazing things:&lt;/P>
+&lt;UL>
+&lt;LI>It will give my son a personality test and an interest test.&lt;/LI>
+&lt;LI>From those tests, it will tell him what kinds of careers he might want to consider.&lt;/LI>
+&lt;LI>Based on those careers, what major should he have.&lt;/LI>
+&lt;LI>From the major, what schools around the country offer it.&lt;/LI>
+&lt;LI>In those schools, what the entrance requirements are.&lt;/LI>&lt;/UL>
+&lt;P>That means that my son can answer questions about personality and interests and draw a straight line through to what he needs to do to get into a school so he can learn to do the jobs he'll like and be good at. Holy cow. We didn't have anything like that when I was a kid.&lt;/P>
+&lt;P>Further, the online system has two complete SAT and ACT tests in it, so, along with the PSAT that he's already taking, he can do a practice ACT, figure out which test he's best at (my 34 ACT score was way better than my 1240 SATs) and just take that test, since most schools these days take both SAT or ACT results.&lt;/P>
+&lt;P>This is all freely provided by the high school and, in fact, they have counseling sessions with the students at each grade level for them to get the most from this system.&lt;/P>
+&lt;P>It's no wonder that 93% of students from this high school go on to 4 or 2-year college degree programs.&lt;/P>
+&lt;P>That was the good part.&lt;/P>
+&lt;P>The scary part is that my eldest, half way through his Sophomore year, is essentially half-way through his high school career. Colleges only see their grades through the end of Junior year, since most college applications are due in the middle of January of their Senior year at the latest. I have to sit down with my son and have the conversation about how "even if you get a 4.0 from now on, the best grades you can have are..."&lt;/P>
+&lt;P>Is it just me or is the world moving faster with each passing day?&lt;/P></content>
+  </entry>
+</feed>

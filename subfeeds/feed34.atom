@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed34.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed33.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed35.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed34.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1926</id>
+    <title>George Carlin's Incomplete List of Impolite Words</title>
+    <updated>2005-12-29T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-12-29T08:00:00.000Z</published>
+    <summary>DISCLAIMER: Obviously, this completely violates George Carlin's copyright, but I purchased the $80 CD box set and it wasn't on there, so I feel like I'm owed. Also, the audio is in RealMedia (.rm) audio format, whose player may have been the world's most aggressive piece of mainstream software before spyware became a plague to rival locusts and frogs falling from the sky, but a quick batch processing pass with GoldWave on the one computer in my network with a RealMedia audio codec installed and I've got the...</summary>
+    <content type="html">&lt;h1>George Carlin's Incomplete List of Impolite Words&lt;/h1>
+&lt;P>&lt;EM>&lt;STRONG>DISCLAIMER: Obviously, &lt;/STRONG>&lt;/EM>&lt;A href="http://www.geocities.com/RainForest/Vines/1521/carlin_audio.html">&lt;EM>&lt;STRONG>this&lt;/STRONG>&lt;/EM>&lt;/A>&lt;EM>&lt;STRONG> completely violates George Carlin's copyright, but I purchased &lt;/STRONG>&lt;/EM>&lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/B0000206AF/">&lt;EM>&lt;STRONG>the $80 CD box set&lt;/STRONG>&lt;/EM>&lt;/A>&lt;EM>&lt;STRONG> and it wasn't on there, so I feel like I'm owed. Also, the audio is in RealMedia (.rm) audio format, whose player may have been the world's most aggressive piece of mainstream software before spyware became a plague to rival locusts and frogs falling from the sky, but a quick batch processing pass with &lt;/STRONG>&lt;/EM>&lt;A href="http://www.goldwave.com/">&lt;EM>&lt;STRONG>GoldWave&lt;/STRONG>&lt;/EM>&lt;/A>&lt;EM>&lt;STRONG> on the one computer in my network with a RealMedia audio codec installed and I've got the MP3 version. &lt;FONT color=#ff0000>Finally, &lt;/FONT>&lt;/STRONG>&lt;/EM>&lt;A href="http://www.geocities.com/RainForest/Vines/1521/carlin_audio.html">&lt;EM>&lt;STRONG>&lt;FONT color=#ff0000>this&lt;/FONT>&lt;/STRONG>&lt;/EM>&lt;/A>&lt;EM>&lt;STRONG>&lt;FONT color=#ff0000> is completely work unsafe and you shouldn't even think of looking at &lt;/FONT>&lt;/STRONG>&lt;/EM>&lt;A href="http://www.geocities.com/RainForest/Vines/1521/carlin_audio.html">&lt;EM>&lt;STRONG>&lt;FONT color=#ff0000>this web page&lt;/FONT>&lt;/STRONG>&lt;/EM>&lt;/A>&lt;EM>&lt;STRONG>&lt;FONT color=#ff0000> at work, let alone listening to the file in question.&lt;/FONT>&lt;/STRONG>&lt;/EM>&lt;/P>
+&lt;P>I can't believe that after all these years, I still find &lt;A href="http://www.geocities.com/RainForest/Vines/1521/carlin_audio.html">George Carlin's Incomplete List of Impolite Words&lt;/A> amusing. It makes&amp;nbsp;&lt;A href="http://www.robrob8.com/song_parody/dl_songs2/petnamesforgenatalia.mp3">Tom Green's Pet Names for Genitalia&lt;/A>&amp;nbsp;seem like a poem you'd write on a mother's day card. For your grandmother. On a dialysis machine.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1928</id>
+    <title>Dirty Publishing Secret: Indexes Suck</title>
+    <updated>2005-12-29T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-12-29T08:00:00.000Z</published>
+    <summary>I hate to say it, but indexes are the one place where I skimp when writing a book. I go round and round on sentence structure, figures, story, flow, coverages, what to cover, what to leave out, section headings and all of the other minutia that goes with writing a book, but I never bother with the index. The index is one of those things where, as an author, you can write the index yourself, complete with page numbers (added manually) or your can let the publisher outsource it (although be careful when signi...</summary>
+    <content type="html">&lt;h1>Dirty Publishing Secret: Indexes Suck&lt;/h1>
+&lt;P>I hate to say it, but indexes are the one place where I skimp when writing a book. I go round and round on sentence structure, figures, story, flow, coverages, what to cover, what to leave out, section headings and all of the other minutia that goes with writing a book, but I never bother with the index.&lt;/P>
+&lt;P>The index is one of those things where, as an author, you can write the index yourself, complete with page numbers (added manually) or your can let the publisher outsource it (although be careful when signing the contract -- some publishers will charge the author the outsourcing fee!). So, for no work, I can get something that's OK, but generates some complaints (maybe 1 out of 20 is about the index) and let &lt;A href="http://safari.oreilly.com/">Safari&lt;/A>, Amazon and Google be the full-text search equivalent (even good indexes suck compared to that) or I can do a *ton* of work to reduce the number of complaints to 1 out of 30 (this is just a guess but it nicely justifies not doing the work, don't you think? : ). As it turns out, the publisher will let you proof an index, but I have yet to figure out how to do that.&lt;/P>
+&lt;P>Anyway, that's why most indexes suck. Sorry. I think you should read my books cover-to-cover, memorizing as you go, eliminating the need for an index anyway. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1925</id>
+    <title>PM Skill #2: Building Consensus</title>
+    <updated>2005-12-28T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-12-28T08:00:00.000Z</published>
+    <summary>I know the phrase "building consensus" is a touchy, feelie term, but it's the best description of one of the most important skills a PM can have. As a PM, you've often got responsibility but no authority, which means you have to spend time convincing everyone that the work you need done is in their best interests to do. Getting a whole group of people pointed in the right direction is the "consensus" part. The "building" part is how you get there. One way to build consensus is to hole up in your office for ...</summary>
+    <content type="html">&lt;h1>PM Skill #2: Building Consensus&lt;/h1>
+&lt;P>I know the phrase "building consensus" is a touchy, feelie term, but it's the best description of one of the most important skills a PM can have. As a PM, you've often got responsibility but no authority, which means you have to spend time convincing everyone that the work you need done is in their best interests to do. Getting a whole group of people pointed in the right direction is the "consensus" part. The "building" part is how you get there.&lt;/P>
+&lt;P>One way to build consensus is to hole up in your office for days on end, drafting a plan down to the task and sub-task level, emerging only when you've got everything just right, presenting it to the team in one, fell swoop. I'll call this the "engineering way" of building consensus, because it seems to be the first reflex of software engineers new to the PM world. Unfortunately, this way almost never works. The first problem with this technique is obvious: there ain't no way your plan is going to survive contact with your team. They'll question the highest level assumptions that affect the next level, which affect the next level and so on. Even if, eventually, your plan was 100% the right one, you can't just jump to the end game w/o bringing your team along with you. The second, less obvious, problem with this technique is that, while you're holed up in your office, the rest of the team will have splintered into factions, going in their own directions and building their own ideas of what the team should be doing which you now have to steer them away from.&lt;/P>
+&lt;P>My preferred technique for building consensus is what I'll call "the big mess." The idea is you get the team (or a representative sample of the team) into a room and you ask the leading questions, e.g. What are we trying to accomplish? How do we get there? Who does what? How does that fit into the bigger picture? How do we involve folks outside the team? I call this technique "the big mess," because that's how it starts and it only gets better through discussion and debate, led by the PM. One nice thing is that it's usually a lot faster than holing yourself in an office, because you don't have to make all of the planning decisions yourself (sometimes you don't make *any* planning decisions), although you better be a fast hand at keeping track of the team consensus as it builds and playing it back periodically to make sure everyone's staying in sync (Oliver Sharp turned me onto &lt;A href="http://www.mindjet.com/us/">MindJet&lt;/A>'s MindManager software for this task). One downside of this technique is that it keeps the decision makers on the team from doing anything else while you're hashing through the mess, but the upside of this is that they're not off pushing into a bunch of different directions.&lt;/P>
+&lt;P>As a tweak to "the big mess" to make it a bit less messy, I like to have a small proposal to seed the process. It's always easier to start a discussion with folks telling you what they don't like about an existing set of ideas then to start with a blank sheet of paper. If this "seed" comes from my mind alone, I stop myself from holing up in my office for days by giving myself only the hour before a mess meeting to prepare such a seed. I can mitigate some of the mess with a seed that I'm willing to dig up, but I actually make things harder if I show up with a fully formed tree that needs chopping down before the team is happy (see "the engineering way" of building consensus above).&lt;/P>
+&lt;P>If I want to show up at a mess meeting with a seedling, I can spend more time nurturing my budding consensus with a bunch of pre-meeting 1:1 meetings with the decision makers on the team to get their take. This only works if I'm able to come up with something that takes the majority of folks' concerns and ideas into account and if I circle back with folks on refinements to the things we discussed before in the pre-meeting meeting. In this way, things are still a mess, but it's the PM that deals with a large part of it up front.&lt;/P>
+&lt;P>Ideally, if you have a pre-mess mess (my name for the collection of pre-mess-meeting meetings), you can show up at the mess meeting to merely tweak and ratify, but this is a rare thing indeed. If I were you, I'd be prepared for the mess and use pre-mess discussions as a way to inform how you lead the discussion.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1924</id>
+    <title>PM Skill #1: Communicate, Communicate, Communicate</title>
+    <updated>2005-12-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-12-23T08:00:00.000Z</published>
+    <summary>I think the title says it all: if you're a PM, you've got to communicate. That includes to your team, your management, your partners and your customers. As I mentioned, I'm a big fan of getting people's raw feedback with informal chats. I also like to schedule regular 1:1s with as much of the team as I can. For folks not on the immediate team, I like to give them updates at the ends of milestones in the form of a PowerPoint presentation. The outline often looks like this: Milestone Goals What we did What we...</summary>
+    <content type="html">&lt;h1>PM Skill #1: Communicate, Communicate, Communicate&lt;/h1>
+&lt;P>I think the title says it all: if you're a PM, you've got to communicate. That includes to your team, your management, your partners and your customers. As I mentioned, I'm a big fan of getting people's raw feedback with informal chats. I also like to schedule regular 1:1s with as much of the team as I can.&lt;/P>
+&lt;P>For folks not on the immediate team, I like to give them updates at the ends of milestones in the form of a PowerPoint presentation. The outline often looks like this:&lt;/P>
+&lt;UL>
+&lt;LI>Milestone Goals&lt;/LI>
+&lt;LI>What we did&lt;/LI>
+&lt;LI>What we learned&lt;/LI>
+&lt;LI>What's next (goals and activities for the next milestone)&lt;/LI>&lt;/UL>
+&lt;P>This lets folks give feedback on several levels, i.e. did we pick the right goals, did we do the right things, how do we apply what we learned, what should we do next, etc. It also gives them lots of places to tell them how their own work and requirements fits in with ours so that we can make sure we stay in sync.&lt;/P>
+&lt;P>For these kinds of presentations, you know you're not having them regularly enough if management has to ask for one or if you can't put one together in a day or two. You want folks to see you communicate proactively, not reactively.&lt;/P>
+&lt;P>For folks on the team, I like to send around weekly (or near weekly) status emails:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;STRONG>Goals&lt;/STRONG>&lt;/P>
+&lt;UL>
+&lt;LI>goal 1 (100% done)&lt;/LI>
+&lt;LI>goal 2 (50% done)&lt;/LI>
+&lt;LI>etc.&lt;/LI>&lt;/UL>
+&lt;P>&lt;STRONG>Summary&lt;/STRONG>&lt;BR>In the last week, we ...&lt;/P>
+&lt;P>&lt;STRONG>Plans&lt;/STRONG>&lt;BR>In the next week, we'll ...&lt;/P>
+&lt;P>&lt;STRONG>Tasks (from the bug database)&lt;/STRONG>&lt;BR>csells 452 12/13 Post PM Skill #1: Communication&lt;BR>...&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I also like to post each status mail internally so that folks can skip a particular status or come into the team later and still get caught up quickly (a SharePoint site is excellent for this).&lt;/P>
+&lt;P>Often it's the case that team members won't read all (or even most) of your status emails. Don't let that stop you from sending them! At the very least, it helps you keep your head around what's going on and what needs doing. Also, it's comforting for team members and management to know that status is available even if they don't read the emails, because it lets them know that someone is watching the details. Plus, when someone asks a question that's answered in the status, I tend to reply with the status email as an attachment, letting them know that someone's all over things.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1923</id>
+    <title>PM Skill #0: Know Your Job</title>
+    <updated>2005-12-22T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-12-22T08:00:00.000Z</published>
+    <summary>I've been a Program Manager (PM) at Microsoft now for about 2.5 years. Before that, I've been a managing contractor, a lead author, an engineering manager and a chief architect (both for commercial and shared source projects). Over a 12 year career, I've not only contributed to lots of shipping projects, but have lead several. Most recently, I've been applying that experience to being a PM on a real Microsoft product team, which is its own unique experience. I've only been doing it for a few months, during ...</summary>
+    <content type="html">&lt;h1>PM Skill #0: Know Your Job&lt;/h1>
+&lt;P>I've been a Program Manager (PM) at Microsoft now for about 2.5 years. Before that, I've been a managing contractor, a lead author, an engineering manager and a chief architect (both for commercial and shared source projects). Over a 12 year career, I've not only contributed to lots of shipping projects, but have lead several.&lt;/P>
+&lt;P>Most recently, I've been applying that experience to being a PM on a real Microsoft product team, which is its own unique experience. I've only been doing it for a few months, during which I spent a lot of time studying internal PM training materials and asking my exemplar PM brethern how they do it. At the same time, I've been helping a colleage get up to speed on just what it means to be a PM, so I thought I'd use this blog for what I think it's best at -- writing down what I believe and having people tell me where I got it wrong. So, consider these posts (like all posts on this site) to start with "in my opinion."&lt;/P>
+&lt;P>A&amp;nbsp;PM's job is to &lt;STRONG>ship the right thing on time and on budget, while keeping your team happy&lt;/STRONG>. There's a lot in this sentence, so let's break it down:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;STRONG>"ship" &lt;/STRONG>-- first and foremost, the job of any PM is to start with a goal, either self-imposed or assigned, and ship an implementation of that goal. If you don't ship, the rest doesn't matter.&lt;/LI>
+&lt;LI>&lt;STRONG>"the right thing" &lt;/STRONG>-- unfortunately, shipping ain't enough, you also have to ship the "right" thing by some definition of "right." This is the most ambiguous part of the job, because any one goal can have many, many implementations and even the goal might not be the right one. My personal definition of right includes getting buy in from your team, your management, your partners (internal and external) and your customers (internal and external). You're allowed to do whatever makes all those folks happy (and good lucking finding the intersection : ).&lt;/LI>
+&lt;LI>&lt;STRONG>"on time, on budget" &lt;/STRONG>-- this is all about execution. As a PM, it's your job to lead your team through planning, scheduling, resource management and delivery.&lt;/LI>
+&lt;LI>&lt;STRONG>"keeping your team happy" &lt;/STRONG>-- this one is hardest for many engineers, because it involves keeping your team happy, focused and productive. There ain't no rule book for this one, although I find a useful technique to be something widely known as "management by walking around." Many folks won't tell you how they really feel in a meeting, but if you can catch 'em on a phone call or in their office, 1:1, they'll give you their real "gut," which is vital to making sure that folks are happy, motivated and on the right track.&lt;/LI>&lt;/OL>
+&lt;P>I've got more opinions about other vital PM Skills, which I'll post as the spirit moves me, but hopefully at the rate of about 1/day 'til I'm dumped the entire contents of my brain, making room for other things. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1922</id>
+    <title>New Workspace Link for RegexDesigner</title>
+    <updated>2005-12-20T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-12-20T08:00:00.000Z</published>
+    <summary>Here. The nice folks at GotDotNet have decided in their infinite wisdom to move all of the workspaces to a new hierarchy w/o forwarding the URLs and then leaving a message behind indicating that such a thing is temporary to keep users on their toes: " Operational Troubleshooting in Progress The Gotdotnet team is aware of the current site operational issues and is working on a solution. Thanks for your patience." Anyway, due to popular demand, I've updated the GotDotNet workspaces link to the RegexDesigner a...</summary>
+    <content type="html">&lt;h1>New Workspace Link for RegexDesigner&lt;/h1>
+&lt;a href="/12425">Here&lt;/a>. &lt;P>The nice folks at GotDotNet have decided in their infinite wisdom to move all of the workspaces to a new hierarchy w/o forwarding the URLs and then leaving a message behind indicating that such a thing is temporary to keep users on their toes:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;STRONG>Operational Troubleshooting in Progress&lt;/STRONG>&lt;BR>The Gotdotnet team is aware of the current site operational issues and is working on a solution. Thanks for your patience."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Anyway, due to popular demand, I've updated &lt;A href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">the GotDotNet workspaces link to the RegexDesigner&lt;/A> and other tools. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1921</id>
+    <title>MSDN Mag: Top Ten UI Breakthroughs In WPF</title>
+    <updated>2005-12-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-12-20T08:00:00.000Z</published>
+    <summary>It goes without saying that MSDN Magazine doesn't let the authors pick the titles (who can forget Don's The Active Template Library Makes Building Compact COM Objects a Joy? : ), but what Ian and I had in mind here was 10 things that would surprise you when learning WPF and getting them in your face right up front. Enjoy. </summary>
+    <content type="html">&lt;h1>MSDN Mag: Top Ten UI Breakthroughs In WPF&lt;/h1>
+&lt;P>It goes without saying that MSDN Magazine doesn't let the authors pick the titles (who can forget Don's &lt;A href="http://www.microsoft.com/msj/0697/atl.aspx">The Active Template Library Makes Building Compact COM Objects a Joy&lt;/A>? : ), but what Ian and I had in mind here was &lt;A href="http://msdn.microsoft.com/msdnmag/issues/06/01/WindowsPresentationFoundation/default.aspx">10 things that would surprise you when learning WPF&lt;/A> and getting them in your face right up front. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1920</id>
+    <title>How come nobody says "impeach?"</title>
+    <updated>2005-12-18T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-12-18T08:00:00.000Z</published>
+    <summary>WARNING: This is my political side bubbling over. If you only want fun stuff about my kids or technology, this post ain't for you. Clinton engaged in an consensual adult act in the west wing and endured the impeachment process. Bush sics the NSA on us w/o due process, starts a war so he can look tough for his dad and continues to dismiss global warming as a myth. Why aren't we impeaching his ass? </summary>
+    <content type="html">&lt;h1>How come nobody says "impeach?"&lt;/h1>
+&lt;P>&lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>WARNING: This is my political side bubbling over. If you only want fun stuff about my kids or technology, this post ain't for you.&lt;/FONT>&lt;/EM>&lt;/STRONG>&lt;/P>
+&lt;P>Clinton engaged in an consensual adult act in the west wing and endured the impeachment process.&lt;/P>
+&lt;P>Bush sics the NSA on us w/o due process, starts a war so he can look tough for his dad and continues to dismiss global warming as a myth. Why aren't we impeaching his ass?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1919</id>
+    <title>Windows Forms 2.0 Book Samples Posted</title>
+    <updated>2005-12-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-12-16T08:00:00.000Z</published>
+    <summary>Mike did some last minute clean-up and checked in the files, so I've uploaded the code sample for the Windows Forms 2.0 book. Enjoy. </summary>
+    <content type="html">&lt;h1>Windows Forms 2.0 Book Samples Posted&lt;/h1>
+&lt;P>Mike did some last minute clean-up and checked in the files, so I've uploaded &lt;A HREF="/public/writing/wfbook/cs_2e_src2005.zip">the code sample for the Windows Forms 2.0 book&lt;/A>. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1918</id>
+    <title>Windows Forms Programming 2005 in C# Submitted!</title>
+    <updated>2005-12-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-12-16T08:00:00.000Z</published>
+    <summary>I packaged off the final chapters, figures and PDF files for submission of the WinForms 2.0 book this morning. Michael made it easy by fixing all the last minute nits I found, producing the PDFs and bundling all of the figure files together (he separated the graphics from the Word docs using a WinForms 2.0 program, of course!). In spite of the fact that I've been working on long-lead prototype coding for the last month and Mike's been moving to the US from Australia, we managed to get the book submitted a f...</summary>
+    <content type="html">&lt;h1>Windows Forms Programming 2005 in C# Submitted!&lt;/h1>
+&lt;P>I packaged off the final chapters, figures and PDF files for submission of the WinForms 2.0 book this morning. Michael made it easy by fixing all the last minute nits I found, producing the PDFs and bundling all of the figure files together (he separated the graphics from the Word docs using a WinForms 2.0 program, of course!).&lt;/P>
+&lt;P>In spite of the fact that I've been working on long-lead prototype coding for the last month and Mike's been moving to the US from Australia, we managed to get the book submitted a full 15.5 hours early (they meant midnight when they gave us a 12/16 deadline, didn't they?!?).&lt;/P>
+&lt;P>I'm so excited to get the book in your hands, that I've asked Mike to check in the files he's got checked out so that we can post the code samples ASAP. It'll still be a while before the book is in your hands, though. We took 22 months to write it, but it's the 3 months it takes to print it that always sticks in my craw the most for some reason. : )&lt;/P>
+&lt;P>Wahoo (2)!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1916</id>
+    <title>Windows Template Library (WTL) 7.5</title>
+    <updated>2005-12-09T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-12-09T08:00:00.000Z</published>
+    <summary>It looks like my old friend Nenad Stefanovic is up to his old tricks with a new version of my favorite native framework, the Windows Template Library. This will go nicely with ATL Internals, 2e, which Chris Tavares is finishing up for Brent and me. [ via Shawn Wildermuth ] </summary>
+    <content type="html">&lt;h1>Windows Template Library (WTL) 7.5&lt;/h1>
+&lt;P>It looks like my old friend Nenad Stefanovic is up to his old tricks with &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=48cb01d7-112e-46c2-bb6e-5bb2fe20e626">a new version of my favorite native framework, the Windows Template Library&lt;/A>. This will go nicely with ATL Internals, 2e, which Chris Tavares is finishing up for Brent and me.&lt;/P>
+&lt;P>[&lt;A href="http://www.adoguy.com">via Shawn Wildermuth&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1915</id>
+    <title>Updated WPF book code samples for Nov CTP</title>
+    <updated>2005-12-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-12-07T08:00:00.000Z</published>
+    <summary>Here. I've uploaded the samples for "Programming Windows Presentation Foundation" ported to the November 2005 CTP. The change notes doc is coming directly (so far, it's a pretty darn short doc).</summary>
+    <content type="html">&lt;h1>Updated WPF book code samples for Nov CTP&lt;/h1>
+&lt;a href="/wpfbook">Here&lt;/a>. I've uploaded the samples for &lt;A href="/wpfbook">"Programming Windows Presentation Foundation"&lt;/A> ported to the November 2005 CTP. The change notes doc is coming directly (so far, it's a pretty darn short doc).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1914</id>
+    <title>Wasting the Prince of Darkness</title>
+    <updated>2005-11-26T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-11-26T08:00:00.000Z</published>
+    <summary>80% of the email I get about my Microsoft interview question site (which, 2.5 years into my MS career, nobody has yet forced me to take down) isn't very fun, e.g. asking for the answers (which I don't give) or fairly pedestrian stories ("I got asked some regular questions but didn't get hired."). This one, though, is definitely worth posting. Enjoy! </summary>
+    <content type="html">&lt;h1>Wasting the Prince of Darkness&lt;/h1>
+&lt;P>80% of the email I get about &lt;A href="/tagged/interview">my Microsoft interview question site&lt;/A> (which, 2.5 years into my MS career, nobody has yet forced me to take down) isn't very fun, e.g. asking for the answers (which I don't give) or fairly pedestrian stories ("I got asked some regular questions but didn't get hired.").&lt;/P>
+&lt;P>&lt;A href="/12378">This one&lt;/A>, though, is definitely worth posting. Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12378</id>
+    <title>Wasting the Prince of Darkness</title>
+    <updated>2005-11-23T08:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2005-11-23T08:00:00.000Z</published>
+    <summary>From &amp;quot;Pete&amp;quot; (not his real name): I walked into my first technical interview at Microsoft, and before I could say anything, the woman says, Youre in an 8x8 stone corridor. I blink and sit down. Interviewer: The prince of darkness appears before you. Me: You mean, like, the devil? Interviewer: Any prince of darkness will do. Me: Ok. Interviewer: What do you do? Me: &amp;lt;pause&amp;gt; Can I run? Interviewer: Do you want to run? Me: Hmm I guess not Do I have a weapon? Interviewer: What kind of weapon do yo...</summary>
+    <content type="html">&lt;h1>Wasting the Prince of Darkness&lt;/h1>
+
+&lt;p>From &amp;quot;Pete&amp;quot; (not his real name):&lt;/p>
+&lt;blockquote>
+	&lt;p>I walked into my first technical interview at Microsoft, and before I 
+	could say anything, the woman says, Youre in an 8x8 stone corridor. I 
+	blink and sit down. &lt;/p>
+	&lt;p>Interviewer: The prince of darkness appears before you.&lt;/p>
+	&lt;p>Me: You mean, like, the devil?&lt;/p>
+	&lt;p>Interviewer: Any prince of darkness will do.&lt;/p>
+	&lt;p>Me: Ok.&lt;/p>
+	&lt;p>Interviewer: What do you do?&lt;/p>
+	&lt;p>Me: &amp;lt;pause&amp;gt; Can I run?&lt;/p>
+	&lt;p>Interviewer: Do you want to run?&lt;/p>
+	&lt;p>Me: Hmm I guess not Do I have a weapon?&lt;/p>
+	&lt;p>Interviewer: What kind of weapon do you want?&lt;/p>
+	&lt;p>Me: Um something with range?&lt;/p>
+	&lt;p>Interviewer: Like what?&lt;/p>
+	&lt;p>Me: Uh a crossbow?&lt;/p>
+	&lt;p>Interviewer: What kind of ammo do you have?&lt;/p>
+	&lt;p>Me: &amp;lt;long pause&amp;gt; Ice arrows?&lt;/p>
+	&lt;p>Interviewer: Why?&lt;/p>
+	&lt;p>Me: &amp;lt;floundering&amp;gt; Because the prince of darkness is a creature made of 
+	fire???&lt;/p>
+	&lt;p>Interviewer: Fine so what do you do next?&lt;/p>
+	&lt;p>Me: I shoot him?&lt;/p>
+	&lt;p>Interviewer: No what do you do?&lt;/p>
+	&lt;p>Me: &amp;lt;blank stare&amp;gt;&lt;/p>
+	&lt;p>Interviewer: You WASTE him! You *WASTE* the prince of darkness!!&lt;/p>
+	&lt;p>Me: &amp;lt;completely freaked out and off my game&amp;gt; &lt;i>Holy crap what have I 
+	gotten myself into.&lt;/i>&lt;/p>
+	&lt;p>She then tells me that she asks that question for two reasons. 1) Because 
+	she wants to know if the candidate is a gamer (which is apparently really 
+	important please note: Im not a gamer) and 2) because she wants her 
+	question to show up on some website. I hate to accommodate her, but this is 
+	definitely the weirdest interview question Ive ever heard of.&lt;/p>
+&lt;/blockquote>
+&lt;p>Well, here you go, weird-prince-of-darkness-wasting-lady...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1913</id>
+    <title>A C# 2.0 anon delegate "gotcha"</title>
+    <updated>2005-11-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-11-23T08:00:00.000Z</published>
+    <summary>I'm a huge fan of anonymous delegates, but I ran into a gotcha this morning when using anon delegates inside a for-loop: class Worker { &amp;nbsp; public event WorkCompleted Completed; &lt;SPAN style="FONT-SIZE: 1</summary>
+    <content type="html">&lt;h1>A C# 2.0 anon delegate "gotcha"&lt;/h1>
+&lt;P>I'm a huge fan of anonymous delegates, but I ran into a gotcha this morning when using anon delegates inside a for-loop:&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">class&lt;/SPAN>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes"> &lt;SPAN style="COLOR: teal">Worker&lt;/SPAN> {&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">event&lt;/SPAN> &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> Completed;&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">void&lt;/SPAN> DoWork() {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker: work completed"&lt;/SPAN>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">if&lt;/SPAN>( &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed != &lt;SPAN style="COLOR: blue">null&lt;/SPAN> ) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">foreach&lt;/SPAN>( &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> &lt;B style="mso-bidi-font-weight: normal">wc&lt;/B> &lt;SPAN style="COLOR: blue">in&lt;/SPAN> &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed.GetInvocationList() ) &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>wc.BeginInvoke(&lt;SPAN style="COLOR: blue">delegate&lt;/SPAN>(&lt;SPAN style="COLOR: teal">IAsyncResult&lt;/SPAN> result) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;B style="mso-bidi-font-weight: normal">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>// Use wc from surrounding context&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">int&lt;/SPAN> grade = &lt;STRONG>&lt;SPAN style="FONT-FAMILY: 'Courier New'">wc&lt;/SPAN>&lt;/STRONG>.EndInvoke(result);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker grade= {0}"&lt;/SPAN>, grade);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>},&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">null&lt;/SPAN>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">}&lt;/SPAN>&lt;/P>
+&lt;P>When I run this code, I get the follow exception:&lt;/P>&lt;PRE>&lt;FONT size=2>System.InvalidOperationException:&lt;BR>
+&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>The IAsyncResult object provided does not match&lt;BR>
+&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>this delegate.&lt;/FONT>&lt;/PRE>
+&lt;P>What's happening, of course, is that the wc variable continues to change after the dynamic invocation happens instead of the value being stored away, one for each call to BeginInvoke, as I'd intended. One fix for this problem is to pass the value I wish I could take off the stack as the async state argument:&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">class&lt;/SPAN>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes"> &lt;SPAN style="COLOR: teal">Worker&lt;/SPAN> {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">event&lt;/SPAN> &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> Completed;&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">void&lt;/SPAN> DoWork() {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker: work completed"&lt;/SPAN>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">if&lt;/SPAN>( &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed != &lt;SPAN style="COLOR: blue">null&lt;/SPAN> ) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">foreach&lt;/SPAN>( &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> &lt;B style="mso-bidi-font-weight: normal">wc&lt;/B> &lt;SPAN style="COLOR: blue">in&lt;/SPAN> &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed.GetInvocationList() ) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>wc.BeginInvoke(&lt;SPAN style="COLOR: blue">delegate&lt;/SPAN>(&lt;SPAN style="COLOR: teal">IAsyncResult&lt;/SPAN> result) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;B style="mso-bidi-font-weight: normal">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>// Pull the value out of async state&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> &lt;B style="mso-bidi-font-weight: normal">wc2&lt;/B> = (&lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN>)result.AsyncState;&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">int&lt;/SPAN> grade = &lt;B style="mso-bidi-font-weight: normal">wc2&lt;/B>.EndInvoke(result);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker grade= {0}"&lt;/SPAN>, grade);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>},&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;B style="mso-bidi-font-weight: normal">wc&lt;/B>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">}&lt;/SPAN>&lt;/P>
+&lt;P>This isn't quite the elegant code I'd like to write with anon delegates, however. I can do a little better by creating a variable on the stack specifically for use in the delegate:&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">class&lt;/SPAN>&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes"> &lt;SPAN style="COLOR: teal">Worker&lt;/SPAN> {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">event&lt;/SPAN> &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> Completed;&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">public&lt;/SPAN> &lt;SPAN style="COLOR: blue">void&lt;/SPAN> DoWork() {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker: work completed"&lt;/SPAN>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">if&lt;/SPAN>( &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed != &lt;SPAN style="COLOR: blue">null&lt;/SPAN> ) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">foreach&lt;/SPAN>( &lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> &lt;B style="mso-bidi-font-weight: normal">wc&lt;/B> &lt;SPAN style="COLOR: blue">in&lt;/SPAN> &lt;SPAN style="COLOR: blue">this&lt;/SPAN>.Completed.GetInvocationList() ) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;B style="mso-bidi-font-weight: normal">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">WorkCompleted&lt;/SPAN> wc2 = wc; // Copy wc for use in delegate&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>wc.BeginInvoke(&lt;SPAN style="COLOR: blue">delegate&lt;/SPAN>(&lt;SPAN style="COLOR: teal">IAsyncResult&lt;/SPAN> result) {&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: blue">int&lt;/SPAN> grade = &lt;B style="mso-bidi-font-weight: normal">wc2&lt;/B>.EndInvoke(result);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;SPAN style="COLOR: teal">Console&lt;/SPAN>.WriteLine(&lt;SPAN style="COLOR: maroon">"Worker grade= {0}"&lt;/SPAN>, grade);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>},&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;B style="mso-bidi-font-weight: normal">&lt;SPAN style="COLOR: blue">null&lt;/SPAN>&lt;/B>);&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">&lt;SPAN style="mso-spacerun: yes">&amp;nbsp; &lt;/SPAN>}&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none">&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'; mso-no-proof: yes">}&lt;/SPAN>&lt;/P>
+&lt;P>In this case, each time through the loop, a new variable is created on the stack specifically for that invocation of the loop and is therefore unchanged by the time the anon delegate is executed. This still isn't quite ideal, but it's not too bad.&lt;/P></content>
+  </entry>
+</feed>

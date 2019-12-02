@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed151.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed150.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed152.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed151.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/307</id>
+    <title>Project Mono Does SQL / Windows / ASP.NET</title>
+    <updated>2002-11-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-05T08:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: Project Mono can now execute SQL statements on MS SQL Server through TDS and has a bit of Windows.Forms code running on both Linux and Windows as well as a good deal of ASP.NET support. Looks like things are coming along at a decent rate.
+</summary>
+    <content type="html">&lt;h1>Project Mono Does SQL / Windows / ASP.NET&lt;/h1>
+&lt;a href="http://www.go-mono.com">Here&lt;/a>. From Jesse Ezell: Project Mono can now execute SQL statements on MS SQL Server through TDS and has a bit of Windows.Forms code running on both Linux and Windows as well as a good deal of ASP.NET support. Looks like things are coming along at a decent rate.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/306</id>
+    <title>Code that begets code</title>
+    <updated>2002-11-01T08:00:00.000Z</updated>
+    <published>2002-11-01T08:00:00.000Z</published>
+    <summary>Here. From cn: "Chris Sells, who actually created a code generation product, was unable to convince me of the importance of code generation. Why did one of my friends succeed where the other failed?" Rebuttal, please?</summary>
+    <content type="html">&lt;h1>Code that begets code&lt;/h1>
+&lt;a href="http://www.iunknown.com/Weblog/Whenlessismore.html">Here&lt;/a>. From cn: "Chris Sells, who actually created a code generation product, was unable to convince me of the importance of code generation. Why did one of my friends succeed where the other failed?"
+
+Rebuttal, please?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/304</id>
+    <title>MMC Snapin Framework</title>
+    <updated>2002-10-31T08:00:00.000Z</updated>
+    <published>2002-10-31T08:00:00.000Z</published>
+    <summary>Here. I don't know if this is new or not, but it's new to me and I know that.NET folks need to know how to plug into MMC. Jim Murphy, of Attila fame, has the solution.</summary>
+    <content type="html">&lt;h1>MMC Snapin Framework&lt;/h1>
+&lt;a href="http://www.ironringsoftware.com/DesktopDefault.aspx?PageId=19">Here&lt;/a>. I don't know if this is new or not, but it's new to me and I know that .NET folks need to know how to plug into MMC. Jim Murphy, of Attila fame, has the solution.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/303</id>
+    <title>Borland Investigating Mono for Kylix</title>
+    <updated>2002-10-31T08:00:00.000Z</updated>
+    <published>2002-10-31T08:00:00.000Z</published>
+    <summary>Here. From jt: "Borland is investigating use of Ximian Inc's Project Mono in Kylix, as a possible means for Windows developers to move.NET applications to Linux." </summary>
+    <content type="html">&lt;h1>Borland Investigating Mono for Kylix&lt;/h1>
+&lt;a href="http://www.theregus.com/content/4/26813.html">Here&lt;/a>. From jt: "Borland is investigating use of Ximian Inc's Project Mono in Kylix, as a possible means for Windows developers to move .NET applications to Linux." </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/305</id>
+    <title>New Editor for ORA's .NET DevCenter</title>
+    <updated>2002-10-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-31T08:00:00.000Z</published>
+    <summary>Here. Shawn's a long-time friend of mine and an excellent writer who understands the importance of story, even for technical pieces. Congrats, Shawn!</summary>
+    <content type="html">&lt;h1>New Editor for ORA's .NET DevCenter&lt;/h1>
+&lt;a href="http://www.oreillynet.com/pub/wlg/2198">Here&lt;/a>. Shawn's a long-time friend of mine and an excellent writer who understands the importance of story, even for technical pieces. Congrats, Shawn!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/301</id>
+    <title>Pet Shop 2.0: Java vs. .NET</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. The Middleware Company ran a comparison between the Pet Shop v2.0 application for both Java and.NET, both with the same features and both with the same aim at building something to use as a "best practice" sample while still being as responsive and scalable as possible. Pet Shop v2.0 was both company's attempt at winning the comparision run by the Middleware Company. My reading of this report is that.NET kicked Java's hinder in every single measure, from through-put and responsiveness to lines of code...</summary>
+    <content type="html">&lt;h1>Pet Shop 2.0: Java vs. .NET&lt;/h1>
+&lt;a href="http://www.middleware-company.com/documents/j2eedotnetbench.pdf">Here&lt;/a>. The Middleware Company ran a comparison between the Pet Shop v2.0 application for both Java and .NET, both with the same features and both with the same aim at building something to use as a "best practice" sample while still being as responsive and scalable as possible. Pet Shop v2.0 was both company's attempt at winning the comparision run by the Middleware Company.
+
+My reading of this report is that .NET kicked Java's hinder in every single measure, from through-put and responsiveness to lines of code and lines of configuration required to build and run the app.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/298</id>
+    <title>A Giant Sucking Sound</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. NAFTA isn't the only one causing jobs to migrate. Microsoft is doing it, too.</summary>
+    <content type="html">&lt;h1>A Giant Sucking Sound&lt;/h1>
+&lt;a href="/12571">Here&lt;/a>. NAFTA isn't the only one causing jobs to migrate. Microsoft is doing it, too.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/295</id>
+    <title>Why We Don't Build Software for Users</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. I'm a big Alan Cooper fan and this is a recent interview.</summary>
+    <content type="html">&lt;h1>Why We Don't Build Software for Users&lt;/h1>
+&lt;a href="http://www.fawcette.com/vsm/2002_12/online/the/">Here&lt;/a>. I'm a big Alan Cooper fan and this is a recent interview.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/290</id>
+    <title>Type Safety in a Loosely Coupled World</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. In which I'm inspired by Tim Ewald and come to realize that runtime type checking is a very good thing.</summary>
+    <content type="html">&lt;h1>Type Safety in a Loosely Coupled World&lt;/h1>
+&lt;a href="/12572">Here&lt;/a>. In which I'm inspired by Tim Ewald and come to realize that runtime type checking is a very good thing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/302</id>
+    <title>Mindreef SOAPscope Public Beta 2 Available</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "SOAPscope is designed to help diagnose problems developing XML Web Services by logging message traffic and helping you find problems with the SOAP messages and WSDL." Mindreef did a very cool demo of their diagnostics tools at the DevCon and it was a big hit. Recommended.</summary>
+    <content type="html">&lt;h1>Mindreef SOAPscope Public Beta 2 Available&lt;/h1>
+&lt;a href="http://www.mindreef.com/beta2_application.php">Here&lt;/a>. "SOAPscope is designed to help diagnose problems developing XML Web Services by logging message traffic and helping you find problems with the SOAP messages and WSDL."
+
+Mindreef did a very cool demo of their diagnostics tools at the DevCon and it was a big hit. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/293</id>
+    <title>.NET Pet Shop 2</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. ".NET Pet Shop 2.0 is a reference application for building highly scalable ASP.NET Web applications. The application is functionally equivalent to the Sun® Microsystems Java™ Pet Store 1.2 blueprint application, and can be used to compare the coding concepts, basic application server features, and architectures of.NET and J2EE™. It also includes benchmark data for comparison."</summary>
+    <content type="html">&lt;h1>.NET Pet Shop 2&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/psent.asp">Here&lt;/a>. ".NET Pet Shop 2.0 is a reference application for building highly scalable ASP.NET Web applications. The application is functionally equivalent to the Sun® Microsystems Java™ Pet Store 1.2 blueprint application, and can be used to compare the coding concepts, basic application server features, and architectures of .NET and J2EE™. It also includes benchmark data for comparison."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/299</id>
+    <title>X-Code .NET: writing code with code for .NET</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "X-Code.NET is a successor to the popular "X-Code" codegen language, which was included as part of the excellent-but-now-defunct product from DevelopMentor known as Gen. X-Code.NET is like classic X-Code, except that it's based on JScript.NET instead of classic JScript." I'm very happy to see Shawn, a valued member of the DevelopMentor Software team that built Gen in the first place, take up this project. You go, Shawn!</summary>
+    <content type="html">&lt;h1>X-Code .NET: writing code with code for .NET&lt;/h1>
+&lt;a href="http://www.arithex.com/xcc.html">Here&lt;/a>. "X-Code .NET is a successor to the popular "X-Code" codegen language, which was included as part of the excellent-but-now-defunct product from DevelopMentor known as Gen&lt;X>.  X-Code .NET is like classic X-Code, except that it's based on JScript .NET instead of classic JScript."
+
+I'm very happy to see Shawn, a valued member of the DevelopMentor Software team that built Gen&lt;X> in the first place, take up this project. You go, Shawn!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/292</id>
+    <title>Essential .NET Security</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. Keith Brown has *finally* decided to write Essential.NET Security and he'll be posting it to HTML as he writes it. He's already got the ASP.NET security chapter posted. Wahoo!</summary>
+    <content type="html">&lt;h1>Essential .NET Security&lt;/h1>
+&lt;a href="http://www.develop.com/kbrown/book/default.htm">Here&lt;/a>. Keith Brown has *finally* decided to write Essential .NET Security and he'll be posting it to HTML as he writes it. He's already got the ASP.NET security chapter posted. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/288</id>
+    <title>Free, Non-Commercial Edition of Eiffel for .NET</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. "Eiffel ENViSioN!TM is a plug-in for Visual Studio.NET - its icon appears in the same place the other languages do, but that's where the similarity ends. Eiffel ENViSioN! enables you to use the powerful features of the Eiffel language, including Design by ContractTM (a means for making super-robust software, native only to Eiffel), multiple inheritance, generics, and many others. You can use it to be more productive than you ever dreamed. (Eiffel users report that they can produce 3-10x as much high-q...</summary>
+    <content type="html">&lt;h1>Free, Non-Commercial Edition of Eiffel for .NET&lt;/h1>
+&lt;a href="http://www.eiffel.com/downloads/">Here&lt;/a>. "Eiffel ENViSioN!TM is a plug-in for Visual Studio .NET - its icon appears in the same place the other languages do, but that's where the similarity ends. Eiffel ENViSioN! enables you to use the powerful features of the Eiffel language, including Design by ContractTM (a means for making super-robust software, native only to Eiffel), multiple inheritance, generics, and many others. You can use it to be more productive than you ever dreamed. (Eiffel users report that they can produce 3-10x as much high-quality software as they can using any other language and/or tools.)"
+
+Eiffel has two features that I wish C# had: design by contract and generics. While the free edition is limited when compared to the non-free edition, it won't expire. If you'd like to see how Bertrand Meyer thinks you ought to program w/o leaving the comfort of .NET, check it out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/289</id>
+    <title>Too Many Web Services</title>
+    <updated>2002-10-29T08:00:00.000Z</updated>
+    <published>2002-10-29T08:00:00.000Z</published>
+    <summary>Here. Here's the "Top 10 Reasons You Know Youve Been Hacking Too Many Web Services..." that Tim and I presented at the Web Services DevCon (which was very fun, btw).</summary>
+    <content type="html">&lt;h1>Too Many Web Services&lt;/h1>
+&lt;a href="/12357">Here&lt;/a>. Here's the "Top 10 Reasons You Know Youve Been Hacking Too Many Web Services..." that Tim and I presented at the Web Services DevCon (which was very fun, btw).</content>
+  </entry>
+</feed>

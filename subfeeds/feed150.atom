@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed150.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed149.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed151.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed150.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/320</id>
+    <title>Runtime code generation in JVM and CLR</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. From Hun Boon Teo: "The Java Virtual Machine (JVM) and the Common Language Runtime (CLR) are bytecode-based abstract stack machines. Since modern implementations include highly optimizing just-in-time (JIT) compilers, these machines are excellent targets for runtime code generation: the generation of new program code just prior to its execution." </summary>
+    <content type="html">&lt;h1>Runtime code generation in JVM and CLR&lt;/h1>
+&lt;a href="http://www.dina.kvl.dk/~sestoft/rtcg/index.html">Here&lt;/a>. From Hun Boon Teo: "The Java Virtual Machine (JVM) and the Common Language Runtime (CLR) are bytecode-based abstract stack machines. Since modern implementations include highly optimizing just-in-time (JIT) compilers, these machines are excellent targets for runtime code generation: the generation of new program code just prior to its execution." </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/321</id>
+    <title>VBTV Episode 2: DO NOT WATCH THIS SHOW!</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. Actually, I think you probably should watch it. I find VBTV very amusing. : )</summary>
+    <content type="html">&lt;h1>VBTV Episode 2: DO NOT WATCH THIS SHOW!&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vbtv/default.asp">Here&lt;/a>. Actually, I think you probably should watch it. I find VBTV very amusing. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/322</id>
+    <title>Increasing Permissions for WinForms Smart Clients</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. "Chris Sells discusses permissions in.NET and how you can adapt the object model to protect smart clients while allowing well-known assemblies or sites to have additional permissions to provide users with additional services."</summary>
+    <content type="html">&lt;h1>Increasing Permissions for WinForms Smart Clients&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms11122002.asp">Here&lt;/a>. "Chris Sells discusses permissions in .NET and how you can adapt the object model to protect smart clients while allowing well-known assemblies or sites to have additional permissions to provide users with additional services."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/324</id>
+    <title>WinForms Data Validation</title>
+    <updated>2002-11-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-14T08:00:00.000Z</published>
+    <summary>Here. A little essay on the WinForms Validating event.</summary>
+    <content type="html">&lt;h1>WinForms Data Validation&lt;/h1>
+&lt;a href="/public/writing/winformsDataValidation.htm">Here&lt;/a>. A little essay on the WinForms Validating event.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/317</id>
+    <title>New C# features: whitepaper now available</title>
+    <updated>2002-11-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-13T08:00:00.000Z</published>
+    <summary>Here. From Andrew Webb: The whitepaper (a Word file) is now available. And the Demo Files link, previously dead, now works.</summary>
+    <content type="html">&lt;h1>New C# features: whitepaper now available&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/csharp/learn/Future/default.aspx">Here&lt;/a>. From Andrew Webb: The whitepaper (a Word file) is now available.  And the Demo Files link, previously dead, now works.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/316</id>
+    <title>The Everett Visual C++.NET features</title>
+    <updated>2002-11-11T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-11T08:00:00.000Z</published>
+    <summary>Here. Sam Gentile's got the scoop on the Everett release updates to VC++, which he lists as: -98% ANSI/ISO Compliance -Forms Designer for Managed C++ -Security Features -Optimizer Improvements particuarly in floating point He's got the details. Check it out.</summary>
+    <content type="html">&lt;h1>The Everett Visual C++.NET features&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0105852/2002/11/11.html#a1441">Here&lt;/a>. Sam Gentile's got the scoop on the Everett release updates to VC++, which he lists as:
+
+-98% ANSI/ISO Compliance 
+-Forms Designer for Managed C++ 
+-Security Features 
+-Optimizer Improvements particuarly in floating point
+
+He's got the details. Check it out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12570</id>
+    <title>Hierarchy Doesn't Scale</title>
+    <updated>2002-11-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-11-11T08:00:00.000Z</published>
+    <summary>Sun, November 11, 2002 I was just chatting with a friend of mine and he said that he really wanted to write a namespace extension so that he could expose a hierarchy of data in the shell. Back when namespace extensions were introduced with Win95, I thought that everything could be integrated into the shell, making the shell the last application. Sometime in the last seven years, I've come to hate that idea. As a hardcore computer geek, I've embraced the hierarchy organizational styles in three major applica...</summary>
+    <content type="html">&lt;h1>Hierarchy Doesn't Scale&lt;/h1>
+&lt;p>&lt;i>Sun, &lt;span class="created">November 11, 2002&lt;/span>&lt;/i>&lt;/p>
+        &lt;p>I was just chatting with a friend of mine and he said that he really 
+        wanted to write a namespace extension so that he could expose a 
+        hierarchy of data in the shell. Back when namespace extensions were 
+        introduced with Win95, I thought that everything could be 
+        integrated into the shell, making the shell the last application. 
+        Sometime in the last seven years, I've come to hate that idea. As a 
+        hardcore computer geek, I've embraced the hierarchy organizational 
+        styles in three major applications:&lt;/p>
+        &lt;ol>
+          &lt;li>Email folders (I keep things filed in a multi-level hierarchy and 
+          use my Inbox as a to do list)&lt;/li>
+          &lt;li>The file system (I keep things filed in a multi-level hierarchy 
+          and use my Desktop as a to do list)&lt;/li>
+          &lt;li>Free-form outline program (I keep things filed in a multi-level 
+          hierarchy and use a file called todo.txt as a to do list)&lt;/li>
+        &lt;/ol>
+        &lt;p>As anal as I am about arranging and categorizing things into their 
+        various hierarchies (and as many places as I've spread my to do list to, 
+        apparently), the hierarchy only helps me about 50% of the time. I spend 
+        just as much time searching for things as I do going right to where it 
+        &amp;quot;should&amp;quot; be.&lt;/p>
+        &lt;p>The hierarchy used to be lots more helpful, but as the data I keep 
+        around grows over the years, it becomes less and less possible to 
+        remember where something really &amp;quot;belongs&amp;quot; and to find it there. In fact, 
+        I've come to believe that a hierarchy is a terrible way to keep data 
+        organized at all. A hierarchy is really just a way to associate key 
+        words (called &amp;quot;folder&amp;quot; names) with hunks of data (called &amp;quot;files&amp;quot;) and 
+        then only showing them in a very limited way. Searching is a 
+        possibility, but it either takes a long time (because file indexing is 
+        turned off) or it misses files (because file indexing is turned on -- 
+        what's with that, anyway?). Searching creates an ad hoc logical folder, 
+        but there's no way in the shell to create a permanent logical folder 
+        with custom content.&lt;/p>
+        &lt;p>The basic hierarchy structure is easy to understand, but things 
+        become much more powerful if I can keep one hunk of data in multiple 
+        locations. Some versions of the Windows file system support this , but 
+        the shell doesn't (although it can be simulated with shortcuts). Also, 
+        the same kind of &amp;quot;pivot table&amp;quot; capability that Excel provides, mixed 
+        with a much faster, more flexibly searching capability of a database, is 
+        much closer to what I'm after. Hopefully Longhorn will provide something 
+        like this.&lt;/p>
+        &lt;p>Also, being able to search all three of 
+        my hierarchical&amp;nbsp; data sources at the same time would be pretty damn 
+        useful, but one thing at a time...&lt;/p>
+        &lt;p>
+        &lt;a href="/328">
+		Discuss&lt;/a>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/315</id>
+    <title>Microsoft PowerToys for Tablet PCs</title>
+    <updated>2002-11-09T08:00:00.000Z</updated>
+    <published>2002-11-09T08:00:00.000Z</published>
+    <summary>Here. Just fun stuff like Pool and Tic Tac Toe, but it makes me pine for a TablePC all the more...</summary>
+    <content type="html">&lt;h1>Microsoft PowerToys for Tablet PCs&lt;/h1>
+&lt;a href="http://www.microsoft.com/windowsxp/tabletpc/downloads/powertoys.asp?FinishURL=%2Fdownloads%2Frelease%2Easp%3FReleaseID%3D45058%26area%3Dsearch%26ordinal%3D17%26redirect%3Dno">Here&lt;/a>. Just fun stuff like Pool and Tic Tac Toe, but it makes me pine for a TablePC all the more...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/314</id>
+    <title>New C# Language Features (someday)</title>
+    <updated>2002-11-09T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-09T08:00:00.000Z</published>
+    <summary>Here. "On November 7th, at the OOPSLA Conference in Seattle, WA, C# creator Anders Hejlsberg unveiled several potential language features for the next major release of Visual C#.NET. The four primary features Anders spoke about were: -Generics, a form of C++ templates that makes reusing existing code easier
+-Iterators, a construct that makes traversing collections of data significantly faster and easier
+-Anonymous methods, an easier way to perform simple tasks using delegates
+-Partial types, a means for pro...</summary>
+    <content type="html">&lt;h1>New C# Language Features (someday)&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/csharp/learn/Future/default.aspx">Here&lt;/a>. "On November 7th, at the OOPSLA Conference in Seattle, WA, C# creator Anders Hejlsberg unveiled several potential language features for the next major release of Visual C# .NET.  The four primary features Anders spoke about were: 
+
+-Generics, a form of C++ templates that makes reusing existing code easier
+-Iterators, a construct that makes traversing collections of data significantly faster and easier
+-Anonymous methods, an easier way to perform simple tasks using delegates
+-Partial types, a means for programmers to split code across multiple files"
+
+All of these features sound really cool (not just generics), but unfortunately the presentation included no mention of when they'd actually ship...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/313</id>
+    <title>Pragmatic ADO.NET in stock!</title>
+    <updated>2002-11-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-08T08:00:00.000Z</published>
+    <summary>Here. Shawn Wildermuth's new book, Pragmatic ADO.NET: Data Access for the Internet World, is awailable now. Shawn's a long-time friend of mine and I wrote the forward to the book, so I'm hardly unbiased, but it rocks! Enjoy.</summary>
+    <content type="html">&lt;h1>Pragmatic ADO.NET in stock!&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201745682/chrissells">Here&lt;/a>. Shawn Wildermuth's new book, Pragmatic ADO.NET: Data Access for the Internet World, is awailable now. Shawn's a long-time friend of mine and I wrote the forward to the book, so I'm hardly unbiased, but it rocks! Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/312</id>
+    <title>Visual C++ and C# Updates In Everette</title>
+    <updated>2002-11-08T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-08T08:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: That release of Visual C# will include four new features: support for "generics," which is a form of a C++ template that can help C# developers build software more quickly; support for "iterators," which help developers create new code; anonymous methods, which ease development of what’s known as "event-driven" code; and support for "partial types," which make it easier to use C# for building large projects.</summary>
+    <content type="html">&lt;h1>Visual C++ and C# Updates In Everette&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1104-965046.html">Here&lt;/a>. From Jesse Ezell: That release of Visual C# will include four new features: support for "generics," which is a form of a C++ template that can help C# developers build software more quickly; support for "iterators," which help developers create new code; anonymous methods, which ease development of what’s known as "event-driven" code; and support for "partial types," which make it easier to use C# for building large projects.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/311</id>
+    <title>Regular Expressions in .NET</title>
+    <updated>2002-11-07T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-11-07T08:00:00.000Z</published>
+    <summary>Here. Michael Weinhardt and Chris Sells plumb the depths of.NET's regular expression engine.</summary>
+    <content type="html">&lt;h1>Regular Expressions in .NET&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7547/win0212d/0212d.htm?temp=dEMIvJcUWy">Here&lt;/a>. Michael Weinhardt and Chris Sells plumb the depths of .NET's regular expression engine.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/309</id>
+    <title>Beta 2 of the Microsoft .NET Speech SDK</title>
+    <updated>2002-11-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-06T08:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: Microsoft announced the availability of beta 2 of the Microsoft.NET Speech
+Software Development Kit (SDK).</summary>
+    <content type="html">&lt;h1>Beta 2 of the Microsoft .NET Speech SDK &lt;/h1>
+&lt;a href="http://www.microsoft.com/speech/sdkbeta2factsheet.doc">Here&lt;/a>. From Razvan Caciula: Microsoft announced the availability of beta 2 of the Microsoft .NET Speech
+Software Development Kit (SDK).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/310</id>
+    <title>Essential .NET, by Don Box, in stock!</title>
+    <updated>2002-11-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-06T08:00:00.000Z</published>
+    <summary>Here. According to the AW web site, Essential.NET, by Don Box, with Chris Sells, is in stock and ships within 24 hours, and Amazon seems to agree. Enjoy!</summary>
+    <content type="html">&lt;h1>Essential .NET, by Don Box, in stock!&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201734117/qid=1036603928/chrissells">Here&lt;/a>. According to the AW web site, Essential .NET, by Don Box, with Chris Sells, is in stock and ships within 24 hours, and Amazon seems to agree. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/308</id>
+    <title>Rotor 1.0 Released</title>
+    <updated>2002-11-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-11-05T08:00:00.000Z</published>
+    <summary>Here. "The 1.0 release builds and runs on Windows XP, the FreeBSD operating system, and Mac OS X 10.2. In addition, the release contains many bug fixes, more documentation, new samples and additional test suites." For low-level.NET weenies (like me : ), this is the stuff, baby!</summary>
+    <content type="html">&lt;h1>Rotor 1.0 Released&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/net/sscli">Here&lt;/a>. "The 1.0 release builds and runs on Windows XP, the FreeBSD operating system, and Mac OS X 10.2. In addition, the release contains many bug fixes, more documentation, new samples and additional test suites."
+
+For low-level .NET weenies (like me : ), this is the stuff, baby!</content>
+  </entry>
+</feed>

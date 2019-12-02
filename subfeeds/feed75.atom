@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed75.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed74.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed76.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed75.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1359</id>
+    <title>A Gathering of VS05 Team System Info</title>
+    <updated>2004-05-24T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-24T07:00:00.000Z</published>
+    <summary>I find that in the process of learning about something, I often dig through a lot of places before I come up with what I'm looking for. In the case of Visual Studio 2005 Team System (aka "Burton"), I wanted to know a lot more about the features that MS was building into VS for teams, including much more flexible source code control integration, web site functionality and stress testing, static code analysis like FxCop and perf. analysis built right into the build system and stats recording as part of the no...</summary>
+    <content type="html">&lt;h1>A Gathering of VS05 Team System Info&lt;/h1>
+&lt;P>I find that in the process of learning about something, I often dig through a lot of places before I come up with what I'm looking for.&lt;/P>
+&lt;P>In the case of &lt;A href="http://msdn.microsoft.com/vstudio/teamsystem/default.aspx">Visual Studio 2005 Team System&lt;/A> (aka "Burton"), I wanted to know a lot more about the features that MS was building into VS for teams, including much more flexible source code control integration, web site functionality and stress testing, static code analysis like FxCop and perf. analysis built right into the build system and stats recording as part of the normal workflow for project management reporting.&lt;/P>
+&lt;P>In the process of gathering these details, here are the places I went:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://msdn.microsoft.com/vstudio/teamsystem/default.aspx">Official Visual Studio 2005 Team System home page&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.aspx#enterprise">VSTS screenshots from the MS Developer Tools Roadmap&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.activewin.com/awin/comments.asp?HeadlineIndex=24465">VSTS demonstration videos&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://msdn.microsoft.com/vstudio/teamsystem/burtonfaq.aspx">VSTS FAQ&lt;/A>, including the ever favorite "Where do I get it?"&lt;/LI>
+&lt;li>&lt;a href="http://blogs.msdn.com/korbyp/archive/2004/05/24/140550.aspx">Korby Parnell's announcement&lt;/a> as a member of the VSTS team&lt;/li>
+&lt;LI>&lt;A href="http://weblogs.asp.net/ksharkey/archive/2004/05/24/140344.aspx">Official Visual ActiveKent Sharkey .NET SE 3.11 VSTS Announcement&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Here are some things that tickled my fancy:&lt;/P>
+&lt;UL>
+&lt;LI>Data binding to drive web site testing. I want the same thing for stand-along client testing&lt;/LI>
+&lt;LI>The real-time stats and drill-down for ongoing web site stress testing&lt;/LI>
+&lt;LI>Building static code analysis right into the build process so that I can fix those issues along with my compiler issues&lt;/LI>
+&lt;LI>The idea of collecting project stats as part of what the developer is doing in VS and using those to roll-up conprehensive stats for the whole team&lt;/LI>
+&lt;LI>Seeing our own internal tools, like PREfast, made available to our customers and integrated so nicely into VS&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1357</id>
+    <title>A Gathering of Avalon 3D Materials</title>
+    <updated>2004-05-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-23T07:00:00.000Z</published>
+    <summary>Greg Schecter, one of the designers of the new support for 3D in Avalon available in the Longhorn WinHEC build, provides a nice overview and some other links to Avalon 3D resources: Greg Schechter's Introducing 3D in Avalon and 2D/3D Integration Basic 3D in the Longhorn SDK Joe Beda's WinHEC report, including a screenshot of an Avalon 3D sample 3D support in Avalon is not meant to build Doom 3, but it does shine especially brightly in two places: 1) you can do 3D in a declarative way in XAML, just like the ...</summary>
+    <content type="html">&lt;h1>A Gathering of Avalon 3D Materials&lt;/h1>
+&lt;P>Greg Schecter, one of the designers of the new support for 3D in Avalon available in the Longhorn WinHEC build, provides a nice overview and some other links to Avalon 3D resources:&lt;/P>
+&lt;UL>
+&lt;LI>Greg Schechter's &lt;A href="http://weblogs.asp.net/greg_schechter/archive/2004/05/22/139744.aspx">Introducing 3D in Avalon and 2D/3D Integration&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/graphicsmm/overviews/basic3d.aspx">Basic 3D in the Longhorn SDK&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.eightypercent.net/Archive/2004/05/06.html#a182">Joe Beda's WinHEC report&lt;/A>, including a screenshot of an Avalon 3D sample&lt;/LI>&lt;/UL>
+&lt;P>3D support in Avalon is not meant to build Doom 3, but it does shine especially brightly in two places: 1) you can do 3D in a declarative way in XAML, just like the rest of Avalon and 2) as Greg describes, &lt;A href="http://weblogs.asp.net/greg_schechter/archive/2004/05/22/139744.aspx">the integration of 2D and 3D in Avalon is nice and clean&lt;/A> the way it isn't in most current 3D APIs. I'm looking forward to taking advantage of the 3D support in my own apps, which isn't something I ever considered before with DirectX. Thanks, guys!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12493</id>
+    <title>Strengths and Weaknesses</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Friday, May 21, 2004 I took a Gallup questionnaire and 3-hour seminar on the philosophy of strength-based development. The central idea is to identify one's strengths and concentrate on those. This is opposed to general thinking which says that you should work on your weaknesses. According to Gallup, no one can really change their weaknesses much, but if you focus on your strengths, you can really make a difference in yourself. As evidence of this claim, Gallup sites a study of teaching speed reading to ave...</summary>
+    <content type="html">&lt;h1>Strengths and Weaknesses&lt;/h1>
+&lt;p align="left">&lt;i>Friday, &lt;span class="created">May 21, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+I took a Gallup questionnaire and 3-hour seminar on the philosophy of 
+strength-based development. The central idea is to identify one's strengths and 
+concentrate on those. This is opposed to general thinking which says that you 
+should work on your weaknesses. According to Gallup, no one can really change 
+their weaknesses much, but if you focus on your strengths, you can really make a 
+difference in yourself.&lt;/p>&lt;p align="left">As evidence of this claim, Gallup 
+sites a study of teaching speed reading to average and above average readers. 
+The average readers started at 90wpm and the speed reading course increased 
+their speed to 150wpm, an increase of 67%. The above average readers started at 
+350wpm and increased by more than 800% to 2900wpm. Or, to put it another way, it 
+was 10x more effective to concentrate on a strength than to try to improve a 
+weakness.&lt;/p>&lt;p align="left">The dark subtext of the strength-based point of 
+view is that if I can't really fix my weaknesses, then I can only really do well 
+in certain kinds of ways. I don't like this idea. It sounds too much like fate, 
+which just pisses me off because I don't like the idea that it's my nature and 
+not my effort that determines how well I do at something.&lt;/p>&lt;p align="left">
+When I mentioned this to one of instructions of the seminar, she looked at my 
+strengths and said, &amp;quot;Oh, I see why you want to think it's you that governs how 
+well you do,&amp;quot; which didn't make me feel any better. My strengths, in order, are 
+Achievement, Command, Communication, Learner and Intellection. In other words, I 
+like to get things done, tell people what I think, learn new things and think 
+about them. This set of strengths wasn't really a surprise, but here's one: I 
+think DevelopMentor was speed reading for my particular strengths. DM was an 
+environment that encouraged all of my strengths and I stumbled onto it by pure, 
+dumb luck.&lt;/p>&lt;p align="left">On the other hand, before DM, I wasn't nearly the 
+Communicator that I am now. In fact, I think it would've been one of my 
+weaknesses had I taken the Gallup questionnaire 10 years ago. And if that's the 
+case, I would have been discouraged from spending too much time working on it 
+by, for example, teaching, presenting at conferences and writing courses, 
+articles and books, which I think would've been a shame, because I really love 
+to write.&lt;/p>&lt;p align="left">So, while I like the idea of concentrating on one's 
+strengths, I still don't like the idea of ignoring one's weaknesses.&lt;/p>&lt;p align="left">&lt;a href="/1356">
+Discuss&lt;/a>&lt;/li>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1354</id>
+    <title>Another Killer App for Web Services</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Here. The one where the idea of intranet services being exposed as web services gets me hot.</summary>
+    <content type="html">&lt;h1>Another Killer App for Web Services&lt;/h1>
+&lt;a href="/12494">Here&lt;/a>. The one where the idea of &lt;a href="/12494">intranet services being exposed as web services gets me hot&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1356</id>
+    <title>Strengths and Weaknesses</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Here. The one where I learn that DevelopMentor was my own personal speed reading course.</summary>
+    <content type="html">&lt;h1>Strengths and Weaknesses&lt;/h1>
+&lt;a href="/12493">Here&lt;/a>. The one where I learn that &lt;a href="/12493">DevelopMentor was my own personal speed reading course&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1355</id>
+    <title>Employers Check References</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>I got an email asking to serve as a reference for a guy I'd never heard of today. Just so you know, especially in a down economy, employers check references. Also, it's a good idea to ask a reference between adding them to your resume so they don't have to respond, "Roy? I don't know anyone named Roy..." : )</summary>
+    <content type="html">&lt;h1>Employers Check References&lt;/h1>
+I got an email asking to serve as a reference for a guy I'd never heard of today. Just so you know, especially in a down economy, employers check references. Also, it's a good idea to &lt;EM>ask&lt;/EM> a reference between adding them to your resume so they don't have to respond, "Roy? I don't know anyone named Roy..." : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12494</id>
+    <title>Another Killer App for Web Services</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/img.10.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Friday, May 21, 2004 At the last Applied XML Dev.Conf., I went ga-ga over Amazon's use of web services in their business and called it the &amp;quot;killer app for web services.&amp;quot; Now I'd like to revise my statement: it think that it's one of the killer apps for web services. Here's another one: exposing the functionality of all of those internal corporate services apps that are now exposed as web sites as web services instead. Now that I've been back inside of a giant corp. adrift in a sea of sites to &amp;quo...</summary>
+    <content type="html">&lt;h1>Another Killer App for Web Services&lt;/h1>
+&lt;p align="left">&lt;i>Friday, &lt;span class="created">May 21, 
+2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">At the last &lt;a href="/conference">Applied XML 
+Dev.Conf.&lt;/a>, I went ga-ga over Amazon's use of web services in their business 
+and called it &lt;a href="/12540">the &amp;quot;killer app for web 
+services.&amp;quot;&lt;/a> Now I'd like to revise my statement: it think that it's one of 
+the killer apps for web services.&lt;/p>&lt;p align="left">Here's another one: 
+exposing the functionality of all of those internal corporate services apps that 
+are now exposed as web &lt;i>sites&lt;/i> as web &lt;i>services&lt;/i> instead.&lt;/p>&lt;p align="left">
+Now that I've been back inside of a giant corp. adrift in a sea of sites to 
+&amp;quot;help&amp;quot; me with the various &amp;quot;business processes&amp;quot; that I have to execute, I yearn 
+for them all to be exposed as web services. There are several problems with the 
+internal business-processes-as-web-apps morass that we're stuck in:&lt;/p>&lt;ol>&lt;li>&lt;p align="left">
+	The web apps are generic for all uses across all companies, which means that 
+	there are tons of options for other uses then mine, but I still have to deal 
+	with the UI for all of the options&lt;/li>&lt;li>&lt;p align="left">To get my 
+	business tasks accomplished, I have to string together several of these web 
+	apps in series, manually moving the data from one to the other&lt;/li>&lt;li>&lt;p align="left">
+	Just going from one page of a web app to another, even in a corp. intranet, 
+	is so slow when you are always going to pick the same options and your 
+	fingers want to be far ahead of what the server can handle when generating 
+	the UI a page at a time&lt;/li>&lt;/ol>&lt;p align="left">For example, here at MSDN, 
+we have package source code sent to us by authors into an MSI with a EULA, code 
+sign it with the Microsoft key and submit it for download to &lt;a href="http://www.microsoft.com/downloads/">
+the MS download site&lt;/a>. A year ago, it took me an hour of instruction to 
+understand the process and it involved using VS.NET to build the MSI and two 
+separate web sites, both with several pages and tons of fields to get a folder 
+of files available for download by our good readers. This took me 30-60 minutes 
+to do each time I had to do it, which made me cranky, so I built this:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/img.10.jpg" width="480" height="400">&lt;/p>&lt;p align="left">
+This tool takes the minimum number of fields necessary to turn the source files 
+provided by the author into a signed MSI. Plus, it's a smart client, so the UI 
+is snappy and I can make it smart about what specifically it should remember 
+between sessions for our own uses. And, I can provide a single UI for multiple 
+back-end services, duplicating the data between them as necessary w/o requiring 
+the user to duplicate the data for me.&lt;/p>&lt;p align="left">The way I was able to 
+minimize the number of fields was to build all kinds of assumptions into the app 
+based on how MSDN does things, aka the business rules, and build my own app that 
+programmatically generates when I need. In other words, my app combines business 
+rules with programmatic interfaces to save me and my friends all kinds of time 
+(the process is now about 10x faster than it used to be and 100x less tedious 
+and less error prone).&lt;/p>&lt;p align="left">And that's the beauty of allowing 
+programmatic access to internal business processes: it allows each group in the 
+company to build specific apps that meet their needs more specifically, letting 
+them consolidate the processes into their own group-specific tasks. Not only 
+does this speed things up and increase consistency for our customers, but it 
+also removes the tedium and lowers the possibility of human error. If you could 
+gain all those benefits, would you do it? That's the promise of web services and 
+SOA when applied internally, because it allows the groups that provide the 
+services to be general-purpose, meeting the needs of all groups, but lets each 
+group be specific when they apply it, instead of forcing a web interface that 
+requires everyone to be general.&lt;/p>&lt;p align="left">Am I alone in getting 
+aroused when thinking about this kind of thing? : )&lt;/p>&lt;p align="left">&lt;a href="/1354">
+Discuss&lt;/a>&lt;/li>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1353</id>
+    <title>WinHEC Avalon Slides</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Here. The Avalon team has posted their WinHEC slides: Greg Schecter: Avalon Graphics Stack Overview [682 KB] Joe Beda: Avalon Graphics - 2D, 3D, Imaging and Composition [284 KB] Kerry Hammil: Graphics on the Windows Desktop [496 KB] David Brown: Avalon Text [1.05 MB] [ via Adam Kinney ] </summary>
+    <content type="html">&lt;h1>WinHEC Avalon Slides&lt;/h1>
+&lt;a href="http://www.eightypercent.net/Archive/2004/05/18.html#a185">Here&lt;/a>. &lt;P>The Avalon team has posted their WinHEC slides:&lt;/P>
+&lt;LI>Greg Schecter: &lt;A href="http://download.microsoft.com/download/1/8/f/18f8cee2-0b64-41f2-893d-a6f2295b40c8/TW04036_WINHEC2004.ppt">Avalon Graphics Stack Overview [682 KB]&lt;/A>
+&lt;LI>Joe Beda: &lt;A href="http://download.microsoft.com/download/1/8/f/18f8cee2-0b64-41f2-893d-a6f2295b40c8/TW04006_WINHEC2004.ppt">Avalon Graphics - 2D, 3D, Imaging and Composition [284 KB]&lt;/A>
+&lt;LI>Kerry Hammil: &lt;A href="http://download.microsoft.com/download/1/8/f/18f8cee2-0b64-41f2-893d-a6f2295b40c8/TW04013_WINHEC2004.ppt">Graphics on the Windows Desktop [496 KB]&lt;/A>
+&lt;LI>David Brown: &lt;A href="http://download.microsoft.com/download/1/8/f/18f8cee2-0b64-41f2-893d-a6f2295b40c8/TW04007_WINHEC2004.ppt">Avalon Text [1.05 MB]&lt;/A>&lt;/LI>
+&lt;P>[&lt;A href="http://pdcbloggers.net/Longhorn/XAML/2310.item">via Adam Kinney&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1351</id>
+    <title>Interview: Bob Muglia, MS Longhorn Server Sr. VP</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>ZDNet asks Bob Muglia, the Sr. VP in charge of Longhorn Server, questions like: What does MS think about Linux? When will Longhorn client and server ship? What about WinFS? And my personal favorite: Can you tell us what's on Blackcomb's feature list?</summary>
+    <content type="html">&lt;h1>Interview: Bob Muglia, MS Longhorn Server Sr. VP&lt;/h1>
+&lt;A href="http://www.zdnet.com.au/insight/software/0,39023769,39148209,00.htm">ZDNet asks Bob Muglia, the Sr. VP in charge of Longhorn Server, questions&lt;/A> like: What does MS think about Linux? When will Longhorn client and server ship? What about WinFS? And my personal favorite: Can you tell us what's on Blackcomb's feature list?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1352</id>
+    <title>The Power of Vector Drawing</title>
+    <updated>2004-05-21T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-21T07:00:00.000Z</published>
+    <summary>Ian blathers on about the power for vector graphics for a while then hits you with this link demonstrating the power of vector graphics. Wow. Some of those pictures are amazing.</summary>
+    <content type="html">&lt;h1>The Power of Vector Drawing&lt;/h1>
+Ian blathers on about &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/05/20/vectors">the power for vector graphics&lt;/A> for a while then hits you with this link &lt;A href="http://www.xara.com/products/xarax/">demonstrating the power of vector graphics&lt;/A>. Wow. Some of those pictures are amazing.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1349</id>
+    <title>&lt;h1>"No coding question unanswered for &lt; 24 hours"&lt;/h1></title>
+    <updated>2004-05-19T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-19T07:00:00.000Z</published>
+    <summary>"No coding question unanswered for Here. After the official question was discussed for a good long time -- "What more can MSDN do for developers?" -- I asked this follow-up question in 3 parts: How many of you are unsatisfied Microsoft developers? 0 hands raised How many of you are somewhat satisfied Microsoft developers? 0 hands raised How many of you are very satisfied Microsoft developers? 30 hands raised After the session, one Portland nerd came up and told me that he can't remember the last time that h...</summary>
+    <content type="html">&lt;h1>"No coding question unanswered for &lt; 24 hours"&lt;/h1>
+&lt;a href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=982b8ede-9785-4313-b18a-9f188538de4f">Here&lt;/a>. &lt;P>After the official question was discussed for a good long time -- "What more can MSDN do for developers?" -- I asked this follow-up question in 3 parts:&lt;/P>
+&lt;OL>
+&lt;LI>How many of you are &lt;STRONG>unsatisfied&lt;/STRONG> Microsoft developers? 0 hands raised&lt;/LI>
+&lt;LI>How many of you are &lt;STRONG>somewhat satisfied&lt;/STRONG> Microsoft developers? 0 hands raised&lt;/LI>
+&lt;LI>How many of you are &lt;STRONG>very satisfied&lt;/STRONG> Microsoft developers? 30 hands raised&lt;/LI>&lt;/OL>
+&lt;P>After the session, one Portland nerd came up and told me that he can't remember the last time that he had a coding question that went unanswered for more than 24 hours. Wow. We'd come quite a ways when that's the case.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1348</id>
+    <title>A Rare Insight Into MS</title>
+    <updated>2004-05-19T07:00:00.000Z</updated>
+    <published>2004-05-19T07:00:00.000Z</published>
+    <summary>The Channel9 team cranked up the MS transparency a notch today by sharing a long internal email thread with the Channel9 community for their feedback. This is interesting because, unlike most of the content that MS shares with the public, this email thread was not created with sharing in mind.</summary>
+    <content type="html">&lt;h1>A Rare Insight Into MS&lt;/h1>
+The Channel9 team cranked up the MS transparency a notch today by sharing a long &lt;EM>internal&lt;/EM> email thread with the Channel9 community for their feedback. This is interesting because, unlike most of the content that MS shares with the public, &lt;A href="http://www.glitteringgenerality.com/PermaLink.aspx?guid=626b3f5b-77d7-4305-b2d8-82ef6e2c9e05">this email thread was not created with sharing in mind&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1350</id>
+    <title>WinFS StoreSpy v0.8 for the WinHEC Longhorn</title>
+    <updated>2004-05-19T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-19T07:00:00.000Z</published>
+    <summary>Doh! I jumped the gun on this post. The WinFS team doesn't think that StoreSpy is ready for prime time, so I've taken it down. Bad dog. No bone!</summary>
+    <content type="html">&lt;h1>WinFS StoreSpy v0.8 for the WinHEC Longhorn&lt;/h1>
+Doh! I jumped the gun on this post. The WinFS team doesn't think that StoreSpy is ready for prime time, so I've taken it down. Bad dog. No bone!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1346</id>
+    <title>Google's #1 Sells</title>
+    <updated>2004-05-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-18T07:00:00.000Z</published>
+    <summary>As my friend Steve puts it, according to Google, I'm "even more famous than the act of selling itself." : )</summary>
+    <content type="html">&lt;h1>Google's #1 Sells&lt;/h1>
+As &lt;A href="http://steverodgers.blogspot.com/2004_05_01_steverodgers_archive.html#108478022406625242">my friend Steve&lt;/A> puts it, &lt;A href="http://www.google.com/search?hl=en&amp;amp;ie=UTF-8&amp;amp;q=sells">according to Google&lt;/A>, I'm "even more famous than the act of selling itself." : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1347</id>
+    <title>6x The MSDN Fun at Tonight's Portland Nerd Dinner</title>
+    <updated>2004-05-18T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-18T07:00:00.000Z</published>
+    <summary>I just talked to the 2 cars filled with 5 members of the MSDN Content Strategy team on a road trip down to the Portland Nerd Dinner, tonight (5/18/04) at 6:30pm in the Washington Square Mall food court. Also, make sure not to buy your dinner 'til the MSDNers are here with their corp. credit cards and can pay for your crappy mall food. : )</summary>
+    <content type="html">&lt;h1>6x The MSDN Fun at Tonight's Portland Nerd Dinner&lt;/h1>
+I just talked to the 2 cars filled with 5 members of the MSDN Content Strategy team on a road trip down to the &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=0fde8aa6-b19e-4b2d-ad6a-2a2586360aff">Portland Nerd Dinner&lt;/A>, tonight (5/18/04) at 6:30pm in the Washington Square Mall food court. Also, make sure not to buy your dinner 'til the MSDNers are here with their corp. credit cards and can pay for your crappy mall food. : )</content>
+  </entry>
+</feed>

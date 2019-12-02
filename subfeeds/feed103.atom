@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed103.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed102.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed104.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed103.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/963</id>
+    <title>A Sneak Preview of Visual C# Whidbey</title>
+    <updated>2003-11-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-21T08:00:00.000Z</published>
+    <summary>Here. While things will most definately change before VS.NET Whidbey is released, this document provides a great list of new features in both C# Whidbey and VC# Whidbey. And it's much more than generics, partial types, anonymous methods and iterators. [weblogs.asp.net/duncanma]</summary>
+    <content type="html">&lt;h1>A Sneak Preview of Visual C# Whidbey&lt;/h1>
+&lt;a href="http://download.microsoft.com/download/2/d/2/2d2b339a-95b9-4f0e-a761-3c62c043ff5d/CSharpSneakPreview.doc">Here&lt;/a>. While things will most definately change before VS.NET Whidbey is released, this document provides a great list of new features in both C# Whidbey and VC# Whidbey. And it's much more than generics, partial types, anonymous methods and iterators.
+
+[weblogs.asp.net/duncanma]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/962</id>
+    <title>Request for brainteaser interview examples</title>
+    <updated>2003-11-21T08:00:00.000Z</updated>
+    <published>2003-11-21T08:00:00.000Z</published>
+    <summary>Here. I was interviewed by John Kador yesterday about his upcoming book "How to Ace the Brainteaser Job Interview." At the end, he asked me for references to other folks that have had the experience of being asked or of asking brainteasers in interviews, so I'm posting his request: I’m a Chicago-based business writer. My upcoming career book for 2004 is called How to Ace the Brainteaser Job Interview. It will be published by McGraw-Hill. The book is designed to help applicants think strategically about the ...</summary>
+    <content type="html">&lt;h1>Request for brainteaser interview examples&lt;/h1>
+&lt;a href="mailto:jkador@jkador.com">Here&lt;/a>. I was interviewed by John Kador yesterday about his upcoming book "How to Ace the Brainteaser Job Interview." At the end, he asked me for references to other folks that have had the experience of being asked or of asking brainteasers in interviews, so I'm posting his request:
+
+I’m a Chicago-based business writer. 
+
+My upcoming career book for 2004 is called How to Ace the Brainteaser Job Interview. It will be published by McGraw-Hill. The book is designed to help applicants think strategically about the puzzles, riddles, business cases that they may encounter in today’s job interview.
+
+I’m looking for examples of puzzles, riddles, brainteasers, etc. and how they are used in the job interview.  I’d like to pepper the book with real-life anecdotes from people on both sides of the table. What puzzles do you like to ask and what do you look for? What are particularly elegant responses? From candidates, what questions were you asked and how did you handle them? Nothing will be attributed without permission. I’ll also be very generous with acknowledgments.
+
+I welcome suggestions and questions at jkador@jkador.com. My web site is http://www.jkador.com.
+
+John Kador</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/964</id>
+    <title>Chris Anderson on the History of the Avalon Team</title>
+    <updated>2003-11-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-21T08:00:00.000Z</published>
+    <summary>Here. Chris Anderson, an architect on the Avalon team, talks about the history of the Avalon team, including how it was formed, the goals for Avalon and the rearchitecture a year before the PDC.</summary>
+    <content type="html">&lt;h1>Chris Anderson on the History of the Avalon Team&lt;/h1>
+&lt;a href="http://www.simplegeek.com/permalink.aspx/2e58f16e-d569-4660-b010-f557272580ee">Here&lt;/a>. Chris Anderson, an architect on the Avalon team, talks about the history of the Avalon team, including how it was formed, the goals for Avalon and the rearchitecture a year before the PDC.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/958</id>
+    <title>Document-Centric Applications in WinForms, 3 of 3</title>
+    <updated>2003-11-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-20T08:00:00.000Z</published>
+    <summary>Here. Here's the third and final part of my document-centric applications in WinForms piece. In this part, I present the FileDocument component from Genghis [1] and show how it can be used in SDI and MDI applications. Enjoy [1] http://www.genghisgroup.com
+</summary>
+    <content type="html">&lt;h1>Document-Centric Applications in WinForms, 3 of 3&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms11202003.asp">Here&lt;/a>. Here's the third and final part of my document-centric applications in WinForms piece. In this part, I present the FileDocument component from Genghis [1] and show how it can be used in SDI and MDI applications. Enjoy
+
+[1] http://www.genghisgroup.com
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/961</id>
+    <title>Mike Deem: Must-Read WinFS Blog</title>
+    <updated>2003-11-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-20T08:00:00.000Z</published>
+    <summary>Here. To save myself linking to nearly every single one of his posts, I'll just tell you now: If you're doing WinFS or curious how it works or what it means, you *must* read Mike Deem's blog.</summary>
+    <content type="html">&lt;h1>Mike Deem: Must-Read WinFS Blog&lt;/h1>
+&lt;a href="http://anopinion.net/">Here&lt;/a>. To save myself linking to nearly every single one of his posts, I'll just tell you now:
+
+If you're doing WinFS or curious how it works or what it means, you *must* read Mike Deem's blog.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/959</id>
+    <title>Unofficial, Unsupported Longhorn Tweaks Page</title>
+    <updated>2003-11-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-20T08:00:00.000Z</published>
+    <summary>Here. Normally I wouldn't point this page out, because it's *unofficial* and *unsupported*, but some folks have used the guidance on this page to fix issues with the PDC Longhorn bits, especially as related to networking. USE AT YOUR OWN RISK.</summary>
+    <content type="html">&lt;h1>Unofficial, Unsupported Longhorn Tweaks Page&lt;/h1>
+&lt;a href="http://69.50.228.116/Chris123NT/PDC_4051/LHGuide.html">Here&lt;/a>. Normally I wouldn't point this page out, because it's *unofficial* and *unsupported*, but some folks have used the guidance on this page to fix issues with the PDC Longhorn bits, especially as related to networking. USE AT YOUR OWN RISK.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/960</id>
+    <title>Longhorn SDK Annotations</title>
+    <updated>2003-11-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-20T08:00:00.000Z</published>
+    <summary>Here. If you haven't noticed, the Longhorn SDK site on MSDN [1] has a new area at the bottom of each page. We call the entries in this area "annotations." This area is broken up into three parts: 1. Microsoft "official" annotations, like what you'd find in a ReadMe, but associated with the specific piece of content itself 2. General group discussion, like in a newsgroup, but again, associated with the content itself 3. 3rd party annotations The 3rd part come from a client-side component that acts as an RSS ...</summary>
+    <content type="html">&lt;h1>Longhorn SDK Annotations&lt;/h1>
+&lt;a href="http://www.ondotnet.com/pub/a/dotnet/2003/11/19/longhorn.html">Here&lt;/a>. If you haven't noticed, the Longhorn SDK site on MSDN [1] has a new area at the bottom of each page. We call the entries in this area "annotations." This area is broken up into three parts:
+
+1. Microsoft "official" annotations, like what you'd find in a ReadMe, but associated with the specific piece of content itself
+
+2. General group discussion, like in a newsgroup, but again, associated with the content itself
+
+3. 3rd party annotations
+
+The 3rd part come from a client-side component that acts as an RSS aggregator, pulling annotations for a specific piece of content from the RSS feeds that you subscribe to via the component.
+
+O'Reilly was nice enough to provide an RSS feed at the launch of the annotations project to both demonstrate it's usefulness and provide real annotations to about 50 pieces of content on the Longhorn SDK. In addition, they've posted a nice article about how other 3rd parties can provide their own annotations via RSS to nestle at the bottom of the MS Longhorn SDK content.
+
+If you'd like to provide annotations for folks to subscribe to as "annotations," you can do so without any permission or special support from MS. If you'd like to be considered as a "Recommend" source of annotations, drop me an email: csells@microsoft.com.
+
+[1] http://longhorn.msdn.microsoft.com
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/957</id>
+    <title>C++ templates vs. CLR generics</title>
+    <updated>2003-11-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-20T08:00:00.000Z</published>
+    <summary>Here. Under Whidbey, VC++ supports both CLR generics and C++ templates for managed code. In this post, Brandon Bray, a PM on the VC++ team, lays out the differences, while also laying out the differences between C++ templates and CLR generics in general.</summary>
+    <content type="html">&lt;h1>C++ templates vs. CLR generics&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/branbray/permalink.aspx/c14dce49-3254-4976-b38c-88bfd61b65cf">Here&lt;/a>. Under Whidbey, VC++ supports both CLR generics and C++ templates for managed code. In this post, Brandon Bray, a PM on the VC++ team, lays out the differences, while also laying out the differences between C++ templates and CLR generics in general.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/956</id>
+    <title>Updated NTD Command Line Code</title>
+    <updated>2003-11-19T08:00:00.000Z</updated>
+    <published>2003-11-19T08:00:00.000Z</published>
+    <summary>Here. Some folks have had trouble with ieexec.exe throwing a System.IO.FileLoadException when using my No-Touch Deployment command line handling code for.NET 1.0 and 1.1. Andrew Duncan burned a PSS call to figure out the problem and I've updated the sample code to match (ieexec.exe needs a Last-Modified header). Thanks, Andrew!</summary>
+    <content type="html">&lt;h1>Updated NTD Command Line Code&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. Some folks have had trouble with ieexec.exe throwing a System.IO.FileLoadException when using my No-Touch Deployment command line handling code for .NET 1.0 and 1.1. Andrew Duncan burned a PSS call to figure out the problem and I've updated the sample code to match (ieexec.exe needs a Last-Modified header). Thanks, Andrew!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/955</id>
+    <title>Infragistics UltraGrid for Avalon: Technology Demo</title>
+    <updated>2003-11-18T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-18T08:00:00.000Z</published>
+    <summary>Here. How cool is this? Infragistics, UI component giant, has released a technology demo of their UltraGrid control for Avalon, including source! Apparently it took 2 guys 1 month to build this control from a standing start, i.e. no previous Avalon experience. There are a bunch of limitations and Infragistics is clear that you shouldn't use this code as a template for writing your own components, but it's still fun to see. Thanks, Infragistics!</summary>
+    <content type="html">&lt;h1>Infragistics UltraGrid for Avalon: Technology Demo&lt;/h1>
+&lt;a href="http://www.infragistics.com/presscenter/news/avalongrid.asp">Here&lt;/a>. How cool is this? Infragistics, UI component giant, has released a technology demo of their UltraGrid control for Avalon, including source!
+
+Apparently it took 2 guys 1 month to build this control from a standing start, i.e. no previous Avalon experience. There are a bunch of limitations and Infragistics is clear that you shouldn't use this code as a template for writing your own components, but it's still fun to see. Thanks, Infragistics!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/954</id>
+    <title>The WinFX Newsgroups are *Hot*</title>
+    <updated>2003-11-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-16T08:00:00.000Z</published>
+    <summary>Here. If you have questions or comments about Longhorn/WinFX development, be sure to post them on one of the WinFX newsgroups. Digging through the recent activity, I'm hard-pressed to find a post that isn't addressed by a member of the appropriate MS product team. These guys are *dying* for your feedback, so post away!</summary>
+    <content type="html">&lt;h1>The WinFX Newsgroups are *Hot*&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">Here&lt;/a>. If you have questions or comments about Longhorn/WinFX development, be sure to post them on one of the WinFX newsgroups. Digging through the recent activity, I'm hard-pressed to find a post that isn't addressed by a member of the appropriate MS product team. These guys are *dying* for your feedback, so post away!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/953</id>
+    <title>Looking for the Money Cat</title>
+    <updated>2003-11-16T08:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-11-16T08:00:00.000Z</published>
+    <summary>Here. Someone sent me a fabulous follow up email to "The Average Return Myth," but in the heat of the PDC, I didn't get a chance to read it and now that the PDC is over, I can't find it again! All I remember is that the person's email address started with "cat" (I think). Can you please send it again, Mr. Cat? Thanks!</summary>
+    <content type="html">&lt;h1>Looking for the Money Cat&lt;/h1>
+&lt;a href="/12410">Here&lt;/a>. Someone sent me a fabulous follow up email to "The Average Return Myth," but in the heat of the PDC, I didn't get a chance to read it and now that the PDC is over, I can't find it again! All I remember is that the person's email address started with "cat" (I think). Can you please send it again, Mr. Cat? Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/952</id>
+    <title>WinFS = Windows Foo System</title>
+    <updated>2003-11-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-16T08:00:00.000Z</published>
+    <summary>Here. Mike Deem, PM on the WinFS team, lays out the core story of WinFS. It's an object store, not a file system. WinFS uses XML to describe the types of items that can be stored and then exposes.NET types for creating and finding items in the store. Also, and this is where the confusion comes from (and the codename of the technology doesn't help), when a file is created in a certain part of the system (\\localhost\DefaultStore), an item is created in the underlying store automatically. This item is used to...</summary>
+    <content type="html">&lt;h1>WinFS = Windows Foo System &lt;/h1>
+&lt;a href="http://anopinion.net/posts/241.aspx">Here&lt;/a>. Mike Deem, PM on the WinFS team, lays out the core story of WinFS. It's an object store, not a file system. WinFS uses XML to describe the types of items that can be stored and then exposes .NET types for creating and finding items in the store.
+
+Also, and this is where the confusion comes from (and the codename of the technology doesn't help), when a file is created in a certain part of the system (\\localhost\DefaultStore), an item is created in the underlying store automatically. This item is used to allow the same finding code to work for things that are file-backed, like images, and for things that aren't file-backed, like contacts.
+
+Unfortunately, the story that Mike tells isn't complete yet, because custom item types can't be added using the PDC Longhorn bits, but a few of today's facts shouldn't ruin a good story of tomorrow. : )
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/951</id>
+    <title>First Computing Experience</title>
+    <updated>2003-11-15T08:00:00.000Z</updated>
+    <published>2003-11-15T08:00:00.000Z</published>
+    <summary>Here. Brad Wilson and Chris Anderson list their first computing experiences. My first was in the library where I grew up (my mom was a single librarian for a while and needed to bring me to work). I was about 5 years old and the "computer" was a giant VT paper terminal. Every command I typed when onto 132-column pin-feed paper and was also sent across town to the U of MN's computers. I played maze and hunt the wumpus for hours. My first programming experience was Applesoft Basic on an Apple II+ (my mom aske...</summary>
+    <content type="html">&lt;h1>First Computing Experience&lt;/h1>
+&lt;a href="http://dotnetguy.techieswithcats.com/archives/003955.shtml">Here&lt;/a>. Brad Wilson and Chris Anderson list their first computing experiences. My first was in the library where I grew up (my mom was a single librarian for a while and needed to bring me to work). I was about 5 years old and the "computer" was a giant VT paper terminal. Every command I typed when onto 132-column pin-feed paper and was also sent across town to the U of MN's computers. I played maze and hunt the wumpus for hours.
+
+My first programming experience was Applesoft Basic on an Apple II+ (my mom asked if I wanted an Apple //e, but I thought that 80 columns and lower case was just a fad : ). During high school, I spent 4 years as a full-time Basic programmer (only attending school during the day). And, like all Basic programmers seem to, I was writing database applications (to track my D&amp;D characters, of course!).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12515</id>
+    <title>My First Meeting with BillG's Technical Advisor</title>
+    <updated>2003-11-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-15T08:00:00.000Z</published>
+    <summary>Saturday, November 15, 2003 In my continuing quest to take advantage of unique experiences at Microsoft for those that aren't able to, I spent an hour in a meeting with Bill Gates's Technical Advisor, Alexander Gounares, earlier this week. Among other things, Alex is responsible for getting answers when Bill asks questions like &amp;quot;Hey, what are we doing about adding air conditioning to Windows?&amp;quot; I've had meetings with senior execs at MS before and I always end up saying stuff that upsets them. This ...</summary>
+    <content type="html">&lt;h1>My First Meeting with BillG's Technical Advisor&lt;/h1>
+&lt;p>&lt;i>Saturday, &lt;span class="created">November 15, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>In my continuing quest to take advantage of unique 
+experiences at Microsoft for those that aren't able to, I spent an hour in a 
+meeting with Bill Gates's Technical Advisor, Alexander Gounares, earlier this 
+week. Among other things, Alex is responsible for getting answers when Bill asks 
+questions like &amp;quot;Hey, what are we doing about adding air conditioning to 
+Windows?&amp;quot;&lt;/p>&lt;p>I've had meetings with senior execs at MS before and I always 
+end up saying stuff that upsets them. This time, the guy was so nice, I just 
+wanted to nod my head and do whatever he asked of me. In fact, the thing I 
+volunteered to work on (a &amp;quot;vision&amp;quot; whitepaper exploring a new application of 
+technology that's still under development) wasn't so much that he asked me to do 
+it, but rather because he asked for a volunteer and made eye contact with me in 
+such a heart-warming way that I couldn't say no. (Of course, my boss kicking me 
+under the table didn't hurt, either... : )&lt;/p>&lt;p>BTW, in case you wondered, 
+while the Sr. VP I upset knew me from my blog, Alex didn't know me from Adam. : 
+)&lt;/p>&lt;p>For folks keeping track, in my six month career at MS, I gotten to do 
+*lots* of cool stuff:&lt;/p>&lt;ul>&lt;li>Launch &lt;a href="http://msdn.microsoft.com/longhorn">
+	the Longhorn Developer Center&lt;/a>&lt;/li>&lt;li>Hang out back stage at the PDC, 
+	including preparing to act as Chris Anderson's demo understudy and helping 
+	ship one of MSDN's new features (&lt;a href="http://longhorn.msdn.microsoft.com">annotations&lt;/a>)&lt;/li>&lt;li>
+	Write &lt;a href="#submittingToBillgThinkWeek">a Think Week paper for BillG&lt;/a> 
+	and receive his comments back on it&lt;/li>&lt;li>Meet Anders Hejlsberg, Eric 
+	Gunnerson and Robert Hess&lt;/li>&lt;li>Have meetings with several execs, 
+	including one Group VP, &lt;a href="#myFirstVpMeeting">one Sr. VP&lt;/a> and 
+	BillG's TA&lt;/li>&lt;li>Crash &lt;a href="#myFirstApiReview">a WinFX API review&lt;/a>&lt;/li>&lt;li>
+	Introduce MS to the joy of &lt;a href="/conference">a DevCon&lt;/a>&lt;/li>&lt;li>Help 
+	get &lt;a href="http://blogs.gotdotnet.com/saraw/">my PUM 
+	blogging&lt;/a>&lt;/li>&lt;li>Invent &lt;a href="#exposingRssComments">an extension to 
+	RSS&lt;/a> that is getting fairly wide implementation, e.g. SharpReader, 
+	RssBandit and .Text.&lt;/li>&lt;li>Appear on &lt;a href="#My_First_.NET_Show">The 
+	.NET Show&lt;/a>&lt;/li>&lt;li>Get a few mentions in the press as an official MS 
+	employee (including one that my Mom saw that made her very proud : )&lt;/li>&lt;li>
+	Keep up contact with the community as much as I'm able via email, mailing 
+	lists, newsgroups, articles, conference talks and appearances&lt;/li>&lt;/ul>&lt;p>I 
+list these not to brag, but to reflect on how many cool things there are to do 
+at MS. I assume it's all down hill from here. : )&lt;/p>
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed111.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed110.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed112.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed111.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/851</id>
+    <title>Forces Required 2 Drag Sheep Over Various Surfaces</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. The 2003 Ig Nobel Prize Winners</summary>
+    <content type="html">&lt;h1>Forces Required 2 Drag Sheep Over Various Surfaces&lt;/h1>
+&lt;a href="http://www.improb.com/ig/ig-pastwinners.html#ig2003">Here&lt;/a>. The 2003 Ig Nobel Prize Winners</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/850</id>
+    <title>Use Rory Blyth as your own personal PDC reporter</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. Rory Blyth, potentially the most entertaining writer in the bloggesphere, has offered to be your own personal PDC reporter, attending the topics that you can't and writing them up for you. I'm not sure if he's willing to do this, but maybe you could talk him into wearing your clothers while he does it. I'm XXL, Rory, and like neon colors. I'll send my session schedule later today and you just hit all the ones I can't, OK? Great. Thanks!</summary>
+    <content type="html">&lt;h1>Use Rory Blyth as your own personal PDC reporter&lt;/h1>
+&lt;a href="http://www.neopoleon.com/blog/permalink.aspx/7c86cfcd-fc98-4c49-982a-e750e9eb54d4">Here&lt;/a>. Rory Blyth, potentially the most entertaining writer in the bloggesphere, has offered to be your own personal PDC reporter, attending the topics that you can't and writing them up for you. I'm not sure if he's willing to do this, but maybe you could talk him into wearing your clothers while he does it. I'm XXL, Rory, and like neon colors. I'll send my session schedule later today and you just hit all the ones I can't, OK? Great. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/847</id>
+    <title>PDC Pre-Con Tutorial: Windows Forms</title>
+    <updated>2003-10-02T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-02T07:00:00.000Z</published>
+    <summary>Here. I don't think I've mentioned it here, but I'm really looking forward to the Windows Forms pre-conference tutorial I'm giving with Rocky Lhotka at the PDC. I've never spoken at a PDC before but it'll be just like old times with Don, Tim and Martin down the hall. Also, I've never spoken with Rocky before, but he's also a big Midwesterner with a strong opinion, so it should be fun. Plus, he prefers semi-colonless languages, so all kinds of sparks should fly as I attempt to convert him to the one, true wa...</summary>
+    <content type="html">&lt;h1>PDC Pre-Con Tutorial: Windows Forms&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/precon.aspx">Here&lt;/a>. I don't think I've mentioned it here, but I'm really looking forward to the Windows Forms pre-conference tutorial I'm giving with Rocky Lhotka at the PDC. I've never spoken at a PDC before but it'll be just like old times with Don, Tim and Martin down the hall.
+
+Also, I've never spoken with Rocky before, but he's also a big Midwesterner with a strong opinion, so it should be fun. Plus, he prefers semi-colonless languages, so all kinds of sparks should fly as I attempt to convert him to the one, true way and he does the same to me. We may have trouble remembering there's an audience. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/844</id>
+    <title>MS "Send comments on this topic" really works!</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. If you see a little "Send comments on this topic" link, it launches an email to MS where you can complain about the docs, e.g. the.NET Mutex ctor. I had always ignored that link, thinking that I'd never get a response to email sent that way, but I was wrong. In fact, when one of the readers of my WinForms book [1] was trying to mix single-instance detection and no-touch deployment, he found that he couldn't. When he looked at the Mutex docs, they didn't list the appropriate permissions that creating a...</summary>
+    <content type="html">&lt;h1>MS "Send comments on this topic" really works!&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemthreadingmutexclassctortopic4.asp">Here&lt;/a>. If you see a little "Send comments on this topic" link, it launches an email to MS where you can complain about the docs, e.g. the .NET Mutex ctor. I had always ignored that link, thinking that I'd never get a response to email sent that way, but I was wrong. In fact, when one of the readers of my WinForms book [1] was trying to mix single-instance detection and no-touch deployment, he found that he couldn't. When he looked at the Mutex docs, they didn't list the appropriate permissions that creating a named Mutex requires. So he complained. And he got a response w/in 24 hours! And I got dragged into the ensuing conversation to fix the problem! I had *no* idea that little link would yield those kinds of results. Today I am proud to be a Microsoft employee. : )
+
+[1] http://www.amazon.com/exec/obidos/tg/detail/-/0321116208</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/841</id>
+    <title>BillG using his power for good, not evil</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. An interesting summary of the impact that the Bill &amp; Melinda Gates Foundation is having, and about to have, on the world.</summary>
+    <content type="html">&lt;h1>BillG using his power for good, not evil&lt;/h1>
+&lt;a href="http://rover.cs.northwestern.edu/~surana/blog/past/000118.html">Here&lt;/a>. An interesting summary of the impact that the Bill &amp; Melinda Gates Foundation is having, and about to have, on the world.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/845</id>
+    <title>Windows XP Media Center Edition 2004 Review</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. Microsoft quietly released Windows XP Media Center Edition 2004 and Paul Thurrott loudly loves it (although he certainly identifies "opportunities for improvement" as well... : ).</summary>
+    <content type="html">&lt;h1>Windows XP Media Center Edition 2004 Review&lt;/h1>
+&lt;a href="http://www.winsupersite.com/reviews/windowsxp_mce2004.asp">Here&lt;/a>. Microsoft quietly released Windows XP Media Center Edition 2004 and Paul Thurrott loudly loves it (although he certainly identifies "opportunities for improvement" as well... : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/842</id>
+    <title>Nice video intro to Office 2003</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. "Are you curious about the new Microsoft® Office System, including the latest versions of Office Professional Edition, Outlook®, and the all-new OneNote™ note-taking application? The current Insider show is a perfect way to whet your appetite for their release this fall, plus get the latest information on Tablet PC."</summary>
+    <content type="html">&lt;h1>Nice video intro to Office 2003&lt;/h1>
+&lt;a href="http://www.microsoft.com/insider/live/default.aspx?page=currentShow">Here&lt;/a>. "Are you curious about the new Microsoft® Office System, including the latest versions of Office Professional Edition, Outlook®, and the all-new OneNote™ note-taking application? The current Insider show is a perfect way to whet your appetite for their release this fall, plus get the latest information on Tablet PC."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/846</id>
+    <title>LonghornBlogs.com</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. "LonghornBlogs.com is a community initiative to help spread the word with factual information about the next version of Windows, straight from the people that are building it. Because of this, the majority of people posting here (at least for now) will be Microsoft employees. Our intention here was to keep the signal-to-noise ratio extremely low. You won't find too many personal posts here, just good solid information about Longhorn."</summary>
+    <content type="html">&lt;h1>LonghornBlogs.com&lt;/h1>
+&lt;a href="http://www.longhornblogs.com/">Here&lt;/a>. "LonghornBlogs.com is a community initiative to help spread the word with factual information about the next version of Windows, straight from the people that are building it. Because of this, the majority of people posting here (at least for now) will be Microsoft employees. Our intention here was to keep the signal-to-noise ratio extremely low. You won't find too many personal posts here, just good solid information about Longhorn."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/843</id>
+    <title>.NET Resource Kit CD</title>
+    <updated>2003-10-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-01T07:00:00.000Z</published>
+    <summary>Here. While the.NET Resource Kit is targeted at VB programmers, it comes with tons of real 3rd party controls for free that work just as well for C# programmers as well as VB.NET programmers.</summary>
+    <content type="html">&lt;h1>.NET Resource Kit CD&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vbasic/vbrkit/">Here&lt;/a>. While the .NET Resource Kit is targeted at VB programmers, it comes with tons of real 3rd party controls for free that work just as well for C# programmers as well as VB.NET programmers.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/840</id>
+    <title>I *Trust* MIT</title>
+    <updated>2003-09-30T07:00:00.000Z</updated>
+    <published>2003-09-30T07:00:00.000Z</published>
+    <summary>Here. Sure, sure, MIT is well known for their high-tech education, blah, blah, blah. What I think is *much* cooler is that MIT's Open Courseware project has also put up a large number of courses from the Sloan School of Management, where I can learn all kinds of investing, finance, marketing and business basics from folks that aren't trying to upsell me. I wish MIT provided discussion forums so that I could talk with other students "taking" the OCW courses when I was or MIT students or faculty that didn't m...</summary>
+    <content type="html">&lt;h1>I *Trust* MIT&lt;/h1>
+&lt;a href="http://ocw.mit.edu/OcwWeb/Sloan-School-of-Management/index.htm">Here&lt;/a>. Sure, sure, MIT is well known for their high-tech education, blah, blah, blah. What I think is *much* cooler is that MIT's Open Courseware project has also put up a large number of courses from the Sloan School of Management, where I can learn all kinds of investing, finance, marketing and business basics from folks that aren't trying to upsell me.
+
+I wish MIT provided discussion forums so that I could talk with other students "taking" the OCW courses when I was or MIT students or faculty that didn't mind answering questions, but just having the materials up is *huge*.
+
+I think I'll start with 15.433...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/838</id>
+    <title>A *royalty* check from Pearson!</title>
+    <updated>2003-09-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-29T07:00:00.000Z</published>
+    <summary>Here. Whoa. I just got a royalty check from Pearson today. Right now, it lists my advance for the WinForms book (which may turn into positive money some day), but also includes money from ATL Internals (which I'm still proud of) and Windows Telephony Programming (which I can't believe is still selling!). I won't be able to put my kids through college with the money. In fact, I can barely put them through a car wash with that money, but it's still nice. : )</summary>
+    <content type="html">&lt;h1>A *royalty* check from Pearson!&lt;/h1>
+&lt;a href="/writing">Here&lt;/a>. Whoa. I just got a royalty check from Pearson today. Right now, it lists my advance for the WinForms book (which may turn into positive money some day), but also includes money from ATL Internals (which I'm still proud of) and Windows Telephony Programming (which I can't believe is still selling!). I won't be able to put my kids through college with the money. In fact, I can barely put them through a car wash with that money, but it's still nice. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/839</id>
+    <title>Creating Doc-Centric Apps in WinForms, part 1 of 3</title>
+    <updated>2003-09-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-09-29T07:00:00.000Z</published>
+    <summary>Here. This 3-part series really belonged as a chapter in my WinForms book, but after doubling the estimated size of the book (not to mention the amount of time it was supposed to take to write it), my publisher was anxious for me to stop writing. For those folks accustomed to the document management support in MFC or for anyone that needs to build document-centric WinForms application, I think you'll like this series. Part 1 discusses the basics of document management in SDI WinForms apps. Part 2 discusses ...</summary>
+    <content type="html">&lt;h1>Creating Doc-Centric Apps in WinForms, part 1 of 3&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms09182003.asp">Here&lt;/a>. This 3-part series really belonged as a chapter in my WinForms book, but after doubling the estimated size of the book (not to mention the amount of time it was supposed to take to write it), my publisher was anxious for me to stop writing.
+
+For those folks accustomed to the document management support in MFC or for anyone that needs to build document-centric WinForms application, I think you'll like this series.
+
+Part 1 discusses the basics of document management in SDI WinForms apps.
+
+Part 2 discusses MDI apps and deeper shell integration.
+
+Part 3 wraps most everything up into a reusable component, turning the construction of document management features in .NET largely into some drag-n-drop and some property browser settings. The resultant FileDocument component is available in the latest Genghis sources (although not yet in the release zip) @ http://www.genghisgroup.com
+
+Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/837</id>
+    <title>Interview with Tim Bray, co-inventor of XML</title>
+    <updated>2003-09-29T07:00:00.000Z</updated>
+    <published>2003-09-29T07:00:00.000Z</published>
+    <summary>Here. Tim talks on the topic of the business value of XML and web services, the difficulting in programming XML, and the strides that tools like.NET are making in making XML less difficult to program.</summary>
+    <content type="html">&lt;h1>Interview with Tim Bray, co-inventor of XML&lt;/h1>
+&lt;a href="http://rss.com.com/2008-1082_3-5080774.html">Here&lt;/a>. Tim talks on the topic of the business value of XML and web services, the difficulting in programming XML, and the strides that tools like .NET are making in making XML less difficult to program.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/834</id>
+    <title>The Google File System</title>
+    <updated>2003-09-28T07:00:00.000Z</updated>
+    <published>2003-09-28T07:00:00.000Z</published>
+    <summary>Here. The GFS is interesting not only for how fast it lets Google be, but also for it's dependence on standard, commodity hardware and it's expectation that failure is the nominal case. [boingboing.net]</summary>
+    <content type="html">&lt;h1>The Google File System&lt;/h1>
+&lt;a href="http://www.cs.rochester.edu/sosp2003/papers/p125-ghemawat.pdf">Here&lt;/a>. The GFS is interesting not only for how fast it lets Google be, but also for it's dependence on standard, commodity hardware and it's expectation that failure is the nominal case.
+
+[boingboing.net]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/835</id>
+    <title>Pointy-Hair Boss Tells All</title>
+    <updated>2003-09-28T07:00:00.000Z</updated>
+    <published>2003-09-28T07:00:00.000Z</published>
+    <summary>Here. When I read a Dilbert like this, it amuses me in ways I don't understand.</summary>
+    <content type="html">&lt;h1>Pointy-Hair Boss Tells All&lt;/h1>
+&lt;a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20030928.html">Here&lt;/a>. When I read a Dilbert like this, it amuses me in ways I don't understand.</content>
+  </entry>
+</feed>

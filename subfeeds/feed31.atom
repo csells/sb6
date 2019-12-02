@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed31.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed30.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed32.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed31.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1976</id>
+    <title>Greetings from Switzerland</title>
+    <updated>2006-03-22T08:00:00.000Z</updated>
+    <published>2006-03-22T08:00:00.000Z</published>
+    <summary>Hello from the fabulous Victoria-Jungrau Hotel in Interlaken, Switzerland, where Mel and I have just landed after three days in a much dinkier hotel in Rome (and although it was just a block away from the Vatican, I never ran into the pope at any of the local eateries or pubs...). I tried to post from the coin-operated Unix machine in our hotel basement last night, but the browser didn't like the POST involved in adding new content to my site (or maybe it was the alt-shift-left knee to get the @ sign to app...</summary>
+    <content type="html">&lt;h1>Greetings from Switzerland&lt;/h1>
+&lt;P>Hello from the fabulous Victoria-Jungrau Hotel in Interlaken, Switzerland, where Mel and I have just landed after three days in a much dinkier hotel in Rome (and although it was just a block away from the Vatican, I never ran into the pope at any of the local eateries or pubs...). I tried to post from the coin-operated Unix machine in our hotel basement last night, but the browser didn't like the POST involved in adding new content to my site (or maybe it was the alt-shift-left knee to get the @ sign to appear on the Italian keyboard...).&lt;/P>
+&lt;P>This hotel room is nicer than our house, as evidenced by the fact that Mel made me take my jacket off the bed so that she could get &amp;#8220;pristine&amp;#8221; shots (including from an elevated position in the bathroom). They always treat us so well in Switzerland. Highly recommended.&lt;/P>
+&lt;P>This is my first real connected experience since boarding the plane Sunday morning (I don't care how cool Outlook Web Access is&amp;nbsp;-- it ain't nearly so cool as the Windows version), although I was able to get my cell phone to download my emails. I can't image what that bill will be like...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1975</id>
+    <title>I just watched my son learn to fear the computer</title>
+    <updated>2006-03-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-03-16T08:00:00.000Z</published>
+    <summary>When kids are young, they have no fear of computers or anything else. My eldest, when he was 2.5, knew how to detect what OS he was running (I dual booted Win2K and Win95 at the time), remember which OS his games needed, reboot, choose the non-default OS from the boot menu and start his app like it was the most natural thing in the world. Even though he couldn't read, he learned all of the functionality of the app by choosing all of the menu items and pressing all of the toolbar icons just to see what they ...</summary>
+    <content type="html">&lt;h1>I just watched my son learn to fear the computer&lt;/h1>
+&lt;P>When kids are young, they have no fear of computers or anything else. My eldest, when he was 2.5, knew how to detect what OS he was running (I dual booted Win2K and Win95 at the time), remember which OS his games needed, reboot, choose the non-default OS from the boot menu and start his app like it was the most natural thing in the world. Even though he couldn't read, he learned all of the functionality of the app by choosing all of the menu items and pressing all of the toolbar icons just to see what they did. He had no fear.&lt;/P>
+&lt;P>Tonight, my youngest was working in Word, writing a paper that's due tomorrow (of course). After he was finished digging through the thesaurus on the right-hand side, he wanted to close that part of the window, but accidental pressed the X to close the document he was working on (which, of course, he hadn't saved). When he was asked if he was sure, he thought he was being asked if he was sure he wanted to close the thesaurus, so he pressed "Yes."&lt;/P>
+&lt;P>The moment his document disappeared is when he learned to fear the power of the computer to throw away his work.&lt;/P>
+&lt;P>What did he do wrong?&amp;nbsp;How do I explain it to him? What did we do wrong as an industry to teach my son to fear a tool meant to help?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1974</id>
+    <title>Ninja's Need Love</title>
+    <updated>2006-03-15T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-03-15T08:00:00.000Z</published>
+    <summary>I love the internet. Where else would you see a video of a ninja answering letters about love?</summary>
+    <content type="html">&lt;h1>Ninja's Need Love&lt;/h1>
+I love the internet. Where else would you see a video of &lt;A href="http://askaninja.com/news/2006/02/01/ask-a-ninja-question-9-ninja-love-wmv">a ninja answering letters about love&lt;/A>?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1972</id>
+    <title>My $366 Vista PC</title>
+    <updated>2006-03-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-03-11T08:00:00.000Z</published>
+    <summary>This morning, I read about a $159 computer from a review on the PC Magazine site : I called my local&amp;nbsp; Fry's, and while they were no longer have the $159 sale (apparently "quantities are limited"), they would be willing to sell me one for $171. While I was there, I got a 1GB memory upgrade and a 256MB ATI graphics card. Here's the equipment I went home with: Fry's Genuine Quality 3131 PC: $170.99 1.67GHz CPU 128MB of RAM 40GB HD 10/100 integrated Ethernet 56KB modem card 52X CD-ROM Stereo speakers Keybo...</summary>
+    <content type="html">&lt;h1>My $366 Vista PC&lt;/h1>
+&lt;P>This morning, I read about &lt;A href="http://www.pcmag.com/article2/0,1895,1932801,00.asp">a $159 computer from a review on the PC Magazine site&lt;/A>:&lt;/P>
+&lt;P>&lt;IMG src="/public/spout/gq3131.jpg">&lt;/P>
+&lt;P>I called my local&amp;nbsp;&lt;A href="http://www.frys.com/">Fry's&lt;/A>, and while they were no longer have the $159 sale (apparently "quantities are limited"), they would be willing to sell me one for $171. While I was there, I got a 1GB memory upgrade and a 256MB ATI graphics card. Here's the equipment I went home with:&lt;/P>
+&lt;UL>
+&lt;LI>Fry's Genuine Quality 3131 PC: &lt;STRONG>$170.99&lt;/STRONG>&lt;/LI>
+&lt;UL>
+&lt;LI>1.67GHz CPU&lt;/LI>
+&lt;LI>128MB of RAM&lt;/LI>
+&lt;LI>40GB HD&lt;/LI>
+&lt;LI>10/100 integrated Ethernet&lt;/LI>
+&lt;LI>56KB modem card&lt;/LI>
+&lt;LI>52X CD-ROM&lt;/LI>
+&lt;LI>Stereo speakers&lt;/LI>
+&lt;LI>Keyboard + Mouse (including roller ball)&lt;/LI>&lt;/UL>
+&lt;LI>ATI Radeon 9550, AGP 8x/4x, 256MB DDR RAM: &lt;STRONG>$94.99&lt;/STRONG>&lt;/LI>
+&lt;LI>1GB RAM SIMM(for a total of 1.1GB of RAM): &lt;STRONG>$99.99&lt;/STRONG>&lt;/LI>&lt;/UL>
+&lt;P>I then added an LCD panel and a DVD drive I had laying around. &lt;STRONG>Total cost $365.97.&lt;/STRONG>&lt;/P>
+&lt;P>When I got the PC, it came pre-installed with Lindows, the Linux distro meant to look and act like Windows. And I gotta say, it wasn't too bad. Then, because they ship a free CD that runs directly w/o an install, I plugged in Ubuntu, another popular client-side Linux distro which was also surprisingly easy to use. Neither was as familiar as Windows XP, of course, but they were both a lot easier to use then the last time I ran Linux.&lt;/P>
+&lt;P>At 12:04am, I started the Vista Feb '06 CTP installation. At 12:44am, I was running Vista, it having recognized all of hardware (except the sound device) from my $366 PC, including enabling those cool "glass" effects and the nifty animations, integrated search and all the neat things you've read about in the Vista reviews.&lt;/P>
+&lt;P>I know I work for "the man," but even so, I'm seriously impressed. The install was fast and seamless. The performance is way better than I thought it would be. And the little UI tricks are fabulous. I can't do any media stuff 'cuz my audio device wasn't recognized, but it was cool when I tried to play video and a DVD, that the Vista Media Center UI came up (my complete home entertainment needs are served with a coupla TVs, a Media Center PC and an XBox).&lt;/P>
+&lt;P>I know, I know, I got the OS for free, but come on! It's still beta and it runs great on my cheapo PC! I don't know what Vista's going to go for, but I bet the whole she-bang (including LCD panel and DVD drive) could be had for ~$500 when Vista ships. Plus,&amp;nbsp;I've only been playing with it for about an hour, but I already don't want to go back to my XP boxes...&lt;/P>
+&lt;P>P.S. This post was composed and posted from "visto," my new Vista PC.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1971</id>
+    <title>Zombie MMORPG</title>
+    <updated>2006-03-10T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-03-10T08:00:00.000Z</published>
+    <summary>Here. I love this idea! " Exanimus is an online massively multiplayer game created in a world where the dead live and roam the earth eating the flesh of the living. While most of the world is dead, there are small pockets of survivors that exist in barricaded cities across the globe." You guy will kill me before I change, right? </summary>
+    <content type="html">&lt;h1>Zombie MMORPG&lt;/h1>
+&lt;a href="http://www.warcry.com/scripts/news/view_news.phtml?site=15&amp;id=52757">Here&lt;/a>. &lt;P>I love this idea!&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"&lt;A href="http://www.warcry.com/scripts/news/view_news.phtml?site=15&amp;amp;id=52757">Exanimus&lt;/A> is an online massively multiplayer game created in a world where the dead live and roam the earth eating the flesh of the living. While most of the world is dead, there are small pockets of survivors that exist in barricaded cities across the globe."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>You guy will kill me before I change, right?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1970</id>
+    <title>I'm *loving* the new live.com images search</title>
+    <updated>2006-03-09T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-03-09T08:00:00.000Z</published>
+    <summary>Live.com has a new image search which does progressive showing of images, scaling of the group and individual photos in very cool ways, but the killer feature is when you surf to the page from whence the image comes, the image is shown in full size hovering above the page. Very slick. My only complaint is that there seems to be no way to do an image search w/o first doing a normal search and then pressing the "Images" button. Still, I've switched from a9.com and google.com image search. </summary>
+    <content type="html">&lt;h1>I'm *loving* the new live.com images search&lt;/h1>
+&lt;P>&lt;A href="http://live.com">Live.com&lt;/A> has a new image search which does progressive showing of images, scaling of the group and individual photos in very cool ways, but the killer feature is when you surf to the page from whence the image comes, the image is shown in full size hovering above the page. Very slick. My only complaint is that there seems to be no way to do an image search w/o first doing a normal search and then pressing the "Images" button. Still, I've switched from a9.com and google.com image search.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1969</id>
+    <title>ClickOnce + FireFox</title>
+    <updated>2006-03-07T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-03-07T08:00:00.000Z</published>
+    <summary>If you're having trouble with ClickOnce while using FireFox as your default browser, then this post is for you. Thanks, Saurabh! </summary>
+    <content type="html">&lt;h1>ClickOnce + FireFox&lt;/h1>
+&lt;P>If you're having trouble with &lt;A href="http://blogs.msdn.com/saurabh/archive/2006/03/02/541988.aspx">ClickOnce while using FireFox as your default browser&lt;/A>, then &lt;A href="http://blogs.msdn.com/saurabh/archive/2006/03/02/541988.aspx">this post&lt;/A> is for you. Thanks, Saurabh!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1968</id>
+    <title>Fabulous Half-Life 2 Comic</title>
+    <updated>2006-03-03T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2006-03-03T08:00:00.000Z</published>
+    <summary>Here's a tip -- if you've got a deadline, don't wander over to the Half-Life 2 comic "Concerned." &amp;nbsp;I'm a *huge* Half-Life and Half-Life 2 fan, so when I heard about it, I went right over and now that's two hours of my life I'll never get back (but were oh so pleasantly spent) reading all 120 comic strips front to back. Since I've been spending my evenings and weekends playing Half-Life 2 again (why oh why aren't there any more good games?!?), all of the stuff in these comics is fresh in my mind. Plus, ...</summary>
+    <content type="html">&lt;h1>Fabulous Half-Life 2 Comic&lt;/h1>
+&lt;P>Here's a tip -- if you've got a deadline, don't wander over to &lt;A href="http://www.hlcomic.com/">the Half-Life 2 comic "Concerned."&lt;/A>&amp;nbsp;I'm a *huge* Half-Life and Half-Life 2 fan, so when I heard about it, I went right over and now that's two hours of my life I'll never get back (but were oh so pleasantly spent) reading all 120 comic strips front to back. Since I've been spending my evenings and weekends playing Half-Life 2 again (why oh why aren't there any more good games?!?), all of the stuff in these comics is fresh in my mind. Plus, I don't mean "comic inspired by Half-Life 2;" the guy actually posing characters and objects from the game using a Half-Life 2 mod and builds his comics out of the screen shots, adding hilarious&amp;nbsp;prose. It's like if &lt;A href="http://www.neopoleon.com/">Rory&lt;/A>&amp;nbsp;built his comics from "Stick Figure World 3D" (coming soon to XBox&amp;nbsp;360).&amp;nbsp;Very highly recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1967</id>
+    <title>Hello from ASP.NET 2.0</title>
+    <updated>2006-02-26T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2006-02-26T08:00:00.000Z</published>
+    <summary>I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with the experience, so I didn't pull the trigger on moving it to a production environment. I'm glad I waited. I ported the site again last night using the VS05 Web Application Project preview and it worked a treat. Recommended.</summary>
+    <content type="html">&lt;h1>Hello from ASP.NET 2.0&lt;/h1>
+I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with the experience, so I didn't pull the trigger on moving it to a production environment. I'm glad I waited. I ported the site again last night using the &lt;A href="http://webproject.scottgu.com/">VS05 Web Application Project preview&lt;/A> and it worked a treat. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1965</id>
+    <title>PM Skill #9: Learn From The Masters</title>
+    <updated>2006-02-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-25T08:00:00.000Z</published>
+    <summary>Of course, when you're learning to do something, whatever it is, you should check out how a lot of different folks do it. For example, the author of The Game learned to be a PUA from a variety of sources. One PUA guru of PM love is Brad Abrams and he regularly spills his guts onto his blog (plus, you've got to love his numbering scheme...): PM Tip #21: Sanity Will Prevail PM Tip # 32: Nothing kills excitement like ambiguity PM Tip #57: Write the agenda on the board Peanut butter and software planning &lt;LI</summary>
+    <content type="html">&lt;h1>PM Skill #9: Learn From The Masters&lt;/h1>
+&lt;P>Of course, when you're learning to do something, whatever it is, you should check out how a lot of different folks do it. For example, the author of &lt;A href="http://www.amazon.com/gp/product/0060554738/">The Game&lt;/A> learned to be a &lt;A href="http://en.wikipedia.org/wiki/PUA">PUA&lt;/A> from a variety of sources. One PUA guru of PM love is Brad Abrams and he regularly spills his guts onto his blog (plus, you've got to love his numbering scheme...):&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2006/02/22/536644.aspx">PM Tip #21: Sanity Will Prevail&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2006/02/21/535235.aspx">PM Tip # 32: Nothing kills excitement like ambiguity&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2006/02/03/522857.aspx">PM Tip #57: Write the agenda on the board&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2005/11/21/PeanutButterInSoftwarePlanning.aspx">Peanut butter and software planning&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2006/01/28/BeMoreVisibleSham.aspx">PM Tip #73: The "Be More Visible" Sham&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://blogs.msdn.com/brada/archive/2005/12/17/RevealYourStupidity_.aspx">Program Manager Wisdom #78: Reveal your stupidity&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1966</id>
+    <title>testing</title>
+    <updated>2006-02-25T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-25T08:00:00.000Z</published>
+    <summary>1.2.3...</summary>
+    <content type="html">&lt;h1>testing&lt;/h1>
+1.2.3...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1964</id>
+    <title>PM Skill #8: Give Credit Freely</title>
+    <updated>2006-02-24T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-24T08:00:00.000Z</published>
+    <summary>Engineers are people, too, and appreciate pats on the back as much as anyone. In fact, many of us are so socially needy that we're willing to trade "attaboys" for money (and hence the fuel that drives the OSS community). The beauty: praise is cheap. Blocks of plastic, plaques, bowling night morale events, etc, all cost money and can be the cause of derision as often as pride. On the other hand, sincere praise freely given doesn't cost a thing, but it's often much more appreciated. So why doesn't praise happ...</summary>
+    <content type="html">&lt;h1>PM Skill #8: Give Credit Freely&lt;/h1>
+&lt;P>Engineers are people, too, and appreciate pats on the back as much as anyone. In fact, many of us are so socially needy that we're willing to trade "attaboys" for money (and hence the fuel that drives the OSS community).&lt;/P>
+&lt;P>The beauty: praise is cheap. Blocks of plastic, plaques, bowling night morale events, etc, all cost money and can be the cause of derision as often as pride. On the other hand, sincere praise freely given doesn't cost a thing, but it's often much more appreciated.&lt;/P>
+&lt;P>So why doesn't praise happen more often? I think one reason is because we're engineers, so we're trained to focus on where our work falls short, often completely ignoring when it lives up to expectations. Also, sadly, it's not uncommon for folks to want to take credit for themselves . However, as PMs, we have to remember that just because we give the presentation or write the status email doesn't mean that we did the work. We need to be explicit about giving credit.&lt;/P>
+&lt;P>So, the next time you're giving a talk, don't say "And this feature does ..." say "This feature, &lt;STRONG>which Pete implemented&lt;/STRONG>, does this..." When you're writing that status email, don't say "We implemented feature XXX this week...," say "&lt;STRONG>Carol and Joe implemented feature XXX &lt;/STRONG>this week..." As soon as you do this, Pete, Carol and Joe know that you appreciate their work and that whoever you're communicating with knows that they did good things. Appreciated team members are happy team members.&lt;/P>
+&lt;P>So, does that mean you should praise things you don't necessarily appreciate, just to keep your team motivated? Absolutely not. As soon as the praise sounds empty, you've done more harm than saying nothing at all. Definitely look for opportunities to give credit, but don't make stuff up that you don't believe.&lt;/P>
+&lt;P>But what do you do to get praise for your own work if you're busy doing all of this praising of your team mates? Nothing. Praise from yourself is called "bragging" and it makes you look stupid (I know this because I struggle w/ this constantly). Give your praise freely and let others do the same. If you're effective, people will say good things and that'll be enough.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1963</id>
+    <title>Feb06 CTP of WinFX</title>
+    <updated>2006-02-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2006-02-22T08:00:00.000Z</published>
+    <summary>The February '06 WinFX CTP cometh: WinFX RC February CTP Readme WinFX Runtime Components Windows SDK Visual Studio Community Technology Preview - Development Tools for WinFX&amp;#174; (aka Fidalgo) VS Extensions for WorkFlow Ed's Big List of WCF Breaking Changes</summary>
+    <content type="html">&lt;h1>Feb06 CTP of WinFX&lt;/h1>
+&lt;P>The February '06 WinFX CTP cometh:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://msdn.microsoft.com/windowsvista/support/relnotes/winfxfebctp/default.aspx">WinFX RC February CTP Readme&lt;/A> &lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=F51C4D96-9AEA-474F-86D3-172BFA3B828B&amp;amp;displaylang=en">WinFX Runtime Components&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=9BE1FC7F-0542-47F1-88DD-61E3EF88C402&amp;amp;displaylang=en">Windows SDK&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=AD0CE56E-D7B6-44BC-910D-E91F3E370477&amp;amp;displaylang=en ">Visual Studio Community Technology Preview - Development Tools for WinFX&amp;#174; (aka Fidalgo)&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A2151993-991D-4F58-A707-5883FF4C1DC2&amp;amp;displaylang=en ">VS Extensions for WorkFlow&lt;/A>&lt;/LI>
+&lt;li>&lt;a href="http://blogs.msdn.com/edpinto/archive/2006/02/22/537027.aspx">Ed's Big List of WCF Breaking Changes&lt;/a>
+&lt;li>&lt;a href="http://blogs.msdn.com/karstenj/archive/2006/02/22/537049.aspx">Karsten's Big List of WPF Breaking Changes&lt;/a>&lt;/li>
+&lt;/UL>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1961</id>
+    <title>Scrum is very focusing</title>
+    <updated>2006-02-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-15T08:00:00.000Z</published>
+    <summary>We started using scrum in my group this week and I'm already finding myself pushing aside work that I would normally sign up for in other groups. Scrum gives you to choice of being able to say "I did what I said I was going to do yesterday" or "I didn't." I want to always be able to say the former or have a good reason why not. Is "I was working with this other group" a good reason when the rest of your team is focused 100% on the thing? This is going to play hell with MS culture, but in a good way, imo.</summary>
+    <content type="html">&lt;h1>Scrum is very focusing&lt;/h1>
+We started using scrum in my group this week and I'm already finding myself pushing aside work that I would normally sign up for in other groups. Scrum gives you to choice of being able to say "I did what I said I was going to do yesterday" or "I didn't." I want to always be able to say the former or have a good reason why not. Is "I was working with this other group" a good reason when the rest of your team is focused 100% on the thing? This is going to play hell with MS culture, but in a good way, imo.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1962</id>
+    <title>A Reviewing Trick I Learned A Long Time Ago</title>
+    <updated>2006-02-15T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2006-02-15T08:00:00.000Z</published>
+    <summary>I learned this way of reviewing artifacts from Cal Caldwell, a friend of mine from my instructor days. The technique is for doing code reviews, but I'm going to be using it later this week for some design docs. Anybody who recognizes this technique can chime in with what it's called: Every reviewer gets a different "hat," i.e. a POV that they adopt when reviewing, e.g. looking for coding guidelines, looking for readability, looking at a feature from an architecture pov, looking at it from a particular custo...</summary>
+    <content type="html">&lt;h1>A Reviewing Trick I Learned A Long Time Ago&lt;/h1>
+&lt;P>I learned this way of reviewing artifacts from Cal Caldwell, a friend of mine from my instructor days. The technique is for doing code reviews, but I'm going to be using it later this week for some design docs. Anybody who recognizes this technique can chime in with what it's called:&lt;/P>
+&lt;UL dir=ltr>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">Every reviewer gets a &lt;STRONG>different "hat,"&lt;/STRONG> i.e. a POV that they adopt when reviewing, e.g. looking for coding guidelines, looking for readability, looking at a feature from an architecture pov, looking at it from a particular customer pov, etc. Anyone can have feedback on anything, but the idea is that with different folks wearing different hats, you get a greater coverage.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">Every reviewer &lt;STRONG>brings review comments to the meeting&lt;/STRONG>, i.e. you reviewer before hand and only report at the meeting.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">Every reviewer must &lt;STRONG>start with something nice!&lt;/STRONG> Too often, engineers focus on the negative. Saying nice cushions the blow and reinforces the good things so that they don't get cut.&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV style="MARGIN-RIGHT: 0px">Each piece of feedback will be logged (hopefully by the person that provides it) and spoken to the reviewee, but &lt;STRONG>will not be argued with&lt;/STRONG>. If a reviewee disagrees, they keep it to themselves, asking only clarification questions to make sure that they understand the feedback. What feedback is applied it up to the reviewee and any follow up arguments happen offline.&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P style="MARGIN-RIGHT: 0px">That's it. The best code reviews I've every participated in used this technique and I can recommend it highly for that. On Monday, we're going to use it to get through a large number of design docs, so I'll let you know how that goes.&lt;/P></content>
+  </entry>
+</feed>

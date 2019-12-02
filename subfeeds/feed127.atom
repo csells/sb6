@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed127.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed126.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed128.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed127.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/641</id>
+    <title>Less Than 10 Seats Left @ Applied XML Dev.Conf.</title>
+    <updated>2003-06-27T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-06-27T07:00:00.000Z</published>
+    <summary>Here. If you're waiting 'til the last minute to register for the Applied XML Developer's Conference, you'll want to lock in soon. There's less than 10 seats available, so registering now would be good.</summary>
+    <content type="html">&lt;h1>Less Than 10 Seats Left @ Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. If you're waiting 'til the last minute to register for the Applied XML Developer's Conference, you'll want to lock in soon. There's less than 10 seats available, so registering now would be good.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/639</id>
+    <title>Amazon.com + Kevin Bacon-style Relation Paths</title>
+    <updated>2003-06-26T07:00:00.000Z</updated>
+    <published>2003-06-26T07:00:00.000Z</published>
+    <summary>Here. I was hanging out with Eric Promislow from ActiveState this week and he pointed me at his "Baconizer" web site, which will connect a path between any two books (or CDs or DVDs). For example, from "The Best of Martha Stewart Living : Weddings" to "Mastering Visual Studio.NET" is only 11 hops (and some time in prison). Hours of fun for the whole family.</summary>
+    <content type="html">&lt;h1>Amazon.com + Kevin Bacon-style Relation Paths&lt;/h1>
+&lt;a href="http://www.baconizer.com/">Here&lt;/a>. I was hanging out with Eric Promislow from ActiveState this week and he pointed me at his "Baconizer" web site, which will connect a path between any two books (or CDs or DVDs).
+
+For example, from "The Best of Martha Stewart Living : Weddings" to "Mastering Visual Studio .NET" is only 11 hops (and some time in prison).
+
+Hours of fun for the whole family.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/638</id>
+    <title>Applied XML Dev.Conf. Message Board Heating Up</title>
+    <updated>2003-06-26T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-06-26T07:00:00.000Z</published>
+    <summary>Here. The message board for the Applied XML Developer's Conference is heating up a bit. I set it up for the audience to be able to communicate during the presentations, but folks are already using it to coordinate Dev.Conf.-related activites. Enjoy.</summary>
+    <content type="html">&lt;h1>Applied XML Dev.Conf. Message Board Heating Up&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/community/messageboard/MessageBoard.aspx?id=3714">Here&lt;/a>. The message board for the Applied XML Developer's Conference is heating up a bit. I set it up for the audience to be able to communicate during the presentations, but folks are already using it to coordinate Dev.Conf.-related activites. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/637</id>
+    <title>BillG Comments on my ThinkWeek Paper</title>
+    <updated>2003-06-25T07:00:00.000Z</updated>
+    <published>2003-06-25T07:00:00.000Z</published>
+    <summary>Here. Not only did I get comments back on my ThinkWeek paper, but they were all positive (although understandably brief). Here're the parts that don't give away what I proposed: "Good scenario here.... We should keep pushing on this." I don't know what this means in terms of something actually happening, but I certainly got the only good result I had envisioned. : )</summary>
+    <content type="html">&lt;h1>BillG Comments on my ThinkWeek Paper&lt;/h1>
+&lt;a href="/12551">Here&lt;/a>. Not only did I get comments back on my ThinkWeek paper, but they were all positive (although understandably brief). Here're the parts that don't give away what I proposed:
+
+"Good scenario here. ... We should keep pushing on this."
+
+I don't know what this means in terms of something actually happening, but I certainly got the only good result I had envisioned. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/636</id>
+    <title>Updater Application Block on MSDN.COM</title>
+    <updated>2003-06-25T07:00:00.000Z</updated>
+    <published>2003-06-25T07:00:00.000Z</published>
+    <summary>Here. Jamie Cool's App Updater sample that keeps an installed WinForms application up to date with bits from a server has been updated and is now available as the Updater Application Block to be even more robust (although Jamie's sample code was used for all of the Terrarium code updates, which had huge usage). Recommended.</summary>
+    <content type="html">&lt;h1>Updater Application Block on MSDN.COM&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/updater.asp">Here&lt;/a>. Jamie Cool's App Updater sample that keeps an installed WinForms application up to date with bits from a server has been updated and is now available as the Updater Application Block to be even more robust (although Jamie's sample code was used for all of the Terrarium code updates, which had huge usage). Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/635</id>
+    <title>Amazon.com on Web Services @ Applied XML Dev.Conf.</title>
+    <updated>2003-06-25T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-06-25T07:00:00.000Z</published>
+    <summary>Here. Colin Bryar, Director of Amazon.com Web Services &amp; Associates, will be giving an in depth talk at the Applied XML Developer's Conference on the how and why of web services at Amazon.com, one of the world's most well-known and most heavily used engines for driving revenue for 3rd parties (as well as for Amazon.com itself).</summary>
+    <content type="html">&lt;h1>Amazon.com on Web Services @ Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Colin Bryar, Director of Amazon.com Web Services &amp; Associates, will be giving an in depth talk at the Applied XML Developer's Conference on the how and why of web services at Amazon.com, one of the world's most well-known and most heavily used engines for driving revenue for 3rd parties (as well as for Amazon.com itself).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12543</id>
+    <title>The Danger of Good Debate Skills</title>
+    <updated>2003-06-23T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-23T07:00:00.000Z</published>
+    <summary>I have been in technical arguments many times where I knew I was right and used every once of my debate skills to convince the other person of their terrible wrongness. This can go four ways: I'm right and they eventually agree I'm wrong and I turn to their point of view They get worn down and stop listening I'm wrong, but they fail to convince me Being right is fun, of course, as is finding someone that's willing to change your mind (lots of folks don't like to argue). Wearing a person down is no fun at al...</summary>
+    <content type="html">&lt;h1>The Danger of Good Debate Skills&lt;/h1>
+&lt;p>I 
+have been in technical arguments many times where I knew I was right and used 
+every once of my debate skills to convince the other person of their terrible 
+wrongness. This can go four ways:&lt;/p>&lt;ol>&lt;li>I'm right and they eventually agree&lt;/li>&lt;li>
+	I'm wrong and I turn to their point of view&lt;/li>&lt;li>They get worn down and 
+	stop listening&lt;/li>&lt;li>I'm wrong, but they fail to convince me&lt;/li>&lt;/ol>&lt;p>
+Being right is fun, of course, as is finding someone that's willing to change 
+your mind (lots of folks don't like to argue). Wearing a person down is no fun 
+at all, but by far the worst is that I'm wrong and I stay wrong. Unfortunately, 
+as a professional communicator for the better part of a decade, #4 is a real 
+possibility and it's something to really watch out for. Being right is easy. 
+Recognizing that I'm wrong is easy when I'm arguing with someone with good 
+communications skills. Recognizing that I'm wrong when the person I'm arguing 
+with isn't quite up to the task, that's hard to detect and fix.&lt;/p>&lt;p>Of course, 
+even harder is being wrong and having no one to tell you you're wrong, but I 
+can't blame that on anyone but myself. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/634</id>
+    <title>Whidbey XML Tools Preview @ Applied XML Dev.Conf.</title>
+    <updated>2003-06-23T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-06-23T07:00:00.000Z</published>
+    <summary>Here. Microsoft's suite of XML tools will grow considerably in the Whidbey timeframe. MS is showing off their initial ideas at the Applied XML Developer's Conference to gather feedback. Don't miss it!</summary>
+    <content type="html">&lt;h1>Whidbey XML Tools Preview @ Applied XML Dev.Conf.&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Microsoft's suite of XML tools will grow considerably in the Whidbey timeframe. MS is showing off their initial ideas at the Applied XML Developer's Conference to gather feedback. Don't miss it!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12412</id>
+    <title>Chris's Notes on Cashflow Quadrant</title>
+    <updated>2003-06-22T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-22T07:00:00.000Z</published>
+    <summary>Chris's Notes on Cashflow Quadrant: Rich Dad's Guide to Financial Freedom, Robert T. Kiyosaki and Sharon L. Lechter, Warner Books, April, 2000. I recommend this book for the way it twisted my head around. There aren't any &amp;quot;how to&amp;quot; details in this book, but it still had some pretty valuable ideas in it that really changed my thinking and inspired me about what's possible: There are four main ways to make money: as an employee, being self-employed, running a business and investing. Our society has t...</summary>
+    <content type="html">&lt;h1>Chris's Notes on Cashflow Quadrant&lt;/h1>
+
+		&lt;p>Chris's Notes on
+		&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0446677477/chrissells">
+		Cashflow Quadrant: Rich Dad's Guide to Financial Freedom, Robert T. Kiyosaki and Sharon L. Lechter, Warner Books, April, 2000&lt;/a>. I 
+		recommend this book for the way it twisted my head around.&lt;/p>
+		&lt;p>There aren't any &amp;quot;how to&amp;quot; details in this book, but it still had some 
+		pretty valuable ideas in it that really changed my thinking and inspired 
+		me about what's possible:&lt;/p>
+		&lt;ul>
+			&lt;li>There are four main ways to make money: as an employee, being 
+			self-employed, running a business and investing.&lt;/li>
+			&lt;li>Our society has trained the middle and lower classes that 
+			success looks like getting a good job and being a good little 
+			consumer. I'd long recognized the cycle of get into college-&amp;gt;get a 
+			good job-&amp;gt;save for your kids' college education-&amp;gt;they do it all over 
+			again for their kids, but I didn't know what alternative I had.&lt;/li>
+			&lt;li>The alternatives, according to this book, are running a business 
+			and/or investing. Specifically, this book really pushed running a 
+			business to fund investments, mostly for the tax benefits. My own 
+			thoughts are that having a business to fund investments is the 
+			absolute right thing to do. However, having a business that 
+			generates extra money to invest is easier said than done. If that's 
+			your plan, you should go away and do that first, then figure out the 
+			investing thing later in your leisure by the pool.&lt;/li>
+			&lt;li>Folks that run their own business or invest have a reasonable 
+			chance for financial independence, whereas employees and the 
+			self-employed do not.&lt;/li>
+			&lt;li>Financial independence has a specific definition: having more 
+			passive monthly income than your monthly expenses. Only when's it's 
+			passive income, i.e. you don't have to do the work to generate the 
+			income, do your finances allow you to pursue whatever activities you 
+			want, regardless of their income generating abilities, e.g. write a 
+			novel or home school your kids.&lt;/li>
+		&lt;/ul>
+		&lt;p>In general, I really like the way that Kiyosaki writes, although it's 
+		very marketing-style, so it turns me on and off at the same time. What I 
+		like is that he writes in a very personal way, talking about his two 
+		fathers, one trapped in the rat race like most of us and the other who'd 
+		learned how to become financially independent. He uses examples of his 
+		fathers' behavior to illustrate his points and talks a lot about how be 
+		changed his own thinking to break himself out of the cycle.&lt;/p>
+		&lt;p>On the other hand, it seems like his major business is selling 
+		financial education-related materials to fuel his own wealth, so right 
+		away you have to suspect his motives. Also, his books are light on 
+		details, although he's happy to use them to point you at other produces 
+		that he or his partners have produced for more information. That's not a 
+		business model that respects the needs or intelligence of his audience. 
+		Still, if you ignore that and look for the ideas, I find his writing 
+		useful.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12411</id>
+    <title>"Them that know, don't tell"</title>
+    <updated>2003-06-22T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-06-22T07:00:00.000Z</published>
+    <summary>In general, I suspect all members of the financial education market, from authors to radio talk show hosts and everyone in between. When I obtain financial independence, I don't plan on teaching anyone but my own friends and family. Why would anyone do otherwise except to fleece the public? And then, having said that, I realize that every single book I've written, I wrote because I had a burning story to tell; I couldn't not write it. My motivation to write novels is grounded in my need to take my writing i...</summary>
+    <content type="html">&lt;h1>"Them that know, don't tell"&lt;/h1>
+
+		&lt;p>In general, I suspect all members of the financial education market, 
+		from authors to radio talk show hosts and everyone in between. When I 
+		obtain financial independence, I don't plan on teaching anyone but my 
+		own friends and family. Why would anyone do otherwise except to fleece 
+		the public?&lt;/p>
+		&lt;p>And then, having said that, I realize that every single book I've 
+		written, I wrote because I had a burning story to tell; I couldn't not 
+		write it. My motivation to write novels is grounded in my need to take 
+		my writing into a completely different direction w/o the requirement of 
+		generating an income stream. So it's likely that at least *some* of the 
+		folks in the financial education market are in it for love, but how can 
+		you tell which ones?&lt;/p>
+		&lt;p>Further, it's not generally true that &amp;quot;them that know, don't 
+		tell.&amp;quot; 
+		I know that I know how to write real software and how the technologies 
+		that form the topics of my writings and teachings really work, so at the 
+		very least, I'm the exception to that rule. However, there are an awful 
+		lot of exceptions, like all of my friends in the Windows developer 
+		education industry, so I reject the rule out of hand for at least a 
+		significant percentage of participants in any given field of education 
+		(certainly a significant percentage of them conform to the rule, of 
+		course, and those are likely to out number the ones that are the 
+		exception).&lt;/p>
+		&lt;p>However, all of us in the Windows developer education industry make 
+		our living on education, not on the technology itself. We've chosen 
+		education because it's more lucrative then being a practitioner. (This 
+		may help explain why elementary school teachers choose their field: can you 
+		think of a place that they can make more money on basic readin', 'ritin' 
+		and 'rithmatic than as a teacher?)&lt;/p>
+		&lt;p>So, if it's the case that education is more lucrative than practice, 
+		why should I buy someone's financial book, since they've obviously 
+		decided that selling me a book is more profitable than practicing what 
+		they're preaching. Further, the real-time markets have the built-in 
+		handicap that when a technique for really making money is widely put 
+		into use, the market adjusts for it, bringing the returns for that 
+		technique back in line with the market as a whole. If I discovered a new 
+		way to make real money, publishing how it works is the last thing that I 
+		want to do. Definitely, those kinds of books, like The Motley Fool's 
+		Investment Guide, are not what I want to put my trust into.&lt;/p>
+		&lt;p>Things I find I can trust more are books that inspire me, like Rich 
+		Dad, Poor Dad, or change the way I look at things, like Fooled by 
+		Randomness, or help me to establish a foundation of knowledge, like 
+		Investing for Dummies or Learn to Earn. These are books that don't 
+		promise to make me rich (except the Rich Dad, Poor Dad books, but I've 
+		learned to discount that promise : ), but that help me align my brain 
+		cells so that I can take control of my own financial health.&lt;/p>
+		&lt;p>So, all of this boils down to &amp;quot;Be a skeptic&amp;quot; from the Epilogue to
+		&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0201379686/chrissells">
+		Effective COM&lt;/a>, furthering my belief that the ability to learn how 
+		one system works, e.g. COM, can be effectively translated into learning 
+		how another system works, e.g. investing. And so what's my motivation 
+		for this writing and others like it? It's purely selfish, I assure you. 
+		Writing something clarifies my thinking and posting it gets me access 
+		to, and feedback from, like-minded folks that can help clarify my 
+		thinking even more.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12544</id>
+    <title>Learning to Learn</title>
+    <updated>2003-06-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-22T07:00:00.000Z</published>
+    <summary>Sun, June 22, 2003 The most important thing that I've every learned is how to learn. I and a few other lucky souls gained this knowledge at the tutelage of one of my mentors, Don Box, during my tenure at DevelopMentor. Not only did I have an amazing thinker to learn from, but I had a enormously difficult topic to learn on: COM. When I started learning COM in the early '90s, only a few souls inside of MS really knew it. The only real book in the world on COM at the time was inscrutable and no one with the ne...</summary>
+    <content type="html">&lt;h1>Learning to Learn&lt;/h1>
+&lt;p>&lt;i>
+Sun, &lt;span class="created">June 22, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>The most important thing that I've every learned is 
+how to learn. I and a few other lucky souls gained this knowledge at the 
+tutelage of one of my mentors, Don Box, during my tenure at DevelopMentor. Not 
+only did I have an amazing thinker to learn from, but I had a enormously 
+difficult topic to learn on: COM.&lt;/p>&lt;p>When I started learning COM in the early 
+'90s, only a few souls inside of MS really knew it. &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/1556158432/chrissells">
+The only real book in the world on COM at the time was inscrutable&lt;/a> and no 
+one with the necessary communication skills and the time to teach COM had yet 
+grokked it fully. Don had written a five-day short course entitled Essential 
+OLE, but only given it a few times, so hadn't really gotten over the hump (as 
+evidenced by the title of the course). It was my job to become the second 
+instructor on COM at DM.&lt;/p>&lt;p>I've always been one of those people that, when 
+faced with a topic and the proper motivation, could almost always learn it 
+easily. This skill helped me to get good grades, but didn't teach me how to 
+really learn; it was too natural for me to understand how I did it. 
+Unfortunately, COM was too hard to learn &amp;quot;naturally&amp;quot; and there's nothing like 
+preparing to stand up in front of a group of people to motivate you to learn. In 
+fact, the first time I'd had to teach COM, I was so nervous on the last day 
+(when I was to teach the material I knew the least well), that five minutes 
+before my first lecture of the day, I had to find an empty room to 
+hyperventilate. I literally didn't know what I was going to say.&lt;/p>&lt;p>
+Unfortunately, I didn't have the option of bailing at the last day of this class 
+unless I was prepared to give up my job at DM. It wasn't the bailing that was 
+the issue; if somebody else that knew the material was available, I could've 
+bailed (that's how cool DM was). Unfortunately, only Don knew it and he was out 
+of town. So, I had only one choice -- fake it. I wasn't proud, but public 
+speaking is like any other form of entertainment and &amp;quot;the show must go on.&amp;quot;&lt;/p>&lt;p>
+As I was giving the slides that morning on COM structured storage (a 
+particularly nasty topic in COM), I found myself learning how it it worked as I 
+told the story to my audience. All the studying and experimentation I'd done had 
+given me the foundation, but not the insights. The insights I gained as I 
+explained the technology. It was like fireworks. I went from through those 
+topics in a state of bliss&amp;nbsp; as all of what was really going on underneath 
+exploded in my head. That moment taught me the value of teaching as a way of 
+learning that I've used since. Now, I always explain stuff as a way to gain 
+insight into whatever I'm struggling with, whether it's through speaking or 
+writing. For me, and for lots of others, story telling is where real insight 
+comes from.&lt;/p>&lt;p>Still, teaching without the foundation of knowledge isn't 
+effective. How do I gain that foundation of knowledge? I consume the available 
+material and ask &amp;quot;why&amp;quot; a lot. If I look at a class hierarchy and it's design 
+isn't immediately obvious to me, I ask why it was built that way and why was 
+that way chosen over another. And to the answers to those questions, I keep 
+asking why 'til I get to something I know already or until I get to a human 
+reason. The reason for not stopping 'til I get to something I know is that I 
+believe that all learning is only as affective as well as it can be tied to what 
+you already know. How easily it is to learn something is directly related to how 
+much you already know about related topics, so the more you know, the easier it 
+is to learn more. However, when humans are involved, aesthetics take over, e.g. 
+the reason that C++ has member initialization lists and Java doesn't is that 
+Stroustrup liked that feature and Gosling didn't.&lt;/p>&lt;p>The process and benefit 
+of asking why is described well in &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765300176/chrissells">
+a novel I'm reading&lt;/a>: &amp;quot;It put me in contact with military planners from a 
+dozen nations, and more and more they began to come to me with questions well 
+beyond those of military strategy. ... I didn't think my answers were 
+particularly wise, I simply said whatever seemed obvious to me, or when nothing 
+was clear, I asked questions until clarity emerged.&amp;quot;&lt;/p>&lt;p>What made this 
+process so amazing with Don was that we were both doing the same thing: 
+experimenting and telling each other how it worked, which made for a very tight 
+feedback loop. The loop got better as we added more people, like Tim and Keith, 
+both of whom are also amazing thinkers. Audiences are good because of the 
+feedback that they can provide, but optimized feedback like this got us all 
+leapfrogged very quickly into deep COM thinkers.&lt;/p>&lt;p>The goal of all learning 
+is clarity. My own method involves taking in the available material, asking a 
+bunch of &amp;quot;why&amp;quot; questions and then telling somebody else 'til clarity emerges. 
+After COM, I've successfully applied that method to learning how all kinds of 
+other technologies work, how to run a business, how to write, how to manage, how 
+to lose weight (50 pounds and holding) and, most recently, how Microsoft works. 
+Thanks, COM (and Don and Tim and Keith and every audience I've every had : ).&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/633</id>
+    <title>*Wide* View</title>
+    <updated>2003-06-21T07:00:00.000Z</updated>
+    <published>2003-06-21T07:00:00.000Z</published>
+    <summary>Here. The fun you can have with 9 PCs and 13 monitors.</summary>
+    <content type="html">&lt;h1>*Wide* View&lt;/h1>
+&lt;a href="http://members.chello.nl/~s.ferris/">Here&lt;/a>. The fun you can have with 9 PCs and 13 monitors.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/631</id>
+    <title>Free Seats Awarded for the Applied XML Dev. Conf.</title>
+    <updated>2003-06-20T07:00:00.000Z</updated>
+    <published>2003-06-20T07:00:00.000Z</published>
+    <summary>Here. The contest entries were so good that I had to award three winners, not just one. Winners, email me to claim your prize.</summary>
+    <content type="html">&lt;h1>Free Seats Awarded for the Applied XML Dev. Conf.&lt;/h1>
+&lt;a href="/12545">Here&lt;/a>. The contest entries were so good that I had to award three winners, not just one. Winners, email me to claim your prize.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12545</id>
+    <title>Naming My Feed</title>
+    <updated>2003-06-20T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-20T07:00:00.000Z</published>
+    <summary>Fri, June 20, 2003 When I built the Windows Developer News feed on my home page, it was an attempt to build a Windows equivalent of SlashDot. Unfortunately, I'm not interested in keeping up on all the news in the Windows developer space and the few folks that have stepped up to post on this site are largely spammers (although not all of them). Also, in my own feed subscriptions, I find that the ones I'm most fond of are from individuals, not groups. Plus, my grandboss recently put a fine point on it, &amp;quot;...</summary>
+    <content type="html">&lt;h1>Naming My Feed&lt;/h1>
+&lt;p>&lt;i>
+Fri, &lt;span class="created">June 20, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>When I built the Windows Developer News feed on my 
+home page, it was an attempt to build a Windows equivalent of SlashDot. 
+Unfortunately, I'm not interested in keeping up on all the news in the Windows 
+developer space and the few folks that have stepped up to post on this site are 
+largely spammers (although not all of them). Also, in my own feed subscriptions, 
+I find that the ones I'm most fond of are from individuals, not groups. Plus, my 
+grandboss recently put a fine point on it, &amp;quot;I hate the name of your feed. That's 
+not what it is.&amp;quot;&lt;br>&lt;br>So, I've moved this feed to be just stuff from me. The 
+problem was, I didn't know what to call it. In addition to posting links to 
+stuff I produce, e.g. tools, writings, editorial, etc., my site's feed is really 
+about the things that I find interesting and my personal insights, so I need a 
+name that reflects that. Also, I'm a big fan of puns, alliteration and double 
+meanings (the logo has *3* meanings), so a name with those elements was 
+important.&lt;/p>&lt;p>As always, when I'm faced with something like this, I turn to 
+the community, specifically my own readers, who seem to have an unhealthy desire 
+to participate in things like this. When I asked them for their input, I was 
+overwhelmed with more the number of responses; and good ones, too (it probably 
+helped that I was giving away a free seat at &lt;a href="/conference">the Applied 
+XML Developer's Conference [July 10th -- register now!]&lt;/a> to the one I 
+picked)! Here're some of the best that I didn't pick:&lt;/p>&lt;ul>&lt;li>&lt;b>&amp;quot;The Naked 
+	Programmer&amp;quot; from Richard Caetano. &lt;/b>This has a nice tie in with the logo 
+	and connotes the openness I'm fond of in my writings. The problem with this 
+	one is only that it already appears on the web.&lt;/li>&lt;li>&lt;b>&amp;quot;.Nirvana&amp;quot; from 
+	Yaniv. &lt;/b>This one goes nicely with the logo and my current technology of 
+	choice. However, as much as I like .NET, it's not likely to be the last 
+	disciple I embrace, so I don't want to tie myself to it.&lt;/li>&lt;li>&lt;b>
+	Sells-A-Go-Go from Michael Weinhardt. &lt;/b>This one from a former protege 
+	very much appeals to my sense of fun, but it only has one meaning.&lt;/li>&lt;li>&lt;b>
+	Longhorn Foghorn from Mickey Williams. &lt;/b>Again, this one ties me to a 
+	wonderful technology, but one that I'm legally obligated to stay mum about 
+	for a while longer. However, if I have anything to say about it, Mickey, you 
+	have named the Editor's Blog for the Longhorn DevCenter when it goes live. 
+	Thanks!&lt;/li>&lt;/ul>&lt;p>The one I did pick was a blend from three guys: Mike 
+Prilliman, Chris Burrows and Roland Tanglao. They each gave me parts of my new 
+RSS feed name: &lt;b>&amp;quot;Marquee de Sells: Chris's insight outlet&amp;quot;&lt;/b>. This name has 
+tons of wonderful qualities:&lt;/p>&lt;ul>&lt;li>it's unique on the web&lt;/li>&lt;li>it's 
+	short and distinctive&lt;/li>&lt;li>I share a birthday with the Marquis de Sade&lt;/li>&lt;li>
+	the Marquis and I share an unhealthy obsession with our respective writing 
+	topics of choice&lt;/li>&lt;li>my logo is an abstract of &lt;a href="/public/fun/centerfold">
+	my naked picture&lt;/a> (the Marquis's topic of choice : )&lt;/li>&lt;li>a marquee is 
+	an entrance (like my homepage) with a sign announcing what's new (like my 
+	feed)&lt;/li>&lt;li>my feed is an outlet for my insights, whether code, writing or 
+	interesting things I find I the web&lt;/li>&lt;li>&amp;quot;insight outlet&amp;quot; sounds like 
+	&amp;quot;inside out,&amp;quot; which connotes how open I try to be (ok, I'm stretching on 
+	this one, but &amp;quot;insight outlet&amp;quot; &lt;br>*does* sound cool : )&lt;/li>&lt;/ul>&lt;p>Of 
+course, once I'd picked a name that blends entries from three people, I had the 
+problem of how to award the prize: a single seat at the &lt;a href="/conference">
+the Applied XML Developer's Conference&lt;/a>. And then I remembered that it's my 
+conference, so all three of them get free seats. Welcome!&lt;/p>&lt;p>BTW, &lt;a href="/conference">
+the Applied XML Developer's Conference&lt;/a> is going to rock. &lt;a href="/conference">
+Register now before all the seats are gone.&lt;/a>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/632</id>
+    <title>MS.COM's Web Services @ Applied XML Dev. Conf.</title>
+    <updated>2003-06-20T07:00:00.000Z</updated>
+    <published>2003-06-20T07:00:00.000Z</published>
+    <summary>Here. This just in: the web services team at microsoft.com will be showing off their next-gen web services at the Applied XML Developer's Conference. Register today!</summary>
+    <content type="html">&lt;h1>MS.COM's Web Services @ Applied XML Dev. Conf.&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. This just in: the web services team at microsoft.com will be showing off their next-gen web services at the Applied XML Developer's Conference. Register today!</content>
+  </entry>
+</feed>

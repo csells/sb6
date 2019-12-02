@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed110.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed109.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed111.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed110.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/867</id>
+    <title>What Is An RSS Feed?</title>
+    <updated>2003-10-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-10-09T07:00:00.000Z</published>
+    <summary>Here. The one where I describe RSS to the world's youngest mutual fund manager and my Mom.</summary>
+    <content type="html">&lt;h1>What Is An RSS Feed?&lt;/h1>
+&lt;a href="/12520">Here&lt;/a>. The one where I describe RSS to the world's youngest mutual fund manager and my Mom.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/861</id>
+    <title>testing</title>
+    <updated>2003-10-08T07:00:00.000Z</updated>
+    <published>2003-10-08T07:00:00.000Z</published>
+    <summary>Here. testing, please ignore</summary>
+    <content type="html">&lt;h1>testing&lt;/h1>
+&lt;a href="http://localhost">Here&lt;/a>. testing, please ignore</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/862</id>
+    <title>Watching the 'digital hand'</title>
+    <updated>2003-10-08T07:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2003-10-08T07:00:00.000Z</published>
+    <summary>Here. Gurley sums up nicely the tendency of the IT industry to eat other industries and itself, leading to nice things for consumers, but not industries.</summary>
+    <content type="html">&lt;h1>Watching the 'digital hand'&lt;/h1>
+&lt;a href="http://rss.com.com/2010-7355_3-5088457.html?part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. Gurley sums up nicely the tendency of the IT industry to eat other industries and itself, leading to nice things for consumers, but not industries.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/860</id>
+    <title>XmlSerializer as XPath</title>
+    <updated>2003-10-08T07:00:00.000Z</updated>
+    <published>2003-10-08T07:00:00.000Z</published>
+    <summary>Here. Craig lays out a subtle but important different between thinking about XML as serialized types and thinking about XML that can be serialized to/from types. Nicely said, Craig.</summary>
+    <content type="html">&lt;h1>XmlSerializer as XPath&lt;/h1>
+&lt;a href="http://staff.develop.com/candera/weblog2/permalink.aspx/1b6b0694-653b-41c8-9e10-2d8b37a887db">Here&lt;/a>. Craig lays out a subtle but important different between thinking about XML as serialized types and thinking about XML that can be serialized to/from types. Nicely said, Craig.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/858</id>
+    <title>More on Generics in the CLR</title>
+    <updated>2003-10-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-10-07T07:00:00.000Z</published>
+    <summary>Here. Jason Clark digs further into C# generics, including the niftiness of constraints and why they're so important (nicely told, Jason!).</summary>
+    <content type="html">&lt;h1>More on Generics in the CLR&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/10/NET/">Here&lt;/a>. Jason Clark digs further into C# generics, including the niftiness of constraints and why they're so important (nicely told, Jason!).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/859</id>
+    <title>"Davis concedes, Schwarzenegger wins"</title>
+    <updated>2003-10-07T07:00:00.000Z</updated>
+    <published>2003-10-07T07:00:00.000Z</published>
+    <summary>Here. In the "truth is stranger than fiction," category, Arnie does it. As I hail from the first state with a professional wrestler as it's governor, I think Cali got off easy. : )</summary>
+    <content type="html">&lt;h1>"Davis concedes, Schwarzenegger wins"&lt;/h1>
+&lt;a href="http://www.cnn.com/2003/ALLPOLITICS/10/07/recall.main/index.html">Here&lt;/a>. In the "truth is stranger than fiction," category, Arnie does it. As I hail from the first state with a professional wrestler as it's governor, I think Cali got off easy. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/857</id>
+    <title>If you're going to the PDC, register soon</title>
+    <updated>2003-10-06T07:00:00.000Z</updated>
+    <published>2003-10-06T07:00:00.000Z</published>
+    <summary>Here. It seems likely that unlike most conferences since the bubble burst, the PDC will sell out. If you want to go, register soon.</summary>
+    <content type="html">&lt;h1>If you're going to the PDC, register soon&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. It seems likely that unlike most conferences since the bubble burst, the PDC will sell out. If you want to go, register soon.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/856</id>
+    <title>Dave Barry Takes the Fight to the Telemarketers</title>
+    <updated>2003-10-05T07:00:00.000Z</updated>
+    <published>2003-10-05T07:00:00.000Z</published>
+    <summary>Here. I'm guessing that the American Teleservices Association doesn't even realize how two-faced it's being when they get upset at unwelcome calls. Oh well. : )</summary>
+    <content type="html">&lt;h1>Dave Barry Takes the Fight to the Telemarketers&lt;/h1>
+&lt;a href="http://www.miami.com/mld/miamiherald/living/columnists/dave_barry/6934584.htm">Here&lt;/a>. I'm guessing that the American Teleservices Association doesn't even realize how two-faced it's being when they get upset at unwelcome calls. Oh well. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/855</id>
+    <title>Roy, of 'Siegfried and Roy', attacked by tiger</title>
+    <updated>2003-10-04T07:00:00.000Z</updated>
+    <published>2003-10-04T07:00:00.000Z</published>
+    <summary>Here. I can hear mothers around the world saying to their children, "See? I *told* you not to play with tigers!"</summary>
+    <content type="html">&lt;h1>Roy, of 'Siegfried and Roy', attacked by tiger&lt;/h1>
+&lt;a href="http://www.cnn.com/2003/US/West/10/04/roy.attacked/index.html">Here&lt;/a>. I can hear mothers around the world saying to their children, "See? I *told* you not to play with tigers!"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/848</id>
+    <title>Nuance Vocalizer 3.0 Demo</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. I always love a good text-to-speech demo. I dream of the day of marrying Project Gutenberg [1] with great TTS, colored in a "voice font" of my favorite reader. [1] http://promo.net/pg/</summary>
+    <content type="html">&lt;h1>Nuance Vocalizer 3.0 Demo&lt;/h1>
+&lt;a href="http://www.nuance.com/prodserv/demo_vocalizer.html">Here&lt;/a>. I always love a good text-to-speech demo. I dream of the day of marrying Project Gutenberg [1] with great TTS, colored in a "voice font" of my favorite reader.
+
+[1] http://promo.net/pg/</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/849</id>
+    <title>Geek dinner in Portland... and I missed it!</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. Doh! There was a geek dinner in Portland and I missed it! What? I make my address and email secret from you people?!? Let me know these things! I hope they have another one soon...</summary>
+    <content type="html">&lt;h1>Geek dinner in Portland... and I missed it!&lt;/h1>
+&lt;a href="http://snowstormlife.com/blog/posts/180.aspx">Here&lt;/a>. Doh! There was a geek dinner in Portland and I missed it! What? I make my address and email secret from you people?!? Let me know these things! I hope they have another one soon...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/852</id>
+    <title>Stealing Anyone's IP is Low</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. Earlier this week, some low-life stole the source code for the soon to be released Half-Life 2 and then posted it. Now, I'm a huge Half-Life fan (I've played all the installments of Half-Life twice) and so I've been anxiously looking forward to HF2. But even if I hated HF, I'd still feel the same. If folks steal and redistribute IP of any kind, whether it's words, code, art, music, videos, etc, nobody will be able to afford to produce it anymore! And it's not like music or video, where the RIAA and th...</summary>
+    <content type="html">&lt;h1>Stealing Anyone's IP is Low&lt;/h1>
+&lt;a href="http://www.halflife2.net/forums/showthread.php?s=e6e7d0ce0abe19997425ef50fa7fe1df&amp;threadid=10692">Here&lt;/a>. Earlier this week, some low-life stole the source code for the soon to be released Half-Life 2 and then posted it. Now, I'm a huge Half-Life fan (I've played all the installments of Half-Life twice) and so I've been anxiously looking forward to HF2. But even if I hated HF, I'd still feel the same. If folks steal and redistribute IP of any kind, whether it's words, code, art, music, videos, etc, nobody will be able to afford to produce it anymore! And it's not like music or video, where the RIAA and theaters have done their level best to shear us at ever opportunity; s/w is affordable and convenient to consume! I'm all for "try before you buy," but "steal and redistribute" just means that we won't get new media to consume in the future. There's no excuse for this kind of behavior.
+
+DISCLAIMER: I'm an employee of Microsoft, Corp. but the opinions expressed on this web site are my own and in no way reflect the opinions of my employer.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/854</id>
+    <title>The fruits of your success</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. "The fruits of your success will be in direct ration to the honesty and sincerity of your own effort in keeping your own records, doing your own thinking and reaching your own conclusions." Jesse Livermore wrote these words in "How to Trade in Stocks," but they apply widely, I think.</summary>
+    <content type="html">&lt;h1>The fruits of your success&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0934380759/chrissells">Here&lt;/a>. "The fruits of your success will be in direct ration to the honesty and sincerity of your own effort in keeping your own records, doing your own thinking and reaching your own conclusions."
+
+Jesse Livermore wrote these words in "How to Trade in Stocks," but they apply widely, I think.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12521</id>
+    <title>My 9-Year Old Has a Cell Phone</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Friday, October 3, 2003 Tonight is Friday night, which means the Sells family generally has pizza and a movie at home. However, since we've been through most of Blockbuster's catalog and the boys aren't quite old enough for most of my DVD collection (9 is a tad young for things like Fight Club...), we thought we'd take in the new Jack Black movie School of Rock. Kids-in-Mind.com gives it a 3.3.3, heavy on the poop jokes (which my sons like) and heavy on the irreverence (which I like), so it seemed like a wi...</summary>
+    <content type="html">&lt;h1>My 9-Year Old Has a Cell Phone&lt;/h1>
+&lt;p>&lt;i>Friday, &lt;span class="created">October 3, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>
+Tonight is Friday night, which means the Sells family generally has pizza and a 
+movie at home. However, since we've been through most of Blockbuster's catalog 
+and the boys aren't quite old enough for most of my DVD collection (9 is a tad 
+young for things like Fight Club...), we thought we'd take in &lt;a href="http://www.imdb.com/title/tt0332379/">
+the new Jack Black movie School of Rock&lt;/a>. &lt;a href="http://www.kids-in-mind.com/">
+Kids-in-Mind.com&lt;/a> gives it a 3.3.3, heavy on the poop jokes (which my sons 
+like) and heavy on the irreverence (which I like), so it seemed like a winner. 
+However, as most movies start between 7-7:30pm and I just noticed it was 6:30p 
+but Melissa wasn't home with the boys, I started the calling. First was her 
+cell, but I remember her telling me it was out of batteries. Then it was her 
+sister's house, where she had been, but she had left for a friend's. Then the 
+friend, but no answer. And then I remembered my son and his cell phone.&lt;/p>&lt;p>My 
+son is 9 years old. He's been into computers and gadgets of all kinds since 
+before he was 3. A few months ago, he was digging around and found my old Nokia 
+cell phone. It had some cool games, so he charged it up and started carrying it 
+around with him. Then, he wanted minutes so he could make his own calls. So we 
+finally found our way to the local AT&amp;amp;T wireless place (which wasn't really very 
+local at all) and he spent his allowance money on pre-paid minutes ($10 for 20 
+minutes). After less than a week, he was down to 8 minutes left. He's most just 
+calling his friends from our car (where I have my cell in my pocket w/o 
+unlimited monthly minutes) or from our house (where we don't have long distance, 
+but we do still have a land line), but it's his phone and his money and it gives 
+him pleasure.&lt;/p>&lt;p>It did, however, freak my wife out. &amp;quot;A 9-year old doesn't 
+need a cell phone!&amp;quot; she'd say. I'd explain that it was his own money. &amp;quot;A 9-year 
+old doesn't need a cell phone! Drug dealers have cell phones!&amp;quot; She and I both 
+have our own cell phones and besides the occasional glass of wine, we don't even 
+*use* drugs, let alone *sell* them. And while no amount of reasoning with her 
+stopped her from being upset, she didn't say he couldn't have a cell phone, so 
+now he does. That he keeps charged. And that he carries. And that he spends his 
+own money on minutes for. And that I just called because he was with his mother:&lt;/p>&lt;p>
+&amp;quot;Hello?&amp;quot; said my 9-year-old son on his very own cell phone, surprised but 
+pleased to get a call.&lt;/p>&lt;p>&amp;quot;Can I talk to your mother?&amp;quot;&lt;/p>&lt;p>&amp;quot;Sure.&amp;quot;&lt;/p>&lt;p>
+&amp;quot;Hello. Sorry. My cell phone ran out of batteries,&amp;quot; she said.&lt;/p>&lt;p>&amp;quot;Aren't you 
+glad that John has a cell phone?&amp;quot; I asked, not bothering to keep the smug out of 
+my voice.&lt;/p>&lt;p>&amp;quot;Hmphf,&amp;quot; she said, not bothering to keep the annoyed out of 
+hers.&lt;/p>&lt;p>I think I may pay for his next batch of minutes just so I can keep 
+calling her on his phone. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/853</id>
+    <title>My 9-Year Old Has A Cell Phone</title>
+    <updated>2003-10-03T07:00:00.000Z</updated>
+    <published>2003-10-03T07:00:00.000Z</published>
+    <summary>Here. The one where my 9-year-old has a cell phone and I'm glad (but my wife is not : ).</summary>
+    <content type="html">&lt;h1>My 9-Year Old Has A Cell Phone&lt;/h1>
+&lt;a href="/12521">Here&lt;/a>. The one where my 9-year-old has a cell phone and I'm glad (but my wife is not : ).</content>
+  </entry>
+</feed>

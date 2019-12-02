@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed9.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed8.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed10.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed9.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2294</id>
+    <title>Modeling Inheritance in "M"</title>
+    <updated>2009-07-10T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-10T07:00:00.000Z</published>
+    <summary>Dave Langer, an architect at Microsoft, explores the question of how to model inheritance in "M". What do you think? What support for inheritance should "Oslo" provide? What scenarios do you need us to nail in this area? Let us know! </summary>
+    <content type="html">&lt;h1>Modeling Inheritance in "M"&lt;/h1>
+&lt;A href="http://blogs.msdn.com/dave_langer/">Dave Langer&lt;/A>, an architect at Microsoft, explores the question of &lt;A href="http://blogs.msdn.com/dave_langer/archive/2009/06/02/modeling-inheritance-in-oslo-s-m.aspx">how to model inheritance in "M"&lt;/A>. What do you think? What support for inheritance should "Oslo" provide? What scenarios do you need us to nail in this area? &lt;A href="https://connect.microsoft.com/oslo">Let us know!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2295</id>
+    <title>PowerBoots makes me want to use PowerShell!</title>
+    <updated>2009-07-10T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/png" href="http://huddledmasses.org/images/PowerBoots/PowerBoots7.png"/>
+    <category term="spout" label="The Spout"/>
+    <published>2009-07-10T07:00:00.000Z</published>
+    <summary>I've picked up PowerShell half a dozen times or more. The central premise, that I can pipe streams of objects instead of streams of text between programs, is pure genius. However, in the day-to-day, two things make me put it down again every single time: The differences between ps and cmd.exe are annoying and unnecessary. The lack of pushing the boundaries on the text output in a GUI window leaves me wondering what I really gain when I get over the hump of #1. I understand the need to "reboot" the DOS comma...</summary>
+    <content type="html">&lt;h1>PowerBoots makes me want to use PowerShell!&lt;/h1>
+&lt;img align="right" src="http://huddledmasses.org/images/PowerBoots/PowerBoots7.png" />
+&lt;P>I've picked up &lt;A href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">PowerShell&lt;/A> half a dozen times or more. The central premise, that I can pipe streams of objects instead of streams of text between programs, is pure genius. However, in the day-to-day, two things make me put it down again every single time:&lt;/P>
+&lt;OL>
+&lt;LI>The differences between ps and cmd.exe are annoying and unnecessary.&lt;/LI>
+&lt;LI>The lack of pushing the boundaries on the text output in a GUI window leaves me wondering what I really gain when I get over the hump of #1.&lt;/LI>&lt;/OL>
+&lt;P>I understand the need to "reboot" the DOS command line and get something scalable and consistent, but ps is a superset of cmd.exe and aliasing could've made the transition seamless. However, because little more than "dir" works (and "dir /s" doesn't) I'm constantly bumping into barriers just trying to get my work done in the new shell.&lt;/P>
+&lt;P>And I'd be really ready to learn ps, especially since it's everywhere now, but what am I really gaining? I never wrote a bunch of shell scripts in cmd.exe and I don't find myself writing them in ps either, which means that the cool "piping objects" thing doesn't make my life any simpler. What I really really want is for the text window of the ps shell to also be something active, e.g. if I do a "dir", I'd like to be able to click on a file or folder in output of dir and open it or right-click on a file and choose a method on the .NET File object to execute. Even better, I'd like all of that functionality but with a keyboard command interface like the old &lt;A href="http://en.wikipedia.org/wiki/Norton_Commander">Norton Commander&lt;/A> used to provide. I've tried the ps IDEs and GUI shells and haven't liked any of them.&lt;/P>
+&lt;P>Anyway, the first thing that's made me really really want to move to ps is &lt;A href="http://huddledmasses.org/powerboots/">PowerBoots&lt;/A>! It's starting to really deliver on what I had hoped to get out of ps and it feels like &lt;A href="/2177">Shoes&lt;/A>, which I already know I love. &lt;A href="http://huddledmasses.org/powerboots/">Check it out!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2292</id>
+    <title>Telerik Ships Alpha "M"-Based Comparison Tool</title>
+    <updated>2009-07-09T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-09T07:00:00.000Z</published>
+    <summary>Imagine you've shipped v1 of your database applications against a schema created from "M". Now, you're about to ship the v2 of your database, but what about the v1 clients? Are the tables and views exposed from your database backward compatible or are you going to break those existing clients? How do you even find out? Well, wonder no more! Telerik has shipped the alpha of their "Oslo" comparison tool, which can compare v1 of your "M" source code against v2 to see what's changed and whether that's going to ...</summary>
+    <content type="html">&lt;h1>Telerik Ships Alpha "M"-Based Comparison Tool&lt;/h1>
+&lt;P>Imagine you've shipped v1 of your database applications against a schema created from "M". Now, you're about to ship the v2 of your database, but what about the v1 clients? Are the tables and views exposed from your database backward compatible or are you going to break those existing clients? How do you even find out?&lt;/P>
+&lt;P>Well, wonder no more! Telerik has shipped the alpha of &lt;A href="http://www.telerik.com/community/labs/telerik-oslo-comparison-and-migration-tool.aspx">their "Oslo" comparison tool&lt;/A>, which can compare v1 of your "M" source code against v2 to see what's changed and whether that's going to break your v1 clients. And as if that weren't enough, they're working on another version of the tool that will create scripts so that you can migrate your v1 data to v2 after you're satisfied that your v1 clients will continue to work.&lt;/P>
+&lt;P>And the best part? It's all free! &lt;A href="http://www.telerik.com/community/labs/telerik-oslo-comparison-and-migration-tool.aspx">Download yours today.&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2290</id>
+    <title>Dynamic Languages: A Separation of Concerns</title>
+    <updated>2009-07-08T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-07-08T07:00:00.000Z</published>
+    <summary>I saw Nick Muhonen give a talk on the new language features in C# 4.0 last night at the Portland-Area.NET User Group. He did a good job in spite of the constant questions I asked. He showed one example that I found especially compelling: object GetConfig() { &amp;nbsp; return new { &amp;nbsp;&amp;nbsp;&amp;nbsp; WindowSize = new Size() { Width = 100, Height = 200 }, &amp;nbsp;&amp;nbsp;&amp;nbsp; ConnectionString = "...", &amp;nbsp;&amp;nbsp;&amp;nbsp;... &amp;nbsp; }; } Of course, you wouldn't hard code settings in your application -- you'd load the...</summary>
+    <content type="html">&lt;h1>Dynamic Languages: A Separation of Concerns&lt;/h1>
+&lt;P>I saw &lt;A href="http://twitter.com/nmuhonen">Nick Muhonen&lt;/A> give a talk on the new language features in C# 4.0 last night at &lt;A href="http://www.padnug.org/">the Portland-Area .NET User Group&lt;/A>. He did a good job in spite of the constant questions I asked. He showed one example that I found especially compelling:&lt;/P>&lt;PRE>object GetConfig() {&lt;BR>&amp;nbsp; return new {&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; WindowSize = new Size() { Width = 100, Height = 200 },&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; ConnectionString = "...",&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;BR>&amp;nbsp; };&lt;BR>}&lt;/PRE>
+&lt;P>Of course, you wouldn't hard code settings in your application -- you'd load them from somewhere (ideally a database, but that's &lt;A href="http://msdn.com/oslo/">another story&lt;/A> : ). Anyway, in C# 4.0, I can write code like this:&lt;/P>&lt;PRE>&lt;STRONG>dynamic &lt;/STRONG>config = GetConfig();&lt;BR>mainWindow.Size = config.WindowSize;&lt;BR>...&lt;/PRE>
+&lt;P>Notice the use of the dynamic keyword -- this means I don't have to know the type at compile-type -- I'll check for the WindowSize property at run-time ala .NET Reflection, COM IDispatch or VB "Option Explicit Off". Of course, this is the cornerstone of all dynamic languages, e.g. Perl, Python, Ruby, etc. These languages have been gaining in popularity for the last few years and I didn't understand why. &lt;A href="http://www.pluralsight.com/community/blogs/tewald/">Tim Ewald&lt;/A>, my close friend and compadre, &lt;A href="http://www.pluralsight.com/community/blogs/tewald/archive/2008/10/25/learn-a-dynamic-language-now.aspx">kept trying to explain it to me&lt;/A>, but I'm just too slow to get it and I didn't ''til last night watch Nick do his thing. It wasn't looking at the code that Nick typed that made the point for me, it was looking at what he didn't type.&lt;/P>
+&lt;P>&lt;EM>When writing dynamic code, there is no requirement to define a type.&lt;/EM>&lt;/P>
+&lt;P>That is, when I inevitably add another property or 10 to my app config, I have to write code to use the new properties, but that's all. I don't have to write a class and I likely don't have to update the save/load code either, because it's also going to be dynamic and just expose whatever data is part of the serialized config. Or, to put it another way:&lt;/P>
+&lt;P>&lt;EM>When writing dynamic code, I only have to write the part I care about.&lt;/EM>&lt;/P>
+&lt;P>In the case of dealing with application config, that's about 2/3rds of the code I no longer have to write. Of course, this isn't a new idea -- Stuart Halloway has been talking about &lt;A href="http://blog.thinkrelevance.com/2008/4/1/ending-legacy-code-in-our-lifetime">embracing essence (the code you care about) and rejecting ceremony (the code you don't)&lt;/A> for a long time now. It just took Nick's concrete example for me to understand it.&lt;/P>
+&lt;P>And not only does this make dynamic code good for reducing the code you type, it always makes it good for the code you're generating, e.g. COM interop assemblies, database mapping code, XML mapping code, etc. In general, I find that most of the code we have generated for us in the .NET programming environment is code to map to foreign type systems, i.e. COM, databases, XML, web services, etc. With dynamic languages, you can write that code once and just use it. In fact, in C# 4.0, there's no need to use Primary Interop Assemblies (PIAs) anymore -- those can just be mapped to a sub-class of the "DynamicObject" type that .NET 4.0 ships to provide that dynamic mapping bridge.&lt;/P>
+&lt;P>&lt;EM>When writing dynamic code, you don't need generated code layers to map to foreign type systems.&lt;/EM>&lt;/P>
+&lt;P>This means I don't have to do the mapping to databases per query or to XML per XSD -- I can just have an implementation of DynamicObject, point it at my configuration and go -- no muss, no fuss. Of course, purely dynamic languages have a construct for DO built right in, so it's even easier.&lt;/P>
+&lt;P>Around the table after Nick's talk last night, someone was complaining that with purely dynamic languages, I give up the benefits of the compiler doing static type checking (I think it was Nick : ). I argued that this was a good thing. The compiler is really just one kind of unit testing -- it's testing names. It can't do any of the other unit testing you need done, however, so you still need unit tests. What that means is that, with static languages, you've got some unit tests separate from your code and some baked into the code via types, casts, etc.&lt;/P>
+&lt;P>&lt;EM>When writing dynamic code,&amp;nbsp;you can separate unit tests completely out of your code.&lt;/EM>&lt;/P>
+&lt;P>Of course, as software engineers, we already know that separating concerns leads to better, more readable and more maintainable code, which is why we've long separated our applications into tiers, separated our view from our data, our interfaces from our implementations, etc. Dynamic languages let us do another complete separation of concerns with regards to unit tests that static languages don't allow. In a static language, the ceremony is required, thereby obfuscating the essence.&lt;/P>
+&lt;P>And all of this is great except for one question -- how do I get my list of possible code to write when I type "." if I'm using a dynamic language or dynamic features of a static language ala C# 4.0?&lt;/P>
+&lt;P>&lt;EM>When writing dynamic code, I don't get Intellisense.&lt;/EM>&lt;/P>
+&lt;P>My name is Chris Sells and I'm an Intellisense addict. Admitting I have the problem is the first step...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2291</id>
+    <title>Telerik Does LINQ to "M"</title>
+    <updated>2009-07-08T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-08T07:00:00.000Z</published>
+    <summary>Stephen Forte and Mehfuz (who, like Prince and Cher, needs no last name), have built LINQ to "M", which means that if you've got "M" source code like this (shown in a C# string variable for loading convenience): string MGraphCode = @" {{Name=""Stephen Forte"", Age=37},... } "; and a C# type like this: public class Person { &amp;nbsp; public string Name { get; set; } &amp;nbsp; public int Age { get; set; } } then you can load the "M" source and run LINQ queries against it: var persons = QueryContext.Instance.Load&amp;lt...</summary>
+    <content type="html">&lt;h1>Telerik Does LINQ to "M"&lt;/h1>
+&lt;P>&lt;A href="http://www.stephenforte.net/default.aspx">Stephen Forte&lt;/A> and &lt;A href="http://weblogs.asp.net/mehfuzh/default.aspx">Mehfuz&lt;/A> (who, like Prince and Cher, needs no last name), have built &lt;A href="http://www.stephenforte.net/PermaLink,guid,bd174995-58d0-4713-8ce0-b4ce452c5951.aspx">LINQ to "M"&lt;/A>, which means that if you've got "M" source code like this (shown in a C# string variable for loading convenience):&lt;/P>&lt;PRE>string MGraphCode =&lt;BR>  @"&lt;STRONG>{{Name=""Stephen Forte"", Age=37}, ... }&lt;/STRONG>";&lt;/PRE>
+&lt;P>and a C# type like this:&lt;/P>&lt;PRE>public class Person {&lt;BR>&amp;nbsp; public string Name { get; set; }&lt;BR>&amp;nbsp; public int Age { get; set; }&lt;BR>}&lt;/PRE>
+&lt;P>then you can load the "M" source and run LINQ queries against it:&lt;/P>&lt;PRE>var persons =&lt;BR>  &lt;STRONG>QueryContext.Instance.Load&amp;lt;Person&amp;gt;(MGraphCode)&lt;/STRONG>;&lt;BR>var result =&lt;BR>  from person in persons&lt;BR>&amp;nbsp;&amp;nbsp;where person.Age == 37 &amp;amp;&amp;amp;&lt;BR>    person.Name == "Stephen Forte"&lt;BR>&amp;nbsp;&amp;nbsp;orderby person.Name ascending&lt;BR>&amp;nbsp; select person;&lt;/PRE>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2289</id>
+    <title>Part 3 of Dana's End-to-End "Oslo" Series: Quadrant</title>
+    <updated>2009-07-07T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-07T07:00:00.000Z</published>
+    <summary>In part 1 and part 2 of his series, Dana Kaufman, a Program Manager on the "Oslo" team, used "M" to model the schema for employee information and to create a domain-specific language (DSL) for creating values of that schema. In part 3, Dana shows how to navigate the schema and models in "Quadrant," the data visualization and manipulation tool of "Oslo." Enjoy!</summary>
+    <content type="html">&lt;h1>Part 3 of Dana's End-to-End "Oslo" Series: Quadrant&lt;/h1>
+In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-models-to-quadrant-using-oslo-may-ctp-part-i.aspx">part 1&lt;/A> and &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/05/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-ii.aspx">part 2&lt;/A> of his series, &lt;A href="http://blogs.msdn.com/dkaufman/default.aspx">Dana Kaufman&lt;/A>, a Program Manager on the "Oslo" team, used "M" to model the schema for employee information and to create a domain-specific language (DSL) for creating values of that schema. In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/24/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-iii.aspx">part 3&lt;/A>, Dana shows how to navigate the schema and models in "Quadrant," the data visualization and manipulation tool of "Oslo." Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2288</id>
+    <title>Rocky's MCsla on the Olso May CTP</title>
+    <updated>2009-07-06T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-07-06T07:00:00.000Z</published>
+    <summary>Rockford Lhotka of several C# and VB books and the world-renown CSLA.NET business object framework has ported his "Oslo"-based MCsla.NET to the May 2009 CTP. For the part that he's made work in "Oslo," Rocky has told me that the amount of code you need to write to take advantage of his framework is down by 90% over the C#/VB.NET versions, which sounds like a pretty big win to me. Enjoy!</summary>
+    <content type="html">&lt;h1>Rocky's MCsla on the Olso May CTP&lt;/h1>
+&lt;A href="http://www.lhotka.net/">Rockford Lhotka&lt;/A> of &lt;A href="http://www.amazon.com/exec/obidos/search-handle-url/search-type=ss&amp;amp;index=books&amp;amp;field-author=Rockford%20Lhotka">several C# and VB books&lt;/A> and the world-renown &lt;A href="http://www.lhotka.net/cslanet/">CSLA .NET business object framework&lt;/A> has ported his &lt;A href="http://www.lhotka.net/weblog/MCslaOnTheOlsoMayCTP.aspx">"Oslo"-based MCsla.NET&lt;/A> to the May 2009 CTP. For the part that he's made work in "Oslo," Rocky has told me that the amount of code you need to write to take advantage of his framework is down by 90% over the C#/VB.NET versions, which sounds like a pretty big win to me. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2287</id>
+    <title>MGraph Visualizer Plug-in for Intellipad!</title>
+    <updated>2009-06-29T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/mgraphipad.jpg"/>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-06-29T07:00:00.000Z</published>
+    <summary>Ceyhun Ciper is at it again, this time taking advantage of the Intellipad plug-in capabilities in the "Oslo" May 2009 CTP and adding real-time "M" visualization as you type. This is a wonderful way to see both the textual and graphic abstract symbol tree of your data as you type it. Keep up the good work, Ceyhun!</summary>
+    <content type="html">&lt;h1>MGraph Visualizer Plug-in for Intellipad!&lt;/h1>
+&lt;A href="http://www.sixpairs.com/mgplugin.aspx">&lt;img width="334" height="256" align="right" src="/public/spout/mgraphipad.jpg" />&lt;/a>
+&lt;A href="http://www.sixpairs.com/">Ceyhun Ciper&lt;/A> is at it again, this time taking advantage of the Intellipad plug-in capabilities in &lt;A href="http://msdn.com/oslo/">the "Oslo" May 2009 CTP&lt;/A> and adding &lt;A href="http://www.sixpairs.com/mgplugin.aspx">real-time "M" visualization as you type&lt;/A>. This is a wonderful way to see both the textual and graphic abstract symbol tree of your data as you type it. Keep up the good work, Ceyhun!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2286</id>
+    <title>JavaScript implementation of "M"</title>
+    <updated>2009-06-24T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-06-24T07:00:00.000Z</published>
+    <summary>Matthew Wilson is pushing "M" into the land of browser client-side scripting with his partial (but growing!) JavaScript implementation, as seen in his web 3-pane "M" grammar mode ala Intellipad. It's work like this that could make "M" a cross-platform solution for languages as well as data types and values. Good job, Matt!</summary>
+    <content type="html">&lt;h1>JavaScript implementation of "M"&lt;/h1>
+&lt;A href="http://diakopter.blogspot.com/">Matthew Wilson&lt;/A> is pushing "M" into the land of browser client-side scripting with his partial (but growing!) JavaScript implementation, as seen in &lt;A href="http://jsmeta.googlecode.com/svn/trunk/bin/JSMetaPad.html">his web 3-pane "M" grammar mode&lt;/A> ala Intellipad. It's work like this that could make "M" a cross-platform solution for languages as well as data types and values. Good job, Matt!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2284</id>
+    <title>Need a visualization of "M" in your programs?</title>
+    <updated>2009-06-23T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-06-23T07:00:00.000Z</published>
+    <summary>If you want to display "M" languages or values, Ceyhun Ciper from sixpairs.com has got you covered with the MGraph Object Model Display Library for WPF. It's as simple as this: Canvas canvas = new ObjectModel().Display( "Person {Name=&amp;gt;'Ciper', 47, 'sixpairs\n.com'}"); Sweet! </summary>
+    <content type="html">&lt;h1>Need a visualization of "M" in your programs?&lt;/h1>
+&lt;IMG align=right src="http://sixpairs.blob.core.windows.net/images/mgom/MgOMDisplayLibScreenshot1_3.png"> 
+&lt;P>If you want to display "M" languages or values, &lt;A href="http://www.sixpairs.com/">Ceyhun Ciper from sixpairs.com&lt;/A> has got you covered with the &lt;A href="http://www.sixpairs.com/mgom.aspx">MGraph Object Model Display Library for WPF&lt;/A>. It's as simple as this:&lt;/P>&lt;PRE>Canvas canvas = new ObjectModel().Display(&lt;BR>  "Person {Name=&amp;gt;'Ciper', 47, 'sixpairs\n.com'}");&lt;/PRE>
+&lt;P>Sweet!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2285</id>
+    <title>Deep Fried Bytes: Shawn Wildermuth on "Oslo"</title>
+    <updated>2009-06-23T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-06-23T07:00:00.000Z</published>
+    <summary>Keith and Woody speak with the first repeat guest of the podcast, Shawn Wildermuth about Oslo and the M language.&amp;nbsp; In this episode listeners will get&amp;nbsp;some real world examples and use cases for using Oslo and M along with a clearer understanding about DSLs and what the future may hold. Be warned, this podcast uses the phrase "bowled shrimp." : ) </summary>
+    <content type="html">&lt;h1>Deep Fried Bytes: Shawn Wildermuth on "Oslo"&lt;/h1>
+&lt;P>Keith and Woody speak with the first repeat guest of the podcast, &lt;A href="http://wildermuth.com/">Shawn Wildermuth&lt;/A> about &lt;A href="http://msdn.com/oslo/">Oslo and the M language&lt;/A>.&amp;nbsp; In &lt;A href="http://deepfriedbytes.com/podcast/episode-33-getting-the-scoop-about-olso-and-m-with-shawn-wildermuth/">this episode&lt;/A> listeners will get&amp;nbsp;some real world examples and use cases for using Oslo and M along with a clearer understanding about DSLs and what the future may hold.&lt;/P>
+&lt;P>&lt;EM>Be warned, this podcast uses the phrase "bowled shrimp." : )&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2283</id>
+    <title>From DSLs &amp; Models to “Quadrant” w/ “Oslo” May CTP</title>
+    <updated>2009-06-09T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-06-09T07:00:00.000Z</published>
+    <summary>Dana Kaufman, a PM on the extended "Oslo" team, has been blogging a series of articles on the definition of a set of "M" types, the associated "M" language definition for a domain-specific language (DSL) and concluding in how that data can be visualized and manipulated in "Quadrant" (the first two parts are available now and the third is coming). Enjoy!</summary>
+    <content type="html">&lt;h1>From DSLs &amp; Models to “Quadrant” w/ “Oslo” May CTP&lt;/h1>
+Dana Kaufman, a PM on the extended "Oslo" team, has been blogging a series of articles on &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-models-to-quadrant-using-oslo-may-ctp-part-i.aspx">the definition of a set of "M" types&lt;/A>, &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/05/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-ii.aspx">the associated "M" language definition for a domain-specific language (DSL)&lt;/A> and concluding in how that data can be visualized and manipulated in "Quadrant" (the first two parts are available now and the third is coming). Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2282</id>
+    <title>Actipro's SyntaxEditor Adds Support for "Oslo"!</title>
+    <updated>2009-06-04T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-06-04T07:00:00.000Z</published>
+    <summary>Do you like Intellipad so much that you want to host it? If so, than you need Actipro's SyntaxEditor, which is not only a kick-butt syntax highlighting editor, but can be completely driven by an "Oslo" language definition in a.mg file. The demo is free and one of the samples is a fun little Intellipad clone. Check it out! </summary>
+    <content type="html">&lt;h1>Actipro's SyntaxEditor Adds Support for "Oslo"!&lt;/h1>
+Do you like Intellipad so much that you want to host it? If so, than you need &lt;A href="http://blog.actiprosoftware.com/post/2009/06/02/Integrating-MGrammar-DSL-parsers-with-SyntaxEditor-to-implement-syntax-highlighting.aspx">Actipro's SyntaxEditor&lt;/A>, which is not only a kick-butt syntax highlighting editor, but can be completely driven by an "Oslo" language definition in a .mg file. The demo is free and one of the samples is a fun little Intellipad clone. &lt;A href="http://blog.actiprosoftware.com/post/2009/06/02/Integrating-MGrammar-DSL-parsers-with-SyntaxEditor-to-implement-syntax-highlighting.aspx">Check it out!&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2281</id>
+    <title>Helping to set up fireworks for the 4th of July?</title>
+    <updated>2009-06-03T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2009-06-03T07:00:00.000Z</published>
+    <summary>Last year right after the 4th of July, one of my kind readers offered to let the me and the boys help set up and set off this year's 4th of July show in or around Portland. However, I can't find who offered. If that kind reader is still out there, can you drop me a line? I'm sure my 60-year-old father would like to help, too. Thanks!</summary>
+    <content type="html">&lt;h1>Helping to set up fireworks for the 4th of July?&lt;/h1>
+Last year right after the 4th of July, one of my kind readers offered to let the me and the boys help set up and set off this year's 4th of July show in or around Portland. However, I can't find who offered. If that kind reader is still out there, can you drop me a line? I'm sure my 60-year-old father would like to help, too. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2280</id>
+    <title>MGDisplay: Visualize Parsed "Oslo" Grammars</title>
+    <updated>2009-05-29T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-05-29T07:00:00.000Z</published>
+    <summary>I love our customers. They do things like take our bits and produce MGDisplay, a tool written by Ceyhun Ciper for visualizing the parse tree produced by parsing a DSL instance document with a "M" language definition. Enjoy! </summary>
+    <content type="html">&lt;h1>MGDisplay: Visualize Parsed "Oslo" Grammars&lt;/h1>
+&lt;IMG align=right src="http://i3.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=mgdisplay&amp;amp;DownloadId=69790" width=208 height=167> 
+&lt;P>I love our customers. They do things like take &lt;A href="http://msdn.com/oslo/">our bits&lt;/A> and produce &lt;A href="http://mgdisplay.codeplex.com/">MGDisplay&lt;/A>, a tool written by &lt;A href="http://www.sixpairs.com/">Ceyhun Ciper&lt;/A> for visualizing the parse tree produced by parsing a DSL instance document with a "M" language definition. Enjoy!&lt;/P></content>
+  </entry>
+</feed>

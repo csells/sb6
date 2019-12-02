@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed155.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed154.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed156.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed155.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12358</id>
+    <title>"Spend A Day With .NET" Winning Entries</title>
+    <updated>2002-09-15T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/daywithdotnet/Stoyan%20screen%20shot.JPG"/>
+    <category term="fun" label="Fun"/>
+    <published>2002-09-15T07:00:00.000Z</published>
+    <summary>Sorry it took so long to judge the entries, but I was overwhelmed. That'll teach me to host an international, pan-galactic, cross-universe coding contest. : ) Grand Prize Winner and Best Developer Tool: Stoyan Damov Stoyan wins the grand prize of free admission to the Web Services DevCon. His entry is shown here: KbView allows the user to pick a technology or set of technologies that s/he is interested in and see what's new in that space. Once the articles are fetched, they're listed on the right hand side,...</summary>
+    <content type="html">&lt;h1>"Spend A Day With .NET" Winning Entries&lt;/h1>
+&lt;p>Sorry it took so long to judge the entries, but I was overwhelmed. That'll 
+teach me to host &lt;a href="/12646">an international, pan-galactic, cross-universe 
+coding contest&lt;/a>. : )&lt;/p>
+&lt;h2>Grand Prize Winner and Best Developer Tool: 
+&lt;a href="mailto:Stoyan.Damov@rila.com">Stoyan Damov&lt;/a>&lt;/h2>
+&lt;p>Stoyan wins the grand prize of free admission to the
+&lt;a href="/conference">Web Services DevCon&lt;/a>. His entry is shown here:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Stoyan%20screen%20shot.JPG" width="679" height="390">&lt;/p>
+&lt;p>KbView allows the user to pick a technology or set of technologies that s/he 
+is interested in and see what's new in that space. Once the articles are 
+fetched, they're listed on the right hand side, where they can be shown directly 
+in the text viewer below or they can be hosted in a separate IE window. Also, 
+once the article has been downloaded, it's cached for quick access for next time. 
+This is an app that I will use. Great work, Stoyan!&lt;/p>
+&lt;h2>Best Rookie: &lt;a href="mailto:sorinj@softhome.net">Sorin Jianu&lt;/a>&lt;/h2>
+&lt;p>&lt;span style="font-size: 12.0pt; font-family: Times New Roman">Sorin wins a year 
+subscription to MSDN Universal for his submission:&lt;/span>&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Sorin%20Jianu%20screen%20shot.JPG" width="471" height="430">&lt;/p>
+&lt;p>Sorin's submission is a functional proxy server and represents his first .NET 
+project ever. It's fully asychronous and uses non-blocking I/O. It's quite a 
+testament to what can be done in .NET in a single day.&lt;/p>
+&lt;h2>Most Polished: &lt;a href="mailto:jeffb@onlinetoolworks.com">Jeff Braunstein&lt;/a>&lt;/h2>
+&lt;p>Jeff wins a 12-month 
+subscription (5 points) to Safari Tech Books Online for his entry:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Jeff%20Brawstein%20screen%20shot.JPG" width="547" height="359">&lt;/p>
+&lt;p>Jeff's entry was the most polished I got, both in the UI as shown above, but 
+also in the documentation, which included a market justification. I can see Jeff 
+selling a version of this tool soon. The UI above is a front end to an NT 
+service, also written in .NET, that takes jobs off of an MSMQ queue for batch 
+dispatch. Because of the flexible architecture, these jobs can be spawned on a 
+single machine or across multiple machines.&lt;/p>
+&lt;h2>Best VS.NET Add-In: &lt;a href="mailto:iioffe@bezeqint.net">Igal Ioffe&lt;/a>&lt;/h2>
+&lt;p>&lt;span style="font-size: 12.0pt; font-family: Times New Roman">Igal wins a 
+signed box copy of Visual Studio .NET for his VS.NET add-in:&lt;/span>&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Igal%20Ioffe%20screenshot.JPG" width="561" height="300">&lt;/p>
+&lt;p>Igal's submission is simple, but effective. I often mail snippets of code 
+around and now I can do it with the context menu from without VS.NET.&lt;/p>
+&lt;h2>Best Consumption of XML: &lt;a href="mailto:dejan@jelovic.com">Dejan Jelovic&lt;/a>&lt;/h2>
+&lt;p>Dejan won his pick of a combination of things, but I couldn't talk him into 
+taking anything -- he just wanted to compete. His application is a fully 
+functional RSS reader:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/Dejan%20screenshot.JPG" width="676" height="379">&lt;/p>
+&lt;p>Dejan's RSS reader has two tabs, one for the RSS feed administration itself, 
+persisted between sessions, and one for the combination of the content for all 
+of your feeds in a single web page, cached between sessions.&lt;/p>
+&lt;h2>Best Use of SQL: &lt;a href="mailto:simon.wilson@objectnation.com">Simon E.P. Wilson&lt;/a>, Markus Burri &amp;amp; Thomas Schwarz&lt;/h2>
+&lt;p>Simon, Markus and Thomas win a 10-user copy of rmTrack for their SQL Stored 
+Procedure code generator:&lt;/p>
+&lt;p>
+&lt;img border="0" src="/public/fun/daywithdotnet/SPInvoke.jpg" width="756" height="579">&lt;/p>
+&lt;p>Once the settings are chosen, the generated code lets the user make calls 
+into the stored procedure from their .NET language of choice almost as if the 
+function was a native .NET method:&lt;/p>
+&lt;pre>class MyApp {
+    static void Main(string[] args) {
+        // Create Connection
+        SqlConnection conn = new SqlConnection(@&amp;quot;...");
+        conn.Open();      
+
+&lt;b>        // Invoke the Stored Procedure
+        SalesByCategory.Result res = SalesByCategory.Invoke(conn, "Beverages", "");
+&lt;/b>
+        // Show Results
+        foreach (SalesByCategory.Row row in res.Rows) {
+            Console.WriteLine("{0} : {1}", row.ProductName, row.TotalPurchase);
+        }&lt;/pre>
+&lt;pre>        conn.Close();
+    }
+}&lt;/pre>
+&lt;h2>Honorable Mention&lt;/h2>
+&lt;p>There were so many other great entries that I couldn't narrow it to just the 
+big prize winners. The following were each awarded their pick of a book or a 
+free software package:&lt;/p>
+&lt;ul>
+  &lt;li>&lt;b>Best Use of XML, &lt;a href="mailto:AdamCogan@ssw.com.au">Adam Cogan&lt;/a>&lt;/b>: This entry was cool because it used a 
+  smart client to gather information about a user's system, email to deliver it 
+  and XML to make server-side processing a snap (&lt;a href="/public/fun/daywithdotnet/Adam%20Cogan%203%20screenshot.JPG" >screen 
+  shot&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Web Service Client, &lt;a href="mailto:darrel@tavis.ca">Darrel Miller&lt;/a>&lt;/b>: I liked Darrel's 
+  application because of the nice mix of a smart client front-end to capture all 
+  settings to make a single, atomic web service call and the production of a web 
+  site based on the  posted data (&lt;a href="/public/fun/daywithdotnet/Darrel%20Miller%20screenshot.JPG">screen 
+  shot 1&lt;/a>, &lt;a href="/public/fun/daywithdotnet/Darrel%20Miller%20screenshot%202.JPG">screen shot 2&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Technical Insight, &lt;a href="mailto:glombard@everdreamcorp.com">Gert Lombard&lt;/a>&lt;/b>: Gert's command line parser 
+  was near and dear to me for two reasons. One, he'd built a command line parser 
+  based on .NET's Reflection, &lt;a href="http://www.genghisgroup.com">just like 
+  I've done&lt;/a> in Genghis with the CommandLineParser class, and two, he built it because he fell in love with Reflection, 
+  just like I did (&lt;a href="/public/fun/daywithdotnet/Gert%20screen%20shot.JPG">screen shot&lt;/a>,
+  &lt;a href="http://codeblast.com/~gert/dotnet/sells.html">source&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Game Library, &lt;a href="mailto:richard@caetano.com">Richard Caetano&lt;/a>&lt;/b>: Richard's entry wasn't quite 
+  complete, but I love Poker as much as I love .NET, so I thought I'd point out 
+  that he's provided a complete managed card drawing library, in case anyone 
+  needs one (&lt;a href="http://www.stronglytyped.com/npoker/">screen 
+  shot and source&lt;/a>).&lt;/li>
+  &lt;li>&lt;b>Best Entry From High School Student, &lt;a href="mailto:rd933@msn.com">Ryan Dawson&lt;/a>&lt;/b>: I'm not sure I 
+  should be encouraging such behavior, but I certainly spent my fair share alone 
+  in my parent's basement with my computer and I turned out all right (didn't 
+  I?!?), so I thought I'd mention that Ryan was the only high school student 
+  (that I know of) that submitted an entry. Also, he used
+  &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms08162002.asp">
+  my pi calculator&lt;/a> to calculate 20K digits of pi for extra credit, so 
+  clearly things are working out for him. Remember to cite your sources, Ryan! : 
+  )&lt;/li>
+&lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/247</id>
+    <title>QuickCode for .NET</title>
+    <updated>2002-09-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-13T07:00:00.000Z</published>
+    <summary>Here. QuickCode is a VS.NET add-in that expands phrases into code, e.g. prop int test would expand to an entire property implementation. It works for C# and VB.NET and appears to be very flexible.</summary>
+    <content type="html">&lt;h1>QuickCode for .NET&lt;/h1>
+&lt;a href="http://www.dvxp.com/downloads.asp">Here&lt;/a>. QuickCode is a VS.NET add-in that expands phrases into code, e.g.
+
+prop int test&lt;Alt+Q>
+
+would expand to an entire property implementation. It works for C# and VB.NET and appears to be very flexible.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/248</id>
+    <title>TechEd2002 Sessions / MS Videos</title>
+    <updated>2002-09-13T07:00:00.000Z</updated>
+    <published>2002-09-13T07:00:00.000Z</published>
+    <summary>Here. From Jesse Ezell: If you are looking for a place to brush up on your.NET skills and missed TechEd this year, you can see the TechEd 2002 sessions (like 200+ sessions with slides, video, and audio) from here, as well as check out some great Balmer videos like the infamous "developers! developers! developers!" chant. Definately a top notch resource.</summary>
+    <content type="html">&lt;h1>TechEd2002 Sessions / MS Videos&lt;/h1>
+&lt;a href="http://www.only4gurus.com/">Here&lt;/a>. From Jesse Ezell: If you are looking for a place to brush up on your .NET skills and missed TechEd this year, you can see the TechEd 2002 sessions (like 200+ sessions with slides, video, and audio) from here, as well as check out some great Balmer videos like the infamous "developers! developers! developers!" chant. Definately a top notch resource.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/249</id>
+    <title>Never Send An Email In Anger</title>
+    <updated>2002-09-13T07:00:00.000Z</updated>
+    <published>2002-09-13T07:00:00.000Z</published>
+    <summary>Here. My proposal for an Outlook Add-In that notices and warns you when this is about to happen...</summary>
+    <content type="html">&lt;h1>Never Send An Email In Anger&lt;/h1>
+&lt;a href="/12574">Here&lt;/a>. My proposal for an Outlook Add-In that notices and warns you when this is about to happen...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12574</id>
+    <title>Never Send An Email In Anger</title>
+    <updated>2002-09-13T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/spout/career.jpg"/>
+    <category term="spout" label="The Spout"/>
+    <published>2002-09-13T07:00:00.000Z</published>
+    <summary>I learned how to write good emails at the foot of the master -- Don Box. Whenever we'd decide we wanted something, he'd grab his computer and say, &amp;quot;Let's write the email&amp;quot; and it would be done. One of the most important things that I've ever learned about high-tech communications is to never, ever write an email in anger. Or, to be more precise, never *send* an email in anger. I encourage you to actually write it. It always makes me feel better. But don't address it, because you want that email to ...</summary>
+    <content type="html">&lt;h1>Never Send An Email In Anger&lt;/h1>
+
+        &lt;p>I learned how to write good emails at the foot of the master -- Don 
+        Box. Whenever  we'd decide we wanted 
+        something, he'd grab his computer and say, &amp;quot;Let's write the email&amp;quot; and 
+        it would be done.&lt;/p>
+        &lt;p>One of the most important things that I've ever 
+        learned about high-tech communications is to never, ever write an email 
+        in anger. Or, to be more precise, never *send* an email in anger. I 
+        encourage you to actually write it. It always makes me feel better. But 
+        don't address it, because you want that email to first end up in your 
+        Drafts folder and go from there to your Deleted folder. If you address 
+        it and mean to press Ctrl+S to Save but manage to press Alt+S to Send by 
+        mistake, you might well be looking for work in another industry. If you 
+        don't address it, however, Outlook complains and you can breathe a sigh 
+        of relief. Frankly, I wish there was an add-in that protected me even if 
+        I ignore my own advice:&lt;/p>
+        &lt;p>&lt;img border="0" src="/public/spout/career.jpg" width="300" height="152">&lt;/p>
+        &lt;p>Of course, this spouting could only occurred after I've violated my 
+        own advise, as I've often done over the years, always to my determent. 
+        When you're angry, all you care about is making sure that your anger 
+        comes through. If I give myself an hour or two to think on it, when I 
+        come back to read that angry email, it always makes me flinch. Writing 
+        an email once I'm done being angry always yields the nicest, most 
+        thoughtful emails that I can write. Those I find to be *much* more 
+        effective.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/242</id>
+    <title>Multithreaded .NET Web Service Clients</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. Ian Griffiths and Chris Sells "Unresponsive programs are extremely frustrating to use. Applications that sometimes freeze for a moment are a source of much irritation, especially if they don't provide any feedback on what they are doing, or how long it is likely to be before they start responding again. This behaviour can be particularly common among applications that use remote facilities such as Web services. This article describes how to maintain responsiveness in.NET Windows Forms rich client appl...</summary>
+    <content type="html">&lt;h1>Multithreaded .NET Web Service Clients&lt;/h1>
+&lt;a href="http://cedar.intel.com/cgi-bin/ids.dll/content/content.jsp?cntKey=Generic+Editorial::dotnet_multithread&amp;cntType=IDS_EDITORIAL&amp;catCode=CGX">Here&lt;/a>. Ian Griffiths and Chris Sells
+
+"Unresponsive programs are extremely frustrating to use. Applications that sometimes freeze for a moment are a source of much irritation, especially if they don't provide any feedback on what they are doing, or how long it is likely to be before they start responding again. This behaviour can be particularly common among applications that use remote facilities such as Web services. This article describes how to maintain responsiveness in .NET Windows Forms rich client applications, even when invoking potentially long-running Web services, by using multiple threads."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/246</id>
+    <title>DevelopMentor Developer Resources</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. The list of tools and samples from recognized experts across technologies has grown to monstrous proportions at the new DevelopMentor Developer Resources page. Highly recommended.</summary>
+    <content type="html">&lt;h1>DevelopMentor Developer Resources&lt;/h1>
+&lt;a href="http://www.develop.com/devresources/">Here&lt;/a>. The list of tools and samples from recognized experts across technologies has grown to monstrous proportions at the new DevelopMentor Developer Resources page. Highly recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/240</id>
+    <title>Intel Rich Client Series</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. I'd like to announce a new series of articles specially requested by Intel on the topic of making the most of the client tier. Topics include high-performance graphics, data and XML querying and filtering on the client-side, smart client deployment and more. Two articles are up now with more to come through the end of the year. Enjoy.</summary>
+    <content type="html">&lt;h1>Intel Rich Client Series&lt;/h1>
+&lt;a href="/public/writing/#intel">Here&lt;/a>. I'd like to announce a new series of articles specially requested by Intel on the topic of making the most of the client tier. Topics include high-performance graphics, data and XML querying and filtering on the client-side, smart client deployment and more. Two articles are up now with more to come through the end of the year. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/245</id>
+    <title>KDE To Support .NET</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. "The KDE Project has emerged as possibly the first real-world adopter of Project Mono for application development. Mono is an open source alternative to.NET for Unix and Linux desktops, initiated in July 2001 by Ximian Inc." The reason that this is interesting for Windows developers is that with both of the major Linux desktops, i.e. Gnome and KDE, supporting.NET, it's possible that a simple.NET application or component could actually work across Windows, Gnome and KDE. Now.NET becomes the OS. Shades ...</summary>
+    <content type="html">&lt;h1>KDE To Support .NET&lt;/h1>
+&lt;a href="http://theregister.co.uk./content/4/27085.html">Here&lt;/a>. "The KDE Project has emerged as possibly the first real-world adopter of Project Mono for application development. Mono is an open source alternative to .NET for Unix and Linux desktops, initiated in July 2001 by Ximian Inc."
+
+The reason that this is interesting for Windows developers is that with both of the major Linux desktops, i.e. Gnome and KDE, supporting .NET, it's possible that a simple .NET application or component could actually work across Windows, Gnome and KDE. Now .NET becomes the OS. Shades of Java, which failed in this space I know, but still interesting...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/243</id>
+    <title>foreach is Your Friend: Part 2</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. Just when you'd thought you're learned everything there was to know about foreach in part 1, I've got more in part 2! This part (the final : ) discusses implementing support for foreach in your own custom types as well as how to patch holes in the framework where they forgot to add foreach support. Enjoy.</summary>
+    <content type="html">&lt;h1>foreach is Your Friend: Part 2&lt;/h1>
+&lt;a href="http://www.windevnet.com/documents/s=7481/win1031079762371/">Here&lt;/a>. Just when you'd thought you're learned everything there was to know about foreach in part 1, I've got more in part 2! This part (the final : ) discusses implementing support for foreach in your own custom types as well as how to patch holes in the framework where they forgot to add foreach support. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/244</id>
+    <title>Less Than 40 Seats Left at the Web Services DevCon</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. Register now for the Web Services DevCon, October 10-11 in greater Boston, featuring Don Box, Tim Ewald and keynote speaker Sam Ruby. In addition to amazing talks by Microsoft’s Web Services Program Manager, Keith Ballinger, and IBM Distinguished Engineer, Noah Mendelsohn, as well as wizened practitioners from HP, Macromedia and the W3C, all attendees receive exclusive SellsBrothers t-shirts available nowhere else. Register now!</summary>
+    <content type="html">&lt;h1>Less Than 40 Seats Left at the Web Services DevCon&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. Register now for the Web Services DevCon, October 10-11 in greater Boston, featuring Don Box, Tim Ewald and keynote speaker Sam Ruby. In addition to amazing talks by Microsoft’s Web Services Program Manager, Keith Ballinger, and IBM Distinguished Engineer, Noah Mendelsohn, as well as wizened practitioners from HP, Macromedia and the W3C, all attendees receive exclusive SellsBrothers t-shirts available nowhere else. Register now!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/241</id>
+    <title>Rich Client Database Interactions with ADO.NET</title>
+    <updated>2002-09-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-12T07:00:00.000Z</published>
+    <summary>Here. Shawn Wildermuth and Chris Sells "In the.NET Framework, rich clients can bring database servers to their knees, just like Web-based applications. But with the disconnected nature of ADO.NET, your rich clients can manipulate and analyze database data without impacting the database server. Once you have the data in the rich client, you can do high-performance analysis of the data—including sorting, filtering, and querying—without expensive server calls. In this article we will show you how to use DataSe...</summary>
+    <content type="html">&lt;h1>Rich Client Database Interactions with ADO.NET&lt;/h1>
+&lt;a href="http://cedar.intel.com/cgi-bin/ids.dll/content/content.jsp?cntKey=Generic+Editorial::net_bottleneck&amp;cntType=IDS_EDITORIAL&amp;catCode=CGX">Here&lt;/a>. Shawn Wildermuth and Chris Sells
+
+"In the .NET Framework, rich clients can bring database servers to their knees, just like Web-based applications. But with the disconnected nature of ADO.NET, your rich clients can manipulate and analyze database data without impacting the database server. Once you have the data in the rich client, you can do high-performance analysis of the data—including sorting, filtering, and querying—without expensive server calls. In this article we will show you how to use DataSet, DataView, and XmlDataDocument to make your rich clients work with database data in a disconnected way."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/238</id>
+    <title>Dev. Tool Wins Free Pass to Web Services DevCon</title>
+    <updated>2002-09-11T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2002-09-11T07:00:00.000Z</published>
+    <summary>Here. Stoyan Damov, the Grand Prize winner in the "Spend A Day With.NET" Coding Contest, won a free trip to the Web Services DevCon [1], Oct. 10-11 in greater Boston. His Microsoft Knowledge Base Viewer application provides "what's new" functionality for KB articles in the technology areas of your choice, along with caching and plain-text/HTML viewing. And he built it in a single day with.NET! [1] http://127.0.0.1:8080/conference</summary>
+    <content type="html">&lt;h1>Dev. Tool Wins Free Pass to Web Services DevCon&lt;/h1>
+&lt;a href="/public/fun/DayWithDotNet">Here&lt;/a>. Stoyan Damov, the Grand Prize winner in the "Spend A Day With .NET" Coding Contest, won a free trip to the Web Services DevCon [1], Oct. 10-11 in greater Boston. His Microsoft Knowledge Base Viewer application provides "what's new" functionality for KB articles in the technology areas of your choice, along with caching and plain-text/HTML viewing. And he built it in a single day with .NET!
+
+[1] http://127.0.0.1:8080/conference</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/239</id>
+    <title>Comfort, One Year Later</title>
+    <updated>2002-09-11T07:00:00.000Z</updated>
+    <published>2002-09-11T07:00:00.000Z</published>
+    <summary>Here. A year ago, thousands of people lost their lives at the World Trade Center and at the Pentagon. I'm working from home, so I can't put on my headlights, but I've been doing a lot of thinking about that day today and my "virtual" headlights are most definitely on. I'm sure today is very difficult for the survivors and I'd like to extend whatever comfort I can. May God bless you all.</summary>
+    <content type="html">&lt;h1>Comfort, One Year Later&lt;/h1>
+&lt;a href="/12601">Here&lt;/a>. A year ago, thousands of people lost their lives at the World Trade Center and at the Pentagon. I'm working from home, so I can't put on my headlights, but I've been doing a lot of thinking about that day today and my "virtual" headlights are most definitely on. I'm sure today is very difficult for the survivors and I'd like to extend whatever comfort I can. May God bless you all.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/237</id>
+    <title>Happy Breakpoints for Testing</title>
+    <updated>2002-09-11T07:00:00.000Z</updated>
+    <published>2002-09-11T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: John Robbins shows how to set breakpoints on all the functions in a particular source file in Microsoft's Visual Studio.NET. </summary>
+    <content type="html">&lt;h1>Happy Breakpoints for Testing&lt;/h1>
+&lt;a href="http://softwaredev.earthweb.com/msnet/microsoft/article/0,,10720_1457291,00.html">Here&lt;/a>. From Razvan Caciula: John Robbins shows how to set breakpoints on all the functions in a particular source file in Microsoft's Visual Studio .NET. 
+</content>
+  </entry>
+</feed>

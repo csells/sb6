@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed120.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed119.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed121.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed120.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12532</id>
+    <title>No huggy, no kissy, until I get an RSS feed</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Before RSS took over, I had a folder named &amp;quot;Daily&amp;quot; which had links to all of the URLs that I surfed to on a daily basis. One problem was that for the sites that changed daily, it was a pain to decide what was new. An even bigger problem was the ones that didn't change daily. Eventually, the pain of surfing to them daily was outweighed by the pleasure I would get when those sites were finally updated. A bunch of my friends' infrequently updated blogs fall into this category (you know who you are : ...</summary>
+    <content type="html">&lt;h1>No huggy, no kissy, until I get an RSS feed&lt;/h1>
+&lt;p>
+Before RSS took over, I had a folder named &amp;quot;Daily&amp;quot; which had links to all of the 
+URLs that I surfed to on a daily basis. One problem was that for the sites that 
+changed daily, it was a pain to decide what was new. An even bigger problem was 
+the ones that didn't change daily. Eventually, the pain of surfing to them daily 
+was outweighed by the pleasure I would get when those sites were finally 
+updated. A bunch of my friends' infrequently updated blogs fall into this 
+category (you know who you are : ).&lt;/p>&lt;p>Sure, RSS is useful to track &lt;a href="http://radio.weblogs.com/0001011/2003/08/02.html#a4126">
+Scoble as he shirks his moving duties&lt;/a>, but even more useful to track &lt;a href="http://www.gotdotnet.com/team/tewald/default.aspx">
+Tim when he eventually does update his blog&lt;/a>. With RSS, I don't have to 
+experience any pain surfing to Tim's blog day after day. Instead, I let &lt;a href="http://www.sharpreader.net">
+SharpReader&lt;/a> poll Tim's blog and when it's finally updated, I'll know about 
+it. All gain; no pain.&lt;/p>&lt;p>What that means, unfortunately, is that I only read 
+blogs with RSS feeds, because I've long ago gotten out of the habit of surfing 
+my &amp;quot;Daily&amp;quot; folder. So when Josh Trupin (editor of MSDN Magazine) gave his 
+reasons for being out of the office on Monday, he had to send me an email with a 
+link to &lt;a href="http://www.cynicor.com/blog/">the description 
+of his horrific train injury detailed on his blog&lt;/a>. As fun a writer as Josh 
+is, I won't go back (unless Google brings me there) 'til he's got an RSS feed. 
+I've been hurt before; now I'm older and wiser and &lt;a href="http://www.geocities.com/BourbonStreet/Delta/6103/keepyour.html">
+require an RSS feed before I'm willing to wed myself to a blog&lt;/a>.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12531</id>
+    <title>Positive Affirmation</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>I woke up at Don's house one day last week utterly convinced that I was going to win the lottery that day. It was 6:30a, which is early for me, but I had an 8a meeting (*very* early for Microsofties), so I had set the alarm. Tim, who was also staying at Don's that week and with whom I was sharing a room (separate beds : ) was on Eastern time, so had already accidently woken me at 6a that morning on his way to the door (it's not his fault; I'm too long for the bed and it's a tight squeeze to get past me when...</summary>
+    <content type="html">&lt;h1>Positive Affirmation&lt;/h1>
+&lt;p>I woke up at 
+Don's house one day last week utterly convinced that I was going to win the 
+lottery that day. It was 6:30a, which is early for me, but I had an 8a meeting 
+(*very* early for Microsofties), so I had set the alarm. Tim, who was also 
+staying at Don's that week and with whom I was sharing a room (separate beds : ) 
+was on Eastern time, so had already accidently woken me at 6a that morning on 
+his way to the door (it's not his fault; I'm too long for the bed and it's a 
+tight squeeze to get past me when I'm I'm in it). I must've had some strong 
+dream between 6a and 6:30a as I lay there in and out of sleep.&lt;/p>&lt;p>The 
+premonition was so strong that I recalled the epilog from one of the first 
+non-comic Dilbert books in which Scott Adams talked about his belief that there 
+were multiple parallel universi and that by process of positive affirmations, 
+he'd moved his consciousness into one that had attained great success in spite 
+of his abysmal drawing abilities (this was before his TV series was canceled).&lt;/p>&lt;p>
+So, all morning, in classic positive affirmation style, I had &amp;quot;I will win the 
+lottery today&amp;quot; running through my head. It swamped all other thoughts, except 
+those of whether I wanted the annual payment or the lump sum ($25M or $13M, 
+respectively) and how I was going to spend the money.&lt;/p>&lt;p>My first purchase 
+was to be a two-week trip for my entire extended family to Hawaii where we would 
+decide how rest of the money was to be spent. The idea was to devise a plan 
+wherein every adult member of my family could get a life-changing amount of 
+money, e.g. $100K, to use to follow their dreams, but awarded only in a manner 
+that wouldn't actually cause more harm than good (as large sums of money can do 
+[or so I've heard...]). Then, I called my sister-in-law to ask her where, money 
+being no object, she would want to live. I've been looking for houses in her 
+neighborhood lately so that we could be closer (&amp;quot;It takes a village to raise a 
+child.&amp;quot;).&lt;/p>&lt;p>Right away, she was suspicious of my question, &amp;quot;Why? Are you 
+going to win the lottery?&amp;quot;&lt;/p>&lt;p>&amp;quot;Yes,&amp;quot; I said, confidently.&lt;/p>&lt;p>&amp;quot;Really? How 
+do you know?&amp;quot;&lt;/p>&lt;p>&amp;quot;I woke up with a 'feeling,'&amp;quot; I said, unashamed.&lt;/p>&lt;p>&amp;quot;How 
+often have you had these feelings and they've come true?&amp;quot; she asked, judging her 
+odds.&lt;/p>&lt;p>&amp;quot;Never.&amp;quot;&lt;/p>&lt;p>&amp;quot;Oh,&amp;quot; she said, disappointedly.&lt;/p>&lt;p>&amp;quot;No. I mean, 
+I've never had a feeling like this before,&amp;quot; I corrected her.&lt;/p>&lt;p>&amp;quot;Oh,&amp;quot; she 
+said, this time more excited. I've also loved that about my sister-in-law. She's 
+very open-minded. She never once questioned my sanity (out loud), but instead 
+started planning where she wanted to live. Her conclusion is that she'd want a 
+nicer house very close to where she currently live, but basically, that was all. 
+&amp;quot;I like my life,&amp;quot; she said.&lt;/p>&lt;p>That was my conclusion as well. I have things 
+that I want to do that aren't likely to generate an income stream, e.g. &lt;a href="/money">
+figure out how money works&lt;/a>, but my life is a good one and doesn't need major 
+changes. It was fun to go through the mental exercise and I would certainly have 
+been happy to win the lottery that day, but it's OK that I didn't. That early 
+morning feeling lead to positive affirmation of a different kind.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/724</id>
+    <title>"Sudden Wealth Syndrome"</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. That's a disease *I* want!</summary>
+    <content type="html">&lt;h1>"Sudden Wealth Syndrome"&lt;/h1>
+&lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=1804&amp;ncid=1804&amp;e=2&amp;u=/washpost/20030803/tc_washpost/a15231_2003aug2">Here&lt;/a>. That's a disease *I* want!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/726</id>
+    <title>No huggy, no kissy, until I get an RSS feed</title>
+    <updated>2003-08-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-08-03T07:00:00.000Z</published>
+    <summary>Here. The one where I stoop to using a country song to make my point.</summary>
+    <content type="html">&lt;h1>No huggy, no kissy, until I get an RSS feed&lt;/h1>
+&lt;a href="/12532">Here&lt;/a>. The one where I stoop to using a country song to make my point.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/723</id>
+    <title>More Free, Cool WinForms Controls</title>
+    <updated>2003-08-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-08-01T07:00:00.000Z</published>
+    <summary>Here. Includes a document manager, docking windows, menus and toolbars, outlook bar and wizards. Looks cool and they're free. Enjoy.</summary>
+    <content type="html">&lt;h1>More Free, Cool WinForms Controls&lt;/h1>
+&lt;a href="http://www.divil.co.uk/net/controls/">Here&lt;/a>. Includes a document manager, docking windows, menus and toolbars, outlook bar and wizards. Looks cool and they're free. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/722</id>
+    <title>Why click the Start button to shutdown?</title>
+    <updated>2003-08-01T07:00:00.000Z</updated>
+    <published>2003-08-01T07:00:00.000Z</published>
+    <summary>Here. Raymond Chen from the MS shell team aswers the age-old question.</summary>
+    <content type="html">&lt;h1>Why click the Start button to shutdown?&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/raymondc/permalink.aspx/ace9d0d2-a56a-4ee3-a466-d54261a4a4c9">Here&lt;/a>. Raymond Chen from the MS shell team aswers the age-old question.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/721</id>
+    <title>Magic: The User Interface Library for .NET</title>
+    <updated>2003-07-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-31T07:00:00.000Z</published>
+    <summary>Here. If you haven't seen it yet, you should check out Magic: The User Interface Library for.NET. It's got a ton of the UI stuff you always want, e.g. docking windows, menus with graphics, control styles and tons more. And the price is right -- it's free! BTW, there is some overlap in the UI department with Genghis [1], but Genghis has some other non-UI stuff worth checking out, too. [1] http://www.genghisgroup.com</summary>
+    <content type="html">&lt;h1>Magic: The User Interface Library for .NET&lt;/h1>
+&lt;a href="http://www.dotnetmagic.com/">Here&lt;/a>. If you haven't seen it yet, you should check out Magic: The User Interface Library for .NET. It's got a ton of the UI stuff you always want, e.g. docking windows, menus with graphics, control styles and tons more. And the price is right -- it's free!
+
+BTW, there is some overlap in the UI department with Genghis [1], but Genghis has some other non-UI stuff worth checking out, too.
+
+[1] http://www.genghisgroup.com</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/720</id>
+    <title>Real Legend: Interview with Brian Kernighan</title>
+    <updated>2003-07-30T07:00:00.000Z</updated>
+    <published>2003-07-30T07:00:00.000Z</published>
+    <summary>Here. Brian Kernighan is the K in K&amp;R C and in AWK. He's a real legend and seems, from his interview, to be an all around pleasant fellow. I would've like to have worked with him.</summary>
+    <content type="html">&lt;h1>Real Legend: Interview with Brian Kernighan&lt;/h1>
+&lt;a href="http://www.linuxjournal.com/article.php?sid=7035">Here&lt;/a>. Brian Kernighan is the K in K&amp;R C and in AWK. He's a real legend and seems, from his interview, to be an all around pleasant fellow. I would've like to have worked with him.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/715</id>
+    <title>*Free* (as in beer) Access to VSIP!</title>
+    <updated>2003-07-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-07-29T07:00:00.000Z</published>
+    <summary>Here. "Register to become a Visual Studio Industry partner and get FREE access to the VSIP SDK. As a VSIP you will have access to the technology, private newsgroups and secured technical content to assist you in seamlessly integrating your tools, components, and languages into the Visual Studio.NET IDE." Everything you always wanted to do to integrate seamlessly into VS.NET used to cost money. As of todays, it's free! Wahoo!</summary>
+    <content type="html">&lt;h1>*Free* (as in beer) Access to VSIP!&lt;/h1>
+&lt;a href="http://www.vsipdev.com/">Here&lt;/a>. "Register to become a Visual Studio Industry partner and get FREE access to the VSIP SDK. As a VSIP you will have access to the technology, private newsgroups and secured technical content to assist you in seamlessly integrating your tools, components, and languages into the Visual Studio .NET IDE."
+
+Everything you always wanted to do to integrate seamlessly into VS.NET used to cost money. As of todays, it's free! Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/716</id>
+    <title>My First .NET Show</title>
+    <updated>2003-07-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-29T07:00:00.000Z</published>
+    <summary>Here. The one where I have my first shoot on the.NET Show.</summary>
+    <content type="html">&lt;h1>My First .NET Show&lt;/h1>
+&lt;a href="/12533">Here&lt;/a>. The one where I have my first shoot on the .NET Show.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/718</id>
+    <title>Microsoft Developer Tools Roadmap 2003-2005</title>
+    <updated>2003-07-29T07:00:00.000Z</updated>
+    <published>2003-07-29T07:00:00.000Z</published>
+    <summary>Here. Plans for Visual Studio tools for Office in 2003, VS "Whidbey" in 2004 and VW "Orcas" in 2005.</summary>
+    <content type="html">&lt;h1>Microsoft Developer Tools Roadmap 2003-2005&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.aspx">Here&lt;/a>. Plans for Visual Studio tools for Office in 2003, VS "Whidbey" in 2004 and VW "Orcas" in 2005.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/719</id>
+    <title>The Original .NET Redneck</title>
+    <updated>2003-07-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-07-29T07:00:00.000Z</published>
+    <summary>Here. Shawn Morrissey captures Eric Sink in a rare photo op.</summary>
+    <content type="html">&lt;h1>The Original .NET Redneck&lt;/h1>
+&lt;a href="/12346">Here&lt;/a>. Shawn Morrissey captures Eric Sink in a rare photo op.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/717</id>
+    <title>A Look into the Future of Visual Studio</title>
+    <updated>2003-07-29T07:00:00.000Z</updated>
+    <published>2003-07-29T07:00:00.000Z</published>
+    <summary>Here. I want it!</summary>
+    <content type="html">&lt;h1>A Look into the Future of Visual Studio&lt;/h1>
+&lt;a href="http://www.atnewyork.com/news/article.php/2241651">Here&lt;/a>. I want it!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/713</id>
+    <title>Microsoft Plays Hiring Hardball</title>
+    <updated>2003-07-28T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2003-07-28T07:00:00.000Z</published>
+    <summary>Here. "Like baseball's New York Yankees, Microsoft Corp. has been paying top dollar for top talent in an effort to dominate the new playing fields of XML and Web services." While I agree that finally coming to work for Microsoft is like a baseball fan getting to play for the Yankees, I'm not sure where Darryl got his "top dollar" information. Maybe I should talk to the other guys about their deals... : )</summary>
+    <content type="html">&lt;h1>Microsoft Plays Hiring Hardball&lt;/h1>
+&lt;a href="http://www.eweek.com/article2/0,3959,1204330,00.asp">Here&lt;/a>. "Like baseball's New York Yankees, Microsoft Corp. has been paying top dollar for top talent in an effort to dominate the new playing fields of XML and Web services."
+
+While I agree that finally coming to work for Microsoft is like a baseball fan getting to play for the Yankees, I'm not sure where Darryl got his "top dollar" information. Maybe I should talk to the other guys about their deals... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12533</id>
+    <title>My First .NET Show</title>
+    <updated>2003-07-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-07-28T07:00:00.000Z</published>
+    <summary>In many ways, my list of &amp;quot;My First&amp;quot; articles lately have been written out of duty to all of the developers that have always wanted to work at Microsoft, but haven't yet been able to. I first applied for a job @ MS as a summer intern in 1988. I was turned down while another guy down the hall of my fraternity was accepted. He spent all summer building LCD panels into one giant screen and I spent all summer writing FoxPro code. I wonder if he still works here. I can't for the life of me remember his ...</summary>
+    <content type="html">&lt;h1>My First .NET Show&lt;/h1>
+&lt;p>In many ways, 
+my list of &amp;quot;My First&amp;quot; articles lately have been written out of duty to all of 
+the developers that have always wanted to work at Microsoft, but haven't yet 
+been able to. I first applied for a job @ MS as a summer intern in 1988. I was 
+turned down while another guy down the hall of my fraternity was accepted. He 
+spent all summer building LCD panels into one giant screen and I spent all 
+summer writing FoxPro code. I wonder if he still works here. I can't for the 
+life of me remember his name. David something...&lt;/p>&lt;p>Anyway, every time some 
+new, fun, cool opportunity comes up, I feel like I have to take it just so that 
+I can share it with the folks that don't yet work here (seems like they're 
+hiring everyone, though, so it shouldn't be much longer : ). This time, I got to 
+be in an episode of the .NET Show. I was to be 15 minutes of code demo after 
+Brad Abrams and Anders Hejlsberg reminded folks that .NET wasn't just about web 
+services. There were all kinds of folks that Robert had on tap to give the demo, 
+but they were all busy, so eventually they got to the last monkey in the barrel 
+and had to settle for me. : )&lt;/p>&lt;p>I flew up this morning and had to call MS 
+information: &amp;quot;Hi, I'm a Microsoft employee, but I'm new. Can you tell me where 
+to go to get the MS Studios?&amp;quot; This in spite of the fact that &lt;a href="#My_First_Visit_to_MS_Studios">
+I'd been there less than two weeks before&lt;/a>! (I'm terrible at remembering 
+anything that doesn't have a lot of parenthesis and braces in it). They showed 
+me to Green Room #2, where they had some food waiting, just like I was a real 
+&amp;quot;talent&amp;quot;. Maybe the food was really for Brad and Anders. Maybe the food was for 
+Nick Hodapp, Project Manager for Visual C++, who was in the makeup chair when I 
+arrived. Nick was there to remind people that MS is serious about C++ both in 
+the native and managed spaces and to show off &lt;a href="http://www.vertigosoftware.com/Quake2.htm">
+the port of Quake II to managed C++&lt;/a>.&lt;/p>&lt;p>While I waited my turn in the 
+makeup chair, I watched Brad and Anders do their thing and made sure my demos 
+worked. I was amazed that Robert never stopped the shooting while he did his 
+interview. He did the whole thing in one take, which puts quite a burden on me 
+to get my demo right the first time! I also spent some time eating the Green 
+Room food, IMing my wife (she said to make sure not to use too much blue eye 
+shadow or I'd look &amp;quot;trashy&amp;quot;) and giving the makeup artist a talk on the benefits 
+of Wi-Fi (she asked, honest!).&lt;/p>&lt;p>After Brad and Anders were through, they 
+wandered into my makeup session. I've always wanted to meet the creator of C#, 
+but not while having my eyes done... Anyway, Brad and Anders were having a 
+debate about the merits of a new optimization of the .NET framework and it was 
+really cool to see how practical Anders was. I don't know why, but I imagined a 
+guy that could come up with something as clean and simple as C# to be pretty 
+academic. That wasn't the case at all. His view of the debate was that he wanted 
+to see a few uses of a proposed new feature before he even thought about 
+including it, as opposed to judging it on the basis of it's &amp;quot;coolness&amp;quot; as can 
+happen when engineers gather together in groups. That brief chat made me feel 
+better about having him in charge of my favorite programming language.&lt;/p>&lt;p>
+After having just the right amount of blue eye shadow, I sat up on stage with 
+Robert and Nick and &lt;a href="#My_First_Visit_to_MS_Studios">my new friend Bob&lt;/a>, 
+who ran the entire shoot. He was like the voice of God, being only heard and not 
+seen from his control room in the bowels of MS Studio. He and I bonded quickly 
+as we settled into the banter of trading insults familiar amongst the wiseasses 
+of the world (now *that* sounds like a cool domain name! : ). Robert was very 
+causal and very smiley, very different from the seriousness he portrays on film. 
+Nick was very polished and gave such a compelling demo of the managed C++ Quake 
+II port that I couldn't help but jump in and beg for more. I, on the other hand, 
+said the word &amp;quot;crack&amp;quot; and mentioned my colleague as he IM'd himself onto my 
+computer screen, both times making Robert roll his eyes at me (off camera, I'm 
+sure). I also went off into la la land once when I answered a question that 
+Robert hadn't asked, causing Nick to jump in with an answer.&lt;/p>&lt;p>All in all, 
+having yourself filmed for posterity was pretty different from giving a talk. It 
+was nice, because I had Nick and Robert to play off of and Robert was very good 
+about moving things along. It was hard because, unlike a talk, there were things 
+that I said that I wished I hadn't merely because they are permanent. Hopefully 
+it went over well as a whole. I don't know if I'll be able to watch it myself. 
+Someone please tell me how it is when it's published next month...&lt;/p>
+</content>
+  </entry>
+</feed>

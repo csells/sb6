@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed39.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed38.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed40.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed39.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1860</id>
+    <title>MS Dogfooding Avalon</title>
+    <updated>2005-09-26T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-09-26T07:00:00.000Z</published>
+    <summary>As MS releases new frameworks, folks always ask "Does MS use this?" Of course, MS has tons of existing apps that would be silly to rewrite, but when we build new stuff, we generally use the latest frameworks that make sense. Towards that end, John Gosman continues his history of Expression Interactive Designer aka Sparkle, mentioning the percentage of managed code in&amp;nbsp; (100%) and the number of P/Invoke calls (1 -- HtmlHelp) to get what is probably the most amazing app I've seen in years, whether managed...</summary>
+    <content type="html">&lt;h1>MS Dogfooding Avalon&lt;/h1>
+&lt;P>As MS releases new frameworks, folks always ask "Does MS use this?" Of course, MS has tons of existing apps that would be silly to rewrite, but when we build new stuff, we generally use the latest frameworks that make sense.&lt;/P>
+&lt;P>Towards that end, John Gosman continues his history of Expression Interactive Designer aka Sparkle, mentioning the percentage of managed code in&amp;nbsp; (100%) and the number of P/Invoke calls (1 -- HtmlHelp) to get what is probably &lt;A href="http://blogs.msdn.com/johngossman/archive/2005/09/26/473911.aspx">the most amazing app I've seen in years&lt;/A>, whether managed or not.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12468</id>
+    <title>My Product Group Fun: 2</title>
+    <updated>2005-09-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-09-22T07:00:00.000Z</published>
+    <summary>I am having so much fun, I can't not tell you about it. After a few months of wallowing, I found out something about myself: I'm really good at digging into the state of the art, whether it's one technology or a feature across technologies, if I have a problem I'm trying to solve. However, if I'm just wandering in a space w/o an explicit goal, e.g. give a presentation, build an app, write an article, I'm lost; I just can't muster any juice. What this means is that when I present my thinking in an area where...</summary>
+    <content type="html">&lt;h1>My Product Group Fun: 2&lt;/h1>
+&lt;p align="left">I am having so much fun, I can't not tell you about it.&lt;/p>&lt;p align="left">After &lt;a href="#My_First_Week_on_a_Microsoft_Product_Team:_Wallowing">a few months of wallowing&lt;/a>, I found out something about myself: I'm really good at digging into the state of the art, whether it's one technology or a feature across technologies, &lt;i>if I have a problem I'm trying to solve&lt;/i>. However, if I'm just wandering in a space w/o an explicit goal, e.g. give a presentation, build an app, write an article, I'm lost; I just can't muster any juice. What this means is that when I present my thinking in an area where I'm wandering aimlessly, I'm not married to any of my conclusions. If someone pushes back, I can't really get behind my conclusions because &lt;i>I just don't care&lt;/i>. If you're giving a presentation on how you think a certain technology should be used and you don't have a firm opinion one way or the other, that's just death.&lt;/p>&lt;p align="left">So it wasn't pretty for my first couple of months in my new project team. I never felt like I was making any progress because I didn't understand what problem we were trying to solve. How can you know how much further you've got to go if you don't know where you're headed?&lt;/p>&lt;p align="left">So, when my boss walked into my office with an actual problem, I jumped at it. He asked me to understand one of the internal applications that another team built at MS and give a presentation on it. The presentation was to a group of architects from across MS. The idea was to pick something to build that was real and that we could learn from as we attempted to apply what we hoped our product would be when it was done (developing prototype product functionality along the way). The catch: I had 36 hours to prepare the presentation (16 of which would commonly be used for sleeping), there weren't any product architecture docs and nobody knew anyone from that team. I didn't get much sleep, but I did prepare a presentation that amazed the audience given the amount of time I had. Plus, we ended up picking that app and we've been building it all summer, with me writing some of the code and leading the team writing the rest of the code. We've been through two milestones and are in the middle of a third, learning a ton about what we were going to build from solving an actual problem. That learning has fed into a product plan that I'm working on with my boss and that we'll use to capture our team's thoughts and then getting our management and our internal partners on board.&lt;/p>&lt;p align="left">This goes along with me learning how to be a real MS Product PM, giving my PDC talk, organizing a group to fix what I don't like about the technologies that I found out about during the preparation of my PDC talk, working on three books and helping to get Genghis resurrected for .NET 2.0. So, I'm busy doing so many wonderful technical things that I can barely stand it. Wahoo!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1858</id>
+    <title>My Product Group Fun: Part 2</title>
+    <updated>2005-09-22T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-09-22T07:00:00.000Z</published>
+    <summary>Here. The one where I'm swamped in technical things to do and am loving it.</summary>
+    <content type="html">&lt;h1>My Product Group Fun: Part 2&lt;/h1>
+&lt;a href="/12468">Here&lt;/a>. The one where &lt;a href="/12468">I'm swamped in technical things to do and am loving it&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1856</id>
+    <title>Tracking exceptions thrown by your apps worldwide</title>
+    <updated>2005-09-18T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-09-18T07:00:00.000Z</published>
+    <summary>This is an interesting, and free, service that you hook your app up to and when it throws an exception, it'll log it w/ the service so that you can track it from afar. These kinds of services are exactly what web services are wonderful for. Does anyone know of any other such services? I'm embarrassed to say that I don't actually know, but does MS provide one in this space or other developer-oriented web services for other than development? </summary>
+    <content type="html">&lt;h1>Tracking exceptions thrown by your apps worldwide&lt;/h1>
+&lt;P>This is an &lt;A href="http://www.exceptioncollection.com/">interesting, and free, service&lt;/A> that you hook your app up to and when it throws an exception, it'll log it w/ the service so that you can track it from afar. &lt;/P>
+&lt;P>These kinds of services are exactly what web services are wonderful for. Does anyone know of any other such services? I'm embarrassed to say that I don't actually know, but does MS provide one in this space or other developer-oriented web services for other than development?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1857</id>
+    <title>Please Post Reviews of Avalon Book</title>
+    <updated>2005-09-18T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-09-18T07:00:00.000Z</published>
+    <summary>For those of you that reviewed or got free access to our Avalon book while we were still writing it, please please please post a review on Amazon.com. Thanks!</summary>
+    <content type="html">&lt;h1>Please Post Reviews of Avalon Book&lt;/h1>
+For those of you that reviewed or got free access to &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0596101139">our Avalon book&lt;/A> while we were still writing it, &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0596101139">please please please post a review on Amazon.com&lt;/A>. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1854</id>
+    <title>WPF Book Sold Out Again, More Coming on Friday</title>
+    <updated>2005-09-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-09-15T07:00:00.000Z</published>
+    <summary>You can also order them online. I find that even Thanksgiving is good for gift giving, as is Halloween! What could be better than the gift of knowledge?</summary>
+    <content type="html">&lt;h1>WPF Book Sold Out Again, More Coming on Friday&lt;/h1>
+You can also &lt;A href="http://www.oreilly.com/catalog/avalon/index.html">order them online&lt;/A>. I find that even Thanksgiving is good for gift giving, as is Halloween! What could be better than &lt;A href="http://www.oreilly.com/catalog/avalon/index.html">the gift of knowledge&lt;/A>?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1855</id>
+    <title>Double Wow</title>
+    <updated>2005-09-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-09-15T07:00:00.000Z</published>
+    <summary>The new Nintendo control looks *very* cool...</summary>
+    <content type="html">&lt;h1>Double Wow&lt;/h1>
+&lt;A href="http://media.cube.ign.com/articles/651/651334/vids_1.html">The new Nintendo control&lt;/A> looks *very* cool...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1853</id>
+    <title>Programming WPF: Sold Out @ the PDC, More Coming</title>
+    <updated>2005-09-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-09-14T07:00:00.000Z</published>
+    <summary>All of the initial copies of Programming the Windows Presentation Foundation have been sold out at the PDC. That's a double edged sword, of course. On the one hand, it's nice that so many people wanted a copy that they were gone by the time I got to see the remaining display copy on Tuesday after lunch. On the other hand, I want the publisher to have provided enough copies to feed a longer buying frenzy. The good news is that another, larger shipment of the book will be available @ the PDC in the Marketplac...</summary>
+    <content type="html">&lt;h1>Programming WPF: Sold Out @ the PDC, More Coming&lt;/h1>
+&lt;P>All of the initial copies of &lt;A href="http://www.oreilly.com/catalog/avalon/index.html">Programming the Windows Presentation Foundation&lt;/A> have been sold out at the PDC. That's a double edged sword, of course. On the one hand, it's nice that so many people wanted a copy that they were gone by the time I got to see the remaining display copy on Tuesday after lunch. On the other hand, I want the publisher to have provided enough copies to feed a longer buying frenzy.&lt;/P>
+&lt;P>The good news is that another, larger shipment of the book will be available @ the PDC in the Marketplace store Thursday afternoon. Please form a line in an orderly fashion and keep the sleeping bags out of the normal aisle of traffic. : )&lt;/P>
+&lt;P>Or, feel free to &lt;A href="http://www.oreilly.com/catalog/avalon/index.html">purchase one online&lt;/A> (or two -- XMas is coming up!).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1852</id>
+    <title>WinFX Hearts</title>
+    <updated>2005-09-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-09-11T07:00:00.000Z</published>
+    <summary>To further drive home the point that I am not a graphic artist, Adam Nathan has posted his Avalon port of network Hearts. Wow. </summary>
+    <content type="html">&lt;h1>WinFX Hearts&lt;/h1>
+&lt;P>To further drive home the point that &lt;A href="/1771">I am not a graphic artist&lt;/A>, &lt;A href="http://blogs.msdn.com/adam_nathan/archive/2005/09/08/462190.aspx">Adam Nathan has posted&lt;/A> &lt;A href="http://www.winfxhearts.com/">his Avalon port of network Hearts&lt;/A>. Wow.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1851</id>
+    <title>Remove the slow "Compress Old Files" option!</title>
+    <updated>2005-09-10T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-09-10T07:00:00.000Z</published>
+    <summary>I love CleanMgr.exe's ability to clean out my temp folder, my internet cache and my recycle bin in one swell foop, but that damn "Compress Old Files" option drives me crazy! Luckily, Scott Hanselman got a.reg file from Shawn Van Ness and now I don't have to put up with that option. Wahoo!</summary>
+    <content type="html">&lt;h1>Remove the slow "Compress Old Files" option!&lt;/h1>
+I love CleanMgr.exe's ability to clean out my temp folder, my internet cache and my recycle bin in one swell foop, but that damn "Compress Old Files" option drives me crazy! Luckily, &lt;A href="http://www.hanselman.com/blog/PowerUserWindowsRegistryTweaks.aspx">Scott Hanselman&lt;/A> got a .reg file from &lt;A href="http://weblogs.asp.net/savanness/">Shawn Van Ness&lt;/A> and now I don't have to put up with that option. Wahoo!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1850</id>
+    <title>MS Hurricane Katrina Relief Efforts</title>
+    <updated>2005-09-09T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-09-09T07:00:00.000Z</published>
+    <summary>The following is an internal email published here with permission: From: Lisa Brummel Sent: Friday, September 09, 2005 1:54 PM To: Microsoft Subject: Update: Hurricane Katrina Relief Efforts While the effects of Hurricane Katrina will be felt in the Gulf Coast for months and years to come, the contributions and volunteer efforts of thousands of Microsoft employees worldwide over the last week and a half have made a real difference in peoples' lives. Fortunately, all of our employees in the region are safely...</summary>
+    <content type="html">&lt;h1>MS Hurricane Katrina Relief Efforts&lt;/h1>
+&lt;P>The following is an internal email published here with permission:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>From: Lisa Brummel&lt;BR>Sent: Friday, September 09, 2005 1:54 PM&lt;BR>To: Microsoft&lt;BR>Subject: Update: Hurricane Katrina Relief Efforts&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>While the effects of Hurricane Katrina will be felt in the Gulf Coast for months and years to come, the contributions and volunteer efforts of thousands of Microsoft employees worldwide over the last week and a half have made a real difference in peoples' lives. Fortunately, all of our employees in the region are safely accounted for.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>I want to thank everyone who has been responding to requests by relief agencies for cash donations to meet the most immediate needs of evacuees. To date, a total of $9 million in cash, technology assistance and support has been donated by Microsoft and by employees. This includes $2 million from Microsoft for relief, recovery and rebuilding efforts, $5 million in technology assistance and support, and U.S. employee contributions totaling more than $1 million, which will be matched by the company.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>In the hours and days following the hurricane, hundreds of Microsoft employees have used their creativity and initiative to help speed relief, often doing what we do best &amp;#8211; using technology to solve problems and help improve people&amp;#8217;s lives. These efforts by our employees are what make Microsoft a special place to work. I wish I could mention everyone by name, but since that&amp;#8217;s not possible, let me share a few examples that will give you an idea of the great work people are doing.&lt;/EM>&lt;/P>
+&lt;UL>
+&lt;LI>&lt;EM>Jim Carroll, a database architect from Birmingham, Alabama, and a half-dozen other Microsoft engineers from California, Florida, Alabama and Texas, worked virtually nonstop for four days to develop &lt;A href="http://katrinasafe.com">katrinasafe.com&lt;/A>, an online tool being used by the states of Louisiana, Mississippi, Alabama and Texas, and by relief agencies to help evacuees find family members separated by the crisis. Since the site went live on Sept. 5, information about tens of thousands of evacuees has been registered on the site, and it&amp;#8217;s being updated continuously with information from relief centers across the affected region.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Murali Krishnan, a group program manager in MSN, led an effort of about 100 Microsoft employees to build a secure Web site hosted by MSN to accept donations for the Red Cross. Krishnan&amp;#8217;s team built the site &amp;#8211; &lt;A href="http://donate.msn.com">donate.msn.com&lt;/A> &amp;#8211; in just 20 hours, unheard-of speed for a project of this magnitude. The MSN Web site has already generated more than $3 million in donations for the Red Cross.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Dawn Gagnon, a mobility solutions specialist in Houston, arranged for the delivery of Microsoft Smartphones to 30 doctors at the main Red Cross medical triage site in Baton Rouge, and 150 Texas National Guard command post leaders being deployed to Louisiana to help with relief efforts. With land lines and switching stations down throughout Louisiana, the Smartphones were a top priority of the Texas National Guard to keep command leaders in touch. A makeshift assembly line of friends, family and neighbors at Dawn&amp;#8217;s house worked for 12 hours to activate and charge the phones and make up waterproof bags that included car chargers and extra batteries.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>John Morello, a senior Microsoft consultant in south Louisiana, saw the need for an e-mail system that volunteers could use to help evacuees connect with people they'd been separated from. The Microsoft Hotmail team created the accounts in under four hours, and this has already helped reunite dozens of families. Suresh Babu, group program manager at Hotmail, then orchestrated a cross-team effort to help tens of thousands of evacuees set up and use free Hotmail e-mail accounts to let friends and family know they&amp;#8217;re OK, check in with employers, contact their insurance companies, even keep in touch with other victims of the hurricane.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Todd Ellison, a technical account manager in the Houston office working to assist local officials in relief efforts, walked into a wholesale computer parts distributor and asked if they would donate two laptop computers needed by the chief information officers of the City of Houston and Harris County, Texas. Five minutes later, Todd was out the door with two new machines.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Bill Steele, an Indiana-based Microsoft developer evangelist and private pilot, has been using his own twin-engine plane to shuttle food and supplies to areas of need. Flying out of Baton Rouge, Bill has delivered 17,500 MREs (Meals Ready to Eat), mostly to the lower part of Mississippi.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Steve Lough, an account manager in our federal sales office, led a team of senior Microsoft technologists working in partnership with Intel, Cisco and SBC at the Red Cross headquarters in Washington, D.C. to help create a communications infrastructure for relief shelters, establish computer kiosks for evacuees and Red Cross workers, and dispense financial assistance broadly. Microsoft also worked with the Red Cross to establish a solid core data infrastructure to meet the huge increase in demand on the agency's IT system.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>Blacks at Microsoft (BAM) is allocating funds to assist displaced students at historically black schools affected by the disaster, including Xavier University, Dillard University and Southern University of New Orleans.&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>In Redmond, a group of employees is putting together 200 boxes of sanitation and first-aid kits &amp;#8211; about a ton of supplies. They'll be shipped to the Microsoft office in Houston where Microsoft employees will pick them up and take them to a local airport, where four private planes are at the ready to fly the supplies to Baton Rouge. From there, they'll be picked up by local charities and dispersed to those in need;&lt;/EM>&lt;/LI>
+&lt;LI>&lt;EM>The folks at Bungie Studios, a Microsoft subsidiary that developed the Halo games for the Xbox, used the Web to sell more than $100,000 "Fight the Flood" charity T-shirts online. The proceeds will go to the Red Cross, as will royalties earned from other Bungie Store products sold in September.&lt;/EM>&lt;/LI>&lt;/UL>
+&lt;P>&lt;EM>In addition, three of Microsoft&amp;#8217;s Across America trucks, fully equipped with communications systems and advanced technology, are on their way to Red Cross relief operation centers in the Gulf Region to provide vital coordination capabilities. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>Groove is being used by the Red Cross and the Army Corps of Engineers as a collaboration tool to enable communications for multiple partners in the relief effort, and Groove has employees helping on site at the Red Cross. &lt;/EM>&lt;/P>
+&lt;P>&lt;EM>Our sales force is letting business customers affected by the hurricane know that we're waiving software licensing fees for up to six months, and making premier support consultants available to help them get their IT systems back up and running.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>The speed of these response efforts has been just incredible. I want to acknowledge Ron Markezich, our CIO; Jennifer Heard, GM of the South Central District, as well as Cathy MacCaul, Linda Testa and the Community Affairs team, for coordinating our efforts to support relief organizations, government agencies, educational institutions and customers. &lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P dir=ltr>I'm very proud of my company right now.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12379</id>
+    <title>Stumped</title>
+    <updated>2005-09-06T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/gif" href="http://www.bugbash.net/strips/bug-bash20050905.gif"/>
+    <category term="interview" label="Interviewing"/>
+    <published>2005-09-06T07:00:00.000Z</published>
+    <summary>Tue, 9/6/05, 2:29 pm </summary>
+    <content type="html">&lt;h1>Stumped&lt;/h1>
+&lt;p>&lt;i>Tue, &lt;span class="created">9/6/05, 2:29 pm&lt;/span>&lt;/i>&lt;/p>
+&lt;p>&lt;a href="http://www.bugbash.net/comic/16.html">
+&lt;img border="0" src="http://www.bugbash.net/strips/bug-bash20050905.gif" width="730" height="255">&lt;/a>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1849</id>
+    <title>I'm in</title>
+    <updated>2005-09-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-09-06T07:00:00.000Z</published>
+    <summary>I feel like I've spent the last four days in hibernation, awaking like Rip Van Winkle to an entirely new environment. And while the new environment is still filled with boxes and won't have internet, cable or phone 'til tomorrow, it's still a very pleasant environment, flat so the boys can bike everywhere, near family, very near the schools, filled with friendly people (many of which have already introduced themselves and I'm worked double-hard this time to remember their names) and with plenty of potential...</summary>
+    <content type="html">&lt;h1>I'm in&lt;/h1>
+&lt;P>I feel like I've spent the last four days in hibernation, awaking like Rip Van Winkle to an entirely new environment. And while the new environment is still filled with boxes and won't have internet, cable or phone 'til tomorrow, it's still a very pleasant environment, flat so the boys can bike everywhere, near family, very near the schools, filled with friendly people (many of which have already introduced themselves and I'm worked double-hard this time to remember their names) and with plenty of potential for renovation (and the space that's there is nice all by itself). There will definitely be an adjustment period, but overall, it was very nice to wake up in.&lt;/P>
+&lt;P>On a personal note, with the move, getting ready for PDC, my son's birthday, my wife's birthday and my 14th wedding anniversary, some of my personal relationships have suffered (I'm *so* sorry to have missed last week's PND!). My have my apologies. I hope things will get better after the PDC!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1847</id>
+    <title>Early WinFS beta posted for MSDN subscribers</title>
+    <updated>2005-08-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-08-29T07:00:00.000Z</published>
+    <summary>Not too far behind Indigo and Avalon's beta 1, WinFS posts their own beta 1 (although Tom Rizzo, Director in SQL marketing says it may be a tad early). Since their "endgame" is "that WinFS will be in beta when Windows Vista ships," so long as they don't move past beta to RC or RTM (or back to alpha), they've hit it. Congrats! : )</summary>
+    <content type="html">&lt;h1>Early WinFS beta posted for MSDN subscribers&lt;/h1>
+Not too far behind Indigo and Avalon's beta 1, &lt;A href="http://sqljunkies.com/WebLog/tom_rizzo/archive/2005/08/29/16563.aspx">WinFS posts their own beta 1&lt;/A> (although Tom Rizzo, Director in SQL marketing says it may be a tad early). Since their "endgame" is "that WinFS will be in beta when Windows Vista ships," so long as they don't move past beta to RC or RTM (or back to alpha), they've hit it. Congrats! : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1848</id>
+    <title>MS Interns Out of Sync (Video)</title>
+    <updated>2005-08-29T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-08-29T07:00:00.000Z</published>
+    <summary>You have to love a bunch of geeks willing to publish a video of themselves doing a parody of an N'Sync song, including the dance moves. Nice! [ via Mr. Anderson ] </summary>
+    <content type="html">&lt;h1>MS Interns Out of Sync (Video)&lt;/h1>
+&lt;P>You have to love a bunch of geeks willing to publish a video of themselves doing a parody of an N'Sync song, including the dance moves. &lt;A href="http://www.ifilm.com/ifilmdetail/2677918">Nice!&lt;/A>&lt;/P>
+&lt;P>[&lt;A href="http://www.simplegeek.com/permalink.aspx/358c8cb6-682d-4553-afb4-ba9b256e63f3">via Mr. Anderson&lt;/A>]&lt;/P></content>
+  </entry>
+</feed>

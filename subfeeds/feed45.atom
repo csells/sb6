@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed45.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed44.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed46.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed45.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1774</id>
+    <title>A Few More Books From My Current Stack</title>
+    <updated>2005-05-10T07:00:00.000Z</updated>
+    <published>2005-05-10T07:00:00.000Z</published>
+    <summary>Here're some other things I've been reading lately: "UML Distilled." This one's useful to figure out which way the arrows are pointing these days and what they're filled with. Or rather, it was useful 'til I started playing with the class designer in VS05b2 which rocks hard. I was able to switch back and forth between the designer and code views, defining types and members in whichever view I found most convenient at the moment, confident in the knowledge that the other representation would be taken care of...</summary>
+    <content type="html">&lt;h1>A Few More Books From My Current Stack&lt;/h1>
+&lt;P>Here're some other things I've been reading lately:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>"UML Distilled."&lt;/STRONG> This one's useful to figure out which way the arrows are pointing these days and what they're filled with. Or rather, it &lt;EM>was&lt;/EM> useful 'til I started playing with the class designer in VS05b2 which rocks &lt;EM>hard&lt;/EM>. I was able to switch back and forth between the designer and code views, defining types and members in whichever view I found most convenient at the moment, confident in the knowledge that the other representation would be taken care of properly. It was a &lt;EM>very&lt;/EM> satisfying experience.&lt;/LI>
+&lt;LI>&lt;STRONG>"Eclipse Modeling Framework."&lt;/STRONG> I find the writing style in this book and the visuals of the tool being described both leave something to be desired, but the potential is there.&lt;/LI>
+&lt;LI>&lt;STRONG>"Building the Data Warehouse."&lt;/STRONG> Of the three books on this list, this book is easily my favorite. The writing style is very readable and it's just packed full of useful thinking. Highly recommended.&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1772</id>
+    <title>Animating Avalon Card Control Library</title>
+    <updated>2005-05-04T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-05-04T07:00:00.000Z</published>
+    <summary>Sweet! </summary>
+    <content type="html">&lt;h1>Animating Avalon Card Control Library&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/adam_nathan/archive/2005/05/03/414148.aspx">Sweet!&lt;/A>&lt;/P>&lt;IMG src="http://www.pinvoke.net/blog/images/cardhand.gif"></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1770</id>
+    <title>Only Annual Time Traveler's Convention</title>
+    <updated>2005-05-02T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-05-02T07:00:00.000Z</published>
+    <summary>Here. May 7, 2005, 10:00pm EDT (08 May 2005 02:00:00 UTC) East Campus Courtyard, MIT 42:21:36.025&amp;#176;N, 71:05:16.332&amp;#176;W (42.360007,-071.087870 in decimal degrees) I can't attend this year myself, but I'm definitely planning to go to this one and only convention some time in the future (I love that idea : ). </summary>
+    <content type="html">&lt;h1>Only Annual Time Traveler's Convention&lt;/h1>
+&lt;a href="http://web.mit.edu/adorai//timetraveler/">Here&lt;/a>. &lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;H3>May 7, 2005, 10:00pm EDT (08 May 2005 02:00:00 UTC)&lt;/H3>
+&lt;H3>East Campus Courtyard, MIT&lt;/H3>
+&lt;H3>42:21:36.025&amp;#176;N, 71:05:16.332&amp;#176;W&lt;/H3>
+&lt;H3>(42.360007,-071.087870 in decimal degrees)&lt;/H3>&lt;/BLOCKQUOTE>
+&lt;P>I can't attend this year myself, but I'm &lt;EM>definitely &lt;/EM>planning to go to this one and only convention some time in the future (I love that idea : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1771</id>
+    <title>I am not a graphic artist!</title>
+    <updated>2005-05-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-05-02T07:00:00.000Z</published>
+    <summary>Whenever anyone hears that I program Avalon, the first thing they think is, "Oh, good, let's get Chris to create a cool looking UI for us!" They also tend to lump in data visualization expertise and user experience into that mix as well. On the "beginning to experienced" scaled, I'd rate myself in the following way on these tasks: Avalon programming: beginner to intermediate, depending on the bit of Avalon you're taking about Visualization expertise: interested beginner (I've attended a 8-hour Edward Tufte ...</summary>
+    <content type="html">&lt;h1>I am not a graphic artist!&lt;/h1>
+&lt;P>Whenever anyone hears that I program Avalon, the first thing they think is, "Oh, good, let's get Chris to create a cool looking UI for us!" They also tend to lump in data visualization expertise and user experience into that mix as well. On the "beginning to experienced" scaled, I'd rate myself in the following way on these tasks:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;STRONG>Avalon programming: beginner to intermediate&lt;/STRONG>, depending on the bit of Avalon you're taking about&lt;/LI>
+&lt;LI>&lt;STRONG>Visualization expertise: interested beginner&lt;/STRONG> (I've attended a 8-hour Edward Tufte seminar, skimmed 3 of his books and wished for something more than the DataGrid)&lt;/LI>
+&lt;LI>&lt;STRONG>User Experience design: intermediate&lt;/STRONG> in the realm of standard Windows applications but &lt;STRONG>beginner&lt;/STRONG> when those limitations are removed, i.e. what Avalon enables&lt;/LI>
+&lt;LI>&lt;STRONG>Graphic art: untalented hack&lt;/STRONG>&lt;/LI>&lt;/UL>
+&lt;P>Seriously, I can't draw myself out of a paper bag (or in one, for that matter). I hired all of the art done for my web site and I almost never draw pictures for my books. Instead, I write programs and take screen shots or make &lt;A href="http://www.mikedub.net">Mike&lt;/A> draw the pictures for me.&lt;/P>
+&lt;P>Being able to program Avalon doesn't make me a graphics artist any more than being able to program my financial calculator (which I can't do anyway) would make me Warren Buffet. In fact, I'm closer to being Warren Buffett than I am to being a graphics artist, which should give you some indication about the gap we're talking about here...&lt;/P>
+&lt;P>That's not to say that some enterprising 3rd party couldn't create tools to help artistic yarn heads like me produce useful Avalon graphics. If my experience is any indication, there are going to be a lot of developers moving to Avalon that are expected to create wonderful things w/o an artistic bone in their bodies. Somebody help!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1769</id>
+    <title>I enjoyed THGTTG</title>
+    <updated>2005-04-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-30T07:00:00.000Z</published>
+    <summary>It wasn't perfect, e.g. lots of the fun bits were gone and at least one sub-plot never got resolved, but I liked the new stuff, e.g. the motivation for the end of the movie and the romance. Bottom line: I laughed a lot. We did have a pretty decent local geek turn-out, so that made it even more fun, but it was a completely watchable movie and I'd definitely see it again.</summary>
+    <content type="html">&lt;h1>I enjoyed THGTTG&lt;/h1>
+&lt;A href="http://www.imdb.com/title/tt0371724/">It&lt;/A> wasn't perfect, e.g. lots of the fun bits were gone and at least one sub-plot never got resolved, but I liked the new stuff, e.g. the motivation for the end of the movie and the romance. Bottom line: I laughed a lot. We did have a pretty decent local geek turn-out, so that made it even more fun, but it was a completely watchable movie and I'd definitely see it again.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1768</id>
+    <title>Another VB.NET feature that makes me jealous</title>
+    <updated>2005-04-28T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-04-28T07:00:00.000Z</published>
+    <summary>First there was case-correction, now VB programmers in VS 2005 beta 2 get grayed out members in intellisense if they set their ClickOnce properties below FullTrust. Cool! </summary>
+    <content type="html">&lt;h1>Another VB.NET feature that makes me jealous&lt;/h1>
+&lt;P>First there was case-correction, now &lt;A href="http://te.3leafdev.com/2005/04/a_c_feature_in_.html">VB programmers in VS 2005 beta 2 get grayed out members in intellisense if they set their ClickOnce properties below FullTrust&lt;/A>. Cool!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1765</id>
+    <title>I Like VC# Express</title>
+    <updated>2005-04-26T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-04-26T07:00:00.000Z</published>
+    <summary>I was paving a box this weekend with the March Avalon/Indigo CTP and I needed the matching Feb CTP of VS05, so I installed the Feb CTP of VC# Express. I have to say, I'm impressed. Avalon integrated w/ no trouble. I have all the Intellisense, key bindings, options, code formatting and generics support that I went looking for (although I did have to find the Show all settings option in the Options dialog). Only two things bug me about Express. The first is minor: I'm used to starting VS with Start-&amp;gt;Run: d...</summary>
+    <content type="html">&lt;h1>I Like VC# Express&lt;/h1>
+&lt;P>I was paving a box this weekend with &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013">the March Avalon/Indigo CTP&lt;/A> and I needed the matching &lt;A href="http://lab.msdn.microsoft.com/vs2005/downloads/ctp/">Feb CTP of VS05&lt;/A>, so I installed &lt;A href="http://download.microsoft.com/download/a/5/e/a5efa6aa-b73c-4fa7-89b7-4a5fcd60f2a8/vcssetup.exe">the Feb CTP of VC# Express&lt;/A>. I have to say, I'm impressed. Avalon integrated w/ no trouble. I have all the Intellisense, key bindings, options, code formatting and generics support that I went looking for (although I did have to find the Show all settings option in the Options dialog).&lt;/P>
+&lt;P>Only two things bug me about Express. The first is minor: I'm used to starting VS with Start-&amp;gt;Run: devenv [Enter] and now I have to start VC# Express with Start-&amp;gt;Run: vcexpress [Enter]. Given that I can install a bunch of Express products, it makes sense to me to need to learn a new EXE name for each of them (especially if I slip Asynch COM out of long-term storage... [dumping]... there, plenty of room!).&lt;/P>
+&lt;P>The second thing that bugs me is that I'm not allowed to specific a spot on my hard drive when I create a new project. As a guy with a background thread running Alt-&amp;gt;F-&amp;gt;S every time I typing idles, having everything in a well-known place is important to me. I'm a developer. Things crash!&lt;/P>
+&lt;P>Overall, though, I'm loving VC# Express. Recommended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1766</id>
+    <title>The Value of Scoble</title>
+    <updated>2005-04-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-26T07:00:00.000Z</published>
+    <summary>There is huge&amp;nbsp;value in Robert Scoble publicly criticizing his employer's CEO. The value is this: when the GM of VSTS says "ask me anything you want" concerning a recent pricing controversy, you can have confidence that Robert is going to ask the hard questions and push out the results as unedited as MS PR will let him get away with ( I detected no edits in this piece ). The world may not like the answers he digs out, but because Robert is risk-his-job honest, you have a high degree of confidence that w...</summary>
+    <content type="html">&lt;h1>The Value of Scoble&lt;/h1>
+&lt;P>There is huge&amp;nbsp;value in &lt;A href="http://radio.weblogs.com/0001011/2005/04/23.html#a9919">Robert Scoble publicly criticizing his employer's CEO&lt;/A>. The value is this: when the GM of VSTS says &lt;A href="http://radio.weblogs.com/0001011/2005/04/26.html#a9942">"ask me anything you want"&lt;/A> concerning a recent pricing controversy, you can have confidence that Robert is going to ask the hard questions and push out the results as unedited as MS PR will let him get away with (&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=62073">I detected no edits in this piece&lt;/A>). The world may not like the answers he digs out, but because Robert is risk-his-job honest, you have a high degree of confidence that what he says is the truth as he finds it.&lt;/P>
+&lt;P>Robert Scoble has become the Geraldo Rivera of technology reporting. Even if MS took away Robert's camcorder, I expect &lt;A href="http://www.oreilly.com/">O'Reilly&lt;/A>, &lt;A href="http://www.ftponline.com/">Fawcette&lt;/A>, &lt;A href="http://www.cnet.com/">CNET&lt;/A>, &lt;A href="http://www.serverside.net/">ServerSide&lt;/A>, &lt;A href="http://www.codeproject.com/">CodeProject&lt;/A>&amp;nbsp;or any&amp;nbsp;of a number of other technology eyeball companies&amp;nbsp;to hand it right back to him.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1767</id>
+    <title>Anyone Want To Join Us For Hitchhiker on Friday?</title>
+    <updated>2005-04-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-26T07:00:00.000Z</published>
+    <summary>The brothers Sells and I will be attending the 7:35pm showing of The Hitchhiker's Guide to the Galaxy on Friday at the Evergreen theater at highway 26 at the 185th exit in Hillsboro. I plan on being at the theater around 7pm. Everyone's welcome to join us. I'll buy the popcorn! </summary>
+    <content type="html">&lt;h1>Anyone Want To Join Us For Hitchhiker on Friday?&lt;/h1>
+&lt;P>The brothers Sells and I will be attending &lt;a href="http://www.imdb.com/showtimes/location/97007/2005-04-29#1131">the 7:35pm showing of The Hitchhiker's Guide to the Galaxy on Friday at the Evergreen theater at highway 26 at the 185th exit in Hillsboro&lt;/a>. I plan on being at the theater around 7pm.&lt;/P>
+&lt;P>Everyone's welcome to join us. I'll buy the popcorn!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1764</id>
+    <title>Status of ATL Internals 2e</title>
+    <updated>2005-04-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-04-24T07:00:00.000Z</published>
+    <summary>More people than you'd expect have been asking, so here's an update on ATL Internals 2e. This effort actually started in 2003, when Kirk Fertita updated the first 9 chapters to ATL7 as provided in VS 2002. Then he had to go work on his start-up, which represented his only income stream and would've gone belly up w/o him&amp;nbsp;(selfish bastard! : ). Then George Shepherd did a little work, writing bits of two new chapters on ATL Server before he had to bale. Now, finally, we have an author that's going to see ...</summary>
+    <content type="html">&lt;h1>Status of ATL Internals 2e&lt;/h1>
+&lt;P>More people than you'd expect have been asking, so here's an update on ATL Internals 2e.&lt;/P>
+&lt;P>This effort actually started in 2003, when Kirk Fertita updated the first 9 chapters to ATL7 as provided in VS 2002. Then he had to go work on his start-up, which represented his only income stream and would've gone belly up w/o him&amp;nbsp;(selfish bastard! : ).&lt;/P>
+&lt;P>Then George Shepherd did a little work, writing bits of two new chapters on ATL Server before he had to bale.&lt;/P>
+&lt;P>Now, finally, we have an author that's going to see this book to the finish line: Chris Tavares. I've written with him before and he's excellent. He's already ported chapters 1-4 to ATL8 as provided in VS 2005 and is on schedule to bring my and Brent's work on ATL3, Kirk and George's work on ATL7 and his own new work into a cohesive ATL8 book to hit the shelves 3-4 months after VS05 has hit RTM.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1763</id>
+    <title>Status on Windows Forms Programming 2e</title>
+    <updated>2005-04-24T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2005-04-24T07:00:00.000Z</published>
+    <summary>Jose "heard" that I'm working on an update for the first edition of Windows Forms Programming in C# for Windows Forms 2.0 (we're not updating the VB.NET version due to poor sales for VB.NET-related titles in general). I didn't mean to keep it a secret; it's been listed at the top of my writing page for a year or more. : ) While we've been working closely together on the update, the bulk of the writing work is being done by Micheal Weinhardt, my main writing partner for the last coupla years or so. He's got ...</summary>
+    <content type="html">&lt;h1>Status on Windows Forms Programming 2e&lt;/h1>
+&lt;P>&lt;A href="http://joseluisrod.blogspot.com/2005/04/heard-chris-sells-is-writing-winforms.html">Jose "heard" that I'm working on an update&lt;/A> for the first edition of &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208">Windows Forms Programming in C#&lt;/A> for Windows Forms 2.0 (we're not updating the VB.NET version due to poor sales for VB.NET-related titles in general). I didn't mean to keep it a secret; it's been listed at the top of &lt;A HREF="/public/writing/">my writing page&lt;/A> for a year or more. : )&lt;/P>
+&lt;P>While we've been working closely together on the update, the bulk of the writing work is being done by &lt;A href="http://www.mikedub.net/">Micheal Weinhardt&lt;/A>, my main writing partner for the last coupla years or so. He's got 90% of the book updated for VS05b1 already and is in the process of updating the whole thing to b2. After that, we pass it back and forth between ourselves for review-edit 'til we're both happy. By the end of May, hopefully the whole thing will be out for review. After that, we apply reviewer comments and update at each successive beta/release candidate until the Whidbey team decides they're done, at which point we send it to the publisher and 3-4 months later, it hits the shelves.&lt;/P>
+&lt;P>In addition to updating the existing material for WF2, we've made the following changes:&lt;/P>
+&lt;UL>
+&lt;LI>Split a Layout chapter out of the Forms chapter due to all of the extra WF2 layout functionality&lt;/LI>
+&lt;LI>Refactored the existing design-time and controls chapters and the standard components &amp;amp; controls appendix into the following chapters: components, controls, design-time 1 and design-time 2 (includes smart tags)&lt;/LI>
+&lt;LI>Split the applications &amp;amp; settings chapters into 2&lt;/LI>
+&lt;LI>Added a Document Management chapter for MFC folks finding themselves in the app framework-free environment of Windows Forms&lt;/LI>
+&lt;LI>Dropped the data access chapter as covered better in other sources&lt;/LI>
+&lt;LI>Re-wrote the data binding chapter from scratch with a story I always wanted to tell in WF1, but isn't supported nicely 'til WF2 (object-centric binding instead of relational database-centric)&lt;/LI>
+&lt;LI>Refactored the drag 'n' drop material into it's own appendix&lt;/LI>
+&lt;LI>Added a "What's New in Windows Forms 2.0" appendix for those already familiar with Windows Forms 1.x&lt;/LI>
+&lt;LI>Dropped the delegates bedtime story in favor of beefed up coverage in chapter 1 (and a more general knowledge of delegates in the universe as a whole). Don't get my wrong, I love that story, but it doesn't fit into the overall theme of the rest of the book. I knew this when I first edition shipped, but I just didn't take the time to update the book properly to live w/o it&lt;/LI>&lt;/UL>
+&lt;P>I have to say that working with Mike on this process has been fabulous. An ordinary author faced with updating to a new version of a technology might just update the material and leave the story alone, even if it needs update. Instead, Mike took the time to reexamine the book from first principles, fixing the problems in the story that always nagged at me in the 1st edition and proposing improvements to stuff I was pretty proud of. In general, even without the update to the new technology, the book is better than the 1st edition.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1762</id>
+    <title>Rocky on SOA Versioning</title>
+    <updated>2005-04-21T07:00:00.000Z</updated>
+    <published>2005-04-21T07:00:00.000Z</published>
+    <summary>I don't think that he's saying anything new to the world of message-based programmers, but since so many of us are component-based programmers, I like how Rocky bridges the component and message-based worlds and points out the downside of component-based programs in an service-oriented world. I'm also of the mind that the component-based world isn't even very good for components unless you get to package the components and the apps all at once. For example, in the world I'd like to see plug-in applications ...</summary>
+    <content type="html">&lt;h1>Rocky on SOA Versioning&lt;/h1>
+&lt;P>I don't think that he's saying anything new to the world of message-based programmers, but since so many of us are component-based programmers, &lt;A href="http://www.theserverside.net/articles/showarticle.tss?id=SOAVersioningCovenant">I like how Rocky bridges the component and message-based worlds and points out the downside of component-based programs in an service-oriented world&lt;/A>.&lt;/P>
+&lt;P>I'm also of the mind that the component-based world isn't even very good for components unless you get to package the components and the apps all at once. For example, in the world I'd like to see plug-in applications like Visual Studio become, where the app and the plug-ins come from different places and version independently, message-based thinking is far more applicable than component-based thinking.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1761</id>
+    <title>Now *that's* how you want a Virtual PC to be!</title>
+    <updated>2005-04-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-04-15T07:00:00.000Z</published>
+    <summary>I was using one of my computers this morning, surfing around, reading my email, getting started with the day, etc. After a bit of fooling about, I went looking for the work I wanted to continue from yesterday. I couldn't find it. Then I went looking for the program I was using to work on the file. I couldn't find it. Just before I was about to reinstall things, I realized -- I was running a VPC image, not the computer's native image. I couldn't freakin' tell the difference! Nice... </summary>
+    <content type="html">&lt;h1>Now *that's* how you want a Virtual PC to be!&lt;/h1>
+&lt;P>I was using one of my computers this morning, surfing around, reading my email, getting started with the day, etc. After a bit of fooling about, I went looking for the work I wanted to continue from yesterday. I couldn't find it. Then I went looking for the program I was using to work on the file. I couldn't find it.&lt;/P>
+&lt;P>Just before I was about to reinstall things, I realized -- I was running a VPC image, not the computer's native image. I couldn't freakin' tell the difference! Nice...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1759</id>
+    <title>Worth giving up the Omega Speedmaster for...</title>
+    <updated>2005-04-13T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-13T07:00:00.000Z</published>
+    <summary>Here. OK, the Omega Speedster is cool (very cool), but it doesn't compare to this masterpiece: Of course, I'd want the platinum model, but at $137,000, maybe I'd learn to tell time by the moss on the north side of trees... </summary>
+    <content type="html">&lt;h1>Worth giving up the Omega Speedmaster for...&lt;/h1>
+&lt;a href="http://www.network54.com/Forum/message?forumid=274559&amp;messageid=1112215571">Here&lt;/a>. &lt;P>OK, the Omega Speedster is cool (very cool), but it doesn't compare to this masterpiece:&lt;/P>
+&lt;P>&lt;A href="http://www.network54.com/Forum/message?forumid=274559&amp;amp;messageid=1112215571">&lt;IMG height=425 src="http://www.thepurists.net/Patrons/Members/Aseanto/5frontTPS.jpg" width=327>&lt;/A>&lt;/P>
+&lt;P>Of course, I'd want the platinum model, but at $137,000, maybe I'd learn to tell time by the moss on the north side of trees...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1760</id>
+    <title>Rory + Scott's TechEd Video #4</title>
+    <updated>2005-04-13T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-04-13T07:00:00.000Z</published>
+    <summary>It starts&amp;nbsp;slow, but the ending is totally worth it!</summary>
+    <content type="html">&lt;h1>Rory + Scott's TechEd Video #4&lt;/h1>
+It starts&amp;nbsp;slow, but &lt;A href="http://neopoleon.com/blog/posts/13685.aspx">the ending is &lt;EM>totally&lt;/EM> worth it&lt;/A>!</content>
+  </entry>
+</feed>

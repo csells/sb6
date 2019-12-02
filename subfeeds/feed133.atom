@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed133.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed132.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed134.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed133.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/561</id>
+    <title>Longhorn to arrive in 2005</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. "The weight of the company is behind Longhorn," Poole said. "This is a huge bet for the company. It will really change the landscape of what people see."</summary>
+    <content type="html">&lt;h1>Longhorn to arrive in 2005&lt;/h1>
+&lt;a href="http://news.com.com/2100-1016-1000281.html?tag=nl">Here&lt;/a>. "The weight of the company is behind Longhorn," Poole said. "This is a huge bet for the company. It will really change the landscape of what people see."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/566</id>
+    <title>Love Movies; Hate Theaters; Windows, Take Me Away!</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. The last time I saw a movie, it occurred to me that as much as I love them, I hate theaters. They overcharge for the tickets and then require your first born child for popcorn and sodas. Movie theaters make airports seem like dollar stores. Anyway, I've got a great setup at home, complete with big screen TV, 5.1 digital surround sound and a PC already connected to the whole mess. I'm a big NetFlix.com fan, but they and sites like CinemaNow.com only show stuff that's available for rental. I want first ...</summary>
+    <content type="html">&lt;h1>Love Movies; Hate Theaters; Windows, Take Me Away!&lt;/h1>
+&lt;a href="http://www.microsoft.com/windows/windowsmedia/drm.aspx">Here&lt;/a>. The last time I saw a movie, it occurred to me that as much as I love them, I hate theaters. They overcharge for the tickets and then require your first born child for popcorn and sodas. Movie theaters make airports seem like dollar stores.
+
+Anyway, I've got a great setup at home, complete with big screen TV, 5.1 digital surround sound and a PC already connected to the whole mess. I'm a big NetFlix.com fan, but they and sites like CinemaNow.com only show stuff that's available for rental. I want first run movies!
+
+Shouldn't a platform with such a strong media and digital rights management story allow me to watch first run movies at my house? And wouldn't that be a killer app for a new OS from that company?
+
+DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along these lines; I just think it'd be cool.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/563</id>
+    <title>WinHEC Athens PC Demo</title>
+    <updated>2003-05-08T07:00:00.000Z</updated>
+    <published>2003-05-08T07:00:00.000Z</published>
+    <summary>Here. I want one. [activewin.com]</summary>
+    <content type="html">&lt;h1>WinHEC Athens PC Demo&lt;/h1>
+&lt;a href="http://www.activewin.com/awin/comments.asp?HeadlineIndex=17764">Here&lt;/a>. I want one.
+
+[activewin.com]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/558</id>
+    <title>Wiley Acquires Wrox</title>
+    <updated>2003-05-07T07:00:00.000Z</updated>
+    <published>2003-05-07T07:00:00.000Z</published>
+    <summary>Here. 'nuf said.</summary>
+    <content type="html">&lt;h1>Wiley Acquires Wrox&lt;/h1>
+&lt;a href="http://www.wrox.com/">Here&lt;/a>. 'nuf said.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/559</id>
+    <title>Genghis v0.4</title>
+    <updated>2003-05-07T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-05-07T07:00:00.000Z</published>
+    <summary>Sorry for the long wait. There's been two whole books written between the last release of Genghis and this one. Here's the list of new features: Everything works under.NET 1.0 and 1.1 (except HandleCollector) MSN Messanger-style popup window UI Type Editor for use with ImageList index selection AppBar implementation Text file search Themed controls Single instance application support, including passing command line args from other instances Multiple top-level window support Many enhancements and fixes to th...</summary>
+    <content type="html">&lt;h1>Genghis v0.4&lt;/h1>
+&lt;p>Sorry for the long wait. There's been two whole books written between the last release of Genghis and &lt;a href="/public/tools/genghis">this one&lt;/a>. Here's the list of new features:&lt;/p>
+&lt;ul>
+	&lt;li>Everything works under .NET 1.0 and 1.1 (except HandleCollector)&lt;/li>
+	&lt;li>MSN Messanger-style popup window&lt;/li>
+	&lt;li>UI Type Editor for use with ImageList index selection&lt;/li>
+	&lt;li>AppBar implementation&lt;/li>
+	&lt;li>Text file search&lt;/li>
+	&lt;li>Themed controls&lt;/li>
+	&lt;li>Single instance application support, including passing command line args from other instances&lt;/li>
+	&lt;li>Multiple top-level window support&lt;/li>
+	&lt;li>Many enhancements and fixes to the command line parser&lt;/li>
+	&lt;li>Splash screen class&lt;/li>
+	&lt;li>Improved WebCommandLineHelper class which now works with .NET 1.0 and 1.1, includes URL decoding and requires no additional permissions (although it does require a server-side HTTP handler, included as the ConfigFileHandler class that maps requests for foo.exe?bar=quux.config to the foo.exe.config file)&lt;/li>
+	&lt;li>WizardSheet updates&lt;/li>
+	&lt;li>Status Bar Extender for mapping status messages to Windows Forms controls&lt;/li>
+&lt;/ul>
+&lt;p>Thanks to my new build master, Mike Marshal, who got all of this together. He's the greatest!&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/557</id>
+    <title>Win Server 2003 vs. Linux File Server Benchmarks</title>
+    <updated>2003-05-07T07:00:00.000Z</updated>
+    <published>2003-05-07T07:00:00.000Z</published>
+    <summary>Here. The one where Windows Server 2003 kicks Linux's butt on serving files.</summary>
+    <content type="html">&lt;h1>Win Server 2003 vs. Linux File Server Benchmarks&lt;/h1>
+&lt;a href="http://www.veritest.com/clients/reports/microsoft/ms_netbench.pdf">Here&lt;/a>. The one where Windows Server 2003 kicks Linux's butt on serving files.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/556</id>
+    <title>.Net develops advantages over Java</title>
+    <updated>2003-05-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-05-07T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger: Java development has a number of advantages over traditional environments which output machine language..Net has the advantage of hindsight, however, and has improved on Java in a number of areas.</summary>
+    <content type="html">&lt;h1>.Net develops advantages over Java&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1107_2-1000027.html">Here&lt;/a>. From Keith Wedinger: Java development has a number of advantages over traditional environments which output machine language. .Net has the advantage of hindsight, however, and has improved on Java in a number of areas.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/555</id>
+    <title>Non-Windows Applied XML DevCon Talks Needed</title>
+    <updated>2003-05-06T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2003-05-06T07:00:00.000Z</published>
+    <summary>Here. I've been buried in Applied XML DevCon talk proposals, but I'd really love it if some more non-Windows talks would make it my way. Tomorrow's the deadline. Tell your friends!</summary>
+    <content type="html">&lt;h1>Non-Windows Applied XML DevCon Talks Needed&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. I've been buried in Applied XML DevCon talk proposals, but I'd really love it if some more non-Windows talks would make it my way. Tomorrow's the deadline. Tell your friends!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/554</id>
+    <title>Bill Gates WinHEC 2003 Keynote</title>
+    <updated>2003-05-06T07:00:00.000Z</updated>
+    <published>2003-05-06T07:00:00.000Z</published>
+    <summary>Here. "With the next round of Windows, which we call Longhorn, this idea of the completely new presentation system and the standard user interface guideline requiring that rich graphics capability will take a leap forward and fully exploit the extra graphics capabilities. In fact, the way the experience will work is that people with even today's hardware will want to move up to the advanced graphics capabilities."</summary>
+    <content type="html">&lt;h1>Bill Gates WinHEC 2003 Keynote&lt;/h1>
+&lt;a href="http://www.microsoft.com/billgates/speeches/2003/05-06winhec.asp">Here&lt;/a>. "With the next round of Windows, which we call Longhorn, this idea of the completely new presentation system and the standard user interface guideline requiring that rich graphics capability will take a leap forward and fully exploit the extra graphics capabilities. In fact, the way the experience will work is that people with even today's hardware will want to move up to the advanced graphics capabilities."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/549</id>
+    <title>The Hundred-Year Language</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. Paul gets a bit wordy, but I really like the idea that most of the concepts we use in our programming languages are optimizations. How much simpler would programming be if we could do away with things like the artificial distinction between arrays and strings?</summary>
+    <content type="html">&lt;h1>The Hundred-Year Language&lt;/h1>
+&lt;a href="http://www.paulgraham.com/hundred.html">Here&lt;/a>. Paul gets a bit wordy, but I really like the idea that most of the concepts we use in our programming languages are optimizations. How much simpler would programming be if we could do away with things like the artificial distinction between arrays and strings?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/551</id>
+    <title>Saying Goodbye on 5/3/2046</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. Statistically, I'll be dead just before my 78th birthday, which means that my oldest son's birthday (two days after I die) is not going to be a happy one (unless I've turned even more evil than I already am : ). Sorry, John...</summary>
+    <content type="html">&lt;h1>Saying Goodbye on 5/3/2046&lt;/h1>
+&lt;a href="http://www.choosetosave.org/tools/lifeexp.htm">Here&lt;/a>. Statistically, I'll be dead just before my 78th birthday, which means that my oldest son's birthday (two days after I die) is not going to be a happy one (unless I've turned even more evil than I already am : ). Sorry, John...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/553</id>
+    <title>Dr. GUI Has a Blog</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. You know that blogs are main stream when Dr. GUI's got one. Welcome!</summary>
+    <content type="html">&lt;h1>Dr. GUI Has a Blog&lt;/h1>
+&lt;a href="http://blogs.gotdotnet.com/DrGUI/blogxbrowsing.asmx/GetRss?">Here&lt;/a>. You know that blogs are main stream when Dr. GUI's got one. Welcome!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/552</id>
+    <title>MSN Launches World's First ‘Internet Loo’</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. *Somebody* has too much time on their hands...</summary>
+    <content type="html">&lt;h1>MSN Launches World's First ‘Internet Loo’&lt;/h1>
+&lt;a href="http://www.microsoft.com/uk/press/content/presscentre/releases/2003/05/PR03050.asp">Here&lt;/a>. *Somebody* has too much time on their hands...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/550</id>
+    <title>CodeSmith Takes Over For CollectionGen</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. As of today, the functionality of CollectionGen has been sucked into Eric Smith's CodeSmith. I asked Eric to take on these features because CodeSmith does all of what CollectionGen does and more. All new feature requests/bug reports should go his way. Of course, feel free to continue to use CollectionGen as a model for VS.NET Custom Tools.</summary>
+    <content type="html">&lt;h1>CodeSmith Takes Over For CollectionGen&lt;/h1>
+&lt;a href="http://www.ericjsmith.net/codesmith/">Here&lt;/a>. As of today, the functionality of CollectionGen has been sucked into Eric Smith's CodeSmith. I asked Eric to take on these features because CodeSmith does all of what CollectionGen does and more. All new feature requests/bug reports should go his way. Of course, feel free to continue to use CollectionGen as a model for VS.NET Custom Tools.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/548</id>
+    <title>Migrating</title>
+    <updated>2003-05-05T07:00:00.000Z</updated>
+    <published>2003-05-05T07:00:00.000Z</published>
+    <summary>Here. From Carlos Aquino: Sometimes you have to upgrade to a better system, sometimes you have to change your plataform and sometimes you just want to try other methods. Find how you can migrate without a headache and sleepless nights.</summary>
+    <content type="html">&lt;h1>Migrating&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=Migrating">Here&lt;/a>. From Carlos Aquino: Sometimes you have to upgrade to a better system, sometimes you have to change your plataform and sometimes you just want to try other methods. Find how you can migrate without a headache and sleepless nights.</content>
+  </entry>
+</feed>

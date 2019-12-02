@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed56.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed55.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed57.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed56.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1621</id>
+    <title>Edward Tufte + Avalon == Visualization Goodness</title>
+    <updated>2004-12-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-06T08:00:00.000Z</published>
+    <summary>I've long held the belief that the big deal about Avalon is that it provided a platform for a whole new class of data visualization and manipulation software, stuff that most of us can't even dream of right now. But Edward Tufte can dream of it and in one of his dreams, he invented Sparklines, a very nice way to integrate graphics directly into a sentence instead of relegating it&amp;nbsp;to a whole other paragraph. As evidence of the power of Avalon to enable the next-gen UI, Sean Gerety has provided an Avalon...</summary>
+    <content type="html">&lt;h1>Edward Tufte + Avalon == Visualization Goodness&lt;/h1>
+&lt;P>I've long held the belief that the big deal about Avalon is that it provided a platform for a whole new class of data visualization and manipulation software, stuff that most of us can't even dream of right now. But &lt;a href="/12490">Edward Tufte can dream of it&lt;/A> and in one of his dreams, he invented Sparklines, a very nice way to integrate graphics directly into a sentence instead of relegating it&amp;nbsp;to a whole other paragraph.&lt;/P>
+&lt;P>As evidence of the power of Avalon to enable the next-gen UI, Sean Gerety has provided &lt;A href="http://dotnetjunkies.com/WebLog/metablog/archive/2004/12/03/34896.aspx">an Avalon implementation of Sparklines&lt;/A>. Excellent work, Sean.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1620</id>
+    <title>Dependency and Attached Properties in Avalon</title>
+    <updated>2004-12-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-05T08:00:00.000Z</published>
+    <summary>Drew Marsh has a very nice write-up of the need and usage of dependency properties via attached properties in Avalon, endorsed (with some additional commentary ) by Rob Relyea from the Avalon team.</summary>
+    <content type="html">&lt;h1>Dependency and Attached Properties in Avalon&lt;/h1>
+Drew Marsh has &lt;A href="http://blog.hackedbrain.com/articles/UnderstandingDependencyObjectAndDependencyProperty.aspx">a very nice write-up of the need and usage of dependency properties via attached properties in Avalon&lt;/A>, endorsed (with &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/12/05/8108.aspx">some additional commentary&lt;/A>) by Rob Relyea from the Avalon team.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1619</id>
+    <title>Rod's Avalon Adventures</title>
+    <updated>2004-12-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-04T08:00:00.000Z</published>
+    <summary>Read Rod Paddock's Adventures in Avalon as he installs and binds to a DataSet: Avalon Adventures Part 0 &amp;nbsp;: The Setup Avalon Adventures Part 1 : Data Access Avalon Adventures Part 2 : Basic Data Binding Avalon Adventures Part 3 : Lists With Style Avalon Adventures Part 4 : An Event to Remember &lt;a href="</summary>
+    <content type="html">&lt;h1>Rod's Avalon Adventures&lt;/h1>
+&lt;P>Read Rod Paddock's Adventures in Avalon as he installs and binds to a DataSet:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A id=_ebf1decb687bb03c_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl2_TitleUrl href="http://blogs.officezealot.com/rod/archive/2004/12/04/3528.aspx">Avalon Adventures Part 0&lt;/A>&amp;nbsp;: The Setup&lt;/LI>
+&lt;LI>&lt;A id=_ebf1decb687bb03c_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl1_TitleUrl href="http://blogs.officezealot.com/rod/archive/2004/12/04/3530.aspx">Avalon Adventures Part 1&lt;/A> : Data Access&lt;/LI>
+&lt;LI>&lt;A id=_ebf1decb687bb03c_HomePageDays_DaysList__ctl0_DayItem_DayList__ctl0_TitleUrl href="http://blogs.officezealot.com/rod/archive/2004/12/04/3531.aspx">Avalon Adventures Part 2&lt;/A> : Basic Data Binding&lt;/LI>
+&lt;li>&lt;a href="http://blogs.officezealot.com/rod/archive/2004/12/05/3533.aspx">Avalon Adventures Part 3&lt;/a>: Lists With Style&lt;/li>
+&lt;li>&lt;a href="http://blogs.officezealot.com/rod/archive/2004/12/17/3636.aspx">Avalon Adventures Part 4&lt;/a>: An Event to Remember&lt;/li>
+&lt;li>&lt;a href="http://blogs.officezealot.com/rod/archive/2005/01/15/3849.aspx">Avalon Adventures Part 5&lt;/a>: The Conversion&lt;/li>
+&lt;LI>&lt;a href="http://blogs.officezealot.com/rod/archive/2005/01/18/3885.aspx">Avalon Adventures Summary:&lt;/a> The Good, the Bad and the Ugly&lt;/LI>&lt;/UL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1617</id>
+    <title>Another Reason To Hate The Dentist</title>
+    <updated>2004-12-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-03T08:00:00.000Z</published>
+    <summary>Most of the worst experiences of my childhood involve the dentist. I have an active gag reflex and a general aversion to sitting still for long periods with nothing to do but let somebody poke my soft innards&amp;nbsp;with a metal stick, so the dentist chair has never been a good fit for me. Today, I got another reason to hate the dentist. Because Beaverton does not fluoridate their water and because he's a nine-year old boy, my youngest son Tom had 4 cavities to deal with today. He was nonchalant about the who...</summary>
+    <content type="html">&lt;h1>Another Reason To Hate The Dentist&lt;/h1>
+&lt;P>Most of the worst experiences of my childhood involve the dentist. I have an active gag reflex and a general aversion to sitting still for long periods with nothing to do but let somebody poke my soft innards&amp;nbsp;with a metal stick, so the dentist chair has never been a good fit for me. Today, I got another reason to hate the dentist.&lt;/P>
+&lt;P>Because Beaverton does not fluoridate their water and because he's a nine-year old boy, my youngest son Tom had 4 cavities to deal with today. He was nonchalant about the whole thing for the first hour alone in the chair while I waiting in the sitting room, never expressing concern or doubt about the experience to come, which made me believe that everything was going to be just fine. Even when he started crying a bit, I was able to maintain my seat, knowing that he leaned toward the dramatic. However, when he started screaming, that's when all 6'5" and 280 pounds of me barged through the door between the waiting area and the rending rooms, not stopping to ask the women milling around reception if that was OK and conscious but uncaring that the expression on my face stilled them to silence.&lt;/P>
+&lt;P>When I got back to the room where Tom was being impaled, the dentist was busy telling him that little girls cried less than he did. She further went on to tell him that he wasn't feeling "pain" at all&amp;nbsp;but only "pressure," a sentiment she had to repeat several times while she asked the nurse to give her the extra gauze to staunch the profuse bleeding. I have to say that it was difficult to simultaneously comfort my son while expressing my displeasure at the dentist for both the potential physical and verified mental torture she was using on him. Probably it wasn't easy for her to concentrate on her dentistry in a completely focused manner while I loomed over her, but that's what you get for making my son cry for 30 minutes.&lt;/P>
+&lt;P>Anyway, at the end, as she informed me that she worked with children all the time and had two of her own (implying that the pain was somehow my son's fault, I'm guessing), she also reached for the referral pad for another dentist to fill the other two cavities, saving me the trouble of asking.&lt;/P>
+&lt;P>I hate the dentist.&lt;/P>
+&lt;p>P.S. After a McDonald's toy and chicken sandwich (eaten carefully from the un-decimated side of his mouth), Tom seems unaffected. However, I'm sure that the whole sordid experience will come roaring back to him in the future unless they've replaced the dentist with nanites and computer programs (or sledge hammers and chisels, which would be equally humane)...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1616</id>
+    <title>Pleasantly Undetectable Advertising</title>
+    <updated>2004-12-03T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-12-03T08:00:00.000Z</published>
+    <summary>I don't know what Amazon is doing -- except possibly trying to stimulate blog entries -- because I could detect no advertising in there most recent home page movie short, "Tooth Fairy," but I did enjoy it.</summary>
+    <content type="html">&lt;h1>Pleasantly Undetectable Advertising&lt;/h1>
+I don't know what Amazon is doing -- except possibly trying to stimulate blog entries -- because I could detect no advertising in there most recent &lt;A href="http://www.amazon.com/exec/obidos/tg/browse/-/13609421">home page movie short, "Tooth Fairy,"&lt;/A> but I did enjoy it.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1618</id>
+    <title>More On Avalon CTP Animations</title>
+    <updated>2004-12-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-03T08:00:00.000Z</published>
+    <summary>Because Ian doesn't have blog comments and because the Avalon Animation team doesn't yet have a blog, Elizabeth Nelson (PM) and Matt Calkins (SDE) have asked that I post the following response to Ian's recent Animating Custom Types in Avalon post : "I'm happy to report that building custom animations to animate font size is not necessary. (Nevertheless, Ian Griffiths&amp;#8217;s sample is a spiffy example of how to build custom animations!) For the time being, TextEffects provides just the font size animation t...</summary>
+    <content type="html">&lt;h1>More On Avalon CTP Animations&lt;/h1>
+&lt;P>Because Ian doesn't have blog comments and because the Avalon Animation team doesn't yet have a blog, Elizabeth Nelson (PM) and Matt Calkins (SDE) have asked that I post the following response to &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/02/avaloncustomanimation">Ian's recent Animating Custom Types in Avalon post&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"I'm happy to report that building custom animations to animate font size is not necessary. (Nevertheless, &lt;/EM>&lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/02/avaloncustomanimation">&lt;EM>Ian Griffiths&amp;#8217;s sample&lt;/EM>&lt;/A>&lt;EM> is a spiffy example of how to build custom animations!) For the time being, TextEffects provides just the font size animation tools he seeks. There&amp;#8217;s even &lt;/EM>&lt;A href="http://msdn.microsoft.com/Longhorn/understanding/pillars/avalon/avnov04ctp/default.aspx">&lt;EM>a TextEffects sample in the Avalon CTP Announcement&lt;/EM>&lt;/A>&lt;EM> that Arik, Karsten and Tim put together.&lt;/EM> &lt;EM>The properties of interest for font size animations are ScaleX and ScaleY.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"This isn't the end of the story on Font animations -- we&amp;#8217;re still working on hooking a few things up internally to make it easier to use animations. Regardless of what else we cook up for built-in Font animations, TextEffects will come in handy for animating individual characters in a string in a coordinated manner.&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"As for the concern about rendering artifacts when enlarging text, the issue is definitely on our radar!&lt;/EM>&lt;/P>
+&lt;P>&lt;EM>"Thanks for your enthusiasm for custom animations."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1613</id>
+    <title>Animating Custom Types in Avalon</title>
+    <updated>2004-12-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-02T08:00:00.000Z</published>
+    <summary>Ian Griffiths illustrates the core concepts in Avalon animation by implementing a custom font size animation class. Basically, "animation" in Avalon means "changing an object's value over a range in a given time," e.g. changing a font size from 10 to 72 in 4 seconds or an X coordinate from 10 to 100 in 2 seconds. Animation seemed so fancy to me until I broke it down in my head in this way.</summary>
+    <content type="html">&lt;h1>Animating Custom Types in Avalon&lt;/h1>
+Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/02/avaloncustomanimation">the core concepts in Avalon animation&lt;/A> by implementing a custom font size animation class. Basically, "animation" in Avalon means "changing an object's value over a range in a given time," e.g. changing a font size from 10 to 72 in 4 seconds or an X coordinate from 10 to 100 in 2 seconds. Animation seemed so fancy to me until I broke it down in my head in this way.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1612</id>
+    <title>Annual Free Credit Report Available As Of 12/1/04</title>
+    <updated>2004-12-02T08:00:00.000Z</updated>
+    <category term="money" label="Money"/>
+    <published>2004-12-02T08:00:00.000Z</published>
+    <summary>Since our credit scores have become such a big part of our lives, it has become federal law that everyone be able to get a free credit report annually. As of December 1 st, 2004, the western states are eligible and the web site lists when other groups of states will have access. For a blow-by-blow, check out the write-up on the Personal Finance Blog. </summary>
+    <content type="html">&lt;h1>Annual Free Credit Report Available As Of 12/1/04&lt;/h1>
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">Since our credit scores have become such a big part of our lives, it has become federal law that everyone be able to &lt;A href="https://www.annualcreditreport.com">get a free credit report annually&lt;/A>. As of December 1&lt;SUP>st&lt;/SUP>, 2004, the western states are eligible and the web site lists when other groups of states will have access. For a blow-by-blow, check out &lt;A href="http://www.pfblog.com/archives/1028_fresh_taste_of_free_credit_report_equifax.html">the write-up on the Personal Finance Blog&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1615</id>
+    <title>On Microsoft's Transparency in 2004</title>
+    <updated>2004-12-02T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-02T08:00:00.000Z</published>
+    <summary>Here. Sir Black Xero (?!?) has a review of Microsoft's increasing openness in 2004, summarizing it this way: "Granted, there are plenty of Microsoft teams that are still opaque when it comes to their roadmaps. (Office team, are you listening?) But Microsoft has taken some in 2004 in the right direction, customers, analysts and other company watchers seem to agree." Frankly, I'm pleasantly surprised at how far Microsoft has come opening up to the world. I hope we're at a critical mass where it just can't be ...</summary>
+    <content type="html">&lt;h1>On Microsoft's Transparency in 2004&lt;/h1>
+&lt;a href="http://www.wincustomize.com/newsBoard.asp?c=1&amp;ID=2840&amp;u=0">Here&lt;/a>. &lt;P>Sir Black Xero (?!?) has &lt;A href="http://www.wincustomize.com/newsBoard.asp?c=1&amp;amp;ID=2840&amp;amp;u=0">a review of Microsoft's increasing openness in 2004&lt;/A>, summarizing it this way:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"Granted, there are plenty of Microsoft teams that are still opaque when it comes to their roadmaps. (Office team, are you listening?) But Microsoft has taken some in 2004 in the right direction, customers, analysts and other company watchers seem to agree."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P dir=ltr>Frankly, I'm pleasantly surprised at how far Microsoft has come opening up to the world. I hope we're at a critical mass where it just can't be stopped, but as an engineer, that's hardly surprising. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1614</id>
+    <title>Nixon Knew He Was A Crook...</title>
+    <updated>2004-12-02T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-02T08:00:00.000Z</published>
+    <summary>but it wasn't until Woodward and Bernstein shared it with the world that he did anything about it. Now that we've got an Avalon that works with Windows XP and Visual Studio, if there's something about it that you don't like, blog about it or post to the Avalon newsgroup. Cry out loud! Don't keep it inside. Don't learn how to hide your feelings... P.S. I *know* that there are some folks that want the Avalon CTP bits that don't have MSDN subscriptions. You have my most sincere apologies. P.P.S. I don't mean t...</summary>
+    <content type="html">&lt;h1>Nixon Knew He Was A Crook...&lt;/h1>
+&lt;P>but it wasn't until Woodward and Bernstein shared it with the world that he did anything about it. Now that we've got &lt;A href="http://msdn.microsoft.com/subscriptions/">an Avalon that works with Windows XP and Visual Studio&lt;/A>, if there's something about it that you don't like, &lt;A href="http://spaces.msn.com">blog about it&lt;/A> or &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.avalon">post to the Avalon newsgroup&lt;/A>. Cry out loud! Don't keep it inside. Don't learn how to hide your feelings...&lt;/P>
+&lt;P>P.S. I *know* that there are some folks that want the Avalon CTP bits that don't have MSDN subscriptions. You have my most sincere apologies.&lt;/P>
+&lt;p>P.P.S. I don't mean to call the Avalon guys crooks. Those guys work super hard to build the right thing and they're dying for the feedback. That makes them *very* different than Nixon, who really didn't want the feedback he got. : )&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1611</id>
+    <title>GUI Front End to XmlSerializerPreCompiler</title>
+    <updated>2004-12-01T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-12-01T08:00:00.000Z</published>
+    <summary>Mathew Nolton has posted a GUI front-end to my XmlSerializerPreCompiler that you might find useful. Thanks, Matt! </summary>
+    <content type="html">&lt;h1>GUI Front End to XmlSerializerPreCompiler&lt;/h1>
+&lt;P align=left>Mathew Nolton has posted &lt;A href="http://www.cybral.com/solutions/tools.htm#XmlPrecompiler">a GUI front-end to my XmlSerializerPreCompiler&lt;/A> that you might find useful. Thanks, Matt!&lt;/P>
+&lt;P align=left>&lt;A href="http://www.cybral.com/solutions/tools.htm#XmlPrecompiler">&lt;IMG height=343 src="http://www.cybral.com/images/XmlPrecompiler.gif" width=520>&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1610</id>
+    <title>Avalon 3D Samples Updated for the CTP</title>
+    <updated>2004-11-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-30T08:00:00.000Z</published>
+    <summary>Karsten says : "Check out http://www.therhogue.com/WinFX/ &amp;nbsp;for some more Avalon 3D samples.&amp;nbsp; Robert Hogue is an amazing developer and these are definitely worth checking out."</summary>
+    <content type="html">&lt;h1>Avalon 3D Samples Updated for the CTP&lt;/h1>
+&lt;A href="http://blogs.msdn.com/karstenj/archive/2004/11/30/272461.aspx">Karsten says&lt;/A>: "Check out &lt;A href="http://www.therhogue.com/WinFX/">http://www.therhogue.com/WinFX/&lt;/A>&amp;nbsp;for some more Avalon 3D samples.&amp;nbsp; Robert Hogue is an amazing developer and these are definitely worth checking out."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1609</id>
+    <title>The 7 Goals of Highly Effective XAML Designers</title>
+    <updated>2004-11-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-30T08:00:00.000Z</published>
+    <summary>Rob Relyea, a Lead PM on the Avalon team, has posted the 7 goals that drives the XAML&amp;nbsp;design decisions.</summary>
+    <content type="html">&lt;h1>The 7 Goals of Highly Effective XAML Designers&lt;/h1>
+Rob Relyea, a Lead PM on the Avalon team, has posted &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/11/29/7838.aspx">the 7 goals that drives the XAML&amp;nbsp;design decisions&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1608</id>
+    <title>Sioux Falls, SD Geek Dinner Starting</title>
+    <updated>2004-11-29T08:00:00.000Z</updated>
+    <published>2004-11-29T08:00:00.000Z</published>
+    <summary>Rod Paddock is starting up a Geek Dinner for Sioux Falls, South Dakota and asked that I slobber a little Sells juice on it. Consider yourself sauced, Rod.</summary>
+    <content type="html">&lt;h1>Sioux Falls, SD Geek Dinner Starting&lt;/h1>
+Rod Paddock is starting up &lt;A href="http://blogs.officezealot.com/rod/archive/2004/11/29/3487.aspx">a Geek Dinner for Sioux Falls, South Dakota&lt;/A> and asked that I slobber a little Sells juice on it. Consider yourself sauced, Rod.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1607</id>
+    <title>Microsoft's Road Map for Windows Forms and Avalon</title>
+    <updated>2004-11-27T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-11-27T08:00:00.000Z</published>
+    <summary>John Montgomery, Microsoft Marketing Maven in charge of.NET and WinFX messaging, has posted the road map agreed on by the Windows Forms and Avalon teams about which UI stack to use and when (an excerpt is presented here): "Microsoft's roadmap for client UI development has three main phases: "Today, use Windows Forms v1.1 and observe the Microsoft Patterns and Practices guidance for maintaining clean separation between UI and other application logic. "When Avalon v1.0 releases (scheduled for mid-2006), we re...</summary>
+    <content type="html">&lt;h1>Microsoft's Road Map for Windows Forms and Avalon&lt;/h1>
+&lt;P>John Montgomery, Microsoft Marketing Maven in charge of .NET and WinFX messaging, has posted &lt;A href="http://blogs.msdn.com/johnmont/archive/2004/11/27/271026.aspx">the road map agreed on by the Windows Forms and Avalon teams about which UI stack to use and when&lt;/A> (an excerpt is presented here):&lt;/P>
+&lt;P>"Microsoft's roadmap for client UI development has three main phases:&lt;/P>
+&lt;OL>
+&lt;LI>"Today, use Windows Forms v1.1 and observe the Microsoft &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag/html/SCAG.asp">Patterns and Practices guidance&lt;/A> for maintaining clean separation between UI and other application logic. &lt;?xml:namespace prefix = o />&lt;o:p>&lt;/o:p>&lt;/SPAN>
+&lt;LI>"When Avalon v1.0 releases (scheduled for mid-2006), we recommend that applications looking to differentiate their user interface such as Web sites and graphically intensive applications such as complex data visualization look closely at Avalon. Other applications should continue using Windows Forms.&lt;/LI>
+&lt;LI>"Following the release of Avalon 1.0, the next version of Visual Studio following Visual Studio 2005 will contain tools and designers to support Avalon. At this point, customers should start to move their new development efforts to Avalon and use the Windows Forms/Avalon interoperability features."&lt;/LI>&lt;/OL></content>
+  </entry>
+</feed>

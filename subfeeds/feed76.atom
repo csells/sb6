@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed76.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed75.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed77.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed76.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1345</id>
+    <title>.NET Rocks: Reflections on Connections</title>
+    <updated>2004-05-17T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-17T07:00:00.000Z</published>
+    <summary>Carl IM'd me to see if I could call into a long conference call. I said that I would, but couldn't 'til the brothers Sells had gone to bed (doing the dad thing, don't you know). Anyway, I called and got to swap conference stories with Carl, Rory, Dan, Bill, Mark, Kathleen and Robert. Then they told me I was actually broadcasting on an episode of.NET Rocks live focusing on conferences and today I got the URL. Ooops. Hope I didn't say anything I shouldn't have... : )</summary>
+    <content type="html">&lt;h1>.NET Rocks: Reflections on Connections&lt;/h1>
+Carl IM'd me to see if I could call into a long conference call. I said that I would, but couldn't 'til the brothers Sells had gone to bed (doing the dad thing, don't you know). Anyway, I called and got to swap conference stories with Carl, Rory, Dan, Bill, Mark, Kathleen and Robert. Then they told me &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=65">I was actually broadcasting on an episode of .NET Rocks live focusing on conferences&lt;/A> and today I got the URL. Ooops. Hope I didn't say anything I shouldn't have... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1344</id>
+    <title>3 Years of Spouting</title>
+    <updated>2004-05-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-16T07:00:00.000Z</published>
+    <summary>Here. The one where I reminisce on 3 years of The Sells Spout and my blog as a whole and wonder what it is that brings so many people to the site. </summary>
+    <content type="html">&lt;h1>3 Years of Spouting&lt;/h1>
+&lt;a href="/12495">Here&lt;/a>. &lt;P>The one where I reminisce on &lt;a href="/12495">3 years of The Sells Spout and my blog as a whole&lt;/A> and wonder what it is that brings so many people to the site.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12495</id>
+    <title>3 Years of Spouting</title>
+    <updated>2004-05-16T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-16T07:00:00.000Z</published>
+    <summary>Sunday, May 16, 2004 Yesterday was my 3rd anniversary of The Sells Spout. It's hard to remember back that far, but this was before any wide-spread blogging software, either client or server, before RSS and before personal email addresses were rendered nearly useless by 157 messages/day about how to enlarge our genitalia, necessitating the eventual move away from newsletters. At the time, I used FrontPage and &amp;lt;a name&amp;gt; tags to run my blog. I still use FrontPage + &amp;lt;a name&amp;gt; tags, but I also use web ...</summary>
+    <content type="html">&lt;h1>3 Years of Spouting&lt;/h1>
+&lt;p align="left">&lt;i>&lt;span class="created">Sunday, May 16, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p>
+Yesterday was my 3rd anniversary of The Sells Spout. It's hard to remember back 
+that far, but this was before any wide-spread blogging software, either client 
+or server, before RSS and before personal email addresses were rendered nearly 
+useless by 157 messages/day about how to enlarge our genitalia, necessitating 
+the eventual move away from newsletters.&lt;/p>&lt;p>At the time, I used FrontPage and 
+&amp;lt;a name&amp;gt; tags to run my blog. I still use FrontPage + &amp;lt;a name&amp;gt; tags, but I also 
+use web forms and SQL Server to track comments and generate RSS. In general, I 
+see my site as a giant, categorized blog, e.g. Tools, Fun, Spout, etc, with a 
+front page of descriptions of the items I add to my site and of interesting 
+things I find in the world.&amp;nbsp;Towards that end, I'd like to rebuild my site from 
+scratch using some kind of content management system so that I can get a bunch 
+of flexibility that I don't have now, e.g. referral logs, auto-archive pages, 
+comment notifications for me, rich comments, a smart client front end for 
+reading from -- and adding content to -- the site, etc. I could add all of that 
+to my own homebrew software, but I'd prefer to use something like .Text. In 
+fact, assuming ScottW integrates .Text into ASP.NET 2.0, rebuilding my site with 
+both is something that I've very likely to do.&lt;/p>&lt;p>The site itself is 9 years 
+old, but my normal outlet of tools, code samples and technical writing wasn't 
+enough for me, so 3 years ago, I started editorializing on The Sells Spout. I 
+don't know what my site traffic was 3 years ago, but I know it's grown 
+ridiculously since then for no reason that I can discern. For example, last 
+month my site served 885K sessions and 2.5GB in small pages, zip files and RSS 
+feeds. While full 55% of the page hits were the RSS feeds (quite a number of you 
+are keeping a close eye on me, apparently), that left 398K people/month visiting 
+my site to read or respond to a topic from my blog (18.7% of the total), read 
+about interviewing at Microsoft (10.6% of the total) or download a tool (4% of 
+the total).&lt;/p>&lt;p>BTW, for those of you who would point out that my RSS feed is 
+syndicated as &lt;a href="http://msdn.microsoft.com/longhorn/community/edblog.aspx">
+the Editor's Blog&lt;/a> for &lt;a href="http://msdn.com/longhorn/">
+the Longhorn Developer Center&lt;/a>, throwing off my site stats because of the 
+traffic on the DevCenter itself, I'll counter with one word: caching. &lt;a href="http://weblogs.asp.net/ksharkey">
+Kent Sharkey&lt;/a>, the editor of &lt;a href="http://msdn.microsoft.com/asp.net/">
+the ASP.NET Developer Center &lt;/a>and expert in all things ASP.NET, has built 
+caching into the control that displays the Editor's Blog from my RSS feed. Since 
+it's set to 60 minutes of cache per server and hosted on the 11-server MSDN web 
+farm, that's at most 8184 sessions/month to serve my RSS feed on msdn.com.&lt;/p>&lt;p>
+I don't really know what draws that many people to my site, but 3 years ago, I 
+stated &lt;a href="/12613">
+my rules of engagement&lt;/a> as follows:&lt;/p>&lt;li>I want to &lt;b>make people's lives 
+better&lt;/b>. &lt;/li>&lt;li>I'm interested in &lt;b>putting food on my table&lt;/b>. &lt;/li>&lt;li>
+I'm interested in &lt;b>what I'm interested in&lt;/b>. &lt;p>After 3 years, my agenda 
+remains the same. I find that strangely comforting.&lt;/p>&lt;p>&lt;a href="/1344">
+Discuss&lt;/a>&lt;/li> 
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1342</id>
+    <title>Lies, Hypocrisy and the 'Friends' Theme Song</title>
+    <updated>2004-05-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-15T07:00:00.000Z</published>
+    <summary>As much as I love the Friends show for it's portrayal of unconditional love (as a geek, people loving me no matter what I do is appealing), I have to admit that it works best on a backdrop of few money worries (Monica's apartment is worth $6000/month?!? No wonder I don't live in NYC...). NPR's Mike Pesca opens up my eyes to the lies and hypocrisies (hyprocrisi? [see? geek!]) in the Friends theme song and is hilarious about it. </summary>
+    <content type="html">&lt;h1>Lies, Hypocrisy and the 'Friends' Theme Song&lt;/h1>
+&lt;P>As much as I love the Friends show for it's portrayal of unconditional love (as a geek, people loving me no matter what I do is appealing), I have to admit that it works best on a backdrop of few money worries (Monica's apartment is worth &lt;EM>$6000/month&lt;/EM>?!? No wonder I don't live in NYC...). &lt;A href="http://www.npr.org/rundowns/segment.php?wfId=1874924">NPR's Mike Pesca opens up my eyes to the lies and hypocrisies (hyprocrisi? [see? geek!]) in the Friends theme song and is hilarious about it&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1343</id>
+    <title>BBC Coupling: I Laughed 'til I Cried</title>
+    <updated>2004-05-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-15T07:00:00.000Z</published>
+    <summary>The American version left me completely cold, but Melissa and I have just watched the 1st season of the original BBC series Coupling and I actually laughed several times 'til I cried. In fact, there was one phrase that I tried to repeat to my wife because it struck me so hard, but I literally couldn't say it without losing my ability to speak (btw, "the pride of my ear bucket" is the phrase and I'm typing it through the tears). </summary>
+    <content type="html">&lt;h1>BBC Coupling: I Laughed 'til I Cried&lt;/h1>
+&lt;P>The American version left me completely cold, but Melissa and I have just watched &lt;A href="http://www.bbc.co.uk/comedy/coupling/">the 1st season of the original BBC series Coupling&lt;/A> and I actually laughed several times 'til I cried. In fact, there was one phrase that I tried to repeat to my wife because it struck me so hard, but I literally couldn't say it without losing my ability to speak (btw, "the pride of my ear bucket" is the phrase and I'm typing it through the tears).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1341</id>
+    <title>Channel9 Video: What influenced the design of LH?</title>
+    <updated>2004-05-15T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-15T07:00:00.000Z</published>
+    <summary>Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) talks about the warm, fuzzy tasks that they went through to come up with "what innovative" looks like in ways that I admire, 'cuz I never would have thunk of them.</summary>
+    <content type="html">&lt;h1>Channel9 Video: What influenced the design of LH?&lt;/h1>
+Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) talks about the warm, fuzzy tasks that they went through to come up with "what innovative" looks like in ways that I admire, 'cuz &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=7331">I &lt;EM>never&lt;/EM> would have thunk of them&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1340</id>
+    <title>Chad on the Visual Studio Team Wants To Meet You</title>
+    <updated>2004-05-14T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-14T07:00:00.000Z</published>
+    <summary>Chad says : "You are important to me! You spend your money and time on VS, and you expect VS to help you make more money and time. You will be using Whidbey to make your living, paying for braces and college and retirement, buying coffee and beer and cigarettes, contributing to political and social causes, paying income taxes and mortgage interest, ordering pizza and books and flowers." Chad wants you to send him your picture and some info so that he can show his VS team that their customers are real folks....</summary>
+    <content type="html">&lt;h1>Chad on the Visual Studio Team Wants To Meet You&lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/chadroyal/archive/2004/05/14/132307.aspx">Chad says&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"You are important to me! You spend your money and time on VS, and you expect VS to help you make more money and time. You will be using Whidbey to make your living, paying for braces and college and retirement, buying coffee and beer and cigarettes, contributing to political and social causes, paying income taxes and mortgage interest, ordering pizza and books and flowers."&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>&lt;A href="http://blogs.msdn.com/chadroyal/archive/2004/05/14/132307.aspx">Chad wants you to send him your picture and some info&lt;/A> so that he can show his VS team that their customers are real folks. I sent him mine; I may be an MS employee, but I've been using Visual Studio non-stop since it was called QuickC and I &lt;EM>care&lt;/EM> what those guys do with my development environment of choice!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1338</id>
+    <title>The Advice of Our Fathers</title>
+    <updated>2004-05-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-14T07:00:00.000Z</published>
+    <summary>Here. The one where peanut butter and jelly remind me of my father. [ed: Just 'cuz Friends is over don't mean I'm a gonna pick a new style to describe my Spout entries. If it ain't broke, don't fix it, my father always used to say...] </summary>
+    <content type="html">&lt;h1>The Advice of Our Fathers&lt;/h1>
+&lt;a href="/12496">Here&lt;/a>. &lt;P>The one where peanut butter and jelly &lt;a href="/12496">remind me of my father&lt;/A>.&lt;/P>
+&lt;P>&lt;EM>[ed: Just 'cuz Friends is over don't mean I'm a gonna pick a new style to describe my Spout entries. If it ain't broke, don't fix it, my father always used to say...]&lt;/EM>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1339</id>
+    <title>Squarified Treemaps in Avalon and Much, Much More</title>
+    <updated>2004-05-14T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-14T07:00:00.000Z</published>
+    <summary>Today Jonathan Hodgson has posted a very cool article ostensibly about implementing Squarified Treemaps in Avalon, but he goes much further than that. First, he shows us what his Avalon implementation of Treemaps look like, including providing the source and a Maslan-ese video showing off his creation for those folks that don't have the Longhorn PDC bits. Then, Jonathan goes compare standard grid and graph visualizations to Treemaps and to describe the intimate details of the Treemap algorithm. Later he pro...</summary>
+    <content type="html">&lt;h1>Squarified Treemaps in Avalon and Much, Much More&lt;/h1>
+&lt;P>Today Jonathan Hodgson has posted &lt;A href="http://www.codeproject.com/useritems/treemaps.asp">a very cool article&lt;/A> ostensibly about implementing &lt;A href="http://www.win.tue.nl/~vanwijk/stm.pdf">Squarified Treemaps&lt;/A> in Avalon, but he goes much further than that. First, he shows us what his Avalon implementation of Treemaps look like, including providing &lt;A href="http://www.codeproject.com/useritems/treemaps/treemaps_src.zip">the source&lt;/A> and a &lt;A href="http://msdn.microsoft.com/longhorn/productinfo/conceptvid/">Maslan-ese&lt;/A> &lt;A href="http://www.codeproject.com/useritems/treemaps/treemaps_video.zip">video showing off his creation&lt;/A> for those folks that don't have the Longhorn PDC bits.&lt;/P>
+&lt;P>Then, Jonathan goes compare standard grid and graph visualizations to Treemaps and to describe the intimate details of the Treemap algorithm.&lt;/P>
+&lt;P>Later he provides the code-by-code description of his Avalon implementation, showing off the flexibility of XAML and Avalon, but before he does that, he gives us his opinion of why Avalon, the new Longhorn User Experience (UX) and XAML are all important and how Windows Forms fits into this new world.&lt;/P>
+&lt;P>And as if that weren't enough, Jonathan than goes on to describe other visualization ideas that he thinks (and I agree) should be considered in this new, more flexible world that Longhorn is going to provide. And at the end, he provides an extensive set of references for further reading on these subjects.&lt;/P>
+&lt;P>All in all, Jonathan provides a 9500+ word tour de force, spanning prose, pictures, opinion, working code and even video! If he'd have done the voice over, he'd have gotten the whole thing. I put my feet up and worked my way through two cups of Chai tea, three biscuits and several pieces of teriyaki turkey jerky on and off during the day while reading his piece and enjoyed the experience very much. Jonathan covers a great deal of the reasons that we're going to have to see passed our old barriers in Longhorn and he does it well, mixing his own thoughts with references from around the web on these topics. If you only read one piece on Longhorn this month, &lt;A href="http://www.codeproject.com/useritems/treemaps.asp">read this one&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12496</id>
+    <title>The Advice of Our Fathers</title>
+    <updated>2004-05-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-14T07:00:00.000Z</published>
+    <summary>Being a Midwesterner, my father is a fairly stoic man and, unlike his son, doesn't often speak just to hear the sound of his own voice. Still, I've managed to pick up a few gems over the years that my own sons are now forced to hear often, like &amp;quot;If something is worth doing, it's worth doing well,&amp;quot; &amp;quot;It's the hard things that are worth doing,&amp;quot; and &amp;quot;It's easy to figure out the right thing to do -- it's the hardest&amp;quot; (do you detect the Midwest work ethic in any of these sayings? : )...</summary>
+    <content type="html">&lt;h1>The Advice of Our Fathers&lt;/h1>
+&lt;p align="left">
+Being a Midwesterner, my father is a fairly stoic man and, unlike his son, 
+doesn't often speak just to hear the sound of his own voice. Still, I've managed 
+to pick up a few gems over the years that my own sons are now forced to hear 
+often, like &amp;quot;If something is worth doing, it's worth doing well,&amp;quot; &amp;quot;It's the hard 
+things that are worth doing,&amp;quot; and &amp;quot;It's easy to figure out the right thing to do 
+-- it's the hardest&amp;quot; (do you detect the Midwest work ethic in any of these 
+sayings? : ).&lt;/p>&lt;p align="left">When I was having trouble with a pair of 6th 
+graders (I was a 3rd grader), he said, &amp;quot;Don't start a fight, but make sure that 
+you &lt;i>end&lt;/i> it&amp;quot; (&lt;i>that&lt;/i> was hard to implement...).&lt;/p>&lt;p align="left">
+When I went off to college, he said, &amp;quot;Don't go to bed drunk&amp;quot; (I always regret it 
+when I ignore this piece of advise...).&lt;/p>&lt;p align="left">When I broke 
+something of my wife's and wasn't contrite enough, my father, working on wife #3 
+at the time, said to me, &amp;quot;You've got to be &lt;i>nice&lt;/i> to your wife!&amp;quot;&lt;/p>&lt;p align="left">
+But the one that sticks with me most, the one I hear in my head almost every 
+time I make a sandwich (and the one that caused me to write these words) is 
+&amp;quot;Don't get the God Damn jelly in the God Damn peanut butter!&amp;quot; To this day, with 
+my father 1500 miles away in Fargo, I still make sure that there's no jelly on 
+my knife when I reach for the peanut butter.&lt;/p>&lt;p align="left">It's funny what 
+unintended impressions you leave on people. I wonder what about me will haunt my 
+children?&lt;/p>&lt;p align="left">&lt;a href="/1338">
+Discuss&lt;/a>&lt;/p>
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1336</id>
+    <title>WinHEC Avalon NNTP *Dude*</title>
+    <updated>2004-05-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-13T07:00:00.000Z</published>
+    <summary>Kenny Lim has posted the source to his WinHEC-compliant Avalon NNTP Reader ( screenshot here ). It's stateless right now, but WinFS seems a natural for keeping this kind of state as soon as we're allowed to extend the WinFS type system. Thanks, Kenny!</summary>
+    <content type="html">&lt;h1>WinHEC Avalon NNTP *Dude*&lt;/h1>
+Kenny Lim has posted &lt;A href="http://blogs.msdn.com/digitalnetbizz/archive/2004/05/13/131332.aspx">the source&lt;/A> to his &lt;A href="http://blogs.msdn.com/digitalnetbizz/archive/2004/05/11/130291.aspx">WinHEC-compliant Avalon NNTP Reader&lt;/A> (&lt;A href="http://digitalnetbizz.50megs.com/nntp.JPG">screenshot here&lt;/A>). It's stateless right now, but WinFS seems a natural for keeping this kind of state as soon as we're allowed to extend the WinFS type system. Thanks, Kenny!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1337</id>
+    <title>Find Yourself with Longhorn P2P</title>
+    <updated>2004-05-13T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-13T07:00:00.000Z</published>
+    <summary>Karsten posts about some cool P2P samples he found in the updated WinHEC Longhorn SDK.</summary>
+    <content type="html">&lt;h1>Find Yourself with Longhorn P2P&lt;/h1>
+&lt;A href="http://blogs.msdn.com/karstenj/archive/2004/05/13/131357.aspx">Karsten posts&lt;/A> about &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/p2psdk/p2p/what_is_peer-to-peer_networking_.asp">some cool P2P samples he found&lt;/A> in &lt;A href="http://longhorn.msdn.microsoft.com">the updated WinHEC Longhorn SDK&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1333</id>
+    <title>WinFS: Where Do The Attributes Come From?</title>
+    <updated>2004-05-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-12T07:00:00.000Z</published>
+    <summary>Sam Druker, Development Team Lead on the WinFS team, has a series of videos on Channel9 talking about a variety of WinFS topics: Where do the attributes/metadata come from that WinFS exposes to the shell and to custom applications? How pictures could be tagged based on calendar appointments and picture timestamps. What kind of search experience will WinFS enable in Longhorn? How an existing application, like Outlook Express, could be updated to take advantage of WinFS. And most importantly: how developers s...</summary>
+    <content type="html">&lt;h1>WinFS: Where Do The Attributes Come From?&lt;/h1>
+&lt;p>Sam Druker, Development Team Lead on the WinFS team, has a series of videos 
+on Channel9 talking about a variety of WinFS topics:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=7102">Where do the attributes/metadata come from that WinFS exposes to the shell and to custom applications?&lt;/a>&lt;/li>
+	&lt;li>&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=7190">How pictures could be tagged based on calendar appointments and picture timestamps.&lt;/a>&lt;/li>
+	&lt;li>&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=7191">What kind of search experience will WinFS enable in Longhorn?&lt;/a>&lt;/li>
+	&lt;li>&lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=8548">How an existing application, like Outlook Express, could be updated to take advantage of WinFS.&lt;/a>&lt;/li>
+	&lt;li>And most importantly: &lt;a href="http://channel9.msdn.com/ShowPost.aspx?PostID=7863">how developers should prepare today for WinFS tomorrow&lt;/a>.&lt;/li>
+&lt;/ul></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1334</id>
+    <title>MSDNers Storming the 5/18 Portland Nerd Dinner</title>
+    <updated>2004-05-12T07:00:00.000Z</updated>
+    <published>2004-05-12T07:00:00.000Z</published>
+    <summary>An undisclosed number of MSDNers are going to be attending Jim's Portland Nerd Dinner on May 18th. If you've got an ask of MSDN or content to pitch or just want to hang with folks that really know their stuff, you should show up. Plus, my boss has one of those nifty MS American Express cards, so we should be able to overpower him and use it to pay for our crappy food court dinners. And as if that weren't enough, my boss will also be packing some MS "crap" (his words : ), so if you only come to one PND, make...</summary>
+    <content type="html">&lt;h1>MSDNers Storming the 5/18 Portland Nerd Dinner&lt;/h1>
+&lt;P>An undisclosed number of MSDNers are going to be attending &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=0fde8aa6-b19e-4b2d-ad6a-2a2586360aff">Jim's Portland Nerd Dinner on May 18th&lt;/A>. If you've got an ask of MSDN or content to pitch or just want to hang with folks that really know their stuff, you should show up.&lt;/P>
+&lt;P>Plus, my boss has one of those nifty MS American Express cards, so we should be able to overpower him and use it to pay for our crappy food court dinners. And as if that weren't enough, my boss will also be packing some MS "crap" (his words : ), so if you only come to one PND, make it this one!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1335</id>
+    <title>Your Should Be Using an RSS Reader for Everything!</title>
+    <updated>2004-05-12T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-12T07:00:00.000Z</published>
+    <summary>Ryan Farley posted today that he agreed with Josh Ledgard who said that you should use an RSS Reader for readings blogs instead of surfing to web pages. Josh finds that when he does this, it focuses him on the interesting posts and doesn't waste his time reading stuff just 'cuz it comes from someone that interests you sometimes. So, RSS Reader: good. Surfing to blogs via a web browser: bad. Duh! : ) Ryan goes on to say that my blog should be the expectation, i.e. that you should surf to http://sellsbrothers...</summary>
+    <content type="html">&lt;h1>Your Should Be Using an RSS Reader for Everything!&lt;/h1>
+&lt;P>&lt;A href="http://ryanfarley.com/blog/archive/2004/05/12/609.aspx">Ryan Farley posted today&lt;/A> that he agreed with &lt;A href="http://blogs.msdn.com/jledgard/archive/2004/04/27/121805.aspx">Josh Ledgard who said that you should use an RSS Reader for readings blogs instead of surfing to web pages&lt;/A>. Josh finds that when he does this, it focuses him on the interesting posts and doesn't waste his time reading stuff just 'cuz it comes from someone that interests you sometimes.&lt;/P>
+&lt;P>So, RSS Reader: good. Surfing to blogs via a web browser: bad. Duh! : )&lt;/P>
+&lt;P>Ryan goes on to say that my blog should be the expectation, i.e. that you should surf to &lt;A href="/">http://sellsbrothers.com&lt;/A> every day for my blog entries even if you use RSS for everyone else. While I appreciate the complement, Ryan, I can't think of *anyone* that deserves that kind of treatment. If my entries aren't interesting to you, then don't slow yourself down to read them just 'cuz it's me.&lt;/P>
+&lt;P>Now, having said that, I sort my unread blog entries in &lt;A href="http://www.sharpreader.net">#R&lt;/A> by Author so that I can see all of &lt;A href="http://staff.develop.com/candera/weblog2/">Craig's posts&lt;/A> at once and pay special attention to them (along with several others). Does that mean they don't need to be interesting? No. But, I do have that extra visual speed bump to slow me down a tad to double-check for interesting.&lt;/P></content>
+  </entry>
+</feed>

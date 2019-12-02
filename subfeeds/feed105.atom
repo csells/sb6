@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed105.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed104.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed106.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed105.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/933</id>
+    <title>The Visual C++ Team Wants You!</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. The VC++ team has a bunch of cool work they need doing and they're looking for candidates. Don't be shy. Apply today! And if http://microsoft.com/jobs is too slow for you, feel free to send your resume and a bottle of Scotch (OK, that last part is optional : ) to Terry Leeper, a friend of mine on the VS team desperate for help: tleeper@microsoft.com.</summary>
+    <content type="html">&lt;h1>The Visual C++ Team Wants You!&lt;/h1>
+&lt;a href="http://www.microsoft.com/careers/search/results.aspx?FromCP=Y&amp;JobCategoryCodeID=&amp;JobLocationCodeID=&amp;JobProductCodeID=10014&amp;JobTitleCodeID=10255&amp;Divisions=&amp;TargetLevels=&amp;Keywords=&amp;JobCode=&amp;ManagerAlias=&amp;Interval=10">Here&lt;/a>. The VC++ team has a bunch of cool work they need doing and they're looking for candidates. Don't be shy. Apply today!
+
+And if http://microsoft.com/jobs is too slow for you, feel free to send your resume and a bottle of Scotch (OK, that last part is optional : ) to Terry Leeper, a friend of mine on the VS team desperate for help: tleeper@microsoft.com.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/938</id>
+    <title>New SharpReader uses Genghis</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. Luke wanted to add a new feature to SharpReader (which was just updated today [1]), so he turned to Genghis. Come one, come all. Genghis offers free features for everyone! BTW, the new feature was toast windows. [1] http://www.sharpreader.net</summary>
+    <content type="html">&lt;h1>New SharpReader uses Genghis&lt;/h1>
+&lt;a href="http://www.genghisgroup.com">Here&lt;/a>. Luke wanted to add a new feature to SharpReader (which was just updated today [1]), so he turned to Genghis. Come one, come all. Genghis offers free features for everyone!
+
+BTW, the new feature was toast windows.
+
+[1] http://www.sharpreader.net</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/937</id>
+    <title>Don Box Shows K&amp;R Hello, World in XAML</title>
+    <updated>2003-11-07T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-07T08:00:00.000Z</published>
+    <summary>Here. I think Don wins the prize for most obfuscated "Hello, World" implementation, but he does drive the point home nicely that XAML has nothing to do with Avalon and everything to do with declaring classes in.NET. Of course, most folks will think of XAML for declaring Avalon UI, but who knows what fun things will come out of the truth?</summary>
+    <content type="html">&lt;h1>Don Box Shows K&amp;R Hello, World in XAML&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-11-07T07:41:40Z">Here&lt;/a>. I think Don wins the prize for most obfuscated "Hello, World" implementation, but he does drive the point home nicely that XAML has nothing to do with Avalon and everything to do with declaring classes in .NET.
+
+Of course, most folks will think of XAML for declaring Avalon UI, but who knows what fun things will come out of the truth?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/932</id>
+    <title>DonXML Dives into XAML</title>
+    <updated>2003-11-06T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-06T08:00:00.000Z</published>
+    <summary>Here. Don "XML" Demsak has been diving into XAML head first, using it for it's graphics language features and comparing it to SVG along the way. Very cool stuff.</summary>
+    <content type="html">&lt;h1>DonXML Dives into XAML&lt;/h1>
+&lt;a href="http://www.donxml.com/">Here&lt;/a>. Don "XML" Demsak has been diving into XAML head first, using it for it's graphics language features and comparing it to SVG along the way. Very cool stuff.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/931</id>
+    <title>A List of What Makes WinFS Cool</title>
+    <updated>2003-11-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-05T08:00:00.000Z</published>
+    <summary>Here. Serge posts a list of what he thinks makes WinFS cool along with links to more info.</summary>
+    <content type="html">&lt;h1>A List of What Makes WinFS Cool&lt;/h1>
+&lt;a href="http://weblogs.asp.net/soever/posts/35478.aspx">Here&lt;/a>. Serge posts a list of what he thinks makes WinFS cool along with links to more info.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/930</id>
+    <title>Develop Managed VSIP Extensions to VS.NET</title>
+    <updated>2003-11-05T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-05T08:00:00.000Z</published>
+    <summary>Here. Want to develop deep extensions to VS.NET as a Visual Studio Integration Partner for free? Want to develop those extensions using managed code with new managed samples and a new wizard? Then check out the VSIP Extras Beta and have fun!</summary>
+    <content type="html">&lt;h1>Develop Managed VSIP Extensions to VS.NET&lt;/h1>
+&lt;a href="http://www.vsipdev.com/extrasbeta/default.aspx">Here&lt;/a>. Want to develop deep extensions to VS.NET as a Visual Studio Integration Partner for free? Want to develop those extensions using managed code with new managed samples and a new wizard? Then check out the VSIP Extras Beta and have fun!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/924</id>
+    <title>XAML's not your father's UI mark-up</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. Don Box says it nicely: "XAML is just an XML-based way to wire up CLR types - no more no less."</summary>
+    <content type="html">&lt;h1>XAML's not your father's UI mark-up&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-11-04T09:14:15Z">Here&lt;/a>. Don Box says it nicely: "XAML is just an XML-based way to wire up CLR types - no more no less."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/925</id>
+    <title>Preview: Microsoft's Windows Longhorn</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. ExtremeTech has a review of the PDC Longhorn bits. [radio.weblogs.com/0001011/]</summary>
+    <content type="html">&lt;h1>Preview: Microsoft's Windows Longhorn &lt;/h1>
+&lt;a href="http://www.extremetech.com/article2/0,3973,1368390,00.asp">Here&lt;/a>. ExtremeTech has a review of the PDC Longhorn bits.
+
+[radio.weblogs.com/0001011/]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/926</id>
+    <title>.NET Rocks! hosted by MSDN</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. Because of increasing popularity, Carl Franklin asked the community for some help mirroring the audio from his.NET Rocks! internet talk show. MSDN has answered the call and is now mirroring the audio for each of the past.NET Rocks! shows and will be mirroring it into the future. Enjoy (I know I do).</summary>
+    <content type="html">&lt;h1>.NET Rocks! hosted by MSDN&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/dotnetrocks/">Here&lt;/a>. Because of increasing popularity, Carl Franklin asked the community for some help mirroring the audio from his .NET Rocks! internet talk show. MSDN has answered the call and is now mirroring the audio for each of the past .NET Rocks! shows and will be mirroring it into the future.
+
+Enjoy (I know I do).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/928</id>
+    <title>Microsoft to offer bounty on hackers</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. "Microsoft will announce on Wednesday that it will offer two $250,000 bounties for information leading to the arrest of the people who released the MSBlast worm and the SoBig virus, CNET News.com has learned." Holy cow! Did Microsoft just create a new profession: the cyber bounty hunter?!?</summary>
+    <content type="html">&lt;h1>Microsoft to offer bounty on hackers&lt;/h1>
+&lt;a href="http://www.msnbc.com/news/989410.asp">Here&lt;/a>. "Microsoft will announce on Wednesday that it will offer two $250,000 bounties for information leading to the arrest of the people who released the MSBlast worm and the SoBig virus, CNET News.com has learned."
+
+Holy cow! Did Microsoft just create a new profession: the cyber bounty hunter?!?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/927</id>
+    <title>PDC Break-Out Session Videos</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. Looks like the folks that video taped the break-out sessions at the PDC have a DVD of the videos. Even if you did get to go, like me, you probably didn't get to see everything you wanted. Now just gotta talk to boss into it...</summary>
+    <content type="html">&lt;h1>PDC Break-Out Session Videos&lt;/h1>
+&lt;a href="https://www.interactservices.com/microsoft_pdc2003/Products1.asp">Here&lt;/a>. Looks like the folks that video taped the break-out sessions at the PDC have a DVD of the videos. Even if you did get to go, like me, you probably didn't get to see everything you wanted. Now just gotta talk to boss into it...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/929</id>
+    <title>re: Author anxieties over RSS</title>
+    <updated>2003-11-04T08:00:00.000Z</updated>
+    <published>2003-11-04T08:00:00.000Z</published>
+    <summary>Here. In my post last night [1], I was using exaggeration to make a point. The point was that the new openness of Microsoft product teams is a *good* thing. The evidence of this new openness is the blog, which puts all kinds of "why" knowledge on the web in google form for future developers. I was crying wolf a bit when I said that blogs/openness would put authors like me out of work. It might put some authors/consultants/speakers out of work, but as Mike Abercrombie at DevelopMentor used to say, "There's a...</summary>
+    <content type="html">&lt;h1>re: Author anxieties over RSS&lt;/h1>
+&lt;a href="http://benjaminm.net/PermaLink.aspx?guid=14da6097-ace2-4cbf-b744-f539d66b8105">Here&lt;/a>. In my post last night [1], I was using exaggeration to make a point. The point was that the new openness of Microsoft product teams is a *good* thing. The evidence of this new openness is the blog, which puts all kinds of "why" knowledge on the web in google form for future developers.
+
+I was crying wolf a bit when I said that blogs/openness would put authors like me out of work. It might put some authors/consultants/speakers out of work, but as Mike Abercrombie at DevelopMentor used to say, "There's always room in the market for quality." Or, in other words, there will always be a need for *good* books, articles, conference talks, training courses, etc.
+
+I'll just have to try to write well from now on, that's all. : )
+
+[1] http://127.0.0.1:8080/spout/#Time_For_An_Exciting_Career_In_Electronics
+
+P.S. I appreciate all the offers of encouragement and hugs that I got from this post [1]. It's nice to know folks care and hard to believe that anyone would ever consider me "subtle." On the other hand, I was accused of claiming to have invented Java the other day, so maybe I need to post another naked picture or something... : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/922</id>
+    <title>All about Longhorn</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Here. John Carroll says it nicely, I think: "Longhorn will be the first operating system where ALL functionality is designed to be accessed through managed code. WIN32's reign as the Windows API has ended, replaced by managed.NET APIs.... WIN32 will still exist for backwards compatibility, of course, and native access APIs will exist for those applications which need it... However, Microsoft intends to ensure that all Longhorn functionality is accessible from a 100% managed program." He goes on to say other...</summary>
+    <content type="html">&lt;h1>All about Longhorn&lt;/h1>
+&lt;a href="http://zdnet.com.com/2100-1107_2-5101117.html">Here&lt;/a>. John Carroll says it nicely, I think:
+
+"Longhorn will be the first operating system where ALL functionality is designed to be accessed through managed code. WIN32's reign as the Windows API has ended, replaced by managed .NET APIs. ... WIN32 will still exist for backwards compatibility, of course, and native access APIs will exist for those applications which need it... However, Microsoft intends to ensure that all Longhorn functionality is accessible from a 100% managed program."
+
+He goes on to say other things that I think are interesting for the Longhorn developers of the future to know.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/923</id>
+    <title>Time For An Exciting Career In Electronics</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Here. The one where blogs and RSS have removed the inefficiency in the market in which I make my living. Luckily, few people make full use of such technologies, so I may be able to make the mortgage for a few more months...</summary>
+    <content type="html">&lt;h1>Time For An Exciting Career In Electronics&lt;/h1>
+&lt;a href="/12516">Here&lt;/a>. The one where blogs and RSS have removed the inefficiency in the market in which I make my living. Luckily, few people make full use of such technologies, so I may be able to make the mortgage for a few more months...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/919</id>
+    <title>XmlSerializer Workshop</title>
+    <updated>2003-11-03T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-11-03T08:00:00.000Z</published>
+    <summary>Here. Simon Steele has posted a most excellent tool for digging through an assembly of.NET types trying to build XML serializers for them. This helps you to figure out which classes are going to succeed at design-time instead of at run-time and shows you what's wrong. Much cooler than my silly command line app. Thanks, Simon!</summary>
+    <content type="html">&lt;h1>XmlSerializer Workshop &lt;/h1>
+&lt;a href="http://www.untidy.net/xsw/">Here&lt;/a>. Simon Steele has posted a most excellent tool for digging through an assembly of .NET types trying to build XML serializers for them. This helps you to figure out which classes are going to succeed at design-time instead of at run-time and shows you what's wrong. Much cooler than my silly command line app. Thanks, Simon!</content>
+  </entry>
+</feed>

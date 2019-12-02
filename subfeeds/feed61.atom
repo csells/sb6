@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed61.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed60.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed62.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed61.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1548</id>
+    <title>re: Business Object Design tools question</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>Today Ralph Loizzo asked me what tool I use to outline my objects, to which I replied: The tool I use most often to design my systems is a text editor. I write my client code first against the objects I wish I had to obtain the first order of functionality I'm after, then implement those classes and refactor 'til I've reached a state of happiness between the clients and the object model. In this age of development methodology du jour, I assume my methodology already has a name, but today I dubbed it CDD (Cl...</summary>
+    <content type="html">&lt;h1>re: Business Object Design tools question&lt;/h1>
+&lt;P>Today Ralph Loizzo asked me what tool I use to outline my objects, to which I replied:&lt;/P>
+&lt;P>The tool I use most often to design my systems is a text editor. I write my client code first against the objects I wish I had to obtain the first order of functionality I'm after, then implement those classes and refactor 'til I've reached a state of happiness between the clients and the object model.&lt;/P>
+&lt;P>In this age of development methodology du jour, I assume my methodology already has a name, but today I dubbed it CDD (Client-Driven Development). Also, I don't distinguish between client UI code and lower-level code, i.e. just as often as I write lower-level code against an imaginary OM, I design my UIs first, then implement an OM to enable the UI.&lt;/P>
+&lt;P>Over the years, I've become less and less of a fan of the idea of componentizing the functionality you think the higher levels are going to need, as it often results in over-engineering. Instead, I prefer just-in-time engineering, refactoring my design as I need new or different functionality, whether&amp;nbsp;in the client during the initial development stage or during the maintenance stage.&lt;/P>
+&lt;P>Test Driven Development is very similar to Client-Driven Development:&lt;/P>
+&lt;UL>
+&lt;LI>TDD: writing the tests first and writing your code &amp;#8216;til the test pass&lt;/LI>
+&lt;LI>CDD: writing the client first and writing your code &amp;#8216;til the client has the functionality it needs&lt;/LI>&lt;/UL>
+&lt;P>It may even be that CDD is a degenerate case of TDD where the "test" is "the client seems to work."&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1545</id>
+    <title>Rory Giving Away One Seat at the XML Dev.Conf.</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>Rory is giving away one seat to the Applied XML Developer's Conference. He's asking three questions before Friday and drawing from anyone that can answer all three. Question 1 and question 2 have already been posted. There are still a hand full of seats left if you're like to purchase one. </summary>
+    <content type="html">&lt;h1>Rory Giving Away One Seat at the XML Dev.Conf.&lt;/h1>
+&lt;P>Rory is giving away one seat to &lt;a href="/conference">the Applied XML Developer's Conference&lt;/A>. He's asking three questions before Friday and drawing from anyone that can answer all three. &lt;A href="http://neopoleon.com/blog/posts/8624.aspx">Question 1&lt;/A> and &lt;A href="http://neopoleon.com/blog/posts/8653.aspx">question 2&lt;/A> have already been posted.&lt;/P>
+&lt;P>&lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">There are still a hand full of seats left if you're like to purchase one&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1552</id>
+    <title>Consider Yourself An Artist</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>d.code has a lot of great stuff to say in his post, but hands down my favorite is this: "How many software developers at Microsoft consider themselves artists first, and software developers second?" This is the thing that separates today's Windows software from tomorrow's. IMO, this is the line between Windows Forms and Avalon. The former is hands down the best way for software engineers to build professional UIs that we're familiar with under Windows today. The latter is for artists to build things we've n...</summary>
+    <content type="html">&lt;h1>Consider Yourself An Artist&lt;/h1>
+&lt;P>&lt;A href="http://dotnetjunkies.com/WebLog/dcode/archive/2004/10/14/28584.aspx">d.code has a lot of great stuff to say in his post&lt;/A>, but hands down my favorite is this:&lt;/P>
+&lt;BLOCKQUOTE>&lt;EM>"How many software developers at Microsoft consider themselves artists first, and software developers second?"&lt;/EM>&lt;/BLOCKQUOTE>
+&lt;P>This is the thing that separates today's Windows software from tomorrow's. IMO, this is the line between Windows Forms and Avalon. The former is hands down the best way for software engineers to build professional UIs that we're familiar with under Windows today. The latter is for artists to build things we've never seen before. I know this is scary for software engineers who don't know how to be artists (lord knows I don't) and for companies that don't have artists (better get some), but crossing this line is necessary to get from the best of today to the promise of tomorrow for Windows.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1546</id>
+    <title>Building Popular Software Even *Harder* Then Previously Thought</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>Raymond Chen points out that not even potentially paying customers can be trusted to tell you what they'll really buy if you build it. Which begs the question that has plagued my entire software career: how the hell do you really know what to build? </summary>
+    <content type="html">&lt;h1>Building Popular Software Even *Harder* Then Previously Thought&lt;/h1>
+&lt;P>Raymond Chen points out that &lt;A href="http://blogs.msdn.com/oldnewthing/archive/2004/10/12/241228.aspx">not even potentially paying customers can be trusted to tell you what they'll really buy&lt;/A> if you build it.&lt;/P>
+&lt;P>Which begs the question that has plagued my entire software career: how the hell do you really know what to build?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1549</id>
+    <title>A Quote To Live By</title>
+    <updated>2004-10-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-10-14T07:00:00.000Z</published>
+    <summary>I watched the first few episodes of the award-winning HBO series "Angels in America" and hated it (but I still love NetFlix for making is so darn available to me). However, while I didn't identify with any of the characters (except, potentially, the hot nurse/angel), I did really resonate with one of the quotes, which went something like this (and feel free to correct me if you recognize the quote and I got it wrong): "Don't run your life by what you want. That changes with a whim. Run your life on what you...</summary>
+    <content type="html">&lt;h1>A Quote To Live By&lt;/h1>
+&lt;P>I watched the first few episodes of &lt;A href="http://www.hbo.com/films/angelsinamerica/">the award-winning HBO series "Angels in America"&lt;/A> and hated it (but &lt;A href="http://www.netflix.com/">I still love NetFlix&lt;/A> for making is so darn available to me).&lt;/P>
+&lt;P>However, while I didn't identify with any of the characters (except, potentially, the hot nurse/angel), I did really resonate with one of the quotes, which went something like this (and feel free to correct me if you recognize the quote and I got it wrong):&lt;/P>
+&lt;BLOCKQUOTE>"Don't run your life by what you want. That changes with a whim. Run your life on what you &lt;EM>believe&lt;/EM>."&lt;/BLOCKQUOTE>
+&lt;P>That really struck the Midwestern Eagle Scout idealist engineer in me.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1544</id>
+    <title>DevCon5 Anticipation Reception for All</title>
+    <updated>2004-10-13T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-13T07:00:00.000Z</published>
+    <summary>Here. If you're going to be checking into the Skamania Lodge for the DevCon by 7pm on Tuesday, 10/19, please join us for the Anticipation Reception for all attendees and speakers. If you decide to hang with the Portland Nerd Dinner crowd instead that night, I'll understand. : )</summary>
+    <content type="html">&lt;h1>DevCon5 Anticipation Reception for All&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. If you're going to be checking into the Skamania Lodge for the DevCon by 7pm on Tuesday, 10/19, please join us for the Anticipation Reception for all attendees and speakers. If you decide to hang with &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=9a050b17-94dc-46c6-853d-371821313b0e">the Portland Nerd Dinner&lt;/A> crowd instead that night, I'll understand. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1543</id>
+    <title>Don changes his talk at the DevCon</title>
+    <updated>2004-10-12T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-10-12T07:00:00.000Z</published>
+    <summary>Here. Don got a last minute bug to write on a completely different topic. I just got the slides this morning and they're different than anything I've ever seen from Don (which is saying a lot). The new title of the talk is "ws-islands" and while I have no abstract as yet, I'm still very much looking forward to the talk for the psychedelic effects of the slides alone (I asked him to be careful not to cause seizures in the audience). There are just a few seats left, so register now or be prepared to sit this ...</summary>
+    <content type="html">&lt;h1>Don changes his talk at the DevCon&lt;/h1>
+&lt;a href="/public/conference/#ws-islands">Here&lt;/a>. &lt;P>Don got a last minute bug to write on &lt;A HREF="/public/conference/#ws-islands">a completely different topic&lt;/A>. I just got the slides this morning and they're different than anything I've ever seen from Don (which is saying a lot). The new title of the talk is "ws-islands" and while I have no abstract as yet, I'm still very much looking forward to the talk for the psychedelic effects of the slides alone (I asked him to be careful not to cause seizures in the audience).&lt;/P>
+&lt;P>There are just a few seats left, so &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">register now&lt;/A> or be prepared to sit this one out.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1541</id>
+    <title>"How is anyone supposed to know that?"</title>
+    <updated>2004-10-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-10-11T07:00:00.000Z</published>
+    <summary>The high priests that run the Internet and the IT industry have betrayed the trust of the secular community. My wife called me over to her computer the other day when she was worried about an email stating a problem with her eBay account. By reflex, I said, "Oh, just ignore that." "What? Why? They're going to shut off my eBay account," she said, motioning me over more urgently this time. Looking over her shoulder, I saw an email that looked very official, including the eBay logo. "See?" she pointed at the F...</summary>
+    <content type="html">&lt;h1>"How is anyone supposed to know that?"&lt;/h1>
+&lt;P>The high priests that run the Internet and the IT industry have betrayed the trust of the secular community.&lt;/P>
+&lt;P>My wife called me over to her computer the other day when she was worried about an email stating a problem with her eBay account. By reflex, I said, "Oh, just ignore that."&lt;/P>
+&lt;P>"What? Why? They're going to shut off my eBay account," she said, motioning me over more urgently this time.&lt;/P>
+&lt;P>Looking over her shoulder, I saw an email that looked very official, including the eBay logo.&lt;/P>
+&lt;P>"See?" she pointed at the From line. "It's from ebay.com."&lt;/P>
+&lt;P>"I know, sweetie, but hang the mouse over the link they want you to click. It's a number; it's not ebay.com"&lt;/P>
+&lt;P>Looking at me like I'd just broken the news about Santa Claus, "But how is anyone supposed to know that?"&lt;/P>
+&lt;P>I didn't have an answer. There really should be one.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1542</id>
+    <title>Raymond Continues to Shed Light</title>
+    <updated>2004-10-11T07:00:00.000Z</updated>
+    <published>2004-10-11T07:00:00.000Z</published>
+    <summary>Like pretty much everyone else I know, I'm a huge fan of Raymond Chen's blog: The Old New Thing. He is constantly answering questions about things I've always wondered. This time, he answers the question " What's the heck the atom returned by RegisterClass useful for? " [ed: "the heck" added for emphasis] </summary>
+    <content type="html">&lt;h1>Raymond Continues to Shed Light&lt;/h1>
+Like pretty much everyone else I know, I'm a huge fan of &lt;A href="http://blogs.msdn.com/oldnewthing/">Raymond Chen's blog: The Old New Thing&lt;/A>. He is constantly answering questions about things I've always wondered. This time, he answers the question "&lt;A href="http://blogs.msdn.com/oldnewthing/archive/2004/10/11/240744.aspx">What's the heck the atom returned by RegisterClass useful for?&lt;/A>" &lt;EM>[ed: "the heck" added for emphasis]&lt;/EM></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1540</id>
+    <title>All The Fun, Half the UK Price</title>
+    <updated>2004-10-11T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-10-11T07:00:00.000Z</published>
+    <summary>Curt Johnson, my marketing guy at Addison-Wesley, has let me know this morning at the UK Amazon is having a 1/2 price sale on my Windows Forms book this month. Plus, the UK guys have their own reviews that are just as nice as the US reviews. Who knew? : )</summary>
+    <content type="html">&lt;h1>All The Fun, Half the UK Price&lt;/h1>
+Curt Johnson, my marketing guy at Addison-Wesley, has let me know this morning at &lt;A href="http://www.amazon.co.uk/exec/obidos/ASIN/0321116208/chrissells">the UK Amazon is having a 1/2 price sale on my Windows Forms book&lt;/A> this month. Plus, the UK guys have their own reviews that are just as nice as the US reviews. Who knew? : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1539</id>
+    <title>Rob Relyea on Fixing the XAML Attribute Grammar</title>
+    <updated>2004-10-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-10-10T07:00:00.000Z</published>
+    <summary>Rob's been talking about fixing various parts of XAML lately, which is exactly the kind of result you want when a bunch of folks work with your technology and give you feedback on it. So, things will change and get better. However, Rob isn't telling us just want the changes are likely to be because, as he puts it, "I'm not going into great detail in the description of our fix because I'd prefer to be the first company to ship our design.&amp;nbsp; :-)" Like Rob, I find this amusing. I grew up in a period of Mic...</summary>
+    <content type="html">&lt;h1>Rob Relyea on Fixing the XAML Attribute Grammar&lt;/h1>
+&lt;P>Rob's been talking about fixing various parts of XAML lately, which is exactly the kind of result you want when a bunch of folks work with your technology and give you feedback on it. So, &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/10/09/5955.aspx">things will change and get better&lt;/A>.&lt;/P>
+&lt;P>However, Rob isn't telling us just want the changes are likely to be because, as he puts it, "I'm not going into great detail in the description of our fix because I'd prefer to be the first company to ship our design.&amp;nbsp; :-)"&lt;/P>
+&lt;P>Like Rob, I find this amusing. I grew up in a period of Microsoft's life where they were much derided for "leveraging" ideas from the rest of the world and repurposing them for use in Windows (or *as* Windows in some cases). Now that MS has caught up and passed most of the rest of the world in many crucial areas of technology, it's nice to see us grow into the role of thought leader instead of follower.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12342</id>
+    <title>Vermin King With Mutant Arm</title>
+    <updated>2004-10-09T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="http://www.neopoleon.com/blog/jetimages/king_2Dchris.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2004-10-09T07:00:00.000Z</published>
+    <summary>(I couldn't possibly explain. Click the picture...) Rory Blyth Saturday, October 09, 2004 12:50 AM www.Neopolean.com </summary>
+    <content type="html">&lt;h1>Vermin King With Mutant Arm&lt;/h1>
+&lt;p>&lt;a href="http://neopoleon.com/blog/posts/8598.aspx">
+&lt;img alt="" hspace="0" src="http://www.neopoleon.com/blog/jetimages/king_2Dchris.jpg" align="baseline" border="0">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://neopoleon.com/blog/posts/8598.aspx">(I 
+couldn't possibly explain. Click the picture...)&lt;/a>&lt;/p>
+&lt;p>&lt;i>Rory Blyth&lt;br>
+Saturday, &lt;span class="created">October 09, 2004 12:50 AM&lt;/span>&lt;br>
+&lt;a href="http://www.Neopolean.com">www.Neopolean.com&lt;/a>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1538</id>
+    <title>You Too Can Be A Technical Writer!</title>
+    <updated>2004-10-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-10-07T07:00:00.000Z</published>
+    <summary>Here. The one where I outline every technical piece I've ever written. </summary>
+    <content type="html">&lt;h1>You Too Can Be A Technical Writer!&lt;/h1>
+&lt;a href="/12483">Here&lt;/a>. &lt;P>The one where I outline &lt;a href="/12483">every technical piece I've ever written&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1537</id>
+    <title>Settings, Collections and VS05b1 (oh my)</title>
+    <updated>2004-10-07T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-10-07T07:00:00.000Z</published>
+    <summary>Here. The one where I get to try out the interaction between VS05, Windows Forms 2.0, application and user settings (wahoo!), generics and versioning, discovering that, while this combo still in beta, it's still pretty darn wonderful. </summary>
+    <content type="html">&lt;h1>Settings, Collections and VS05b1 (oh my)&lt;/h1>
+&lt;a href="/12484">Here&lt;/a>. &lt;P>The one where I get to try out &lt;a href="/12484">the interaction between VS05, Windows Forms 2.0, application and user settings (wahoo!), generics and versioning&lt;/A>, discovering that, while this combo still in beta, it's still pretty darn wonderful.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12483</id>
+    <title>Every Story I've Ever Written</title>
+    <updated>2004-10-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-10-07T07:00:00.000Z</published>
+    <summary>I was working with a potential author on an article he'd like to write covering some ground I left uncovered in my original No-Touch Deployment piece for MSDN Mag. Anyway, he sent me the list of topics and then said the following: &amp;quot;There is a fair amount of material here it might benefit from being broken into chunks. I think I will write about small chunks at a time and then we see how much belongs in one article. Rereading your original article it struck me that you had [a] story that held it togethe...</summary>
+    <content type="html">&lt;h1>Every Story I've Ever Written&lt;/h1>
+&lt;p align="left">I was working with a potential author on an article he'd like to write covering some ground I left uncovered in &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/">my original No-Touch Deployment piece for MSDN Mag&lt;/a>. Anyway, he sent me the list of topics and then said the following:&lt;/p>&lt;blockquote>&lt;i>&amp;quot;There is a fair amount of material here it might benefit from being broken into chunks. I think I will write about small chunks at a time and then we see how much belongs in one article. Rereading your original article it struck me that you had [a] story that held it together, I need to find one for me.&amp;quot;&lt;/i>&lt;/blockquote>&lt;p align="left">I've heard this kind of thing before, i.e. people ask how I turn a seemingly random set of topics into &amp;quot;a story.&amp;quot; I'm all for that, but it's not really such a chore. In fact, here's the essence of every technical piece I've ever written:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;So, I want to build this thing that needs to do this, that and the other. I started with this, did it this way and it worked. Now I need to do that. Oops. That didn't work the way I thought it should. Here's what I need to do to work around the problem. OK, now I want to do the other... [repeat]&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">The secret is really building up from what the reader already knows with some minimal new, interesting thing and keep on like that 'til you've covered the ground you want to cover, stringing things together with transitions that give the reader the impression of one contiguous story. If you really want to get fancy, put a personal anecdote at the front that you use as an analogy, bring it up a few times during the piece and then wrap up with something clever that ties the your anecdote together with the ground you've covered by extending the analogy in a humorous way (but that's optional).&lt;/p></content>
+  </entry>
+</feed>

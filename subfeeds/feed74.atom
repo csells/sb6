@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed74.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed73.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed75.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed74.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1375</id>
+    <title>Great Minds...</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Here. I love Luke's RSS Aggregator [1]. He loves my book. For what more could a man ask? [1] I just tried the lastest RSS Bandit -- don't get me started... </summary>
+    <content type="html">&lt;h1>Great Minds...&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/ref=cm_cr_dp_2_1/102-2845167-5494548?v=glance&amp;s=books&amp;vi=customer-reviews&amp;me=ATVPDKIKX0DER">Here&lt;/a>. &lt;P>I love &lt;A href="http://www.sharpreader.net">Luke's RSS Aggregator&lt;/A> [1]. &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321116208/ref=cm_cr_dp_2_1/102-2845167-5494548?v=glance&amp;amp;s=books&amp;amp;vi=customer-reviews&amp;amp;me=ATVPDKIKX0DER">He loves my book&lt;/A>. For what more could a man ask?&lt;/P>
+&lt;P>[1] I just tried the lastest RSS Bandit -- don't get me started...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1372</id>
+    <title>Apparently .NET Is About Developer Love</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Don Box always used to say that COM Is Love, although I'm pretty sure he'd agreed that we've long since given up COM for a new trophy technology.NET which, apparently, is about developer love. One guy spent 17 years doing COBOL. I think he needs our love most of all...</summary>
+    <content type="html">&lt;h1>Apparently .NET Is About Developer Love&lt;/h1>
+Don Box always used to say that COM Is Love, although I'm pretty sure he'd agreed that we've long since given up COM for a new trophy technology &lt;A href="http://www.microsoft.com/australia/msdn/developer/developerlove.aspx">.NET which, apparently, is about &lt;EM>developer&lt;/EM> love&lt;/A>. One guy spent 17 years doing COBOL. I think he needs our love most of all...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1374</id>
+    <title>A 3-Part, 3-Day Weekend XAML Quiz</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Ian posted a fun little snippet of XAML showing off the new support for image effects on anything that Avalon renders, not just images : &amp;lt;FlowPanel xmlns="http://schemas.microsoft.com/2003/xaml" &amp;nbsp; xmlns:def="Definition" Text.FontSize="24"&amp;gt; &amp;nbsp; &amp;lt;Text&amp;gt;This seems clear enough.&amp;lt;/Text&amp;gt; &amp;nbsp; &amp;lt;Text&amp;gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;Text.ImageEffect&amp;gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;ImageEffectBlur Radius="3"/&amp;gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/Text.ImageEffect&amp;gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; This is c...</summary>
+    <content type="html">&lt;h1>A 3-Part, 3-Day Weekend XAML Quiz&lt;/h1>
+&lt;P>Ian posted &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/05/27/imageeffects">a fun little snippet of XAML showing off the new support for image effects on anything that Avalon renders, not just images&lt;/A>:&lt;/P>
+&lt;P>&amp;lt;FlowPanel xmlns="http://schemas.microsoft.com/2003/xaml"&lt;BR>&amp;nbsp; xmlns:def="Definition" Text.FontSize="24"&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;Text&amp;gt;This seems clear enough.&amp;lt;/Text&amp;gt;&lt;BR>&amp;nbsp; &amp;lt;Text&amp;gt;&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;B>&amp;lt;Text.ImageEffect&amp;gt;&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;ImageEffectBlur Radius="3"/&amp;gt;&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/Text.ImageEffect&amp;gt;&lt;/B>&lt;BR>&amp;nbsp;&amp;nbsp;&amp;nbsp; This is considerably less clear.	&lt;BR>&lt;STRONG>&amp;nbsp; &amp;lt;/Text&amp;gt;&lt;BR>&lt;/STRONG>&amp;lt;/FlowPanel&amp;gt;&lt;/P>
+&lt;P>I've rewritten it using a more compact syntax:&lt;/P>
+&lt;P>&lt;STRONG>&amp;lt;Text ImageEffect="*ImageEffectBlur(Radius=3)"&amp;gt;&lt;BR>&lt;/STRONG>This is considerably less clear.&lt;BR>&lt;STRONG>&amp;lt;/Text&amp;gt;&lt;/STRONG>&lt;/P>
+&lt;OL>
+&lt;LI>For 1 free UUID, is this legal XAML? Why or why not?&lt;/LI>
+&lt;LI>For 2 free UUIDs, what other popular XAML construct uses the exact same syntax?&lt;/LI>
+&lt;LI>For 3 free UUIDs, what popular C# construct has a similar syntax? How is it subtly different? (Hint: I'm not showing the difference in this example.)&lt;/LI>&lt;/OL></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1369</id>
+    <title>Can The Movie Be As Good As This Trailer?</title>
+    <updated>2004-05-27T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-05-27T07:00:00.000Z</published>
+    <summary>I get to read all of Eric Sink's pieces before we publish them, so I got to follow the link to the trailer for Commedian before you guys did (although the movie's been out for 2 years, so you had a bit of a lead...). While I like Jerry Seinfield and I've placed this movie next on my NetFlix queue, I can't believe that it'll live up to the trailer.</summary>
+    <content type="html">&lt;h1>Can The Movie Be As Good As This Trailer?&lt;/h1>
+I get to read all of Eric Sink's pieces before we publish them, so I got to follow &lt;A href="http://www.apple.com/trailers/miramax/comedian.html">the link to the trailer for Commedian&lt;/A> before you guys did (although the movie's been out for 2 years, so you had a &lt;EM>bit&lt;/EM> of a lead...). While I like Jerry Seinfield and I've placed this movie next on my NetFlix queue, I can't believe that it'll live up to the trailer.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1368</id>
+    <title>The Friendliest Attack Fish</title>
+    <updated>2004-05-27T07:00:00.000Z</updated>
+    <published>2004-05-27T07:00:00.000Z</published>
+    <summary>As Don pointed out, I missed one of the new companies spawned by DevelopMentor alum: Barracuda.NET, a training company founded by two of the friendliest and funniest instructors you will ever meet (and to whom the Visual Basic community needs no introduction): Ted Pattison and Jason Masterman. Right now these two are specializing in SharePoint training, including remote training (I want to know how they do that!), but I expect them to branch out into all kinds of interesting stuff. </summary>
+    <content type="html">&lt;h1>The Friendliest Attack Fish&lt;/h1>
+&lt;P>&lt;A href="/1364">As Don pointed out&lt;/A>, I missed one of the new companies spawned by DevelopMentor alum: Barracuda.NET, a training company founded by two of the friendliest and funniest instructors you will ever meet (and to whom the Visual Basic community needs no introduction): &lt;A href="http://www.barracuda.net/aboutus.aspx">Ted Pattison and Jason Masterman&lt;/A>. Right now these two are specializing in SharePoint training, including remote training (I want to know how they do that!), but I expect them to branch out into all kinds of interesting stuff.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1363</id>
+    <title>Adding Meaning To Your Work</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>And while we're on companies formed by ex-DevelopMentorites, check out Relevance, LLC, a software contracting and content creation firm founded by Stuart Halloway and Justin Geghtland, the former DevelopMentor CTO and Head of IT, respectively. Justin was the co-author of the VB.NET version of Windows Forms book and Stuart did some very cool Gen&amp;lt;X&amp;gt; work, so I'm big fans of both of them. Relevance has been around for a while and are already doing all kinds of interesting projects, but if you can get the...</summary>
+    <content type="html">&lt;h1>Adding Meaning To Your Work&lt;/h1>
+And while we're on companies formed by ex-DevelopMentorites, check out &lt;A href="http://www.relevancellc.com/">Relevance, LLC, a software contracting and content creation firm&lt;/A> founded by &lt;A href="http://www.relevancellc.com/halloway.htm">Stuart Halloway&lt;/A> and &lt;A href="http://www.relevancellc.com/gehtland.htm">Justin Geghtland&lt;/A>, the former DevelopMentor CTO and Head of IT, respectively. Justin was the co-author of &lt;A HREF="/public/writing/wfbook">the VB.NET version of Windows Forms book&lt;/A> and Stuart did some very cool Gen&amp;lt;X&amp;gt; work, so I'm big fans of both of them. Relevance has been around for a while and are already doing all kinds of interesting projects, but if you can get them for your interesting project, you won't be sorry.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1365</id>
+    <title>O'Reilly Takes A First Look At the WinHEC Longhorn</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>Wei-Meng Lee takes a first look at the WinHEC build of Longhorn for O'Reilly. It's a user-centric look at Longhorn, but I learned stuff. : )</summary>
+    <content type="html">&lt;h1>O'Reilly Takes A First Look At the WinHEC Longhorn&lt;/h1>
+&lt;A href="http://www.windowsdevcenter.com/pub/a/windows/2004/05/18/longhorn.html">Wei-Meng Lee takes a first look at the WinHEC build of Longhorn&lt;/A> for O'Reilly. It's a user-centric look at Longhorn, but I learned stuff. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1362</id>
+    <title>Bringing More Than The Normal Pair Of Eyeballs</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>For of my most respected colleagues, Keith Brown, Fritz Onion, Aaron Skonnard and Mike Woodring, have split off from DevelopMentor to form PluralSight, a training and content creation company. Between the four of them, they've authored more than 10 books and 175 technical articles and have more than 50 years of collective experience in all many of technical pursuits in the Windows development community. Good luck, guys!</summary>
+    <content type="html">&lt;h1>Bringing More Than The Normal Pair Of Eyeballs&lt;/h1>
+For of my most respected colleagues, &lt;A href="http://www.pluralsight.com/keith.aspx">Keith Brown&lt;/A>, &lt;A href="http://www.pluralsight.com/fritz.aspx">Fritz Onion&lt;/A>, &lt;A href="http://www.pluralsight.com/aaron.aspx">Aaron Skonnard&lt;/A> and &lt;A href="http://www.pluralsight.com/mike.aspx">Mike Woodring&lt;/A>, have split off from DevelopMentor to form &lt;A href="http://www.pluralsight.com/default.aspx">PluralSight, a training and content creation company&lt;/A>. Between the four of them, they've authored more than 10 books and 175 technical articles and have more than 50 years of collective experience in all many of technical pursuits in the Windows development community. Good luck, guys!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1367</id>
+    <title>This Absolutely Boggles My Mind</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>Here. Steven Edwards is an OSS guy working with the Wine guys to build a new version of Windows from scratch called ReactOS. They've got 20-30 people, they've been working on it for a few years and they're 6-8 months away from getting client-side of networking to work to the point that it supports HTTP. Oh my god. Why would anyone want to waste time doing this? I don't even like to build my own autocomplete listbox when it's already been done and that's only about 12 lines of.NET code! Why the hell would an...</summary>
+    <content type="html">&lt;h1>This Absolutely Boggles My Mind&lt;/h1>
+&lt;a href="http://www.winehq.com/?interview=14">Here&lt;/a>. &lt;P>Steven Edwards is an OSS guy working with &lt;A href="http://www.winehq.com/">the Wine guys&lt;/A> to build a new version of Windows from scratch called &lt;A href="http://www.reactos.org/">ReactOS&lt;/A>. They've got 20-30 people, they've been working on it for a few years and they're 6-8 months away from getting client-side of networking to work to the point that it supports HTTP.&lt;/P>
+&lt;P>Oh my god.&lt;/P>
+&lt;P>Why would anyone want to waste time doing this? I don't even like to build my own autocomplete listbox when it's already been done and that's only about 12 lines of .NET code! Why the hell would anyone want to build Win32 all over again, let alone Win16 (what the Wine guys do)?!? We have all these programmers with all this free time and all they can think to do is to clone OSes and applications that have already been built? Why not add something new into the world?&lt;/P>
+&lt;P>I just don't get it...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1364</id>
+    <title>The Andera That Caught A Wang</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>As another company started by a DevelopMentor alumnus, Wangdera is the union of two consultants so perfect together, they actually got married (I believe it was a marriage arranged by their respective clients, but they've come to love each other : ). In addition to being an MIT grad (they turned me away), a DevelopMentor alumnus of great repute, one of the chief developers on the next-gen MSDN web infrastructure,&amp;nbsp; Craig is also the official, self-appointed&amp;nbsp;sellsbrothers.com grammar checker, which ...</summary>
+    <content type="html">&lt;h1>The Andera That Caught A Wang&lt;/h1>
+&lt;P>As another company started by a DevelopMentor alumnus, &lt;A href="http://wangdera.com/">Wangdera&lt;/A> is the union of two consultants so perfect together, they actually got married (I believe it was a marriage arranged by their respective clients, but they've come to love each other : ).&lt;/P>
+&lt;P>In addition to being an MIT grad (they turned me away), a DevelopMentor alumnus of great repute, one of the chief developers on the next-gen MSDN web infrastructure,&amp;nbsp;&lt;A HREF="/colophon/">Craig is also the official, self-appointed&amp;nbsp;sellsbrothers.com grammar checker&lt;/A>, which should be worth your business all by itself!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1366</id>
+    <title>Microsoft Car .NET</title>
+    <updated>2004-05-26T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-26T07:00:00.000Z</published>
+    <summary>If the reality is anything like the concept videos, I want it!</summary>
+    <content type="html">&lt;h1>Microsoft Car .NET&lt;/h1>
+If the reality is anything like the concept videos, &lt;A href="http://www.microsoft.com/automotive/windowsautomotive/connected.mspx">I want it&lt;/A>!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1361</id>
+    <title>Wesner on XAML as Documents (Again)</title>
+    <updated>2004-05-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-25T07:00:00.000Z</published>
+    <summary>As Wesner notes, the Longhorn SDK lists 3 distinct Avalon applications types : Windows/Forms apps, multi-page apps and documents. The beauty of Avalon is that it brings so many together, apps/documents, multi-window apps/multi-page apps, text/images/video/audio, 2D/3D, etc. And to answer Wesner, Microsoft will provide editing tools for Avalon beyond Notepad (someday...). </summary>
+    <content type="html">&lt;h1>Wesner on XAML as Documents (Again)&lt;/h1>
+&lt;P>&lt;A href="http://wesnerm.blogs.com/net_undocumented/2004/05/xaml_as_documen.html">As Wesner notes&lt;/A>, &lt;A href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/appcore/overviews/intro_app_development.aspx">the Longhorn SDK lists 3 distinct Avalon applications types&lt;/A>: Windows/Forms apps, multi-page apps and documents. The beauty of Avalon is that it brings so many together, apps/documents, multi-window apps/multi-page apps, text/images/video/audio, 2D/3D, etc. And to answer Wesner, Microsoft &lt;EM>will&lt;/EM> provide editing tools for Avalon beyond Notepad (someday...).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1360</id>
+    <title>&lt;h1>.NET Framework 2.0: BindingList&lt;T>&lt;/h1></title>
+    <updated>2004-05-25T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-25T07:00:00.000Z</published>
+    <summary>.NET Framework 2.0: BindingList After spending a bunch of time with various partial IBindingList implementations, I just stumbled onto a brand new one in the Visual Studio 2005 Community Technology Preview: BindingList&amp;lt;T&amp;gt;. It's not done yet, e.g. sorting doesn't work, but the model is certainly what you'd want, e.g. you create a BindingList&amp;lt;Person&amp;gt;, bind it to something smart, like a DataGrid or a DataGridView, and you're able to edit instances of your custom type or add or remove instances, as ...</summary>
+    <content type="html">&lt;h1>.NET Framework 2.0: BindingList&lt;T>&lt;/h1>
+&lt;P>After spending a bunch of time with various partial IBindingList implementations, I just stumbled onto a brand new one in the Visual Studio 2005 Community Technology Preview: &lt;STRONG>BindingList&amp;lt;T&amp;gt;&lt;/STRONG>. It's not done yet, e.g. sorting doesn't work, but the model is certainly what you'd want, e.g. you create a BindingList&amp;lt;Person&amp;gt;, bind it to something smart, like a DataGrid or a DataGridView, and you're able to edit instances of your custom type or add or remove instances, as well as search or sort instances, just like you'd need a custom implementation of IBindingList for today. Very nice.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12648</id>
+    <title>Post/Reply Alphabet Soup</title>
+    <updated>2004-05-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-25T07:00:00.000Z</published>
+    <summary>Newsgroups, mailing lists, web forums and blogs (with comments) are all very similar. Fundamentally, they'll all about posts and replies. Sometimes the posts are replicated to servers around the world, acccepting replies in the same way. Sometimes the posts are replicated to a set of subscribers via SMTP and replies come in via POP3. Sometimes the posts are part of a web page and provided via HTTP, using HTML forms to take replies. Sometimes the posts are served up via a centralized server using HTTP + RSS ...</summary>
+    <content type="html">&lt;h1>Post/Reply Alphabet Soup&lt;/h1>
+&lt;p>Newsgroups, mailing lists, web forums and blogs (with comments) are all very similar. Fundamentally, they'll all about posts and replies. Sometimes the posts are replicated to servers around the world, acccepting replies in the same way. Sometimes the posts are replicated to a set of subscribers via SMTP and replies come in via POP3. Sometimes the posts are part of a web page and provided via HTTP, using HTML forms to take replies. Sometimes the posts are served up via a centralized server using HTTP + RSS or HTML, accepting responses via HTML forms or the CommentAPI. Fundamentally, it's all the same thing, though: posts and replies. Why do I have to suffer with the limitations of any one of these protocols just to hang out with my friends to talk shop?&lt;/p>
+&lt;p>I don't like newsgroups because I don't like having a separate reader outside of my mail reader (and NewsGator ain't anywhere close to what I want yet). Plus, newsgroups are very susceptible to spam, although the MS newsgroups are carefully patrolled to kill it before it spreads.&lt;/p>
+&lt;p>I don't like web forums because I either have to poll the site (which RSS has cured me of) or the integration of the forum into my mail reader is limited to notification only. Plus, every single web forum has a vastly different UI and set of features and the inconsistencies bug me. On the other hand, web forums are pushing the envelope on features that I really want, like author and content ratings.
+I love mailing lists, but don't want to duplicate any of the WinFX newsgroups in mailing lists just yet to avoid fracturing the budding developer community.&lt;/p>
+&lt;p>Blogs are wonderful, of course, and RSS is the only thing that's worth me spinning up a whole separate reader than my mail reader, but it's impossible to follow a thread of conversation between blogs or comments on other people's blogs. On the other hand, the server-per-poster model is great because I can just subscribe to the posters that I like, increasing the signal to noise ratio substantially.&lt;/p>
+&lt;p>I think we should pack all of the features of mailing lists, newsgroups, web forums and blogs into a single backend and expose it via HTTP, NNTP, SMTP/POP3 and RSS as appropriate. Is it time for a new protocol that can be dumbed down to the existing protocols for the diehards that won't give up their readers of choice? Personally, I'd like to get everything via SMTP/POP3 except for my RSS feeds (although I don't know why -- maybe it's just that I can't seem to get a handle on a keyboard-only mode for RSS reading in NewsGator the way I can in SharpReader...).&lt;/p>
+&lt;a href="/1297">Discuss&lt;/a>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1358</id>
+    <title>bar</title>
+    <updated>2004-05-24T07:00:00.000Z</updated>
+    <published>2004-05-24T07:00:00.000Z</published>
+    <summary>foo</summary>
+    <content type="html">&lt;h1>bar&lt;/h1>
+foo</content>
+  </entry>
+</feed>

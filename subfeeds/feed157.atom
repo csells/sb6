@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed157.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed156.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed158.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed157.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/12575</id>
+    <title>Attracting and Keeping Good Folks</title>
+    <updated>2002-09-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-09-04T07:00:00.000Z</published>
+    <summary>A friend of mine requested an essay on my thoughts of attracting and keeping good employees. I've had the privilege of working with some of the best and the brightest over the years and seeing how companies hire and keep them. My take is that companies that attract the best do so with a reputation of excellence. As one example, Google has kick-ass technology, so I'm sure most of you want to work there (I know I do : ). On the other hand, there are plenty of companies that have a reputation for buggy, unusab...</summary>
+    <content type="html">&lt;h1>Attracting and Keeping Good Folks&lt;/h1>
+
+        &lt;p>A friend of mine requested an essay on my thoughts of attracting and 
+        keeping good employees. I've had the privilege of working with some of 
+        the best and the brightest over the years and seeing how companies hire 
+        and keep them. My take is that companies that attract the best do so 
+        with a reputation of excellence. As one example, Google has kick-ass 
+        technology, so I'm sure most of you want to work there (I know I do : ). 
+        On the other hand, there are plenty of companies that have a reputation 
+        for buggy, unusable software that turn us off, all without ever hearing 
+        about the salary and benefits package.&lt;/p>
+        &lt;p>If you can attract good folks, you'll also attract lots of mediocre 
+        folks and some not-so-good folks. There are all kinds of ways to screen 
+        these folks out. My 
+        favorite is to ask them &amp;quot;why?&amp;quot; questions. If they can tell me the name 
+        of the operator that appears as a colon between the last paren of a C++ 
+        constructor signature declaration and the opening curly place, that's 
+        great. But if they can tell me why C++ has it, and why Java and C# 
+        doesn't, they're hired. Of course, I let the interview candidate pick 
+        their own area of expertise and ask them questions about what they know 
+        best to see how deeply they've gone in their explorations. The ability 
+        to figure out the &amp;quot;why&amp;quot; is a 
+        necessary skill for folks that you're going to trust to take vague 
+        requirements and come up with Google-like results in an environment 
+        where no two consecutive projects use the same set of technologies (or 
+        even similar ones, increasingly).&lt;/p>
+        &lt;p>To select for personality, as well as technology, I  like to whip
+        &lt;a href="http://staffingworld.com/intervie.htm">behavior 
+        interviewing&lt;/a> questions on folks. Instead of sketching a situation 
+        for an interviewee, e.g. &amp;quot;how would you deal with conflict in the work 
+        place?&amp;quot;, behavioral interview questions ask people to remember real 
+        situations they've been in and how they reacted, e.g. &amp;quot;Imagine a time 
+        when you had conflict in the work place. How did you handle it?&amp;quot; 
+        Everyone knows the right way to handle conflict in the work place, but 
+        far fewer of them have handled it properly when it actually happened. 
+        The idea of behavioral interviewing is that past behavior indicates 
+        future behavior, so if you don't like that your candidate punched his 
+        last manager in the nose, that's something to find out up front.&lt;/p>
+        &lt;p>Once a good person has been hired,
+        &lt;span style="font-size: 12.0pt; font-family: Times New Roman; color: black">
+        keeping them is a matter of paying them what they're worth, letting them do what they're good at, 
+        helping them get better at what they're not so good at, making sure you 
+        don't waste their time on stuff that doesn't matter, showing 
+        appreciation for a job well done and otherwise staying the hell out of their way.&lt;/span>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/219</id>
+    <title>Web Services Plumbing Work Nearly Completed</title>
+    <updated>2002-09-02T07:00:00.000Z</updated>
+    <published>2002-09-02T07:00:00.000Z</published>
+    <summary>Here. At a recent talk at XML Web Services One, Don says that a lot of the plumbing work is winding down and that applications are about to take center stage as they have the basic bits they need to really work well. Of course, he says that we still have a couple more years of plumbing work to "finish up", but Don's a long thinker. : )</summary>
+    <content type="html">&lt;h1>Web Services Plumbing Work Nearly Completed&lt;/h1>
+&lt;a href="http://www.theregister.co.uk/content/23/26899.html">Here&lt;/a>. At a recent talk at XML Web Services One, Don says that a lot of the plumbing work is winding down and that applications are about to take center stage as they have the basic bits they need to really work well. Of course, he says that we still have a couple more years of plumbing work to "finish up", but Don's a long thinker. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/218</id>
+    <title>ASP.NET View State Decoder</title>
+    <updated>2002-09-02T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-02T07:00:00.000Z</published>
+    <summary>Here. "Have you ever wondered what was *really* stored in the view state of your.aspx pages? Well, now you can find out with the free view state decoder utility [1]. Just type in the URL of the page whose view state you would like to decode, and view the contents of the view state through a tree-view, as raw text, or as parsed XML. You can also copy and paste the view state string by hand to decode it. For a screenshot of this utility in action, check out: http://staff.develop.com/onion/images/decoderscreen...</summary>
+    <content type="html">&lt;h1>ASP.NET View State Decoder&lt;/h1>
+&lt;a href="http://www.develop.com/devresources/resourcedetail.aspx?type=t&amp;id=827">Here&lt;/a>. "Have you ever wondered what was *really* stored in the view state of your .aspx pages? Well, now you can find out with the free view state decoder utility [1]. Just type in the URL of the page whose view state you would like to decode, and view the contents of the view state through a tree-view, as raw text, or as parsed XML. You can also copy and paste the view state string by hand to decode it. For a screenshot of this utility in action, check out: http://staff.develop.com/onion/images/decoderscreenshot.gif"
+
+I've used this and loved it. It works a treat!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/217</id>
+    <title>"Spend a Day with .NET" Judges Judging</title>
+    <updated>2002-09-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-09-01T07:00:00.000Z</published>
+    <summary>Here. Thanks for the submissions, folks! People reported exhaustion after spending 24 hours rushing to finish their entries, but uniformly thanked me for having them do it (and thus the power of.NET is revealed : ). The judges are judging and I will the results as soon as I have them.</summary>
+    <content type="html">&lt;h1>"Spend a Day with .NET" Judges Judging&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. Thanks for the submissions, folks! People reported exhaustion after spending 24 hours rushing to finish their entries, but uniformly thanked me for having them do it (and thus the power of .NET is revealed : ).
+
+The judges are judging and I will the results as soon as I have them.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/215</id>
+    <title>Spout -- Development for Developers</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>Here. "I got an email today from David, who says, 'So, I am looking to see what I can do to develop my skills as a designer. The trouble that I have, is simple. Where does a programmer that is over 40 years old, with a good job, and a good family turn to to learn something like this?'"</summary>
+    <content type="html">&lt;h1>Spout -- Development for Developers&lt;/h1>
+&lt;a href="/12576">Here&lt;/a>. "I got an email today from David, who says, 'So, I am looking to see what I can do to develop my skills as a designer. The trouble that I have, is simple. Where does a programmer that is over 40 years old, with a good job, and a good family turn to to learn something like this?'"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/213</id>
+    <title>Day w/ .NET: Join us on IRC undernet channel #c#</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>Here. Download mIRC, connect to a "Random US/EN Undernet Server" and join the "#c#" channel (it may not be listed).</summary>
+    <content type="html">&lt;h1>Day w/ .NET: Join us on IRC undernet channel #c# &lt;/h1>
+&lt;a href="http://www.mirc.com/get.html">Here&lt;/a>. Download mIRC, connect to a "Random US/EN Undernet Server" and join the "#c#" channel (it may not be listed).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12576</id>
+    <title>Development for Developers</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>I got an email today from David, who says, &amp;quot;So, I am looking to see what I can do to develop my skills as a designer. The trouble that I have, is simple. Where does a programmer that is over 40 years old, with a good job, and a good family turn to to learn something like this?&amp;quot; David, developing in any career means taking risks, trying new things, making mistakes. Some specific things you can do to improve your developer/designer skills include: Examine your goals. Do you want to be a better coder...</summary>
+    <content type="html">&lt;h1>Development for Developers&lt;/h1>
+        &lt;p>I got an email today from David, who says, &lt;b>&amp;quot;So, I am looking to 
+        see what I can do to develop my skills as a designer. The trouble that I 
+        have, is simple. Where does a programmer that is over 40 years old, with 
+        a good job, and a good family turn to to learn something like this?&amp;quot;&lt;/b>&lt;/p>
+        &lt;p>David, developing in any career means taking risks, trying new 
+        things, making mistakes. Some specific things you can do to improve your 
+        developer/designer skills include:&lt;/p>
+        &lt;ul>
+          &lt;li>&lt;b>Examine your goals.&lt;/b> Do you want to be a better coder, a 
+          better designer, a better tester? What's better to you? Fewer lines of 
+          code? More lines of code? Faster code? More readable code? More 
+          documentation of code/design? More thorough designs? More testable 
+          code? More unit tests? Set yourself a list of goals and examine it on 
+          a regular basis to keep yourself on track.&lt;/li>
+          &lt;li>Read some books and articles, like Writing Solid Code, and &lt;b>re-write some of 
+          your own code using the techniques you've read&lt;/b>.&lt;/li>
+          &lt;li>Pick your favorite feature in your favorite application. Design 
+          it. Implement it.&lt;/li>
+          &lt;li>&lt;b>Read and review other peoples code&lt;/b> to see what they do, 
+          especially in languages and task you're unfamiliar with to get a 
+          different point of view.&lt;/li>
+          &lt;li>Pick a bug out of the bug database. Find the real cause. Find the 
+          implementation mistake that caused it. Find the design mistake that 
+          caused it. Change the implementation and/or design to find other 
+          similar bugs in your code base. &lt;b>Change the design/implementation to 
+          make similar bugs impossible in the future.&lt;/b>&lt;/li>
+          &lt;li>Run a code review to &lt;b>get your peers' feedback on your code&lt;/b>.&lt;/li>
+          &lt;li>Get together with a group of developers at your job for &lt;b>weekly 
+          lunch lectures&lt;/b>. Teaching someone is a great way to learn.&lt;/li>
+          &lt;li>&lt;b>Take the time to really do something &amp;quot;right.&amp;quot;&lt;/b> You can't 
+          always do this due to other real-world constraints, but if you never 
+          do it, you're much less likely to get things right in the future.&lt;/li>
+          &lt;li>&lt;b>Take the time to follow your &amp;quot;fetishes.&amp;quot;&lt;/b> I can't tell you 
+          how often I've followed up on something that didn't have anything to 
+          do with what I was doing, but I just couldn't leave it alone, and then 
+          it dove-tailed with something else I needed to do almost immediately. 
+          Most of this web site is a result of following this advice.&lt;/li>
+          &lt;li>&lt;b>Attend a conference&lt;/b> and ask a lot of questions. Really 
+          drill the speakers to make sure you &amp;quot;get it&amp;quot; (especially if it's me : 
+          ).&lt;/li>
+          &lt;li>&lt;b>Write an article on something&lt;/b> and send it around to your peers or 
+          put it up on the web. Writing about something is the only thing I can 
+          think of that's better than teaching as a way for you to learn.&lt;/li>
+          &lt;li>Hang out on the mailing lists and news groups, but only answer 
+          questions you don't know the answers to. &lt;b>Don't worry about being 
+          wrong and thank everyone who shows you when you are.&lt;/b>&lt;/li>
+          &lt;li>Write a hunk of freeware/shareware/open source software and &lt;b>put 
+          your software up on the web&lt;/b> along with an installer and documentation. Maintain it.&lt;/li>
+          &lt;li>&lt;b>Find yourself a mentor.&lt;/b> Ask lots of questions and get them 
+          to review your work. I've had a number of mentors of my own over the 
+          years (Mike Woodring, Paul Crutcher, Don Box, Tim Ewald, John Robbins) 
+          and it's made a world of difference.&lt;/li>
+        &lt;/ul>
+        &lt;p>If you'd like some &amp;quot;hands on&amp;quot; guidance to improve your skills as a 
+        developer, I'm available as a mentor. I've 
+        mentored a number of folks over the years and they've had
+        some nice things to say about the 
+        process. But don't feel you need me to take advantage of  these tips. &lt;b>Take risks, try new things, make mistakes.&lt;/b>&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/212</id>
+    <title>Today's the Day to Spend with .NET!</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>Here. </summary>
+    <content type="html">&lt;h1>Today's the Day to Spend with .NET!&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/214</id>
+    <title>A Roadmap to the Recently Released Windows APIs</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>Here. "There is a common belief among programmers--particularly those disinclined to believe the truth of anything coming out of Redmond--that Windows is full of 'secret functions.' These functions, so the story goes, are used by Microsoft to prevent independent reimplementation of its operating system and to give its own applications programmers an extra advantage. With the August 2002 release of its Platform SDK, Microsoft is complying with the terms of the consent decree it signed with the Department of ...</summary>
+    <content type="html">&lt;h1>A Roadmap to the Recently Released Windows APIs&lt;/h1>
+&lt;a href="http://www.oreillynet.com/pub/a/dotnet/2002/08/28/winapi.html">Here&lt;/a>. "There is a common belief among programmers--particularly those disinclined to believe the truth of anything coming out of Redmond--that Windows is full of 'secret functions.' These functions, so the story goes, are used by Microsoft to prevent independent reimplementation of its operating system and to give its own applications programmers an extra advantage. With the August 2002 release of its Platform SDK, Microsoft is complying with the terms of the consent decree it signed with the Department of Justice in November 2001. ... If you are one of the people who harbor suspicions against Microsoft, then you're not likely to be convinced that the recent release has changed anything. For a lot of the rest of us, including shell integration programmers, cryptographers and the terminally curious, the new information is fascinating and potentially useful, although not always as complete as we'd like."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/211</id>
+    <title>Practical VoIP Using VOCAL</title>
+    <updated>2002-08-30T07:00:00.000Z</updated>
+    <published>2002-08-30T07:00:00.000Z</published>
+    <summary>Here. From Razvan Caciula: Voice over IP in a free phone system, free source code. You can make calls now! :) It is not just theory. Good book!
+</summary>
+    <content type="html">&lt;h1>Practical VoIP Using VOCAL &lt;/h1>
+&lt;a href="http://www.oreilly.com/catalog/voip/">Here&lt;/a>. From Razvan Caciula: Voice over IP in a free phone system, free source code. You can make calls now! :) It is not just theory. Good book!
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/208</id>
+    <title>VC++ Jacket for the Best Managed C++ Entry</title>
+    <updated>2002-08-29T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-08-29T07:00:00.000Z</published>
+    <summary>Here. Things are still heating up in the prize category. Not only has O'Reilly just donated a year subscription of Safari, along with a bunch of.NET book packs, but Nick Hodapp, a PM on the VC++ team at Microsoft, has just donated a VC++ Jacket to the best "Spend A Day With.NET" coding contest entry that's written in Managed C++. The anticipation is killing me!</summary>
+    <content type="html">&lt;h1>VC++ Jacket for the Best Managed C++ Entry&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. Things are still heating up in the prize category. Not only has O'Reilly just donated a year subscription of Safari, along with a bunch of .NET book packs, but Nick Hodapp, a PM on the VC++ team at Microsoft, has just donated a VC++ Jacket to the best "Spend A Day With .NET" coding contest entry that's written in Managed C++. The anticipation is killing me!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/207</id>
+    <title>"Spend A Day With .NET" Tomorrow!</title>
+    <updated>2002-08-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-29T07:00:00.000Z</published>
+    <summary>Here. I've heard from folks from all over the world that are using tomorrow as an opportunity to either dive into.NET for the first time or to build their pet project with.NET. People are splitting into teams, designing their entries and looking for 3rd party libraries to get them started, all without writing a single line of code until the stroke of midnight on the morning of August 30th in their local time zone. The competition is fierce, and while the prizes seem to have attracted people’s attention, I t...</summary>
+    <content type="html">&lt;h1>"Spend A Day With .NET" Tomorrow!&lt;/h1>
+&lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. I've heard from folks from all over the world that are using tomorrow as an opportunity to either dive into .NET for the first time or to build their pet project with .NET. People are splitting into teams, designing their entries and looking for 3rd party libraries to get them started, all without writing a single line of code until the stroke of midnight on the morning of August 30th in their local time zone. The competition is fierce, and while the prizes seem to have attracted people’s attention, I think it’s the competition that is getting folks excited. Should be fun! : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/206</id>
+    <title>Newsletters Are Hard!</title>
+    <updated>2002-08-29T07:00:00.000Z</updated>
+    <published>2002-08-29T07:00:00.000Z</published>
+    <summary>Here. "As I write this, several thousand emails are being sent to the initial list of SellsBrothers News newsletter subscribers. My motive (to let folks know what was happening on the site without having to visit every day) was pure, but if I would have know how hard it was going to be to set the thing up, I don't that I would have started."</summary>
+    <content type="html">&lt;h1>Newsletters Are Hard!&lt;/h1>
+&lt;a href="/12577">Here&lt;/a>. "As I write this, several thousand emails are being sent to the initial list of SellsBrothers News newsletter subscribers. My motive (to let folks know what was happening on the site without having to visit every day) was pure, but if I would have know how hard it was going to be to set the thing up, I don't that I would have started."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/210</id>
+    <title>free .NET development environment</title>
+    <updated>2002-08-29T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-08-29T07:00:00.000Z</published>
+    <summary>Here. From Hussein: As a Java developer, I was curious about the release of C#. Unfortunately, the list price of more than $1,000 for Microsoft’s developer environment, Visual Studio.NET, extinguished the appeal. I wanted to play with the language, but I couldn’t afford the investment. Thankfully, I discovered a free.NET development environment called SharpDevelop.
+</summary>
+    <content type="html">&lt;h1>free .NET development environment&lt;/h1>
+&lt;a href="http://builder.com.com/article_guest.jhtml?id=u00220020821ton01.htm">Here&lt;/a>. From Hussein: As a Java developer, I was curious about the release of C#. Unfortunately, the list price of more than $1,000 for Microsoft’s developer environment, Visual Studio .NET, extinguished the appeal. I wanted to play with the language, but I couldn’t afford the investment. Thankfully, I discovered a free .NET development environment called SharpDevelop.
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12577</id>
+    <title>Newsletters Are Hard!</title>
+    <updated>2002-08-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-08-28T07:00:00.000Z</published>
+    <summary>As I write this, several thousand emails are being sent to the initial list of SellsBrothers News newsletter subscribers. My motive (to let folks know what was happening on the site without having to visit every day) was pure, but if I would have know how hard it was going to be to set the thing up, I don't that I would have started. It began with a simple form on the web site to take people's email addresses, which were in turn emailed to me and sorted into a Outlook folder. When that reached a couple thou...</summary>
+    <content type="html">&lt;h1>Newsletters Are Hard!&lt;/h1>
+
+        &lt;p>As I write this, several thousand emails are being sent to the 
+        initial list of SellsBrothers News newsletter subscribers. My motive (to 
+        let folks know what was happening on the site without having to visit 
+        every day) was pure, but if I would have know how hard it was going to 
+        be to set the thing up, I don't that I would have started.&lt;/p>
+        &lt;p>It began with a simple form on the web site to take people's email 
+        addresses, which were in turn emailed to me and sorted into a Outlook 
+        folder. When that reached a couple thousand without yet having sent out 
+        a single issue, I figured it was time to put it into a real database. 
+        So, which a bit of data cleaning through VS.NET and Excel to get the 
+        dates right, I plunked it into an Access that would serve as the 
+        repository on my ISP-managed site. That was all fine and dandy but for 
+        one problem: I had to send emails using the data from my own machine, 
+        not the machine with my live site (and therefore the latest subscriber 
+        data). Did I really want to download an Access database from my ISP 
+        every time I needed to send a newsletter? It won't be often, I admit, 
+        but that still seems wrong, doesn't it?&lt;/p>
+        &lt;p>So, I paid the extra $10/month to get SQL Server support on my site 
+        and worked with a friend of mine (&lt;a href="http://www.crutchers.com/" style="color: blue; text-decoration: underline; text-underline: single">Paul 
+        Crutcher&lt;/a>) to build the form to take name, email address and HTML vs. 
+        Text settings. Except it's not just one form. To make sure that folks 
+        aren't subscribing other folks, we send out a confirmation email with an 
+        URL in it that updates the database and shows another form indicating 
+        whether that worked or not. Then, in case anyone changed their mind, we 
+        needed another form to change subscription settings along with another 
+        form letting them know that their changes were made. Of course, before 
+        we could let them change their settings, we needed to let them log in, 
+        which was another form. And, if they forgot their password, they need 
+        another form so that they can enter their email address and we can send 
+        it to them. Further, if the worst happens and they tire of my musings, 
+        they need to be able to unsubscribe themselves.&lt;/p>
+        &lt;p>Not only did Paul build all of these forms, but he built them in two 
+        parts, a form part and a control part, so that I could update the form 
+        part to have the sellsbrothers.com look 'n' feel, while leaving the real 
+        logic in the control part untouched (and potentially reusable). All in 
+        all, just letting folks manage their newsletter subscriptions was 46 
+        hunks of HTML packaged as .htm, .aspx and .ascx files. 46! I would have 
+        downloaded something and integrated it, but I never found anything to do 
+        the job (and this is where I get a hundred emails showing me the error 
+        of my ways... : ).&lt;/p>
+        &lt;p>Of course, all that user-managed subscription work was to avoid one 
+        thing: angry emails. I didn't want folks who'd forgotten they subscribed 
+        many months ago or, worse, folks that were subscribed implicitly from 
+        other activities like the &lt;a href="/conference">DevCon&lt;/a>, to find 
+        themselves on a list with no way to get off of it except for sending me 
+        angry emails. That's just how insecure I am. : )&lt;/p>
+        &lt;p>So, after a few weeks of Paul and I working on the pages to do the 
+        administration for me, I thought that the hard part was over. I was 
+        wrong. While I did have an SQL database on my site, it was still nearly 
+        empty. There were some folks who were newly subscribed after the new 
+        code went live, but all of the folks who'd subscribed before then were 
+        stuck in an Access database. &amp;quot;That's OK,&amp;quot; I thought. &amp;quot;SQL Server and 
+        Access were made by the same folks. I'm sure I won't have any problems 
+        moving the data.&amp;quot; That was two weeks ago. It took tons of advice from my 
+        database friends (thanks
+        &lt;a href="http://staff.develop.com/bobb/" style="color: blue; text-decoration: underline; text-underline: single">
+        BobB&lt;/a> and
+        &lt;a href="http://www.adoguy.com/" style="color: blue; text-decoration: underline; text-underline: single">
+        ShawnW&lt;/a> and
+        &lt;a href="http://www.mcwtech.com/" style="color: blue; text-decoration: underline; text-underline: single">
+        BrianR&lt;/a>!), along with a final push from my brethren on the
+        &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/" style="color: blue; text-decoration: underline; text-underline: single">
+        Off Topic Mailing List&lt;/a> to get the data moved to the right place. The 
+        good news is that I got to polish my T-SQL skills a bit and I got to 
+        play with DTS and the Enterprise Manager (both very nice pieces of 
+        software).&lt;/p>
+        &lt;p>But that's not all. Once I had the subscribers in the database, I 
+        then had to send several thousand emails, sorted into folks that want 
+        HTML and folks that want Text, keeping track of bad email addresses. 
+        This time, I went looking for a commercial product to do the job. I 
+        figured that since my inbox was full of spam (&lt;a href="http://www.cloudmark.com">SpamNet 
+        is my new best friend!&lt;/a>), that there must be really great tools for 
+        sending emails by the boatload. And again, my friends on the Off Topic 
+        mailing list were there to help with a recommendation of the
+        &lt;a href="http://www.mailutilities.com/adr" style="color: blue; text-decoration: underline; text-underline: single">
+        Advanced Direct Remailer&lt;/a>. ADR is also a nice piece of software that 
+        comes out of the box configured &lt;i>almost &lt;/i>right, but not quite and 
+        the documentation has to be read very carefully. ADR is an SMTP server 
+        that takes mail from your mail client and forwards it to a list of folks 
+        based on who you sent it to. For example, you can send it to foo@localhost 
+        where &amp;quot;foo&amp;quot; is a mailbox that resolves to a list of email addresses in a 
+        text file or you can send it to bar@localhost where &amp;quot;bar&amp;quot; is a mailbox 
+        that resolves to a select statement from a database. That all works 
+        great, except if you get any of the settings at all wrong, ADR starts 
+        acting like a real email server and just tries to send the email to foo@localhost. 
+        Well, actually, it can't be foo@localhost for me, since I'm using 
+        Outlook XP, a marvel of software engineering that in it's infinite 
+        wisdom prohibits me from sending an email to a server without a &amp;quot;.&amp;quot; in 
+        it. So, I send an email to foo@127.0.0.1, which ends up in ADR, but the 
+        default settings only resolve requests sent to &amp;quot;localhost&amp;quot;, so ADR won't 
+        do the queries. However, it is talking to the built-in SMTP server on my 
+        machine (which I need for testing my web site before publishing it), so 
+        it looks like it's doing something, making it even harder to figure out 
+        what's going on, since I've never seen what ADR does when it works 
+        correctly.&lt;/p>
+        &lt;p>When I finally do get everything right and the emails are queued in 
+        ADR properly, I can tell it's going to take hours of 100% CPU 
+        utilization for the newsletter to get out, so I go on to something else. 
+        But I can't stay away for very long, so I'm constantly logging into the 
+        machine doing the sending via Terminal Services to check on the 
+        progress. With the CPU fully utilized, all the failed TS connections (I 
+        have to keep trying!) eventually crash the ADR machine, causing a panic 
+        as I reboot. I needed have worried. ADR has kept everything logged and 
+        picks up right where it left off before the crash. Truly an amazing 
+        piece of software.&lt;/p>
+        &lt;p>Why do I feel like &lt;a href="http://www.byte.com/">
+        Jerry Pournelle&lt;/a> all of a sudden?&lt;/p>
+        &lt;p>Now, as I'm drawing this missive to a close, I'm getting half a dozen 
+        emails from subscribers that wish to unsubscribe but can't because of 
+        the peculiarities of the imported data vs. what I tested against. So, 
+        the angry emails have started. Here's a particularly angry one:&lt;/p>
+        &lt;blockquote>
+          &lt;p>&lt;font face="Courier">Subject: Get me off your spam list&lt;/font>&lt;/p>
+          &lt;p>&lt;font face="Courier">You are too much of a hassle to remove, you 
+          lie about where you got my address, I do not trust you at all.&lt;br>
+          &lt;br>
+          I will prosecute you my every means possible if you do not remove my 
+          address from your database.&lt;br>
+          &lt;br>
+          If I find out you spread my address, I will go after you for that.&lt;/font>&lt;/p>
+        &lt;/blockquote>
+        &lt;p>Oh, well. I tried...&lt;/p>
+        </content>
+  </entry>
+</feed>

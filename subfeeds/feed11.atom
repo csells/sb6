@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed11.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed10.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed12.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed11.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2265</id>
+    <title>DSL DevCon: More Attendees Than Ever</title>
+    <updated>2009-03-30T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2009-03-30T07:00:00.000Z</published>
+    <summary>This year's DevCon for DSLs has 25% more attendees than any other previous DevCon. In this economy, I'm amazed by this. And it's not just people from the US or even the Pacific Northwest. Not only do we have people from all over the country, but folks are coming from Canada, the UK, Scotland, France, South America and one attendee, Tomas Petricek, a student at Charles University, is coming from the Czech Republic. Luckily, as we slide into home, there are still a scant few seats left if you'd like to regist...</summary>
+    <content type="html">&lt;h1>DSL DevCon: More Attendees Than Ever&lt;/h1>
+&lt;P>This year's &lt;a href="/conference">DevCon for DSLs&lt;/A> has 25% more attendees than any other previous DevCon. In this economy, I'm amazed by this.&lt;/P>
+&lt;P>And it's not just people from the US or even the Pacific Northwest. Not only do we have people from all over the country, but folks are coming from Canada, the UK, Scotland, France, South America and one attendee, Tomas Petricek, a student at Charles University, is coming from the Czech Republic.&lt;/P>
+&lt;P>Luckily, as we slide into home, there are still a scant few seats left if you'd like to &lt;a href="/public/conference/#Sign_Up!">register, but be quick before they're all gone&lt;/A>!&lt;/P>
+&lt;P>I so miss this conference. Why don't I do this more often?!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2264</id>
+    <title>InfoQ: Oslo news and content</title>
+    <updated>2009-03-26T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-03-26T07:00:00.000Z</published>
+    <summary>The nice folks over at InfoQ have been building up some Oslo content and reporting on Oslo news. Check it out! </summary>
+    <content type="html">&lt;h1>InfoQ: Oslo news and content&lt;/h1>
+&lt;P>The nice folks over at InfoQ have been &lt;A href="http://www.infoq.com/oslo">building up some Oslo content and reporting on Oslo news&lt;/A>. Check it out!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2263</id>
+    <title>Watch the Oslo Mix '09 Talk: Developing RESTful Services and Clients with "M"</title>
+    <updated>2009-03-23T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-03-23T07:00:00.000Z</published>
+    <summary>Here. Learn how Web developers can use "M", a new language for describing data, metadata and domain specific languages, to enhance RESTful services like HTTP, JSON, RSS/Atom, and more. Also see how "M" can be used on premise or in the cloud to achieve greater development productivity and to create more compelling customer experiences. Speakers: Douglas Purdy &amp;amp; Chris Sells</summary>
+    <content type="html">&lt;h1>Watch the Oslo Mix '09 Talk: Developing RESTful Services and Clients with "M"&lt;/h1>
+&lt;a href="http://videos.visitmix.com/MIX09/T11F">Here&lt;/a>. Learn how Web developers can use "M", a new language for describing data, metadata and domain specific languages, to enhance RESTful services like HTTP, JSON, RSS/Atom, and more. Also see how "M" can be used on premise or in the cloud to achieve greater development productivity and to create more compelling customer experiences. Speakers: Douglas Purdy &amp;amp; Chris Sells</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2262</id>
+    <title>Don’t Miss Doug and Chris Doing Their Mix ‘09 Talk Oslo-Style</title>
+    <updated>2009-03-18T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-03-18T07:00:00.000Z</published>
+    <summary>Here. Doug Purdy and Chris Sells will be giving their Mix '09 talk on Friday, March 20th at 9am in San Polo 3501. Doug will be talking about RESTful services and clients using "M", the language of "Oslo". Chris will be typing furiously trying to keep up. Come one, come all! Plus, free hugs from Doug to anyone that mentions this post!</summary>
+    <content type="html">&lt;h1>Don’t Miss Doug and Chris Doing Their Mix ‘09 Talk Oslo-Style&lt;/h1>
+&lt;a href="https://content.visitmix.com/2009/Sessions/">Here&lt;/a>. Doug Purdy and Chris Sells will be giving their Mix '09 talk on Friday, March 20th at 9am in San Polo 3501. Doug will be talking about RESTful services and clients using "M", the language of "Oslo". Chris will be typing furiously trying to keep up. Come one, come all! Plus, free hugs from Doug to anyone that mentions this post!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2261</id>
+    <title>Why I Hate My iPhone</title>
+    <updated>2009-03-15T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-03-15T07:00:00.000Z</published>
+    <summary>I've had an iphone for the last coupla weeks and there are some things that drive me crazy about it! The battery life is crazy short. I can't make it more than 6 hours on a charge. Good lord! Pandora, an app I dearly love, can't run in the background like the ipod app, so I can't do SMS, email, check my calendar, etc. while I'm listening. Are you kidding me? There's no tactile feedback on the keyboard, although the auto-correct is amazing ("let go, let iphone!"). There's no copy-paste. I've never used a sma...</summary>
+    <content type="html">&lt;h1>Why I Hate My iPhone&lt;/h1>
+&lt;IMG src="http://farm1.static.flickr.com/149/353633542_4f0a6d52fd_o.png" align=right> 
+&lt;P>I've had an iphone for the last coupla weeks and there are some things that drive me crazy about it!&lt;/P>
+&lt;UL>
+&lt;LI>The battery life is crazy short. I can't make it more than 6 hours on a charge. Good lord!&lt;/LI>
+&lt;LI>Pandora, an app I dearly love, can't run in the background like the ipod app, so I can't do SMS, email, check my calendar, etc. while I'm listening. Are you kidding me?&lt;/LI>
+&lt;LI>There's no tactile feedback on the keyboard, although the auto-correct is amazing ("let go, let iphone!").&lt;/LI>
+&lt;LI>There's no copy-paste. I've never used a smart phone that did, but I soooo want this feature!&lt;/LI>
+&lt;LI>There's no free out-of-the-box app for using my iphone as a laptop modem, which is something I really loved about my T-Mobile Dash.&lt;/LI>
+&lt;LI>I used to be able to use my T-Mobile account to get free wifi at Starbucks. Can I do the same with my AT&amp;amp;T account? I have the unlimited data option.&lt;/LI>
+&lt;LI>There's no turn-by-turn directions on the map app and easy re-routing when I go off route. It's so close; let's go all the way!&lt;/LI>&lt;/UL>
+&lt;P>And all of that pales in comparison to the single worst deficiency in the app-suite of the iphone for which I've found no good work-arounds; the calendar app is nearly worthless in a business environment:&lt;/P>
+&lt;UL>
+&lt;LI>There is no snooze, so I can't set an alert for 15 minutes and then 5 minutes before, then at the time, etc. In a meeting driven environment like Microsoft, the lack of snooze means that I'm actually missing meetings.&lt;/LI>
+&lt;LI>There is no way to invite other people to events. Further, if I create an event via Exchange so I can invite someone, I can't edit it on the iPhone.&lt;/LI>
+&lt;LI>I can't do a Reply All to an event to ask a question or let folks know I'm running a little late.&lt;/LI>
+&lt;LI>There is no detection of phone numbers or addresses in event locations or the body, which means I get no integration with the phone or map apps. This means that I'm memorizing phone numbers and addresses stored in events so I can enter them manually. I have a smart phone so I don't have to remember this stuff!&lt;/LI>
+&lt;LI>My appointments don't show on the home screen, so I have to constantly check the calendar app to see what my day is going to look like.&lt;/LI>&lt;/UL>
+&lt;P>The calendar app is the single thing that makes me miss my Dash. Someone please tell me there's a workaround to these issues! I'll pay!&lt;/P>
+&lt;P>The reason I list the things I hate about my iphone is because the list of things I love about it would be impossible to enumerate. I had a T-Mobile Dash for years and it went with me everywhere. It was as big a boost in my electronic lifestyle as my first laptop. After having a smart phone for contacts, email, music and surfing the web, I couldn't go back. Plus, I loved the Dash so much that I'd try a new phone every 6 months or so and then bring it back because it just didn't compare.&lt;/P>
+&lt;P>On the other hand, the iPhone replaced my Dash in 24 hours. I've been twittering iPhone development related apps. I've purchased&amp;nbsp;iphone charing cables for everywhere in my life where I sit for more than 5 minutes. I want&amp;nbsp;to integrate my iphone as closely into my car as possible.&lt;/P>
+&lt;P>They will pry my iphone out of my cold dead hands.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2259</id>
+    <title>Intro to Oslo in Dutch</title>
+    <updated>2009-03-14T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-14T07:00:00.000Z</published>
+    <summary>My Dutch is a little rusty, but RJ's Intro to Oslo screencast looks great to me. Good work, RJ. </summary>
+    <content type="html">&lt;h1>Intro to Oslo in Dutch&lt;/h1>
+&lt;P>My Dutch is a little rusty, but &lt;A href="http://www.inwit.nl/post/Oslo-talk-audio-recording-screencast-slide-deck.aspx">RJ's Intro to Oslo screencast&lt;/A> looks great to me. Good work, RJ.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2260</id>
+    <title>How I learned to Stop Worrying and Love the Twitter</title>
+    <updated>2009-03-14T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-03-14T07:00:00.000Z</published>
+    <summary>Scott Hanselman performed an intervention on me in the mall the other day. I was in denial and while I can't say I'm fully into acceptance, I'm at least past anger. : ) It took Scott 90 minutes and I fought him every step of the way, but I think I finally have a handle on what Twitter is. I've heard it described as a "24-hour virtual cocktail party," which always turned me off. I'll take a lake of fire any day over more than three strangers in a room with which I share no common task and with whom I'm expec...</summary>
+    <content type="html">&lt;h1>How I learned to Stop Worrying and Love the Twitter&lt;/h1>
+&lt;IMG src="http://www.hanselman.com/blog/content/binary/WindowsLiveWriter/HowToTwitter_12D9C/tour_1_3.gif" align=right> 
+&lt;P>&lt;A href="http://www.hanselman.com/blog/">Scott Hanselman&lt;/A> performed an intervention on me in the mall the other day. I was in denial and while I can't say I'm fully into acceptance, I'm at least &lt;A href="http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model">past anger&lt;/A>. : )&lt;/P>
+&lt;P>It took Scott 90 minutes and I fought him every step of the way, but I think I finally have a handle on what &lt;A href="http://twitter.com">Twitter&lt;/A> is. I've heard it described as a "24-hour virtual cocktail party," which always turned me off. I'll take a lake of fire any day over more than three strangers in a room with which I share no common task and with whom I'm expected to socialize. Making that into a 24-hour thing and including everyone in the world does not make this&amp;nbsp;more attractive to me.&lt;/P>
+&lt;P>And while that is one valid way to describe Twitter, the more attractive way for me to thing about it is as a single global chat room with conventions and tools to pull out the bits and pieces you want, i.e. the people to which you want to listen, the topics you care about, etc.&lt;/P>
+&lt;P>Except that's not right, either.&lt;/P>
+&lt;P>Instead, it's more like a poetry reading in a hippy bar where you're up on stage saying whatever comes into your head and the audience is generally ignoring you (because they're also on their own stage) except occasionally when they holler "yeah man! right on!" back at the stage.&lt;/P>
+&lt;P>And why is that cool?&lt;/P>
+&lt;P>Well, I can't speak for anyone else, but until Scott turned the light on in my head, it wasn't. Now I check Twitter (via &lt;A href="http://www.tweetdeck.com/">TweetDeck&lt;/A>) half a dozen times a day looking for direct messages first, then replies, then new search results (I search on my name, Oslo and DSL right now), then whatever's on top of my "All Friends." When I find someone that says something interesting about a topic I like, I follow them for a while til I decide they're saying mostly stuff I'm not interested in and then I unfollow.&lt;/P>
+&lt;P>The whole thing feels very much like what we used to do in email ("Look! Cute kiddie pictures!") and then in blogs ("Look! I have a blog!") before we figured out how to use it and what it was really for. I can't say I really know what Twitter is for yet, although I've been following Scott's advice, i.e. bigger, permanent stuff goes into blogs, transient stuff to a few people goes into email and transient stuff that goes to the hippy bar audience (i.e. the world) goes into Twitter.&lt;/P>
+&lt;P>I'm still very much learning and hardly anyone is following me (@csells), but that's OK. I'm already finding out who's in the Oslo community and have had lots of useful stuff on personal topics, too, e.g. sharing my iPhone love/hate. &lt;/P>
+&lt;P>Also, I have to say that I really love the social aspect -- I'm working alone at my house a lot and it's nice to have the world listening to every fool thing that comes into my head. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2258</id>
+    <title>Preview of Doug's "M" RESTful Services Talk at Mix</title>
+    <updated>2009-03-12T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-12T07:00:00.000Z</published>
+    <summary>Scott Hanselman got a preview of the talk that Doug is giving at Mix this year on RESTful services using "M", took some screen shots and did a nice write-up. Worth a quick look-over even if you're coming to the talk (which will be a hoot -- I'll be carrying Doug's bags on this one : ). </summary>
+    <content type="html">&lt;h1>Preview of Doug's "M" RESTful Services Talk at Mix&lt;/h1>
+&lt;P>Scott Hanselman got a preview of the talk that Doug is giving at Mix this year on RESTful services using "M", took some screen shots and did &lt;A href="http://www.hanselman.com/blog/MixGettingMyHeadAroundOsloMAndMGrammar.aspx">a nice write-up&lt;/A>. Worth a quick look-over even if you're coming to the talk (which will be a hoot -- I'll be carrying Doug's bags on this one : ).&lt;/P>&lt;IMG src="http://www.hanselman.com/blog/content/binary/WindowsLiveWriter/GettingmyheadaroundOsloMandMGrammer_C5C9/7_thumb.png"></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2257</id>
+    <title>BizTalk Application Deployment DSL</title>
+    <updated>2009-03-12T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-12T07:00:00.000Z</published>
+    <summary>Yossi Dahan has posted a most excellent DSL for building BizTalk application deployment scripts. Plus, he's created a most excellent project on codeplex for his bits. Most excellent!</summary>
+    <content type="html">&lt;h1>BizTalk Application Deployment DSL&lt;/h1>
+Yossi Dahan has posted &lt;A href="http://geekswithblogs.net/Connected/archive/2009/03/04/oslo-based-solution-for-deploying-biztalk-applications.aspx">a most excellent DSL for building BizTalk application deployment scripts&lt;/A>. Plus, he's created a most excellent &lt;a href="http://btsdf.codeplex.com/">project on codeplex for his bits&lt;/a>. Most excellent!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2256</id>
+    <title>OsloTool: GUI for the command line Oslo tools</title>
+    <updated>2009-03-06T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-06T08:00:00.000Z</published>
+    <summary>Bryan Sumter has posted a GUI app he built to run the Oslo command line tools for him: I'd love to see this integrated into Intellipad, Bryan! </summary>
+    <content type="html">&lt;h1>OsloTool: GUI for the command line Oslo tools&lt;/h1>
+&lt;P>Bryan Sumter has posted &lt;A href="http://michaelwolbert.nl/projects/Oslo/OsloTool.zip">a GUI app&lt;/A> he built to run the Oslo command line tools for him:&lt;/P>
+&lt;P>&lt;IMG src="http://img9.imageshack.us/img9/1353/oslotool.jpg">&lt;/P>
+&lt;P>I'd love to see this integrated into Intellipad, Bryan!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2255</id>
+    <title>Did you register for the DSL DevCon and not hear back?</title>
+    <updated>2009-03-05T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2009-03-05T08:00:00.000Z</published>
+    <summary>Apparently even more people have registered for the DSL DevCon than I thought. If you've sent a registration notice and having heard back from me, then you aren't registered. Please register again or email me directly: csells@microsoft.com. </summary>
+    <content type="html">&lt;h1>Did you register for the DSL DevCon and not hear back?&lt;/h1>
+&lt;P>Apparently even more people have registered for &lt;a href="/public/conference/">the DSL DevCon&lt;/A> than I thought. If you've sent a registration notice and having heard back from me, then you aren't registered. Please &lt;a href="/public/conference/#Sign_Up!">register again&lt;/A> or email me directly: &lt;A href="mailto:csells@microsoft.com">csells@microsoft.com&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2254</id>
+    <title>Self-Modifying DSL from Savas</title>
+    <updated>2009-03-05T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-05T08:00:00.000Z</published>
+    <summary>Leave it to Savas to invent a self-modifying DSL in MGrammar. You go, Savas! : )</summary>
+    <content type="html">&lt;h1>Self-Modifying DSL from Savas&lt;/h1>
+Leave it to &lt;A href="http://savas.parastatidis.name/">Savas&lt;/A> to invent &lt;A href="http://savas.parastatidis.name/2009/03/05/056eb478-f9ce-4453-a9cf-21d370981c42.aspx">a self-modifying DSL in MGrammar&lt;/A>. You go, Savas! : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2253</id>
+    <title>January 2009 "Oslo" SDK Refresh</title>
+    <updated>2009-03-04T08:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-03-04T08:00:00.000Z</published>
+    <summary>The "Oslo" team heard you! There was some "regression in the quality of the bits" in the Jan CTP from the PDC CTP that affected you guys in our 3-pane mode for grammar editing in Intellipad (aka the bits are worse than they used to be). It was just a sample, but it's so so useful, that language developers are using the hell out of it, which means they're running into "performance and robustness issues" (which means it was slow and crashed) and we've fixed the worst ones in the January 2009 "Oslo" SDK Refres...</summary>
+    <content type="html">&lt;h1>January 2009 "Oslo" SDK Refresh&lt;/h1>
+&lt;P>The "Oslo" team heard you! There was some "regression in the quality of the bits" in the Jan CTP from the PDC CTP that affected you guys in our 3-pane mode for grammar editing in Intellipad (aka the bits are worse than they used to be). It was just a sample, but it's so so useful, that language developers are using the hell out of it, which means they're running into "performance and robustness issues" (which means it was slow and crashed) and we've fixed the worst ones in the &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=f2f4544c-626c-44a3-8866-b2a9fe078956&amp;amp;displaylang=en">January 2009 "Oslo" SDK Refresh&lt;/A>.&lt;/P>
+&lt;P>You have to uninstall the three things that are called "Oslo" before you install and there are no new features or other changes -- this is just to make the 3-pane mode better.&lt;/P>
+&lt;P>Please &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=f2f4544c-626c-44a3-8866-b2a9fe078956&amp;amp;displaylang=en">bang on it&lt;/A>, &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">ask your questions&lt;/A> and &lt;A href="https://connect.microsoft.com/oslo">report your issues&lt;/A>. Thanks!&lt;/P>
+&lt;P>Oh, and 3-pane mode will be an official part of the product in future CTPs, so it will receive the same testing love as the rest of the project. We heard you!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2252</id>
+    <title>DSL DevCon: The 13th Talk</title>
+    <updated>2009-03-02T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2009-03-02T08:00:00.000Z</published>
+    <summary>Magnus Christerson, the Vice President of Product Management from Intentional Software Corp, founded by Charles Simonyi, is giving the very last talk at the DSL DevCon, so make sure to stick around! Also, seats are filling up FAST, faster than any of the other DevCons. Make sure to register now if you're coming! And don't forget, it's free! </summary>
+    <content type="html">&lt;h1>DSL DevCon: The 13th Talk&lt;/h1>
+&lt;P>Magnus Christerson, the Vice President of Product Management from Intentional Software Corp, founded by &lt;A href="http://en.wikipedia.org/wiki/Charles_Simonyi">Charles Simonyi&lt;/A>, is giving the very last talk at &lt;a href="/public/conference/">the DSL DevCon&lt;/A>, so make sure to stick around!&lt;/P>
+&lt;P>Also, seats are filling up FAST, faster than any of the other DevCons. Make sure to &lt;A HREF="/public/conference/#Sign_Up!">register now&lt;/A> if you're coming! And don't forget, it's free!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2251</id>
+    <title>DSL DevCon Speakers and Sessions Announced!</title>
+    <updated>2009-02-23T08:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2009-02-23T08:00:00.000Z</published>
+    <summary>Apparently there is quite a bit of pent up demand for this conference, as there were more than 50 session proposals for only 12 slots and we've already filled half the seats with just pre-registrations. Sessions include an M deep dive by Paul Vick, DSLs in Groovy by Guillaume Laforge, DSLs in Eclipse by Markus Voelter, a functional vs. dynamic DSLs smackdown by Ted Neward, &lt;A HREF="/public/conference/#A_DSL_for_Cool_Effects_in_Adobe_Pixel_Be</summary>
+    <content type="html">&lt;h1>DSL DevCon Speakers and Sessions Announced!&lt;/h1>
+&lt;P>Apparently there is quite a bit of pent up demand for this conference, as there were more than 50 session proposals for only 12 slots and we've already filled half the seats with just pre-registrations.&lt;/P>
+&lt;P>&lt;A HREF="/public/conference/#Schedule">Sessions&lt;/A> include an &lt;A HREF="/public/conference/#M_DSLs:_Deep_Dive">M deep dive&lt;/A> by &lt;A HREF="/public/conference/#Paul_Vick">Paul Vick&lt;/A>, &lt;A HREF="/public/conference/#How_to_implement_DSLs_with_Groovy">DSLs in Groovy&lt;/A> by &lt;A HREF="/public/conference/#Guillaume_Laforge">Guillaume Laforge&lt;/A>, &lt;A HREF="/public/conference/#Textual_DSLs_and_Code_Generation_with_Eclipse_Tools">DSLs in Eclipse&lt;/A> by &lt;A HREF="/public/conference/#Markus_Voelter">Markus Voelter&lt;/A>, &lt;A HREF="/public/conference/#Functional_vs._Dynamic_DSLs:_The_Smackdown">a functional vs. dynamic DSLs smackdown&lt;/A> by &lt;A HREF="/public/conference/#Ted_Neward">Ted Neward&lt;/A>, &lt;A HREF="/public/conference/#A_DSL_for_Cool_Effects_in_Adobe_Pixel_Bender">a DSL for Pixel Effects&lt;/A> from Adobe and last, but certainly not least, giving the keynote for the entire conference, the undisputed Duke of DSLs himself, &lt;A HREF="/public/conference/#Martin_Fowler">Maaaaaartin Foooooowler-er-er-er&lt;/A>!&lt;/P>
+&lt;P>Come to &lt;A href="http://www.langnetsymposium.com/">Lang.NET&lt;/A> and stay for &lt;A HREF="/public/conference/">the DSL DevCon&lt;/A> or just &lt;A HREF="/public/conference/">come to the DevCon&lt;/A>, but whatever you do, &lt;A HREF="/public/conference/#Sign_Up!">sign up for the FREE DSL DevCon right now&lt;/A>! All 5 of the other DevCons have sold out and I expect this one to be no different.&lt;/P></content>
+  </entry>
+</feed>

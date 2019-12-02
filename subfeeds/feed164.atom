@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed164.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed163.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed165.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed164.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/115</id>
+    <title>Autonomy.NET</title>
+    <updated>2002-06-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-28T07:00:00.000Z</published>
+    <summary>Here. "Chive Software have released Autonomy.NET - a continuous integration service for.NET. The tool was inspired by the excellent CruiseControl for Java and has been released under a BSD-style licence. "The current system has the following features: "o Is capable of handling multiple projects
+"o Polls CVS, initiates builds and emails results
+"o Is fully configurable via an XML file"</summary>
+    <content type="html">&lt;h1>Autonomy.NET&lt;/h1>
+&lt;a href="http://www.chive.com/products/autonomy">Here&lt;/a>. "Chive Software have released Autonomy.NET - a continuous integration service for .NET. The tool was inspired by the excellent CruiseControl for Java and has been released under a BSD-style licence.
+
+"The current system has the following features:
+
+"o Is capable of handling multiple projects
+"o Polls CVS, initiates builds and emails results
+"o Is fully configurable via an XML file"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/113</id>
+    <title>The Death of TCP/IP: Palladium</title>
+    <updated>2002-06-27T07:00:00.000Z</updated>
+    <published>2002-06-27T07:00:00.000Z</published>
+    <summary>Here. Robert X. Cringely: "If Microsoft is successful, Palladium will give Bill Gates a piece of every transaction of any type while at the same time marginalizing the work of any competitor who doesn't choose to be Palladium-compliant. So much for Linux and Open Source, but it goes even further than that. So much for Apple and the Macintosh." From what I know of the technologists at MS, I believe that Palladium will actually be a good thing. Watch-dogs like Cringely will help to make sure that it is.</summary>
+    <content type="html">&lt;h1>The Death of TCP/IP: Palladium&lt;/h1>
+&lt;a href="http://www.pbs.org/cringely/pulpit/pulpit20020627.html">Here&lt;/a>. Robert X. Cringely: "If Microsoft is successful, Palladium will give Bill Gates a piece of every transaction of any type while at the same time marginalizing the work of any competitor who doesn't choose to be Palladium-compliant. So much for Linux and Open Source, but it goes even further than that. So much for Apple and the Macintosh."
+
+From what I know of the technologists at MS, I believe that Palladium will actually be a good thing. Watch-dogs like Cringely will help to make sure that it is.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/114</id>
+    <title>Where Do You Find the Time?</title>
+    <updated>2002-06-27T07:00:00.000Z</updated>
+    <published>2002-06-27T07:00:00.000Z</published>
+    <summary>Here. "Real software engineering has so little to do with actual technology, it's kinda sad. I'm lucky. I only have to do the technology part. My question is, how do people with full-time jobs find the time to learn the technology?"</summary>
+    <content type="html">&lt;h1>Where Do You Find the Time?&lt;/h1>
+&lt;a href="/12580">Here&lt;/a>. "Real software engineering has so little to do with actual technology, it's kinda sad. I'm lucky. I only have to do the technology part. My question is, how do people with full-time jobs find the time to learn the technology?"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/112</id>
+    <title>Sun joins Microsoft on Web services security</title>
+    <updated>2002-06-27T07:00:00.000Z</updated>
+    <published>2002-06-27T07:00:00.000Z</published>
+    <summary>Here. "Sun Microsystems Inc. said Thursday it will join rivals Microsoft Corp. and International Business Machines Corp. in developing a technical standard to make sure Web services transactions are secure." As great as this announcement is, I have my doubts as to whether it will last. Sun and MS don't seem to like to play together.</summary>
+    <content type="html">&lt;h1>Sun joins Microsoft on Web services security&lt;/h1>
+&lt;a href="http://www.msnbc.com/news/770511.asp">Here&lt;/a>. "Sun Microsystems Inc. said Thursday it will join rivals Microsoft Corp. and International Business Machines Corp. in developing a technical standard to make sure Web services transactions are secure."
+
+As great as this announcement is, I have my doubts as to whether it will last. Sun and MS don't seem to like to play together.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/111</id>
+    <title>CoolBars.NET v. 1.1 released</title>
+    <updated>2002-06-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-27T07:00:00.000Z</published>
+    <summary>Here. "The suite is complete solution for toolbars and menus creation. Some features of the product: -Menus and toolbars.
+-Docking and floating.
+-Run-time customization.
+-Skins engine.
+-SDI and MDI support."</summary>
+    <content type="html">&lt;h1>CoolBars.NET v. 1.1 released&lt;/h1>
+&lt;a href="http://www.cooldev.com/coolbarsdotnet.html">Here&lt;/a>. "The suite is complete solution for toolbars and menus creation. Some features of the product:
+
+-Menus and toolbars.
+-Docking and floating.
+-Run-time customization.
+-Skins engine.
+-SDI and MDI support."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12580</id>
+    <title>Where Do You Find the Time?</title>
+    <updated>2002-06-27T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-06-27T07:00:00.000Z</published>
+    <summary>I had lunch with a couple of colleagues on the lecture circuit today and after they asked me what I was working on ( Genghis, the Web Services DevCon in October, ref-counting for Rotor, a few books, some consulting, etc), they asked where I found the time. Here's how: I work with a *ton* of very talented folks. The following are just the ones I'm remembering off the top of my head that I've been working with lately: Chris Tavares, Brad Wilson, Shawn Van Ness, Jon Flanders, Don Box, Tim Ewald, all the Web Se...</summary>
+    <content type="html">&lt;h1>Where Do You Find the Time?&lt;/h1>
+        &lt;p>I had lunch with a couple of colleagues on the lecture circuit today 
+        and after they asked me  what I was working on (&lt;a href="/public/tools/Genghis">Genghis&lt;/a>, the 
+        &lt;a href="/conference">Web Services DevCon&lt;/a> in October, 
+        &lt;a href="#refCountRotor">ref-counting for Rotor&lt;/a>, 
+        &lt;a href="/writing">a few books&lt;/a>, 
+        some consulting,  etc), they asked where I found the time. 
+        Here's how:&lt;/p>
+        &lt;ol>
+          &lt;li>I work with a *ton* of very talented folks. The following are just 
+          the ones I'm remembering off the top of my head that I've been working 
+          with lately: Chris Tavares, Brad Wilson, Shawn Van Ness, Jon Flanders, 
+          Don Box, Tim Ewald, all the Web Services DevCon speakers and staff, 
+          all the Genghis contributors, Tim Tabor, Michael Weinhardt, Microsoft, 
+          Dharma Shukla, Brian Harry, Chris Andersen, Mark Boulter, and, of course, all of my 
+          former DevelopMentor 
+          brethren.&lt;br>
+&amp;nbsp;&lt;/li>
+          &lt;li>But most importantly, I don't attend meetings or request vacations 
+          or approve vacations or attend meetings or receive reviews or give 
+          reviews or attend meetings (did I 
+          already say that?) or do any of the other things that employees have 
+          to do. Skipping these activities easily doubles or triples my 
+          productivity. Of course, I had to give up the steady paycheck to make 
+          it happen and it's not the life for everyone, but it works for me just 
+          fine. : )&lt;/li>
+        &lt;/ol>
+        &lt;p>Real software engineering has so little to do with actual technology, 
+        it's kinda sad. I'm lucky. I only have to do the technology part. My 
+        question is, how do people with full-time jobs find the time to learn 
+        the technology?&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/110</id>
+    <title>Creating a Design Surface in .NET</title>
+    <updated>2002-06-26T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-26T07:00:00.000Z</published>
+    <summary>Here. "Techniques used to create a GDI+-based design surface for the user to create and position various graphic elements within a Windows Forms control in Microsoft.NET. Includes downloadable sample code."</summary>
+    <content type="html">&lt;h1>Creating a Design Surface in .NET&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/?url=/library/en-us/dndotnet/html/designsurface.asp">Here&lt;/a>. "Techniques used to create a GDI+-based design surface for the user to create and position various graphic elements within a Windows Forms control in Microsoft .NET. Includes downloadable sample code."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/109</id>
+    <title>Final call for web services sessions/speakers</title>
+    <updated>2002-06-26T07:00:00.000Z</updated>
+    <published>2002-06-26T07:00:00.000Z</published>
+    <summary>Here. The current set of potential sessions and speakers for the Web Services DevCon East, October 10-11 in Boston is up. If you'd like to present, please send a title and abstract ASAP to csells@sellsbrothers.com.</summary>
+    <content type="html">&lt;h1>Final call for web services sessions/speakers&lt;/h1>
+&lt;a href="/public/conference/">Here&lt;/a>. The current set of potential sessions and speakers for the Web Services DevCon East, October 10-11 in Boston is up. If you'd like to present, please send a title and abstract ASAP to csells@sellsbrothers.com.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/106</id>
+    <title>Shared Source CLI Update</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Here. "This beta refresh continues the Rotor team's commitment to our growing community and we are very excited to watch the community develop and the source base evolve in new directions. There have been more than 30,000 downloads of the Shared Source CLI to date. I encourage you to download the latest Shared Source CLI archive and explore the possibilities it presents. Follow the links from the download page to explore the growing community."</summary>
+    <content type="html">&lt;h1>Shared Source CLI Update&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/downloads/default.asp?URL=/downloads/sample.asp?url=/msdn-files/027/001/901/msdncompositedoc.xml">Here&lt;/a>. "This beta refresh continues the Rotor team's commitment to our growing community and we are very excited to watch the community develop and the source base evolve in new directions.  There have been more than 30,000 downloads of the Shared Source CLI to date.  I encourage you to download the latest Shared Source CLI archive and explore the possibilities it presents.  Follow the links from the download page to explore the growing community."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/103</id>
+    <title>Objects vs. XML aka LISP and How History Repeats I</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Here. My Objects vs. XML rant drew some attention on the XML-DEV mailing list. This is a summary of that attention.</summary>
+    <content type="html">&lt;h1>Objects vs. XML aka LISP and How History Repeats I&lt;/h1>
+&lt;a href="http://aspn.activestate.com/ASPN/Mail/Message/xml-dev/1257759">Here&lt;/a>. My Objects vs. XML rant drew some attention on the XML-DEV mailing list. This is a summary of that attention.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/102</id>
+    <title>XML &amp; Inclusion</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Here. "I just read your 'Object vs. XML' post on the spout and I'd be pleased if you would allow me to respond with my own personal spoutlet. Here goes:"</summary>
+    <content type="html">&lt;h1>XML &amp; Inclusion&lt;/h1>
+&lt;a href="/12581">Here&lt;/a>. "I just read your 'Object vs. XML' post on the spout and I'd be pleased if you would allow me to respond with my own personal spoutlet. Here goes:"</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/101</id>
+    <title>The New Don Box Home Page</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Here. I think this one will stick for a while. : )</summary>
+    <content type="html">&lt;h1>The New Don Box Home Page&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/dbox/">Here&lt;/a>. I think this one will stick for a while. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12581</id>
+    <title>XML &amp; Inclusion</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>guest editorial by Don Box, Tue, Jun 25, 2002 Chris, I just read your &amp;quot;Object vs. XML&amp;quot; post on the spout and I'd be pleased if you would allow me to respond with my own personal spoutlet. Here goes: For much of the 1990's, I spent a lot of time writing COM code in C++. The combination of C++'s static type system + COM's dynamic type system was a very powerful combination that I am proud to have been involved with, even though my contributions to COM were from afar as a non-Microsoftie. In March of...</summary>
+    <content type="html">&lt;h1>XML &amp; Inclusion&lt;/h1>
+&lt;p>&lt;i>&lt;b>guest editorial by Don Box&lt;/b>, &lt;span class="created">Tue, Jun 25, 2002&lt;/span>&lt;/i>&lt;/p>
+        &lt;p>Chris, I just read your &amp;quot;Object vs. XML&amp;quot; post on the spout and I'd be 
+        pleased if you would allow me to respond with my own personal spoutlet. 
+        Here goes:&lt;/p>
+        &lt;p>For much of the 1990's, I spent a lot of time writing COM code in 
+        C++. The combination of C++'s static type system + COM's dynamic type 
+        system was a very powerful combination that I am proud to have been 
+        involved with, even though my contributions to COM were from afar as a 
+        non-Microsoftie.&lt;/p>
+        &lt;p>In March of 1998, I had the pleasure of working on the initial SOAP 
+        protocol with Microsoft and Dave. That experience was a turning point 
+        for me, as it forced me to acknowledge type systems that were not part 
+        of the classic OO family that I had come to know as the &amp;quot;one true way.&amp;quot;&lt;/p>
+        &lt;p>Unlike COM or Java, XML tends to attract developers of every stripe, 
+        each of which has a wildly different sense of esthetics with respect to 
+        language design, data vs. processing model, structural vs. nominal 
+        typing, functional vs. declarative vs. imperative styles, etc.&lt;/p>
+        &lt;p>Because XML's &lt;i>raison d'etre&lt;/i> is interop, XML needs to be 
+        neutral with respect to these choices, otherwise, the barrier to entry 
+        becomes too excessive for some communities to participate. The current 
+        pushback against XML Schemas is a great example of this effect.&lt;/p>
+        &lt;p>XML Schema imposes a type system over XML Infosets that is very 
+        similar to the OO type systems you are familiar with. This makes XML 
+        Schemas well-suited for importing directly into Java or C# programs. &lt;/p>
+        &lt;p>Unfortunately, the XML Schema type system has features that don't 
+        make sense if your world doesn't revolve around named user-defined types 
+        (e.g., several script languages, SQL, etc.). For that reason, some 
+        members of the XML community has been lobbying for something with a 
+        looser type model than XML Schemas. Had the XML Schema working group 
+        made it clearer how to do this sort of thing with XML Schemas, I believe 
+        the time for adoption would be that much shorter.&lt;/p>
+        &lt;p>Getting back to your original post, I find your characterization of 
+        my colleagues and I as &amp;quot;so steeped in the new world that they forget 
+        where they came from&amp;quot; a bit misleading. &lt;/p>
+        &lt;p>As an XML guy, I try not to focus too much on where &lt;i>I&lt;/i> came 
+        from. Rather, I try to bend over backwards to be respectful of where &lt;i>
+        other&lt;/i> people came from.&lt;/p>
+        &lt;p>I don't want the guy writing ML code in Dayton, Ohio to shove his 
+        world view down my throat.&lt;/p>
+        &lt;p>I'm trying hard to reciprocate by keeping my OO/C++/COM sensibilities 
+        in perspective.&lt;/p>
+        &lt;p>XML is about inclusion. &lt;/p>
+        &lt;p>It's the ultimate Rorschach test. &lt;/p>
+        &lt;p>We all make it into what we need it to be.&lt;/p>
+        &lt;p>That's the &amp;quot;secret sauce&amp;quot; that makes XML what it is.&lt;/p>
+        </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/105</id>
+    <title>&lt;h1>Gen&lt;X> will be open-sourced&lt;/h1></title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Gen will be open-sourced Here. "We have decided that the best thing for our user base would be to open source Gen. Of course, open source means different things to different people, so now we are taking a pause to sort out both the open source terms and where the product will be hosted. Expect a more detailed announcement soon." [ed: Wahoo!]</summary>
+    <content type="html">&lt;h1>Gen&lt;X> will be open-sourced&lt;/h1>
+&lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0206&amp;L=genx&amp;F=&amp;S=&amp;P=571">Here&lt;/a>. "We have decided that the best thing for our user base would be to open source Gen&lt;X>. Of course, open source means different things to different people, so now we are taking a pause to sort out both the open source terms and where the product will be hosted. Expect a more detailed announcement soon."
+
+[ed: Wahoo!]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/104</id>
+    <title>Longhorn Will Be Major, Innovative Windows Release</title>
+    <updated>2002-06-25T07:00:00.000Z</updated>
+    <published>2002-06-25T07:00:00.000Z</published>
+    <summary>Here. "Forget the point-release tomfoolery: The next Windows version--
+code-named Longhorn--is going to rattle some cages and change perceptions about Microsoft's role as industry innovator. Originally envisioned as a stepping stone to the Windows.NET world that Microsoft was promising with the more distant Blackcomb release, Longhorn suddenly took on a much grander role late last year."</summary>
+    <content type="html">&lt;h1>Longhorn Will Be Major, Innovative Windows Release&lt;/h1>
+&lt;a href="http://www.wininformant.com/Articles/Index.cfm?ArticleID=25700">Here&lt;/a>. "Forget the point-release tomfoolery: The next Windows version--
+code-named Longhorn--is going to rattle some cages and change perceptions about Microsoft's role as industry innovator. Originally envisioned as a stepping stone to the Windows .NET world that Microsoft was promising with the more distant Blackcomb release, Longhorn suddenly took on a much grander role late last year."</content>
+  </entry>
+</feed>

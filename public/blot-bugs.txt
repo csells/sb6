@@ -1,0 +1,109 @@
+images:
++check out http://csells.blot.im/public/post-images. Some of them show directly in the browser (good). Some of them download (not good). At least one of them shows as text (bad).
+  e.g. http://csells.blot.im/public/post-images/13740-258.png
+
+
+misc:
++changes are taking a lot longer to propagate then they used to; it used to be seconds and now it’s minutes.
++the display of tagged posts, e.g. http://csells.blot.im/tagged/tools, shows a title “Entries tagged” but doesn’t say with what it’s tagged like it used to, e.g. “Entries tagged ‘tools’”.
++links are showing (blue underlines or anything else) on http://csells.blot.im//writing
++at the bottom of some (all?) of the pages, thereÕs a link with this text: "Subscribe to the RSS feed for 's blogÓ (notice the blank before the Õs). Where do I fill in the data to fill in that blank?
+
+
+404s:
+-need to be able to see 404 errors and provide redirects to improve site over time
+
++need to provide URL pattern rewriting, e.g. /posts/details/<peramlink> => /<permalink>
+ the following URLs need to be forwarded:
+  /news/showTopic.aspx?ixTopic=<permalink? => /permalink
+  /posts/details/<peramlink> => /<permalink>
+  /askthewonk => /writing/#qanda
+  /colophon => /tagged/colophon
+  /conference => /public/conference/index.htm
+  /fun => /tagged/fun
+  /interview => /tagged/interview
+  /money => /tagged/money
+  /tools => /tagged/tools
+  /wahoo => /tagged/wahoo
++/tinysells/{code} => various (depends on the code)
++would like to be able to provide a custom 404 page
++need to be able to optionally turn off auto-404 page and expose the 404 errors for tools to track (no need)
+
+Feature Requests:
+-Google AdSense App: easily enabled for sidewall ads
+-would like to have an app that shows social sharing features, e.g. share to Twitter, Facebook, G+, etc.
+-Twitter integration: integrate the blog posts and tweets into a single, unified feed
+-would like the option to have a title tacking onto the URL along with my permalink, e.g. http://134/the-title-goes-here
+  -either link would work, i.e. just the permalink and the permalink + title
+  -this is handy for SEO
+  -this is handy for readers of just the URL
+
+
+sorting:
++the sorting on the tagged pages is wrong (seemingly random), e.g. http://csells.blot.im/tagged/spout
+
+
+pages:
++writing.html has "Page: yes" set, but is showing up as a blog post
+
+
+Markup processing on HTML files:
++1995\Jan-01-Initial-Launch-12641.html (and everything else):
+  article title doesn't line up along the top with the date of the article for default template (it's wrapping the initial HTML comment in a <p>)
+  need to be able to put Blot metadata into comments for HTML files so that it remains valid HTML
+
++1997\Jun-27-Welcome-to-MeowMoniker--12656.html:
+  the embedded line endings are reflected in the output instead of being ignore as per HTML rules
+
++2000\Aug-08-DM-in-the-Wall-Street--12628.html:
+  random formatting because of the intermitten blank lines that I don't begin to understand
+
++2001\Feb-16-Genghis-12427.html:
+  the indents on the HTML is causing the HTML to be set as code like Markup instead of interpretted as HTML
+
+
+metadata:
++Jun-27-Welcome-to-MeowMoniker--12656.html:
+  I’ve specified the Date, Tags and Permalink metadata, but only the Date is used – the Tags and Permalink are ignored.
+
+
+Apps:
++need to be able to provide custom disqus_url format to pull in existing Disqus comments
++turning off the automatic caption from the image alt text doesn't actually stop the captions from showing
+
+
+Templates:
++Essay template home page shows 31 (?) of the most recent posts, but provides no paging UI to get to previous posts
+
+
+chris TODO:
+-get a good template together
+  -fix header (make the avatar against the left side of the title and nav text)
+  +make search work
+  +make sure lines of code don't wrap on http://csells.blot.im/13739
+  +good code formatting
+  +search on all of the pages
+  +feed on all of the pages
+  +no content on the entries page
+  +header graphic
+  +remove Next and Previous posts
+  +remove Recent Entries on LHS
+  +white background to go with graphics and code w/ hardcoded backgrounds
+  +mobile friendly: https://www.google.com/webmasters/tools/mobile-friendly/
+
+-move to sellsbrothers.com
+
+-make Google AdSense work
+-move videos to youtube (p2)
+-move tools to github (p2)
++make tinysells.com continue to work!
++build a better About page
++check into github
++fix double "llowed me to do" on end of http://csells.blot.im/13740
++full site scan from Xenu Link Sleuth
++move atompub images to pubic
++check for hardcoded sellsbrothers.com in the content
++add a "Writing and Speaking" page
++404: http://csells.blot.im/public/conference/atldevcon/index.htm
++404: http://csells.blot.im/public/writing/askthewonk/index.htm
++public/writing/askthewonk/* not showing up (problem with original content)

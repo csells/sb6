@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed50.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed49.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed51.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed50.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1705</id>
+    <title>The MS Official Story Direct to Your RSS Reader</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>If you'd like the official Microsoft press releases and top stories as soon as they're available, point your favorite RSS reader at the following two new Microsoft PressPass RSS feeds: &amp;nbsp;Microsoft PressPass - Press Releases : Provides links to the latest Microsoft corporate press releases. &amp;nbsp;Microsoft PressPass - Top Stories : Provides links to the latest Top Story feature articles published by Microsoft PressPass. These articles provide in-depth background on Microsoft technologies and strategies, ...</summary>
+    <content type="html">&lt;h1>The MS Official Story Direct to Your RSS Reader&lt;/h1>
+&lt;P>If you'd like the &lt;EM>official&lt;/EM> Microsoft press releases and top stories as soon as they're available, point your favorite RSS reader at the following two new Microsoft PressPass RSS feeds:&lt;/P>
+&lt;P>&lt;B>&lt;A href="http://www.microsoft.com/presspass/rss/PressReleases.xml">&lt;IMG alt="Microsoft PressPass - Press Releases RSS Feed" src="http://www.microsoft.com/presspass/images/rss.jpg" border=0>&amp;nbsp;Microsoft PressPass - Press Releases&lt;/A>:&lt;/B> Provides links to the latest Microsoft corporate press releases.&lt;/P>
+&lt;P>&lt;B>&lt;A href="http://www.microsoft.com/presspass/rss/TopStory.xml">&lt;IMG alt="Microsoft PressPass - Top Stories RSS Feed" src="http://www.microsoft.com/presspass/images/rss.jpg" border=0>&amp;nbsp;Microsoft PressPass - Top Stories&lt;/A>:&lt;/B> Provides links to the latest Top Story feature articles published by Microsoft PressPass. These articles provide in-depth background on Microsoft technologies and strategies, including executive Q&amp;amp;As and technology backgrounders.&lt;/P>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1708</id>
+    <title>Building Extensible Windows Forms Applications</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>Another hot topic among Windows Forms programmers is extensibility: Add run-time functionality to your application by providing a plug-in mechanism Add Plugins to Your App 2: Search dynamically for plugins without Config Files The SharpDevelop add-in tree architecture Writing Plugin-Based Applications in.NET The MS-INC Plug-In Library The Razor Framework :: Part 1 :: Plugins/Extensibility Several &lt;a href="http://ww</summary>
+    <content type="html">&lt;h1>Building Extensible Windows Forms Applications&lt;/h1>
+&lt;P>Another hot topic among Windows Forms programmers is extensibility:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://weblogs.asp.net/rosherove/articles/7610.aspx">Add run-time functionality to your application by providing a plug-in mechanism&lt;/A> &lt;/LI>
+&lt;LI>&lt;A href="http://weblogs.asp.net/rosherove/articles/8048.aspx">Add Plugins to Your App 2: Search dynamically for plugins without Config Files&lt;/A> &lt;/LI>
+&lt;LI>&lt;A href="http://www.sharpdevelop.com/TechNotes/ProgramArchitecture.pdf">The SharpDevelop add-in tree architecture&lt;/A>&lt;/LI>
+&lt;li>&lt;a href="http://www.divil.co.uk/net/articles/plugins/plugins.asp">Writing Plugin-Based Applications in .NET&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.ms-inc.net/dotnet.aspx?ProductID=Plugins">The MS-INC Plug-In Library&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.codeproject.com/useritems/RazorPt1.asp">The Razor Framework :: Part 1 :: Plugins/Extensibility&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://blog.dotnetwiki.org/archive/2004/06/15/449.aspx">Several&lt;/a> &lt;a href="http://www.gotdotnet.com/workspaces/customization/UploadedHtmlPage.aspx?FileID=f1751793-88aa-4c36-935d-3d4c654d9300&amp;id=0f5846c3-c7aa-4879-8043-e0f4fc233ade">nifty&lt;/a> &lt;a href="http://blog.dougmcclean.net/archive/2004/05/08/233.aspx">pieces&lt;/a> on Lutz's &lt;a href="http://www.aisto.com/roeder/dotnet/">Reflector&lt;/a> add-in model&lt;/li>
+&lt;li>&lt;a href="/1726">"Customizing the Microsoft .NET Framework Common Language Runtime,"&lt;/a> by Steven Pratscher&lt;/li>
+&lt;li>&lt;a href="http://www.acmqueue.org/modules.php?name=Content&amp;pa=showpage&amp;pid=286">On Plug-ins and Extensible Architectures: Avoiding "plug-in hell"&lt;/a> is from the Eclipse world, but I'm guessing it applies...&lt;/li>
+&lt;/UL>
+&lt;P>I know there are more pieces than just these, so &lt;A href="/1708">send them along&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1706</id>
+    <title>Hitchhiker's Guide Might Not Suck</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>Here. After watching the Hitchhiker's Guide to the Galaxy trailer on Amazon.com, I have to say, it might not suck. Any Portland Nerds that want to join me for the first show on 4/29 (but don't tell my boss, he thinks I'm working that day... : )?</summary>
+    <content type="html">&lt;h1>Hitchhiker's Guide Might Not Suck&lt;/h1>
+&lt;a href="http://www.amazon.com/exec/obidos/subst/home/home.html/103-8833209-8659037">Here&lt;/a>. After watching &lt;A href="http://www.amazon.com/">the Hitchhiker's Guide to the Galaxy trailer on Amazon.com&lt;/A>, I have to say, it might not suck. Any Portland Nerds that want to join me for the first show on 4/29 (but don't tell my boss, he thinks I'm working that day... : )?</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1704</id>
+    <title>Windows Metafile to Avalon XAML Conversion</title>
+    <updated>2005-02-16T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-16T08:00:00.000Z</published>
+    <summary>Cristian Civera, a Microsoft.NET MVP, has posted a preview of a tool to convert Windows Enhanced Metafiles, an existing vector graphics file&amp;nbsp;format, to XAML, Avalon's new format for describing vector graphics (among other things). Thanks, Cristian! </summary>
+    <content type="html">&lt;h1>Windows Metafile to Avalon XAML Conversion&lt;/h1>
+&lt;P>Cristian Civera, a Microsoft .NET MVP, has posted a preview of &lt;A href="http://lab.aspitalia.com/lab.aspx?ID=15#eng">a tool to convert Windows Enhanced Metafiles, an existing vector graphics file&amp;nbsp;format, to XAML, Avalon's new format for describing vector graphics&lt;/A> (among other things). Thanks, Cristian!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1701</id>
+    <title>Experimenting with Windows Alternatives</title>
+    <updated>2005-02-14T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-14T08:00:00.000Z</published>
+    <summary>Here. The one where I give thumbs up to three Windows alternatives and a thumb sideways to another.</summary>
+    <content type="html">&lt;h1>Experimenting with Windows Alternatives&lt;/h1>
+&lt;a href="/12479">Here&lt;/a>. The one where I give &lt;a href="/12479">thumbs up to three Windows alternatives and a thumb sideways to another&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1702</id>
+    <title>Fear, Uncertainty and Longhorn</title>
+    <updated>2005-02-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-14T08:00:00.000Z</published>
+    <summary>Robert Scoble has some stuff to say about Avalon, Indigo, Longhorn and packaging. Enjoy. </summary>
+    <content type="html">&lt;h1>Fear, Uncertainty and Longhorn&lt;/h1>
+&lt;P>Robert Scoble has &lt;A href="http://radio.weblogs.com/0001011/2005/02/14.html#a9420">some stuff to say&lt;/A> about Avalon, Indigo, Longhorn and packaging. Enjoy.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1700</id>
+    <title>VSLive in Vegas Has "SmartClient Live"</title>
+    <updated>2005-02-14T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-14T08:00:00.000Z</published>
+    <summary>The Las Vegas edition of VSLive (May 8-11, 2005) will include smart client coverage: "SmartClient Live! - Pragmatic and practical advice on smart client development with VB, C#, and.NET Framework." There's no real description of what that really means, but it's got potential. : ) [ via 3Leaf ] </summary>
+    <content type="html">&lt;h1>VSLive in Vegas Has "SmartClient Live"&lt;/h1>
+&lt;P>The &lt;A href="http://www.ftponline.com/conferences/vslive/2005/lv/">Las Vegas edition of VSLive&lt;/A> (May 8-11, 2005) will include smart client coverage: "SmartClient Live! - Pragmatic and practical advice on smart client development with VB, C#, and .NET Framework." There's no real description of what that really means, but it's got potential. : )&lt;/P>
+&lt;P>[&lt;A href="http://ea.3leaf.com/2005/02/first_vs_live_c.html">via 3Leaf&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1699</id>
+    <title>Service Contracts in Indigo</title>
+    <updated>2005-02-12T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-12T08:00:00.000Z</published>
+    <summary>Don Box has posted an article on the basics of specifying a service contract in Indigo. Enjoy (I plan to : ).</summary>
+    <content type="html">&lt;h1>Service Contracts in Indigo&lt;/h1>
+Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/archive/2005/02/12/5819.aspx">the basics of specifying a service contract in Indigo&lt;/A>. Enjoy (I plan to : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1698</id>
+    <title>Airing The Dirty Laundry</title>
+    <updated>2005-02-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-12T08:00:00.000Z</published>
+    <summary>I was sitting at Jim Blizzard's going away party the other night when my phone rang. This was the side of the conversation that the Portland nerds heard: "Hello?" "What?" "Well,why don't you have any underwear?" "Put your brother on." "Why doesn't your brother have any underwear?" "Well, why does he think he doesn't have any underwear?" "OK. Put your brother back on." "Are you sure you don't have any underwear?" "Look in your hand; is there any underwear in it?" "Then check your other hand." "OK, how many p...</summary>
+    <content type="html">&lt;h1>Airing The Dirty Laundry&lt;/h1>
+&lt;P>I was sitting at &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=25cb78da-09c4-426c-851d-ba4459f6e423">Jim Blizzard's going away party&lt;/A> the other night when my phone rang. This was the side of the conversation that the Portland nerds heard:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>"Hello?"&lt;/P>
+&lt;P>"What?"&lt;/P>
+&lt;P>"Well,why don't you have any underwear?"&lt;/P>
+&lt;P>"Put your brother on."&lt;/P>
+&lt;P>"Why doesn't your brother have any underwear?"&lt;/P>
+&lt;P>"Well, why does he &lt;EM>think&lt;/EM> he doesn't have any underwear?"&lt;/P>
+&lt;P>"OK. Put your brother back on."&lt;/P>
+&lt;P>"Are you sure you don't have any underwear?"&lt;/P>
+&lt;P>"Look in your hand; is there any underwear in it?"&lt;/P>
+&lt;P>"Then check your other hand."&lt;/P>
+&lt;P>"OK, how many pairs of underwear are you wearing?"&lt;/P>
+&lt;P>"And how many pairs do you need between right now and the time I get home?"&lt;/P>
+&lt;P>"Good. Bye."&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>About halfway through the conversation, the nerds around me could no longer continue their conversations and were laughing openly. Ah, the joys of parenthood...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12479</id>
+    <title>Experimenting with Windows Alternatives</title>
+    <updated>2005-02-12T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-12T08:00:00.000Z</published>
+    <summary>When I used to teach COM, we would brag about its cross-platform-ness, i.e. it worked across Windows 95, Windows 98, Windows NT 4, etc. So, when I'm talking about Windows alternatives, of course I mean Windows XP, Windows XP Media Center Edition, Windows CE and Windows XP Tablet Edition: Windows XP : This is the workhorse of my day and with SP2, it's even more wonderful than it was before. Love it. Windows XP Media Center Edition : The mix of a pleasing 10-foot UI, picture, music and video playback, content...</summary>
+    <content type="html">&lt;h1>Experimenting with Windows Alternatives&lt;/h1>
+&lt;p align="left">When I used to teach COM, we would brag about its cross-platform-ness, i.e. it worked across Windows 95, Windows 98, Windows NT 4, etc. So, when I'm talking about Windows alternatives, of course I mean Windows XP, Windows XP Media Center Edition, Windows CE and Windows XP Tablet Edition:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">&lt;b>Windows XP&lt;/b>: This is the workhorse of my day and with SP2, it's even more wonderful than it was before. Love it.&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows XP Media Center Edition&lt;/b>: The mix of a pleasing 10-foot UI, picture, music and video playback, content and UI extension, PVR, Windows-based expansion and MCE extenders makes this a fabulous media client and server. Love it.&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows CE/SmartPhone 2003 Second Edition&lt;/b>: The 10-inch UI, the built-in apps and services, the extension apps, the internet access and a set of apps optimized for 9-key + joystick input all make this a fabulous user platform that's replaced my phone, my mp3 player and even my laptop in some cases. Plus, I can build my own apps! I haven't felt this way since my first laptop freed me from the tyranny of the desktop. Love, love, love it!&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows XP Tablet Edition&lt;/b>: I love reading text on this OS. The ClearText, the form factor and the scroll-specific buttons near the screen make it a wonderful reading experience. I also look forward to reviewing articles and book chapters with my tablet. However, I doubt I'll get to it because I dread picking it up and being faced with all of the text input I'm forced to perform. Unlike the MCE or SP OSes which have been optimized for remote control/keypad input, the tablet is more general purpose and therefore supports far more general purpose applications. This means text input for dialogs and passwords and URLs and all kinds of other things where my poor handwriting is often painful. Of course, handwriting is faster than joystick/keypad input, but because there seems so much more input required in an average tablet session, it seems slower. I with the apps for the tablet were more special-purpose and optimized for stylus-only input. Love it and don't so much love it.&lt;/li>&lt;/ul>&lt;p align="left">BTW, I paid $6000 in college for my Mac IIcx that I used to log into the Unix machines in the lab, so I've had a full range of computer UI experiences. I do truly love Windows best.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1696</id>
+    <title>Local Boy Does Good</title>
+    <updated>2005-02-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-11T08:00:00.000Z</published>
+    <summary>Microsoft's own Robert Scoble has broken his way into the secular press, with an article in both Fortune ( Why There's No Escaping the Blog ) and The Economist ( Chief humanising officer ). Way to go, Robert! </summary>
+    <content type="html">&lt;h1>Local Boy Does Good&lt;/h1>
+&lt;P>Microsoft's own Robert Scoble has broken his way into the secular press, with an article in both Fortune (&lt;A href="http://www.fortune.com/fortune/technology/articles/0,15114,1011763,00.html">Why There's No Escaping the Blog&lt;/A>) and The Economist (&lt;A href="http://www.economist.com/people/displayStory.cfm?story_id=3644293">Chief humanising officer&lt;/A>). Way to go, Robert!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1695</id>
+    <title>Project Manager Leavers Suicide PPT Presentation</title>
+    <updated>2005-02-11T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2005-02-11T08:00:00.000Z</published>
+    <summary>Here. Scott Hanselman IM'd me this Onion piece and I just had to share it. I don't want to spoil it with quotes; just read it and tell me if you don't die laughing. OK, one quote: "To Ron's credit, it was one helluva way to go out," human resources manager Gail Everts said. "Ron clearly spent a lot of time on that presentation. If the subject matter weren't so heavy, we'd probably use it to train his replacement." </summary>
+    <content type="html">&lt;h1>Project Manager Leavers Suicide PPT Presentation&lt;/h1>
+&lt;a href="http://www.theonion.com/news/index.php?issue=4106&amp;n=3">Here&lt;/a>. &lt;P>&lt;A href="http://www.computerzen.com/">Scott Hanselman&lt;/A> IM'd me &lt;A href="http://www.theonion.com/news/index.php?issue=4106&amp;amp;n=3">this Onion piece&lt;/A> and I just had to share it. I don't want to spoil it with quotes; just read it and tell me if you don't die laughing.&lt;/P>
+&lt;P>OK, one quote:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"To Ron's credit, it was one helluva way to go out," human resources manager Gail Everts said. "Ron clearly spent a lot of time on that presentation. If the subject matter weren't so heavy, we'd probably use it to train his replacement."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1697</id>
+    <title>i-mate SP3 Smartphone: How do I love thee?</title>
+    <updated>2005-02-11T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-02-11T08:00:00.000Z</published>
+    <summary>Let me count the ways: Pocket-sized and no bigger than my old dumb phone and tons smaller than tricorder-sized PDAs Synchronized calendar, contacts and inbox every 10 minutes everywhere I go IM and web browsing everywhere I go 512MB miniSD upgrade (for $60), giving me room enough for 300+ minutes of songs/audio books, making the phone a wonderful mp3 player, both for personal use (via the included stereo headphones) and in my car (via a $3 Radio Shack part, the Audio Adapter 274-373) Bluetooth headset, free...</summary>
+    <content type="html">&lt;h1>i-mate SP3 Smartphone: How do I love thee?&lt;/h1>
+&lt;P>Let me count the ways:&lt;/P>
+&lt;OL>
+&lt;LI>Pocket-sized and no bigger than my old dumb phone and tons smaller than tricorder-sized PDAs&lt;/LI>
+&lt;LI>Synchronized calendar, contacts and inbox every 10 minutes everywhere I go&lt;/LI>
+&lt;LI>IM and web browsing everywhere I go&lt;/LI>
+&lt;LI>512MB miniSD upgrade (for $60), giving me room enough for 300+ minutes of songs/audio books, making the phone a wonderful mp3 player, both for personal use (via the included stereo headphones) and in my car (via a $3 Radio Shack part, the Audio Adapter 274-373)&lt;/LI>
+&lt;LI>Bluetooth headset, freeing me from untaggling wires all the damn time and letting me answer the phone while it's still in my pocket&lt;/LI>
+&lt;LI>Voice tags, letting my dial the phone while it's still in my pocket&lt;/LI>
+&lt;LI>Extensible with inexpensive custom apps of all kinds, including ones I can build myself in &lt;A href="http://www.microsoft.com/downloads/details.aspx?familyid=1DACDB3D-50D1-41B2-A107-FA75AE960856">native&lt;/A> or &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=a6c4f799-ec5c-427c-807c-4c0f96765a81">managed&lt;/A> code (and &lt;A href="http://weblogs.asp.net/nleghari/articles/smartphone.aspx">a wealth of development information&lt;/A>)&lt;/LI>
+&lt;LI>Backlit ebook for darkened movie theaters during the commercials and the slow bits&lt;/LI>
+&lt;LI>A quicky flashlight in a pinch&lt;/LI>
+&lt;LI>Theoretically acts as a modem for my PC to give it an internet connection via my cell phone's GPRS service, although I haven't gotten that set up yet : )&lt;/LI>&lt;/OL>
+&lt;P>That's not to say that all is well. The following mars the i-mate's perfection:&lt;/P>
+&lt;OL>
+&lt;LI>When the keypad is locked and a notification pops up, the screen remains dark, but the Unlock button turns into the Dismiss button, which dismisses the notification w/o showing it first&lt;/LI>
+&lt;LI>Notifications can only be snoozed for 5 minutes&lt;/LI>
+&lt;LI>No WMP10 and WMP9 on the smartphone has terrible playlist management&lt;/LI>
+&lt;LI>A dearth of web sites targeted at the smart phone. I've only found msnbc.com so far. I really miss a decent movie showtime info web site (imdb.com works, but it's a pain)&lt;/LI>
+&lt;LI>Cramped screen and keyboard (I've heard the Motorola MPx220 flip phone solves this problem)&lt;/LI>
+&lt;LI>Doesn't use Wi-Fi when it's available&lt;/LI>
+&lt;LI>No FM radio&lt;/LI>&lt;/OL>
+&lt;P>It's my understanding that some of these flaws are fixed in the later smartphones (like &lt;A href="http://www.audiovox.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&amp;amp;storeId=10001&amp;amp;productId=13758&amp;amp;langId=-1">the Audiovox SMT5600&lt;/A>), but even with the issues I mention, I can't imagine that someone with a cell phone wouldn't pick a smart one over a dumb one, nor can I imagine that more then a relative few would prefer a PDA to a smart phone. The smart phone represents a perfect storm of form factor, capability and developer tools. Keep your hands and feet inside the ride, boys and girls, it's going to be a wild ride.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1692</id>
+    <title>Indigo Day: Mujtaba Syed's Notes From The Field</title>
+    <updated>2005-02-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-10T08:00:00.000Z</published>
+    <summary>Mujtaba Syed has some pretty extensive notes from his VSLive Day of Indigo: Introducing Indigo: Eric Rudder and Ari Bixhorn Programming Indigo: Don Box and Steve Swartz WinFX CTP in March '05 Indigo upgrade and interop: Steve Swartz and Anand Rajagopalan Building Secure Services with Indigo: Doug Purdy Building service-oriented applications today: Richard Turner Thanks, Mujtaba! </summary>
+    <content type="html">&lt;h1>Indigo Day: Mujtaba Syed's Notes From The Field&lt;/h1>
+&lt;P>Mujtaba Syed has some pretty extensive notes from his VSLive Day of Indigo:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/19929.html">Introducing Indigo: Eric Rudder and Ari Bixhorn&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/21281.html">Programming Indigo: Don Box and Steve Swartz&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/20125.html">WinFX CTP in March '05&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/20271.html">Indigo upgrade and interop: Steve Swartz and Anand Rajagopalan&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/20570.html">Building Secure Services with Indigo: Doug Purdy&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://www.livejournal.com/users/mujtaba/20934.html">Building service-oriented applications today: Richard Turner&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Thanks, Mujtaba!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1694</id>
+    <title>Smart Client Patterns &amp; Practices Survey</title>
+    <updated>2005-02-10T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-02-10T08:00:00.000Z</published>
+    <summary>"The Smart Client Team at Microsoft patterns &amp;amp; practices needs your feedback to evaluate the need of guidance for devices based Smart Clients (Mobile solution scenarios based on.NET Compact Framework)." </summary>
+    <content type="html">&lt;h1>Smart Client Patterns &amp; Practices Survey&lt;/h1>
+&lt;EM>"The Smart Client Team at Microsoft patterns &amp;amp; practices &lt;/EM>&lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=31762">&lt;EM>needs your feedback to evaluate the need of guidance for devices based Smart Clients&lt;/EM>&lt;/A>&lt;EM> (Mobile solution scenarios based on .NET Compact Framework)."&lt;/EM></content>
+  </entry>
+</feed>

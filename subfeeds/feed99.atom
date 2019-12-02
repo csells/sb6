@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed99.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed98.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed100.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed99.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1019</id>
+    <title>A Programmer's Introduction to Visual Studio .NET</title>
+    <updated>2003-12-31T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-31T08:00:00.000Z</published>
+    <summary>Here. Sean "Early" Campbell &amp;amp; Scott "Adopter" Swigart lay out their top 10 new IDE features of Visual Studio.NET "Whidbey".</summary>
+    <content type="html">&lt;h1>A Programmer's Introduction to Visual Studio .NET &lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vs2004_intro.asp">Here&lt;/a>. Sean "Early" Campbell &amp;amp; Scott "Adopter" Swigart lay out their top 10 new IDE features of Visual Studio .NET "Whidbey".</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1018</id>
+    <title>3rd Party XAML Viewer #2!</title>
+    <updated>2003-12-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-29T08:00:00.000Z</published>
+    <summary>We're not even to beta yet, but we already have not one, but two 3rd party XAML viewers targeting existing versions of the.NET Framework. Wow. [From Don "XML" ( donxml.com )] </summary>
+    <content type="html">&lt;h1>3rd Party XAML Viewer #2!&lt;/h1>
+&lt;P>We're not even to beta yet, but we already have not &lt;A href="http://www.xamlon.com/">one&lt;/A>, but &lt;A href="http://www.mobiform.com/xamlproducts.aspx">two&lt;/A> 3rd party XAML viewers targeting existing versions of the .NET Framework. Wow.&lt;/P>
+&lt;P>[From Don "XML" (&lt;A href="http://www.donxml.com">donxml.com&lt;/A>)]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1017</id>
+    <title>3rd Party XAML Viewer #2!</title>
+    <updated>2003-12-29T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-29T08:00:00.000Z</published>
+    <summary>We're not even to beta yet, but we already have not one, but two 3rd party XAML viewers targeting existing versions of the.NET Framework. Wow.</summary>
+    <content type="html">&lt;h1>3rd Party XAML Viewer #2!&lt;/h1>
+We're not even to beta yet, but we already have not &lt;A href="http://www.xamlon.com/">one&lt;/A>, but &lt;A href="http://www.mobiform.com/xamlproducts.aspx">two&lt;/A> 3rd party XAML viewers targeting existing versions of the .NET Framework. Wow.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1016</id>
+    <title>10 Better Questions for Don Box</title>
+    <updated>2003-12-26T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-26T08:00:00.000Z</published>
+    <summary>In a recent interview of Don Box by Mary Jo Foley, I expressed my disappointment over the dullest of both the questions and the answers. Uncharacteristically ducking criticism, Don provided details of my frequent stays at his house suggesting an unhealthy love of his pets (which I love the normal amount, I promise). While this was amusing, it doesn't give anyone any more information than Mary Jo's interview did. Anyway, talking about it on the phone just now, Don agreed with me that the interview turned out...</summary>
+    <content type="html">&lt;h1>10 Better Questions for Don Box&lt;/h1>
+&lt;P>In a recent interview of Don Box by Mary Jo Foley, &lt;A href="/1011">I expressed my disappointment over the dullest of both the questions and the answers&lt;/A>. Uncharacteristically ducking criticism, Don provided details of my frequent stays at his house suggesting an unhealthy love of his pets (which I love the normal amount, I promise). While this was amusing, it doesn't give anyone any more information than Mary Jo's interview did.&lt;/P>
+&lt;P>Anyway, talking about it on the phone just now, Don agreed with me that the interview turned out much less interesting than he intended and promised to make amends. Specifically, he said, "Chris, send me 10 questions and I'll answer them." So, here's your chance. Reply to this post with the hardest hitting, most revealing questions and I'll pick the best 10 to send along to Don. Don't hold back -- all questions are fair, although I'll focus first on Indigo, then Longhorn, then technology in general before getting to Don's own love of his pets (for example). Here're some questions to seed your thinking:&lt;/P>
+&lt;P>-How does the version of Indigo shipping with Longhorn relate to what's currently being used internally at MS? How does it relate to what you actually plan on shipping?&lt;/P>
+&lt;P>-What should an ASP.NET or WSE programmer *really* do today to prepare for Indigo?&lt;/P>
+&lt;P>-What's the biggest surprise about the inner workings at MS?&lt;/P>
+&lt;P>-If you could do one thing to change MS, what would it be?&lt;/P>
+&lt;P>-If you could do one thing to change the IT industry, what would it be?&lt;/P>
+&lt;P>-How can ISVs be successful in the current IT industry?&lt;/P>
+&lt;P>-What's the next big thing that'll change the IT industry?&lt;/P>
+&lt;P>-What do you think is cool that doesn't get enough attention?&lt;/P>
+&lt;P>-Has family scrutiny caused you to stop dressing your pugs in clown suits before expressing your love for them?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1015</id>
+    <title>Lending a Helping Hand</title>
+    <updated>2003-12-24T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-12-24T08:00:00.000Z</published>
+    <summary>Here. Normally I wouldn't pass along something like this, but this is from my uncle and therefore genuine. If you can lend a hand to his brother who's financially destitute after a liver and kidney transplant, I'd appreciate it. Even prayers would help. Thanks!</summary>
+    <content type="html">&lt;h1>Lending a Helping Hand&lt;/h1>
+&lt;a href="/12511">Here&lt;/a>. Normally I wouldn't pass along something like this, but this is from my uncle and therefore genuine. If you can &lt;a href="/12511">lend a hand to his brother&lt;/A> who's financially destitute after a liver and kidney transplant, I'd appreciate it. Even prayers would help. Thanks!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1014</id>
+    <title>Salon.com on Longhorn and Blogging</title>
+    <updated>2003-12-24T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-24T08:00:00.000Z</published>
+    <summary>Scott Rosenberg appreciates how important blogs are when it comes to exposing Microsoft inards as Longhorn is developed. Except for the fact that Scoble's not a programmer and I'm not an architect, he does a pretty good job.</summary>
+    <content type="html">&lt;h1>Salon.com on Longhorn and Blogging&lt;/h1>
+Scott Rosenberg appreciates &lt;A href="http://www.salon.com/tech/col/rose/2003/12/22/longhorn/?ref=null">how important blogs are&lt;/A> when it comes to exposing Microsoft inards as Longhorn is developed. Except for the fact that Scoble's not a programmer and I'm not an architect, he does a pretty good job.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12511</id>
+    <title>Lending a Helping Hand</title>
+    <updated>2003-12-23T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-12-23T08:00:00.000Z</published>
+    <summary>I know this sounds like spam, but it's not -- it's from my Uncle Mark, who's also my godfather and the nicest man I've even known: Chris, I'm writing you to ask your help. My brother Tom was gravely ill. Tom is 55 years old, married with two grown sons. He needed both a liver and a kidney transplant. He just received his transplants. It was by the grace of God just in time as he was within 2 to 3 days of death. He is doing well with no signs of rejection and just some minor complications. Unfortunately, he ...</summary>
+    <content type="html">&lt;h1>Lending a Helping Hand&lt;/h1>
+&lt;p>I know 
+this sounds like spam, but it's not -- it's from my Uncle Mark, who's also my 
+godfather and the nicest man I've even known:&lt;/p>&lt;blockquote>Chris, I'm writing 
+	you to ask your help. My brother Tom was gravely ill. Tom is 55 years old, 
+	married with two grown sons. He needed both a liver and a kidney transplant. 
+	He just received his transplants. It was by the grace of God just in time as 
+	he was within 2 to 3 days of death. He is doing well with no signs of 
+	rejection and just some minor complications. Unfortunately, he is nearly 
+	bankrupt from all his medical bills. Tom's life has been marked by several 
+	challenges, many overcome through hard work and determination. He is a man 
+	of immense spirit and we all love him dearly. This is a challenge he can't 
+	face alone. As you can imagine, our family is very concerned. We pray a lot. 
+	We have also undertaken a benefit and raffles for him to help him with his 
+	expenses. Right now we're just trying to help him pay his mortgage and put 
+	food on his table. He hasn't been able to work for three months. He also 
+	faces a tremendous bill from the transplant that his health insurance won't 
+	pay.&lt;br>&lt;br>There are five courses of action I'd like you to consider. First 
+	of course is &lt;b>I'd appreciate your prayers for my brother&lt;/b> Tom that he 
+	continue to recover his health and his finances. The next four things I am 
+	asking for is your support of our raffles and benefit.&lt;br>&lt;br>I would like 
+	you to &lt;b>consider purchasing a ticket for what we call the &amp;quot;Big Money 
+	Raffle&amp;quot;&lt;/b>. There will be a limit of 110 tickets sold. First prize is 
+	$2000. Second prize is $1250. Third prize is $750. There will be an 
+	additional ten $100 winners. Odds of winning some prize are 13 in 110. 3 in 
+	110 chance of bettering your bet. 1 in 110 of winning the top prize. Tickets 
+	cost $135 apiece. Much better odds than the lottery. Drawing 1/11/04.&lt;br>&lt;br>
+	Also available are &lt;b>Quilt tickets at $1 apiece&lt;/b>. My sister made the 
+	Queen size quilt. Value is somewhere between $1000 and $1500. Drawing 
+	1/11/04.&lt;br>&lt;br>The third thing I'd like you to consider is if you know 
+	anyone among &lt;b>your connections in the computer world who might also like 
+	the opportunity to purchase &amp;quot;Big Money&amp;quot; and &amp;quot;Quilt&amp;quot; raffle tickets&lt;/b>. I 
+	know you know a lot of people and some of them might be generous of spirit 
+	and/or gamblers. I think this time of year people yearn to be of help and 
+	service but aren't often sure what they can do. &lt;a href="mailto:emkayen@aol.com?subject=TOM NEEDHAM LIVER TRANSPLANT FUND">
+	This is one such opportunity.&lt;/a>&lt;br>&lt;br>The fourth thing I'd like you to 
+	consider is helping with the benefit dinner. It will be January 11th. There 
+	will be a silent auction. I thought with your connections at Microsoft you 
+	might be able to get them to &lt;b>donate something for the silent auction &lt;/b>
+	like some software or ?. Mr. Gates has such a wonderful legacy of 
+	philanthropy and I'm hoping that may reach down the organization for 
+	individuals in need.&lt;br>&lt;br>Thank you Chris for your consideration. If all 
+	you can offer is your prayers I will understand and greatly appreciate them. 
+	If you or anyone you pass this on to wish to purchase tickets, &lt;b>checks can 
+	be made out to &amp;quot;TOM NEEDHAM LIVER TRANSPLANT FUND&amp;quot;. Anyone wishing more 
+	details can contact me, Mark Needham at 952-226-1769 or e-mail me at &lt;a href="mailto:emkayen@aol.com?subject=TOM NEEDHAM LIVER TRANSPLANT FUND">
+	emkayen@aol.com&lt;/a>&lt;/b>. I will be happy to fill out the tickets and return 
+	the stubs to them. The information needed is name, address &amp;amp; phone number 
+	for both the Big Money and Quilt raffles. The Minnesota lawful gambling 
+	exempt permit # is X-34753-04-001.&lt;/blockquote>&lt;p>While I don't know my 
+uncle's brother (his part of the family never really mixed with mine for some 
+reason), because it's important to my uncle, I'll be purchasing one of each of 
+the two kinds of raffle tickets, publicizing my uncle's plea on my web site, 
+investigating Microsoft's matching for charity and, of course, sending my 
+prayers. If any of you is interested in &lt;a href="mailto:emkayen@aol.com?subject=TOM NEEDHAM LIVER TRANSPLANT FUND">
+participating in the raffles, let Mark know directly&lt;/a>. If you wanted to 
+publicize this on your own web sites or donate something for the silent auction, &lt;a href="mailto:emkayen@aol.com?subject=TOM NEEDHAM LIVER TRANSPLANT FUND">
+let Mark know about that&lt;/a>, too. Of course, all prayers are warming accepted.&lt;/p>&lt;p>
+Thank you very much and have a Merry Christmas and a Happy New Year.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1012</id>
+    <title>Chris Sells on Longhorn for the TC .NET User Group</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>I'm in Minnesota over the holidays, so I thought I'd drop in on the Twin Cities.NET User Group for a short discussion of Longhorn. Please keep in mind that this talk is purely shelfish on my part -- I learn best by telling the story. </summary>
+    <content type="html">&lt;h1>Chris Sells on Longhorn for the TC .NET User Group&lt;/h1>
+&lt;P>I'm in Minnesota over the holidays, so I thought I'd drop in on &lt;A href="http://www.ilmservice.com/twincitiesnet/default.aspx">the Twin Cities .NET User Group for a short discussion of Longhorn&lt;/A>. Please keep in mind that this talk is purely shelfish on my part -- I learn best by telling the story.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1013</id>
+    <title>MSDN Article Submission for Budding Authors</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>With the increasing number of folks pinging me about submitting Longhorn articles, I thought I'd point folks to the MSDN Article Submission Guidelines, which describe how to establish a relationship with MSDN Developer Centers for article submission ( MSDN Magazine has a separate process for now). Unless you've got a track record and can talk a Developer Center into a series right off the bat, you're likely going to be working gratis on the first few articles 'til you've established a reputation, but it's a...</summary>
+    <content type="html">&lt;h1>MSDN Article Submission for Budding Authors&lt;/h1>
+With the increasing number of folks pinging me about submitting Longhorn articles, I thought I'd point folks to the &lt;A href="http://msdn.microsoft.com/aboutmsdn/submit.asp">MSDN Article Submission Guidelines&lt;/A>, which describe how to establish a relationship with MSDN Developer Centers for article submission (&lt;A href="http://msdn.microsoft.com/msdnmag/submit.aspx">MSDN Magazine has a separate process&lt;/A> for now). Unless you've got a track record and can talk a Developer Center into a series right off the bat, you're likely going to be working gratis on the first few articles 'til you've established a reputation, but it's a nice way for new authors to see their name in lights. If you've got a Longhorn-specific article idea, you can also &lt;A href="mailto:csells@microsoft.com?subject=Longhorn Article Idea">send it directly to me&lt;/A> for a slightly quicker way to get it into my hands.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1010</id>
+    <title>Announcing The Longhorn Developer Platform Survey</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>Here. Give Microsoft formal feedback on Longhorn so that we can act on it more effectively.</summary>
+    <content type="html">&lt;h1>Announcing The Longhorn Developer Platform Survey &lt;/h1>
+&lt;a href="http://weblogs.asp.net/edkaim/posts/44762.aspx">Here&lt;/a>. Give Microsoft formal feedback on Longhorn so that we can act on it more effectively.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1008</id>
+    <title>Mr. Blyth Goes To Town (Redmond, specifically...)</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>Here. In his recent visit to Microsoft's main campus in Redmond, WA, he describes what I expected to find myself: Out of the waiting room, we stepped into an airlock. I thought the airlock was a little over the top, but figured that Microsoft knew best, so I just went along with it. The door behind us clanked shut, and my ears popped as the air pressure in the room changed. Some vents in the ceiling opened, and I heard a faint hissing noise. Looking up, I saw a red mist swirling below the ceiling, corkscrew...</summary>
+    <content type="html">&lt;h1>Mr. Blyth Goes To Town (Redmond, specifically...)&lt;/h1>
+&lt;a href="http://neopoleon.com/blog/posts/2106.aspx">Here&lt;/a>. &lt;P>In his recent visit to Microsoft's main campus in Redmond, WA, he describes what I expected to find myself:&lt;/P>
+&lt;BLOCKQUOTE>
+&lt;P>Out of the waiting room, we stepped into an airlock. I thought the airlock was a little over the top, but figured that Microsoft knew best, so I just went along with it.&lt;/P>
+&lt;P>The door behind us clanked shut, and my ears popped as the air pressure in the room changed. Some vents in the ceiling opened, and I heard a faint hissing noise.&lt;/P>
+&lt;P>&lt;/P>
+&lt;P>Looking up, I saw a red mist swirling below the ceiling, corkscrewing, and drooping in little wisps. I felt confused, but figured that it was only because one hemisphere of my brain had been removed in order to accommodate the borg unit.&lt;/P>
+&lt;P>A few seconds later, I caught a sweet smell in the olfactory glands and a tingly sensation on my tongue. It smacked of tropical punch, with perhaps just a little too much sugar.&lt;/P>
+&lt;P>The taste was familiar. It reminded me of some far off childhood - summers on a tire-swing, baseball at the park, and other simple pleasures. There was a common thread woven through all these events, and it had to do with this taste. This sweet, sugary, tropical-punchity flavor... It tasted like.. like...&lt;/P>&lt;I>
+&lt;P>Eureka!&lt;/P>&lt;/I>
+&lt;P>&lt;I>So&lt;/I>, I thought to myself, &lt;I>Microsoft has finally figured out how to create an airborne Kool-Aid. This is an unexpected turn of events. I wonder what else these engineers of mayhem have in store for me. What, indeed..."&lt;/I>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Disappointingly, while &lt;a href="/12553">the culture is very different from any other company I've ever encountered&lt;/A>, Microsoft is mostly normal (mostly... : ).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1007</id>
+    <title>Microsoft "Longhorn" Help Highlights</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>Here. Matthew Ellison, from WinWriters.com, discusses his highlights of the new help system in Longhorn.</summary>
+    <content type="html">&lt;h1>Microsoft "Longhorn" Help Highlights&lt;/h1>
+&lt;a href="http://www.winwriters.com/articles/longhorn/index.html">Here&lt;/a>. Matthew Ellison, from WinWriters.com, discusses his highlights of the new help system in Longhorn.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1011</id>
+    <title>Mary Jo Interviews Don Box</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>Here. Mary Jo Foley interviews Don Box on the origins of Indigo, the status of SOAP, the definition of SOA and Miguel de Icaza. Unfortunately, Mary Jo doesn't dig for any dirt and Don doesn't volunteer any, so it's a relatively boring interview. Luckily, it's short. </summary>
+    <content type="html">&lt;h1>Mary Jo Interviews Don Box&lt;/h1>
+&lt;a href="http://www.microsoft-watch.com/article2/0,4248,1418556,00.asp">Here&lt;/a>. &lt;P>Mary Jo Foley interviews Don Box on the origins of Indigo, the status of SOAP, the definition of SOA and Miguel de Icaza. Unfortunately, Mary Jo doesn't dig for any dirt and Don doesn't volunteer any, so it's a relatively boring interview. Luckily, it's short.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1009</id>
+    <title>Scoble Makes My Life Easier</title>
+    <updated>2003-12-22T08:00:00.000Z</updated>
+    <published>2003-12-22T08:00:00.000Z</published>
+    <summary>Robert Scoble provided a major boost in my productivity today by adding titles to his RSS feed. Thank you, Robert.</summary>
+    <content type="html">&lt;h1>Scoble Makes My Life Easier&lt;/h1>
+&lt;A href="http://radio.weblogs.com/0001011/">Robert Scoble&lt;/A> provided a major boost in my productivity today by adding titles to &lt;A href="http://radio.weblogs.com/0001011/rss.xml">his RSS feed&lt;/A>. Thank you, Robert.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1005</id>
+    <title>Visual Studio Magazine: Get a Grip on Longhorn</title>
+    <updated>2003-12-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-12-19T08:00:00.000Z</published>
+    <summary>Here. Roger Jennings provides a nice overview of the major bits of Longhorn for folks that haven't seen them yet.</summary>
+    <content type="html">&lt;h1>Visual Studio Magazine: Get a Grip on Longhorn&lt;/h1>
+&lt;a href="http://www.ftponline.com/vsm/2004_02/magazine/features/rjennings/default.aspx">Here&lt;/a>. Roger Jennings provides a nice overview of the major bits of Longhorn for folks that haven't seen them yet.</content>
+  </entry>
+</feed>

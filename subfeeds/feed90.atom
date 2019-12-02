@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed90.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed89.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed91.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed90.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1152</id>
+    <title>WinXP SP2 Training Course for Developers</title>
+    <updated>2004-02-24T08:00:00.000Z</updated>
+    <published>2004-02-24T08:00:00.000Z</published>
+    <summary>The MSDN Security Developer Center has an overview of what XP SP2 will mean for developers. Now is better than later to check this out!</summary>
+    <content type="html">&lt;h1>WinXP SP2 Training Course for Developers&lt;/h1>
+&lt;A href="http://msdn.microsoft.com/security/">The MSDN Security Developer Center&lt;/A> has &lt;A href="http://msdn.microsoft.com/security/productinfo/XPSP2/introduction.aspx">an overview of what XP SP2 will mean for developers&lt;/A>. Now is better than later to check this out!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1142</id>
+    <title>Avalon Bezier Spline Designer Code</title>
+    <updated>2004-02-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-23T08:00:00.000Z</published>
+    <summary>Here. By popular demand, Nikhil Kothari, a PM on the ASP.NET team, has posted the source code to his most excellent Avalon Bezier Spline Designer. This is the coolest real Longhorn thing I've seen that comes with soure. Thanks, Nikhil!</summary>
+    <content type="html">&lt;h1>Avalon Bezier Spline Designer Code&lt;/h1>
+&lt;a href="http://www.nikhilk.net/Entry.aspx?id=31">Here&lt;/a>. By popular demand, Nikhil Kothari, a PM on the ASP.NET team, has posted &lt;A href="http://www.nikhilk.net/Content/Samples/BezierCode.zip">the source code&lt;/A> to &lt;A href="http://www.nikhilk.net/Entry.aspx?id=30">his most excellent Avalon Bezier Spline Designer&lt;/A>. This is the coolest real Longhorn thing I've seen that comes with soure. Thanks, Nikhil!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1143</id>
+    <title>50% Evil is Still 50% Good</title>
+    <updated>2004-02-23T08:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-02-23T08:00:00.000Z</published>
+    <summary>According to the The Gematriculator, sellsbrothers.com is 50% evil. Nothing about "genius" is mentioned... [via Ryan Farley ] </summary>
+    <content type="html">&lt;h1>50% Evil is Still 50% Good&lt;/h1>
+&lt;P>According to the &lt;A href="http://homokaasu.org/gematriculator/">The Gematriculator&lt;/A>, &lt;A HREF="">sellsbrothers.com&lt;/A> is 50% evil. Nothing about &lt;a href="/12621">"genius"&lt;/A> is mentioned...&lt;/P>
+&lt;P>[via &lt;A href="http://www2.ryanfarley.com:82/blog/">Ryan Farley&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1144</id>
+    <title>Chat: Longhorn Roadmap for Existing C/C++ Apps</title>
+    <updated>2004-02-23T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-23T08:00:00.000Z</published>
+    <summary>On Monday, March 15th between 11am and 12:30pm PST, the VC++ product team will be hosting a chat on what to do with your existing C, C++ and MFC applications in the Longhorn time frame, starting with what to do now to best prepare yourself and your applications. If you're a VC++ developer, don't miss it!</summary>
+    <content type="html">&lt;h1>Chat: Longhorn Roadmap for Existing C/C++ Apps&lt;/h1>
+On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032245114">the VC++ product team will be hosting a chat on what to do with your existing C, C++ and MFC applications in the Longhorn time frame&lt;/A>, starting with what to do now to best prepare yourself and your applications. If you're a VC++ developer, don't miss it!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1145</id>
+    <title>Getting Started with Your Own Software Company</title>
+    <updated>2004-02-23T08:00:00.000Z</updated>
+    <published>2004-02-23T08:00:00.000Z</published>
+    <summary>It's hard to dispute a savvy marketing/business guy who brackets paragraphs with "#ifdef do_as_I_say_not_as_I_do" and sites as potential platform problems that "The user's dog is barking at your app" (the latter had me laughing out loud). Eric's latest piece on getting starting with your own software company rocks (as usual : ). BTW, I've seen the Eric's next piece and a Gary Larson reference had me in stitches, so remember to come back next month! </summary>
+    <content type="html">&lt;h1>Getting Started with Your Own Software Company&lt;/h1>
+&lt;P>It's hard to dispute a savvy marketing/business guy who brackets paragraphs with "#ifdef do_as_I_say_not_as_I_do" and sites as potential platform problems that "The user's dog is barking at your app" (the latter had me laughing out loud). &lt;A href="http://msdn.microsoft.com/longhorn/community/business/default.aspx?pull=/library/en-us/dnsoftware/html/software02242004.asp">Eric's latest piece on getting starting with your own software company rocks&lt;/A> (as usual : ).&lt;/P>
+&lt;P>BTW, I've seen the Eric's next piece and a Gary Larson reference had me in stitches, so remember to &lt;A href="http://msdn.microsoft.com/longhorn/community/business/default.aspx">come back next month&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1146</id>
+    <title>Genghis v0.5 On the Way, But Baby First</title>
+    <updated>2004-02-23T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-02-23T08:00:00.000Z</published>
+    <summary>Here. For those folks asking, another drop of Genghis is on the way, which includes an HTML link class that handles links for you, a&amp;nbsp;user-sizeable panel, a gradient progress bar, a completely revamped FileDocument and a host of fixes and enhancements, including stacking support and terminal server support for toast windows. However, before that can come, Mike Marshall, the Genghis build-master, stopped to email me about the impending arriving of his first child. Now *that's* dedication! I doubt if I'd ...</summary>
+    <content type="html">&lt;h1>Genghis v0.5 On the Way, But Baby First&lt;/h1>
+&lt;a href="http://genghisgroup.com">Here&lt;/a>. &lt;P>For those folks asking, another drop of Genghis is on the way, which includes an HTML link class that handles links for you, a&amp;nbsp;user-sizeable panel, a gradient progress bar, a completely revamped FileDocument and a host of fixes and enhancements, including stacking support and terminal server support for toast windows. However, before that can come, Mike Marshall, the Genghis build-master, stopped to email me about the impending arriving of his first child. Now *that's* dedication! I doubt if I'd stop to email any of the folks in charge of the shared source projects I'm involved with on the way to the hospital... : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1141</id>
+    <title>Adding Ref-Counting to Rotor</title>
+    <updated>2004-02-22T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-02-22T08:00:00.000Z</published>
+    <summary>Here. Well, I can't put it off any longer. I wanted to wait 'til Chris Tavares and I were able to figure out what the problem was, but after months of help from the Compuware guys using a complementary hunk of their latest and greatest profiling software, we're no closer to finding out what causes the massive slow-down in compiling Rotor when we add our ref-counting implementation to it. The problem, of course, is that if we can't figure out what the problem is, we can't optimize our implementation to fix i...</summary>
+    <content type="html">&lt;h1>Adding Ref-Counting to Rotor&lt;/h1>
+&lt;a href="/public/writing/refcount_rotor.doc">Here&lt;/a>. &lt;P>&lt;A HREF="/public/writing/refcount_rotor.doc">Well, I can't put it off any longer.&lt;/A> I wanted to wait 'til Chris Tavares and I were able to figure out what the problem was, but after months of help from the Compuware guys using a complementary hunk of their latest and greatest profiling software, we're no closer to finding out what causes the massive slow-down in compiling Rotor when we add our ref-counting implementation to it. The problem, of course, is that if we can't figure out what the problem is, we can't optimize our implementation to fix it.&lt;/P>
+&lt;P>The good news is that once we wait for the compilation to complete, the hybrid ref-counting (for deterministic resource management) + ref-tracking (for memory management) programming model is a thing of beauty. No longer do you have to write Dispose methods or even call Dispose methods, because our updated JITter takes care of it for you.&lt;/P>
+&lt;P>However, because compilation of Rotor makes such nice use as a managed test of our implementation and because it currently sucks butt perf-wise, we're stuck.&amp;nbsp;If you're into the low-level guts and you've got the time (that's what Chris and I ran out of), we'd love your feedback on our perf problems. Who knows, if we can make it efficient, MS might stick it into the next version of the CLR... (but I don't work for that team, so don't hold me to that : ).&lt;/P>
+&lt;P>BTW, I'd like to really thank Chris Tavares for his implementation work. It was my idea and my funding, but he did all the work up to and including several drafts of the paper. All I did was complain. Thanks, Chris, and I hope you're enjoying your child, which is a far better way to spend your free time than implementing my cockamamie ideas in Rotor.&lt;/P>
+&lt;P>BTW2, I'd like to take this opportunity to publicly apologize to Brian Harry. It is definitely the case that &lt;A href="http://discuss.develop.com/archives/wa.exe?A2=ind0007&amp;amp;L=DOTNET&amp;amp;P=R24819&amp;amp;I=3">ref-counting *can* be added to .NET&lt;/A> but &lt;A href="http://discuss.develop.com/archives/wa.exe?A2=ind0010A&amp;amp;L=DOTNET&amp;amp;P=R28572&amp;amp;I=3">I have in no way shown that it *should* be done&lt;/A>. Thanks for letting me try, though. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1140</id>
+    <title>Ryan Dawson on Indigo</title>
+    <updated>2004-02-21T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-21T08:00:00.000Z</published>
+    <summary>Ryan Dawson turns his attention to Indigo, building a client and server and then adding security and reliability. In his writing, he also points out a number of pitfalls for you to avoid when getting starting with Indigo in the PDC bits.</summary>
+    <content type="html">&lt;h1>Ryan Dawson on Indigo&lt;/h1>
+&lt;A href="http://www.longhornblogs.com/rdawson/articles/IndigoWallstreet.aspx">Ryan Dawson turns his attention to Indigo&lt;/A>, building a client and server and then adding security and reliability. In his writing, he also points out a number of pitfalls for you to avoid when getting starting with Indigo in the PDC bits.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1138</id>
+    <title>WinFS Scenario #2: Event Planning</title>
+    <updated>2004-02-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-20T08:00:00.000Z</published>
+    <summary>Jeremy Mazner presents his second scenario for WinFS, this time describing his idea app for event management that would be cake to implement using WinFS. In fact, I'm pretty sure you could do the whole thing in the shell. On a related note, I was watching an internal training video on WinFS yesterday and it excited me in a way that's not appropriate for humans to feel about technology. The enumeration, update, serialization, relationship, extensibility and notification models just all seem so *right*. I'm l...</summary>
+    <content type="html">&lt;h1>WinFS Scenario #2: Event Planning &lt;/h1>
+&lt;P>&lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/19/76828.aspx">Jeremy Mazner presents his second scenario for WinFS&lt;/A>, this time describing his idea app for event management that would be cake to implement using WinFS. In fact, I'm pretty sure you could do the whole thing in the shell.&lt;/P>
+&lt;P>On a related note, I was watching an internal training video on WinFS yesterday and it excited me in a way that's not appropriate for humans to feel about technology. The enumeration, update, serialization, relationship, extensibility and notification models just all seem so *right*. I'm looking forward to another drop of the bits that enables me to extend WinFS so I can really start building stuff.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1139</id>
+    <title>Exploring New WinForm Controls in VS .NET Whidbey</title>
+    <updated>2004-02-20T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-20T08:00:00.000Z</published>
+    <summary>Long before Longhorn, we'll have Whidbey and an updated Windows Forms (as well as a bunch of other updated things, but I like Windows Form : ). This article enumerates some of the updated controls in Windows Forms Whidbey. &amp;nbsp;Also, stay turned for an MSDN Magazine article by Michael Weinhardt and me with a broader look at what's new in Whidbey Windows Forms (in fact, Michael has already tackled the new GridView control ).</summary>
+    <content type="html">&lt;h1>Exploring New WinForm Controls in VS .NET Whidbey&lt;/h1>
+Long before Longhorn, we'll have Whidbey and an updated Windows Forms (as well as a bunch of other updated things, but I like Windows Form : ). &lt;A href="http://www.devx.com/codemag/Article/20145/0/page/1">This article enumerates some of the updated controls in Windows Forms Whidbey.&lt;/A>&amp;nbsp;Also, stay turned for an MSDN Magazine article by Michael Weinhardt and me with a broader look at what's new in Whidbey Windows Forms (in fact, &lt;A href="http://msdn.microsoft.com/columns/winforms.asp">Michael has already tackled the new GridView control&lt;/A>).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1134</id>
+    <title>Monkeying For Rory at PADNUG</title>
+    <updated>2004-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-19T08:00:00.000Z</published>
+    <summary>Rory has graciously allowed me to volunteer as his code/slide monkey at his Portland Area.NET User's Group meeting talk on Thursday, 2/26 at 6:30pm. The topic, in his words: "2/3 'Stuff you can use right now' and 1/3 'When pigs fly (Longhorn)'." I miss monkeying with my DM brethren, so I'm looking forward to this very much.</summary>
+    <content type="html">&lt;h1>Monkeying For Rory at PADNUG&lt;/h1>
+Rory has graciously allowed me to volunteer as his code/slide monkey at &lt;A href="http://www.padnug.org/padnug/meetings.aspx?ID=86">his Portland Area .NET User's Group meeting talk on Thursday, 2/26 at 6:30pm&lt;/A>. The topic, in his words: "2/3 'Stuff you can use right now' and 1/3 'When pigs fly (Longhorn)'." I miss monkeying with my DM brethren, so I'm looking forward to this very much.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1137</id>
+    <title>Prepare for Longhorn: Architecture Strategy Series</title>
+    <updated>2004-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-19T08:00:00.000Z</published>
+    <summary>Steve Kirk has updated the Architecture Developer Center with a series of streaming video presentations about the core architectures that motivated Longhorn. Topics range Pat Helland on comparing technology architectures with city architectures to Gurdeep Singh Pall talking about real-time collaboration, which a wide range of subjects in between. If you'd like to get your head in the same place that Microsoft's architects were when the conceived of Longhorn, while still getting information that you can use ...</summary>
+    <content type="html">&lt;h1>Prepare for Longhorn: Architecture Strategy Series&lt;/h1>
+Steve Kirk has updated &lt;A href="http://msdn.microsoft.com/architecture/">the Architecture Developer Center&lt;/A> with &lt;A href="http://msdn.microsoft.com/architecture/overview/series/">a series of streaming video presentations about the core architectures that motivated Longhorn&lt;/A>. Topics range Pat Helland on comparing technology architectures with city architectures to Gurdeep Singh Pall talking about real-time collaboration, which a wide range of subjects in between. If you'd like to get your head in the same place that Microsoft's architects were when the conceived of Longhorn, while still getting information that you can use today, check these out.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1133</id>
+    <title>Anon Delegates and Higher Order Procedures in C#</title>
+    <updated>2004-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-19T08:00:00.000Z</published>
+    <summary>Steve Maine has written a very nice piece on anonymous delegates and higher order procedures in C# Whidbey. Enjoy. I know I did.</summary>
+    <content type="html">&lt;h1>Anon Delegates and Higher Order Procedures in C#&lt;/h1>
+Steve Maine has written &lt;A href="http://msdnaa.net/Resources/display.aspx?ResID=2488">a very nice piece on anonymous delegates and higher order procedures in C# Whidbey&lt;/A>. Enjoy. I know I did.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1135</id>
+    <title>What The Heck Is a "Smart Client" Anyway?</title>
+    <updated>2004-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-19T08:00:00.000Z</published>
+    <summary>In the most recent Microsoft Architecture Update newsletter, David Hill defines just what the heck Microsoft means when the sling around the term "smart client." Worth reading for the Ven diagram alone.</summary>
+    <content type="html">&lt;h1>What The Heck Is a "Smart Client" Anyway?&lt;/h1>
+In the most recent &lt;A href="http://msdn.microsoft.com/architecture/community/newsletter/">Microsoft Architecture Update newsletter&lt;/A>, David Hill defines just &lt;A href="http://msdn.microsoft.com/architecture/community/newsletter/#au1">what the heck Microsoft means when the sling around the term "smart client."&lt;/A> Worth reading for the Ven diagram alone.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1132</id>
+    <title>Avalon DataTransformer Sample</title>
+    <updated>2004-02-19T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-02-19T08:00:00.000Z</published>
+    <summary>Jason Nadal posted a description of the DataTransformer. A DataTransformer is a handy way to transform data-bound data into another format, like a number into a formatted string or a string into a background color. Make sure to download the B sample, which shows things a little more completely.</summary>
+    <content type="html">&lt;h1>Avalon DataTransformer Sample&lt;/h1>
+Jason Nadal posted &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/02/17/75303.aspx">a description of the DataTransformer&lt;/A>. A DataTransformer is a handy way to transform data-bound data into another format, like a number into a formatted string or a string into a background color. Make sure to &lt;A href="http://www.restlessdelusions.com/projects/archive/datatransformersampleb.zip">download the B sample&lt;/A>, which shows things a little more completely.</content>
+  </entry>
+</feed>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed130.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed129.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed131.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed130.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/601</id>
+    <title>My First API Review</title>
+    <updated>2003-06-04T07:00:00.000Z</updated>
+    <published>2003-06-04T07:00:00.000Z</published>
+    <summary>Here. The one where I crash a Longhorn API review and get to help name a data structure.</summary>
+    <content type="html">&lt;h1>My First API Review&lt;/h1>
+&lt;a href="/12550">Here&lt;/a>. The one where I crash a Longhorn API review and get to help name a data structure.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12550</id>
+    <title>My First API Review</title>
+    <updated>2003-06-04T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-04T07:00:00.000Z</published>
+    <summary>Wed, June 4, 2003 Maybe you're getting tired of my posting my &amp;quot;firsts&amp;quot; at MS, but that's the beauty of this medium. I get to say what I feel like and you get to listen or not, as you choose. Mostly this &amp;quot;Dear Diary&amp;quot; format helps me to digest the world around me. Many times, the writing itself has helped me to clear my head. If you haven't tried it yourself, I recommend it. So, on with my next &amp;quot;first.&amp;quot; Today I crashed an API review. I happen to be on a few internal Longhorn mail...</summary>
+    <content type="html">&lt;h1>My First API Review&lt;/h1>
+&lt;p>&lt;i>
+Wed, &lt;span class="created">June 4, 2003&lt;/span>&lt;/i>&lt;/p>&lt;p>Maybe you're getting tired of my posting my &amp;quot;firsts&amp;quot; 
+at MS, but that's the beauty of this medium. I get to say what I feel like and 
+you get to listen or not, as you choose. Mostly this &amp;quot;Dear Diary&amp;quot; format helps 
+me to digest the world around me. Many times, the writing itself has helped me 
+to clear my head. If you haven't tried it yourself, I recommend it.&lt;/p>&lt;p>So, on 
+with my next &amp;quot;first.&amp;quot; Today I crashed an API review. I happen to be on a few 
+internal Longhorn mailing lists and recently got an announcement of a new API 
+that was going up for its first review. I didn't know what to expect, but I 
+hoped at least to see some familiar faces and to introduce myself around.&lt;/p>&lt;p>
+Now, the way I work things, I try to really pack myself into meetings when I'm 
+up in Redmond so that I can get the most out of my time away from home (I'm 
+still based in Portland, OR). In this case, I had a meeting scheduled from 9am 
+to 10am in building 5 and then had to truck across campus to building 42 for the 
+API review at 10am. Needless to say, I was late (the only thing harder than 
+finding parking in the sea of cars after 9am is finding your anonymous rental 
+car when you come back for it). Luckily, MS meetings seem to start late as a 
+matter of course, so I hadn't missed anything. However, I was a bit surprised 
+that in more than a month of introducing myself around, there was a room full of 
+10+ people and no familiar faces. They glanced up at me when I came in the door 
+and seemed a bit confused as to who I was, but didn't ask or toss me out on my 
+butt (it's handy being 6'5&amp;quot; sometimes : ).&lt;/p>&lt;p>The process was pretty cool. 
+Apparently the team building the API had answered a standard questionnaire from 
+the review team, which included target users, potential security problems and 
+representative sample code that users would be expected to construct. The review 
+team had prepared by going over the questionnaire and prepared topics of 
+discussion (the latter making this review process better than most I'd 
+attended). The API team provided answers to the questions and took notes on how 
+to fix their API.&lt;/p>&lt;p>I was impressed with the whole thing. The API team was 
+very open to suggestions for improvement, even letting me put in my two cents (I 
+couldn't help myself : ). And the design team gave out just the kind of advice I 
+want all .NET APIs to follow, e.g. use best practice coding conventions in 
+sample code, support IDisposable at a macro level instead of a micro level, 
+expose collections from properties returning IEnumerable (not from the parent 
+object itself), prefer properties over Get/Set methods (as appropriate), don't 
+tack the name of the enumeration type onto the enumeration values themselves, 
+prefer overloads to parameters that can be null, prefer typed parameters to 
+object parameters, etc. In addition, where the API team had reinvented the wheel 
+(they were experts in their problem domain, not the entire .NET Framework Class 
+Library, after all), the review team pointed them at what to emulate and where 
+to look for more guidance. The whole process gave me quite a bit of confidence 
+in .NET maintaining the high degree of consistency that's it's achieved to date 
+(the FCL consistency is not perfect, I admit, but it's a damn sight better than 
+COM APIs ever were and don't even get me started on Win32).&lt;/p>&lt;p>After all 
+that, I did finally get to introduce myself (the note taker on the API team 
+wanted to know who was complaining : ), I helped name a Longhorn data structure 
+and I met a General PM that I needed to talk to anyway, so it was a useful 
+experience all around.&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/598</id>
+    <title>SQL Buddy</title>
+    <updated>2003-06-03T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2003-06-03T07:00:00.000Z</published>
+    <summary>Here. I got turned onto this tool internally and I love it. It installs simply, works intuitively and allows for easy ad hoc queries and commands. Recommended.</summary>
+    <content type="html">&lt;h1>SQL Buddy&lt;/h1>
+&lt;a href="http://sqlbuddy.sourceforge.net/">Here&lt;/a>. I got turned onto this tool internally and I love it. It installs simply, works intuitively and allows for easy ad hoc queries and commands. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/600</id>
+    <title>Submitting to Billg's ThinkWeek</title>
+    <updated>2003-06-03T07:00:00.000Z</updated>
+    <published>2003-06-03T07:00:00.000Z</published>
+    <summary>Here. The one where I submit a paper to Billg's ThinkWeek and wonder what I heck I got myself into.</summary>
+    <content type="html">&lt;h1>Submitting to Billg's ThinkWeek&lt;/h1>
+&lt;a href="/12551">Here&lt;/a>. The one where I submit a paper to Billg's ThinkWeek and wonder what I heck I got myself into.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12551</id>
+    <title>Submitting to Billg's ThinkWeek</title>
+    <updated>2003-06-03T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2003-06-03T07:00:00.000Z</published>
+    <summary>As has been mentioned out in the world, every once in a while Billg takes time to back away from whatever he's working on to think big thoughts. Employees are allowed to influence those thoughts by sending in papers about whatever they want. I heard about this a few days before the deadline and, as I had an idea for something, I wrote up a quick treatment. In spite of the odds against me, I couldn't let such an opportunity pass by w/o even trying! I sent my short piece around internally and, because of it's...</summary>
+    <content type="html">&lt;h1>Submitting to Billg's ThinkWeek&lt;/h1>
+&lt;p>As has 
+been mentioned out in the world, every once in a while Billg takes time to back 
+away from whatever he's working on to think big thoughts. Employees are allowed 
+to influence those thoughts by sending in papers about whatever they want. I 
+heard about this a few days before the deadline and, as I had an idea for 
+something, I wrote up a quick treatment. In spite of the odds against me, I 
+couldn't let such an opportunity pass by w/o even trying!&lt;/p>&lt;p>I sent my short 
+piece around internally and, because of it's length (I only had time to put 
+together 2.5 pages), I expected to get all kinds of feedback of the lack of 
+depth. Surprisingly, I only got one of those and a bunch of positive feedback, 
+including some useful tweaks.&lt;/p>&lt;p>After applying the tweaks and running into 
+the limit of time I could spend on it (I did have any actual job to do, after 
+all : ), I sent my paper to the screener that makes sure that Bill's not 
+bothered by trivial things, expecting to hear where to file it. But I didn't 
+hear that. In fact, I didn't hear anything at all 'til today when &lt;a href="#myFirstVpMeeting">
+my own patron St. VP&lt;/a> thanked me for my submission, being all kinds of vague 
+about whether Bill will be handed my paper or not, but pointing me to some folks 
+internally about making my idea happen. I took this as letting me down gently, 
+but further emails indicated that my paper *had* been sent along to Bill.&lt;/p>&lt;p>
+Now I'm wondering what the heck Bill will do with it. Ignore it? Shred it? Send 
+me an email with a single line, &amp;quot;Make it so, #1?&amp;quot; I'm not sure which one is 
+scarier. After having survive my first encounter with a VP, I wonder if I'll 
+survive my first encounter with it's commander and chief. Keep your fingers 
+crossed. : )&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/599</id>
+    <title>Launching NTD Apps. w/ Command Line Args.</title>
+    <updated>2003-06-03T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-03T07:00:00.000Z</published>
+    <summary>Here. Easily one of the questions I get asked the most once folks start using no-touch deployment (NTD) applications, that is Windows Forms applications that can launched with an URL, is how they can pass command line arguments to them. This article lays out the client-side and server-side code needed to make this happen. Enjoy.</summary>
+    <content type="html">&lt;h1>Launching NTD Apps. w/ Command Line Args.&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. Easily one of the questions I get asked the most once folks start using no-touch deployment (NTD) applications, that is Windows Forms applications that can launched with an URL, is how they can pass command line arguments to them. This article lays out the client-side and server-side code needed to make this happen. Enjoy.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/597</id>
+    <title>MSDN Article: No Touch Deployment</title>
+    <updated>2003-06-02T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2003-06-02T07:00:00.000Z</published>
+    <summary>Here. From JosephCooney: Chris has a new MSDN article on passing command-line parameters to "No Touch Deployment" windows forms applications</summary>
+    <content type="html">&lt;h1>MSDN Article: No Touch Deployment&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. From JosephCooney: Chris has a new MSDN article on passing command-line parameters to "No Touch Deployment" windows forms applications</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/596</id>
+    <title>SmartConsult .NET</title>
+    <updated>2003-06-01T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-06-01T07:00:00.000Z</published>
+    <summary>Here. From Sundaranarayanan Subramaniam: Binarymission offers SmartConsult.NET – a cost-effective custom component development programme! Are you in need of a custom.NET component to be developed? And you want it to be cost effective and at the same time be of the best possible quality? And above all, you just don’t have the time to develop it yourself? We can hear you say – "Absolutely!". You have just come to the right place! We have the right solution for you! Read on, to find out what our new SmartConsu...</summary>
+    <content type="html">&lt;h1>SmartConsult .NET&lt;/h1>
+&lt;a href="http://www.binarymission.co.uk/consult.aspx">Here&lt;/a>. From Sundaranarayanan Subramaniam: Binarymission offers SmartConsult .NET – a cost-effective custom component development programme!
+ 
+Are you in need of a custom .NET component to be developed? And you want it to be cost effective and at the same time be of the best possible quality? And above all, you just don’t have the time to develop it yourself?
+ 
+ 
+We can hear you say – "Absolutely!". You have just come to the right place! We have the right solution for you!  
+ 
+Read on, to find out what our new SmartConsult .NET programme can do for you!
+ 
+What is this plan all about? 
+ 
+In simple words - You get your custom .NET components developed for one simple flat fee! Period!
+ 
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/595</id>
+    <title>Code Library for .Net 3.0</title>
+    <updated>2003-05-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-05-31T07:00:00.000Z</published>
+    <summary>Here. From fish: Helps you to find and use the code snippet.</summary>
+    <content type="html">&lt;h1>Code Library for .Net 3.0&lt;/h1>
+&lt;a href="http://myweb.hinet.net/home4/s630417/">Here&lt;/a>. From fish: Helps you to find and use the code snippet.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/594</id>
+    <title>Feature packed "Date Picker" control for .NET!</title>
+    <updated>2003-05-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2003-05-31T07:00:00.000Z</published>
+    <summary>Here. From Sundaranarayanan Subramaniam: Binarymission proudly presents BinaryDatePicker.NET (Version 1.0) - An advanced Microsoft© Outlook© styled, date picker WinForms©.NET control. BinaryDatePicker.NET Ver. 1.0 is an advanced Microsoft.NET WinForms© Component, providing an Outlook© styled, feature-rich and highly configurable, calendar (date picker) functionality for Microsoft WinForms©.NET platform. Also checkout our newly released.NET component prodcut-line! </summary>
+    <content type="html">&lt;h1>Feature packed "Date Picker" control for .NET!&lt;/h1>
+&lt;a href="http://www.binarymission.co.uk">Here&lt;/a>. From Sundaranarayanan Subramaniam: Binarymission proudly presents BinaryDatePicker .NET (Version 1.0) - An advanced Microsoft© Outlook© styled, date picker WinForms© .NET control.
+ 
+BinaryDatePicker .NET Ver. 1.0 is an advanced Microsoft .NET WinForms© Component, providing an Outlook© styled, feature-rich and highly configurable, calendar (date picker) functionality for Microsoft WinForms© .NET platform. 
+
+Also checkout our newly released .NET component prodcut-line!
+
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/593</id>
+    <title>MSDN Security Developer Center</title>
+    <updated>2003-05-30T07:00:00.000Z</updated>
+    <published>2003-05-30T07:00:00.000Z</published>
+    <summary>Here. Concerned about making your Windows code secure? Start here. Recommended.</summary>
+    <content type="html">&lt;h1>MSDN Security Developer Center&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/security/">Here&lt;/a>. Concerned about making your Windows code secure? Start here. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12391</id>
+    <title>How Would You Move Mount Fuji?</title>
+    <updated>2003-05-29T07:00:00.000Z</updated>
+    <category term="interview" label="Interviewing"/>
+    <published>2003-05-29T07:00:00.000Z</published>
+    <summary>Thu, May 29, 2003 If you're interested in a book about the high-tech interview process, including lots of info about MS specifically (and some material from yours truly), check out How Would You Move Mount Fuji? by William Poundstone. </summary>
+    <content type="html">&lt;h1>How Would You Move Mount Fuji?&lt;/h1>
+&lt;p>&lt;i>Thu, &lt;span class="created">May 29, 2003&lt;/span>&lt;/i>&lt;/p>
+&lt;p>If you're interested in a book about the high-tech interview process, 
+including lots of info about MS specifically (and some material from yours 
+truly), check out
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0316919160/chrissells">
+How Would You Move Mount Fuji?&lt;/a> by William Poundstone.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/592</id>
+    <title>Software Legends Night in Greater Portland, OR</title>
+    <updated>2003-05-29T07:00:00.000Z</updated>
+    <published>2003-05-29T07:00:00.000Z</published>
+    <summary>Here. David Chappell &amp; I will be answering questions at the Borders on Cedar Hills Blvd in Beaverton, OR tonight. Things start at 7pm. As an added treat, my parents are in town for my wife's nursing school graduation and they'll be at Borders wondering what the hell people are all worked up about. : )</summary>
+    <content type="html">&lt;h1>Software Legends Night in Greater Portland, OR&lt;/h1>
+&lt;a href="http://www.softwarelegends.com/events.html">Here&lt;/a>. David Chappell &amp; I will be answering questions at the Borders on Cedar Hills Blvd in Beaverton, OR tonight. Things start at 7pm.
+
+As an added treat, my parents are in town for my wife's nursing school graduation and they'll be at Borders wondering what the hell people are all worked up about. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/590</id>
+    <title>ROI of Programming</title>
+    <updated>2003-05-26T07:00:00.000Z</updated>
+    <published>2003-05-26T07:00:00.000Z</published>
+    <summary>Here. From Carlos Aquino: There is a lot of talk about programming techniques, plataforms, languages and other technical issues. But, what about the ROI? Don't you even know what is ROI? ROI is the Return of the Investment and it is a magical word to the ones who emits your paychecks... Learn more with some papers about.NET ROI, Biztalk ROI and Streaming Media ROI. </summary>
+    <content type="html">&lt;h1>ROI of Programming&lt;/h1>
+&lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=ROI">Here&lt;/a>. From Carlos Aquino: There is a lot of talk about programming techniques, plataforms, languages and other technical issues. But, what about the ROI? Don't you even know what is ROI? ROI is the Return of the Investment and it is a magical word to the ones who emits your paychecks... Learn more with some papers about .NET ROI, Biztalk ROI and Streaming Media ROI. </content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/591</id>
+    <title>Ghost Installer Studio 3.6 Released</title>
+    <updated>2003-05-26T07:00:00.000Z</updated>
+    <published>2003-05-26T07:00:00.000Z</published>
+    <summary>Here. From Ilia Dub: gInstall Corp. has released Ghost Installer Studio 3.6 to make building.NET Installations really easy. The new version comes with Project Wizards for Visual Basic.NET, Visual C#.NET, Visual C++.NET and Visual J#.NET, the ability to re-distribute Microsoft.NET Framework On Demand via Web, and many more.</summary>
+    <content type="html">&lt;h1>Ghost Installer Studio 3.6 Released&lt;/h1>
+&lt;a href="http://www.ginstall.com/">Here&lt;/a>. From Ilia Dub: gInstall Corp. has released Ghost Installer Studio 3.6 to make building .NET Installations really easy. The new version comes with Project Wizards for Visual Basic .NET, Visual C# .NET, Visual C++ .NET and Visual J# .NET, the ability to re-distribute Microsoft .NET Framework On Demand via Web, and many more.</content>
+  </entry>
+</feed>

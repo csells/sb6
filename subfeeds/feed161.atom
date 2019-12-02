@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed161.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed160.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed162.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed161.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/160</id>
+    <title>Visual C++ 7 speed vs Visual C# speed</title>
+    <updated>2002-07-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-31T07:00:00.000Z</published>
+    <summary>Here. "I did a rough experiment the other day with strange results. I created two console apps one is C# and the other if Visual C++ 7. The apps do calculations for Generation of the Mandelbrot Set and time how long it takes. The strange thing is that the Visual C# App is much faster than the C++ App. (1.5 secs per set for the C# App and 1.9 secs per set for the C++ App). This seems totally bizarre to me as I would have thought it would be the opposite. It puts me in the strange situation of thinking about ...</summary>
+    <content type="html">&lt;h1>Visual C++ 7 speed vs Visual C# speed &lt;/h1>
+&lt;a href="http://groups.google.com/groups?dq=&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;frame=right&amp;th=5f2376f49555ab3f&amp;seekm=kfmckus6ho17srurjd68eheml9q9fia8sl%404ax.com#link1">Here&lt;/a>. "I did a rough experiment the other day with strange results. I created two console apps one is C# and the other if Visual C++ 7. The apps do calculations for Generation of the Mandelbrot Set and time how long it takes. The strange thing is that the Visual C# App is much faster than the C++ App. (1.5 secs per set for the C# App and 1.9 secs per set for the C++ App). This seems totally bizarre to me as I would have thought it would be the opposite. It puts me in the strange situation of thinking about rewritting my C++ fractal generator in C# to get more speed !!"
+
+[Windows Technology Off Topic Mailing List]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/159</id>
+    <title>Tim Ewald Finally Gets a Home Page!</title>
+    <updated>2002-07-30T07:00:00.000Z</updated>
+    <published>2002-07-30T07:00:00.000Z</published>
+    <summary>Here. My good friend, Tim Ewald, finally gets a home page, and I have to hear about it on the streets! : ) [pocketsoap.com/weblog]</summary>
+    <content type="html">&lt;h1>Tim Ewald Finally Gets a Home Page!&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/tewald/">Here&lt;/a>. My good friend, Tim Ewald, finally gets a home page, and I have to hear about it on the streets! : )
+
+[pocketsoap.com/weblog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12359</id>
+    <title>My Chris Sells Is A Centerfold!</title>
+    <updated>2002-07-30T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2002-07-30T07:00:00.000Z</published>
+    <summary>sttto Centerfold by J. Geils Band ( http://www.80smusiclyrics.com/artists/jgeilsband.htm ) Yes, he walks, yes, he talks! He'll be your Code Complete! That ATL instructor Sure could put 'em in the seats. He could teach like no one else No one could ever stain The memory of that DM guy Could never cause me pain Years go by, I'm lookin' through a codin' magazine And there's my DM buddy on the pages in between! CHORUS: My blood runs cold My memory has just been sold Instructor is the centerfold, Chris Sells is ...</summary>
+    <content type="html">&lt;h1>My Chris Sells Is A Centerfold!&lt;/h1>
+&lt;p>&lt;i>sttto Centerfold by J. Geils Band (&lt;a href="http://www.80smusiclyrics.com/artists/jgeilsband.htm">http://www.80smusiclyrics.com/artists/jgeilsband.htm&lt;/a>)&lt;/i>&lt;/p>&lt;p>Yes, he walks, yes, he talks!&lt;br>He'll be your Code Complete!&lt;br>That ATL instructor&lt;br>Sure could put 'em in the seats.&lt;br>&lt;br>He could teach like no one else&lt;br>No one could ever stain&lt;br>The memory of that DM guy&lt;br>Could never cause me pain&lt;br>&lt;br>Years go by, I'm lookin' through a codin' magazine&lt;br>&lt;a href="/public/fun/centerfold/">And there's my DM buddy on the pages in between!&lt;/a>&lt;br>&lt;br>CHORUS:&lt;br>My blood runs cold&lt;br>My memory has just been sold&lt;br>Instructor is the centerfold,&lt;br>Chris Sells is the centerfold&lt;br>(Repeat)&lt;br>&lt;br>Shipped me code 'bout ActiveX,&lt;br>While I was thinkin' about GenX&lt;br>IUnknown, IDispatch,&lt;br>He could teach 'em all&lt;br>&lt;br>I was shakin' in my shoes&lt;br>Whenever he flashed those baby-blues&lt;br>Something had a hold on me&lt;br>Whenever Chris passed by&lt;br>&lt;br>That book and cool code samples&lt;br>Too magical to touch&lt;br>To see him in that photograph,&lt;br>Is really just too much!&lt;br>&lt;br>CHORUS&lt;br>&lt;br>It's okay I understand&lt;br>This ain't no never never land&lt;br>I hope that when this issue's gone&lt;br>This memory will TOO be gone&lt;br>&lt;br>Take your car, yes we will&lt;br>We'll take your car and drive it&lt;br>We'll take it to a motel room&lt;br>And leave you there, in private!&lt;br>&lt;br>A part of me has just been ripped&lt;br>The pages from my mind are stripped&lt;br>Oh no, I can't deny it&lt;br>Oh yea, guess I gotta try it!&lt;br>&lt;br>CHORUS&lt;br>&lt;br>&lt;b>Copyright (c) 2002 Anonymous. :-)&lt;/b>&lt;/p>&lt;p>&lt;i>Ted Neward &lt;a href="mailto:[tneward@JAVAGEEKS.COM">[tneward@JAVAGEEKS.COM&lt;/a>]&lt;br>private mailing list&lt;br>Tue &lt;span class="created">7/30/2002 2:06 AM&lt;/span>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/157</id>
+    <title>Internet Security Checker for Win2K</title>
+    <updated>2002-07-30T07:00:00.000Z</updated>
+    <published>2002-07-30T07:00:00.000Z</published>
+    <summary>Here. "The CIS Scoring Tool provides a quick and easy way to evaluate your host systems and compare their level of security against the Benchmarks. Tool reports guide system administrators to harden both new installations and active production systems. The tool is also effective for monitoring systems to assure that security settings continuously conform with the Benchmark." [W2Knews]</summary>
+    <content type="html">&lt;h1>Internet Security Checker for Win2K&lt;/h1>
+&lt;a href="http://www.cisecurity.org/">Here&lt;/a>. "The CIS Scoring Tool provides a quick and easy way to evaluate your host systems and compare their level of security against the Benchmarks. Tool reports guide system administrators to harden both new installations and active production systems. The tool is also effective for monitoring systems to assure that security settings continuously conform with the Benchmark."
+
+[W2Knews]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/158</id>
+    <title>My Chris Sells Is A Centerfold!</title>
+    <updated>2002-07-30T07:00:00.000Z</updated>
+    <published>2002-07-30T07:00:00.000Z</published>
+    <summary>Here. sttto Centerfold by J. Geils Band Yes, he walks, yes, he talks!
+He'll be your Code Complete!
+That ATL instructor
+Sure could put 'em in the seats. He could teach like no one else
+No one could ever stain
+The memory of that DM guy
+Could never cause me pain Years go by, I'm lookin' through a codin' magazine
+And there's my DM buddy on the pages in between! [Ted Neward]</summary>
+    <content type="html">&lt;h1>My Chris Sells Is A Centerfold!&lt;/h1>
+&lt;a href="/12359">Here&lt;/a>. sttto Centerfold by J. Geils Band 
+
+Yes, he walks, yes, he talks!
+He'll be your Code Complete!
+That ATL instructor
+Sure could put 'em in the seats.
+
+He could teach like no one else
+No one could ever stain
+The memory of that DM guy
+Could never cause me pain
+
+Years go by, I'm lookin' through a codin' magazine
+And there's my DM buddy on the pages in between!
+
+[Ted Neward]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/155</id>
+    <title>ASP.NET state management with style (&amp; attributes)</title>
+    <updated>2002-07-27T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-27T07:00:00.000Z</published>
+    <summary>Here. Now *this* is the way that state should be managed in ASP.NET!</summary>
+    <content type="html">&lt;h1>ASP.NET state management with style (&amp; attributes)&lt;/h1>
+&lt;a href="http://radio.weblogs.com/0108971/2002/07/25.html#a29">Here&lt;/a>. Now *this* is the way that state should be managed in ASP.NET!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/147</id>
+    <title>Microsoft XML Diff and Patch 1.0 Beta</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "The primary purpose of the tool is to be able to quickly detect node-level changes between versions of an XML document, and with enough granularity to support efficient patch and merge scenarios. The patch format can be used for fairly terse delta-encoding to transfer incremental changes across the wire as well. The tool is officially called "XmlDiff and Patch" and is implemented in managed code (sorry, no MSXML version). Currently you can only perform XML Diff through the web page, but the assembly ...</summary>
+    <content type="html">&lt;h1>Microsoft XML Diff and Patch 1.0 Beta&lt;/h1>
+&lt;a href="http://www.gotdotnet.com/team/xmltools/xmldiff/">Here&lt;/a>. "The primary purpose of the tool is to be able to quickly detect node-level changes between versions of an XML document, and with enough granularity to support efficient patch and merge scenarios.  The patch format can be used for fairly terse delta-encoding to transfer incremental changes across the wire as well.  The tool is officially called "XmlDiff and Patch" and is implemented in managed code (sorry, no MSXML version).  Currently you can only perform XML Diff through the web page, but the assembly should be available on that site very soon.  I think it is considerably better than anything else available today, in terms of both performance and accuracy, and the API is a good fit with the System.Xml libraries, so it should be really easy for any VB/J#/C#/F# programmers to use."
+
+[netcrucible.com/blog]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/151</id>
+    <title>.NET HandleCollector source and sample</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "Basically the class keeps track of the list of outstanding handles, and when it reaches a certain threshold it can force a GC. Basically the goal here is to do a cheap and easy extension to the GC to try and teach it about the relative expensive of unmanaged objects." This is the way that GDI+ deals with unmanaged resource reclamation and can be used for your own non-memory resources.</summary>
+    <content type="html">&lt;h1>.NET HandleCollector source and sample&lt;/h1>
+&lt;a href="http://discuss.develop.com/archives/wa.exe?A2=ind0107B&amp;L=DOTNET&amp;P=R28803&amp;D=0&amp;I=-3">Here&lt;/a>. "Basically the class keeps track of the list of outstanding handles, and when it reaches a certain threshold it can force a GC. Basically the goal here is to do a cheap and easy extension to the GC to try and teach it about the relative expensive of unmanaged objects."
+
+This is the way that GDI+ deals with unmanaged resource reclamation and can be used for your own non-memory resources.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/149</id>
+    <title>George Shepherd's Windows Forms FAQ</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "Welcome to the Windows Forms FAQ. Questions &amp; Answers in this FAQ are from newsgroup posts, various mailing lists and the employees of Syncfusion. I have tried to mention the source wherever I could." George is a long-time colleague of mine at DevelopMentor as well as the chief author on MFC Internals, which spawned ATL Internals. [radio.weblogs.com/0105852/]</summary>
+    <content type="html">&lt;h1>George Shepherd's Windows Forms FAQ&lt;/h1>
+&lt;a href="http://www.syncfusion.com/faq/winforms/">Here&lt;/a>. "Welcome to the Windows Forms FAQ. Questions &amp; Answers in this FAQ are from newsgroup posts, various mailing lists and the employees of Syncfusion. I have tried to mention the source wherever I could."
+
+George is a long-time colleague of mine at DevelopMentor as well as the chief author on MFC Internals, which spawned ATL Internals.
+
+[radio.weblogs.com/0105852/]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/153</id>
+    <title>VS.NET Update</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. From Michael Weinhardt: "Microsoft plans to deliver this fall a minor update to its Visual Studio.Net suite of development tools, said Eric Rudder, senior vice president of Microsoft's developer and platform evangelism."</summary>
+    <content type="html">&lt;h1>VS.NET Update&lt;/h1>
+&lt;a href="http://news.com.com/2100-1001-946395.html?tag=fd_top">Here&lt;/a>. From Michael Weinhardt: "Microsoft plans to deliver this fall a minor update to its Visual Studio.Net suite of development tools, said Eric Rudder, senior vice president of Microsoft's developer and platform evangelism."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/150</id>
+    <title>The Rotor Architecture Revisited</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "Microsoft's Rotor project, recently refreshed on June 25, 2002, includes source code for the Common Language Infrastructure (CLI) execution engine and frameworks, as well as compilers and other developer tools. The Rotor code can be used, modified, and re-distributed, for non-commercial experimentation, as a basis for courseware or lab projects, or as a guide to those who are developing their own CLI implementations under a simple shared-source license." [radio.weblogs.com/0105852/]</summary>
+    <content type="html">&lt;h1>The Rotor Architecture Revisited&lt;/h1>
+&lt;a href="http://www.oreillynet.com/pub/a/dotnet/2002/07/22/rotor.html">Here&lt;/a>. "Microsoft's Rotor project, recently refreshed on June 25, 2002, includes source code for the Common Language Infrastructure (CLI) execution engine and frameworks, as well as compilers and other developer tools. The Rotor code can be used, modified, and re-distributed, for non-commercial experimentation, as a basis for courseware or lab projects, or as a guide to those who are developing their own CLI implementations under a simple shared-source license."
+
+[radio.weblogs.com/0105852/]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/152</id>
+    <title>Beta-2 of Nunit 2.0 is available</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "Some of the highlights of the new release include the following: "- Attribute based mechanism for specifying test and test fixtures. "- New Forms Interface that displays Tests and TestSuites in an Explorer like fashion. The interface allows you to run individual tests and/or suites from the forms interface. "- Automatic construction of suites based on namespaces. Just provide an assembly and the test runner constructs a suite of all TestFixtures in the assembly. "- Minimal amount of effort to upgrade...</summary>
+    <content type="html">&lt;h1>Beta-2 of Nunit 2.0 is available&lt;/h1>
+&lt;a href="http://sourceforge.net/projects/nunit/">Here&lt;/a>. "Some of the highlights of the new release include the following:
+
+"- Attribute based mechanism for specifying test and test fixtures.
+
+"- New Forms Interface that displays Tests and TestSuites in an Explorer like fashion. The interface allows you to run individual tests and/or suites from the forms interface.
+
+"- Automatic construction of suites based on namespaces. Just provide an assembly and the test runner constructs a suite of all TestFixtures in the assembly.
+
+"- Minimal amount of effort to upgrade due to inclusion of a backwards compatibility class called TestCase and the framework also looks for methods that begin with "test" regardless of case as it did in the past.
+
+"- XML output from the console program."
+
+[DOTNET-PRODUCTS]</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/148</id>
+    <title>Wonders of Windows Forms: You Can Take It with You</title>
+    <updated>2002-07-25T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-25T07:00:00.000Z</published>
+    <summary>Here. "Guest columnist Jim Wilson shows you how the.NET Compact Framework and Smart Device Extensions enable you to develop rich Windows Forms applications for mobile devices."</summary>
+    <content type="html">&lt;h1>Wonders of Windows Forms: You Can Take It with You&lt;/h1>
+&lt;a href="http://msdn.microsoft.com/columns/winforms.asp">Here&lt;/a>. "Guest columnist Jim Wilson shows you how the .NET Compact Framework and Smart Device Extensions enable you to develop rich Windows Forms applications for mobile devices."</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/146</id>
+    <title>ASP.NET - It's not just for IIS anymore....</title>
+    <updated>2002-07-24T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-24T07:00:00.000Z</published>
+    <summary>Here. From Rick Childress: Microsoft will soon be announcing a deal with Covalent to bring ASP.NET to Apache.</summary>
+    <content type="html">&lt;h1>ASP.NET - It's not just for IIS anymore....&lt;/h1>
+&lt;a href="http://news.com.com/2100-1001-946004.html?tag=fd_top">Here&lt;/a>. From Rick Childress: Microsoft will soon be announcing a deal with Covalent to bring ASP.NET to Apache.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/145</id>
+    <title>J2EE versus .NET Part I</title>
+    <updated>2002-07-23T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2002-07-23T07:00:00.000Z</published>
+    <summary>Here. From Keith Wedinger: Rumble in the jungle: J2EE versus.Net, Part 1 from JavaWorld.com. Heard a lot about.Net versus J2EE (Java 2 Platform, Enterprise Edition)? Wondering what that conflict means for you? Well, we wondered the same thing. So, drawing on our combined experiences from both sides of the fence, we put together an unbiased explanation as to how J2EE and.Net match up. Make no mistake, finding unbiased opinions is difficult—both camps' marketing hype has kicked into overdrive. This two-part s...</summary>
+    <content type="html">&lt;h1>J2EE versus .NET Part I&lt;/h1>
+&lt;a href="http://www.javaworld.com/javaworld/jw-06-2002/jw-0628-j2eevsnet.html">Here&lt;/a>. From Keith Wedinger: Rumble in the jungle: J2EE versus .Net, Part 1 from JavaWorld.com.  Heard a lot about .Net versus J2EE (Java 2 Platform, Enterprise Edition)? Wondering what that conflict means for you? Well, we wondered the same thing. So, drawing on our combined experiences from both sides of the fence, we put together an unbiased explanation as to how J2EE and .Net match up. Make no mistake, finding unbiased opinions is difficult—both camps' marketing hype has kicked into overdrive. This two-part series will help you better understand how the two technologies differ and how they are alike, all in the context of building a Web application from design right through to deployment.</content>
+  </entry>
+</feed>

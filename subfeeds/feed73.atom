@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed73.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed72.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed74.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed73.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1386</id>
+    <title>The Magic of the DevCon: Picking the Topic</title>
+    <updated>2004-06-05T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-06-05T07:00:00.000Z</published>
+    <summary>Don suggested that I change the topic of DevCon5 to XAML or some other topic. So far, the DevCons have run the course of topics from ATL to Web Services and then to Applied XML/Web Services. My primary concern when throwing a DevCon is that there is a sufficient user base of the technology that it's more than a vendor show. Even the original ATL DevCon only had a few MS employees and one MS talk. The rest of it were practitioners and experts from outside the big house and that makes for a better conference,...</summary>
+    <content type="html">&lt;h1>The Magic of the DevCon: Picking the Topic&lt;/h1>
+&lt;P>&lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-06-05T03:39:28Z">Don suggested&lt;/A> that I change the topic of &lt;a href="/conference">DevCon5&lt;/A> to XAML or some other topic. So far, the DevCons have run the course of topics from ATL to Web Services and then to Applied XML/Web Services.&lt;/P>
+&lt;P>My primary concern when throwing a DevCon is that there is a sufficient user base of the technology that it's more than a vendor show. Even the original ATL DevCon only had a few MS employees and one MS talk. The rest of it were practitioners and experts from outside the big house and that makes for a better conference, imo.&lt;/P>
+&lt;P>So, as much as I love Longhorn and Avalon specifically and see them at topics for future DevCons, the technology's not ready yet. Most of the real Avalon experts are MS employees and while there are some &lt;A href="http://www.longhornblogs.com/akinney/">notable&lt;/A> &lt;A href="http://www.interact-sw.co.uk/iangblog/">exceptions&lt;/A>, we're just not at a critical mass of folks &lt;EM>yet &lt;/EM>for a XAML DevCon.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1384</id>
+    <title>I Knew I Had "Circus Freak" In My Blood!</title>
+    <updated>2004-06-05T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-05T07:00:00.000Z</published>
+    <summary>Sellsville... The old Sells Mansion... The Sells Brothers's love of elephants... All this and more in an article from The Short North Gazette in Columbus, Ohio. </summary>
+    <content type="html">&lt;h1>I Knew I Had "Circus Freak" In My Blood!&lt;/h1>
+&lt;P>Sellsville...&lt;/P>
+&lt;P>The old Sells Mansion...&lt;/P>
+&lt;P>The Sells Brothers's love of elephants...&lt;/P>
+&lt;P>All this and more in &lt;A href="http://www.shortnorth.com/CircusTown.html">an article from The Short North Gazette&lt;/A> in Columbus, Ohio.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1385</id>
+    <title>Leaked Image of VB.net Context Menu</title>
+    <updated>2004-06-05T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-06-05T07:00:00.000Z</published>
+    <summary>The great thing about multiple language teams in.NET is that each team can provide tools specific for their audience, like this leaked image of the Visual Basic 2005 context menu. [ via Don Box ] </summary>
+    <content type="html">&lt;h1>Leaked Image of VB.net Context Menu&lt;/h1>
+&lt;P>The great thing about multiple language teams in .NET is that each team can provide tools specific for their audience, like &lt;A href="http://www16.brinkster.com/messydesk/db/refactvb.asp">this leaked image of the Visual Basic 2005 context menu&lt;/A>.&lt;/P>
+&lt;P>[&lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-06-05T03:12:13Z">via Don Box&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1383</id>
+    <title>Call For Speakers: Applied XML Dev.Conf. 5</title>
+    <updated>2004-06-04T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-06-04T07:00:00.000Z</published>
+    <summary>Are you interested in presenting a 45-minute talk on some applied XML or Web Services topic? It doesn't matter which platform or OS you're targeting. It also doesn't matter whether you're an author or vendor or professional speaker or a developer in the trenches (in fact, I tend to be biased towards the latter). We're after interesting and unique applications of XML and Web Services technology and if you're doing good work in that area, then I need you to send me a session topic and 2-4 sentence abstract al...</summary>
+    <content type="html">&lt;h1>Call For Speakers: Applied XML Dev.Conf. 5&lt;/h1>
+&lt;P>Are you interested in presenting a 45-minute talk on some applied XML or Web Services topic? It doesn't matter which platform or OS you're targeting. It also doesn't matter whether you're an author or vendor or professional speaker or a developer in the trenches (in fact, I tend to be biased towards the latter). We're after interesting and unique applications of XML and Web Services technology and if you're doing good work in that area, then &lt;A href="mailto:csells@microsoft.com?subject=Applied XML Dev.Conf. 5 Abstract Submission">&lt;FONT color=#000000>I need you to send me a session topic and 2-4 sentence abstract&lt;/FONT>&lt;/A> along with a little bit about yourself.&lt;/P>
+&lt;P>I'll be taking submissions 'til the end of June, but &lt;A href="mailto:csells@microsoft.com?subject=Applied XML Dev.Conf. 5 Abstract Submission">&lt;FONT color=#000000>don't delay&lt;/FONT>&lt;/A>. Passion and a burning story to tell count twice as much as anything else.&lt;/P>
+&lt;p>&lt;b>&lt;i>&lt;font color="red">And don't be shy about spreading this announcement around! I've got good coverage in the .NET and Windows communities, but don't know very many folks in the Java or Unix or hardcore XML worlds, so if you're in that world, let those guys know! Thanks.&lt;/font>&lt;/i>&lt;/b>&lt;/p>
+&lt;P>BTW, the conference itself is likely to be in Oregon during the 2nd or 3rd week of September, 2004, but we're still working the details out. One of the fun things that we're thinking about this year is to have the Dev.Conf. in &lt;A href="http://www.sunriver-resort.com/">Sunriver, Oregon&lt;/A>, a resort and spa town in central Oregon where sun is plentiful and rain is scarce. There are no major airports there, so we'd provide bus transportation from Portland, OR for anyone that wanted it. It'd be a 3.5 hour road trip.&amp;nbsp;&lt;A href="mailto:csells@microsoft.com?subject=My thoughts on having the Dev.Conf. in Sunriver, Oregon">What do folks think about that?&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1382</id>
+    <title>This Is The Problem With Fame In The IT Industry</title>
+    <updated>2004-06-03T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-03T07:00:00.000Z</published>
+    <summary>The problem with fame in the IT industry is that when someone dreams about me, it's a dude. : )</summary>
+    <content type="html">&lt;h1>This Is The Problem With Fame In The IT Industry&lt;/h1>
+The problem with fame in the IT industry is that when someone dreams about me, &lt;A href="http://www25.brinkster.com/rchildress/postView.aspx?id=88">it's a dude&lt;/A>. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1381</id>
+    <title>MyXaml Is Not A Microsoft XAML Clone</title>
+    <updated>2004-06-02T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-02T07:00:00.000Z</published>
+    <summary>Just to be clear, Marc Clifton's MyXaml framework for adding a declarative UI mark-up language to today's.NET framework is not a clone/sub-set of Microsoft's XAML or Avalon targeted at Longhorn. In other words, while MyXaml provides a number of the benefits of declarative UI mark-up for building smart/rich clients today, MyXaml is not a way to write WinForms code today that will seamlessly turn into Avalon code tomorrow. The reason I mention this is because I've seen some folks get a bit confused by the use...</summary>
+    <content type="html">&lt;h1>MyXaml Is Not A Microsoft XAML Clone&lt;/h1>
+&lt;P>Just to be clear, Marc Clifton's MyXaml framework for adding a declarative UI mark-up language to today's .NET framework is &lt;STRONG>&lt;EM>not&lt;/EM>&lt;/STRONG> a clone/sub-set of Microsoft's XAML or Avalon targeted at Longhorn. In other words, while MyXaml provides a number of the benefits of declarative UI mark-up for building smart/rich clients today, &lt;A href="http://myxaml.com/marcclifton/archive/2004/06/01/309.aspx">MyXaml is &lt;EM>&lt;STRONG>not&lt;/STRONG>&lt;/EM> a way to write WinForms code today that will seamlessly turn into Avalon code tomorrow&lt;/A>.&lt;/P>
+&lt;P>The reason I mention this is because I've seen some folks get a bit confused by the use of "Xaml" in the name (Marc is using XAML as the generic Extensible Application Mark-up Language and not as related to Microsoft's XAML).&lt;/P>
+&lt;P>On the other hand, there are two other projects that &lt;EM>&lt;STRONG>are&lt;/STRONG>&lt;/EM> aiming to clone/sub-set XAML/Avalon on .NET today: &lt;A href="http://www.xamlon.com/">Xamlon&lt;/A> and &lt;A href="http://www.mobiform.com/xamlproducts.aspx">Mobiform's XAML products&lt;/A>. I can't claim that either of these will actually help you transition to Longhorn when it comes along, but I know that &lt;A href="http://xamlblogs.com/paul/archive/2004/06/01/175.aspx">Xamlon's XAML samples work with minor tweaks on their parser and on the WinHEC build of Longhorn&lt;/A>.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1380</id>
+    <title>Finally, A Use For Orkut!</title>
+    <updated>2004-06-01T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-01T07:00:00.000Z</published>
+    <summary>Here. So far, it's provided the information required for two of my Orkut friends to wish me a happy birthday. Other than that, I haven't found a use for the site, however...</summary>
+    <content type="html">&lt;h1>Finally, A Use For Orkut!&lt;/h1>
+&lt;a href="http://www.orkut.com/">Here&lt;/a>. So far, it's provided the information required for two of my Orkut friends to wish me a happy birthday. Other than that, I haven't found a use for the site, however...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1379</id>
+    <title>Q: Why Can't I Unload a .NET Assembly? A:...</title>
+    <updated>2004-05-31T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-31T07:00:00.000Z</published>
+    <summary>Jason Zander, a Microsoft Product Unit Manager, not only points out the implementation problems we have with being able to unload.NET assemblies, he recommends AppDomains as the solution you really want anyway. And then, when his commentors dissent, he's right back in there asking for more information. Have you got opinions on this topic? Make hay while the sun shines! </summary>
+    <content type="html">&lt;h1>Q: Why Can't I Unload a .NET Assembly? A:...&lt;/h1>
+&lt;P>Jason Zander, a Microsoft Product Unit Manager, not only points out the implementation problems we have with being able to unload .NET assemblies, he recommends AppDomains as the solution you really want anyway. And then, when his commentors dissent, he's right back in there asking for more information.&lt;/P>
+&lt;P>Have you got opinions on this topic? &lt;A href="http://blogs.msdn.com/jasonz/archive/2004/05/31/145105.aspx">Make hay while the sun shines!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1378</id>
+    <title>Replicator v0.1</title>
+    <updated>2004-05-30T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-30T07:00:00.000Z</published>
+    <summary>I'm not sure what I would make if I had one of these, but that doesn't stop me from wanting one.</summary>
+    <content type="html">&lt;h1>Replicator v0.1&lt;/h1>
+I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting.com/">one of these&lt;/A>, but that doesn't stop me from wanting one.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1377</id>
+    <title>Turning Science Into Engineering</title>
+    <updated>2004-05-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-29T07:00:00.000Z</published>
+    <summary>It's generally know that the thing we call software "engineering" is nothing like that. We just don't have anything like the rigor that real engineering disciplines do and we need them. I wonder if Brian's quest to understand the real software life cycle and codify them constitutes another step down the road that the other engineering disciplines took to become predictable, schedule-able, reliable, budget-able and robust. I hope so. </summary>
+    <content type="html">&lt;h1>Turning Science Into Engineering&lt;/h1>
+&lt;P>It's generally know that the thing we call software "engineering" is nothing like that. We just don't have anything like the rigor that real engineering disciplines do and we need them. I wonder if &lt;A href="http://blogs.msdn.com/bharry/archive/2004/05/26/142681.aspx">Brian's quest to understand the real software life cycle and codify them&lt;/A> constitutes another step down the road that the other engineering disciplines took to become predictable, schedule-able, reliable, budget-able and robust. I hope so.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1376</id>
+    <title>You Can Actually Schedule Inch-Pebbles</title>
+    <updated>2004-05-29T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-29T07:00:00.000Z</published>
+    <summary>I haven't read Coder To Developer, but I love the term that secretGeek has pulled from it: "Inch-Pebbles." &amp;nbsp;When I was running DevelopMentor Software I learned to schedule from my then-mentor John Robbins, who learned it at NuMega (of BoundsChecker fame). John's insight was that nobody can look at a software release or even a feature and come up with an accurate schedule. Instead, they hold up their thumb in the wind and say, "Hmmm... Two weeks." Of course, it's never anywhere close to that. However, i...</summary>
+    <content type="html">&lt;h1>You Can Actually Schedule Inch-Pebbles&lt;/h1>
+&lt;P>I haven't read &lt;A href="http://www.amazon.com/exec/obidos/ASIN/078214327X/">Coder To Developer&lt;/A>, but I love the &lt;A href="http://www.secretgeek.net/fattips.asp">term that secretGeek has pulled from it: "Inch-Pebbles."&lt;/A>&amp;nbsp;When I was running DevelopMentor Software I learned to schedule from my then-mentor &lt;A href="http://www.wintellect.com/about/instructors/default.aspx#2">John Robbins&lt;/A>, who learned it at NuMega (of BoundsChecker fame).&lt;/P>
+&lt;P>John's insight was that nobody can look at a software release or even a feature and come up with an accurate schedule. Instead, they hold up their thumb in the wind and say, "Hmmm... Two weeks." Of course, it's never anywhere close to that. However, if you break something down into tasks of 1-2 days, aka "inch-pebbles," those can be accurately estimated and then rolled up into how long each feature and then each mile-stone will actually take ("What? Three months?!? I had &lt;EM>no&lt;/EM> idea..."). Once I learned how to schedule debugging time (rule of thumb: as long as coding time), we were able to schedule our software to w/in a week or two (although John, to show off, would pad a little and pick the day and time and deliver the golden master CD with balloons, champagne and marching band music : ).&lt;/P>
+&lt;P>At the time, we didn't have a name for the granularity that could be accurately scheduled and, since I haven't read &lt;A href="http://www.amazon.com/exec/obidos/ASIN/078214327X/">Mike's book&lt;/A>, I don't know how he defines the term "inch-pebble," but from now on, that's what I'm going to call it and if that's different from what Mike called it, well, then he'll just have to update his definition in his next edition. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1370</id>
+    <title>On Threat Modeling</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Lately, when the subject about how to actually secure a.NET app or component comes up, a magic phrase is uttered: "threat modeling." Apparently, this is the thing that tells you how folks could use your well-intentioned code to do bad things. And on a mailing list with a fairly select membership (although not too select -- I'm on it : ), the Swiderski, Snyder book Threat Modeling was recommended. And the free threat modeling tool that goes along with the book is hosted right on microsoft.com, which I take a...</summary>
+    <content type="html">&lt;h1>On Threat Modeling&lt;/h1>
+&lt;P>Lately, when the subject about how to actually secure a .NET app or component comes up, a magic phrase is uttered: "threat modeling." Apparently, this is the thing that tells you how folks could use your well-intentioned code to do bad things. And on a mailing list with a fairly select membership (although not &lt;EM>too&lt;/EM> select -- I'm on it : ), the Swiderski, Snyder book &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0735619913/chrissells">Threat Modeling&lt;/A> was recommended. And the &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=62830f95-0e61-4f87-88a6-e7c663444ac1">free threat modeling tool&lt;/A> that goes along with the book is hosted right on microsoft.com, which I take as a sign of quality. &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0735619913/chrissells">Model those threats&lt;/A> towards a happier, healthier you!&lt;/P>
+&lt;P>[via &lt;A href="http://www.resolvecorp.com/default.aspx">Pierre Nallet&lt;/A>]&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1373</id>
+    <title>Got Smart Client Development Questions?</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>We've got answers. </summary>
+    <content type="html">&lt;h1>Got Smart Client Development Questions?&lt;/h1>
+&lt;A href="http://msdn.microsoft.com/smartclient/">We've got answers.&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1371</id>
+    <title>Jury Duty</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Here. The one where I spend a day at jury duty but don't actually get to serve on a jury (and realize that serving on a jury was pretty darn unlikely in the first place).</summary>
+    <content type="html">&lt;h1>Jury Duty&lt;/h1>
+&lt;a href="/12492">Here&lt;/a>. The one where &lt;a href="/12492">I spend a day at jury duty&lt;/A> but don't actually get to serve on a jury (and realize that serving on a jury was pretty darn unlikely in the first place).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12492</id>
+    <title>Jury 
+Duty</title>
+    <updated>2004-05-28T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-05-28T07:00:00.000Z</published>
+    <summary>Friday, May 28, 2004 Today was the first time that I was called to jury duty, even though I've been eligible for almost half of my life. I always dreaded being called when I was a consultant because the $10/day didn't cover a day's meals, let along the revenue I would miss as the sole breadwinner of the family. However, much like the body puts off illness when you just can't afford to take the time (stress has its uses), my dread seems to have put off my jury duty 'til I had a full-time job with enough redu...</summary>
+    <content type="html">&lt;h1>Jury 
+Duty&lt;/h1>
+&lt;p align="left">&lt;i>Friday, &lt;span class="created">May 28, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">
+Today was the first time that I was called to jury duty, even though I've been 
+eligible for almost half of my life. I always dreaded being called when I was a 
+consultant because the $10/day didn't cover a day's meals, let along the revenue 
+I would miss as the sole breadwinner of the family. However, much like the body 
+puts off illness when you just can't afford to take the time (stress has its 
+uses), my dread seems to have put off my jury duty 'til I had a full-time job 
+with enough redundancy to live w/o me for a day or so.&lt;/p>&lt;p align="left">Even 
+when your job pays, most folks seem to want to get out of jury duty in any way 
+possible. George Carlin says that the best way to get out of it is to admit to 
+the judge that you know how to tell if someone is guilty, &amp;quot;It's all in the 
+distance between their eyes...&amp;quot; Personally, I'm a believer in America's system 
+of justice (I've often fantasized about a life as a prosecuting attorney and as 
+a judge), so I didn't mind serving my turn on a jury. Unfortunately, it was not 
+to be. While I went down to the court house, my number wasn't even called to 
+appear on one of the two juries needed today.&lt;/p>&lt;p align="left">Doing a little 
+math, I found out that the overall odds of me actually being on a jury were 
+actually pretty low. Here are the stats:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">47 people 
+	showed as potential jurors on 2 juries&lt;/li>&lt;li>&lt;p align="left">28 were 
+	called for the 1st jury, of which 12 were needed&lt;/li>&lt;li>&lt;p align="left">15 
+	were called for the 2nd jury, of which 6 were needed&lt;/li>&lt;li>&lt;p align="left">
+	According to the State of Oregon Washington County Jury Director, 70% of 
+	people that show up for a trial see the assembled jury and decide to take 
+	the plea bargain after all&lt;/li>&lt;li>&lt;p align="left">Therefore:&lt;ul>&lt;li>&lt;p align="left">
+		Folks called to jury duty that were actually put on a potential jury: 
+		91.5%&lt;/li>&lt;li>&lt;p align="left">Percent of juries, once formed, that are 
+		used: 30%&lt;/li>&lt;li>&lt;p align="left">People called for a jury actually 
+		placed on that jury: 42%&lt;/li>&lt;li>&lt;p align="left">My chance of actually 
+		serving on a jury today: 11.5% or less than 1 chance out of 8&lt;/li>&lt;li>&lt;p align="left">
+		The opportunity to make the US justice system real for the brothers 
+		Sells w/o them actually committing a crime: priceless&lt;/li>&lt;/ul>&lt;/li>&lt;/ul>&lt;p align="left">&lt;a href="/1371">
+Discuss&lt;/a>&lt;/li>&lt;/p>
+</content>
+  </entry>
+</feed>

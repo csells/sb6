@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed54.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed53.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed55.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed54.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1651</id>
+    <title>A New WinFX Community Enters the Fray</title>
+    <updated>2005-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-13T08:00:00.000Z</published>
+    <summary>Deepak Kapoor &amp;nbsp;has launched a new WinFX community: deepwinfx.com. It's pretty bare right now, but hopefully it'll flesh out nicely. I'll be keeping an eye on it. Good luck, Deepak!</summary>
+    <content type="html">&lt;h1>A New WinFX Community Enters the Fray&lt;/h1>
+&lt;A class=headermaintitle id=Header1_HeaderTitle href="http://dotnetjunkies.com/WebLog/deepakkapoor/">Deepak Kapoor&lt;/A>&amp;nbsp;has launched a new WinFX community: &lt;A href="http://www.deepwinfx.com">deepwinfx.com&lt;/A>. It's pretty bare right now, but hopefully it'll flesh out nicely. I'll be keeping an eye on it. Good luck, Deepak!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1650</id>
+    <title>ClickOnce Love</title>
+    <updated>2005-01-13T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-13T08:00:00.000Z</published>
+    <summary>S. "Soma" Somasegar, corporate vice president of the Developer Division at Microsoft, posts about his understandable love of ClickOnce. He'll be giving the keynote at VSLive and lists three ClickOnce blog entries at which you should take a gander.</summary>
+    <content type="html">&lt;h1>ClickOnce Love&lt;/h1>
+S. "Soma" Somasegar, corporate vice president of the Developer Division at Microsoft, posts about &lt;A href="http://blogs.msdn.com/somasegar/archive/2005/01/11/351231.aspx">his understandable love of ClickOnce&lt;/A>. He'll be giving the keynote at VSLive and lists &lt;A href="http://blogs.bartdesmet.net/bart/archive/2004/12/26/518.aspx">three&lt;/A> &lt;A href="http://geekswithblogs.net/jglynn/archive/2004/08/05/9341.aspx">ClickOnce&lt;/A> &lt;A href="http://www.ondotnet.com/pub/a/dotnet/2004/10/11/clickonce.html">blog entries&lt;/A> at which you should take a gander.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12650</id>
+    <title>Welcome to SolFx</title>
+    <updated>2005-01-06T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/solfx/solfx1.jpg"/>
+    <category term="fun" label="Fun"/>
+    <published>2005-01-06T08:00:00.000Z</published>
+    <summary>If you've got.NET 2.0 and the Nov. '04 Avalon CTP, click here to play my scaling, vector-based, WinFX version of Solitaire. Features include lovely scaling of the cards as the window resizes, real-time drag 'n' drop of the cards, sol-like card stacking, ClickOnce deployment and the source. The performance in this version is much improved because I'm re-using DrawingBrushes and a simplified card back. Enjoy! </summary>
+    <content type="html">&lt;h1>Welcome to SolFx&lt;/h1>
+&lt;p>If you've got .NET 2.0 and the Nov. '04 Avalon CTP, &lt;a href="/public/fun/solfx/solfx.deploy">click here to play my 
+scaling, vector-based, WinFX version of Solitaire&lt;/a>. Features include lovely 
+scaling of the cards as the window resizes, real-time drag 'n' drop of the 
+cards, sol-like card stacking, ClickOnce deployment and &lt;a href="/public/fun/solfx/solfx.zip">the 
+source&lt;/a>. The performance in this version is much improved because I'm 
+re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
+&lt;p>&lt;img border="0" src="/public/fun/solfx/solfx1.jpg" width="557" height="399">&lt;/p>
+&lt;p>&lt;img border="0" src="/public/fun/solfx/solfx2.jpg" width="557" height="399">&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1647</id>
+    <title>Avalon Nov. '04 CTP Sample: SolFx</title>
+    <updated>2005-01-06T08:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/fun/solfx/solfx1.jpg"/>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-06T08:00:00.000Z</published>
+    <summary>If you've got.NET 2.0 and the Nov. '04 Avalon CTP, click here to play my scaling, vector-based, WinFX version of Solitaire. Features include lovely scaling of the cards as the window resizes, real-time drag 'n' drop of the cards, sol-like card stacking, ClickOnce deployment and the source. The performance isn't yet what I'd like it to be because I'm loading the card back resource 52 times, but it'll get there. Enjoy! </summary>
+    <content type="html">&lt;h1>Avalon Nov. '04 CTP Sample: SolFx&lt;/h1>
+&lt;P>If you've got .NET 2.0 and the Nov. '04 Avalon CTP, &lt;a href="/public/fun/solfx/solfx.deploy">click here to play my scaling, vector-based, WinFX version of Solitaire&lt;/A>. Features include lovely scaling of the cards as the window resizes, real-time drag 'n' drop of the cards, sol-like card stacking, ClickOnce deployment and &lt;a href="/public/fun/solfx/solfx.zip">the source&lt;/A>. The performance isn't yet what I'd like it to be because I'm loading the card back resource 52 times, but it'll get there. Enjoy!&lt;/P>
+&lt;P>&lt;img height=399 src="/public/fun/solfx/solfx1.jpg" width=557 border=0>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1646</id>
+    <title>Thinstall sounds cool</title>
+    <updated>2005-01-05T08:00:00.000Z</updated>
+    <category term="tools" label="Tools"/>
+    <published>2005-01-05T08:00:00.000Z</published>
+    <summary>Jim Hubbard gives Thinstall a ringing endorsement : "This solution will take your executable (.Net, VB or C++) and all of its dependencies and wrap them all into a single executable. The neat thing is that it even includes the portions of the.Net framework needed to run your executable inside the executable it creates. So, there's no need to distribute the whole.Net framework." Has anyone else tried it? </summary>
+    <content type="html">&lt;h1>Thinstall sounds cool&lt;/h1>
+&lt;P>Jim Hubbard gives &lt;A href="http://poderthis.blogspot.com/">Thinstall a ringing endorsement&lt;/A>:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"This solution will take your executable (.Net, VB or C++) and all of its dependencies and wrap them all into a single executable. The neat thing is that it even includes the portions of the .Net framework needed to run your executable inside the executable it creates. So, there's no need to distribute the whole .Net framework."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Has anyone else tried it?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1644</id>
+    <title>Paint.NET 2.0</title>
+    <updated>2005-01-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-03T08:00:00.000Z</published>
+    <summary>And while we're on the topic of real-world.NET Smart Client applications, you can't not take a look at the Washington State University course work resulting in Paint.NET, an all-.NET implementation of a painting program that was initially aimed at merely replacing MS Paint Brush, but has long ago far surpassed it with painting features found only in commercial painting applications. And, like SharpDevelop, if you like what you see and want to know how a feature was implemented, you have only to download the...</summary>
+    <content type="html">&lt;h1>Paint.NET 2.0&lt;/h1>
+&lt;P>And while we're on the topic of real-world .NET Smart Client applications, you can't not take a look at the Washington State University course work resulting in &lt;A href="http://www.eecs.wsu.edu/paint.net/index.html">Paint.NET, an all-.NET implementation of a painting program&lt;/A> that was initially aimed at merely replacing MS Paint Brush, but has long ago far surpassed it with painting features found only in commercial painting applications.&lt;/P>
+&lt;P>And, like SharpDevelop, if you like what you see and want to know how a feature was implemented, you have only to &lt;A href="http://www.eecs.wsu.edu/paint.net/downloads.html">download the Paint.NET source code&lt;/A>.&lt;/P>
+&lt;P>Also, don't forget to check back in mid to late January for &lt;A href="http://www.eecs.wsu.edu/paint.net/plannedfeatures.html">Paint.NET 2.1&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1643</id>
+    <title>Dissecting a C# Application: Inside SharpDevelop</title>
+    <updated>2005-01-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-03T08:00:00.000Z</published>
+    <summary>APress has made Dissecting a C# Application: Inside SharpDevelop, the book&amp;nbsp;that describes the history and design of&amp;nbsp; SharpDevelop,&amp;nbsp; freely available for download and I'm enjoying it immensely. I've only read the 1st 2 chapters, but the authors have already provided me a nice overview of the major features in SharpDevelop and how they came to be over the history of the project. I'm also very much looking forward to the implementation details later in the book, particularly the add-in model, in...</summary>
+    <content type="html">&lt;h1>Dissecting a C# Application: Inside SharpDevelop&lt;/h1>
+&lt;P>APress has made Dissecting a C# Application: Inside SharpDevelop, the book&amp;nbsp;that describes the history and design of&amp;nbsp;&lt;A href="http://www.sharpdevelop.com/OpenSource/SD/Default.aspx">SharpDevelop&lt;/A>,&amp;nbsp;&lt;A href="http://www.apress.com/free/index.html">freely available for download&lt;/A> and I'm enjoying it immensely.&lt;/P>
+&lt;P>I've only read the 1st 2 chapters, but the authors have already provided me a nice overview of the major features in SharpDevelop and how they came to be over the history of the project. I'm also very much looking forward to the implementation details later in the book, particularly the add-in model, internationalization, implementing the Windows Forms Designer and, of course, code generation.&lt;/P>
+&lt;P>For anyone building a real client-side .NET application, &lt;A href="http://www.apress.com/free/index.html">this book&lt;/A> is bound to give you clues on how to do it better. Recommended.&lt;/P>
+&lt;p>And as if that weren't enough, because SharpDevelop is an open source project, if any of the features tickle your fancy, you can &lt;a href="http://www.sharpdevelop.com/OpenSource/SD/Download/">download the SourceDevelop code&lt;/a> to see how they were implemented.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1645</id>
+    <title>Seeing Stars in Avalon</title>
+    <updated>2005-01-03T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2005-01-03T08:00:00.000Z</published>
+    <summary>Savas Parastatidis has posted his early work using Avalon 3D to visualize stars in the galaxy. I don't believe that I've ever seen the stars line up like that, but the screen shots are cool anyway. : )</summary>
+    <content type="html">&lt;h1>Seeing Stars in Avalon&lt;/h1>
+Savas Parastatidis has posted his early work &lt;A href="http://savas.parastatidis.name/2004/12/21/86cbd8a6-e58d-4a3a-8b14-964fc44ed7c2.aspx">using Avalon 3D to visualize stars in the galaxy&lt;/A>. I don't believe that I've ever seen the stars line up like that, but the screen shots are cool anyway. : )</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1642</id>
+    <title>Death As A Possible Consequence</title>
+    <updated>2005-01-02T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-01-02T08:00:00.000Z</published>
+    <summary>Here. The one where I describe my recent run-ins with the Oregon traffic police and my availability as the "Bad Boy" in your boy band.</summary>
+    <content type="html">&lt;h1>Death As A Possible Consequence&lt;/h1>
+&lt;a href="/12480">Here&lt;/a>. The one where I describe &lt;a href="/12480">my recent run-ins with the Oregon traffic police&lt;/A> and my availability as the "Bad Boy" in your boy band.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12480</id>
+    <title>Death As A Possible Consequence</title>
+    <updated>2005-01-01T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2005-01-01T08:00:00.000Z</published>
+    <summary>When something legal comes up, I like to dig into it. For example, I did my own consulting contracts for years, I've testified against an Oregon state bill mandating Open Source Software (a bill that was never passed), I wanted to serve on a jury and I've recently become very familiar with the Oregon state eviction and small claims procedures for a rental unit I own. I find laws and procedures to be fascinating and, like most things, showing up is 80%. However, I don't like the law so much when I'm the defe...</summary>
+    <content type="html">&lt;h1>Death As A Possible Consequence&lt;/h1>
+&lt;p align="left">When something legal comes up, I like to dig into it. For example, I did my own consulting contracts for years, I've testified against &lt;a href="/12559">an Oregon state bill mandating Open Source Software&lt;/a> (a bill that was never passed), I wanted to &lt;a href="/12492">serve on a jury&lt;/a> and I've recently become very familiar with the Oregon state eviction and small claims procedures for a rental unit I own. I find laws and procedures to be fascinating and, like most things, showing up is 80%.&lt;/p>&lt;p align="left">However, I don't like the law so much when I'm the defendant, as was recently the case when the state of Oregon was hell bent on suspending my driver's license. It seems that if you get 4 tickets in 2 years that they like you to stay home for 30 days or at least take the bus more. I've had speeding tickets on and off for most of my life, but before this 2-year period which included a total of 6 tickets (thank goodness that the state of Oregon doesn't count tickets in Washington), I hadn't had a ticket for about 5 years. Incidentally, if I could manage to spread them out in a Bell Curve instead of in a Mandelbrot Set, I wouldn't even have to be in this predicament, but natural has it's laws and who am I to consider myself above them?&lt;/p>&lt;p align="left">Anyway, the tickets should hardly count. One was 'cuz I didn't slow down fast enough in one of those coastal towns where half of the tourist revenue comes from their 100 feet of road along the highway that drops from 55 to 25 with a sign posted behind a tree. Another was on the way to Burning Man. Sure, I was going a little fast, but I spent the next week driving the dusty BM roads on my bike -- can't we do some averaging here?!? Another was an actual speeding ticket around town and that one I'll admit to, but the forth one was when I passed into a turning lane through a solid yellow line in rush hour traffic 'cuz I wanted to turn left and the line of traffic was &lt;i>way&lt;/i> shorted than the line of traffic going straight, so I cheated over a few feet early. I mean, come on, that's just an efficient distribution of traffic! I was avoiding gridlock! It was practically my patriotic duty to move over into the left lane early!&lt;/p>&lt;p align="left">However, the truck that was waiting patiently to move over into the left turn lane until he had passed the solid yellow line just ahead of me didn't see it that way. Nor did the police car that had just turned the corner coming towards me as I scooted around the truck, neatly avoiding the oncoming traffic, all executed flawlessly while my wife dug her nails into my leg.&lt;/p>&lt;p align="left">So, I did what I do with all my tickets: I signed the back and I paid the money. I mean, it's not like my hairy cleavage is going to change any cop's mind, so what else could I do?&lt;/p>&lt;p align="left">When the letter from the state came that said they'd like me to turn in my driver's license for a month is when I started exploring options real quick.&lt;/p>&lt;p align="left">So, I called my tax/business/family attorney, who gave me the names of three traffic attorneys. Unfortunately, each of them specialized in Driving while Under-the-Influence and I began to think that I'd have been better off if I'd have been drunk. Each of them advised me that there was nothing anyone could do for me. I signed the ticket and I was going to have to give up my license. I also felt a very &amp;quot;and why are you wasting my time, you sober slug, I've got important drunk people to talk to&amp;quot; vibe, but that could've just been me...&lt;/p>&lt;p align="left">Luckily, once it was clear I was going to hang up the phone without giving the 3rd lawyer money, he mentioned another attorney that specialized in sober traffic offenses. This new attorney was one smooth operator. After about 5 minutes of questions over the phone, he'd figured out the &amp;quot;conviction&amp;quot; (when you sign the back of the ticket, you've agreed to be &amp;quot;convicted&amp;quot; of a crime) most likely to be turned back to trial (the passing violation, of all things). How did he determine the likelihood of getting a trial? He knew the prosecutor responsible for that part of the state! He was going to call the guy up, ask him for a solid, they run it by the judge as a formality and bang! I've got a new trial and my suspension was suspended pending the outcome of the trial.&lt;/p>&lt;p align="left">And what did I have to do? Show up in court and plea my case? (&amp;quot;You want the truth! You can't handle the truth! You want me crossing that line! You &lt;i>need &lt;/i>me crossing that line!&amp;quot;) Nope.&lt;/p>&lt;p align="left">Bring three character witnesses? (I have pictured Rory on the stand trying to provide a credible character assessment. : ) Nix.&lt;/p>&lt;p align="left">Lie under oath? (&amp;quot;Yes? Mr. Sells? This is Nancy Reagan. I'd like that Eagle Scout Award that my husband signed back, please. Seems you lied to get out of a traffic ticket...&amp;quot;) Nine.&lt;/p>&lt;p align="left">All I had to do was send in a $750 check and do it quickly, please. As soon as it cleared the bank, I'd have my new trial (although it's illegal for him to give me &amp;quot;odds&amp;quot; on my ability to get a new trial, my attorney was clear that it wouldn't be a problem).&lt;/p>&lt;p align="left">Plus, I didn't even have to go to the trial. In fact, in a very carefully worded letter from my attorney, he let me know that I should only come to court if I could say that I didn't do it with feeling and confidence. If I couldn't do that, I should just go about my business. Note that he never actually asked me if I did it or not. I find that a particularly fascinating and scary part of our legal system.&lt;/p>&lt;p align="left">Anyway, at the trial, my &amp;quot;conviction&amp;quot; (I have to put it in quotes or you might think I was a criminal [I mean, just 'cuz I committed a crime, doesn't make me a criminal, does it?]) was over-turned in exchange for 8 hours of &amp;quot;driving school.&amp;quot; This time, I'm using the quotes because there ain't no actual driving schooling going on. Instead, this is a replay of those driver's education movies where they show you &amp;quot;Faces of Death 3&amp;quot; in an effort to scare you onto the straight an narrow in a very Old Testament, fire and brimstone sorta way. Here's the descriptive paragraph from the letter I got in the mail yesterday:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;You have been given the opportunity to participate in the High Risk Driving Course... The course is designed to educate drivers to the potential and very real consequences of 'high-risk' driving behaviors. You will spend eight hours [in the course]. During this time you will hear several presentations on the consequences of high-risk driving, have contact with victims of traumatic injuries and their families, and discuss death as possible consequences of high risk driving choices. Participation in the course will include group discussions and testing, including essay questions and an evaluation of the course. We anticipate that facing the reality and potential consequences of high-risk driving behavior will positively affect the attitudes and behaviors that contribute to choices which place [you] and others at risk of serious injury and death... I understand that what I see and hear in this program is meant to have an emotional impact on me. I may experience psychological discomfort...&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">I believe that participation in this program should qualify me as a &amp;quot;bad boy&amp;quot; and thereby make me the recipient of all of the benefits thereof, e.g. the alleged &amp;quot;good girls&amp;quot; that can't stay away from &amp;quot;bad boys&amp;quot; should now feel free to throw their undergarments onto the stage and to mob my limonene (it's a white '98 Volkswagen Cabrio Convertible &amp;quot;limo&amp;quot; [note the quotes] in case you're confused). The fact that my financial portfolio is fully diversified using CFA-certified asset allocation techniques, that I was a Boy Scout, that I'm married to my first real girlfriend, that I was a member of the marching band, that I was going 20 miles/hour when I committed my most recent traffic &amp;quot;crime&amp;quot; and that I wouldn't actually drive with a suspended license, thereby causing all kinds of havoc in my life, should not detract from my obvious reckless, dangerous, &amp;quot;high-risk&amp;quot; persona. Anyone need a bad boy for their boy band? I'm available...&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1641</id>
+    <title>Earthquake Disaster Relief Information</title>
+    <updated>2004-12-31T08:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-12-31T08:00:00.000Z</published>
+    <summary>I can't begin to imagine what the earthquake survivors are feeling after so much death and tragedy. If you can help, please do so. For more information, you can visit the International SOS organization's Tsunami Update page &amp;nbsp;and the ReliefWeb site. Thank you. </summary>
+    <content type="html">&lt;h1>Earthquake Disaster Relief Information&lt;/h1>
+&lt;P>I can't begin to imagine what the earthquake survivors are feeling after so much death and tragedy. If you can help, please do so.&lt;/P>
+&lt;P>For more information, you can visit the International SOS organization's Tsunami&lt;A href="http://www.internationalsos.com/members_home/tsunami/"> Update page&lt;/A>&amp;nbsp;and &lt;A href="http://www.reliefweb.int/w/rwb.nsf">the ReliefWeb site&lt;/A>.&lt;/P>
+&lt;P>Thank you.&lt;A href="http://www.reliefweb.int/w/rwb.nsf">&lt;/P>&lt;/A></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1639</id>
+    <title>Fix for VS05b1 Avalon compilation perf problems</title>
+    <updated>2004-12-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-30T08:00:00.000Z</published>
+    <summary>Rob has posted a description and a couple of work-arounds to a problem some folks are having w/ 100% CPU utilization after an Avalon project is compiled in Visual Studio 2005 beta 1 + the Nov. '04 Avalon CTP + C#. If his solution doesn't work for you (it didn't for me, but I think I have a weird build), under HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\8.0\CSharp\Options\Editor, try setting the UpdateRegisterDesignViewOnIdle value to 0 instead of 1. I don't know what this turns off, but it makes the p...</summary>
+    <content type="html">&lt;h1>Fix for VS05b1 Avalon compilation perf problems &lt;/h1>
+&lt;P>Rob has posted &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/12/29/12121.aspx">a description and a couple of work-arounds to a problem some folks are having w/ 100% CPU utilization after an Avalon project is compiled in Visual Studio 2005 beta 1 + the Nov. '04 Avalon CTP + C#&lt;/A>.&lt;/P>
+&lt;P>If his solution doesn't work for you (it didn't for me, but I think I have a weird build), under HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\8.0\CSharp\Options\Editor, try setting the UpdateRegisterDesignViewOnIdle value to 0 instead of 1. I don't know what this turns off, but it makes the problem go away. If you trust me, I've put together &lt;A HREF="/public/tools/SetUpdateRegisterDesignViewOnIdle0.reg">a reg file that sets this value for you here&lt;/A>.&lt;/P>
+&lt;p>BTW, if you're wondering what happens when you turn the UpdateRegisterDesignViewOnIdle option off, it's the feature that notices if you take a random code file and add a System.Windows.Forms.Form as a base class so that when you open the file, it's opened in the Windows Forms Designer by default. Without this flag, VS will never notice a new Form in a code file and they'll be no way to edit the Form in the Windows Forms Designer (not even Open With [even though every other editor is in the list...]). If you add a new Form by choosing to Add->Windows Form to the project (as most folks do), all works as expected.&lt;/p>
+&lt;p>However, if you absolutely &lt;i>need&lt;/i> to turn a code file into a file that 
+will open in the Windows Forms Designer, you can close the project in VS, open 
+it in notepad and change the following:&lt;br>
+&lt;br>
+&amp;lt;Compile Include=”Foo.cs”&amp;gt;&lt;br>
+&lt;br>
+or the following:&lt;br>
+&lt;br>
+&amp;lt;Compile Include=”Foo.cs”&amp;gt;&lt;br>
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;SubType&amp;gt;Code&amp;lt;/SubType&amp;gt;&lt;br>
+&amp;lt;/Compile&amp;gt;&lt;br>
+&lt;br>
+to the following:&lt;br>
+&lt;br>
+&amp;lt;Compile Include=”Foo.cs”&amp;gt;&lt;br>
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;SubType&amp;gt;Form&amp;lt;/SubType&amp;gt;&lt;br>
+&amp;lt;/Compile&amp;gt;&lt;br>
+&lt;br>
+Thanks to Cyrus Najmabadi and Izzy Gryko -- hard-working MS employees answering 
+my emails on New Year's Eve even when they're officially Out Of Office -- for 
+this tips!&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1640</id>
+    <title>"How Do I" Makes Me Smile</title>
+    <updated>2004-12-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-30T08:00:00.000Z</published>
+    <summary>I liked the new "How Do I...?" section of the references pages in the WinFX SDK before, but when I ran into the "How do I make an element spin in place?" section of the System.Windows.Shapes.Rectangle (I mean, I need to make elements spin in place all the time!), I fell in love. : ) </summary>
+    <content type="html">&lt;h1>"How Do I" Makes Me Smile&lt;/h1>
+&lt;P>I liked the new "How Do I...?" section of the references pages in &lt;A href="http://winfx.msdn.microsoft.com">the WinFX SDK&lt;/A> before, but when I ran into the "How do I make an element spin in place?" section of the &lt;A href="http://winfx.msdn.microsoft.com/?//winfx.msdn.microsoft.com/winfx/ref/ns/system.windows.shapes/c/rectangle/rectangle.aspx">System.Windows.Shapes.Rectangle&lt;/A> (I mean, I need to make elements spin in place &lt;EM>all&lt;/EM> the time!), I fell in love. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1638</id>
+    <title>BackgroundWorker and Sample for Compact Framework</title>
+    <updated>2004-12-30T08:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-12-30T08:00:00.000Z</published>
+    <summary>Not only has Daniel Moth implemented the Windows Forms 2.0 BackgroundWorker component for the.NET Compact Framework, but he's also ported my pi calculation application to use this new implementation as an example of the savings in code that the BackgroundWorker component provides.</summary>
+    <content type="html">&lt;h1>BackgroundWorker and Sample for Compact Framework&lt;/h1>
+Not only has Daniel Moth implemented the Windows Forms 2.0 &lt;A href="http://www.danielmoth.com/Blog/2004/12/backgroundworker-for-cf-10.html">BackgroundWorker component for the .NET Compact Framework&lt;/A>, but he's also &lt;A href="http://www.danielmoth.com/Blog/2004/12/backgroundworker-sample.html">ported my pi calculation application to use this new implementation&lt;/A> as an example of the savings in code that the BackgroundWorker component provides.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1637</id>
+    <title>Microsoft Wants You To Speak At TechEd'05</title>
+    <updated>2004-12-29T08:00:00.000Z</updated>
+    <published>2004-12-29T08:00:00.000Z</published>
+    <summary>Are you ready to speak in the Big Room? Then you've got two days left to submit your proposals to speak at TechEd 2005: "The Tech&amp;#8226;Ed 2005 organizers invite you to submit proposals to speak at Tech&amp;#8226;Ed in our conference breakout sessions. Tech&amp;#8226;Ed is one of Microsoft&amp;#8217;s most important annual technical training events, and our speaker selection process is extremely rigorous to ensure that attendees experience outstanding quality technical training. Successful proposals will be technical p...</summary>
+    <content type="html">&lt;h1>Microsoft Wants You To Speak At TechEd'05&lt;/h1>
+&lt;P>Are you ready to speak in the Big Room? Then you've got two days left to submit your proposals to speak at TechEd 2005:&lt;/P>
+&lt;BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+&lt;P>&lt;EM>"The Tech&amp;#8226;Ed 2005 organizers invite you to &lt;/EM>&lt;A href="http://www.msteched.com/cfp/CallForPapers.aspx">&lt;EM>submit proposals to speak at Tech&amp;#8226;Ed&lt;/EM>&lt;/A>&lt;EM> in our conference breakout sessions. Tech&amp;#8226;Ed is one of Microsoft&amp;#8217;s most important annual technical training events, and our speaker selection process is extremely rigorous to ensure that attendees experience outstanding quality technical training. Successful proposals will be technical presentations that target best practices and tips &amp;amp; tricks, delivered by experts with significant and highly-rated speaking experience. ... &lt;STRONG>Proposals Due by December 31, 2004.&lt;/STRONG>" [ed: my own emphasis added]&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Many are called, but few will serve. Have you got the right stuff? TechEd is the toughest job you'll ever love...&lt;/P></content>
+  </entry>
+</feed>

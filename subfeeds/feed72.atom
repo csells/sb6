@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed72.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed71.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed73.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed72.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/1399</id>
+    <title>Testing 1 2 3</title>
+    <updated>2004-06-16T07:00:00.000Z</updated>
+    <published>2004-06-16T07:00:00.000Z</published>
+    <summary>This is a test of the emergency broadcast system. &amp;lt;beeeeeeeeep&amp;gt;</summary>
+    <content type="html">&lt;h1>Testing 1 2 3 &lt;/h1>
+This is a test of the emergency broadcast system. 
+&amp;lt;beeeeeeeeep&amp;gt;</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1398</id>
+    <title>"he isn't null terminated!" Bwa ha ha ha!</title>
+    <updated>2004-06-15T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-15T07:00:00.000Z</published>
+    <summary>I'm still laughing about this one...</summary>
+    <content type="html">&lt;h1>"he isn't null terminated!" Bwa ha ha ha!&lt;/h1>
+I'm still laughing about &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=9619fe3d-d932-44fb-ba87-760f9195d251">this one&lt;/A>...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12345</id>
+    <title>Geek Milkshake</title>
+    <updated>2004-06-14T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-14T07:00:00.000Z</published>
+    <summary>sttto Milkshake by Kelis My web log brings all the nerds to the yard, and I'm like: &amp;quot;mine's better than yours&amp;quot;. Damn right, it's better than yours! I can link you, but I have to charge! My web log brings all the nerds to the yard, and I'm like: &amp;quot;mine's better than yours&amp;quot;. Damn right, it's better than yours! I can link you, but I have to charge! I know you want it; the thing that makes me, what the geeks go crazy for. They lose their minds.. the way I whine. I think it's time: la la, la, ...</summary>
+    <content type="html">&lt;h1>Geek Milkshake&lt;/h1>
+&lt;p>&lt;i>
+&lt;a href="http://www.songlyrics.com/song-lyrics/Kelis/Miscellaneous/milkshake/241569.html">
+sttto Milkshake by Kelis&lt;/a>&lt;/i>&lt;/p>
+&lt;p>My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+I know you want it;&lt;br>
+the thing that makes me,&lt;br>
+what the geeks go crazy for.&lt;br>
+They lose their minds..&lt;br>
+the way I whine.&lt;br>
+I think it's time:&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+I can see you're on it.&lt;br>
+You want me to teach thee,&lt;br>
+techniques that freaks these boys.&lt;br>
+It can't be bought;&lt;br>
+it's just my marketing wrought.&lt;br>
+(Track-back if you're smart)&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+Oh once you get involved,&lt;br>
+everyone will look this way, so,&lt;br>
+you must maintain your charm;&lt;br>
+same time maintain your click-through,&lt;br>
+just get the perfect link.&lt;br>
+Feed what you have within;&lt;br>
+RSS is cheaper than ink.&lt;br>
+The geeks pick up your scent.&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+la la, la, la, lah&lt;br>
+Post it up.&lt;br>
+la la, la, la, lah&lt;br>
+The geeks are waiting.&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;br>
+&lt;br>
+My web log brings all the nerds to the yard,&lt;br>
+and I'm like: &amp;quot;mine's better than yours&amp;quot;.&lt;br>
+Damn right, it's better than yours!&lt;br>
+I can link you, but I have to charge!&lt;/p>
+&lt;p class="MsoPlainText">&lt;i>&lt;a href="http://www.jj5.net">John 
+Elliot&lt;/a>&lt;br>
+Sent: Monday, &lt;span class="created">June 14, 2004 3:15 PM&lt;/span>&lt;br>
+&lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/">
+Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1397</id>
+    <title>Geek Milkshake</title>
+    <updated>2004-06-14T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2004-06-14T07:00:00.000Z</published>
+    <summary>Here. I can't get the video possibilities out of my head...</summary>
+    <content type="html">&lt;h1>Geek Milkshake&lt;/h1>
+&lt;a href="/12345">Here&lt;/a>. I can't get &lt;a href="/12345">the video possibilities&lt;/A> out of my head...</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1396</id>
+    <title>Channel9 Videos: Rich Turner On The Road To Indigo</title>
+    <updated>2004-06-12T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-12T07:00:00.000Z</published>
+    <summary>Here. Rich Turned, an Indigo PM, has some useful things to say about Indigo in his recent Channel9 videos: What is the biggest misperception of Indigo? What is your advice to developers who are thinking about Indigo and interoperability? What would be the first thing about Indigo that you'd show a Visual Basic programmer? Plus, Rich has a blog to which I subscribe (but I wish he were more prolific). </summary>
+    <content type="html">&lt;h1>Channel9 Videos: Rich Turner On The Road To Indigo&lt;/h1>
+&lt;a href="http://weblogs.asp.net/richturner666/archive/2004/06/11/153890.aspx">Here&lt;/a>. &lt;P>Rich Turned, an Indigo PM, has some useful things to say about Indigo in his recent Channel9 videos:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=9792">What is the biggest misperception of Indigo?&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=9990">What is your advice to developers who are thinking about Indigo and interoperability?&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=9929">What would be the first thing about Indigo that you'd show a Visual Basic programmer?&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>Plus, &lt;A href="http://weblogs.asp.net/richturner666/">Rich has a blog&lt;/A> to which I subscribe (but I wish he were more prolific).&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1395</id>
+    <title>Jon Udell's Questions about Longhorn</title>
+    <updated>2004-06-11T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-11T07:00:00.000Z</published>
+    <summary>I'm really loving Jon's approach to exploring and questioning the goals and implications of Longhorn: Questions about Longhorn, part 1: WinFS Questions about Longhorn, part 2: WinFS and semantics Questions about Longhorn, part 3: Avalon's enterprise mission I don't have any pithy summaries of his basic points; his posts deserve a read and a think. </summary>
+    <content type="html">&lt;h1>Jon Udell's Questions about Longhorn&lt;/h1>
+&lt;P>I'm really loving Jon's approach to exploring and questioning the goals and implications of Longhorn:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;A class=weblogItemTitle href="http://weblog.infoworld.com/udell/2004/06/02.html#a1012">Questions about Longhorn, part 1: WinFS&lt;/A>&lt;/LI>
+&lt;LI>&lt;A class=weblogItemTitle href="http://weblog.infoworld.com/udell/2004/06/07.html#a1017">Questions about Longhorn, part 2: WinFS and semantics&lt;/A>&lt;/LI>
+&lt;LI>&lt;A class=weblogItemTitle href="http://weblog.infoworld.com/udell/2004/06/09.html#a1019">Questions about Longhorn, part 3: Avalon's enterprise mission&lt;/A>&lt;/LI>&lt;/OL>
+&lt;P>I don't have any pithy summaries of his basic points; his posts deserve a read and a think.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1394</id>
+    <title>Avalon Property Invalidation &amp; Custom Measurement</title>
+    <updated>2004-06-10T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-10T07:00:00.000Z</published>
+    <summary>This post is an oldie, but a goody, in which Kenny Lim talks not only about custom Avalon controls catching property changes so that they can re-render themselves, but also about the custom measurement sequence, which is a core piece of a control that does custom layout like, say, a pile of cards (hypothetically, of course : ).</summary>
+    <content type="html">&lt;h1>Avalon Property Invalidation &amp; Custom Measurement&lt;/h1>
+This post is an oldie, but a goody, in which &lt;A href="http://weblogs.asp.net/digitalnetbizz/archive/2004/03/14/89626.aspx">Kenny Lim talks not only about custom Avalon controls catching property changes so that they can re-render themselves, but also about the custom measurement sequence&lt;/A>, which is a core piece of a control that does custom layout like, say, a pile of cards (hypothetically, of course : ).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1391</id>
+    <title>Using XAML As A 3D File Format</title>
+    <updated>2004-06-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-09T07:00:00.000Z</published>
+    <summary>Daniel Lehenbauer, an SDE on the Avalon team, has started a wiki providing helpful hints on using XAML as your new 3D file format and has provided a utility to help those playing with 3D &amp;nbsp;in the WinHEC build of Longhorn (build 4074).</summary>
+    <content type="html">&lt;h1>Using XAML As A 3D File Format&lt;/h1>
+Daniel Lehenbauer, an SDE on the Avalon team, has started &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.Unofficial3DFileFormat">a wiki providing helpful hints on using XAML as your new 3D file format&lt;/A> and has provided &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/06/08/151376.aspx">a utility to help those playing with 3D&lt;/A>&amp;nbsp;in the WinHEC build of Longhorn (build 4074).</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1393</id>
+    <title>Another Cool Visualization</title>
+    <updated>2004-06-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-09T07:00:00.000Z</published>
+    <summary>VisitorVille maps your real-time web site data to a SimCity-like environment that you can use to see where folks are going on your site and how they're navigating from one place to another. It does the other web traffic kinds of analysis, too, but the ability to watch your visitors in real-time looks pretty darn cool. This is the kind of thing that Longhorn should be good at enabling. [via Jason Whittingon] </summary>
+    <content type="html">&lt;h1>Another Cool Visualization&lt;/h1>
+&lt;p>&lt;A href="http://www.visitorville.com/overview.html">VisitorVille&lt;/A> maps your real-time web site data to a SimCity-like environment that you can use to see where folks are going on your site and how they're navigating from one place to another. It does the other web traffic kinds of analysis, too, but the ability to watch your visitors in real-time looks pretty darn cool. This is the kind of thing that Longhorn should be good at enabling.&lt;/p>
+&lt;p>[via Jason Whittingon]&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1392</id>
+    <title>Addressing Misperceptions About Indigo</title>
+    <updated>2004-06-09T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-09T07:00:00.000Z</published>
+    <summary>Richard Turner, a PM on the Indigo team, addresses the biggest misperception about Indigo in this Channel9 video. Bottom line: Microsoft is not taking MSMQ, COM+ or Remoting out of the platform; it's just that Indigo, which subsumes the features of these other technologies, will do it all better. </summary>
+    <content type="html">&lt;h1>Addressing Misperceptions About Indigo&lt;/h1>
+&lt;P>Richard Turner, a PM on the Indigo team, addresses &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=9792">the biggest misperception about Indigo&lt;/A> in this Channel9 video.&lt;/P>
+&lt;P>Bottom line: Microsoft is not taking MSMQ, COM+ or Remoting out of the platform; it's just that Indigo, which subsumes the features of these other technologies, will do it all better.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1390</id>
+    <title>On The Value and Direction of WinFS</title>
+    <updated>2004-06-08T07:00:00.000Z</updated>
+    <category term=".net" label=".NET"/>
+    <published>2004-06-08T07:00:00.000Z</published>
+    <summary>Jon Udell, a writer for InfoWorld,&amp;nbsp;begins a series digging into the value proposition of Longhorn with a look at WinFS. Jeremy Mazner, a Microsoft evangelist focusing on WinFS, provides a counter-point.</summary>
+    <content type="html">&lt;h1>On The Value and Direction of WinFS&lt;/h1>
+Jon Udell, a writer for InfoWorld,&amp;nbsp;begins a series digging into the value proposition of Longhorn with &lt;A href="http://weblog.infoworld.com/udell/2004/06/02.html#a1012">a look at WinFS&lt;/A>. Jeremy Mazner, a Microsoft evangelist focusing on WinFS, provides &lt;A href="http://weblogs.asp.net/jmazner/archive/2004/06/07/150642.aspx">a counter-point&lt;/A>.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12491</id>
+    <title>My First Presentation For A Distinguished Engineer</title>
+    <updated>2004-06-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-07T07:00:00.000Z</published>
+    <summary>Monday, June 7, 2004 Wednesday was a good day. Not only did I get birthday wishes from all over the internet (thank you, Orkut), but I got to give my first presentation to a Distinguished Engineer (or DE, as we call them in humble tones). A DE is the top end of the individual contributor ladder that technical folks who want to stay technical -- aka avoid becoming management -- are on. Architects, e.g. Don, are one step down on that ladder and Program Managers (PMs), e.g. me, are even further down. In this c...</summary>
+    <content type="html">&lt;h1>My First Presentation For A Distinguished Engineer&lt;/h1>
+&lt;p align="left">&lt;i>
+Monday, &lt;span class="created">June 7, 2004&lt;/span>&lt;/i>&lt;/p>&lt;p align="left">Wednesday was a good day. Not only 
+did I get birthday wishes from all over the internet (thank you, Orkut), but I 
+got to give my first presentation to a Distinguished Engineer (or DE, as we call 
+them in humble tones). A DE is the top end of the individual contributor ladder 
+that technical folks who want to stay technical -- aka avoid becoming management 
+-- are on. Architects, e.g. Don, are one step down on that ladder and Program 
+Managers (PMs), e.g. me, are even further down. In this case, the DE to whom I 
+was presenting is someone that I've long respected and who invented and 
+continues to guide my favorite programming language: Anders Hejlsberg.&lt;/p>&lt;p align="left">
+A couple of weeks ago, Anders was digging through our docs on a topic in which 
+he was interested because of the future directions he's got in mind for C#. 
+However, the particular information that Anders was looking for wasn't in our 
+documentation. So, he mentioned that he'd like someone to look into it and get 
+the information for him. As a percentage of the 56K employees at MS, there are a 
+very few DEs, so when one of them mentions that they'd like to see something 
+done, that's what happens. This doesn't happens because a DE is your boss or 
+because they decide whether you get a raise or not. This happens because smart 
+technical folks get respect at MS and the smarter you are, the more respect you 
+get. So, when Anders mentioned to BradA that he would like a brief on this 
+technology, Brad found someone to give that brief: me.&lt;/p>&lt;p align="left">Why 
+me? Well, lately I've been talking to Brad about me doing some more technical 
+work on WinFX and Longhorn. In the past, I've written and spoken a great deal 
+about the good and the bad of various technologies and my thinking was that if I 
+could get into a feedback loop with the product teams so that I could &lt;i>help &lt;/i>
+prevent some the worse bits from making it out the door, giving me the 
+opportunity to write only nice things about our technologies. Brad already runs 
+the WinFX review team that's in charge of making WinFX a nice place for 
+developers to play, so when I volunteered to help with some of that work, it 
+didn't take long for him to take me up on it. And, after a few moments of 
+hesitation when I realized that I only knew a little more than Anders about this 
+particular topic, I jumped at it, digging into the technology, sending &amp;quot;tell me 
+more&amp;quot; and &amp;quot;review these slides, please&amp;quot; emails to the various product groups in 
+charge of those technologies (it's amazing how quickly you get a response when 
+you put &amp;quot;I'm writing a presentation on your technology for Anders and...&amp;quot; into 
+an email : ), revised the slides, woke up in the middle of the night with the 
+perfect set of pictures to illustrate things, etc. In short, it was a blast and 
+I learned a ton (which &lt;a href="#Strengths_and_Weaknesses">you know I like&lt;/a> : 
+).&lt;/p>&lt;p align="left">And the actual presentation was even more fun than the 
+preparation. There are three kinds of talks. One kind of talk, which happens 80% 
+of the time, is the kind of talk that doesn't really affect you one way or the 
+other. It kind of blends in with all of the other talks you've given and doesn't 
+really make an impact on you.&lt;/p>&lt;p align="left">One kind of talk drains you 
+completely. This is the talk where you just can't get anyone to notice you at 
+the front of the room and you pour all of your energy into it to make it 
+acceptable at all.&lt;/p>&lt;p align="left">And one kind of talk, my favorite, is when 
+the juices are really flowing and you walk out of the meeting all excited and 
+energized. This is the kind of talk that drives me and my colleagues to 
+all-night diners for a debrief session. This last talk was the kind that I had 
+this time with Anders and a couple of the product teams from around the company. 
+I was really just guiding the discussion, with Anders leading and peppering all 
+of us with wonderful, insightful questions. I had 20+ slides with overview, 
+pictures, details and recommendations, but I only showed 4 of them (3 of 
+pictures and 1 of recommendations). My inability to get through all of the 
+slides didn't matter: Anders got it all. He was interested in some of what I had 
+to say, but also brought up points I'd never considered. What I think should be 
+in our platform was changed by just listening to Anders ask questions. I could 
+feel the synapses in my brain realign. It was amazing.&lt;/p>&lt;p align="left">Things 
+will absolutely change in our platform because of the desires that Anders 
+expressed during my presentation. What a privilege.&lt;/p>&lt;p align="left">&lt;a href="/1388">
+Discuss&lt;/a>&lt;/li>&lt;/p>
+</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1388</id>
+    <title>My First Presentation For A Distinguished Engineer</title>
+    <updated>2004-06-07T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2004-06-07T07:00:00.000Z</published>
+    <summary>Here. The one where I get to present a technical topic to Anders Hejlsberg and it changes my brain.</summary>
+    <content type="html">&lt;h1>My First Presentation For A Distinguished Engineer&lt;/h1>
+&lt;a href="/12491">Here&lt;/a>. The one where &lt;a href="/12491">I get to present a technical topic to Anders Hejlsberg&lt;/A> and it changes my brain.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1389</id>
+    <title>The Magic of the DevCon: The Attendees</title>
+    <updated>2004-06-07T07:00:00.000Z</updated>
+    <category term="conference" label="Conference"/>
+    <published>2004-06-07T07:00:00.000Z</published>
+    <summary>Here. I was recently asked to characterize the attendees of a typical DevCon and this is what I said: The attendees of a DevCon are the top of the pyramid developers that not only try new things all the time, but also make design and architecture decisions for their employers and customers. Also, all of the speakers, i.e. experts in their fields, practitioners, vendor architects, etc, are also attendees, and it's wonderful to&amp;nbsp;see them heckling each other. The environment of a DevCon is one big room wit...</summary>
+    <content type="html">&lt;h1>The Magic of the DevCon: The Attendees&lt;/h1>
+&lt;a href="/conference">Here&lt;/a>. &lt;P>I was recently asked to characterize the attendees of a typical DevCon and this is what I said:&lt;/P>
+&lt;P>The attendees of a DevCon are the top of the pyramid developers that not only try new things all the time, but also make design and architecture decisions for their employers and customers. Also, all of the speakers, i.e. experts in their fields, practitioners, vendor architects, etc, are also attendees, and it's wonderful to&amp;nbsp;see them heckling each other.&lt;/P>
+&lt;P>The environment of a DevCon is one big room with everyone in it, so it's a shared experience front-to-back. As soon as any talk is over (I keep them at 45 minutes to get the maximum number of new ideas into people&amp;#8217;s heads), the buzz between people starts and only stops when I introduce the next speaker (loudly : ).&lt;/P>
+&lt;P>A DevCon is a wonderful mix of movers and shakers, vendors, enthusiasts, architects, practitioners and and a conference with an atmosphere and a set of attendees unlike any other that I've attended.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/1387</id>
+    <title>MikeDub On Solving An Instance of Writer's Block</title>
+    <updated>2004-06-06T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <category term="writing" label="Writing"/>
+    <published>2004-06-06T07:00:00.000Z</published>
+    <summary>It has been my pleasure to spend the last 2+ years writing with Mike Wienhardt. I remember fondly his first piece. When I give feedback, I work very hard to let the author know just exactly what I think so that they can bring their work to its highest possible potential. When Mike sent me his first draft, I was as careful as I could be to point out the parts that I liked to let him know that he had real potential, but basically, I ripped it apart. I have literally caused authors to tear up reading my feedba...</summary>
+    <content type="html">&lt;h1>MikeDub On Solving An Instance of Writer's Block&lt;/h1>
+&lt;P>It has been my pleasure to spend the last 2+ years writing with &lt;A href="http://www.mikedub.net/">Mike Wienhardt&lt;/A>. I remember fondly his first piece. When I give feedback, I work very hard to let the author know just exactly what I think so that they can bring their work to its highest possible potential. When Mike sent me his first draft, I was as careful as I could be to point out the parts that I liked to let him know that he had real potential, but basically, I ripped it apart. I have literally caused authors to tear up reading my feedback in the past, but I give Mike credit -- he turned his piece around and came right back for more. We did this 5 or 6 times, but by the end, his first piece was better than most of the experienced authors filling magazines and web sites. It has been a real pleasure watching him grow into his writing talent and it made me very happy when he accepted the major writing duties on &lt;a href="/public/writing/">the 2nd edition of Windows Forms Programming in C#&lt;/A> and when he took over &lt;A href="http://msdn.microsoft.com/columns/winforms.aspx">my Wonders of Windows Forms column&lt;/A>.&lt;/P>
+&lt;P>In his most recent blog post, it was very interesting to &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000032.html">read about Mike working his way through the worst part of writing: writer's block&lt;/A>. Nearly all authors get this occasionally and it's a real killer (and a pox on those authors that don't suffer from it). It makes me proud to see him so concerned about his writing that he's willing to share these kinds of experiences with the world. I wish more engineers took that kind of pride in their work. You're setting an example for us all, Mike.&lt;/P></content>
+  </entry>
+</feed>

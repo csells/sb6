@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:8080/subfeeds/feed10.atom</id>
+  <title>Marquee de Sells</title>
+  <updated>2019-08-04T07:00:00.000Z</updated>
+  <link rel="first" href="http://localhost:8080/feed.atom"/>
+  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
+  <link rel="previous" href="http://localhost:8080/subfeeds/feed9.atom"/>
+  <link rel="next" href="http://localhost:8080/subfeeds/feed11.atom"/>
+  <link rel="self" href="http://localhost:8080/subfeeds/feed10.atom"/>
+  <author>
+    <name>Chris Sells</name>
+    <uri>http://localhost:8080/</uri>
+    <email>csells@sellsbrothers.com</email>
+  </author>
+  <category term=".net" label=".NET"/>
+  <category term="book" label="Books"/>
+  <category term="books" label="Books"/>
+  <category term="colophon" label="Colophon"/>
+  <category term="conference" label="Conference"/>
+  <category term="data" label="Data"/>
+  <category term="fun" label="Fun"/>
+  <category term="interview" label="Interviewing"/>
+  <category term="money" label="Money"/>
+  <category term="oslofeaturedcontent" label="Oslo"/>
+  <category term="osloeditorial" label="Oslo"/>
+  <category term="oslo" label="Oslo"/>
+  <category term="telerik" label="Telerik"/>
+  <category term="spout" label="The Spout"/>
+  <category term="tools" label="Tools"/>
+  <category term="win8" label="Windows 8"/>
+  <category term="writing" label="Writing"/>
+  <subtitle>Chris's insight outlet</subtitle>
+  <entry>
+    <id>http://localhost:8080/2279</id>
+    <title>Questions from Pinky on "Oslo"</title>
+    <updated>2009-05-28T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-05-28T07:00:00.000Z</published>
+    <summary>Jeff Pinkston, the lead program manager on the "M" languages team has some questions that he'd love your feedback on: How do you think about "M" inter-operating with XML? XSD? Other data formats? Given that OO languages are nominally typed and "M" is structurally typed, what is the purpose of a type? How do you think about it? The "Oslo" team is just at the beginning of our last real milestone before the PDC in November, so the answers to these questions help us to decide how to spend our time. I know that ...</summary>
+    <content type="html">&lt;h1>Questions from Pinky on "Oslo"&lt;/h1>
+&lt;P>Jeff Pinkston, the lead program manager on the "M" languages team has some questions that he'd love your feedback on:&lt;/P>
+&lt;UL>
+&lt;LI>&lt;A href="http://tinyfinger.blogspot.com/2009/05/m-interop-with-xml-and-others.html">How do you think about "M" inter-operating with XML? XSD? Other data formats?&lt;/A>&lt;/LI>
+&lt;LI>&lt;A href="http://tinyfinger.blogspot.com/2009/05/whats-purpose-of-types.html">Given that OO languages are nominally typed and "M" is structurally typed, what is the purpose of a type? How do you think about it?&lt;/A>&lt;/LI>&lt;/UL>
+&lt;P>The "Oslo" team is just at the beginning of our last real milestone before the PDC in November, so the answers to these questions help us to decide how to spend our time. I know that it seems like Microsoft has the ability to &lt;A href="http://en.wikipedia.org/wiki/Infinite_monkey_theorem">crank out the great works of Shakespeare&lt;/A>, but we're limited by time and resources, too, so if you have an opinion on these questions, &lt;A href="http://tinyfinger.blogspot.com/">drop by Pinky's place&lt;/A> and let him know what you think. Or, if you've got other &lt;A href="https://connect.microsoft.com/oslo">suggestions about how to improve "Oslo", drop them into our suggestion box&lt;/A>!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2278</id>
+    <title>"'Oslo', the May CTP and You" at the PDX Code Camp</title>
+    <updated>2009-05-27T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-05-27T07:00:00.000Z</published>
+    <summary>I'll be speaking at the Portland Code Camp on Saturday, May 30th, just as the May CTP of "Oslo" is hot off the presses: As you may or may not know, "Oslo" is also a place. However, we're not going to talk about that. Instead, Chris Sells, a member of the technical staff on the Microsoft "Oslo" team, is going to give you a quick intro to "Oslo," including "M" and Quadrant, taking you end-to-end on a few real-world-ish examples and then wave his hands furiously about the rest, begging you to give it a try and...</summary>
+    <content type="html">&lt;h1>"'Oslo', the May CTP and You" at the PDX Code Camp&lt;/h1>
+&lt;P>I'll be speaking at &lt;A href="http://portlandcodecamp.org/">the Portland Code Camp&lt;/A> on Saturday, May 30th, just as &lt;A href="http://msdn.com/oslo/">the May CTP of "Oslo"&lt;/A> is hot off the presses:&lt;/P>
+&lt;BLOCKQUOTE style="MARGIN-RIGHT: 0px" dir=ltr>
+&lt;P>&lt;EM>As you may or may not know, "Oslo" is also a place. However, we're not going to talk about that. Instead, Chris Sells, a member of the technical staff on the Microsoft "Oslo" team, is going to give you a quick intro to "Oslo," including "M" and Quadrant, taking you end-to-end on a few real-world-ish examples and then wave his hands furiously about the rest, begging you to give it a try and&amp;nbsp;complain loudly and often so we can get it right before we ship v1.0.&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>Come one, come all! Bring a friend and get a free GUID!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2276</id>
+    <title>Flinging My 60-year-old Mother High Into The Air</title>
+    <updated>2009-05-26T07:00:00.000Z</updated>
+    <category term="fun" label="Fun"/>
+    <published>2009-05-26T07:00:00.000Z</published>
+    <summary>My mom came to visit to celebrate my 40th birthday and her 60th birthday. She and the Sells Brothers and I spent yesterday afternoon wandering along the waterfront, checking out exotic animals, ditching lame cowboy comedians and eating elephant ears. And then, to put a point on the day, we launched ourselves 100 feet into the air on a giant bungle cord machine. As part of this, my eldest son decided at the pea</summary>
+    <content type="html">&lt;h1>Flinging My 60-year-old Mother High Into The Air&lt;/h1>
+&lt;P>My mom came to visit to celebrate my 40th birthday and her 60th birthday. She and the Sells Brothers and I spent yesterday afternoon wandering along the waterfront, checking out &lt;A href="http://en.wikipedia.org/wiki/Serval">exotic animals&lt;/A>, ditching &lt;A href="http://www.comedytricks.com/">lame cowboy comedians&lt;/A> and &lt;A href="http://en.wikipedia.org/wiki/Fried_dough">eating elephant ears&lt;/A>. And then, to put a point on the day, we launched ourselves 100 feet into the air on a giant bungle cord machine.&lt;/P>
+&lt;OBJECT width=425 height=344>&lt;PARAM NAME="movie" VALUE="http://www.youtube.com/v/yldrOCYb-Gw&amp;amp;hl=en&amp;amp;fs=1">&lt;PARAM NAME="allowFullScreen" VALUE="true">&lt;PARAM NAME="allowscriptaccess" VALUE="always">
+&lt;embed src="http://www.youtube.com/v/yldrOCYb-Gw&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344">&lt;/embed>&lt;/OBJECT>
+&lt;P>As part of this, my eldest son decided at the peak of our arch to spit in spite of my objections. You can see in the video us reacting to our falling at the same rate at his glob of saliva which is the clearest demonstration of &lt;A href="http://en.wikipedia.org/wiki/Galileo's_Leaning_Tower_of_Pisa_experiment">Galileo's gravity experiment from the top of the Leaning Tower of Pisa&lt;/A> that I've ever seen.&lt;/P>
+&lt;P>Enjoy. We did. : )&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2277</id>
+    <title>Oslo May 2009 CTP Available Now</title>
+    <updated>2009-05-26T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-05-26T07:00:00.000Z</published>
+    <summary>The May 2009 CTP of "Oslo" available on the Developer Center contains a new unified setup, an Intellipad with an integrated DSL authoring mode, the UML domain and the CLR domain, a slimmed-down SDK with the samples and the documents available on the DevCenter, a unified tool set for the "M" language and, the one that folks have been most anticipating, &lt;A href="http://msdn.microsoft.com/en</summary>
+    <content type="html">&lt;h1>Oslo May 2009 CTP Available Now&lt;/h1>
+&lt;P>&lt;A href="http://msdn.com/oslo/">The May 2009 CTP of "Oslo" available on the Developer Center&lt;/A> contains a new &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=827122a5-3ca0-4389-a79e-87af37cbf60d&amp;amp;displaylang=en">unified setup&lt;/A>, &lt;A href="http://msdn.microsoft.com/en-us/library/dd861739(VS.85).aspx">an Intellipad with an integrated DSL authoring mode&lt;/A>, &lt;A href="http://msdn.microsoft.com/en-us/library/dd857485(VS.85).aspx">the UML domain&lt;/A> and &lt;A href="http://msdn.microsoft.com/en-us/library/dd857487(VS.85).aspx">the CLR domain&lt;/A>, a slimmed-down SDK with &lt;A href="http://msdn.microsoft.com/en-us/oslo/cc748654.aspx">the samples&lt;/A> and &lt;A href="http://msdn.microsoft.com/en-us/library/cc709420.aspx">the documents&lt;/A> available on the DevCenter, a unified tool set for &lt;A href="http://msdn.microsoft.com/en-us/library/dd285282.aspx">the "M" language&lt;/A> and, the one that folks have been most anticipating, &lt;A href="http://msdn.microsoft.com/en-us/library/dd857506(VS.85).aspx">Quadrant&lt;/A>.&lt;/P>
+&lt;P>For more details about what's new, check out &lt;A href="http://blogs.msdn.com/modelcitizen/archive/2009/05/27/about-the-oslo-may-2009-ctp.aspx">the letter from Kraig and Kent&lt;/A> and &lt;A href="http://msdn.microsoft.com/en-us/oslo/releasenotes.aspx">the release notes&lt;/A>. Also, in the coming weeks and months, Kraig and Kent have a pipeline of content for the DevCenter to keep you informed about how we're using "Oslo" and how you can use it better. If you've got suggestions, please &lt;A href="https://connect.microsoft.com/oslo">use the Connect site&lt;/A> and don't hesitate to &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">post your questions on the forum&lt;/A>.&lt;/P>
+&lt;P>Enjoy!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2275</id>
+    <title>"Olso": Hot or Not?</title>
+    <updated>2009-05-12T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-05-12T07:00:00.000Z</published>
+    <summary>A coupla weeks ago, I did two days with of meeting, greeting, talking and interviewing at a Dutch company in The Netherlands named Sioux. They do a conference with the politically incorrect name of &amp;#8220;Hot or Not, &amp;#8221; which includes an even more politically incorrect picture of two women as part of their advertising, one lovely and one&amp;#8230; less so. They have done this conference 12 times before (I was lucky number 13, just like Bilbo) and the goal is to have someone known for a particular technolo...</summary>
+    <content type="html">&lt;h1>"Olso": Hot or Not?&lt;/h1>
+&lt;IMG align=right src="http://www.sioux.eu/mambots/content/lightThumb/thumbs/HotOrNot_hot-or-not_image_new.jpg"> 
+&lt;P>A coupla weeks ago, I did two days with of meeting, greeting, talking and interviewing at a Dutch company in The Netherlands named &lt;A href="http://www.sioux.eu/">Sioux&lt;/A>. They do a conference with the politically incorrect name of &lt;A href="http://www.sioux.eu/index.php?option=com_content&amp;amp;task=view&amp;amp;id=255&amp;amp;Itemid=242&amp;amp;lang=en">&amp;#8220;Hot or Not,&lt;/A>&amp;#8221; which includes an even more politically incorrect picture of two women as part of their advertising, one lovely and one&amp;#8230; less so. They have done this conference 12 times before (I was lucky number 13, just like Bilbo) and the goal is to have someone known for a particular technology come and give a talk, e.g. Alan Cox on Linux, and then rate the technology as &amp;#8220;Hot&amp;#8221; or &amp;#8220;Not.&amp;#8221; Since they couldn&amp;#8217;t get someone good for Oslo, they had to settle for me.&lt;/P>
+&lt;P>I spent day one having lunch with the Sioux engineers who were very insightful in their questions about how models fit into their process (all kinds of ways), how it works for embedded systems (XML generation), how it works across platforms (&lt;A href="http://www.msdn.com/oslo/msc/">MSC&lt;/A> and &lt;A href="http://www.microsoft.com/Interop/osp/default.mspx">OSP&lt;/A>, baby!), etc. After lunch, I had time to work on my demos and slides (whew) and play with a desktop electron microscope. We must&amp;#8217;ve spent an hour looking through fly parts at 26,000 times magnification. They build seriously cool software at Sioux!&lt;/P>
+&lt;P>My &amp;#8220;Oslo&amp;#8221; talk was 2.5 hours long with a 30 minute cocktail break. I thought the Dutch were loud before the alcohol was served, but that was nothing&amp;#8230; : )&amp;nbsp; There were 120 attendees in the room they&amp;#8217;d set aside for me, and they&amp;#8217;d turned away another 60 more that had wanted to come. I did Don Box and Doug Purdy&amp;#8217;s &amp;#8220;Lap Around Oslo&amp;#8221; talk with a German twist (&amp;#8220;this picture of the Fairytale Castle is a model, not the castle itself&amp;#8221;), David Langworthy&amp;#8217;s M talk (&amp;#8220;let&amp;#8217;s parse a simple sentence&amp;#8221;) and showed off &lt;A href="http://download.microsoft.com/download/E/3/E/E3EC8D15-BF43-4FFB-8B05-FD01F8EC6AD4/Spork.msi">Spork&lt;/A>, &lt;A href="http://msdn.microsoft.com/en-us/magazine/dd419662.aspx">WIX&lt;/A>, &lt;A href="http://download.microsoft.com/download/4/0/B/40B632EC-F201-43EE-8E29-C398A9DA8468/MUrlSample.msi">MUrl &lt;/A>and &lt;A href="http://msdn.microsoft.com/en-us/oslo/videos.aspx">MService&lt;/A>. The audience&amp;#8217;s questions were even more insightful, e.g. what about schema versioning? Why a new language? How do you debug a declarative language? Can I embed languages in each other? What if I want to use an M language without a database at all?&lt;/P>
+&lt;P>At the end, I was awarded a book on Dutch culture (very useful! Now I know why the bicycles throw themselves in front of my car and why it wasn&amp;#8217;t such a big deal as I thought for me to have to drive up on the sidewalk a little&amp;#8230;). And then, without so much as a courtesy screen, the vote was called right in front of me &amp;#8211; thumbs up, Oslo &amp;#8220;hot&amp;#8221; or &amp;#8220;not?&amp;#8221; I was to learn later that this is a serious thing &amp;#8211; they&amp;#8217;ve rated at least one technology as only 30% hot.&lt;/P>
+&lt;P>Luckily for my pride and my continued employment, Oslo was rated 98% hot. That made &lt;A href="http://www.microsofttranslator.com/BV.aspx?ref=Internal&amp;amp;a=http%3A%2F%2Fwww.computable.nl%2Fartikel%2Fict_topics%2Fsoa%2F2935303%2F2204519%2Fms-oslo-applicaties-beschrijven-in-modellen.html">the magazine interviewing&lt;/A> the next day much less embarrassing I&amp;#8217;ll tell you!&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2274</id>
+    <title>James Clark Getting Involved in M</title>
+    <updated>2009-05-07T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-05-07T07:00:00.000Z</published>
+    <summary>James Clark, the father of the world's fastest XML parser ( according to his bio ) is helping us with M on the M Specification Community. He had some initial thoughts that I thought were interesting. I'm sooo glad he's keeping us honest!</summary>
+    <content type="html">&lt;h1>James Clark Getting Involved in M&lt;/h1>
+&lt;A href="http://www.jclark.com/">James Clark&lt;/A>, the father of the world's fastest XML parser (&lt;A href="http://www.jclark.com/bio.htm">according to his bio&lt;/A>) is helping us with M on the &lt;A href="http://msdn.microsoft.com/en-us/oslo/msc.aspx">M Specification Community&lt;/A>. &lt;A href="http://blog.jclark.com/2009/03/getting-involved-with-m.html">He had some initial thoughts&lt;/A> that I thought were interesting. I'm sooo glad he's keeping us honest!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2273</id>
+    <title>Dutch "Computable" Interviews Chris Sells on Oslo</title>
+    <updated>2009-05-05T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-05-05T07:00:00.000Z</published>
+    <summary>The translation from Dutch is pretty good: "The better you can describe applications in models, the less code you need to write and the more transparency you provide to developers and others." Computable spoke with Chris Sells. De programmamanager van de Connected Systems Divisie van Microsoft was in Nederland voor een Hot-or-Not lezing, georganiseerd door Sioux. The program manager of the Connected Systems Division of Microsoft in the Netherlands for a Hot-or-Not reading, organized by Sioux. But they chose...</summary>
+    <content type="html">&lt;h1>Dutch "Computable" Interviews Chris Sells on Oslo&lt;/h1>
+&lt;IMG align=right src="http://www.computable.nl/pcit/img.db?2935319"> 
+&lt;P>&lt;A href="http://www.microsofttranslator.com/BV.aspx?ref=Internal&amp;amp;a=http%3A%2F%2Fwww.computable.nl%2Fartikel%2Fict_topics%2Fsoa%2F2935303%2F2204519%2Fms-oslo-applicaties-beschrijven-in-modellen.html">The translation from Dutch&lt;/A> is pretty good: "The better you can describe applications in models, the less code you need to write and the more transparency you provide to developers and others." Computable spoke with Chris Sells. De programmamanager van de Connected Systems Divisie van Microsoft was in Nederland voor een Hot-or-Not lezing, georganiseerd door Sioux. The program manager of the Connected Systems Division of Microsoft in the Netherlands for a Hot-or-Not reading, organized by Sioux. &lt;/P>
+&lt;P>But they chose the strangest picture...&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2272</id>
+    <title>Joel Spolsky talks about Wasabi: His FogBugz DSL</title>
+    <updated>2009-05-03T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-05-03T07:00:00.000Z</published>
+    <summary>In Scott Hanselman's April 2009 podcast, Visiting Fog Creek Software and Joel Spolsky, Joel talks about Wasabi, FogCreek's VBScript compiler, and he talks about it really being a subset of VBScript used specifically for bringing FogBugz to Unix and the CLR. In fact, it's a VBScript compiler built specifically to compile a single application, doing things like making the 5% of ADO.NET they use cross-platform. And just in case the point isn't completely obvious, Joel and Scott draw the conclusion for us: Wasa...</summary>
+    <content type="html">&lt;h1>Joel Spolsky talks about Wasabi: His FogBugz DSL&lt;/h1>
+In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.com/default.aspx?showID=176">Visiting Fog Creek Software and Joel Spolsky&lt;/A>, Joel talks about &lt;A href="http://www.joelonsoftware.com/items/2006/09/01b.html">Wasabi, FogCreek's VBScript compiler&lt;/A>, and he talks about it really being a subset of VBScript used specifically for bringing &lt;A href="http://fogbugz.com">FogBugz&lt;/A> to Unix and the CLR. In fact, it's a VBScript compiler built specifically to compile a single application, doing things like making the 5% of ADO.NET they use cross-platform. And just in case the point isn't completely obvious, Joel and Scott draw the conclusion for us: Wasabi is the domain-specific language just for FogBugz. Just another DSL in nature.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/12643</id>
+    <title>DSL Developer's Conference</title>
+    <updated>2009-04-18T07:00:00.000Z</updated>
+    <link rel="enclosure" type="image/jpg" href="/public/conference/Small%20Box%20-%20DSL%20DevCon%20-%20Fill%20your%20head.jpg"/>
+    <category term="conference" label="Conference"/>
+    <published>2009-04-18T07:00:00.000Z</published>
+    <summary>DSL Developers Conference applied topics in domain specific languages April 16-17, 2009, Microsoft Campus, Redmond, WA &amp;nbsp; Spirit of the Developer's Conference The goal of the DSL Developer's Conference is to cut away all the unessential conference baggage and concentrate on why we're spending time at a conference in the first place -- the talks by industry experts and experienced practitioners. By doing so, we can keep your wasted time to a minimum. In fact, if you don't go away with your head hurting f...</summary>
+    <content type="html">&lt;h1>DSL Developer's Conference&lt;/h1>
+        &lt;h1>
+            &lt;img class="style1" height="151" src="/public/conference/Small%20Box%20-%20DSL%20DevCon%20-%20Fill%20your%20head.jpg" style="float: left" width="181">DSL Developers Conference&lt;br>
+			&lt;span style="font-weight: 400">&lt;i>applied topics in domain specific 
+			languages&lt;/i>&lt;/span>&lt;/h1>
+		&lt;P>
+            &lt;i>April 16-17, 2009, Microsoft Campus, Redmond, WA&lt;/i>&lt;/P>
+		&lt;h2>
+            &amp;nbsp;&lt;/h2>
+		&lt;h2>
+            Spirit of the Developer's Conference&lt;/h2>
+        &lt;p>
+            The goal of the DSL Developer's Conference is to cut away 
+			all the unessential conference baggage and concentrate on why we're 
+			spending time at a conference in the first place -- the talks by 
+			industry experts and experienced practitioners. By doing so, we can 
+			keep your wasted time to a minimum. In fact, if you 
+			don't go away with your head hurting from all the new ideas you've 
+			heard, we've haven't done our job!&lt;/p>
+		&lt;h2>
+            Summary&lt;/h2>
+        &lt;table border="1" style="border-top:1.5pt solid black; border-bottom:1.5pt solid black; border-left-style:none; border-right-style:none" cellpadding="4" cellspacing="0" fpstyle="26,010000000" id="table4">
+            &lt;tr>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    &lt;b>What&lt;/b>
+                &lt;/td>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    2 days of practical, applied DSL sessions from industry experts and 
+					practitioners&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    &lt;b>When&lt;/b>
+                &lt;/td>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    April 16th, 1pm-6pm (registration at noon), April 17th, 
+					9am-6pm&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    &lt;b>Where&lt;/b>
+                &lt;br>
+                &lt;/td>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    Microsoft Research Building&lt;i> &lt;/i>99, Room 1919&lt;i>&lt;br>&lt;/i>
+					14820 NE 36th Street&lt;br>Redmond, WA 98052&lt;br>USA&lt;br>&lt;br>(on 
+					the other side of 520 from main campus)&lt;p>If you're 
+					flying, you want to target the Seattle-Tacoma Int'l Airport 
+					(SEA).&lt;/td>
+            &lt;/tr>
+            &lt;tr>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    &lt;b>Cost&lt;/b>
+                &lt;/td>
+                &lt;td align="left" valign="top" style="border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: .75pt solid black">
+                    $0 for 1.5 days of sessions (half the bargain at twice the 
+					cost!)&lt;/td>
+            &lt;/tr>
+            &lt;/table>
+			&lt;h2>
+            Sadly, It's Over&lt;/h2>
+		&lt;p>
+            But you can
+			&lt;a href="http://msdn.microsoft.com/en-us/oslo/videos.aspx#dsl">see 
+			the videos and download the slides here&lt;/a>!&lt;/p>
+		&lt;p>
+            There were countless
+			&lt;a href="http://blogsearch.google.com/blogsearch?hl=en&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;q=%22dsl+devcon%22">
+			blog posts&lt;/a> and
+			&lt;a href="http://search.twitter.com/search?q=%23dsldevcon">tweets&lt;/a>.&lt;/p>
+		&lt;p>
+            Fabulous conference, folks. Best DevCon ever!&lt;/p>
+		&lt;h2>
+            Site&lt;/h2>
+        &lt;p align="left">
+            This site, and all its contents, are copyright&amp;nbsp;©&amp;nbsp;2001-2009, Chris 
+            Sells and Microsoft, Corp. All rights reserved. Please contact 
+			&lt;a href="mailto:csells@microsoft.com?subject=I've got a comment or suggestion about the Web Services DevCon">csells@microsoft.com&lt;/a> with any comments or suggestions.&lt;/p></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2269</id>
+    <title>Twitter takes a bite out of blogs</title>
+    <updated>2009-04-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-04-17T07:00:00.000Z</published>
+    <summary>At the last DevCon in 2003, blogging was rampant. We had about 100 posts in the lead up to the conference and during the conference itself. A this year's DSL DevCon, there's a ton of buzz, but almost none of it is in the blogosphere. Instead, it's all in Twitter.Last I checked, it was more than 150 tweets and we're still on the first talk of the 2nd day (and day #1 was only a half day). The worm has turned. </summary>
+    <content type="html">&lt;h1>Twitter takes a bite out of blogs&lt;/h1>
+&lt;IMG align=right src="http://twitter.com/images/twitter.png"> 
+&lt;P>At the last DevCon in 2003, blogging was rampant. We had about 100 posts in the lead up to the conference and during the conference itself.&lt;/P>
+&lt;P>A this year's &lt;a href="/conference">DSL DevCon&lt;/A>, there's a ton of buzz, but almost none of it is in the blogosphere. Instead, it's all in Twitter.Last I checked, it was &lt;A href="http://search.twitter.com/search?q=%23dsldevcon">more than 150 tweets&lt;/A> and we're still on the first talk of the 2nd day (and day #1 was only a half day).&lt;/P>
+&lt;P>The worm has turned.&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2270</id>
+    <title>Win7 killed a feature I love in Vista!</title>
+    <updated>2009-04-17T07:00:00.000Z</updated>
+    <category term="spout" label="The Spout"/>
+    <published>2009-04-17T07:00:00.000Z</published>
+    <summary>All my friends have updated to Windows 7. My 14-year old son is running Win7. I'm the only one I know that's not running Windows 7. The reason? Windows 7 took away a feature I use all the time, as shown on the right: Search the Internet. Here's what I do all day, every day in Vista: Ctrl+Esc to bring up the Start menu, then I start typing. If I'm searching on my HD, I immediately get matches and I can choose one with just the arrows and the Enter key. If I'm typing in the name of a program in the Start menu...</summary>
+    <content type="html">&lt;h1>Win7 killed a feature I love in Vista!&lt;/h1>
+&lt;IMG align=right src="/public/spout/searchtheinternet.jpg"> 
+&lt;P>All my friends have updated to Windows 7. My 14-year old son is running Win7. I'm the only one I know that's not running Windows 7. The reason? Windows 7 took away a feature I use all the time, as shown on the right: Search the Internet.&lt;/P>
+&lt;P>Here's what I do all day, every day in Vista: Ctrl+Esc to bring up the Start menu, then I start typing. If I'm searching on my HD, I immediately get matches and I can choose one with just the arrows and the Enter key. If I'm typing in the name of a program in the Start menu, I get those matches and choose one. If I want "calc" or "notepad" I can just type those and those work.&lt;/P>
+&lt;P>However, 80% of the time, I want to search the internet, so enter my search term, optionally including attributes like "site:", I press, down-arrow once, highlight "Search the Internet" and press Enter. This brings up my default browser with my search results in my default search engine without me having to move the mouse or open the browser and wait for the home page or even decide where I want the search results to come from until after I've entered my search phrase.&lt;/P>
+&lt;P>And they took it out of Windows 7. : (&lt;/P>
+&lt;P>I logged the bug and heard nothing.&lt;/P>
+&lt;P>Does anyone know of I 3rd party program I can run that will work exactly like the Vista Start menu under Windows 7? Please?&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2271</id>
+    <title>CodeCast: Oslo and M with Paul Vick</title>
+    <updated>2009-04-17T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-04-17T07:00:00.000Z</published>
+    <summary>Here. Our own Paul Vick is on CodeCast: The Late Night Show for.NET Developers, with your hosts Ken Levy, Gary Short, and Markus Egger. Enjoy!</summary>
+    <content type="html">&lt;h1>CodeCast: Oslo and M with Paul Vick&lt;/h1>
+&lt;a href="http://www.developerfusion.com/media/12265/oslo-and-m-with-paul-vick/">Here&lt;/a>. Our own &lt;A href="http://www.panopticoncentral.net/">Paul Vick&lt;/A> is on CodeCast: The Late Night Show for .NET Developers, with your hosts Ken Levy, Gary Short, and Markus Egger. Enjoy!</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2268</id>
+    <title>Three "Oslo" Talks at VSLive in June!</title>
+    <updated>2009-04-11T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-04-11T07:00:00.000Z</published>
+    <summary>This year's VSLive in Las Vegas (June 8-11), has three, count 'em three, "Oslo" talks!&amp;nbsp;(And a Dublin talk to boot.) Just a few months ago, the "Oslo" team was giving all the talks and now there are so many of them I have to hear about them on the street! Our baby grew up so fast... And as if that weren't enough, Jon Flanders gave me a code for a discount: "If you register with code S9V10 you can get and all-access Passport Package for just $1,295, a savings of $400.00 off the standard price of $1,695."...</summary>
+    <content type="html">&lt;h1>Three "Oslo" Talks at VSLive in June!&lt;/h1>
+&lt;P>This year's &lt;A href="http://vslive.com/2009/lasvegas/default.aspx">VSLive in Las Vegas (June 8-11)&lt;/A>, has &lt;A href="http://vslive.com/2009/lasvegas/oslo.aspx">three, count 'em three, "Oslo" talks!&amp;nbsp;(And a Dublin talk to boot.)&lt;/A> Just a few months ago, the "Oslo" team was giving all the talks and now there are so many of them I have to hear about them on the street! Our baby grew up so fast...&lt;/P>
+&lt;P>And as if that weren't enough, Jon Flanders gave me a code for a discount:&lt;/P>
+&lt;BLOCKQUOTE style="MARGIN-RIGHT: 0px" dir=ltr>
+&lt;P>&lt;EM>"If you register with code S9V10 you can get and all-access Passport Package for just $1,295, a savings of $400.00 off the standard price of $1,695."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE>
+&lt;P>I know I loved &lt;A href="http://live.visitmix.com/">MIX in Vegas last month&lt;/A> and I'm jealous I don't get to go back in June. &lt;A href="http://www.imdb.com/title/tt0089504/">Put some money down on 22 for me!&lt;/A>&lt;/P></content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2267</id>
+    <title>Real-World Credit Card Validation Rules w/ "Oslo"</title>
+    <updated>2009-04-01T07:00:00.000Z</updated>
+    <category term="oslofeaturedcontent" label="Oslo"/>
+    <published>2009-04-01T07:00:00.000Z</published>
+    <summary>This is a wonderful article on the use of an "M" grammar to parse a set of rules specific to credit card validation and then parse those rules at run-time to drive a framework for doing the validation itself. The article does a marvelous job of motivating the use of a custom DSL for construction and validation by non-engineers and then lays out the entire grammar and C# loader code. Recommended.</summary>
+    <content type="html">&lt;h1>Real-World Credit Card Validation Rules w/ "Oslo"&lt;/h1>
+This is &lt;A href="http://www.hexadecimal.se/2009/03/17/ARealWorldApplicationOfMGrammarOslo.aspx">a wonderful article&lt;/A> on the use of an "M" grammar to parse a set of rules specific to credit card validation and then parse those rules at run-time to drive a framework for doing the validation itself. The article does a marvelous job of motivating the use of a custom DSL for construction and validation by non-engineers and then lays out the entire grammar and C# loader code. Recommended.</content>
+  </entry>
+  <entry>
+    <id>http://localhost:8080/2266</id>
+    <title>Run your house with Oslo!</title>
+    <updated>2009-04-01T07:00:00.000Z</updated>
+    <category term="oslo" label="Oslo"/>
+    <published>2009-04-01T07:00:00.000Z</published>
+    <summary>Kris Horrocks in our marketing team is using Oslo to run his house via X10. He's got two posts on it and it's damn cool! Hmmm... How much to get X10 at my house...</summary>
+    <content type="html">&lt;h1>Run your house with Oslo!&lt;/h1>
+&lt;A href="http://blogs.msdn.com/krisho/">Kris Horrocks&lt;/A> in our marketing team is using Oslo to run his house via X10. He's got &lt;A href="http://blogs.msdn.com/krisho/archive/2009/03/24/oslo-is-running-my-house.aspx">two&lt;/A> &lt;A href="http://blogs.msdn.com/krisho/archive/2009/03/31/x10-grammar.aspx">posts&lt;/A> on it and it's damn cool! Hmmm... How much to get X10 at my house...</content>
+  </entry>
+</feed>
