@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed31.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed31.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed30.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed32.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed31.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed30.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed32.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed31.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1976</id>
+    <id>https://csells.github.io/sb6/1976</id>
     <title>Greetings from Switzerland</title>
     <updated>2006-03-22T08:00:00.000Z</updated>
     <published>2006-03-22T08:00:00.000Z</published>
@@ -43,7 +45,7 @@
 &lt;P>This is my first real connected experience since boarding the plane Sunday morning (I don't care how cool Outlook Web Access is&amp;nbsp;-- it ain't nearly so cool as the Windows version), although I was able to get my cell phone to download my emails. I can't image what that bill will be like...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1975</id>
+    <id>https://csells.github.io/sb6/1975</id>
     <title>I just watched my son learn to fear the computer</title>
     <updated>2006-03-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -56,7 +58,7 @@
 &lt;P>What did he do wrong?&amp;nbsp;How do I explain it to him? What did we do wrong as an industry to teach my son to fear a tool meant to help?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1974</id>
+    <id>https://csells.github.io/sb6/1974</id>
     <title>Ninja's Need Love</title>
     <updated>2006-03-15T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -66,7 +68,7 @@
 I love the internet. Where else would you see a video of &lt;A href="http://askaninja.com/news/2006/02/01/ask-a-ninja-question-9-ninja-love-wmv">a ninja answering letters about love&lt;/A>?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1972</id>
+    <id>https://csells.github.io/sb6/1972</id>
     <title>My $366 Vista PC</title>
     <updated>2006-03-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -97,7 +99,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 &lt;P>P.S. This post was composed and posted from "visto," my new Vista PC.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1971</id>
+    <id>https://csells.github.io/sb6/1971</id>
     <title>Zombie MMORPG</title>
     <updated>2006-03-10T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -110,7 +112,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 &lt;P>You guy will kill me before I change, right?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1970</id>
+    <id>https://csells.github.io/sb6/1970</id>
     <title>I'm *loving* the new live.com images search</title>
     <updated>2006-03-09T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -120,7 +122,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 &lt;P>&lt;A href="http://live.com">Live.com&lt;/A> has a new image search which does progressive showing of images, scaling of the group and individual photos in very cool ways, but the killer feature is when you surf to the page from whence the image comes, the image is shown in full size hovering above the page. Very slick. My only complaint is that there seems to be no way to do an image search w/o first doing a normal search and then pressing the "Images" button. Still, I've switched from a9.com and google.com image search.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1969</id>
+    <id>https://csells.github.io/sb6/1969</id>
     <title>ClickOnce + FireFox</title>
     <updated>2006-03-07T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -130,7 +132,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 &lt;P>If you're having trouble with &lt;A href="http://blogs.msdn.com/saurabh/archive/2006/03/02/541988.aspx">ClickOnce while using FireFox as your default browser&lt;/A>, then &lt;A href="http://blogs.msdn.com/saurabh/archive/2006/03/02/541988.aspx">this post&lt;/A> is for you. Thanks, Saurabh!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1968</id>
+    <id>https://csells.github.io/sb6/1968</id>
     <title>Fabulous Half-Life 2 Comic</title>
     <updated>2006-03-03T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -140,7 +142,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 &lt;P>Here's a tip -- if you've got a deadline, don't wander over to &lt;A href="http://www.hlcomic.com/">the Half-Life 2 comic "Concerned."&lt;/A>&amp;nbsp;I'm a *huge* Half-Life and Half-Life 2 fan, so when I heard about it, I went right over and now that's two hours of my life I'll never get back (but were oh so pleasantly spent) reading all 120 comic strips front to back. Since I've been spending my evenings and weekends playing Half-Life 2 again (why oh why aren't there any more good games?!?), all of the stuff in these comics is fresh in my mind. Plus, I don't mean "comic inspired by Half-Life 2;" the guy actually posing characters and objects from the game using a Half-Life 2 mod and builds his comics out of the screen shots, adding hilarious&amp;nbsp;prose. It's like if &lt;A href="http://www.neopoleon.com/">Rory&lt;/A>&amp;nbsp;built his comics from "Stick Figure World 3D" (coming soon to XBox&amp;nbsp;360).&amp;nbsp;Very highly recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1967</id>
+    <id>https://csells.github.io/sb6/1967</id>
     <title>Hello from ASP.NET 2.0</title>
     <updated>2006-02-26T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -150,7 +152,7 @@ I love the internet. Where else would you see a video of &lt;A href="http://aska
 I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with the experience, so I didn't pull the trigger on moving it to a production environment. I'm glad I waited. I ported the site again last night using the &lt;A href="http://webproject.scottgu.com/">VS05 Web Application Project preview&lt;/A> and it worked a treat. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1965</id>
+    <id>https://csells.github.io/sb6/1965</id>
     <title>PM Skill #9: Learn From The Masters</title>
     <updated>2006-02-25T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -168,7 +170,7 @@ I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with t
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1966</id>
+    <id>https://csells.github.io/sb6/1966</id>
     <title>testing</title>
     <updated>2006-02-25T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -178,7 +180,7 @@ I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with t
 1.2.3...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1964</id>
+    <id>https://csells.github.io/sb6/1964</id>
     <title>PM Skill #8: Give Credit Freely</title>
     <updated>2006-02-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -193,7 +195,7 @@ I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with t
 &lt;P>But what do you do to get praise for your own work if you're busy doing all of this praising of your team mates? Nothing. Praise from yourself is called "bragging" and it makes you look stupid (I know this because I struggle w/ this constantly). Give your praise freely and let others do the same. If you're effective, people will say good things and that'll be enough.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1963</id>
+    <id>https://csells.github.io/sb6/1963</id>
     <title>Feb06 CTP of WinFX</title>
     <updated>2006-02-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -213,7 +215,7 @@ I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with t
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1961</id>
+    <id>https://csells.github.io/sb6/1961</id>
     <title>Scrum is very focusing</title>
     <updated>2006-02-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -223,7 +225,7 @@ I ported sellsbrothers.com to ASP.NET 2.0 a while ago, but I wasn't happy with t
 We started using scrum in my group this week and I'm already finding myself pushing aside work that I would normally sign up for in other groups. Scrum gives you to choice of being able to say "I did what I said I was going to do yesterday" or "I didn't." I want to always be able to say the former or have a good reason why not. Is "I was working with this other group" a good reason when the rest of your team is focused 100% on the thing? This is going to play hell with MS culture, but in a good way, imo.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1962</id>
+    <id>https://csells.github.io/sb6/1962</id>
     <title>A Reviewing Trick I Learned A Long Time Ago</title>
     <updated>2006-02-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

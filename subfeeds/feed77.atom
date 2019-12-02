@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed77.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed77.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed76.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed78.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed77.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed76.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed78.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed77.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1332</id>
+    <id>https://csells.github.io/sb6/1332</id>
     <title>What Happens When You Surf to WinFX.com?</title>
     <updated>2004-05-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;A href="http://www.winfx.com">The right thing happens&lt;/A>, imo, but I'm hardly unbiased. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1331</id>
+    <id>https://csells.github.io/sb6/1331</id>
     <title>"Down-to-Earth Marketing"</title>
     <updated>2004-05-08T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -55,7 +57,7 @@
 &lt;P>So, am I a technologist? I like to think so. Am I engaged in the down-to-earth marketing that Brendan prefers? Absolutely. And good eye, Brandan!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1329</id>
+    <id>https://csells.github.io/sb6/1329</id>
     <title>I'm loving the WinHEC build of Longhorn</title>
     <updated>2004-05-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -65,7 +67,7 @@
 The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than the PDC build of Longhorn, that I find it a pleasure to use. &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.aspx">If you're an MSDN subscriber into Longhorn, I recommend it&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1330</id>
+    <id>https://csells.github.io/sb6/1330</id>
     <title>The WinFS Team on the Status of WinFS</title>
     <updated>2004-05-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -77,7 +79,7 @@ The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than 
 &lt;P>To provide the feedback that Toby is looking for, &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.aspx">download Longhorn and the Longhorn SDK from the MSDN Subscriber Downloads section&lt;/A> and &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.winfs">post your feedback on the WinFS newsgroup&lt;/A>, where Toby posted his response and the WinFS team is hangs out waiting for you.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1327</id>
+    <id>https://csells.github.io/sb6/1327</id>
     <title>More Free WIndows Forms Controls:vbAccelerator</title>
     <updated>2004-05-07T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -87,7 +89,7 @@ The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than 
 &lt;P>After posting a few sets of free Windows Forms controls, now I'm a magnet for the "but you forgot my favorite free controls site" emails, which I feel compelled to share with you. This time, it's the vbAccelerator site, which is a mix of VB6 and .NET controls, code and tools. &lt;A href="http://www.vbaccelerator.com/home/NET/index.asp">The .NET stuff is here&lt;/A>. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1328</id>
+    <id>https://csells.github.io/sb6/1328</id>
     <title>What's New in Avalon 4074</title>
     <updated>2004-05-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -97,7 +99,7 @@ The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than 
 &lt;A href="http://www.longhornblogs.com/ndunlap/archive/2004/05/07/3413.aspx">Nathan Dunlap takes us on a tour of his favorite new things in Avalon in the WinHEC build of Longhorn&lt;/A> (4074), including a sneak peak an updated GelButton, his love affair with the&amp;nbsp; new Grid panel, his lust for real 3D and more. You gotta love that enthusiasm. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1326</id>
+    <id>https://csells.github.io/sb6/1326</id>
     <title>A Huge Variety of Declarative UIs</title>
     <updated>2004-05-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -107,7 +109,7 @@ The WinHEC build of Longhorn just seems so much more &lt;EM>stable&lt;/EM> than 
 I had no idea that there were so many declarative platforms for UI. &lt;A href="http://xul.sourceforge.net/counter.html">The XUL Grand Coding Challenge 2004 shows off 10&lt;/A> and the XAML app ain't even posted yet (but &lt;A href="http://www.longhornblogs.com/akinney/archive/2004/05/06/3371.aspx">it's coming&lt;/A>).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1324</id>
+    <id>https://csells.github.io/sb6/1324</id>
     <title>Conference In A Box: WinHEC Longhorn Materials</title>
     <updated>2004-05-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@ I had no idea that there were so many declarative platforms for UI. &lt;A href="
 Dave Massy has amassed some information about the new WinHEC Longhorn build (4074) and it's available on the Longhorn Developer Center in the "&lt;A href="http://msdn.microsoft.com/Longhorn/ciab/default.aspx">Conference In A Box&lt;/A>." The idea is to bundle the set of conference-related materials together into a kind of "virtual event" so that even folks that didn't get to go to WinHEC can get the Longhorn information that was provided there. The plan is to gather this same kind of material for future Longhorn community technology preview drops.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1325</id>
+    <id>https://csells.github.io/sb6/1325</id>
     <title>Kent Sums Sums Up the P/Invoke Add-In Nicely: Whoa</title>
     <updated>2004-05-06T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -127,7 +129,7 @@ Dave Massy has amassed some information about the new WinHEC Longhorn build (407
 Adam Nathan has taken the information from his extremely popular &lt;A href="http://www.pinvoke.net/">P/Invoke Wiki&lt;/A>&amp;nbsp;site and built &lt;A href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=75122f62-5459-4364-b9ba-7b5e6a4754fe">an add-in to pull and drop P/Invoke signatures directly into VS.NET&lt;/A>. &lt;A href="http://weblogs.asp.net/ksharkey/archive/2004/05/05/126880.aspx">Whoa&lt;/A>, indeed.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1322</id>
+    <id>https://csells.github.io/sb6/1322</id>
     <title>Sells Brothers T-Shirts confer special powers</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -139,7 +141,7 @@ Adam Nathan has taken the information from his extremely popular &lt;A href="htt
 &lt;P>The conference t-shirt should also help him on his SATs and with his college entrance essay, but the downside is that it repels women. Sorry! : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1319</id>
+    <id>https://csells.github.io/sb6/1319</id>
     <title>FileDisassembler Add-In for Reflector 4.0</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -149,7 +151,7 @@ Adam Nathan has taken the information from his extremely popular &lt;A href="htt
 It turns out that the add-in model for Reflector 4.0 is so powerful that it enabled Denis Bauer to build an add-in that leverages the built-in R4 disassembler to &lt;A href="http://www.denisbauer.com/weblog/PermaLink,guid,d8da2708-8e5f-47a1-84ad-2cd81589d3fa.aspx">disassembly an entire assembly into source code files&lt;/A>. Very handy for curling up on a sunny afternoon with a chunk of source from your favorite assembly, a cigar and a single malt Scotch.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1321</id>
+    <id>https://csells.github.io/sb6/1321</id>
     <title>Transcript of Jim Allchin's WinHEC Keynote</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -159,7 +161,7 @@ It turns out that the add-in model for Reflector 4.0 is so powerful that it enab
 Jim Allchin's WinHEC keynote was entitled, &lt;A href="http://www.microsoft.com/presspass/exec/Jim/05-04winhec2004.asp">"Beyond Better, Stronger, Faster: Innovating around Experiences,"&lt;/A> and in it, he talks about the experience that Longhorn is going to enable and how the technology supports that experience.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1323</id>
+    <id>https://csells.github.io/sb6/1323</id>
     <title>The Virtual WinHEC</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -169,7 +171,7 @@ Jim Allchin's WinHEC keynote was entitled, &lt;A href="http://www.microsoft.com/
 If you can't be at WinHEC to check out the latest Longhorn information, Paul Thurott's got you covered with his &lt;A href="http://www.winsupersite.com/reviews/winhec_2004.asp">WinHEC 2004 Show Report and Photo Gallery&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1320</id>
+    <id>https://csells.github.io/sb6/1320</id>
     <title>Transcript of BillG's WinHEC Keynote</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -179,7 +181,7 @@ If you can't be at WinHEC to check out the latest Longhorn information, Paul Thu
 &lt;P>BillG's keynote @ WinHEC this year was entitled &lt;A href="http://www.microsoft.com/billgates/speeches/2004/05-04winhec.asp">"Seamless Computing: Hardware Advances for a New Generation of Software,"&lt;/A> and is available in transcript form for your enjoyment.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1318</id>
+    <id>https://csells.github.io/sb6/1318</id>
     <title>Longhorn M7.2 Bits Coming to MSDN Subscribers</title>
     <updated>2004-05-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

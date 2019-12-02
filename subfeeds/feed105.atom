@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed105.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed105.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed104.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed106.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed105.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed104.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed106.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed105.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/933</id>
+    <id>https://csells.github.io/sb6/933</id>
     <title>The Visual C++ Team Wants You!</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -44,7 +46,7 @@
 And if http://microsoft.com/jobs is too slow for you, feel free to send your resume and a bottle of Scotch (OK, that last part is optional : ) to Terry Leeper, a friend of mine on the VS team desperate for help: tleeper@microsoft.com.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/938</id>
+    <id>https://csells.github.io/sb6/938</id>
     <title>New SharpReader uses Genghis</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -58,7 +60,7 @@ BTW, the new feature was toast windows.
 [1] http://www.sharpreader.net</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/937</id>
+    <id>https://csells.github.io/sb6/937</id>
     <title>Don Box Shows K&amp;R Hello, World in XAML</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -70,7 +72,7 @@ BTW, the new feature was toast windows.
 Of course, most folks will think of XAML for declaring Avalon UI, but who knows what fun things will come out of the truth?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/932</id>
+    <id>https://csells.github.io/sb6/932</id>
     <title>DonXML Dives into XAML</title>
     <updated>2003-11-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 &lt;a href="http://www.donxml.com/">Here&lt;/a>. Don "XML" Demsak has been diving into XAML head first, using it for it's graphics language features and comparing it to SVG along the way. Very cool stuff.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/931</id>
+    <id>https://csells.github.io/sb6/931</id>
     <title>A List of What Makes WinFS Cool</title>
     <updated>2003-11-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -90,7 +92,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 &lt;a href="http://weblogs.asp.net/soever/posts/35478.aspx">Here&lt;/a>. Serge posts a list of what he thinks makes WinFS cool along with links to more info.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/930</id>
+    <id>https://csells.github.io/sb6/930</id>
     <title>Develop Managed VSIP Extensions to VS.NET</title>
     <updated>2003-11-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -100,7 +102,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 &lt;a href="http://www.vsipdev.com/extrasbeta/default.aspx">Here&lt;/a>. Want to develop deep extensions to VS.NET as a Visual Studio Integration Partner for free? Want to develop those extensions using managed code with new managed samples and a new wizard? Then check out the VSIP Extras Beta and have fun!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/924</id>
+    <id>https://csells.github.io/sb6/924</id>
     <title>XAML's not your father's UI mark-up</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -110,7 +112,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 &lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-11-04T09:14:15Z">Here&lt;/a>. Don Box says it nicely: "XAML is just an XML-based way to wire up CLR types - no more no less."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/925</id>
+    <id>https://csells.github.io/sb6/925</id>
     <title>Preview: Microsoft's Windows Longhorn</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -122,7 +124,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 [radio.weblogs.com/0001011/]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/926</id>
+    <id>https://csells.github.io/sb6/926</id>
     <title>.NET Rocks! hosted by MSDN</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -134,7 +136,7 @@ Of course, most folks will think of XAML for declaring Avalon UI, but who knows 
 Enjoy (I know I do).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/928</id>
+    <id>https://csells.github.io/sb6/928</id>
     <title>Microsoft to offer bounty on hackers</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <published>2003-11-04T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ Enjoy (I know I do).</content>
 Holy cow! Did Microsoft just create a new profession: the cyber bounty hunter?!?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/927</id>
+    <id>https://csells.github.io/sb6/927</id>
     <title>PDC Break-Out Session Videos</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ Holy cow! Did Microsoft just create a new profession: the cyber bounty hunter?!?
 &lt;a href="https://www.interactservices.com/microsoft_pdc2003/Products1.asp">Here&lt;/a>. Looks like the folks that video taped the break-out sessions at the PDC have a DVD of the videos. Even if you did get to go, like me, you probably didn't get to see everything you wanted. Now just gotta talk to boss into it...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/929</id>
+    <id>https://csells.github.io/sb6/929</id>
     <title>re: Author anxieties over RSS</title>
     <updated>2003-11-04T08:00:00.000Z</updated>
     <published>2003-11-04T08:00:00.000Z</published>
@@ -167,12 +169,12 @@ I was crying wolf a bit when I said that blogs/openness would put authors like m
 
 I'll just have to try to write well from now on, that's all. : )
 
-[1] http://127.0.0.1:8080/spout/#Time_For_An_Exciting_Career_In_Electronics
+[1] https://csells.github.io/sb6/spout/#Time_For_An_Exciting_Career_In_Electronics
 
 P.S. I appreciate all the offers of encouragement and hugs that I got from this post [1]. It's nice to know folks care and hard to believe that anyone would ever consider me "subtle." On the other hand, I was accused of claiming to have invented Java the other day, so maybe I need to post another naked picture or something... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/922</id>
+    <id>https://csells.github.io/sb6/922</id>
     <title>All about Longhorn</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -186,7 +188,7 @@ P.S. I appreciate all the offers of encouragement and hugs that I got from this 
 He goes on to say other things that I think are interesting for the Longhorn developers of the future to know.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/923</id>
+    <id>https://csells.github.io/sb6/923</id>
     <title>Time For An Exciting Career In Electronics</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -196,7 +198,7 @@ He goes on to say other things that I think are interesting for the Longhorn dev
 &lt;a href="/12516">Here&lt;/a>. The one where blogs and RSS have removed the inefficiency in the market in which I make my living. Luckily, few people make full use of such technologies, so I may be able to make the mortgage for a few more months...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/919</id>
+    <id>https://csells.github.io/sb6/919</id>
     <title>XmlSerializer Workshop</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

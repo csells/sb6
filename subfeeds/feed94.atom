@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed94.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed94.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed93.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed95.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed94.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed93.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed95.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed94.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1091</id>
+    <id>https://csells.github.io/sb6/1091</id>
     <title>Dino on Longhorn "Un-programming"</title>
     <updated>2004-02-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -46,7 +48,7 @@
 &lt;P>"XAML (and the Longhorn programming style) is not the negation (and let alone the death) of programming."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1086</id>
+    <id>https://csells.github.io/sb6/1086</id>
     <title>Longhorn Migration &amp; Interop: WinForms &amp; Longhorn</title>
     <updated>2004-02-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -56,7 +58,7 @@
 Karsten wraps up his book, &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/books/migrationguide/default.aspx">"Developer Guide to Migration and Interoperability in 'Longhorn'"&lt;/A>, with &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/books/migrationguide/default.aspx?pull=/library/en-us/dnlongmig/html/intmiglongch05.asp">a chapter on recommendations for preparing to make the best of your Windows Forms code under Longhorn&lt;/A>. This chapter includes sample source code.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1087</id>
+    <id>https://csells.github.io/sb6/1087</id>
     <title>Getting Started with Your Own Software Company</title>
     <updated>2004-02-04T08:00:00.000Z</updated>
     <published>2004-02-04T08:00:00.000Z</published>
@@ -69,7 +71,7 @@ Karsten wraps up his book, &lt;A href="http://msdn.microsoft.com/Longhorn/unders
 &lt;P>Both are &lt;STRONG>so&lt;/STRONG> true.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1084</id>
+    <id>https://csells.github.io/sb6/1084</id>
     <title>Preparing Today for Fewer LH Privileges Tomorrow</title>
     <updated>2004-02-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@ Karsten wraps up his book, &lt;A href="http://msdn.microsoft.com/Longhorn/unders
 &lt;P>Another excellent article on this topic is from Keith Brown, a DevelopMentor colleague and security arch-Nemesis of mine (he never did like my plan of branding "bad" applications by setting the first bit to 1 instead of 0... : ). Item #7 in &lt;A href="http://www.develop.com/kbrown/book/">Keith's online book in progress, A .NET Developer's Guide to Windows Security&lt;/A>, is entitled &lt;A href="http://www.develop.com/kbrown/book/html/howto_runasnonadmin.html">"How to develop code as a non-admin"&lt;/A> and well worth the read for the practical advise as well as Keith's pleasant writing style.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1083</id>
+    <id>https://csells.github.io/sb6/1083</id>
     <title>"We're full speed ahead on the R&amp;D for speech"</title>
     <updated>2004-02-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -91,7 +93,7 @@ Karsten wraps up his book, &lt;A href="http://msdn.microsoft.com/Longhorn/unders
 &lt;P>And Oliver? I'd rather not know what you're planning on commanding your computer to do... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1082</id>
+    <id>https://csells.github.io/sb6/1082</id>
     <title>On Behalf of Software Engineers, I'm Sorry</title>
     <updated>2004-02-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -101,7 +103,7 @@ Karsten wraps up his book, &lt;A href="http://msdn.microsoft.com/Longhorn/unders
 &lt;a href="/12505">Here&lt;/a>. The one where an hour of phone support with my step-mom causes me to feel embarrassed about what we put normal humans through to use our software.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12505</id>
+    <id>https://csells.github.io/sb6/12505</id>
     <title>On Behalf of Software Engineers, I'm Sorry</title>
     <updated>2004-02-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -154,7 +156,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12506</id>
+    <id>https://csells.github.io/sb6/12506</id>
     <title>What Would You Save If Your House Was On Fire?</title>
     <updated>2004-01-31T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/bookcoolthumb.JPG"/>
@@ -207,7 +209,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1080</id>
+    <id>https://csells.github.io/sb6/1080</id>
     <title>MarkupCompilation: XAML, BAML, .g.cs Details</title>
     <updated>2004-01-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -218,7 +220,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>I love these kinds of posts (and &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnavalon/html/avalon01062004.asp">these kinds of articles&lt;/A>) because they provide insight into what the designers of a particular technology had in mind, making it &lt;EM>so&lt;/EM> much easier to learn. Having spent &lt;EM>years&lt;/EM> of my life reverse-engineering the intentions of the COM designers out of the header files (because the docs and marketing materials actually pointed us in the wrong direction), it's great when the folks behind the technology spill their guts. Thanks &lt;A href="http://www.simplegeek.com">Chris&lt;/A> and Jeff and &lt;A href="http://longhornblogs.com/rrelyea">Rob&lt;/A>&amp;nbsp;(and &lt;A href="http://anopinion.net/">Mike&lt;/A> and &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx">Don&lt;/A>&amp;nbsp;and the rest of the MS bloggers).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1081</id>
+    <id>https://csells.github.io/sb6/1081</id>
     <title>What Would You Save If Your House Was On Fire?</title>
     <updated>2004-01-31T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -228,7 +230,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;a href="/12506">Here&lt;/a>. The one where I spend a peaceful Saturday morning contemplating my life's possessions.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1076</id>
+    <id>https://csells.github.io/sb6/1076</id>
     <title>U.K. bank sees browserless future</title>
     <updated>2004-01-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -238,7 +240,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;a href="http://news.com.com/2100-1016_3-5150019.html">Here&lt;/a>. It's interesting to see an Internet-based company talk about using smart client technologies to provide their customers with a richer experience than they could provide over the web. I roamed the country for years talking to folks about Windows Forms and No-Touch Deployment for their internal stuff and they ate it up. When Whidbey ships and provides &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/pillars/fundamentals/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp">ClickOnce capabilities for Windows Forms apps&lt;/A>, attaining Internet-reach with smart clients becomes feasible *much* sooner than Longhorn.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1078</id>
+    <id>https://csells.github.io/sb6/1078</id>
     <title>MS Blogging About Longhorn 14% of the Time</title>
     <updated>2004-01-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -248,7 +250,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;a href="http://weblogs.asp.net/dweller/archive/2004/01/30/65351.aspx">Here&lt;/a>. Just following up again on &lt;a href="/12508">When In Doubt, Ignore Longhorn&lt;/A> to point out an interesting survey of MS bloggers by David Weller. Apparently, out of 56 recent blog entries by Microsoft&amp;nbsp;employees, 8 were related to Longhorn. That's about 14%, which is a little higher than the 10% that I argued for, but I bet if you took out the ones from me (whose job it is to talk about Longhorn), we'd be closer. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1079</id>
+    <id>https://csells.github.io/sb6/1079</id>
     <title>Dino on Longhorn Tiles</title>
     <updated>2004-01-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -258,7 +260,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>The shell-meister himself, &lt;A href="http://msdn.microsoft.com/longhorn/?pull=/library/en-us/dnlong/html/lhtiles.asp">Dino Esposito, digs into the one of the most prominent of the new shell features in Longhorn -- the Sidebar&lt;/A> -- by showing you how to add your own tile, including how to create the flyout and properties views and how to extend the context menu. Sample code included. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12507</id>
+    <id>https://csells.github.io/sb6/12507</id>
     <title>Betting on Longhorn-Only?</title>
     <updated>2004-01-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -335,7 +337,7 @@ Longhorn-only right now:&lt;/p>&lt;blockquote>&lt;p>&lt;i>[ed: the following has
 	</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1077</id>
+    <id>https://csells.github.io/sb6/1077</id>
     <title>Betting on Longhorn-Only?</title>
     <updated>2004-01-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

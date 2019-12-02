@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed166.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed166.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed165.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed167.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed166.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed165.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed167.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed166.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/87</id>
+    <id>https://csells.github.io/sb6/87</id>
     <title>The .NET Cost: Who Pays? (3 of 3)</title>
     <updated>2002-06-18T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.sdmagazine.com/documents/s=7224/sdm0207f/0207f.htm">Here&lt;/a>. "The .NET platform provides developers with an unprecedented level of language interoperability—at a price. Luckily, it won't cost you an arm and a leg to participate. Part 3 of 3."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/84</id>
+    <id>https://csells.github.io/sb6/84</id>
     <title>The ASP.NET Web Matrix Project</title>
     <updated>2002-06-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://www.asp.net/webmatrix/default.aspx?tabindex=4&amp;tabid=46">Here&lt;/a>. "ASP.NET Web Matrix is a community-supported, easy-to-use WYSIWYG application development tool for ASP.NET.  It can be installed via a quick 1.2 MB download (about 5 minutes using a 56Kb modem).  Best of all — it's absolutely free!"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/83</id>
+    <id>https://csells.github.io/sb6/83</id>
     <title>Add #Region Macro</title>
     <updated>2002-06-16T07:00:00.000Z</updated>
     <published>2002-06-16T07:00:00.000Z</published>
@@ -61,7 +63,7 @@
 &lt;a href="http://www.devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson - DevHawk.NET: #Regions are one of the coolest new features of the VS .NET IDE. Here's a macro to make it easy to add them to existing code by simply selecting a block of code and running a macro.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/82</id>
+    <id>https://csells.github.io/sb6/82</id>
     <title>CS CODEDOM Parser</title>
     <updated>2002-06-13T07:00:00.000Z</updated>
     <published>2002-06-13T07:00:00.000Z</published>
@@ -72,7 +74,7 @@
 If a CodeDOM-complete C# parser could be constructed, than C# could be the universal codegen language, using the CodeDOM at the intermediate format and any CodeDOM language provider could be used as the output. In other words, one C# codegen template could generate any .NET language.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/81</id>
+    <id>https://csells.github.io/sb6/81</id>
     <title>Updated Typed DataSet Generator</title>
     <updated>2002-06-12T07:00:00.000Z</updated>
     <published>2002-06-12T07:00:00.000Z</published>
@@ -92,7 +94,7 @@ If a CodeDOM-complete C# parser could be constructed, than C# could be the unive
 -New Typed DataSet Template that includes all these new annotations with default values."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12583</id>
+    <id>https://csells.github.io/sb6/12583</id>
     <title>Karma</title>
     <updated>2002-06-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -128,7 +130,7 @@ If a CodeDOM-complete C# parser could be constructed, than C# could be the unive
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/80</id>
+    <id>https://csells.github.io/sb6/80</id>
     <title>Karma</title>
     <updated>2002-06-12T07:00:00.000Z</updated>
     <published>2002-06-12T07:00:00.000Z</published>
@@ -137,7 +139,7 @@ If a CodeDOM-complete C# parser could be constructed, than C# could be the unive
 &lt;a href="/12583">Here&lt;/a>. Just me discovering that I am, in fact, superstitious after all. Pay no attention...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/79</id>
+    <id>https://csells.github.io/sb6/79</id>
     <title>Windows Developer News RSS Feed</title>
     <updated>2002-06-11T07:00:00.000Z</updated>
     <published>2002-06-11T07:00:00.000Z</published>
@@ -146,7 +148,7 @@ If a CodeDOM-complete C# parser could be constructed, than C# could be the unive
 Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, which I use to report news on this site and in the world for Windows developers.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12584</id>
+    <id>https://csells.github.io/sb6/12584</id>
     <title>Adding Ref-Counting to Rotor</title>
     <updated>2002-06-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -237,7 +239,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
         &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/78</id>
+    <id>https://csells.github.io/sb6/78</id>
     <title>Adding Ref-Counting to Rotor</title>
     <updated>2002-06-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -247,7 +249,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
 &lt;p>"Microsoft has granted Sells Brothers, Inc. &lt;a href="/12584">a research grant to add ref-counting to Rotor&lt;/a> and to study the performance effects. There's been a lot of speculation about just how we're planning to add ref-counting to Rotor."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/77</id>
+    <id>https://csells.github.io/sb6/77</id>
     <title>Powers of Ten</title>
     <updated>2002-06-11T07:00:00.000Z</updated>
     <published>2002-06-11T07:00:00.000Z</published>
@@ -256,7 +258,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
 &lt;p>"&lt;a href="http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/">View the Milky Way at 10 million light years from the Earth&lt;/a>. Then move through space towards the Earth in successive orders of magnitude until you reach a tall oak tree just outside the buildings of the National High Magnetic Field Laboratory in Tallahassee, Florida. After that, begin to move from the actual size of a leaf into a microscopic world that reveals leaf cell walls, the cell nucleus, chromatin, DNA and finally, into the subatomic universe of electrons and protons."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/76</id>
+    <id>https://csells.github.io/sb6/76</id>
     <title>A compiler-writer's guide to C#</title>
     <updated>2002-06-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -272,7 +274,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
 &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/75</id>
+    <id>https://csells.github.io/sb6/75</id>
     <title>Genghis -- 0.2 Release</title>
     <updated>2002-06-10T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -295,7 +297,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
 &lt;p>There's plenty more to see and do, so check out Genghis if you're building WinForms applications.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/74</id>
+    <id>https://csells.github.io/sb6/74</id>
     <title>Pragmatic ADO.NET, Chapter 6: Typed DataSets</title>
     <updated>2002-06-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -305,7 +307,7 @@ Are you into RSS? The link is &lt;a href="feed.rss">the WDN RSS feed&lt;/a>, whi
 &lt;p>"In &lt;a href="http://adoguy.com/book/samplechapter.aspx">Chapter 5&lt;/a>, I extolled the virtues of setting up your DataSets like in-memory databases. Unfortunately I asked you to write quite a bit of code to do all the work. I was only teasing you. This chapter will show you how to use Typed DataSets to make that job a lot easier while at the same time creating type-safety at compilation time."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/73</id>
+    <id>https://csells.github.io/sb6/73</id>
     <title>ADOGuy's Typed DataSet Generator</title>
     <updated>2002-06-09T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

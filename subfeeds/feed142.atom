@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed142.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed142.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed141.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed143.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed142.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed141.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed143.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed142.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/436</id>
+    <id>https://csells.github.io/sb6/436</id>
     <title>The Human Side of Microsoft</title>
     <updated>2003-02-12T08:00:00.000Z</updated>
     <published>2003-02-12T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 My attempt to get a recording of an interview at Microsoft was a failure, but my attempt to &lt;a href="/12394">show their human side&lt;/a> was still a success.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/437</id>
+    <id>https://csells.github.io/sb6/437</id>
     <title>eXtensible C# Provides Compile-Time Attributes</title>
     <updated>2003-02-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@ My attempt to get a recording of an interview at Microsoft was a failure, but my
 &lt;a href="http://www.resolvecorp.com/products.htm">Here&lt;/a>. eXtensible C# provides a set of compile-time attributes to do things like inject code (like to check for a null value), analyze code at compile-time and even obfuscate. Very cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/438</id>
+    <id>https://csells.github.io/sb6/438</id>
     <title>TaskVision: Web Deployed WinForms Sample</title>
     <updated>2003-02-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -63,7 +65,7 @@ My attempt to get a recording of an interview at Microsoft was a failure, but my
 Worth checking out as an alternative to href-exes (TaskVision requires one install and auto-updates after that).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/435</id>
+    <id>https://csells.github.io/sb6/435</id>
     <title>Optimizeit</title>
     <updated>2003-02-12T08:00:00.000Z</updated>
     <published>2003-02-12T08:00:00.000Z</published>
@@ -72,7 +74,7 @@ Worth checking out as an alternative to href-exes (TaskVision requires one insta
 &lt;a href="http://www.borland.com/opt_profiler/">Here&lt;/a>. From jt: Pofiler from Borland for the Microsoft .NET Framework.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/434</id>
+    <id>https://csells.github.io/sb6/434</id>
     <title>.Net Microsoft patent</title>
     <updated>2003-02-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -82,7 +84,7 @@ Worth checking out as an alternative to href-exes (TaskVision requires one insta
 &lt;a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=/netahtml/PTO/srchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1='20030028685'.PGNR.&amp;OS=DN/20030028685&amp;RS=DN/20030028685">Here&lt;/a>. From Sorin J: This may be yesterday's news, anyway, Microsoft has applied for a patent covering many .net related technologies.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/432</id>
+    <id>https://csells.github.io/sb6/432</id>
     <title>Kill Long URLs!</title>
     <updated>2003-02-11T08:00:00.000Z</updated>
     <published>2003-02-11T08:00:00.000Z</published>
@@ -101,7 +103,7 @@ Steven
 http://deltabis.com</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/431</id>
+    <id>https://csells.github.io/sb6/431</id>
     <title>Windows Forms Smart Client Sample</title>
     <updated>2003-02-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -127,7 +129,7 @@ Integration between .NET Framework-based code and COM applications (COM interop)
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/429</id>
+    <id>https://csells.github.io/sb6/429</id>
     <title>Rapid Development with TierDeveloper 2.0</title>
     <updated>2003-02-10T08:00:00.000Z</updated>
     <published>2003-02-10T08:00:00.000Z</published>
@@ -136,7 +138,7 @@ Integration between .NET Framework-based code and COM applications (COM interop)
 &lt;a href="http://www.alachisoft.com/overview.htm">Here&lt;/a>. From Zahid Iqbal: TierDeveloper is an object to relational mapping and code generation tool that lets you map middle-tier objects to your database tables, embed powerful SQL in them, and generate fully-working .NET (C# and VB.NET), Java and EJB components. It also generates a fully-functional ASP.NET and JSP application to let you test generated components, and design documents in HTML to cut down your learning curve.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/430</id>
+    <id>https://csells.github.io/sb6/430</id>
     <title>"chris sells is feeling a little burned out"</title>
     <updated>2003-02-10T08:00:00.000Z</updated>
     <published>2003-02-10T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ Integration between .NET Framework-based code and COM applications (COM interop)
 &lt;a href="http://www.googlism.com/index.htm?ism=chris+sells&amp;type=1">Here&lt;/a>. My Googlism don't cut me no slack... Come on, I just finished the book! I'm allowed to be a little burned out. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/428</id>
+    <id>https://csells.github.io/sb6/428</id>
     <title>Even Sun Can't Use Java</title>
     <updated>2003-02-09T08:00:00.000Z</updated>
     <published>2003-02-09T08:00:00.000Z</published>
@@ -160,7 +162,7 @@ http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&a
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/427</id>
+    <id>https://csells.github.io/sb6/427</id>
     <title>SideWinder Screenshots</title>
     <updated>2003-02-08T08:00:00.000Z</updated>
     <published>2003-02-08T08:00:00.000Z</published>
@@ -169,7 +171,7 @@ http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&a
 &lt;a href="http://www.drbob42.net/SideWinder/">Here&lt;/a>. From jt: Development environment from Borland for building applications on the .NET Framework.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/425</id>
+    <id>https://csells.github.io/sb6/425</id>
     <title>Saving Your Career</title>
     <updated>2003-02-07T08:00:00.000Z</updated>
     <published>2003-02-07T08:00:00.000Z</published>
@@ -178,7 +180,7 @@ http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&a
 &lt;a href="/12561">Here&lt;/a>. A built-in Outlook XP feature to bring back those emails you wish you hadn't sent out 2 seconds after you sent them.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/426</id>
+    <id>https://csells.github.io/sb6/426</id>
     <title>Running Multiple Versions of .NET Side-by-Side</title>
     <updated>2003-02-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -188,7 +190,7 @@ http://developers.slashdot.org/article.pl?sid=03/02/09/1347215&amp;mode=nested&a
 &lt;a href="http://www.3leaf.com/default/articles/ea/SBS.aspx">Here&lt;/a>. A nice summary of what's going on when you attempt to run two versions of .NET side-by-side.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12561</id>
+    <id>https://csells.github.io/sb6/12561</id>
     <title>Saving Your Career</title>
     <updated>2003-02-07T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -210,7 +212,7 @@ minutes should be more than enough. Wahoo!&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/424</id>
+    <id>https://csells.github.io/sb6/424</id>
     <title>.Net Framework XML Namespaces and Classes</title>
     <updated>2003-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

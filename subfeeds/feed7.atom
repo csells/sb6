@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed7.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed7.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed6.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed8.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed7.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed6.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed8.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed7.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2323</id>
+    <id>https://csells.github.io/sb6/2323</id>
     <title>Rocky's video series on SQL Server Modeling and CSLA</title>
     <updated>2010-02-02T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -42,7 +44,7 @@
 Rockford Lhotka has created &lt;A href="http://msdn.microsoft.com/en-us/data/ff381673.aspx">a series of three videos showing how he has applied the SQL Server Modeling&lt;/A>, specifically "M", to drive his well-known CSLA, a framework for building the business logic layer in your applications. He shows a custom domain-specific language (DSL) that lets you create a CSLA entity, along with the data serialization, business logic and a forms-based UI, resulting in a 95% coding savings (his words, not mine : ). Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2322</id>
+    <id>https://csells.github.io/sb6/2322</id>
     <title>We need cloud apps to use cloud drives</title>
     <updated>2010-02-02T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -73,7 +75,7 @@ Rockford Lhotka has created &lt;A href="http://msdn.microsoft.com/en-us/data/ff3
 &lt;P>We need cloud apps to use cloud drives. Call your congressman!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2321</id>
+    <id>https://csells.github.io/sb6/2321</id>
     <title>What's New in EF4.0</title>
     <updated>2010-01-31T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -93,7 +95,7 @@ Rockford Lhotka has created &lt;A href="http://msdn.microsoft.com/en-us/data/ff3
 &lt;P>That Soma really knows his stuff! &lt;A href="http://blogs.msdn.com/somasegar/archive/2010/01/11/entity-framework-in-net-4.aspx">Check it out.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2320</id>
+    <id>https://csells.github.io/sb6/2320</id>
     <title>LINQPad updated to support .NET 4.0b2!</title>
     <updated>2010-01-24T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -103,7 +105,7 @@ Rockford Lhotka has created &lt;A href="http://msdn.microsoft.com/en-us/data/ff3
 I'm such a fan of &lt;A href="http://www.linqpad.net/beta.aspx">LINQPad&lt;/A> you don't even know. Recently Joe updated it to support Data Services and as of today, if you scroll down to the bottom of &lt;A href="http://www.linqpad.net/beta.aspx">the LINQPad download&amp;nbsp;page&lt;/A>, it's been updated to support .NET 4.0 beta 2, which means that you can point it at Data Services constructed with .NET 4.0. This makes my heart sing. Also, if you haven't&amp;nbsp;spent the $29 to get the auto-completion,&amp;nbsp;it's totally worth it. Highly recommended.&amp;nbsp;Thanks, Joe!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2319</id>
+    <id>https://csells.github.io/sb6/2319</id>
     <title>Comparing NHibernate and EF4</title>
     <updated>2010-01-20T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -113,7 +115,7 @@ I'm such a fan of &lt;A href="http://www.linqpad.net/beta.aspx">LINQPad&lt;/A> y
 This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4">a nice piece comparing NHibernate and EF4&lt;/A>. Personally, I'm an EF4 fan, but I'm hardly unbiased and there are definitely features I want to see added to EF v.Next. Either way, it's clear that EF4 is garnering much more appreciation from the community than previous versions and that's because you let us know what you wanted and we added it. &lt;A href="https://connect.microsoft.com/VisualStudio/content/content.aspx?ContentID=14631">Keep those cards and letters coming!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/databook</id>
+    <id>https://csells.github.io/sb6/databook</id>
     <title>Programming Data: .NET, SQL Server and You</title>
     <updated>2010-01-01T08:00:00.000Z</updated>
     <category term="book" label="Books"/>
@@ -161,7 +163,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2317</id>
+    <id>https://csells.github.io/sb6/2317</id>
     <title>The Most Effective Words To Use With Customers</title>
     <updated>2009-12-20T08:00:00.000Z</updated>
     <published>2009-12-20T08:00:00.000Z</published>
@@ -180,7 +182,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>Negative: She/He is busy bow...&lt;BR>PosiTalk: She/He's not available at the moment. How can I help you?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2318</id>
+    <id>https://csells.github.io/sb6/2318</id>
     <title>Stead Defines 'Customer'</title>
     <updated>2009-12-20T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -212,7 +214,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;LI>We can continuously improve to better serve our customers.&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2316</id>
+    <id>https://csells.github.io/sb6/2316</id>
     <title>How To Handle Angry Callers in 7 Not-So-Easy Steps</title>
     <updated>2009-12-20T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -231,7 +233,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>Fred Gleek&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2315</id>
+    <id>https://csells.github.io/sb6/2315</id>
     <title>LINQPad updated to support Data Services!</title>
     <updated>2009-12-15T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -242,7 +244,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>Joe Albahari, the author of LINQPad, has added support for &lt;A href="http://msdn.microsoft.com/en-us/data/bb931106.aspx">WCF Data Services&lt;/A> to &lt;A href="http://www.linqpad.net/Beta.aspx">the 1.37.1 version beta&lt;/A>&amp;nbsp;of LINQPad. This means that you can point LINQPad at any &lt;A href="http://www.odata.org/">Open Data (OData)&lt;/A> endpoint and do queries interactively just like any other LINQ data source. He even supports HTTP security, in case the endpoint in question requires it. Further, if you have your own custom LINQ to Whatever and you'd like to plug a connection to it into LINQPad, Joe has already added the ability to create a custom data context provider. It is, as they say, a thing of beauty. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2314</id>
+    <id>https://csells.github.io/sb6/2314</id>
     <title>Data and Modeling Talks from PDC 2009</title>
     <updated>2009-12-01T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -252,7 +254,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>If you weren't lucky enough to be able to attend this year's PDC, not only did you not get a killer laptop, but you didn't get to see the Data &amp;amp; Modeling talks live and in person. Fortunately, Doug has a nice list of them so you can &lt;A href="http://www.douglaspurdy.com/2009/11/22/pdc-2009-data-and-modeling-talks-2/">watch them from the comfort of your own home&lt;/A>. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2312</id>
+    <id>https://csells.github.io/sb6/2312</id>
     <title>"Quadrant": Three Features in Two Minutes</title>
     <updated>2009-11-29T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -267,7 +269,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2311</id>
+    <id>https://csells.github.io/sb6/2311</id>
     <title>Do you know someone that needs dinner this Thanksgiving?</title>
     <updated>2009-11-22T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -280,7 +282,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P>Happy holidays, everyone.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2310</id>
+    <id>https://csells.github.io/sb6/2310</id>
     <title>"M" For Language Definition in November 2009 CTP</title>
     <updated>2009-11-13T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -298,7 +300,7 @@ This is &lt;A href="http://www.infoq.com/news/2010/01/Comparing-NHibernate-EF-4"
 &lt;P align=left>I can't wait for you to &lt;a href="/12647">see it&lt;/a>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12647</id>
+    <id>https://csells.github.io/sb6/12647</id>
     <title>"M" For Language Definition in November 2009 CTP</title>
     <updated>2009-11-12T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/img8.jpg"/>

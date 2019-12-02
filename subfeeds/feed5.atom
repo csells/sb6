@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed5.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed5.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed4.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed6.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed5.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed4.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed6.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed5.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12686</id>
+    <id>https://csells.github.io/sb6/12686</id>
     <title>LINQ Has Changed Me</title>
     <updated>2010-10-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -120,7 +122,7 @@
 &lt;p>P.P.S. I’m using &lt;a href="http://gallery.live.com/liveItemDetail.aspx?li=1f57bd9b-a692-4593-9e9e-e2962d9c0eee&amp;amp;bt=9&amp;amp;pl=8">the Insert Code for Windows Live Writer add-in&lt;/a>. I love WLW!&lt;/p>  </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12683</id>
+    <id>https://csells.github.io/sb6/12683</id>
     <title>A Function That Forces</title>
     <updated>2010-10-27T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://dickard.files.wordpress.com/2008/04/schoolforthegifted.jpg"/>
@@ -131,7 +133,7 @@
 &lt;p>&lt;img style="margin: 2px; display: inline; float: right" title="Far Side - Midvale School for the Gifted" alt="Far Side - Midvale School for the Gifted" align="right" src="http://dickard.files.wordpress.com/2008/04/schoolforthegifted.jpg" />At Microsoft, there’s this passive-aggressive cultural thing called a “forcing function,” which, to put it crudely, is an engineering way for us to control the behavior of others. The idea is that you set up something to happen, like a meeting or an event, that will “force” a person or group to do something that you want them to do.&lt;/p>  &lt;p>For example, if someone won’t answer your email, you can set up a meeting on their calendar. Since Microsoft is a meeting-oriented culture (even though we all hate them), a ‘softie will be very reticent to decline your meeting request. So, they have a choice – they can attend your meeting so that they can answer your question in person or they can answer your email and get that time back in their lives. This kind of forcing function can take larger forms as well. I can’t say that our execs make the decision like this (since they don’t talk to me : ), but it is the case that signing up a large number of Microsoft employees to host and speak at important industry events does have the effect of making us get together to ensure that our technologies and our descriptions of those technologies holds together (well, holds together better than they would otherwise : ).&lt;/p>  &lt;p>Unfortunately, this way of thinking has become so much a part of me that I’ve started to use it on my family (which they very much do not like). Worse, I use it on myself.&lt;/p>  &lt;p>For example, I have been holding back on half a dozen or more blog posts until I have the software set up on &lt;a href="/12670">my newly minted web site&lt;/a> to handle blog posts in a modern way, namely via &lt;a href="http://explore.live.com/windows-live-writer">Windows Live Writer&lt;/a>. In other words, I was using the pressure inherent in the build up of blogging topics to motivate me to build the support I wanted into sellsbrothers.com to have a secure blogging endpoint for WLW. Before I moved all my content into a database, I could just pull up FrontPage/Expression Web and type into static HTML. Now that everything is data-driven, however, the content for my posts are just rows in a database. As much as I love SQL Server Management Studio, it doesn’t yet have HTML editing support that I consider adequate. Further, getting images into my database was very definitely a programming task not handled by existing tools that I was familiar with.&lt;/p>  &lt;p>So, this is the first post using my new WLW support and I’m damn proud of it. It was work that I did with Kent Sharkey, a close friend of mine that most resembles &lt;a href="http://en.wikipedia.org/wiki/Eeyore">Eeyore&lt;/a> in temperament and facial expressions, and that just made it all the more fun!&lt;/p>  &lt;p>Anyway, I’m happy with the results of my forcing function and I’ll post the code and all the details ASAP, but I just wanted to apologize for my relative silence on this blog and that things should get better RSN. XXOO.&lt;/p>  &lt;p>P.S. I’m loving Windows Live Writer 11!&lt;/p>  </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12678</id>
+    <id>https://csells.github.io/sb6/12678</id>
     <title>Data at PDC 2010</title>
     <updated>2010-10-25T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -166,7 +168,7 @@ On Demand&lt;br />
 &lt;p>Enjoy!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12677</id>
+    <id>https://csells.github.io/sb6/12677</id>
     <title>Time to check the donuts</title>
     <updated>2010-09-27T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="http://www.gmailnotifier.com/images/gmail_notifier3.gif"/>
@@ -186,7 +188,7 @@ Oh, and the noise it makes when you get an email is priceless. Recommended.&lt;/
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12676</id>
+    <id>https://csells.github.io/sb6/12676</id>
     <title>The Downside Of Working At Home</title>
     <updated>2010-08-26T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="http://s3.amazonaws.com/theoatmeal-img/comics/working_home/6.png"/>
@@ -199,7 +201,7 @@ Oh, and the noise it makes when you get an email is priceless. Recommended.&lt;/
 &lt;p>From &lt;a href="http://theoatmeal.com/">theoatmeal.com&lt;/a>. Recommended!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12675</id>
+    <id>https://csells.github.io/sb6/12675</id>
     <title>Why can't it all just be messages?</title>
     <updated>2010-08-08T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="/public/spout/messages_0071.PNG"/>
@@ -256,7 +258,7 @@ while -- I can't wait for my Windows Phone 7!&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12674</id>
+    <id>https://csells.github.io/sb6/12674</id>
     <title>David Ramel Asks About Interviewing at Microsoft</title>
     <updated>2010-06-18T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -321,7 +323,7 @@ My behavioral interviewing questions are things like &amp;quot;Tell me about a t
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12673</id>
+    <id>https://csells.github.io/sb6/12673</id>
     <title>Spurious MachineToApplication Error With VS2010 Deployment</title>
     <updated>2010-05-23T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="http://img11.imageshack.us/img11/6894/microsoftvisualstudio20.png"/>
@@ -361,7 +363,7 @@ problem with my app; I think that's a problem with VS2010.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12670</id>
+    <id>https://csells.github.io/sb6/12670</id>
     <title>a whole new sellsbrothers.com</title>
     <updated>2010-05-20T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/images/sellsbrothers_logo.jpg"/>
@@ -628,7 +630,7 @@ story. I had no idea I would love it so much.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12665</id>
+    <id>https://csells.github.io/sb6/12665</id>
     <title>Entity Framework 4.0 POCO Classes and Data Services</title>
     <updated>2010-05-11T07:00:00.000Z</updated>
     <category term="data" label="Data"/>
@@ -706,7 +708,7 @@ The rest of your app will get proxy creation by default unless you turn it off.&
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12664</id>
+    <id>https://csells.github.io/sb6/12664</id>
     <title>Working Hard: WhirlyBall</title>
     <updated>2010-05-07T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -720,7 +722,7 @@ The rest of your app will get proxy creation by default unless you turn it off.&
 &lt;P>It was surprisingly fun.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12663</id>
+    <id>https://csells.github.io/sb6/12663</id>
     <title>We're taking OData on the Road!</title>
     <updated>2010-05-06T07:00:00.000Z</updated>
     <published>2010-05-06T07:00:00.000Z</published>
@@ -738,7 +740,7 @@ The rest of your app will get proxy creation by default unless you turn it off.&
 &lt;P>Your speakers are going to include Doug Purdy, &lt;A href="http://www.odata.org/roadshow/">so book now&lt;/A>. Spots are going to go fast!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12638</id>
+    <id>https://csells.github.io/sb6/12638</id>
     <title>SQL Server Modeling CTP (November 2009 Release 3) for Visual Studio 2010 RTM Now Available</title>
     <updated>2010-04-20T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -765,7 +767,7 @@ The rest of your app will get proxy creation by default unless you turn it off.&
 &lt;P>Kraig Brockschmidt&lt;BR>Program Manager, Data Developer Center&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12614</id>
+    <id>https://csells.github.io/sb6/12614</id>
     <title>The performance implications of IEnumerable vs. IQueryable</title>
     <updated>2010-04-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -795,7 +797,7 @@ The rest of your app will get proxy creation by default unless you turn it off.&
 &lt;P>And, as our felon friend Ms. Stewart would say: "that's a good thing."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2339</id>
+    <id>https://csells.github.io/sb6/2339</id>
     <title>College info for my sophomore</title>
     <updated>2010-04-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

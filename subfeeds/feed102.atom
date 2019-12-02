@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed102.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed102.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed101.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed103.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed102.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed101.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed103.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed102.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/976</id>
+    <id>https://csells.github.io/sb6/976</id>
     <title>XAML's Extended Attribute Syntax</title>
     <updated>2003-11-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12513">Here&lt;/a>. The one where I fall in love with XAML's extended attribute syntax.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12513</id>
+    <id>https://csells.github.io/sb6/12513</id>
     <title>The Wonder that is XAML's Extended Attribute Syntax</title>
     <updated>2003-11-29T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/xaml1.JPG"/>
@@ -132,7 +134,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/972</id>
+    <id>https://csells.github.io/sb6/972</id>
     <title>WinForms SDI and MDI wizards?</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -142,7 +144,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://www.codeproject.com/csharp/sdimdiwizards.asp">Here&lt;/a>. I noticed that Stephane Rodriguez put an SDI and MDI wizard up on CodeProject. I've been *dying* for those forever, but I couldn't get his to work. Anyone come up with a simplified set up for them? Anyone interested in porting them to Genghis?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/970</id>
+    <id>https://csells.github.io/sb6/970</id>
     <title>WksSync Updated</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -152,7 +154,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://urbanasylum.dynu.com/JustTheFacts/archives/000199.html">Here&lt;/a>. Ethan Brown has done a massive update to the wkssync tool, the command line tool for accessing source from GotDotNet workspaces. Thanks, Ethan!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/975</id>
+    <id>https://csells.github.io/sb6/975</id>
     <title>Avalon Performance Tips and Tricks on Build 4051</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -162,7 +164,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://longhornblogs.com/mmielke/posts/1513.aspx">Here&lt;/a>. Markus Mielke, a PM doing performance for the Avalon team, lists some pointers on perf in the PDC build of Longhorn and provides a place for you to send in your perf complaints (him).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/973</id>
+    <id>https://csells.github.io/sb6/973</id>
     <title>Best of the Microsoft PDC 2003</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -172,7 +174,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://www.wsa.org/events/event.asp?EventID=346">Here&lt;/a>. If you missed the PDC, the WSA is sponsoring a day-long "Best of” in Redmond on December 16, 2003. Learn about the new technologies coming in Microsoft's "Longhorn", "Whidbey" and "Yukon" directly from the leaders driving the evolution of the Microsoft platform and tools, including Don Box, Scott Guthrie and John Shewchuk.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/974</id>
+    <id>https://csells.github.io/sb6/974</id>
     <title>ComputerWorld: Orbiz Developer's View of Longhorn</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -182,7 +184,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://www.idg.co.nz/cw.nsf/86F32CF20B7AA0AACC256D8E00807C09/5CA421E7A3BE6214CC256DE300807580?OpenDocument">Here&lt;/a>. ComputerWorld corralled an Orbiz developer and took down his observations about Longhorn from a developer point of view. It’s interesting to see the perspective.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/971</id>
+    <id>https://csells.github.io/sb6/971</id>
     <title>Xamlon Beta: XAML for the .NET Framework 1.1</title>
     <updated>2003-11-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -192,7 +194,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://www.xamlon.com/">Here&lt;/a>. XAML is the Longhorn mark-up language for declaring object types and instances and hooking them up to code. While it's most often used for declarative Avalon UI, it's useful for more than that. In fact, one enterprising 3rd party has just released a beta tool that provides a XAML subset for .NET 1.1. It's not quite the same, but interesting never the less.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12415</id>
+    <id>https://csells.github.io/sb6/12415</id>
     <title>ADO.NET 
 	CsvFileTester</title>
     <updated>2003-11-25T08:00:00.000Z</updated>
@@ -216,7 +218,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 	&lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/968</id>
+    <id>https://csells.github.io/sb6/968</id>
     <title>ADO.NET CSV File Tester</title>
     <updated>2003-11-25T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -226,7 +228,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="/12415">Here&lt;/a>. I wrote CsvFileTester to explore the ADO.NET/ODBC/JET support for CSV files and I was amazed at how comprehensive the support was. And, since I can never remember the syntax and limitations between one use of Jet expression syntax and the next, I put a bunch of samples into the program itself.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/969</id>
+    <id>https://csells.github.io/sb6/969</id>
     <title>Oh Lord, I've Been ASSified...</title>
     <updated>2003-11-25T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -236,7 +238,7 @@ cell of the GridPanel, not the SimpleText.&lt;/p>
 &lt;a href="http://neopoleon.com/blog/posts/1624.aspx">Here&lt;/a>. Rory does it again. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12514</id>
+    <id>https://csells.github.io/sb6/12514</id>
     <title>I don't know UIs, but I know what I like...</title>
     <updated>2003-11-24T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/spout/winforms01232003-fig01.gif"/>
@@ -322,7 +324,7 @@ Know where I can get some graphics/user experience designers cheap?&lt;/a>&lt;/p
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/966</id>
+    <id>https://csells.github.io/sb6/966</id>
     <title>SYS-CON RADIO @ the PDC</title>
     <updated>2003-11-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -332,7 +334,7 @@ Know where I can get some graphics/user experience designers cheap?&lt;/a>&lt;/p
 &lt;a href="http://www.sys-con.com/dotnet/radio2003/interviews.cfm">Here&lt;/a>. SYS-CON interviewed me and a bunch of my friends at the PDC. It's somewhat painful to listen to me with a cold, but fun to listen to folks like Dan Appleman, Scott Hanselman, Chris Kinsman, Jeff Prosise, Ingo Rammer, Brent Rector, John Robbins, David Treadwell, Shawn Wildermuth and a whole bunch more.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/967</id>
+    <id>https://csells.github.io/sb6/967</id>
     <title>I don't know UIs, but I know what I like...</title>
     <updated>2003-11-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -342,7 +344,7 @@ Know where I can get some graphics/user experience designers cheap?&lt;/a>&lt;/p
 &lt;a href="/12514">Here&lt;/a>. The one where I declare an official, immediate need for all those unemployed web site designers to get to work on Avalon ASAP.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/965</id>
+    <id>https://csells.github.io/sb6/965</id>
     <title>Chris Anderson: Must Read Avalon Blog</title>
     <updated>2003-11-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed131.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed131.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed130.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed132.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed131.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed130.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed132.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed131.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/588</id>
+    <id>https://csells.github.io/sb6/588</id>
     <title>My First Month @ MS</title>
     <updated>2003-05-24T07:00:00.000Z</updated>
     <published>2003-05-24T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="/12553">Here&lt;/a>. The one where I play junior anthropologist in my ongoing attempt to understand and become a productive member of MS society.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/589</id>
+    <id>https://csells.github.io/sb6/589</id>
     <title>My First Meeting with a Senior VP</title>
     <updated>2003-05-24T07:00:00.000Z</updated>
     <published>2003-05-24T07:00:00.000Z</published>
@@ -50,7 +52,7 @@
 &lt;a href="/12552">Here&lt;/a>. The one where I have my first meeting with an MS Sr. VP on the anniversary of my first month as an employee.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12552</id>
+    <id>https://csells.github.io/sb6/12552</id>
     <title>My First Meeting with a 
 Senior VP</title>
     <updated>2003-05-24T07:00:00.000Z</updated>
@@ -90,7 +92,7 @@ it. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/586</id>
+    <id>https://csells.github.io/sb6/586</id>
     <title>C#Builder and Borland Data Providers for .NET</title>
     <updated>2003-05-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -100,7 +102,7 @@ it. : )&lt;/p>
 &lt;a href="http://www7b.software.ibm.com/dmdd/library/techarticle/0305swart1/0305swart1.html">Here&lt;/a>. From Pär: Connecting Borland C#Builder to DB2 UDB with Borland Data Providers for the Microsoft .NET Framework. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/587</id>
+    <id>https://csells.github.io/sb6/587</id>
     <title>CodeSmith 2.0 Released</title>
     <updated>2003-05-23T07:00:00.000Z</updated>
     <published>2003-05-23T07:00:00.000Z</published>
@@ -109,7 +111,7 @@ it. : )&lt;/p>
 &lt;a href="http://dotnetweblogs.com/ericjsmith/Category/81.aspx">Here&lt;/a>. Eric has released a new version of CodeSmith w/ the expiration date removed. This version also includes the CollectionGen functionality, along w/ a whole lot more.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/585</id>
+    <id>https://csells.github.io/sb6/585</id>
     <title>New code generation tool - dbcodegen</title>
     <updated>2003-05-22T07:00:00.000Z</updated>
     <published>2003-05-22T07:00:00.000Z</published>
@@ -124,7 +126,7 @@ functions for SQL Server
 stored procedures.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/584</id>
+    <id>https://csells.github.io/sb6/584</id>
     <title>Windows Application Verifier</title>
     <updated>2003-05-21T07:00:00.000Z</updated>
     <published>2003-05-21T07:00:00.000Z</published>
@@ -137,7 +139,7 @@ This tool should be required for all QA departments, just like FxCop is required
 [staff.develop.com/candera/weblog2]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12553</id>
+    <id>https://csells.github.io/sb6/12553</id>
     <title>My First Month @ MS</title>
     <updated>2003-05-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -236,7 +238,7 @@ on?&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/583</id>
+    <id>https://csells.github.io/sb6/583</id>
     <title>Managing Editor</title>
     <updated>2003-05-20T07:00:00.000Z</updated>
     <published>2003-05-20T07:00:00.000Z</published>
@@ -247,7 +249,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/581</id>
+    <id>https://csells.github.io/sb6/581</id>
     <title>Applied XML Conference Message Board</title>
     <updated>2003-05-19T07:00:00.000Z</updated>
     <published>2003-05-19T07:00:00.000Z</published>
@@ -256,7 +258,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 &lt;a href="http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=102281">Here&lt;/a>. Want to discuss the upcoming topics with your fellow attendees? Join the conference's message board and have at it!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/582</id>
+    <id>https://csells.github.io/sb6/582</id>
     <title>30+ People Already Going to the Applied XML Conf.</title>
     <updated>2003-05-19T07:00:00.000Z</updated>
     <published>2003-05-19T07:00:00.000Z</published>
@@ -265,7 +267,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 &lt;a href="/conference">Here&lt;/a>. I don't mean to rush anyone, but there's already about 30 people signed up for the Applied XML conference. Some of this includes speakers, of course, because they always attend the conference, too, but plenty of folks have already registered just since 5pm on Friday. 'nuf said.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/580</id>
+    <id>https://csells.github.io/sb6/580</id>
     <title>System Security</title>
     <updated>2003-05-19T07:00:00.000Z</updated>
     <published>2003-05-19T07:00:00.000Z</published>
@@ -276,7 +278,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/579</id>
+    <id>https://csells.github.io/sb6/579</id>
     <title>Cracking VM Programs w/ a Hammer</title>
     <updated>2003-05-17T07:00:00.000Z</updated>
     <published>2003-05-17T07:00:00.000Z</published>
@@ -287,7 +289,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 [lambda.weblogs.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/578</id>
+    <id>https://csells.github.io/sb6/578</id>
     <title>Extreme Optimization #1</title>
     <updated>2003-05-17T07:00:00.000Z</updated>
     <published>2003-05-17T07:00:00.000Z</published>
@@ -296,7 +298,7 @@ From Darshan Singh: PerfectXML.com now has a page where you can read RSS feeds/b
 &lt;a href="http://www.codeproject.com/csharp/IPLookupOptimise.asp">Here&lt;/a>. Jeffrey Sax optimizes already optimized C# code by 1249%. That *is* extreme.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/577</id>
+    <id>https://csells.github.io/sb6/577</id>
     <title>My First Talk As A Microsoft Employee</title>
     <updated>2003-05-16T07:00:00.000Z</updated>
     <published>2003-05-16T07:00:00.000Z</published>

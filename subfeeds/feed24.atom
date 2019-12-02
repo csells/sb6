@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed24.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed24.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed23.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed25.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed24.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed23.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed25.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed24.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2071</id>
+    <id>https://csells.github.io/sb6/2071</id>
     <title>Boogers and My Writing Process</title>
     <updated>2007-01-21T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -85,7 +87,7 @@
 &lt;P>Obviously, brainstorming + outlining + summary + details = completed essay isn't exactly a unique perspective on the writing process. Still, how often does one get the change to turn boogers into a positive learning experience for one's progeny? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2070</id>
+    <id>https://csells.github.io/sb6/2070</id>
     <title>CodeFetch: Search Book Source Code</title>
     <updated>2007-01-19T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -95,7 +97,7 @@
 &lt;A href="http://www.codefetch.com/">CodeFetch&lt;/A> allows you to search in the source code associated with books (like the code I publish for my books). Plus, it lets you choose the language to search on and shows the book the results come from so you can read your favorites. Very cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2069</id>
+    <id>https://csells.github.io/sb6/2069</id>
     <title>Five Things You Don’t Know About Me</title>
     <updated>2007-01-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -113,7 +115,7 @@
 &lt;P>P.S. What's the deal with the shape of the Pentagon and the Seal of the US on money (the eye at the top of the pyramid)? Damn you &lt;A href="http://www.douglasp.com/blog/2006/12/23/MyOwnSoftDrinkMachine.aspx">Doug Purdy&lt;/A> for getting me &lt;A href="http://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy">The Illuminatus Trilogy&lt;/A> when I'm supposed to be writing a book!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2068</id>
+    <id>https://csells.github.io/sb6/2068</id>
     <title>On good days, I'm Iron Man...</title>
     <updated>2006-12-31T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -302,7 +304,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. Happy New Year!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2067</id>
+    <id>https://csells.github.io/sb6/2067</id>
     <title>Special Holiday Episode IV: DBox and ChrisAn</title>
     <updated>2006-12-26T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -313,7 +315,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>Merry &amp;amp; Happy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2066</id>
+    <id>https://csells.github.io/sb6/2066</id>
     <title>Xbox 360 Warranty: Now 1 Year (Retroactively!)</title>
     <updated>2006-12-22T08:00:00.000Z</updated>
     <published>2006-12-22T08:00:00.000Z</published>
@@ -326,7 +328,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. If the postscripts aren't appreciated, why do they get all the feedback?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2065</id>
+    <id>https://csells.github.io/sb6/2065</id>
     <title>Somebody Diggs Me...</title>
     <updated>2006-12-21T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/sbdugg.jpg"/>
@@ -340,7 +342,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. I'm not looking forward to giving up the tax cuts when the Democrats tax the presidency (the 2008 elections are theirs to lose). How about we cut our military in half so that it's just the most powerful on earth instead of more powerful than the sum of all the rest of the armies on earth?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2064</id>
+    <id>https://csells.github.io/sb6/2064</id>
     <title>Point: Local Live Maps</title>
     <updated>2006-12-15T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -354,7 +356,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. I think I've scared the most reactionary, close-minded folks away, so I think I'll cool it on the postscripts for a while ('til I feel like it again : ). BTW, my definition of "close-minded" is "those who don't think I have the right to express my opinion," &lt;EM>not &lt;/EM>"those who disagree w/ me." Hopefully I managed to shake the former off my RSS feed while keeping the latter.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2063</id>
+    <id>https://csells.github.io/sb6/2063</id>
     <title>VS2005 SP1</title>
     <updated>2006-12-15T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -379,7 +381,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. I hope everyone is enjoying the holiday season with peace, love and understanding.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2062</id>
+    <id>https://csells.github.io/sb6/2062</id>
     <title>Rory, Distilled</title>
     <updated>2006-12-14T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -392,7 +394,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;p>P.S. I look forward to the day when it's just as easy to get int'l news in the US as corporate-spun news. The world will be a better place when we realize that we're not the only ones on the planet.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2061</id>
+    <id>https://csells.github.io/sb6/2061</id>
     <title>XNA Game Studio Express Has Been Released!</title>
     <updated>2006-12-11T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -403,7 +405,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. Impeach!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2060</id>
+    <id>https://csells.github.io/sb6/2060</id>
     <title>XAML Design Tools from Microsoft</title>
     <updated>2006-12-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -415,7 +417,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. Can someone give Scoble a hug? He's obviously a little worked up if he's &lt;A href="http://scobleizer.com/2006/11/26/calling-chris-sells-i-hate-blogs-that-dont-work-with-google-reader/">recommending physical violence for disagreements about web site design&lt;/A>. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2059</id>
+    <id>https://csells.github.io/sb6/2059</id>
     <title>Holy Cow! An Entire WPF/E DevCenter!</title>
     <updated>2006-12-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -433,7 +435,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. Regardless of whether humans caused global warming or whether it's part of a natural cycle, it's happening and we're going to have to deal with it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2058</id>
+    <id>https://csells.github.io/sb6/2058</id>
     <title>Xbox Video Marketplace Worked Great For Me</title>
     <updated>2006-11-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -445,7 +447,7 @@ My &lt;B>superhero&lt;/B> results:&lt;BR>&lt;B>You are &lt;FONT size=6>Iron Man&
 &lt;P>P.S. I think gays and lesbians have just as much right to get married and to be parents as heterosexuals.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2057</id>
+    <id>https://csells.github.io/sb6/2057</id>
     <title>I'm Thankful for Windows Vista</title>
     <updated>2006-11-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

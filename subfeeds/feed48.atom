@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed48.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed48.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed47.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed49.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed48.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed47.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed49.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed48.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1732</id>
+    <id>https://csells.github.io/sb6/1732</id>
     <title>Who knew the Brits were so randy?</title>
     <updated>2005-03-18T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -42,7 +44,7 @@
 Between "&lt;A href="http://www.wired.com/news/culture/0,1284,62718,00.html">dogging&lt;/A>" and "&lt;A href="http://www.wired.com/news/culture/0,1284,62687,00.html">toothing&lt;/A>" (who comes up with these names?) it's a wonder the Brits have found the time to push the Euro up against the dollar...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1731</id>
+    <id>https://csells.github.io/sb6/1731</id>
     <title>Laugh Out Loud Funny: TechEd Video #2</title>
     <updated>2005-03-16T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -52,7 +54,7 @@ Between "&lt;A href="http://www.wired.com/news/culture/0,1284,62718,00.html">dog
 OK, the first TechEd video from Scott &amp;amp; Rory ("&lt;A href="http://www.hanselman.com/blog/RoryAndScottGoToTechEdALoveStory.aspx">A love story&lt;/A>") was chuckle funny, but the #2 video ("&lt;A href="http://www.hanselman.com/blog/RoryAndScottDesignSomeSoftwareTechEdRevengeOfTheSith.aspx">Revenge of the Sith&lt;/A>") was laugh out loud funny all the way through. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1730</id>
+    <id>https://csells.github.io/sb6/1730</id>
     <title>I want XBOX Live virtual presence for my PC!</title>
     <updated>2005-03-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -63,7 +65,7 @@ OK, the first TechEd video from Scott &amp;amp; Rory ("&lt;A href="http://www.ha
 &lt;P>[&lt;A href="http://radio.weblogs.com/0001011/2005/03/15.html#a9642">via Scoble&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1728</id>
+    <id>https://csells.github.io/sb6/1728</id>
     <title>Updater Application Block v2.0 Released</title>
     <updated>2005-03-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@ OK, the first TechEd video from Scott &amp;amp; Rory ("&lt;A href="http://www.ha
 TheServerSide.NET has a nice summary of &lt;A href="http://www.theserverside.net/news/thread.tss?thread_id=32583">what's new in the Updater Application Block 2.0&lt;/A> from &lt;A href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=295a464a-6072-4e25-94e2-91be63527327">the new Enterprise Library on GDN&lt;/A>. If you're not using ClickOnce from Windows Forms 2.0 yet (maybe because we haven't shipped it yet...), the Updater AppBlock is your next best bet.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1729</id>
+    <id>https://csells.github.io/sb6/1729</id>
     <title>Smart Client Offline Application Block Demo</title>
     <updated>2005-03-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ TheServerSide.NET has a nice summary of &lt;A href="http://www.theserverside.net
 Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/2005/03/smart_client_of.html">a nice video demo of putting the Smart Client Offline Application Block to use&lt;/A>. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1727</id>
+    <id>https://csells.github.io/sb6/1727</id>
     <title>Lego Star Wars Video Game: Hilarious Fun</title>
     <updated>2005-03-15T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/legostarwars.jpg"/>
@@ -95,7 +97,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;P>The PC demo is available and I'll pre-order the XBOX version as soon as that feature is enabled on the site. This game is hilarious,&amp;nbsp;has great&amp;nbsp;visuals&amp;nbsp;and is fun to play; what else is there?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1726</id>
+    <id>https://csells.github.io/sb6/1726</id>
     <title>When the student is ready, the teacher will come</title>
     <updated>2005-03-13T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -111,7 +113,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;P>And if you're thinking, "Big deal, .NET 2.0 is coming out soon and will makes this info obsolete," au contraire, mon frere! This book is based on the .NET 2.0 beta, so the concepts (and hopefully most of the details) are&amp;nbsp;the latest and greatest (and you can download the source that goes along with the book &lt;A href="http://www.microsoft.com/learning/books/products/6895/">here&lt;/A>). I plan on having quite a bit of fun with this book! Thank you book-mailing-to-my-house-god, wherever you are...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1725</id>
+    <id>https://csells.github.io/sb6/1725</id>
     <title>Our New PND Dinner Bell Has Rung</title>
     <updated>2005-03-12T08:00:00.000Z</updated>
     <published>2005-03-12T08:00:00.000Z</published>
@@ -121,7 +123,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;P>&lt;STRONG>What: &lt;/STRONG>Portland Nerd Dinner&lt;BR>&lt;STRONG>Where: &lt;/STRONG>Washington Square Mall food court&lt;BR>&lt;STRONG>When: &lt;/STRONG>Thursday, March 24, starting around 6:30 PM&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1724</id>
+    <id>https://csells.github.io/sb6/1724</id>
     <title>Need More Chris Anderson? Don't We All?</title>
     <updated>2005-03-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -135,7 +137,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1723</id>
+    <id>https://csells.github.io/sb6/1723</id>
     <title>Some Of My Favorite Books</title>
     <updated>2005-03-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -145,7 +147,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;a href="/12477">Here&lt;/a>. &lt;P align=left>I was just putting together a list of some of my favorite books as recommendations for a gift certificate I sent to a friend as a birthday present. If case you're wondering (I know you're all &lt;I>dying&lt;/I> to know : ), &lt;a href="/12477">here's what I sent&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12477</id>
+    <id>https://csells.github.io/sb6/12477</id>
     <title>Some Of My Favorite Books</title>
     <updated>2005-03-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -158,7 +160,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 &lt;/div></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1722</id>
+    <id>https://csells.github.io/sb6/1722</id>
     <title>New Community Web Site: XAML.net</title>
     <updated>2005-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -168,7 +170,7 @@ Scott Swigart has &lt;A href="http://swigartconsulting.blogs.com/tech_blender/20
 A new XAML web site enters the fray: &lt;A href="http://xaml.net/">XAML.net&lt;/A>. How did we miss the boat acquiring this domain name? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1721</id>
+    <id>https://csells.github.io/sb6/1721</id>
     <title>Day of Indigo Videos from VSLive</title>
     <updated>2005-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ A new XAML web site enters the fray: &lt;A href="http://xaml.net/">XAML.net&lt;/
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1720</id>
+    <id>https://csells.github.io/sb6/1720</id>
     <title>MS Survey: Partial Trust and Code Access Security</title>
     <updated>2005-03-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -197,7 +199,7 @@ A new XAML web site enters the fray: &lt;A href="http://xaml.net/">XAML.net&lt;/
 As Microsoft gets nearer the gate on the .NET Framework 2.0 and ClickOnce, we want to make double-sure we understand if and how you're using/would like to use partial trust and code access security (CAS). It would be a great help for anyone building .NET applications, whether they're web or Windows, whether you're using partial trust and/or CAS or not, to &lt;A href="http://host.ultimatesurvey.com/microsoft/surveys/takesurvey.aspx?surveyid=1030">take this survey&lt;/A> so that we can make sure that we've got your needs covered. With ClickOnce, we've come a long way from &lt;A href="http://msdn.microsoft.com/msdnmag/issues/02/07/NetSmartClients/">my initial set of No-Touch Deployment complaints&lt;/A>, but that doesn't mean we're where we need to be. Thanks for helping!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1719</id>
+    <id>https://csells.github.io/sb6/1719</id>
     <title>IT Industry's Own Jobs Training Program</title>
     <updated>2005-03-02T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed156.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed156.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed155.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed157.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed156.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed155.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed157.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed156.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/235</id>
+    <id>https://csells.github.io/sb6/235</id>
     <title>Standard Conformance Features in Visual C++.NET</title>
     <updated>2002-09-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndeepc/html/deep08272002.asp">Here&lt;/a>. From Razvan Caciula: "Bobby Schmidt wraps up his three-part review of standard-conformance features missing from Microsoft Visual C++ .NET."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12421</id>
+    <id>https://csells.github.io/sb6/12421</id>
     <title>TAPI Explorer</title>
     <updated>2002-09-10T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/tools/texplorer.GIF"/>
@@ -66,7 +68,7 @@
 	&lt;a href="/public/tools/tExplorerSrcVC6.zip">VC6 Source (previous version)&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/236</id>
+    <id>https://csells.github.io/sb6/236</id>
     <title>Stream based access to HTML</title>
     <updated>2002-09-10T07:00:00.000Z</updated>
     <published>2002-09-10T07:00:00.000Z</published>
@@ -75,7 +77,7 @@
 &lt;a href="http://www.devhawk.net/htmlreader.htm">Here&lt;/a>. From Harry Pierson: Implemenation of an XmlReader-like class but for HTML. Most sites (like this one) that accept anonymous user input (like this entry) don't allow HTML tags because of the possiblity of scripting attacks. With the HtmlReader class, you could easily scan the HTML stream to ensure only specified and safe tags are used.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/233</id>
+    <id>https://csells.github.io/sb6/233</id>
     <title>Flash MX and the bigger picture</title>
     <updated>2002-09-09T07:00:00.000Z</updated>
     <published>2002-09-09T07:00:00.000Z</published>
@@ -84,7 +86,7 @@
 &lt;a href="http://www.oreillynet.com/pub/a/javascript/2002/09/05/flash_runtime.html">Here&lt;/a>. From Kim Gräsman: "As the Internet continues to evolve into an "Internet operating system"--programmable interfaces, ubiquitous access, and distributed computing resources--the document-centric browser is an awkward solution to a growing number of emerging needs. The browser is not dying by any means; it just needs a mate."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/230</id>
+    <id>https://csells.github.io/sb6/230</id>
     <title>Larry Wall On Perl, Religion, and...</title>
     <updated>2002-09-06T07:00:00.000Z</updated>
     <published>2002-09-06T07:00:00.000Z</published>
@@ -99,7 +101,7 @@ This article is a Slashdot interview where dotters post questions and the interv
 [slashdot.org]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/228</id>
+    <id>https://csells.github.io/sb6/228</id>
     <title>A Second Look at Windows Forms Multithreading</title>
     <updated>2002-09-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ This article is a Slashdot interview where dotters post questions and the interv
 In this article, I add canceling to my asynchronous pi calculating WinForms app.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/226</id>
+    <id>https://csells.github.io/sb6/226</id>
     <title>Bamboo.Prevalence: a .NET object prevalence engine</title>
     <updated>2002-09-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -127,7 +129,7 @@ I admit to still being skeptical after reading the FAQ, but it's mostly a "this 
 [1] http://www.prevayler.org/wiki.jsp?topic=ObjectPrevalenceSkepticalFAQ</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/229</id>
+    <id>https://csells.github.io/sb6/229</id>
     <title>Transparent Prevalence</title>
     <updated>2002-09-05T07:00:00.000Z</updated>
     <published>2002-09-05T07:00:00.000Z</published>
@@ -142,7 +144,7 @@ So, I took a few spare hours after work and hacked a "TransparentPrevalence" fra
 Too bad I had to work last Friday, this would have been a great "Spend a Day With .Net" project.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/225</id>
+    <id>https://csells.github.io/sb6/225</id>
     <title>Attracting and Keeping Good Folks</title>
     <updated>2002-09-05T07:00:00.000Z</updated>
     <published>2002-09-05T07:00:00.000Z</published>
@@ -153,7 +155,7 @@ Too bad I had to work last Friday, this would have been a great "Spend a Day Wit
 [1] http://www.dotnetdan.com</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/227</id>
+    <id>https://csells.github.io/sb6/227</id>
     <title>Go To Statement Considered Harmful</title>
     <updated>2002-09-05T07:00:00.000Z</updated>
     <published>2002-09-05T07:00:00.000Z</published>
@@ -162,7 +164,7 @@ Too bad I had to work last Friday, this would have been a great "Spend a Day Wit
 &lt;a href="http://www.acm.org/classics/oct95/">Here&lt;/a>. I believe that this 1968 article by the recently deceased Edsger Dijkstra, the inventor of the modern operating system and the stack model of computing, is the very first "considered harmful" article from which all others were inspired.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/221</id>
+    <id>https://csells.github.io/sb6/221</id>
     <title>New .NET Remoting Open Source Project</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -174,7 +176,7 @@ Too bad I had to work last Friday, this would have been a great "Spend a Day Wit
 This open source site for .NET remoting extensions continues to grow with a new bi-directional TCP channel to work in firewall environments.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/223</id>
+    <id>https://csells.github.io/sb6/223</id>
     <title>Updated VS.NET Fun Facts</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -188,7 +190,7 @@ Today I added Nick Hodapp's tip on reducing the amount of time VC7 spends checki
 If you have a fun fact, send it along!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/220</id>
+    <id>https://csells.github.io/sb6/220</id>
     <title>Microsoft XML Diff and Patch 1.0</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -200,7 +202,7 @@ If you have a fun fact, send it along!</content>
 I know that this tool has been sorely needed in the XML community for a while and now MS has released one.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/222</id>
+    <id>https://csells.github.io/sb6/222</id>
     <title>CapeScience Release Free WSDL Editor</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <published>2002-09-04T07:00:00.000Z</published>
@@ -213,7 +215,7 @@ We're on fire with free XML tools today! This one is cool because it's free and 
 [staff.develop.com/aarons]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/224</id>
+    <id>https://csells.github.io/sb6/224</id>
     <title>Gyro! Gyro!</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <published>2002-09-04T07:00:00.000Z</published>

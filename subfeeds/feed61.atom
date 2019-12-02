@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed61.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed61.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed60.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed62.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed61.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed60.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed62.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed61.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1548</id>
+    <id>https://csells.github.io/sb6/1548</id>
     <title>re: Business Object Design tools question</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -50,7 +52,7 @@
 &lt;P>It may even be that CDD is a degenerate case of TDD where the "test" is "the client seems to work."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1545</id>
+    <id>https://csells.github.io/sb6/1545</id>
     <title>Rory Giving Away One Seat at the XML Dev.Conf.</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -61,7 +63,7 @@
 &lt;P>&lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">There are still a hand full of seats left if you're like to purchase one&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1552</id>
+    <id>https://csells.github.io/sb6/1552</id>
     <title>Consider Yourself An Artist</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -73,7 +75,7 @@
 &lt;P>This is the thing that separates today's Windows software from tomorrow's. IMO, this is the line between Windows Forms and Avalon. The former is hands down the best way for software engineers to build professional UIs that we're familiar with under Windows today. The latter is for artists to build things we've never seen before. I know this is scary for software engineers who don't know how to be artists (lord knows I don't) and for companies that don't have artists (better get some), but crossing this line is necessary to get from the best of today to the promise of tomorrow for Windows.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1546</id>
+    <id>https://csells.github.io/sb6/1546</id>
     <title>Building Popular Software Even *Harder* Then Previously Thought</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <published>2004-10-14T07:00:00.000Z</published>
@@ -83,7 +85,7 @@
 &lt;P>Which begs the question that has plagued my entire software career: how the hell do you really know what to build?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1549</id>
+    <id>https://csells.github.io/sb6/1549</id>
     <title>A Quote To Live By</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -96,7 +98,7 @@
 &lt;P>That really struck the Midwestern Eagle Scout idealist engineer in me.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1544</id>
+    <id>https://csells.github.io/sb6/1544</id>
     <title>DevCon5 Anticipation Reception for All</title>
     <updated>2004-10-13T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -106,7 +108,7 @@
 &lt;a href="/conference">Here&lt;/a>. If you're going to be checking into the Skamania Lodge for the DevCon by 7pm on Tuesday, 10/19, please join us for the Anticipation Reception for all attendees and speakers. If you decide to hang with &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=9a050b17-94dc-46c6-853d-371821313b0e">the Portland Nerd Dinner&lt;/A> crowd instead that night, I'll understand. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1543</id>
+    <id>https://csells.github.io/sb6/1543</id>
     <title>Don changes his talk at the DevCon</title>
     <updated>2004-10-12T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -117,7 +119,7 @@
 &lt;P>There are just a few seats left, so &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">register now&lt;/A> or be prepared to sit this one out.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1541</id>
+    <id>https://csells.github.io/sb6/1541</id>
     <title>"How is anyone supposed to know that?"</title>
     <updated>2004-10-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -134,7 +136,7 @@
 &lt;P>I didn't have an answer. There really should be one.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1542</id>
+    <id>https://csells.github.io/sb6/1542</id>
     <title>Raymond Continues to Shed Light</title>
     <updated>2004-10-11T07:00:00.000Z</updated>
     <published>2004-10-11T07:00:00.000Z</published>
@@ -143,7 +145,7 @@
 Like pretty much everyone else I know, I'm a huge fan of &lt;A href="http://blogs.msdn.com/oldnewthing/">Raymond Chen's blog: The Old New Thing&lt;/A>. He is constantly answering questions about things I've always wondered. This time, he answers the question "&lt;A href="http://blogs.msdn.com/oldnewthing/archive/2004/10/11/240744.aspx">What's the heck the atom returned by RegisterClass useful for?&lt;/A>" &lt;EM>[ed: "the heck" added for emphasis]&lt;/EM></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1540</id>
+    <id>https://csells.github.io/sb6/1540</id>
     <title>All The Fun, Half the UK Price</title>
     <updated>2004-10-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -154,7 +156,7 @@ Like pretty much everyone else I know, I'm a huge fan of &lt;A href="http://blog
 Curt Johnson, my marketing guy at Addison-Wesley, has let me know this morning at &lt;A href="http://www.amazon.co.uk/exec/obidos/ASIN/0321116208/chrissells">the UK Amazon is having a 1/2 price sale on my Windows Forms book&lt;/A> this month. Plus, the UK guys have their own reviews that are just as nice as the US reviews. Who knew? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1539</id>
+    <id>https://csells.github.io/sb6/1539</id>
     <title>Rob Relyea on Fixing the XAML Attribute Grammar</title>
     <updated>2004-10-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -166,7 +168,7 @@ Curt Johnson, my marketing guy at Addison-Wesley, has let me know this morning a
 &lt;P>Like Rob, I find this amusing. I grew up in a period of Microsoft's life where they were much derided for "leveraging" ideas from the rest of the world and repurposing them for use in Windows (or *as* Windows in some cases). Now that MS has caught up and passed most of the rest of the world in many crucial areas of technology, it's nice to see us grow into the role of thought leader instead of follower.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12342</id>
+    <id>https://csells.github.io/sb6/12342</id>
     <title>Vermin King With Mutant Arm</title>
     <updated>2004-10-09T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://www.neopoleon.com/blog/jetimages/king_2Dchris.jpg"/>
@@ -183,7 +185,7 @@ Saturday, &lt;span class="created">October 09, 2004 12:50 AM&lt;/span>&lt;br>
 &lt;a href="http://www.Neopolean.com">www.Neopolean.com&lt;/a>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1538</id>
+    <id>https://csells.github.io/sb6/1538</id>
     <title>You Too Can Be A Technical Writer!</title>
     <updated>2004-10-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -194,7 +196,7 @@ Saturday, &lt;span class="created">October 09, 2004 12:50 AM&lt;/span>&lt;br>
 &lt;a href="/12483">Here&lt;/a>. &lt;P>The one where I outline &lt;a href="/12483">every technical piece I've ever written&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1537</id>
+    <id>https://csells.github.io/sb6/1537</id>
     <title>Settings, Collections and VS05b1 (oh my)</title>
     <updated>2004-10-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -204,7 +206,7 @@ Saturday, &lt;span class="created">October 09, 2004 12:50 AM&lt;/span>&lt;br>
 &lt;a href="/12484">Here&lt;/a>. &lt;P>The one where I get to try out &lt;a href="/12484">the interaction between VS05, Windows Forms 2.0, application and user settings (wahoo!), generics and versioning&lt;/A>, discovering that, while this combo still in beta, it's still pretty darn wonderful.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12483</id>
+    <id>https://csells.github.io/sb6/12483</id>
     <title>Every Story I've Ever Written</title>
     <updated>2004-10-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

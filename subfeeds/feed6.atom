@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed6.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed6.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed5.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed7.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed6.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed5.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed7.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed6.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2338</id>
+    <id>https://csells.github.io/sb6/2338</id>
     <title>Updated the CsvFileTester for Jet 4.0</title>
     <updated>2010-03-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -43,7 +45,7 @@
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2337</id>
+    <id>https://csells.github.io/sb6/2337</id>
     <title>you may experience some technical difficulties</title>
     <updated>2010-03-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -54,7 +56,7 @@
 &lt;P>Feel free to &lt;A href="mailto:csells@sellsbrothers.com?subject=You're messing with my favorite web site!">drop me a line&lt;/A> if you see anything you think needs fixing. Thanks for your patience.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2336</id>
+    <id>https://csells.github.io/sb6/2336</id>
     <title>On Building a Data-Driven E-Commerce Site</title>
     <updated>2010-03-18T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/ndc2010.jpg"/>
@@ -97,7 +99,7 @@
 &lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal>&lt;SPAN style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #1f497d; FONT-SIZE: 11pt">From then on, every time an order came through, we protected experience simply because of the order number, which I changed without touching a line of code. If helping you &amp;#8220;fake it &amp;#8216;til you make it&amp;#8221; isn&amp;#8217;t enough reason to love a data-driven solution, I don&amp;#8217;t know what is!&lt;/SPAN>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2335</id>
+    <id>https://csells.github.io/sb6/2335</id>
     <title>The incomplete list of impolite WP7 dev requests</title>
     <updated>2010-03-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -127,7 +129,7 @@
 &lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal>&lt;FONT face=Calibri>That doesn&amp;#8217;t seem like a very big list. I must be missing something. : )&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2333</id>
+    <id>https://csells.github.io/sb6/2333</id>
     <title>The incomplete list of impolite WP7 user feature requests</title>
     <updated>2010-03-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@
 &lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal>&lt;FONT face=Calibri>P.S. I know that lots of phones have a subset of these features and I&amp;#8217;m sure someone will tell me that, with the correct config, I can make their favorite phone do all these things. I know that&amp;#8217;s going to happen because whenever I complain about a missing feature in the Visual Studio editor, some emacs guy says, &amp;#8220;Oh, you can do that with Alt+Shift+Left Elbow in my editor!&amp;#8221; I don&amp;#8217;t care about what your phone can do. No phone&amp;#8217;s UI has stirred me like the WP7&amp;#8217;s UI. That&amp;#8217;s the one I want to use, so that&amp;#8217;s the phone I&amp;#8217;m going to bang on &amp;#8216;til my incomplete list is complete.&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2334</id>
+    <id>https://csells.github.io/sb6/2334</id>
     <title>Creating a Lazy Sequence of Directory Descendants in C#</title>
     <updated>2010-03-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -197,7 +199,7 @@
 &lt;P>The key hit here is the use of "yield return" which lets me return elements of an IEnumerable as I calculate them. This took me 5 minutes to write, my mind is straight and I find it fairly easy to read. I'll let you decide on the relative verbosity of each implementation.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2332</id>
+    <id>https://csells.github.io/sb6/2332</id>
     <title>"Deep Fried Bytes Podcast": Lars on SQL Server Modeling</title>
     <updated>2010-03-05T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -207,7 +209,7 @@
 &lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText>&lt;FONT face=Calibri>Here's how the Deep Fried guys describe &lt;A href="http://deepfriedbytes.com/podcast/episode-45-making-sense-of-what-was-oslo-with-lars-corneliussen/">episode 45&lt;/A>: "At PDC 2009, 'Oslo' was renamed to SQL Modeling and it left a lot of developers scratching their heads. What better way to sort it all out than to talk with someone deep into the stack. We sat down with Lars Corneliussen to see how this is all going to turn out and it what it means for developers. Definitely an interesting show as it paints a different picture about where things are going with 'M', 'M' Grammar, SQL modeling, Entity Framework, Quadrant and so on." Check it out!&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2331</id>
+    <id>https://csells.github.io/sb6/2331</id>
     <title>SQL Server Modeling CTP (November 2009 Release 2)</title>
     <updated>2010-03-04T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -217,7 +219,7 @@
 An &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/thread/fb9ddfbf-efdc-47ac-91da-6dbbb1598296">update of the SQL Server Modeling CTP (November 2009)&lt;/A> that's compatible with Visual Studio 2010 RC has been released on the Microsoft Download Center. This release is strictly an updated version of the original November 2009 CTP release to support Visual Studio 2010 and .NET Framework 4 RC. It contains no other fixes outside of those required to work with the new RC. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2330</id>
+    <id>https://csells.github.io/sb6/2330</id>
     <title>Please don't run apps in the background on my WP7 phone!</title>
     <updated>2010-03-03T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://cache.windowsphone7series.com/images/logo.jpg"/>
@@ -236,7 +238,7 @@ An &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/thread/fb9ddfb
 &lt;P>I'm saving my WP7 phone battery for important things after all.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2329</id>
+    <id>https://csells.github.io/sb6/2329</id>
     <title>Update for SQL Server Modeling CTP and Dev10 RC</title>
     <updated>2010-02-22T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -247,7 +249,7 @@ An &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/thread/fb9ddfb
 &lt;P>We are also planning for another release of the November CTP that matches the final Visual Studio product (RTM) when that product becomes generally available.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2328</id>
+    <id>https://csells.github.io/sb6/2328</id>
     <title>Windows Phone Series 7 Link Roundup</title>
     <updated>2010-02-15T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://cache.windowsphone7series.com/images/logo.jpg"/>
@@ -265,7 +267,7 @@ An &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/thread/fb9ddfb
 &lt;P>Now I just have to let my AT&amp;amp;T contract run out and find a buyer for my iPhone. Can't wait!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2327</id>
+    <id>https://csells.github.io/sb6/2327</id>
     <title>Entity Designer Database Generation Power Pack</title>
     <updated>2010-02-09T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="http://blogs.msdn.com/blogfiles/adonet/WindowsLiveWriter/EntityDesignerDatabaseGenerationPowerPac_83DF/Untitled_thumb_1.png"/>
@@ -283,7 +285,7 @@ If you like Model-First design in Entity Framework, you're going to love &lt;A h
 &lt;P>Highly recommended. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2326</id>
+    <id>https://csells.github.io/sb6/2326</id>
     <title>Data Binding, Currency and the WPF TreeView</title>
     <updated>2010-02-07T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/ode1.jpg"/>
@@ -303,7 +305,7 @@ If you like Model-First design in Entity Framework, you're going to love &lt;A h
 &lt;P>Or, in other words, the textboxes effectively have a new idea of the "current" item that meshes with how the treeview works. Thanks, Ian!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2324</id>
+    <id>https://csells.github.io/sb6/2324</id>
     <title>Deep Fried Bytes: Doug Purdy on OData and Modeling</title>
     <updated>2010-02-04T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -313,7 +315,7 @@ If you like Model-First design in Entity Framework, you're going to love &lt;A h
 "In &lt;A href="http://deepfriedbytes.com/podcast/episode-43-talking-odata-and-sql-modeling-services-with-douglas-purdy/">the 43rd episode of Deep Fried Bytes&lt;/A>, Keith and Woody sit down at PDC 2009 with Microsoft&amp;#8217;s Douglas Purdy to discuss all things data. Do you remember Oslo from the previous PDC event? Well Oslo has been rebranded to SQL Server Modeling Services to help developers store and manage models for the enterprise. Modeling Services enables you to more productive when building and managing data-driven applications. The guys also get the low down from Douglas on a new web protocol for querying and updating data called OData."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2325</id>
+    <id>https://csells.github.io/sb6/2325</id>
     <title>Telerik LINQ to M Refresh for Nov09 Modeling CTP</title>
     <updated>2010-02-04T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>

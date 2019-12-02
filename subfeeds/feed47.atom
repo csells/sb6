@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed47.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed47.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed46.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed48.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed47.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed46.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed48.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed47.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1744</id>
+    <id>https://csells.github.io/sb6/1744</id>
     <title>Avalon is changing my thinking...</title>
     <updated>2005-03-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12475">Here&lt;/a>. &lt;a href="/12475">This application demonstrates the two things I'm finding that Avalon has changed about my thinking&lt;/A>. The first is that data binding makes itself into even trivial Avalon applications and its presence is appreciated. The second is that I want to push as much stuff into XAML as I can. Keeping the data separate from the code makes a bunch of sense and, for my trivial application, keeping the data inline with the rest of the UI was very useful. It allows for easy maintenance and localization while pushing as much of my application into declarations and out of imperative statements. The more I can tell the computer &lt;I>what&lt;/I> I want instead of &lt;I>how&lt;/I> I want to accomplish it, the better off I am.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1745</id>
+    <id>https://csells.github.io/sb6/1745</id>
     <title>sellsbrothers.com needs an intern!</title>
     <updated>2005-03-31T08:00:00.000Z</updated>
     <published>2005-03-31T08:00:00.000Z</published>
@@ -66,7 +68,7 @@
 &lt;P>If you're interested, &lt;A href="mailto:csells@sellsbrothers.com?subject=I want to work for no money!">drop me a line&lt;/A>&amp;nbsp;(I'm sure I'll be flooded... : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1743</id>
+    <id>https://csells.github.io/sb6/1743</id>
     <title>Leaders and Legacy</title>
     <updated>2005-03-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -76,7 +78,7 @@
 &lt;a href="/12476">Here&lt;/a>. For an internal thingie, I was asked to write a short bio, define what I think a "leader" is, describe my target legacy and list my biggest source of pride. &lt;a href="/12476">This is what I came up with&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1741</id>
+    <id>https://csells.github.io/sb6/1741</id>
     <title>Another Laugh Out Loud TechEd Video</title>
     <updated>2005-03-30T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -86,7 +88,7 @@
 &lt;A href="http://www.hanselman.com/blog/TechEdVideo3DrinkTheTechEdKoolAid.aspx">Scott and Rory do it again&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12476</id>
+    <id>https://csells.github.io/sb6/12476</id>
     <title>Leaders and Legacy</title>
     <updated>2005-03-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -96,7 +98,7 @@
 &lt;p align="left">For an internal thingie, I was asked to write a short bio, define what I think a &amp;quot;leader&amp;quot; is, describe my target legacy and list my biggest source of price. This is what I came up with:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>I've been pretty much everything you can be in the IT industry including author, speaker, consultant, conference organizer, grunt in a start-up, CEO in a start-up, developer, tester, documenter, etc. I'm currently a content strategist for MSDN in the areas of WinFX/Longhorn and smart clients. I'm passionate about building products to make people happier, whether that's because they're more productive or because I've solved some hard problem or just because they lean back and say &amp;quot;cool!&amp;quot; My biggest regret is that I've never yet been on a product team at Microsoft; to get the full experience, someday I need to do that! After that, I can retire and write novels from coffee shops around the world. : ) &lt;/i>&lt;/p>&lt;p align="left">&lt;i>A great leader is someone that inspires you to do things you didn't even know you were capable of doing.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>The legacy I'd like to leave behind is that people can look back at their interactions with me and think that I helped make their lives better, whether it was an answer to a tough question or an insight that they hadn't had before or a comment that tickled their funny bone.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>The biggest source of pride in my life is the family I've built with my wife and two sons (the Sells brothers, whence the name of my web site came: &lt;a href="/">www.sellsbrothers.com&lt;/a>).&lt;/i>&lt;/p>&lt;/blockquote></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12475</id>
+    <id>https://csells.github.io/sb6/12475</id>
     <title>I can feel Avalon changing me...</title>
     <updated>2005-03-30T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/excuse1.jpg"/>
@@ -175,7 +177,7 @@ class ExcuseData : List&amp;lt;Excuse&amp;gt; {
 }&lt;/pre>&lt;/div>&lt;div align="left">&lt;p align="left">So, this is really only a few lines of code, one to hook up the button event handler, one to find the excuse data from the window resources, one to get the view on the excuse data and one to move the currency pointer to some other random spot. The actual display of the data is left to the data binding code (which somebody else gets to maintain).&lt;/div>&lt;div align="left">&lt;p align="left">One other thing worth noting is that I had defining event handlers in the XAML. Even when it's me writing both the XAML and the code, I don't like the XAML making demands on the code. If the XAML handles an event, e.g. with an event trigger, than that's fine, but don't make requirements of the code form the XAML. Instead, provide hooks for the code to do its work, e.g. the x:ID on the ExcuseData and the TextBlock are both used in the code, but neither &lt;i>requires&lt;/i> anything of the code. If you're going to separate the presentation from the logic, this is the kind of thing you'll want to think about.&lt;/div>&lt;div align="left">&lt;h2 align="left">Where Are We?&lt;/h2>&lt;/div>&lt;div align="left">&lt;p align="left">Two things I'm finding that Avalon has changed about my thinking. The first is that data binding makes itself into even trivial Avalon applications and its presence is appreciated. The second is that I want to push as much stuff into XAML as I can. Keeping the data separate from the code makes a bunch of sense and, for my trivial application, keeping the data inline with the rest of the UI was very useful. It allows for easy maintenance and localization while pushing as much of my application into declarations and out of imperative statements. The more I can tell the computer &lt;i>what&lt;/i> I want instead of &lt;i>how&lt;/i> I want to accomplish it, the better off I am.&lt;/div></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1742</id>
+    <id>https://csells.github.io/sb6/1742</id>
     <title>The *Official* Place for Avalon and Indigo Bugs!</title>
     <updated>2005-03-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -185,7 +187,7 @@ class ExcuseData : List&amp;lt;Excuse&amp;gt; {
 What with the public availability of the &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013">Avalon and Indigo CTPs&lt;/A>&amp;nbsp;and our stated goal of pre-beta bit releases to gather feedback, you might wonder, "But where should this feedback go?" I'll tell you where to go -- &lt;A href="http://lab.msdn.microsoft.com/productfeedback/default.aspx">the MSDN Product Feedback Center&lt;/A>, which now has entries for Avalon and Indigo. Hog pile on the WinFX API product teams!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1739</id>
+    <id>https://csells.github.io/sb6/1739</id>
     <title>Betsy's Got Them GotDotNet Blues</title>
     <updated>2005-03-29T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -195,7 +197,7 @@ What with the public availability of the &lt;A href="http://www.microsoft.com/do
 &lt;P>&lt;A href="http://blogs.msdn.com/betsya">Betsy Aoki&lt;/A>, the matriarch of &lt;A href="http://www.gotdotnet.com">GotDotNet&lt;/A>, sings &lt;A href="http://www.gotdotnet.com/team/betsy/gdnblues.aspx">a song of GDN Blues&lt;/A>. And not only did she write and sing the song (with a surprisingly good voice for a geek), she also had a hard time getting it published across all GDN servers, further illustrating the point. Recommended!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1738</id>
+    <id>https://csells.github.io/sb6/1738</id>
     <title>La Vida Robot</title>
     <updated>2005-03-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -205,7 +207,7 @@ What with the public availability of the &lt;A href="http://www.microsoft.com/do
 &lt;A href="http://www.wired.com/wired/archive/13.04/robot.html">This story of a set of illegal alien high school students from the wrong side of the tracks in Phoenix competing against MIT college students&lt;/A> was heart warming and heart breaking at the same time.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1740</id>
+    <id>https://csells.github.io/sb6/1740</id>
     <title>Translate C# To And From VB.NET As You Type!</title>
     <updated>2005-03-29T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -215,7 +217,7 @@ What with the public availability of the &lt;A href="http://www.microsoft.com/do
 &lt;A href="http://www.carlosag.net/">Carlos Aguilar Mares&lt;/A>, an SDE on the MS Web Platform &amp;amp; Tools team, has created &lt;A href="http://www.carlosag.net/Tools/CodeTranslator/Default.aspx">a fabulous C# to/from VB.NET code translation tool&lt;/A>. You can hand it a file and translate in batch mode or you can just type in one language and see it translated in real-time into the other. Now all Carlos needs is a project-wide batch mode and he'd have the problem licked!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1737</id>
+    <id>https://csells.github.io/sb6/1737</id>
     <title>Steve Maine on Indigo Duplex Contracts</title>
     <updated>2005-03-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -225,7 +227,7 @@ What with the public availability of the &lt;A href="http://www.microsoft.com/do
 Steve Maine of &lt;A href="http://hyperthink.net/blog/default.aspx">Brain.Save()&lt;/A> has done a really good job on &lt;A href="http://hyperthink.net/blog/PermaLink,guid,460c1f1e-dffc-4a26-a811-57a6e9fd74bf.aspx">the description of a set of duplex contracts in Indigo&lt;/A>, i.e. those contracts where callbacks are specified, using the design of a multi-player game of blackjack. Steve shows the service contract interfaces, a bunch of the messaging code and even what's on the wire. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1736</id>
+    <id>https://csells.github.io/sb6/1736</id>
     <title>March Avalon/Indigo CTP Available for Public Download</title>
     <updated>2005-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -237,7 +239,7 @@ Steve Maine of &lt;A href="http://hyperthink.net/blog/default.aspx">Brain.Save()
 &lt;P>* for some definition of "coming soon..."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1735</id>
+    <id>https://csells.github.io/sb6/1735</id>
     <title>Duncan Shows How To Host MSDN Content On Your Site</title>
     <updated>2005-03-22T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -248,7 +250,7 @@ Steve Maine of &lt;A href="http://hyperthink.net/blog/default.aspx">Brain.Save()
 &lt;P>* DISCLAIMER: Microsoft's copyright still applies. The internal details of our content management system are going to change without notice. Use at your risk. No warranties extended. Void where prohibited. Some assembly required. blah, blah, blah...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1733</id>
+    <id>https://csells.github.io/sb6/1733</id>
     <title>A Coder in Courierland</title>
     <updated>2005-03-21T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -258,7 +260,7 @@ Steve Maine of &lt;A href="http://hyperthink.net/blog/default.aspx">Brain.Save()
 I always love reading about people that love their jobs. In this case, &lt;A href="http://www.kuro5hin.org/story/2005/3/19/133129/548">a Toronto coder gave up half his salary to get out of cubeland and onto the back of a bike as a courier&lt;/A>. His descriptions, especially the diary entries at the end, make me pine for the part of my childhood when I'd spend hours on the back of the bike simply because it was the most fun thing I could think of to do. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1734</id>
+    <id>https://csells.github.io/sb6/1734</id>
     <title>Chris Anderson's AvPad for the March CTP</title>
     <updated>2005-03-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

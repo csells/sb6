@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed134.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed134.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed133.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed135.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed134.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed133.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed135.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed134.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/547</id>
+    <id>https://csells.github.io/sb6/547</id>
     <title>MSDN Maiden of Order Gets A Blog</title>
     <updated>2003-04-30T07:00:00.000Z</updated>
     <published>2003-04-30T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://blogs.gotdotnet.com/saraw/">Here&lt;/a>. If you care about where MSDN is going, you'll want to check out the new blog from Sara Williams, the Fountain of MSDN Justice (and my grandboss).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/545</id>
+    <id>https://csells.github.io/sb6/545</id>
     <title>Buzz About The DevCon</title>
     <updated>2003-04-30T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -61,7 +63,7 @@ http://dotnetguy.techieswithcats.com/archives/003064.shtml
 http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/546</id>
+    <id>https://csells.github.io/sb6/546</id>
     <title>Reflector.NET Author Starts a Blog</title>
     <updated>2003-04-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 &lt;a href="http://aisto.com/roeder/Frontier/Frontier.rss">Here&lt;/a>. Lutz Roeder, the author of Reflector.NET, caves in and starts his blog. And what a way to start: he posts a decompiler plug-in for Reflection.NET. Welcome, Lutz.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/544</id>
+    <id>https://csells.github.io/sb6/544</id>
     <title>Longhorn Audio/Video Info from WinHEC</title>
     <updated>2003-04-30T07:00:00.000Z</updated>
     <published>2003-04-30T07:00:00.000Z</published>
@@ -82,7 +84,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 [ActiveWin.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/542</id>
+    <id>https://csells.github.io/sb6/542</id>
     <title>RIAA to file swappers: Let's chat</title>
     <updated>2003-04-29T07:00:00.000Z</updated>
     <published>2003-04-29T07:00:00.000Z</published>
@@ -91,7 +93,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 &lt;a href="http://rss.com.com/2100-1025-998825.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. I take this as a sign that the RIAA is finally realizing what's going on. That is only goodness.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/540</id>
+    <id>https://csells.github.io/sb6/540</id>
     <title>Updated XsdClassesGen for VS.NET 2003</title>
     <updated>2003-04-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -101,7 +103,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 &lt;a href="/12422">Here&lt;/a>. I've updated XsdClassesGen for VS.NET 2003. For those of you unfamiliar with it (it's never been as popular as CollectionGen for some reason), XsdClassesGen is a VS.NET Custom Tool that generates C# or VB.NET wrapper class source code from an XSD. It's just like running xsd.exe from the command line, but integrated into VS.NET (which is where all tools belong, afaic).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/539</id>
+    <id>https://csells.github.io/sb6/539</id>
     <title>Updated CollectionGen for VS.NET 2002 &amp; 2003</title>
     <updated>2003-04-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 &lt;a href="/12424">Here&lt;/a>. I've updated CollectionGen with code to support both VS.NET 2002 &amp; 2003. It has no dependencies on any VS.NET design-time DLLs, so one binary works for both versions. If you're building custom tools, this should form a good base to support both environments.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/543</id>
+    <id>https://csells.github.io/sb6/543</id>
     <title>Apple's Music Store Needed for the other 94%</title>
     <updated>2003-04-29T07:00:00.000Z</updated>
     <published>2003-04-29T07:00:00.000Z</published>
@@ -120,7 +122,7 @@ http://www.gotdotnet.com/team/dbox/default.aspx#nn2003-04-28T06:42:55Z</content>
 I'm very much looking forward to either &lt;a href="http://www.apple.com/music/store/">iTunes&lt;/a> being available for Windows or someone else letting me purchase songs one at a time. In fact, as soon as that happens, my wife [ahem] owes the RIAA several hundred dollars in "back-fees" for "pre-downloaded" mp3s (she's always been very ahead of her time...)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/541</id>
+    <id>https://csells.github.io/sb6/541</id>
     <title>Comparing Security: Commercial S/W vs. Open Source</title>
     <updated>2003-04-29T07:00:00.000Z</updated>
     <published>2003-04-29T07:00:00.000Z</published>
@@ -129,7 +131,7 @@ I'm very much looking forward to either &lt;a href="http://www.apple.com/music/s
 &lt;a href="http://www.davidchappell.com/HTML_email/Opinari_No6_4_03.html#article">Here&lt;/a>. Of course, David Chappel tends to appear at more MS-related events than not, so he's biased like the rest of the folks reading this post (well, maybe not as biased as some : ). However, he examines the 2001, 2002 and 2003 CERT Coordination Center's security advisory data and finds that things are definitely moving in the right direction for Windows folk(although not as fast as we'd like, of course).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/536</id>
+    <id>https://csells.github.io/sb6/536</id>
     <title>Disaster Recovery</title>
     <updated>2003-04-28T07:00:00.000Z</updated>
     <published>2003-04-28T07:00:00.000Z</published>
@@ -138,7 +140,7 @@ I'm very much looking forward to either &lt;a href="http://www.apple.com/music/s
 &lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=Disaster%20Recovery">Here&lt;/a>. From Carlos Aquino: Things goes wrong all the time, but a good administrator is always alert. On this site they have some documentations about how to avoid (and how to recover from) a disaster on your systems.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/538</id>
+    <id>https://csells.github.io/sb6/538</id>
     <title>Unifying Tables, Objects and Documents (XML)</title>
     <updated>2003-04-28T07:00:00.000Z</updated>
     <published>2003-04-28T07:00:00.000Z</published>
@@ -147,7 +149,7 @@ I'm very much looking forward to either &lt;a href="http://www.apple.com/music/s
 &lt;a href="http://www.research.microsoft.com/~emeijer/Papers/oopsla.pdf">Here&lt;/a>. Wouldn't it be an interesting world if the three major data structure abstractions, i.e. relational data (tables), graphs (objects) and strict hierarchy (XML) were all first class citizens in the same language? I found this paper quite an mind-bender.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/537</id>
+    <id>https://csells.github.io/sb6/537</id>
     <title>CALL FOR SPEAKERS: Applied XML DevCon 2003 West</title>
     <updated>2003-04-28T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -161,7 +163,7 @@ Send abstracts before 5/7 to csells@microsoft.com
 If you can think of another place, e.g. mailing list or blog, that would be appropriate for this announcement, please send it along.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/534</id>
+    <id>https://csells.github.io/sb6/534</id>
     <title>Software Legends</title>
     <updated>2003-04-27T07:00:00.000Z</updated>
     <published>2003-04-27T07:00:00.000Z</published>
@@ -170,7 +172,7 @@ If you can think of another place, e.g. mailing list or blog, that would be appr
 &lt;a href="http://www.softwarelegends.com/legends.html">Here&lt;/a>. From Spencer Harbar: a nice site featuring the usual suspects! - but wasn't it don who did the bathtub SOAP talk? :)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/535</id>
+    <id>https://csells.github.io/sb6/535</id>
     <title>Killer Apps Share A Common Thread: Hacker Geeks</title>
     <updated>2003-04-27T07:00:00.000Z</updated>
     <published>2003-04-27T07:00:00.000Z</published>
@@ -181,7 +183,7 @@ If you can think of another place, e.g. mailing list or blog, that would be appr
 [slashdot.org]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/533</id>
+    <id>https://csells.github.io/sb6/533</id>
     <title>How Would You Move Mount Fuji?</title>
     <updated>2003-04-26T07:00:00.000Z</updated>
     <published>2003-04-26T07:00:00.000Z</published>

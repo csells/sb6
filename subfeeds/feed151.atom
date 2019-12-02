@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed151.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed151.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed150.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed152.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed151.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed150.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed152.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed151.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/307</id>
+    <id>https://csells.github.io/sb6/307</id>
     <title>Project Mono Does SQL / Windows / ASP.NET</title>
     <updated>2002-11-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/306</id>
+    <id>https://csells.github.io/sb6/306</id>
     <title>Code that begets code</title>
     <updated>2002-11-01T08:00:00.000Z</updated>
     <published>2002-11-01T08:00:00.000Z</published>
@@ -55,7 +57,7 @@
 Rebuttal, please?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/304</id>
+    <id>https://csells.github.io/sb6/304</id>
     <title>MMC Snapin Framework</title>
     <updated>2002-10-31T08:00:00.000Z</updated>
     <published>2002-10-31T08:00:00.000Z</published>
@@ -64,7 +66,7 @@ Rebuttal, please?</content>
 &lt;a href="http://www.ironringsoftware.com/DesktopDefault.aspx?PageId=19">Here&lt;/a>. I don't know if this is new or not, but it's new to me and I know that .NET folks need to know how to plug into MMC. Jim Murphy, of Attila fame, has the solution.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/303</id>
+    <id>https://csells.github.io/sb6/303</id>
     <title>Borland Investigating Mono for Kylix</title>
     <updated>2002-10-31T08:00:00.000Z</updated>
     <published>2002-10-31T08:00:00.000Z</published>
@@ -73,7 +75,7 @@ Rebuttal, please?</content>
 &lt;a href="http://www.theregus.com/content/4/26813.html">Here&lt;/a>. From jt: "Borland is investigating use of Ximian Inc's Project Mono in Kylix, as a possible means for Windows developers to move .NET applications to Linux." </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/305</id>
+    <id>https://csells.github.io/sb6/305</id>
     <title>New Editor for ORA's .NET DevCenter</title>
     <updated>2002-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ Rebuttal, please?</content>
 &lt;a href="http://www.oreillynet.com/pub/wlg/2198">Here&lt;/a>. Shawn's a long-time friend of mine and an excellent writer who understands the importance of story, even for technical pieces. Congrats, Shawn!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/301</id>
+    <id>https://csells.github.io/sb6/301</id>
     <title>Pet Shop 2.0: Java vs. .NET</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -95,7 +97,7 @@ Rebuttal, please?</content>
 My reading of this report is that .NET kicked Java's hinder in every single measure, from through-put and responsiveness to lines of code and lines of configuration required to build and run the app.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/298</id>
+    <id>https://csells.github.io/sb6/298</id>
     <title>A Giant Sucking Sound</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -104,7 +106,7 @@ My reading of this report is that .NET kicked Java's hinder in every single meas
 &lt;a href="/12571">Here&lt;/a>. NAFTA isn't the only one causing jobs to migrate. Microsoft is doing it, too.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/295</id>
+    <id>https://csells.github.io/sb6/295</id>
     <title>Why We Don't Build Software for Users</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -113,7 +115,7 @@ My reading of this report is that .NET kicked Java's hinder in every single meas
 &lt;a href="http://www.fawcette.com/vsm/2002_12/online/the/">Here&lt;/a>. I'm a big Alan Cooper fan and this is a recent interview.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/290</id>
+    <id>https://csells.github.io/sb6/290</id>
     <title>Type Safety in a Loosely Coupled World</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -122,7 +124,7 @@ My reading of this report is that .NET kicked Java's hinder in every single meas
 &lt;a href="/12572">Here&lt;/a>. In which I'm inspired by Tim Ewald and come to realize that runtime type checking is a very good thing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/302</id>
+    <id>https://csells.github.io/sb6/302</id>
     <title>Mindreef SOAPscope Public Beta 2 Available</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -133,7 +135,7 @@ My reading of this report is that .NET kicked Java's hinder in every single meas
 Mindreef did a very cool demo of their diagnostics tools at the DevCon and it was a big hit. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/293</id>
+    <id>https://csells.github.io/sb6/293</id>
     <title>.NET Pet Shop 2</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -143,7 +145,7 @@ Mindreef did a very cool demo of their diagnostics tools at the DevCon and it wa
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/psent.asp">Here&lt;/a>. ".NET Pet Shop 2.0 is a reference application for building highly scalable ASP.NET Web applications. The application is functionally equivalent to the Sun® Microsystems Java™ Pet Store 1.2 blueprint application, and can be used to compare the coding concepts, basic application server features, and architectures of .NET and J2EE™. It also includes benchmark data for comparison."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/299</id>
+    <id>https://csells.github.io/sb6/299</id>
     <title>X-Code .NET: writing code with code for .NET</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ Mindreef did a very cool demo of their diagnostics tools at the DevCon and it wa
 I'm very happy to see Shawn, a valued member of the DevelopMentor Software team that built Gen&lt;X> in the first place, take up this project. You go, Shawn!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/292</id>
+    <id>https://csells.github.io/sb6/292</id>
     <title>Essential .NET Security</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ I'm very happy to see Shawn, a valued member of the DevelopMentor Software team 
 &lt;a href="http://www.develop.com/kbrown/book/default.htm">Here&lt;/a>. Keith Brown has *finally* decided to write Essential .NET Security and he'll be posting it to HTML as he writes it. He's already got the ASP.NET security chapter posted. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/288</id>
+    <id>https://csells.github.io/sb6/288</id>
     <title>Free, Non-Commercial Edition of Eiffel for .NET</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -177,7 +179,7 @@ I'm very happy to see Shawn, a valued member of the DevelopMentor Software team 
 Eiffel has two features that I wish C# had: design by contract and generics. While the free edition is limited when compared to the non-free edition, it won't expire. If you'd like to see how Bertrand Meyer thinks you ought to program w/o leaving the comfort of .NET, check it out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/289</id>
+    <id>https://csells.github.io/sb6/289</id>
     <title>Too Many Web Services</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>

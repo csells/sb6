@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed103.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed103.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed102.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed104.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed103.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed102.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed104.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed103.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/963</id>
+    <id>https://csells.github.io/sb6/963</id>
     <title>A Sneak Preview of Visual C# Whidbey</title>
     <updated>2003-11-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 [weblogs.asp.net/duncanma]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/962</id>
+    <id>https://csells.github.io/sb6/962</id>
     <title>Request for brainteaser interview examples</title>
     <updated>2003-11-21T08:00:00.000Z</updated>
     <published>2003-11-21T08:00:00.000Z</published>
@@ -63,7 +65,7 @@ I welcome suggestions and questions at jkador@jkador.com. My web site is http://
 John Kador</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/964</id>
+    <id>https://csells.github.io/sb6/964</id>
     <title>Chris Anderson on the History of the Avalon Team</title>
     <updated>2003-11-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@ John Kador</content>
 &lt;a href="http://www.simplegeek.com/permalink.aspx/2e58f16e-d569-4660-b010-f557272580ee">Here&lt;/a>. Chris Anderson, an architect on the Avalon team, talks about the history of the Avalon team, including how it was formed, the goals for Avalon and the rearchitecture a year before the PDC.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/958</id>
+    <id>https://csells.github.io/sb6/958</id>
     <title>Document-Centric Applications in WinForms, 3 of 3</title>
     <updated>2003-11-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -87,7 +89,7 @@ John Kador</content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/961</id>
+    <id>https://csells.github.io/sb6/961</id>
     <title>Mike Deem: Must-Read WinFS Blog</title>
     <updated>2003-11-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -99,7 +101,7 @@ John Kador</content>
 If you're doing WinFS or curious how it works or what it means, you *must* read Mike Deem's blog.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/959</id>
+    <id>https://csells.github.io/sb6/959</id>
     <title>Unofficial, Unsupported Longhorn Tweaks Page</title>
     <updated>2003-11-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@ If you're doing WinFS or curious how it works or what it means, you *must* read 
 &lt;a href="http://69.50.228.116/Chris123NT/PDC_4051/LHGuide.html">Here&lt;/a>. Normally I wouldn't point this page out, because it's *unofficial* and *unsupported*, but some folks have used the guidance on this page to fix issues with the PDC Longhorn bits, especially as related to networking. USE AT YOUR OWN RISK.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/960</id>
+    <id>https://csells.github.io/sb6/960</id>
     <title>Longhorn SDK Annotations</title>
     <updated>2003-11-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -134,7 +136,7 @@ If you'd like to provide annotations for folks to subscribe to as "annotations,"
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/957</id>
+    <id>https://csells.github.io/sb6/957</id>
     <title>C++ templates vs. CLR generics</title>
     <updated>2003-11-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -144,7 +146,7 @@ If you'd like to provide annotations for folks to subscribe to as "annotations,"
 &lt;a href="http://blogs.gotdotnet.com/branbray/permalink.aspx/c14dce49-3254-4976-b38c-88bfd61b65cf">Here&lt;/a>. Under Whidbey, VC++ supports both CLR generics and C++ templates for managed code. In this post, Brandon Bray, a PM on the VC++ team, lays out the differences, while also laying out the differences between C++ templates and CLR generics in general.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/956</id>
+    <id>https://csells.github.io/sb6/956</id>
     <title>Updated NTD Command Line Code</title>
     <updated>2003-11-19T08:00:00.000Z</updated>
     <published>2003-11-19T08:00:00.000Z</published>
@@ -153,7 +155,7 @@ If you'd like to provide annotations for folks to subscribe to as "annotations,"
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. Some folks have had trouble with ieexec.exe throwing a System.IO.FileLoadException when using my No-Touch Deployment command line handling code for .NET 1.0 and 1.1. Andrew Duncan burned a PSS call to figure out the problem and I've updated the sample code to match (ieexec.exe needs a Last-Modified header). Thanks, Andrew!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/955</id>
+    <id>https://csells.github.io/sb6/955</id>
     <title>Infragistics UltraGrid for Avalon: Technology Demo</title>
     <updated>2003-11-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ If you'd like to provide annotations for folks to subscribe to as "annotations,"
 Apparently it took 2 guys 1 month to build this control from a standing start, i.e. no previous Avalon experience. There are a bunch of limitations and Infragistics is clear that you shouldn't use this code as a template for writing your own components, but it's still fun to see. Thanks, Infragistics!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/954</id>
+    <id>https://csells.github.io/sb6/954</id>
     <title>The WinFX Newsgroups are *Hot*</title>
     <updated>2003-11-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -175,7 +177,7 @@ Apparently it took 2 guys 1 month to build this control from a standing start, i
 &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">Here&lt;/a>. If you have questions or comments about Longhorn/WinFX development, be sure to post them on one of the WinFX newsgroups. Digging through the recent activity, I'm hard-pressed to find a post that isn't addressed by a member of the appropriate MS product team. These guys are *dying* for your feedback, so post away!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/953</id>
+    <id>https://csells.github.io/sb6/953</id>
     <title>Looking for the Money Cat</title>
     <updated>2003-11-16T08:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -185,7 +187,7 @@ Apparently it took 2 guys 1 month to build this control from a standing start, i
 &lt;a href="/12410">Here&lt;/a>. Someone sent me a fabulous follow up email to "The Average Return Myth," but in the heat of the PDC, I didn't get a chance to read it and now that the PDC is over, I can't find it again! All I remember is that the person's email address started with "cat" (I think). Can you please send it again, Mr. Cat? Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/952</id>
+    <id>https://csells.github.io/sb6/952</id>
     <title>WinFS = Windows Foo System</title>
     <updated>2003-11-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -200,7 +202,7 @@ Unfortunately, the story that Mike tells isn't complete yet, because custom item
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/951</id>
+    <id>https://csells.github.io/sb6/951</id>
     <title>First Computing Experience</title>
     <updated>2003-11-15T08:00:00.000Z</updated>
     <published>2003-11-15T08:00:00.000Z</published>
@@ -211,7 +213,7 @@ Unfortunately, the story that Mike tells isn't complete yet, because custom item
 My first programming experience was Applesoft Basic on an Apple II+ (my mom asked if I wanted an Apple //e, but I thought that 80 columns and lower case was just a fad : ). During high school, I spent 4 years as a full-time Basic programmer (only attending school during the day). And, like all Basic programmers seem to, I was writing database applications (to track my D&amp;D characters, of course!).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12515</id>
+    <id>https://csells.github.io/sb6/12515</id>
     <title>My First Meeting with BillG's Technical Advisor</title>
     <updated>2003-11-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

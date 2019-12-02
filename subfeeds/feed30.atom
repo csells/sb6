@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed30.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed30.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed29.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed31.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed30.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed29.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed31.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed30.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1990</id>
+    <id>https://csells.github.io/sb6/1990</id>
     <title>Google's 2-day interview process</title>
     <updated>2006-05-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;P>Wow. &lt;A href="http://www.shmula.com/?p=31">Two days of interviews for a contracting position at Google&lt;/A>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1989</id>
+    <id>https://csells.github.io/sb6/1989</id>
     <title>Post an Amazon review and you get my royalties</title>
     <updated>2006-05-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -56,7 +58,7 @@
 &lt;P>The first five reviewers also get signed copies shipped to their home (I'll get Mike to sign it, too). Again, the email needs to be in the post.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12462</id>
+    <id>https://csells.github.io/sb6/12462</id>
     <title>The Sells Brothers Meet the Edwards Brothers</title>
     <updated>2006-05-19T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/eb1.jpg"/>
@@ -67,7 +69,7 @@
 &lt;p align="left">Years ago, &lt;a href="http://www.pluralsite.com/blogs/tewald/default.aspx">Tim Ewald&lt;/a> made an off-handed comment about how cool the real book printing process was and that I should take the boys to see it if I ever got the chance. Two weeks ago, we got the change and this is what we saw.&lt;/p>&lt;p align="left">The printer for &lt;a href="http://www.amazon.com/gp/product/0321267966/">Windows Forms 2.0 Programming&lt;/a> was &lt;a href="http://www.edwardsbrothers.com/">Edwards Brothers, Inc.&lt;/a> in Ann Arbor, MI. The boys and I took the 8pm flight from Portland, OR to Vegas, then the 11pm flight to Detroit, arriving at 6am, having gotten about 3 hours of sleep during the flight (the boys first redeye!). On the way out the door, we'd been a little rushed (I was trying to finish off the flooring in the new laundry room so that Melissa could have her washer and drier back after its long absence during the renovations), so had left all of the carefully prepared contact info and directions sitting in my office, meaning that the first thing we had to do was to sit in the airport near a hotspot and download driving directions. This and a trip to the restroom for a teeth brushing and a fresh shirt and we had caught our 2nd wind.&lt;/p>&lt;p align="left">We picked up our car and had a very pleasant trip to Ann Arbor, where we stopped at Mike's Coney Island for pancakes and omelets (I had the pancakes and my youngest surprised the hell out of me by ordering an omelet -- they grow up so fast!). We arrived at Edwards Brothers around 7:30a (in some time zone) and learned that they had been in business for a little while longer than Sells Brothers, Inc:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb1.jpg" width="751" height="271">&lt;/p>&lt;p align="left">Unfortunately, we'd arrived before our escort, the very lovely Ms. Cindy Rohraff, so she caught us napping in the parking lot around 8am. Still, as we entered the lobby, it was clear that they were as excited to show us around their operation as we were to be there:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb2.jpg" width="558" height="419">&lt;/p>&lt;p align="left">After Cindy purchased caffeinated sodas (Microsoft has spoiled me enough that I hadn't come prepared to actually *purchase* sodas...), we began our tour and the first thing we saw was a big basket of the rejected bits of my book:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb7.jpg" width="486" height="374">&lt;/p>&lt;p align="left">As it turns out, these bits weren't rejected on content, but rather on printing quality. &amp;lt;whew&amp;gt;&lt;/p>&lt;p align="left">The size of the printing floor is enormous. It felt like 4+ football fields in there and I'm sure I saw at least 50 different books in various stages of production. In this picture of the boys and Daryl (in charge of printing our job), you can get some small sense of the size of the place:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb13.jpg" width="672" height="504">&lt;/p>&lt;p align="left">For all those jobs, Edwards Brothers employees are constantly throwing away covers, inserts and &amp;quot;signatures&amp;quot; (bundles of pages that get stuck together to produce a book) that don't meet their quality standards. In fact, I saw one guy throwing away what must've been 100 freshly printed book covers because he'd examined one of them with a magnifying glass and found a flaw. These guys are serious.&lt;/p>&lt;p align="left">Next, we found our way to the input end of the printer, where they feed in 2-ton rolls of paper:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb8.jpg" width="492" height="399">&lt;/p>&lt;p align="left">If you look closely, you'll see that their are two rolls of paper connected here. Only one is fed through at a time, but when the first is out, the 2nd is spliced in automatically without ever slowing down the printing process, providing a virtual infinitely long roll of paper. A cache of paper is kept on rollers to enable the time it takes to splice:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb9.jpg" width="401" height="439">&lt;/p>&lt;p align="left">When the splice happens, the rollers at the top and the bottom (not shown) get close together as the cache is used up and then after the splice, the rollers expand again as the cache fills up. That's not to say that the printer doesn't stop at all. When it's running, the paper goes through the process so fast, the words and images are a blur, but whenever there's a problem, the process grinds to a halt and restarts w/o issue.&lt;/p>&lt;p align="left">After the cache, the paper feeds into the printing machine (or machines, depending on how many colors the output needs):&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb6.jpg" width="672" height="504">&lt;/p>&lt;p align="left">and comes out all printed:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb10.jpg" width="672" height="504">&lt;/p>&lt;p align="left">The printing itself happens with ink that's been spread over thin metal plates containing the laser-etched images of the book in 48 page sets, one plate for each side. The paper goes through the printer between the two plates. Here you can see Daryl changing the plates:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb11.jpg" width="672" height="504">&lt;/p>&lt;p align="left">To support the ability to change the plates, the printer opens in the middle with hand cranks, which Daryl let the boys operate:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb12.jpg" width="672" height="504">&lt;/p>&lt;p align="left">Daryl was one of the long list of people that bent over backwards to show us around and explain to us the process (Thanks, Daryl!). The plates themselves are shown here:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb15.jpg" width="672" height="504">&lt;/p>&lt;p align="left">After the pages are printed, they're rolled and cooled to set the ink:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb14.jpg" width="672" height="504">&lt;/p>&lt;p align="left">After the ink is set, the paper goes into a machine that cuts it and turns it along three separate paths (you can see one of the paths continue over the top of the cutter):&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb16.jpg" width="672" height="504">&lt;/p>&lt;p align="left">Each path of paper is routed through a folding and bundling machine:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb18.jpg" width="672" height="504">&lt;/p>&lt;p align="left">Once out of the bundling machine, the bundles are gathered together:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb19.jpg" width="672" height="504">&lt;/p>&lt;p align="left">compressed (losslessly):&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb20.jpg" width="672" height="504">&lt;/p>&lt;p align="left">and stacked on pallets in sections (my book had 27 sections) for transport to the bundling department:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb21.jpg" width="464" height="431">&lt;/p>&lt;p align="left">In my case, the cover:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb22.jpg" width="488" height="419">&lt;/p>&lt;p align="left">and the color insert:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb23.jpg" width="501" height="372">&lt;/p>&lt;p align="left">were printed by another vendor, but Edwards Brothers is fully capable of printing these elements. In fact, my book is pretty trivial compared to the tricks that the EB folks can do. I think next time, I'll ask for a two-part cloth-bound hardcover with stained edges just to test 'em. : )&lt;/p>&lt;p align="left">All 6500 copies were printed in one day and stacked over in the binding section of the printing plant (and again, notice the size of this place):&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb24.jpg" width="672" height="504">&lt;/p>&lt;p align="left">All of the sections were then stacked into the collating machine:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb25.jpg" width="737" height="869">&lt;/p>&lt;p align="left">After this, my batteries ran out of power temporarily (they helpful staff at EB replaced 'em for me), so I can't show you pictures, but once the books are collated and the spines bathed in glue at two temperatures (275 and 300 degrees Fahrenheit), the covers were attached and crimped and the books given &amp;quot;the wheel treatment&amp;quot; as they exited the machine on their way to the cutter:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb26.jpg" width="800" height="600">&lt;/p>&lt;p align="left">The cutter was this very scary machine they called &amp;quot;the guillotine&amp;quot; and&amp;nbsp; was able to cut all three edges of my 1000 page book in a single slice and then stack the books into neat piles:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb27.jpg" width="800" height="600">&lt;/p>&lt;p align="left">Not all the books survive the trip through the cutter (much like a real guillotine):&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb28.jpg" width="639" height="431">&lt;/p>&lt;p align="left">Once the books have been trimmed, they're boxed and put on a conveyer to the shipping department. The shippers are responsible for lifting every single book (I apologized for my wordiness) and putting them onto palettes that are wrapped in plastic and hoisted by forklift:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb29.jpg" width="672" height="504">&lt;/p>&lt;p align="left">The forklift stacks each palette in the warehouse for shipping:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb30.jpg" width="672" height="504">&lt;/p>&lt;p align="left">That's not all. The little bits of paper that were the edges of my book and the low quality copies are shredded and compressed into giant chunks:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb31.jpg" width="521" height="504">&lt;/p>&lt;p align="left">Like the books, the cubes of paper are stacked in the warehouse for shipping:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb32.jpg" width="564" height="504">&lt;/p>&lt;p align="left">The waste paper is shipped off to a recycler for use in other books, whereas the books themselves are shipped to distributors, like Amazon, Borders and Barnes &amp;amp; Noble. By now, the first of the pre-orders should be being fulfilled. The ones that aren't sent off for sale are given to vain authors that need a physical manifestation of their work to really understand the amount of time and energy that goes into producing their book:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/eb33.jpg" width="982" height="762">&lt;/p>&lt;p align="left">Special thanks go to Cindy, who was our most gracious hostess and to the staff and management of Edwards Brothers, Inc, for their work in producing such a high quality product. I also have to thank the boys for their infinite patience in indulging their father traveling to the middle west of our country to hang out amongst the stacks and stacks of books in progress. And, of course, thanks go to the readers. I hope you enjoy reader the book as much as I enjoyed working on it.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1988</id>
+    <id>https://csells.github.io/sb6/1988</id>
     <title>WinForms 2.0 book @ the printer</title>
     <updated>2006-05-19T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -79,7 +81,7 @@
 &lt;P>&lt;IMG height=381 src="/public/spout/eb33.jpg" width=491>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1986</id>
+    <id>https://csells.github.io/sb6/1986</id>
     <title>Code Monkey: The Song</title>
     <updated>2006-05-12T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -89,7 +91,7 @@
 &lt;P>Check out &lt;A href="http://www.jonathancoulton.com/mp3/Code%20Monkey.mp3">the Code Monkey mp3&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1987</id>
+    <id>https://csells.github.io/sb6/1987</id>
     <title>A C# Bedtime Story Updated for C# 2.0</title>
     <updated>2006-05-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -100,7 +102,7 @@
 &lt;P>Seeing a reference to &lt;a href="/public/writing/delegates.htm">A C# Bedtime Story&lt;/A> as a generic definition for .NET delegates in a recent DDJ article inspired me to post &lt;a href="/public/writing/delegates.htm">the new and improved version&lt;/A> that takes into account C# 2.0's anonymous delegate support. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1985</id>
+    <id>https://csells.github.io/sb6/1985</id>
     <title>ATL Internals, 2e, available for pre-order</title>
     <updated>2006-05-09T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -115,7 +117,7 @@
 &lt;P>Another class of developers that inhabit downtown Windows city aren't touched by tornados and barely notice them when they happen. These are the ones shipping applications that have to run fast and well on Windows 95 on up, that don't have the CPU or the memory to run a .NET application or the bandwidth to download the .NET Framework even if they wanted to. These are the ones who also have to squeeze the maximum out of server machines, to take advantage of every resource that's available. These are the ones who don't have the luxury of the CPU, memory or storage resources provided by the clear weather of modern machines needed for garbage collection, just-in-time compilation, or a giant class library filled with things they don't need. These developers value load time, execution speed, and direct access to the platform in rain, sleet, or dark of night. For them, any framework they use must have a strict policy when it comes to zero-overhead for features they don't use, maximum flexibility for customization, and hard-core performance. For these developers, there's &lt;STRONG>ATL 8, the last, best native framework for the Windows platform&lt;/STRONG>.&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1984</id>
+    <id>https://csells.github.io/sb6/1984</id>
     <title>There's a Windows "Brat Pack?!?"</title>
     <updated>2006-05-07T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -125,7 +127,7 @@
 &lt;P>Not only does Amazon.com have &lt;A href="http://www.amazon.com/exec/obidos/ASIN/B00006GM0G/">a traffic ranking for sellsbrothers.com&lt;/A>&amp;nbsp;(80,616 -- this number sounds too high to be good : ), but there's a web site review claiming that I'm one of the "Windows Brat Pack." I have to associate with Anthony Michael Hall or Rob Lowe from &lt;A href="http://www.thebratpacksite.com/">this bunch&lt;/A>&amp;nbsp;(they seem the most geeky), but them who's Don and who's Tim? Definitely, Ted Pattison is Judd Nelson...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1983</id>
+    <id>https://csells.github.io/sb6/1983</id>
     <title>CSD Wants You</title>
     <updated>2006-05-05T07:00:00.000Z</updated>
     <published>2006-05-05T07:00:00.000Z</published>
@@ -135,7 +137,7 @@
 &lt;P>&lt;STRONG>&lt;FONT color=#ff0000>Mail something interesting to &lt;/FONT>&lt;/STRONG>&lt;A href="mailto:csdjobs@microsoft.com">&lt;STRONG>&lt;FONT color=#ff0000>csdjobs@microsoft.com&lt;/FONT>&lt;/STRONG>&lt;/A>&lt;STRONG>&lt;FONT color=#ff0000> to apply today.&lt;/FONT>&lt;/STRONG>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1982</id>
+    <id>https://csells.github.io/sb6/1982</id>
     <title>Rory on Windows Mobile Dev. @ PADNUG Tonight</title>
     <updated>2006-04-26T07:00:00.000Z</updated>
     <published>2006-04-26T07:00:00.000Z</published>
@@ -144,7 +146,7 @@
 &lt;A href="http://richhubbins.theclaussens.com/2006/04/26/AprilPADNUGMeeting.aspx">Rory's giving a PADNUG talk on Windows Mobile Development&lt;/A> in Beaverton, Oregon tonight. Should be tons o' fun.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1981</id>
+    <id>https://csells.github.io/sb6/1981</id>
     <title>Visual Studio Express Editions Free4Ever</title>
     <updated>2006-04-20T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -154,7 +156,7 @@
 &lt;P>&lt;A href="http://blogs.msdn.com/danielfe/archive/2006/04/19/579109.aspx">Top-notch tools at rock-bottom prices&lt;/A>. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1980</id>
+    <id>https://csells.github.io/sb6/1980</id>
     <title>WinForms 2.0 book just about ready</title>
     <updated>2006-04-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -169,7 +171,7 @@
 &lt;P>&lt;FONT color=#ff0000>&lt;A href="http://www.amazon.com/gp/product/0321267966">Windows Forms 2.0 Programming&lt;/A> is supposed to be printed the first week of May, so you should &lt;/FONT>&lt;A href="http://www.amazon.com/gp/product/0321267966">&lt;FONT color=#ff0000>&lt;STRONG>order yours today!&lt;/STRONG>&lt;/FONT>&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1978</id>
+    <id>https://csells.github.io/sb6/1978</id>
     <title>Gengis for .NET 2.0</title>
     <updated>2006-03-29T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -193,7 +195,7 @@
 &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1979</id>
+    <id>https://csells.github.io/sb6/1979</id>
     <title>Tell me about your troubles and woes configuring, deploying and maintaining distributed .NET apps</title>
     <updated>2006-03-29T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -205,7 +207,7 @@
 &lt;P>Use this as an opportunity to vent &amp;#8211; don&amp;#8217;t hold back. Remember: the life you save may be your own&amp;#8230;&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1977</id>
+    <id>https://csells.github.io/sb6/1977</id>
     <title>I'm with Scott -- I Love Monad</title>
     <updated>2006-03-26T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

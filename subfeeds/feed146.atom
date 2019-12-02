@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed146.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed146.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed145.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed147.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed146.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed145.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed147.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed146.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/380</id>
+    <id>https://csells.github.io/sb6/380</id>
     <title>New Year's Resolutions</title>
     <updated>2003-01-08T08:00:00.000Z</updated>
     <published>2003-01-08T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="/12565">Here&lt;/a>. I take a look back at 2002 and a look forward into 2003 for me and the site.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/379</id>
+    <id>https://csells.github.io/sb6/379</id>
     <title>Ask The Wonk Goes Live</title>
     <updated>2003-01-08T08:00:00.000Z</updated>
     <published>2003-01-08T08:00:00.000Z</published>
@@ -50,7 +52,7 @@
 &lt;a href="/askthewonk">Here&lt;/a>. Due to popular demand, I've provided a subscription-based Q&amp;A forum. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12565</id>
+    <id>https://csells.github.io/sb6/12565</id>
     <title>New Year's Resolution</title>
     <updated>2003-01-08T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -111,7 +113,7 @@ year, I have the following goals:&lt;/p>&lt;ul>&lt;li>Make &lt;a href="/askthewo
 year, especially on those last two.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/378</id>
+    <id>https://csells.github.io/sb6/378</id>
     <title>What is Disconnected Data Architecture?</title>
     <updated>2003-01-07T08:00:00.000Z</updated>
     <published>2003-01-07T08:00:00.000Z</published>
@@ -122,7 +124,7 @@ From Sergey Kostrov ( SergeyKostrov@hotmail.com ): What is Disconnected Data Arc
 I've taken this term from .NET SDK documentation. Unfortinately, explanation of this term is a little bit unclear.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/377</id>
+    <id>https://csells.github.io/sb6/377</id>
     <title>Conferences Re-Tooled for .NET?</title>
     <updated>2003-01-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -138,7 +140,7 @@ PhoneCons are spread over 8 weeks to give you time to absorb the conference info
 Best of all, you get to conduct conversations with leading .NET experts as well as your fellow attendees, offering a 'virtual hallway' before, during, and after each session!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/376</id>
+    <id>https://csells.github.io/sb6/376</id>
     <title>DLL Help Database</title>
     <updated>2003-01-02T08:00:00.000Z</updated>
     <published>2003-01-02T08:00:00.000Z</published>
@@ -151,7 +153,7 @@ Best of all, you get to conduct conversations with leading .NET experts as well 
 What's DLL Hell? ;)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/375</id>
+    <id>https://csells.github.io/sb6/375</id>
     <title>Apps Are People, Too</title>
     <updated>2003-01-02T08:00:00.000Z</updated>
     <published>2003-01-02T08:00:00.000Z</published>
@@ -160,7 +162,7 @@ What's DLL Hell? ;)</content>
 &lt;a href="/12566">Here&lt;/a>. My dream to secure wahoo.exe instead of wahoo.exe users and how long we've got to go to realize that dream.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12566</id>
+    <id>https://csells.github.io/sb6/12566</id>
     <title>Apps Are People, Too</title>
     <updated>2003-01-02T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/wahoo_top_10.JPG"/>
@@ -243,7 +245,7 @@ precious little else, which makes it darn hard to treat apps like the
 independent entities into which they're evolving.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/374</id>
+    <id>https://csells.github.io/sb6/374</id>
     <title>"When I first heard about .NET, I held my nose"</title>
     <updated>2002-12-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -253,7 +255,7 @@ independent entities into which they're evolving.&lt;/p></content>
 &lt;a href="http://www.usatoday.com/tech/techreviews/2002/4/22/spotlight.htm">Here&lt;/a>. I did an interview a long time ago and just noticed that my most fun quotes were actually printed in USAToday. Cool!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/373</id>
+    <id>https://csells.github.io/sb6/373</id>
     <title>Xopus.NET</title>
     <updated>2002-12-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -265,7 +267,7 @@ independent entities into which they're evolving.&lt;/p></content>
 Xopus is an opensource browser based WYSIWYG xml / xsl based editor that works natively in IE 5.5+ / Mozilla 1.3+ / Netscape 7+. Pretty cool stuff.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/372</id>
+    <id>https://csells.github.io/sb6/372</id>
     <title>CodeSmith Beta</title>
     <updated>2002-12-29T08:00:00.000Z</updated>
     <published>2002-12-29T08:00:00.000Z</published>
@@ -276,7 +278,7 @@ Xopus is an opensource browser based WYSIWYG xml / xsl based editor that works n
 This looks like a promising code-gen tool, and I've seen more than my share...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/371</id>
+    <id>https://csells.github.io/sb6/371</id>
     <title>.NET Wrappers for NVIDIA's Cg API</title>
     <updated>2002-12-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -286,7 +288,7 @@ This looks like a promising code-gen tool, and I've seen more than my share...</
 &lt;a href="http://www.exocortex.org/cg">Here&lt;/a>. From Ben Houston: This simple wrapper, written in Managed C++, allows for developers to make use of NVIDIA's new Cg shader language from within a C# or VB.NET application.  It is simple to use with existing OpenGL wrappers such as Llyod Dupond's CsGL.  A sample application that makes use of OpenGL and Cg via C#, ExoEngine, is available for download on the same site.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/370</id>
+    <id>https://csells.github.io/sb6/370</id>
     <title>ADO.NET PowerToys</title>
     <updated>2002-12-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -304,7 +306,7 @@ This looks like a promising code-gen tool, and I've seen more than my share...</
 Shawn says that contributions are welcome.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/369</id>
+    <id>https://csells.github.io/sb6/369</id>
     <title>Keep On Cookin'</title>
     <updated>2002-12-20T08:00:00.000Z</updated>
     <published>2002-12-20T08:00:00.000Z</published>
@@ -313,7 +315,7 @@ Shawn says that contributions are welcome.</content>
 &lt;a href="/12567">Here&lt;/a>. Encouragement for the experiment-based lifestyle.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/368</id>
+    <id>https://csells.github.io/sb6/368</id>
     <title>DirectX 9.0 Release with .NET Support</title>
     <updated>2002-12-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

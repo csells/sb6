@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed164.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed164.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed163.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed165.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed164.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed163.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed165.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed164.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/115</id>
+    <id>https://csells.github.io/sb6/115</id>
     <title>Autonomy.NET</title>
     <updated>2002-06-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -50,7 +52,7 @@
 "o Is fully configurable via an XML file"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/113</id>
+    <id>https://csells.github.io/sb6/113</id>
     <title>The Death of TCP/IP: Palladium</title>
     <updated>2002-06-27T07:00:00.000Z</updated>
     <published>2002-06-27T07:00:00.000Z</published>
@@ -61,7 +63,7 @@
 From what I know of the technologists at MS, I believe that Palladium will actually be a good thing. Watch-dogs like Cringely will help to make sure that it is.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/114</id>
+    <id>https://csells.github.io/sb6/114</id>
     <title>Where Do You Find the Time?</title>
     <updated>2002-06-27T07:00:00.000Z</updated>
     <published>2002-06-27T07:00:00.000Z</published>
@@ -70,7 +72,7 @@ From what I know of the technologists at MS, I believe that Palladium will actua
 &lt;a href="/12580">Here&lt;/a>. "Real software engineering has so little to do with actual technology, it's kinda sad. I'm lucky. I only have to do the technology part. My question is, how do people with full-time jobs find the time to learn the technology?"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/112</id>
+    <id>https://csells.github.io/sb6/112</id>
     <title>Sun joins Microsoft on Web services security</title>
     <updated>2002-06-27T07:00:00.000Z</updated>
     <published>2002-06-27T07:00:00.000Z</published>
@@ -81,7 +83,7 @@ From what I know of the technologists at MS, I believe that Palladium will actua
 As great as this announcement is, I have my doubts as to whether it will last. Sun and MS don't seem to like to play together.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/111</id>
+    <id>https://csells.github.io/sb6/111</id>
     <title>CoolBars.NET v. 1.1 released</title>
     <updated>2002-06-27T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -101,7 +103,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 -SDI and MDI support."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12580</id>
+    <id>https://csells.github.io/sb6/12580</id>
     <title>Where Do You Find the Time?</title>
     <updated>2002-06-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -141,7 +143,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/110</id>
+    <id>https://csells.github.io/sb6/110</id>
     <title>Creating a Design Surface in .NET</title>
     <updated>2002-06-26T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -151,7 +153,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="http://msdn.microsoft.com/library/?url=/library/en-us/dndotnet/html/designsurface.asp">Here&lt;/a>. "Techniques used to create a GDI+-based design surface for the user to create and position various graphic elements within a Windows Forms control in Microsoft .NET. Includes downloadable sample code."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/109</id>
+    <id>https://csells.github.io/sb6/109</id>
     <title>Final call for web services sessions/speakers</title>
     <updated>2002-06-26T07:00:00.000Z</updated>
     <published>2002-06-26T07:00:00.000Z</published>
@@ -160,7 +162,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="/public/conference/">Here&lt;/a>. The current set of potential sessions and speakers for the Web Services DevCon East, October 10-11 in Boston is up. If you'd like to present, please send a title and abstract ASAP to csells@sellsbrothers.com.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/106</id>
+    <id>https://csells.github.io/sb6/106</id>
     <title>Shared Source CLI Update</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -170,7 +172,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="http://msdn.microsoft.com/downloads/default.asp?URL=/downloads/sample.asp?url=/msdn-files/027/001/901/msdncompositedoc.xml">Here&lt;/a>. "This beta refresh continues the Rotor team's commitment to our growing community and we are very excited to watch the community develop and the source base evolve in new directions.  There have been more than 30,000 downloads of the Shared Source CLI to date.  I encourage you to download the latest Shared Source CLI archive and explore the possibilities it presents.  Follow the links from the download page to explore the growing community."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/103</id>
+    <id>https://csells.github.io/sb6/103</id>
     <title>Objects vs. XML aka LISP and How History Repeats I</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <published>2002-06-25T07:00:00.000Z</published>
@@ -179,7 +181,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="http://aspn.activestate.com/ASPN/Mail/Message/xml-dev/1257759">Here&lt;/a>. My Objects vs. XML rant drew some attention on the XML-DEV mailing list. This is a summary of that attention.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/102</id>
+    <id>https://csells.github.io/sb6/102</id>
     <title>XML &amp; Inclusion</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <published>2002-06-25T07:00:00.000Z</published>
@@ -188,7 +190,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="/12581">Here&lt;/a>. "I just read your 'Object vs. XML' post on the spout and I'd be pleased if you would allow me to respond with my own personal spoutlet. Here goes:"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/101</id>
+    <id>https://csells.github.io/sb6/101</id>
     <title>The New Don Box Home Page</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <published>2002-06-25T07:00:00.000Z</published>
@@ -197,7 +199,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 &lt;a href="http://www.gotdotnet.com/team/dbox/">Here&lt;/a>. I think this one will stick for a while. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12581</id>
+    <id>https://csells.github.io/sb6/12581</id>
     <title>XML &amp; Inclusion</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -252,7 +254,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/105</id>
+    <id>https://csells.github.io/sb6/105</id>
     <title>&lt;h1>Gen&lt;X> will be open-sourced&lt;/h1></title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <published>2002-06-25T07:00:00.000Z</published>
@@ -263,7 +265,7 @@ As great as this announcement is, I have my doubts as to whether it will last. S
 [ed: Wahoo!]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/104</id>
+    <id>https://csells.github.io/sb6/104</id>
     <title>Longhorn Will Be Major, Innovative Windows Release</title>
     <updated>2002-06-25T07:00:00.000Z</updated>
     <published>2002-06-25T07:00:00.000Z</published>

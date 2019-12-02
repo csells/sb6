@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed43.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed43.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed42.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed44.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed43.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed42.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed44.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed43.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1802</id>
+    <id>https://csells.github.io/sb6/1802</id>
     <title>Col. Jessup on the .NET Performance Team</title>
     <updated>2005-06-09T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -44,7 +46,7 @@
 &lt;P>&lt;EM>"We use words like L2, swaps, and working set. We use these words as the backbone of a life spent defending something. You use them as a punchline."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1800</id>
+    <id>https://csells.github.io/sb6/1800</id>
     <title>Career Path for Developers?</title>
     <updated>2005-06-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -59,7 +61,7 @@
 &lt;P>Your malaise-related questions are good ones, too. It seems like you've identified a bunch of "problems" in the IT industry. You've got two ways to handle this problem: ranting or doing something about it. You've done the former. Maybe you'd like to put on your "start-up" goggles where "problem" == "opportunity," bring some of your friends along and roll up your sleeves? Are you brave enough to risk the kid's college fund to follow your heart? I've done it a coupla times and there's nothing like it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1801</id>
+    <id>https://csells.github.io/sb6/1801</id>
     <title>Q: What is "funding the clubbing of baby seals?"</title>
     <updated>2005-06-07T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -70,7 +72,7 @@
 &lt;P>I bet they don't have &lt;EM>that&lt;/EM> reason in their script! : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1799</id>
+    <id>https://csells.github.io/sb6/1799</id>
     <title>@this freaked me out</title>
     <updated>2005-06-06T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -82,7 +84,7 @@
 &lt;P>It freaked me out, but it's completely legal and kinda cool...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1798</id>
+    <id>https://csells.github.io/sb6/1798</id>
     <title>More Skype Love</title>
     <updated>2005-06-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -101,7 +103,7 @@
 &lt;P>Would it be too much to ask that one app do all of this well? Do I really need 6 different apps?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1797</id>
+    <id>https://csells.github.io/sb6/1797</id>
     <title>Realistic Conference Expectations</title>
     <updated>2005-06-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -124,7 +126,7 @@
 &lt;P>That's why I really love the idea of &lt;A href="http://www.groktalk.net/">groktalks&lt;/A>. If you attend 3 groktalks instead of 1 regular talk, the chances of you finding an info trigger are 3x, while still keeping your networking and entertainment chances even.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1796</id>
+    <id>https://csells.github.io/sb6/1796</id>
     <title>IanG Interview on ServerSide.NET</title>
     <updated>2005-06-03T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -134,7 +136,7 @@
 &lt;P>&lt;A href="http://www.theserverside.net/talks/videos/IanGriffiths/interview.tss?bandwidth=dsl">See IanG&lt;/A>, my Avalon book co-author in crime, talk with Ted Neward about WinForms, Avalon and .NET. Nicely done.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1794</id>
+    <id>https://csells.github.io/sb6/1794</id>
     <title>Blogging is not marketing copy!</title>
     <updated>2005-05-31T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -146,7 +148,7 @@
 &lt;P>&lt;A href="http://integrate.factiva.com/search/article.asp?">Does anyone see a disconnect here?!?&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1795</id>
+    <id>https://csells.github.io/sb6/1795</id>
     <title>Every PC Should Have A Camera, Mic + Stylus</title>
     <updated>2005-05-31T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -160,7 +162,7 @@
 &lt;P>I don't mean that every computer needs to be a Tablet PC. Frankly, I'm not very productive on a computer that doesn't have a keyboard. But, I want to be able to sketch something right on my computer screen like a tablet can and instantly share it as I do so. Plus, and here's the rub, &lt;EM>I want everyone else to have a stylus, too&lt;/EM>. If they don't, they'll turn to the white board and I'm out of luck across the great divide.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1793</id>
+    <id>https://csells.github.io/sb6/1793</id>
     <title>URLs in the Footnotes?</title>
     <updated>2005-05-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@
 &lt;P>*Don't get me wrong. I'm a big shrinkster fan, else I wouldn't be dropping their links into my books at all.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1792</id>
+    <id>https://csells.github.io/sb6/1792</id>
     <title>IanG Builds a Real Magnifying Glass in Avalon</title>
     <updated>2005-05-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -191,7 +193,7 @@
 You've seen it in the concept videos, now see it for real: &lt;A href="http://www.interact-sw.co.uk/iangblog/2005/05/29/magnify">Ian has implemented a working magnifying glass in Avalon&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1791</id>
+    <id>https://csells.github.io/sb6/1791</id>
     <title>Darth Vader vs. Yoda?</title>
     <updated>2005-05-28T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -202,7 +204,7 @@ You've seen it in the concept videos, now see it for real: &lt;A href="http://ww
 &lt;P>P.S. I like that "Vader" is in my spelling dictionary. Lucas changed the world.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12472</id>
+    <id>https://csells.github.io/sb6/12472</id>
     <title>The Logic of Logic</title>
     <updated>2005-05-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -216,7 +218,7 @@ You've seen it in the concept videos, now see it for real: &lt;A href="http://ww
   Grandparents + Parents + Children = 20.&amp;nbsp;&lt;/pre>&lt;p align="left">Then I went on to regale Alex about the time my grandmother asked me to schedule her tennis tournament for her on my computer. She had requirements like, &amp;quot;everyone has to place everyone else at least once&amp;quot; and &amp;quot;you have to lose twice to be out of the tournament&amp;quot; and &amp;quot;nobody can play twice in a row&amp;quot; (it's not good politics for a computer program to kill old ladies...). My grandmother's problem statement doesn't fit the traditional algorithmic statements that I'm used to using computers for, nor was I ever able to re-form the problem in those terms (it's not like my grandma was ever going to leave me a bunch of money anyway...). Alex completely understood and informed me that the NBA has the same problem (with slightly sprier players) and they use logic programs to solve it. In fact, in his experience, these problems happen all the time in the business world.&lt;/p>&lt;p align="left">Constraint Logic Programs (CLPs) break down into constants, variables over ranges and relations of truth, which together make up the constraints in a logic system. In my son's case, the constants are the numbers, e.g. 3, 20, etc, the variables are the number of people of each type and the relations form the constraints, e.g. the sum of all people must be 20. The CLP &amp;quot;solver&amp;quot; (in Alex's parlance) provides the logic over a particular &amp;quot;domain&amp;quot; (real numbers in our case) and knows how to do all the iteration and forward and backward chaining to solve the people_at_the_meal problem. A different solver would be able to solve my grandmother's and the NBA's scheduling problem.&lt;/p>&lt;p align="left">It was only after most of this discussion that I realized that I recognized the syntax that Alex had produced: it was Prolog, a CLP language I had blocked. I had taken a Prolog course in it in college and absolutely hated it, but not because of the things that allowed me to solve these kinds of problems: that was great. The things I hated were all of the algorithmic things that I needed to be able to do that Prolog was terrible at, e.g. take input, product output, suck in facts from data external to the system (like the NBA player roster), etc. CLPs themselves are damn cool.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1789</id>
+    <id>https://csells.github.io/sb6/1789</id>
     <title>Studs from Microsoft</title>
     <updated>2005-05-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -227,7 +229,7 @@ You've seen it in the concept videos, now see it for real: &lt;A href="http://ww
 &lt;P>[via jj5 (would doesn't like people to know he exists, let alone link to him...)]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1790</id>
+    <id>https://csells.github.io/sb6/1790</id>
     <title>The Logic of Logic</title>
     <updated>2005-05-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

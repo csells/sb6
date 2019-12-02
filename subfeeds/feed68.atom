@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed68.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed68.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed67.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed69.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed68.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed67.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed69.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed68.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1455</id>
+    <id>https://csells.github.io/sb6/1455</id>
     <title>Don Norman Consulting on Longhorn?</title>
     <updated>2004-07-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 &lt;P>I love his characterization of client computers as "smart chips," i.e. storing services and data production on the server, although the "smarts" of the client is important, too, i.e. data visualization and manipulation (which is death with a round-trip per click).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1451</id>
+    <id>https://csells.github.io/sb6/1451</id>
     <title>A Kinder, Gentler Driver Model for Longhorn</title>
     <updated>2004-07-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -55,7 +57,7 @@
 &lt;P>[&lt;A href="http://ryangregg.com/archive/2004/07/19/981.aspx">via Dactylmatrix&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1452</id>
+    <id>https://csells.github.io/sb6/1452</id>
     <title>Jon Udell Takes The Long View on Longhorn</title>
     <updated>2004-07-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@
 &lt;P>However, while I don't agree with every that Jon says, but I do appreciate the thoroughness that went into his opinions. Folks involved in Longhorn, both inside and outside of Microsoft, should take a look.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1456</id>
+    <id>https://csells.github.io/sb6/1456</id>
     <title>My Favorite Smart Client App: Robocopy</title>
     <updated>2004-07-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@
 &lt;P>Slap a friendlier UI on Robocopy and you've got a wonderful smart client citizen that should be emulated.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1449</id>
+    <id>https://csells.github.io/sb6/1449</id>
     <title>This is *so* the wrong direction...</title>
     <updated>2004-07-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -93,7 +95,7 @@
 I don't want to &lt;A href="http://slashdot.org/article.pl?sid=04/07/20/2226225">turn bits into atoms in 3-5 minutes to hold a book in my hand&lt;/A>, I want all my books, papers and mags in electronic format on a pleasant hardware platform! I'm planning on getting myself a tablet PC soon to test as a candidate (pocket/palm PCs sucked for this use the last I tried). Plus, where does the book data come from for all of these print-on-demand books and why can't I download it?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12384</id>
+    <id>https://csells.github.io/sb6/12384</id>
     <title>Questions for 
 Testers</title>
     <updated>2004-07-20T07:00:00.000Z</updated>
@@ -146,7 +148,7 @@ at Microsoft (Software Design Engineer in Test):&lt;/p>
 &lt;/blockquote></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1448</id>
+    <id>https://csells.github.io/sb6/1448</id>
     <title>Microsoft Interview Questions for Testers</title>
     <updated>2004-07-20T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -156,7 +158,7 @@ at Microsoft (Software Design Engineer in Test):&lt;/p>
 A friend of mine sent along &lt;A href="/12384">a whole set of questions he was asked for an SDE/T (Software Design Engineer in Test) position at Microsoft&lt;/A>. I love the one where you implement MAKE.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1446</id>
+    <id>https://csells.github.io/sb6/1446</id>
     <title>Tim Sneath On The Audiences And Tensions O MSBuild</title>
     <updated>2004-07-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -166,7 +168,7 @@ A friend of mine sent along &lt;A href="/12384">a whole set of questions he was 
 Tim Sneath, a .NET Architect in MS-UK, lays out the audiences and tensions of MSBuild very nicely in &lt;A href="http://blogs.msdn.com/tims/archive/2004/07/19/186946.aspx">this short summary&lt;/A>. If you want more information, &lt;A href="http://msdn.microsoft.com/longhorn/toolsamp/">there are a bunch of MSBuild resources on the Longhorn Developer Center's Tools &amp;amp; Code Samples&lt;/A> page.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1447</id>
+    <id>https://csells.github.io/sb6/1447</id>
     <title>Avalon 3D Coordinate System</title>
     <updated>2004-07-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -176,7 +178,7 @@ Tim Sneath, a .NET Architect in MS-UK, lays out the audiences and tensions of MS
 &lt;P>Daniel Lehenbauer, an SDE on the Avalon team, has &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/07/19/188075.aspx">a nice explanation of the 3D coordinate space in Avalon with some very illustrative pictures&lt;/A>. I've got absolutely no experience with 3D and I can follow what he's talking about. Looks like Daniel should be writing a book...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1445</id>
+    <id>https://csells.github.io/sb6/1445</id>
     <title>Channel9 Tours MSR H/W and Social S/W Labs</title>
     <updated>2004-07-19T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -186,7 +188,7 @@ Tim Sneath, a .NET Architect in MS-UK, lays out the audiences and tensions of MS
 I got a sneak preview of this last week and absolutely loved &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=14037">the Channel9 tour of the Microsoft Research hardware and social software labs&lt;/A>. The bit with the inventor of the laser printer, who works for MS now, is especially fun. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1444</id>
+    <id>https://csells.github.io/sb6/1444</id>
     <title>Refactoring C# Code Using Visual Studio 2005</title>
     <updated>2004-07-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -196,7 +198,7 @@ I got a sneak preview of this last week and absolutely loved &lt;A href="http://
 Cool piece by Andrew Troelsen on &lt;A href="http://msdn.microsoft.com/vcsharp/default.aspx?pull=/library/en-us/dnvs05/html/VS05_refac.asp">the new refactoring features in Visual Studio 2005 for C#&lt;/A>. Now I just have to train myself to think to use the refactoring operations instead of letting my fingers do it as they've been forced to for lo these many years...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1442</id>
+    <id>https://csells.github.io/sb6/1442</id>
     <title>Needed: Virtual PC Image of Longhorn 4074</title>
     <updated>2004-07-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -206,7 +208,7 @@ Cool piece by Andrew Troelsen on &lt;A href="http://msdn.microsoft.com/vcsharp/d
 Does anyone have a VPC image of Longhorn 4074 (the WinHEC Build) that they could share with me? Every time I try to install, it crashes the VPC. Normally, I wouldn't ask (I have a machine just for Longhorn), but I have the need to run the latest public and the latest internal builds. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1443</id>
+    <id>https://csells.github.io/sb6/1443</id>
     <title>General Windows Developer Numbers</title>
     <updated>2004-07-12T07:00:00.000Z</updated>
     <published>2004-07-12T07:00:00.000Z</published>
@@ -221,7 +223,7 @@ Does anyone have a VPC image of Longhorn 4074 (the WinHEC Build) that they could
 &lt;P>According the legend (JohnMont didn't comment on this part), 4-5M of those 6M developers targeting Windows are Visual Basic developers, which means that if they ever get tired of being made fun of by the C family of developers, we're going to be trapped in phone booths while they descend on us like the birds in &lt;A href="http://www.imdb.com/title/tt0056869/">an Alfred Hitchcock movie&lt;/A>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1441</id>
+    <id>https://csells.github.io/sb6/1441</id>
     <title>Looking for Genghis Co-Khan</title>
     <updated>2004-07-11T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -231,7 +233,7 @@ Does anyone have a VPC image of Longhorn 4074 (the WinHEC Build) that they could
 Right now, I'm holding &lt;A href="http://www.genghisgroup.com">the shared source Genghis library&lt;/A> back. I'm acting as sole arbiter of what makes it into Genghis and how and I'm not able to keep up with the flow. I'm looking for someone who's interested in sharing this duty with me. Only proven contributors to the Windows development community need apply.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1439</id>
+    <id>https://csells.github.io/sb6/1439</id>
     <title>I want Facetop for Longhorn</title>
     <updated>2004-07-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

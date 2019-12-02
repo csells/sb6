@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed138.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed138.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed137.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed139.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed138.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed137.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed139.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed138.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/495</id>
+    <id>https://csells.github.io/sb6/495</id>
     <title>Printer Margins, part 1 of 2</title>
     <updated>2003-04-10T07:00:00.000Z</updated>
     <published>2003-04-10T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1048094898724/">Here&lt;/a>. It turns out that WinForms provides page and margin bounds that don't take the physical limitations of the printer into account. Part 1 talks about how to get the real page bounds, even when previewing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/494</id>
+    <id>https://csells.github.io/sb6/494</id>
     <title>.NET Framework SDK Version 1.1</title>
     <updated>2003-04-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/496</id>
+    <id>https://csells.github.io/sb6/496</id>
     <title>Source Code to RegexDesigner .NET</title>
     <updated>2003-04-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -63,7 +65,7 @@
 &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">Here&lt;/a>. Due to popular demand, we've released the source code to RegexDesigner .NET in a GotDotNet workspace. We've also posted all the "issues" that we know about (and fixed the code generation problem), so this is a good release even if you're just a RegexD user. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/498</id>
+    <id>https://csells.github.io/sb6/498</id>
     <title>Visual Studio .NET 2003 now available</title>
     <updated>2003-04-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 From Keith Wedinger: It is now available as a download for MSDN Subscribers.  There are 3 versions:  Enterprise Architect, Enterprise Developer and Professional.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/493</id>
+    <id>https://csells.github.io/sb6/493</id>
     <title>IE RSS Aggregator</title>
     <updated>2003-04-10T07:00:00.000Z</updated>
     <published>2003-04-10T07:00:00.000Z</published>
@@ -82,7 +84,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 &lt;a href="http://www.managedcomponents.com/tools/ieRSSaggregator/ieRSSaggregator.htm">Here&lt;/a>. From Husein Choroomi: Just another RSS aggregator!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/490</id>
+    <id>https://csells.github.io/sb6/490</id>
     <title>XPath Querying Over Objects w/ XPathNavigator</title>
     <updated>2003-04-09T07:00:00.000Z</updated>
     <published>2003-04-09T07:00:00.000Z</published>
@@ -93,7 +95,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 [netcrucible.com/blog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/491</id>
+    <id>https://csells.github.io/sb6/491</id>
     <title>.NET v1.1 Changes from v1.0</title>
     <updated>2003-04-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -105,7 +107,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 [blogs.gotdotnet.com/brada]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/492</id>
+    <id>https://csells.github.io/sb6/492</id>
     <title>.NET Framework Version 1.1 Redistributable</title>
     <updated>2003-04-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -115,7 +117,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 &lt;a href="http://www.microsoft.com/downloads/details.aspx?familyid=262d25e3-f589-4842-8157-034d1e7cf3a3&amp;displaylang=en">Here&lt;/a>. And the hits, they keep on comin'...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/489</id>
+    <id>https://csells.github.io/sb6/489</id>
     <title>Floppy RAID : )</title>
     <updated>2003-04-08T07:00:00.000Z</updated>
     <published>2003-04-08T07:00:00.000Z</published>
@@ -124,7 +126,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 &lt;a href="http://ohlssonvox.8k.com/fdd_raid.htm">Here&lt;/a>. I love computers.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/488</id>
+    <id>https://csells.github.io/sb6/488</id>
     <title>New Acrobat does XML</title>
     <updated>2003-04-07T07:00:00.000Z</updated>
     <published>2003-04-07T07:00:00.000Z</published>
@@ -133,7 +135,7 @@ From Keith Wedinger: It is now available as a download for MSDN Subscribers.  Th
 &lt;a href="http://www.theregister.co.uk/content/4/30121.html">Here&lt;/a>. From Andrew Webb: good</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/487</id>
+    <id>https://csells.github.io/sb6/487</id>
     <title>Dot Net Blogger Feed</title>
     <updated>2003-04-05T08:00:00.000Z</updated>
     <published>2003-04-05T08:00:00.000Z</published>
@@ -150,7 +152,7 @@ If you just want a really good RSS feed for your own aggregator add this feed to
 http://www.activehead.com/DotNetWeblogs/rss/rss.xml</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/485</id>
+    <id>https://csells.github.io/sb6/485</id>
     <title>ORM.NET v1.4 - auto-generate an ADO.NET data layer</title>
     <updated>2003-04-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -170,7 +172,7 @@ www.olero.com/ormweb/index.aspx?mp=sells
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12559</id>
+    <id>https://csells.github.io/sb6/12559</id>
     <title>Oregon &amp; Open Source</title>
     <updated>2003-04-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -265,7 +267,7 @@ politician in me. I'm sure I could do at least as well as Jessie Ventura. : )&lt
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/486</id>
+    <id>https://csells.github.io/sb6/486</id>
     <title>Oregon &amp; Open Source</title>
     <updated>2003-04-04T08:00:00.000Z</updated>
     <published>2003-04-04T08:00:00.000Z</published>
@@ -274,7 +276,7 @@ politician in me. I'm sure I could do at least as well as Jessie Ventura. : )&lt
 &lt;a href="/12559">Here&lt;/a>. My testimony against the first state law to mandate that open source software be preferred over proprietary source software. Bottom line: I was against it and the chairman of the committee at the open hearings seemed to agree with me.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12649</id>
+    <id>https://csells.github.io/sb6/12649</id>
     <title>Testimony</title>
     <updated>2003-04-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

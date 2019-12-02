@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed49.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed49.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed48.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed50.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed49.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed48.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed50.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed49.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1718</id>
+    <id>https://csells.github.io/sb6/1718</id>
     <title>Super Friends + Office Space == Hilarity</title>
     <updated>2005-03-02T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -43,7 +45,7 @@
 &lt;P>[&lt;A href="http://weblogs.asp.net/shawnmor">via Shawn Morrissey&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1717</id>
+    <id>https://csells.github.io/sb6/1717</id>
     <title>Clemens Weekend with Indigo</title>
     <updated>2005-03-01T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -58,7 +60,7 @@
 &lt;P>Thanks for helping to make the world safe for messaging, Clemens! : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1716</id>
+    <id>https://csells.github.io/sb6/1716</id>
     <title>Tom's a Big Thinktecture Fan</title>
     <updated>2005-03-01T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -69,7 +71,7 @@
 &lt;P>I don't know how &lt;a href="/12337">Tom ended up with this shirt&lt;/A>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12337</id>
+    <id>https://csells.github.io/sb6/12337</id>
     <title>Tom's a Big Thinktecture Fan</title>
     <updated>2005-03-01T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/imagE_028.jpg"/>
@@ -87,7 +89,7 @@ ended up with this shirt...&lt;/p>
 &lt;p>&lt;i>cell phone picture&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1714</id>
+    <id>https://csells.github.io/sb6/1714</id>
     <title>2D and 3D Chess for Nov. '04 Avalon CTP</title>
     <updated>2005-02-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -97,7 +99,7 @@ ended up with this shirt...&lt;/p>
 Valentin Iliescu has updated his &lt;A href="http://www.valil.com/avalon/">2D and 3D Avalon Chess&lt;/A> for the November 2004 CTP. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1715</id>
+    <id>https://csells.github.io/sb6/1715</id>
     <title>Let MS make sure your .NET 1.x app run on .NET 2.0</title>
     <updated>2005-02-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@ Valentin Iliescu has updated his &lt;A href="http://www.valil.com/avalon/">2D an
 &lt;P>&lt;EM>&lt;STRONG>* "good chance" == chance &amp;gt; 0, no guarantees, some restrictions apply, void where prohibited, use at your own risk, blah, blah, blah...&lt;/STRONG>&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12478</id>
+    <id>https://csells.github.io/sb6/12478</id>
     <title>On Being Socially Re-engineered</title>
     <updated>2005-02-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -119,7 +121,7 @@ Valentin Iliescu has updated his &lt;A href="http://www.valil.com/avalon/">2D an
 &lt;p align="left">I do not consider myself weak-minded. For example, even though I've tried to let it happen, I've never been able to be hypnotized. Also, I'm often considered to be close-minded (although I do change my mind when valid arguments are presented, but most folks don't argue very well, I find). So, why did &lt;a href="#Death_As_A_Possible_Consequence">a terrible &amp;quot;High Risk Driver&amp;quot; course&lt;/a> change my driving habits?&lt;/p>&lt;p align="left">The course started as you'd expect: a room full of 18-25 year olds that did not want to show up anywhere on a Saturday morning, least of all at the local level 1 trauma center for 8+ hours of lecture. The main instructor was a high-energy trauma nurse that professed an vast personal experience with all things alcoholic. The traffic cop drove a motorcycle, which he made great pains to point out was the most dangerous vehicle to drive, and told a story about how he let a friend of his drive while they were both too tired in spite of his personal expertise in all matter of influence while driving, e.g. alcohol, drugs, cell phones, sleep deprivation, etc.&lt;/p>&lt;p align="left">Of course, there was the obligatory &amp;quot;Faces of Death&amp;quot; presentation through-out the day, but they were slides, not videos, so didn't compare to the movies I saw in driver's education class at age 16. Even the stories of the people in the pictures, while sad, seemed as much about capricious bad luck as about actual bad decision making. Some of the people from the stories even came to speak to us in their wheel chairs (except one guy that came in a suit and passed his business card around), but by far the most convincing and articulate of this bunch got his injury from a diving accident (that's &lt;i>diving&lt;/i> not &lt;i>driving&lt;/i>).&lt;/p>&lt;p align="left">The crowning event for the day was the tour of the trauma center itself. It was filled with people who'd suffered traumas, but the vast majority of them were there for non-traffic related injuries (unless you count the guy that rode a sled into a &lt;i>parked &lt;/i>car on the one day we had any snow this year). How looking at the new, state-of-the-art MRI machine or seeing nurses drink coffee on a raised platform in the middle of the room helped us learn to drive more carefully, I have no idea.&lt;/p>&lt;p align="left">And yet, despite my best efforts to avoid engaging with the materials of the class, I find that I am driving more carefully. I was always good at keeping my eyes on traffic and watching for kids and animals on the road, being quick to slow or swerve when necessary and rarely getting mad at the other drivers for bone-headed moves (unlike my wife, who curses every 3rd driver : ). However, now I find myself nearer the speed limit more often, sometimes under but always within 5 or 10 miles. And now, while I do still change lanes, it's most often when I'm behind something large that gets in line of sight and not to get ahead a car length of two.&lt;/p>&lt;p align="left">So, what changed my habits? It wasn't the lame course as a whole, but it might have been one or two moments. It might've been when the traffic cop, when asked for the most dangerous driving habits, listed speeding and aggressive driving, which I'd previously considered the least dangerous.&lt;/p>&lt;p align="left">It might've been the statistics. It's not like they showed many convincing statistics at all, but the mere fact that they had been giving this lame course 4-6 times/year for the last &lt;i>17 years&lt;/i> spoke to me about the need for some kind of intervention. Obviously, the sponsors of this course thought it was having some kind of effect, else why continue it?&lt;/p>&lt;p align="left">Or it might've been the company. I mean, their were some real losers in the room, including a 16-year old that admitted to a long list of bad decisions right out of your favorite gang movie. Frankly, to be lumped in with this crowd was just plain embarrassing.&lt;/p>&lt;p align="left">However, when all was said and done, I think it was the math. The traffic cop timed himself doing his 10-mile commute going the speed limit and going 15 miles over the speed limit. The difference w/ zero other traffic on the road? 2 minutes. Do I really need to engage in what are considered the most dangerous driving habits, risk my insurance, my car, my license, my life and the lives of the people around me for &lt;b>&lt;i>2 lousy minutes&lt;/i>&lt;/b>?!? That's a bet I can only lose.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1713</id>
+    <id>https://csells.github.io/sb6/1713</id>
     <title>On Being Socially Re-engineered</title>
     <updated>2005-02-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -129,7 +131,7 @@ Valentin Iliescu has updated his &lt;A href="http://www.valil.com/avalon/">2D an
 &lt;a href="/12478">Here&lt;/a>. The one where, despite my best efforts, &lt;a href="/12478">the lame "High Risk Driving" course actually changes my driving habits&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12380</id>
+    <id>https://csells.github.io/sb6/12380</id>
     <title>Scott Hanselman's Great .NET Developer Questions</title>
     <updated>2005-02-22T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -153,7 +155,7 @@ answer in an interview. He even splits it up into various categories, including:
 if I could cut Scott's mustard?&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1712</id>
+    <id>https://csells.github.io/sb6/1712</id>
     <title>The Convergence of Documents Media and Application</title>
     <updated>2005-02-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -164,7 +166,7 @@ if I could cut Scott's mustard?&lt;/p></content>
 &lt;P>The talk is at the TechVibes MASSIVE 2005 (clearly named by marketing folks : ), March 30th in Vancouver, BC. Drink a pint for me, eh? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1711</id>
+    <id>https://csells.github.io/sb6/1711</id>
     <title>I'm with Shawn -- Constantine was Good</title>
     <updated>2005-02-19T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -174,7 +176,7 @@ if I could cut Scott's mustard?&lt;/p></content>
 &lt;a href="http://adoguy.com/content.aspx?id=rantview&amp;rantid=177">Here&lt;/a>. After a movie dry spell that's lasted since Thanksgiving, &lt;A href="http://adoguy.com/content.aspx?id=rantview&amp;amp;rantid=177">I agree with Shawn&lt;/A> and was pleasantly surprised with &lt;A href="http://www.imdb.com/title/tt0360486/">Constantine&lt;/A>. I liked it enough that I'd see it again. It's not great, but it's good and the guy playing Satan is &lt;EM>fabulous&lt;/EM>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1709</id>
+    <id>https://csells.github.io/sb6/1709</id>
     <title>What's New in the VS05 Toolbox for Windows Apps</title>
     <updated>2005-02-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -184,7 +186,7 @@ if I could cut Scott's mustard?&lt;/p></content>
 Dino Esposito takes you on "a whistle-stop tour of &lt;A href="http://www.devx.com/codemag/Article/27094">the new controls slated for Windows Forms 2.0&lt;/A> to make writing code more productive and pleasant than ever." Woo-Woo! : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1710</id>
+    <id>https://csells.github.io/sb6/1710</id>
     <title>Building a Tabbed Browser with Windows Forms 2.0</title>
     <updated>2005-02-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -194,7 +196,7 @@ Dino Esposito takes you on "a whistle-stop tour of &lt;A href="http://www.devx.c
 Wei-Meng Lee shows you how to take advantage of the new web browser and control support in Windows Forms 2.0 to &lt;A href="http://www.devx.com/webdev/Article/27296">build a tabbed browser using Internet Explorer&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1703</id>
+    <id>https://csells.github.io/sb6/1703</id>
     <title>Joe's Codeless Avalon XAML Samples Updated</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -204,7 +206,7 @@ Wei-Meng Lee shows you how to take advantage of the new web browser and control 
 Joe Marini, has &lt;A href="http://www.joemarini.com/articles/xamlsamplesupdated20050215.php">updated his famous XAML-only Avalon samples&lt;/A> for the Nov. 2004 CTP. Thanks, Joe!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1707</id>
+    <id>https://csells.github.io/sb6/1707</id>
     <title>Windows Forms Threading Techniques</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

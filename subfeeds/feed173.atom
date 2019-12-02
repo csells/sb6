@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed173.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed173.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed172.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed174.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed173.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed172.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed174.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed173.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12372</id>
+    <id>https://csells.github.io/sb6/12372</id>
     <title>Bill's Money</title>
     <updated>2001-10-07T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -74,7 +76,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12600</id>
+    <id>https://csells.github.io/sb6/12600</id>
     <title>Flattery</title>
     <updated>2001-09-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -93,7 +95,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12430</id>
+    <id>https://csells.github.io/sb6/12430</id>
     <title>CorPub</title>
     <updated>2001-09-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -133,7 +135,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12601</id>
+    <id>https://csells.github.io/sb6/12601</id>
     <title>Give Comfort</title>
     <updated>2001-09-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -166,7 +168,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12602</id>
+    <id>https://csells.github.io/sb6/12602</id>
     <title>Q&amp;A: .NET Cross Language Inheritance?</title>
     <updated>2001-08-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -227,7 +229,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12603</id>
+    <id>https://csells.github.io/sb6/12603</id>
     <title>Conference.NET: Notes from the Field</title>
     <updated>2001-08-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -499,7 +501,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12640</id>
+    <id>https://csells.github.io/sb6/12640</id>
     <title>Don Gives a SOAP Talk</title>
     <updated>2001-08-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/tub2.JPG"/>
@@ -512,7 +514,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12627</id>
+    <id>https://csells.github.io/sb6/12627</id>
     <title>Centerfold</title>
     <updated>2001-08-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -526,7 +528,7 @@ Managed process 0x1ec: C:\PROGRA~1\MICROS~2.NET\FRAMEW~1\Bin\ildasm.exe
 naked! &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12619</id>
+    <id>https://csells.github.io/sb6/12619</id>
     <title>This Picture Needs a Caption</title>
     <updated>2001-08-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/ComIsLove.JPG"/>
@@ -549,7 +551,7 @@ href="mailto:csells@sellsbrothers.com?subject=I have a caption for your 'COM
 is Love' roller coaster picture!">Got one?&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12618</id>
+    <id>https://csells.github.io/sb6/12618</id>
     <title>Conference.NET Song Lyrics</title>
     <updated>2001-08-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -675,7 +677,7 @@ and the Feds... &lt;br>Bill G, Bill G, Bill G, Bill G and the Feds...
 Runtime&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12644</id>
+    <id>https://csells.github.io/sb6/12644</id>
     <title>Mr. June, 2000</title>
     <updated>2001-08-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/centerfold/sells_centerfold.jpg"/>
@@ -699,7 +701,7 @@ Runtime&lt;/i>&lt;/p></content>
     &lt;/center></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12432</id>
+    <id>https://csells.github.io/sb6/12432</id>
     <title>.NET XML Checker and Validator</title>
     <updated>2001-08-08T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -722,7 +724,7 @@ Runtime&lt;/i>&lt;/p></content>
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12433</id>
+    <id>https://csells.github.io/sb6/12433</id>
     <title>Setting the Completion Character</title>
     <updated>2001-08-07T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -752,7 +754,7 @@ Runtime&lt;/i>&lt;/p></content>
         by about 100% on the command line. I can't live without it!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12604</id>
+    <id>https://csells.github.io/sb6/12604</id>
     <title>What I Love Best About .NET</title>
     <updated>2001-08-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -820,7 +822,7 @@ Runtime&lt;/i>&lt;/p></content>
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12434</id>
+    <id>https://csells.github.io/sb6/12434</id>
     <title>NullScript Used to Reverse Engineer Gen&amp;lt;X&amp;gt;</title>
     <updated>2001-08-06T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed96.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed96.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed95.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed97.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed96.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed95.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed97.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed96.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1062</id>
+    <id>https://csells.github.io/sb6/1062</id>
     <title>MSBuild on MSDN TV</title>
     <updated>2004-01-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040122VSNETAK/manifest.xml">Here&lt;/a>. Alex Kipman, a Microsoft PM, talks about changing the VS.NET Whidbey build process using it's new build engine: MSBuild. If you're interested in batch building or extending your own build process, MSBuild is worth your attention.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1059</id>
+    <id>https://csells.github.io/sb6/1059</id>
     <title>Creating Drop Shadow Text in Avalon</title>
     <updated>2004-01-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://www.longhornblogs.com/ndunlap/archive/2004/01/21/2204.aspx">Here&lt;/a>. Nathan Dunlap posts another great example of Avalon effects. This time, he shows adding drop shadows to text in Avalon.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1060</id>
+    <id>https://csells.github.io/sb6/1060</id>
     <title>Setting DataGrid Styles for Custom Types</title>
     <updated>2004-01-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -68,7 +70,7 @@
 &lt;P>This wasn't bad at all to bind a DataGrid to exactly the properties of my Person objects that I want w/o having to hack another custom shim type or changing the Person type itself to accommodate the data binding. Thanks, Daniel!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1058</id>
+    <id>https://csells.github.io/sb6/1058</id>
     <title>A Gathering of Longhorn Code Samples</title>
     <updated>2004-01-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@
 &lt;P>Of course, &lt;A href="http://www.gotdotnet.com/community/usersamples/Upload1.aspx">you can post your sample on GotDotNet.com using the Longhorn category&lt;/A> and there are already &lt;A href="http://www.gotdotnet.com/community/usersamples/default.aspx?ProductDropDownList=Longhorn">a coupla GDN Longhorn samples for your edification&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1057</id>
+    <id>https://csells.github.io/sb6/1057</id>
     <title>Rory Blyth on the .NET Rocks! Internet Radio Show</title>
     <updated>2004-01-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -90,7 +92,7 @@
 &lt;a href="http://www.franklins.net/dotnetrocks/">Here&lt;/a>. I'm a big Rory Blyth fan, so I'm downloading this show as I type this. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1055</id>
+    <id>https://csells.github.io/sb6/1055</id>
     <title>More NStuff</title>
     <updated>2004-01-19T08:00:00.000Z</updated>
     <published>2004-01-19T08:00:00.000Z</published>
@@ -105,7 +107,7 @@
 &lt;P>Have I missed any?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1056</id>
+    <id>https://csells.github.io/sb6/1056</id>
     <title>WinFX in Detail: Inside XAML</title>
     <updated>2004-01-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -115,7 +117,7 @@
 &lt;a href="http://www.ondotnet.com/pub/a/dotnet/2004/01/19/longhorn.html">Here&lt;/a>. Ian Griffiths shows some of the basics of XAML, including complex properties and how code is generated and integrated behind the scenes.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1054</id>
+    <id>https://csells.github.io/sb6/1054</id>
     <title>Longhorn Articles in Italian</title>
     <updated>2004-01-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -125,7 +127,7 @@
 &lt;A href="http://www.devleap.com">Devleap.com&lt;/A>, a site dedicated to Windows development for Italian developers, has added &lt;A href="http://www.devleap.com/Default.aspx?IdCategoria=LONGHORN">a new Longhorn section&lt;/A>. Even though I can't read Italian, I like the idea of Longhorn articles in a language of romance. Read them with your sweetheart over a candle lit dinner. I know that's my plan. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1051</id>
+    <id>https://csells.github.io/sb6/1051</id>
     <title>Don's Questions Awaiting Answers</title>
     <updated>2004-01-17T08:00:00.000Z</updated>
     <published>2004-01-17T08:00:00.000Z</published>
@@ -134,14 +136,14 @@
 &lt;P>For those asking, I have sent off a selection of &lt;A href="/1016">our questions to Don&lt;/A>. Eating dinner with him last night, he said that the first three answers were "yes," "no" and "100." When he gets all the answers together, I'll post them here. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1053</id>
+    <id>https://csells.github.io/sb6/1053</id>
     <title>This Ain't a Technical Blog</title>
     <updated>2004-01-17T08:00:00.000Z</updated>
     <published>2004-01-17T08:00:00.000Z</published>
     <summary>Just so folks know, I feel no responsibility whatsoever to keep my postings on sellsbrothers.com to a specific topic. If I want to post my political views, I'll do so. If that bothers you, I suggest you unsubscribe now as complaints about the subject matter for my posts will fall on deaf ears. Also, there's an undoc'd feature on my site that might interest folks. I have topic-specific RSS feeds that correspond to the categories of topics that I post. For example, the Longhorn DevCenter Editor's Blog is fed ...</summary>
     <content type="html">&lt;h1>This Ain't a Technical Blog&lt;/h1>
 &lt;P>Just so folks know, I feel no responsibility whatsoever to keep my postings on sellsbrothers.com to a specific topic. If I want to post &lt;A href="/1047">my political views&lt;/A>, I'll do so. If that bothers you, I suggest you unsubscribe now as complaints about the subject matter for my posts will fall on deaf ears.&lt;/P>
-&lt;P>Also, there's an undoc'd feature on my site that might interest folks. I have topic-specific RSS feeds that correspond to the categories of topics that I post. For example, &lt;A href="http://msdn.microsoft.com/longhorn/community/edblog.aspx">the Longhorn DevCenter Editor's Blog&lt;/A> is fed from &lt;a href="feed.rss?category=longhorn">http://127.0.0.1:8080/news/rss2.aspx?category=longhorn&lt;/A>&amp;nbsp;so that only Longhorn-specific topics show up on that page.&amp;nbsp;If you'd like to form your own topic-specific RSS feed URL, I currently use the following categories:&lt;/P>
+&lt;P>Also, there's an undoc'd feature on my site that might interest folks. I have topic-specific RSS feeds that correspond to the categories of topics that I post. For example, &lt;A href="http://msdn.microsoft.com/longhorn/community/edblog.aspx">the Longhorn DevCenter Editor's Blog&lt;/A> is fed from &lt;a href="feed.rss?category=longhorn">https://csells.github.io/sb6/news/rss2.aspx?category=longhorn&lt;/A>&amp;nbsp;so that only Longhorn-specific topics show up on that page.&amp;nbsp;If you'd like to form your own topic-specific RSS feed URL, I currently use the following categories:&lt;/P>
 &lt;UL>
 &lt;LI>Tools&lt;/LI>
 &lt;LI>Longhorn&lt;/LI>
@@ -153,7 +155,7 @@
 &lt;P>However, I post a lot of stuff that's uncategorized and the only way to get that stuff is to subscribe to &lt;a href="feed.rss">the main RSS feed&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1052</id>
+    <id>https://csells.github.io/sb6/1052</id>
     <title>Glowing Image Effects in Avalon</title>
     <updated>2004-01-17T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -163,7 +165,7 @@
 &lt;a href="http://www.longhornblogs.com/rwlodarc/archive/2004/01/16/2167.aspx">Here&lt;/a>. Robert Wlodarczyk posts another sample dedicated to showing off the glowing image effects in Avalon. Sweet.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1049</id>
+    <id>https://csells.github.io/sb6/1049</id>
     <title>"Windows is cool again"</title>
     <updated>2004-01-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -175,7 +177,7 @@
 &lt;P>&lt;A href="http://msdn.com/longhorn">But I'm hardly unbiased. : )&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1050</id>
+    <id>https://csells.github.io/sb6/1050</id>
     <title>Avalon Image Effects Sample</title>
     <updated>2004-01-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -185,7 +187,7 @@
 Robert Wlodarczyk, a software engineer on the Avalon testing team, has posted &lt;A href="http://www.longhornblogs.com/rwlodarc/archive/2004/01/15.aspx">a most excellent sample&lt;/A> showing off the wide variety of effects you can apply to images in Avalon. Very cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1045</id>
+    <id>https://csells.github.io/sb6/1045</id>
     <title>Rory is Funny on My Blog, too</title>
     <updated>2004-01-15T08:00:00.000Z</updated>
     <published>2004-01-15T08:00:00.000Z</published>
@@ -194,7 +196,7 @@ Robert Wlodarczyk, a software engineer on the Avalon testing team, has posted &l
 &lt;a href="/1041">Here&lt;/a>. &lt;A href="/1041">Rory just kills me...&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1046</id>
+    <id>https://csells.github.io/sb6/1046</id>
     <title>WinFS on MSDN TV: Schemas and Extensibility</title>
     <updated>2004-01-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

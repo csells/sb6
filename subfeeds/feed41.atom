@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed41.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed41.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed40.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed42.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed41.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed40.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed42.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed41.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1830</id>
+    <id>https://csells.github.io/sb6/1830</id>
     <title>Limiting/Monitoring my sons' access to the 'net?</title>
     <updated>2005-07-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;P>My 11-year old wants to do email and IM and he's already surfing the web. Does anyone have any recommendations for good software to limit and monitor his internet access? Thanks!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1829</id>
+    <id>https://csells.github.io/sb6/1829</id>
     <title>Cool Avalon Default Style Trick</title>
     <updated>2005-07-22T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -52,7 +54,7 @@
 Karsten shows &lt;A href="http://blogs.msdn.com/karstenj/archive/2005/07/22/441959.aspx">a cool trick for pulling out the default style of an Avalon lookless control&lt;/A>. This is super useful if you want to replace an existing control's look, but you don't want to have to start from scratch.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1828</id>
+    <id>https://csells.github.io/sb6/1828</id>
     <title>Have Sex With Prostitutes at the PDC</title>
     <updated>2005-07-20T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -62,7 +64,7 @@ Karsten shows &lt;A href="http://blogs.msdn.com/karstenj/archive/2005/07/22/4419
 At least that's the message I'm getting from &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=89877">the 2nd episode of the Channel 9 guy's trip across country to the PDC&lt;/A> (I'm not saying that's a bad message -- it sure beats the whole "ActiveX" thing...).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1827</id>
+    <id>https://csells.github.io/sb6/1827</id>
     <title>I don't know who has time for this stuff @ work...</title>
     <updated>2005-07-17T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -73,7 +75,7 @@ At least that's the message I'm getting from &lt;A href="http://channel9.msdn.co
 &lt;P>[&lt;A href="http://radio.weblogs.com/0001011/2005/07/13.html#a10623">Scoble&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1826</id>
+    <id>https://csells.github.io/sb6/1826</id>
     <title>My First MsBuild Task</title>
     <updated>2005-07-16T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -83,7 +85,7 @@ At least that's the message I'm getting from &lt;A href="http://channel9.msdn.co
 &lt;a href="/12470">Here&lt;/a>. The one where I built &lt;a href="/12470">my first custom msbuild task&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12470</id>
+    <id>https://csells.github.io/sb6/12470</id>
     <title>My First MsBuild Task</title>
     <updated>2005-07-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -156,7 +158,7 @@ Time Elapsed 00:00:00.04&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&
 &lt;/b>&amp;lt;/Project&amp;gt;&lt;/pre>&lt;/div>&lt;/blockquote>&lt;div align="left">&lt;p align="left">Of course, a real task does far more than this one, but it was hella easy to get started.&lt;/div></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1823</id>
+    <id>https://csells.github.io/sb6/1823</id>
     <title>Looking forward to the Portland Code Camp, 7/23-24</title>
     <updated>2005-07-12T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -177,7 +179,7 @@ Time Elapsed 00:00:00.04&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&
 &lt;P>That's only if my wife doesn't have my working on the house (we're prepping it for sale). Of course, I don't know if she'll understand that I've volunteered to give my own session: "&lt;STRONG>Some Cool Avalon Stuff&lt;/STRONG>"...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1824</id>
+    <id>https://csells.github.io/sb6/1824</id>
     <title>Eric Sink: The Game is Afoot</title>
     <updated>2005-07-12T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -189,7 +191,7 @@ Time Elapsed 00:00:00.04&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&
 &lt;P>I think now I understand &lt;A href="/1777">the public outcry when I suggested that I might cut down on the material in the Windows Forms 2.0 book&lt;/A>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1825</id>
+    <id>https://csells.github.io/sb6/1825</id>
     <title>Amazing XAML Tool: Adobe Illustrator -> XAML</title>
     <updated>2005-07-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -199,7 +201,7 @@ Time Elapsed 00:00:00.04&lt;/pre>&lt;/blockquote>&lt;/div>&lt;div align="left">&
 Mike Swanson has posted &lt;A href="http://blogs.msdn.com/mswanson/archive/2005/07/12/438178.aspx">an &lt;EM>amazing&lt;/EM> Adobe Illustrator to XAML conversion tool&lt;/A>. You have to check out &lt;A href="http://www.mikeswanson.com/XAMLExport/Eye%20Candy.htm">the eye candy page&lt;/A> to really see what Mike's been able to accomplish; it's not perfect, but it's &lt;EM>damn good&lt;/EM>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12471</id>
+    <id>https://csells.github.io/sb6/12471</id>
     <title>Enjoying This Moment</title>
     <updated>2005-07-10T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -209,7 +211,7 @@ Mike Swanson has posted &lt;A href="http://blogs.msdn.com/mswanson/archive/2005/
 &lt;p>I'm sitting at my computer on Sunday morning with &amp;quot;nothing&amp;quot; to do (I mean, I could always work, but my team is good about taking weekends off). This morning comes after 3.5 months straight of evenings and weekends working on the Avalon book (I'm talking 20+ hours/week on the book on top of the 50-60 hours/week I spent getting up to speed on my new job). The final push was this week, which I took as vacation from work (&amp;quot;you took vacation to work!&amp;quot; my wife likes to say...).&lt;/p>&lt;p>Last night, I produced the 2nd draft of my last 1st draft chapter (which I was happy to trim by 17 pages w/o losing anything useful) and composed comments on a 2nd draft of Ian's chapter that was in my queue.&lt;/p>&lt;p>This morning, I took care of a reviewer comment that's been nagging me, sent Ian my feedback and composed a detailed schedule of the rest of my day which consists of:&lt;/p>&lt;ul>&lt;li>wait for feedback on non-finalized chapters&lt;/li>&lt;li>apply feedback and finalize my last two chapters (30-60 minutes)&lt;/li>&lt;li>produce 2nd draft of book preface (1-2 hours)&lt;/li>&lt;li>review anything Ian sends my way (1-2 hours)&lt;/li>&lt;li>(maybe) review 1st draft of chapter from the WinForms 2.0 book (1-2 hours)&lt;/li>&lt;/ul>&lt;p>Compared to how I have been spending my time lately, that's an extremely light day.&lt;/p>&lt;p>This book has been particularly difficult to write. Most of my writing has been on insights that I or the other members of the community have discovered in the use of the technology. These kinds of insights come after the technology is shipped and we've all had a chance to get to know it. Avalon, on the other hand, has a ways to go before it ships and the developer community is very small. Plus, some parts of Avalon don't work very well or have changed significantly since I first learned about them. The consequence of this is that most of my writings on Avalon have had to have at least one massive overhaul as I a) learn the best way to think about them and b) update them to actually reflect the latest bits.&lt;/p>&lt;p>The rub is that by the time the book sees the light of day (it should be on the PDC show floor), the Avalon team will likely have shipped another version of the bits, obsolescing what Ian and I have worked like dogs to ship. Of course, we'll post the errata and we'll update the book for the Avalon RTM, but still, it hurts that most of you won't be able to read the book when it's a perfect match for the bits.&lt;/p>&lt;p>I get to read it, though, and I'll tell you -- right now,&amp;nbsp;the book rocks. : )&amp;nbsp; And the reason it rocks? Ian and I have worked hard to make sure it does, of course, but it's mostly been the internal and external reviewers that have done such a great job pointing out where we got it wrong. It's tough to hear, especially when it means a complete chapter re-write (I just finished one of those last night), but I'm so happy with the results that I'm willing to love them anyway.&lt;/p>&lt;p>Now I've raised the bar impossible high, but screw that -- I'm enjoying the moment...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1822</id>
+    <id>https://csells.github.io/sb6/1822</id>
     <title>Enjoying This Moment</title>
     <updated>2005-07-10T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -219,7 +221,7 @@ Mike Swanson has posted &lt;A href="http://blogs.msdn.com/mswanson/archive/2005/
 &lt;a href="/12471">Here&lt;/a>. &lt;P>The one where &lt;a href="/12471">I enjoy the passing of the book writing storm&lt;/A>, if only for a moment.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1821</id>
+    <id>https://csells.github.io/sb6/1821</id>
     <title>Is it creepy that I think this is valid?</title>
     <updated>2005-07-10T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -229,7 +231,7 @@ Mike Swanson has posted &lt;A href="http://blogs.msdn.com/mswanson/archive/2005/
 I've used &lt;A href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20050710.html">this technique&lt;/A> to keep people from dumping their work on me. Now I'm creeped out about it...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1820</id>
+    <id>https://csells.github.io/sb6/1820</id>
     <title>Old Man's War</title>
     <updated>2005-07-06T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -239,7 +241,7 @@ I've used &lt;A href="http://www.dilbert.com/comics/dilbert/archive/dilbert-2005
 I read &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0765309408/chrissells/">Old Man's War&lt;/A> today (no better way to avoid writing than to read). I enjoyed it very much. I'm off to check out &lt;A href="http://www.scalzi.com/">the author's web site&lt;/A> now.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1818</id>
+    <id>https://csells.github.io/sb6/1818</id>
     <title>Register for COM Interop and VS05b2</title>
     <updated>2005-07-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -251,7 +253,7 @@ I read &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0765309408/chri
 &lt;P>The trick, of course, is to set ComVisible to "true".&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1817</id>
+    <id>https://csells.github.io/sb6/1817</id>
     <title>Grid: The King of Avalon Layout</title>
     <updated>2005-07-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

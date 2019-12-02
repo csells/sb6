@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed82.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed82.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed81.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed83.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed82.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed81.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed83.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed82.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1268</id>
+    <id>https://csells.github.io/sb6/1268</id>
     <title>Son of Strike Debugging Inside Visual Studio .NET</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -44,7 +46,7 @@
 &lt;P>Luckily, Mike Stanton, an SDE on the CLR team, has created &lt;A href="http://blogs.msdn.com/mvstanton/archive/2003/12/04/41241.aspx">a set of instructions for loading SOS into VS.NET&lt;/A>. Actually, he posted those instructions in December of last year, but it wasn't 'til today that they were accurate because it wasn't 'til today that I tried them and couldn't get them to work. Now they are and I can and I have all kinds of low-level goodness to explore with Son of Strike.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1267</id>
+    <id>https://csells.github.io/sb6/1267</id>
     <title>Filling in Missing Computer Science Knowledge</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -54,7 +56,7 @@
 &lt;a href="/12500">Here&lt;/a>. The one where I ask a professor friend &lt;a href="/12500">how to help my wayward, non-computer scientist friends up to speed on the foundation of our industry&lt;/A> (which would be computer science, not greed : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1258</id>
+    <id>https://csells.github.io/sb6/1258</id>
     <title>Ryan on Getting Starting Building Longhorn Help</title>
     <updated>2004-04-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -64,7 +66,7 @@
 Ryan has posted a nice, consise write-up of &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/04/01/2920.aspx">getting started writing help in Longhorn&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1261</id>
+    <id>https://csells.github.io/sb6/1261</id>
     <title>WiX: Open Source XML-Based MSI Creation</title>
     <updated>2004-04-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -74,7 +76,7 @@ Ryan has posted a nice, consise write-up of &lt;A href="http://www.longhornblogs
 &lt;P>Rob Mensching, an MS SDE, has finally released his &lt;A href="http://blogs.msdn.com/robmen/archive/2004/04/05/107709.aspx">WiX tools for building MSI files from XML&lt;/A>. I say "finally," because I've been using his tools for months to build the MSI files that MSDN puts up on microsoft.com/download. All of our downloads have to be wrapped in an MSI so that you have to agree to the EULA before you get the files. Plus, we need to bundle some descriptive text and author name in there, along with the code that pops open the install folder after the files have been installed. Instead of using VS.NET to create the MSI files for each set of folks, I built a tool and the best programatic interface to creating MSI files that I could find was easily Rob's. &lt;A href="http://blogs.msdn.com/robmen/archive/2004/04/05/107709.aspx">Check it out.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1260</id>
+    <id>https://csells.github.io/sb6/1260</id>
     <title>Is This One Better? Now Cover the Other Eye...</title>
     <updated>2004-04-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -90,7 +92,7 @@ Ryan has posted a nice, consise write-up of &lt;A href="http://www.longhornblogs
 &lt;P>Keep it up, Kevin!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1257</id>
+    <id>https://csells.github.io/sb6/1257</id>
     <title>Welcome to 04/04/04</title>
     <updated>2004-04-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -100,7 +102,7 @@ Ryan has posted a nice, consise write-up of &lt;A href="http://www.longhornblogs
 That is all.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1256</id>
+    <id>https://csells.github.io/sb6/1256</id>
     <title>Windows Forms Has At Least Another Decade In It</title>
     <updated>2004-04-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -116,7 +118,7 @@ That is all.</content>
 &lt;P>In spite of my love on Avalon, I'm so confidendent that Windows Forms has a life left that &lt;A HREF="/public/writing/">I'm working with Mike on Windows Forms Programming 2/e&lt;/A>. A book is hard enough that you don't do it if the topic is dead, so that's me putting my time (and Addison-Wesley's money) where my mouth is.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1255</id>
+    <id>https://csells.github.io/sb6/1255</id>
     <title>The Future Is eBay for Services</title>
     <updated>2004-04-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -126,7 +128,7 @@ That is all.</content>
 &lt;a href="http://www.rentacoder.com/RentACoder/default.asp">Here&lt;/a>. &lt;P>With the bottom line more and more important, the era of "company loyalty" and "guaranteed employment" is long over. RentACoder.com takes this to it's logical conclusion, matching vendors with jobs and money with qualified folks with the time and willingness to do the job at the asking price. As connectedness improves, the importance of being on site declines, the perfect market for services will develop, giving us eBay for employment.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1254</id>
+    <id>https://csells.github.io/sb6/1254</id>
     <title>Why Longhorn So Soon?</title>
     <updated>2004-04-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -137,7 +139,7 @@ That is all.</content>
 &lt;BLOCKQUOTE>&lt;I>"What you -do- need to pay attention to, is how 'Longhorn' will evolve the users concept of exactly what a Windows application is all about, and what features and functionality it should be providing them with. Many application developers should be starting to think about this TODAY, and how to begin incorporating some of these features into their application moving forward. Just the schematized file system that WinFS will introduce alone can represent not only a big jump in the potential functionality of an application, but also a considerable change in how your existing application might want to begin thinking about data storage."&lt;/I>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1252</id>
+    <id>https://csells.github.io/sb6/1252</id>
     <title>FxCop for SQL Server</title>
     <updated>2004-04-02T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -147,7 +149,7 @@ That is all.</content>
 If you were listening to the .NET Rocks show today, you heard me invent something that Microsoft has already shipped: &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=B352EB1F-D3CA-44EE-893E-9E07339C1F22">The Microsoft SQL Server Best Practices Analyzer&lt;/A>. &amp;lt;whew&amp;gt; One less thing I have to build myself. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1253</id>
+    <id>https://csells.github.io/sb6/1253</id>
     <title>Microsoft and Sun Settle</title>
     <updated>2004-04-02T08:00:00.000Z</updated>
     <published>2004-04-02T08:00:00.000Z</published>
@@ -156,7 +158,7 @@ If you were listening to the .NET Rocks show today, you heard me invent somethin
 &lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;ncid=&amp;e=6&amp;u=/ap/20040402/ap_on_hi_te/sun_microsystems">Here&lt;/a>. I honestly never thought I'd see &lt;A href="http://story.news.yahoo.com/news?tmpl=story&amp;amp;ncid=&amp;amp;e=6&amp;amp;u=/ap/20040402/ap_on_hi_te/sun_microsystems">this day&lt;/A>. Now I have to come up with other fun news of which to make fun in my talks (maybe &lt;A href="http://physics.nist.gov/cuu/Constants/index.html">the 0.0000007% change in Avagadro's number over the last 5 years&lt;/A>?).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1250</id>
+    <id>https://csells.github.io/sb6/1250</id>
     <title>Tune into .NET Rocks Live Tomorrow, 9am PST</title>
     <updated>2004-04-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -166,7 +168,7 @@ If you were listening to the .NET Rocks show today, you heard me invent somethin
 On &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/29/101241.aspx">tomorrow's .NET Rocks Live&lt;/A>, Rory and I will be interviewing &lt;A href="http://www.tonybain.com/">Tony Bain&lt;/A>, &lt;A href="http://www.franklins.net/calldotnetrocks/">taking callers&lt;/A> and, if tonight's sound test is any indication, talking a lot of smack. Tune in &lt;A href="mms://radio1.franklins.net/dnr">here&lt;/A> or &lt;A href="http://radio1.franklins.net/dnr">here&lt;/A>&amp;nbsp;from 9am to 11am PST, Friday, 4/2.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1251</id>
+    <id>https://csells.github.io/sb6/1251</id>
     <title>Let There By Light In The Darkness</title>
     <updated>2004-04-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -176,7 +178,7 @@ On &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/29/101241.aspx">
 &lt;a href="/12501">Here&lt;/a>. The one where it's late, I'm on my 3rd Diet Coke (I never use caffine), I stumble onto a piece of writing I like but have never published and decide &lt;a href="/12501">what the hell&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12501</id>
+    <id>https://csells.github.io/sb6/12501</id>
     <title>Let There Be Light In The Darkness</title>
     <updated>2004-04-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -218,7 +220,7 @@ so I thought I'd share it:&lt;/p>&lt;blockquote>The Dark Ages, a period of five
 Discuss&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1249</id>
+    <id>https://csells.github.io/sb6/1249</id>
     <title>Avalon Perf Tips: Properties, Resources &amp; Triggers</title>
     <updated>2004-03-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

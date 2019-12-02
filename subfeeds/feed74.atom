@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed74.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed74.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed73.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed75.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed74.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed73.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed75.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed74.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1375</id>
+    <id>https://csells.github.io/sb6/1375</id>
     <title>Great Minds...</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -44,7 +46,7 @@
 &lt;P>[1] I just tried the lastest RSS Bandit -- don't get me started...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1372</id>
+    <id>https://csells.github.io/sb6/1372</id>
     <title>Apparently .NET Is About Developer Love</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -54,7 +56,7 @@
 Don Box always used to say that COM Is Love, although I'm pretty sure he'd agreed that we've long since given up COM for a new trophy technology &lt;A href="http://www.microsoft.com/australia/msdn/developer/developerlove.aspx">.NET which, apparently, is about &lt;EM>developer&lt;/EM> love&lt;/A>. One guy spent 17 years doing COBOL. I think he needs our love most of all...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1374</id>
+    <id>https://csells.github.io/sb6/1374</id>
     <title>A 3-Part, 3-Day Weekend XAML Quiz</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ Don Box always used to say that COM Is Love, although I'm pretty sure he'd agree
 &lt;LI>For 3 free UUIDs, what popular C# construct has a similar syntax? How is it subtly different? (Hint: I'm not showing the difference in this example.)&lt;/LI>&lt;/OL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1369</id>
+    <id>https://csells.github.io/sb6/1369</id>
     <title>Can The Movie Be As Good As This Trailer?</title>
     <updated>2004-05-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -81,7 +83,7 @@ Don Box always used to say that COM Is Love, although I'm pretty sure he'd agree
 I get to read all of Eric Sink's pieces before we publish them, so I got to follow &lt;A href="http://www.apple.com/trailers/miramax/comedian.html">the link to the trailer for Commedian&lt;/A> before you guys did (although the movie's been out for 2 years, so you had a &lt;EM>bit&lt;/EM> of a lead...). While I like Jerry Seinfield and I've placed this movie next on my NetFlix queue, I can't believe that it'll live up to the trailer.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1368</id>
+    <id>https://csells.github.io/sb6/1368</id>
     <title>The Friendliest Attack Fish</title>
     <updated>2004-05-27T07:00:00.000Z</updated>
     <published>2004-05-27T07:00:00.000Z</published>
@@ -90,7 +92,7 @@ I get to read all of Eric Sink's pieces before we publish them, so I got to foll
 &lt;P>&lt;A href="/1364">As Don pointed out&lt;/A>, I missed one of the new companies spawned by DevelopMentor alum: Barracuda.NET, a training company founded by two of the friendliest and funniest instructors you will ever meet (and to whom the Visual Basic community needs no introduction): &lt;A href="http://www.barracuda.net/aboutus.aspx">Ted Pattison and Jason Masterman&lt;/A>. Right now these two are specializing in SharePoint training, including remote training (I want to know how they do that!), but I expect them to branch out into all kinds of interesting stuff.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1363</id>
+    <id>https://csells.github.io/sb6/1363</id>
     <title>Adding Meaning To Your Work</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <published>2004-05-26T07:00:00.000Z</published>
@@ -99,7 +101,7 @@ I get to read all of Eric Sink's pieces before we publish them, so I got to foll
 And while we're on companies formed by ex-DevelopMentorites, check out &lt;A href="http://www.relevancellc.com/">Relevance, LLC, a software contracting and content creation firm&lt;/A> founded by &lt;A href="http://www.relevancellc.com/halloway.htm">Stuart Halloway&lt;/A> and &lt;A href="http://www.relevancellc.com/gehtland.htm">Justin Geghtland&lt;/A>, the former DevelopMentor CTO and Head of IT, respectively. Justin was the co-author of &lt;A HREF="/public/writing/wfbook">the VB.NET version of Windows Forms book&lt;/A> and Stuart did some very cool Gen&amp;lt;X&amp;gt; work, so I'm big fans of both of them. Relevance has been around for a while and are already doing all kinds of interesting projects, but if you can get them for your interesting project, you won't be sorry.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1365</id>
+    <id>https://csells.github.io/sb6/1365</id>
     <title>O'Reilly Takes A First Look At the WinHEC Longhorn</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@ And while we're on companies formed by ex-DevelopMentorites, check out &lt;A hre
 &lt;A href="http://www.windowsdevcenter.com/pub/a/windows/2004/05/18/longhorn.html">Wei-Meng Lee takes a first look at the WinHEC build of Longhorn&lt;/A> for O'Reilly. It's a user-centric look at Longhorn, but I learned stuff. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1362</id>
+    <id>https://csells.github.io/sb6/1362</id>
     <title>Bringing More Than The Normal Pair Of Eyeballs</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <published>2004-05-26T07:00:00.000Z</published>
@@ -118,7 +120,7 @@ And while we're on companies formed by ex-DevelopMentorites, check out &lt;A hre
 For of my most respected colleagues, &lt;A href="http://www.pluralsight.com/keith.aspx">Keith Brown&lt;/A>, &lt;A href="http://www.pluralsight.com/fritz.aspx">Fritz Onion&lt;/A>, &lt;A href="http://www.pluralsight.com/aaron.aspx">Aaron Skonnard&lt;/A> and &lt;A href="http://www.pluralsight.com/mike.aspx">Mike Woodring&lt;/A>, have split off from DevelopMentor to form &lt;A href="http://www.pluralsight.com/default.aspx">PluralSight, a training and content creation company&lt;/A>. Between the four of them, they've authored more than 10 books and 175 technical articles and have more than 50 years of collective experience in all many of technical pursuits in the Windows development community. Good luck, guys!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1367</id>
+    <id>https://csells.github.io/sb6/1367</id>
     <title>This Absolutely Boggles My Mind</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -131,7 +133,7 @@ For of my most respected colleagues, &lt;A href="http://www.pluralsight.com/keit
 &lt;P>I just don't get it...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1364</id>
+    <id>https://csells.github.io/sb6/1364</id>
     <title>The Andera That Caught A Wang</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <published>2004-05-26T07:00:00.000Z</published>
@@ -141,7 +143,7 @@ For of my most respected colleagues, &lt;A href="http://www.pluralsight.com/keit
 &lt;P>In addition to being an MIT grad (they turned me away), a DevelopMentor alumnus of great repute, one of the chief developers on the next-gen MSDN web infrastructure,&amp;nbsp;&lt;A HREF="/colophon/">Craig is also the official, self-appointed&amp;nbsp;sellsbrothers.com grammar checker&lt;/A>, which should be worth your business all by itself!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1366</id>
+    <id>https://csells.github.io/sb6/1366</id>
     <title>Microsoft Car .NET</title>
     <updated>2004-05-26T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -151,7 +153,7 @@ For of my most respected colleagues, &lt;A href="http://www.pluralsight.com/keit
 If the reality is anything like the concept videos, &lt;A href="http://www.microsoft.com/automotive/windowsautomotive/connected.mspx">I want it&lt;/A>!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1361</id>
+    <id>https://csells.github.io/sb6/1361</id>
     <title>Wesner on XAML as Documents (Again)</title>
     <updated>2004-05-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -161,7 +163,7 @@ If the reality is anything like the concept videos, &lt;A href="http://www.micro
 &lt;P>&lt;A href="http://wesnerm.blogs.com/net_undocumented/2004/05/xaml_as_documen.html">As Wesner notes&lt;/A>, &lt;A href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/appcore/overviews/intro_app_development.aspx">the Longhorn SDK lists 3 distinct Avalon applications types&lt;/A>: Windows/Forms apps, multi-page apps and documents. The beauty of Avalon is that it brings so many together, apps/documents, multi-window apps/multi-page apps, text/images/video/audio, 2D/3D, etc. And to answer Wesner, Microsoft &lt;EM>will&lt;/EM> provide editing tools for Avalon beyond Notepad (someday...).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1360</id>
+    <id>https://csells.github.io/sb6/1360</id>
     <title>&lt;h1>.NET Framework 2.0: BindingList&lt;T>&lt;/h1></title>
     <updated>2004-05-25T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -171,7 +173,7 @@ If the reality is anything like the concept videos, &lt;A href="http://www.micro
 &lt;P>After spending a bunch of time with various partial IBindingList implementations, I just stumbled onto a brand new one in the Visual Studio 2005 Community Technology Preview: &lt;STRONG>BindingList&amp;lt;T&amp;gt;&lt;/STRONG>. It's not done yet, e.g. sorting doesn't work, but the model is certainly what you'd want, e.g. you create a BindingList&amp;lt;Person&amp;gt;, bind it to something smart, like a DataGrid or a DataGridView, and you're able to edit instances of your custom type or add or remove instances, as well as search or sort instances, just like you'd need a custom implementation of IBindingList for today. Very nice.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12648</id>
+    <id>https://csells.github.io/sb6/12648</id>
     <title>Post/Reply Alphabet Soup</title>
     <updated>2004-05-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -188,7 +190,7 @@ I love mailing lists, but don't want to duplicate any of the WinFX newsgroups in
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1358</id>
+    <id>https://csells.github.io/sb6/1358</id>
     <title>bar</title>
     <updated>2004-05-24T07:00:00.000Z</updated>
     <published>2004-05-24T07:00:00.000Z</published>

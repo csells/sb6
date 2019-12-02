@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed71.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed71.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed70.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed72.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed71.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed70.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed72.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed71.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1413</id>
+    <id>https://csells.github.io/sb6/1413</id>
     <title>RobertM On Consuming XAML From A Web Server</title>
     <updated>2004-06-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 &lt;P>The future is unwritten.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1415</id>
+    <id>https://csells.github.io/sb6/1415</id>
     <title>Richard Turner On Building Web Services Today</title>
     <updated>2004-06-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -54,7 +56,7 @@
 Richard Turner, a PM on the Indigo team, has &lt;A href="http://blogs.msdn.com/richturner666/archive/2004/06/23/164201.aspx">some advice about how to build web services while we wait for Indigo&lt;/A>. He didn't mention &lt;A href="http://www.microsoft.com/downloads/details.aspx?familyid=fc5f06c5-821f-41d3-a4fe-6c7b56423841">WSE2&lt;/A> specifically, but I assume he means for you to use it when you hit the wall on ASMX for web services implementations, e.g. when you need WS-Security support.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1414</id>
+    <id>https://csells.github.io/sb6/1414</id>
     <title>It's Almost Always Option B</title>
     <updated>2004-06-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -67,7 +69,7 @@ Richard Turner, a PM on the Indigo team, has &lt;A href="http://blogs.msdn.com/r
 &lt;P>Sean and Scott call Foo and Bar "Windows Forms" and "Avalon," but as they point out, these are the decisions we're always making on new technologies. What's the best judge of the delta around "it's available" for adoption? That's all about your specific business needs and don't let peer pressure sway you either way.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1411</id>
+    <id>https://csells.github.io/sb6/1411</id>
     <title>Time Running Out; Submit XML Dev.Conf. Abstracts!</title>
     <updated>2004-06-22T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -80,7 +82,7 @@ Richard Turner, a PM on the Indigo team, has &lt;A href="http://blogs.msdn.com/r
 &lt;P>&lt;A href="mailto:csells@microsoft.com?subject=Applied XML Dev.Conf. 5 Abstract Submission">Submit your abstract today!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1410</id>
+    <id>https://csells.github.io/sb6/1410</id>
     <title>More On The VC# 2005 Key Bindings</title>
     <updated>2004-06-20T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -90,7 +92,7 @@ Richard Turner, a PM on the Indigo team, has &lt;A href="http://blogs.msdn.com/r
 Joe Nalewabau has one very important addition point to make about the new key bindings in Visual C# 2005: while the VC# team will be providing a bunch of key bindings based on how things are arranged, e.g. Ctrl+W, S to show the Solution Explorer from the Window menu, &lt;A href="http://blogs.msdn.com/joen/archive/2004/06/19/160286.aspx">90+% of the old key bindings will continue to work&lt;/A>, e.g. Ctrl+Alt+L to show the Solution Explorer. I worry that the 90% coverage won't be like uptime, where 90% is generally just fine, but more like speech recognition, where anything less than 99.9% just bugs people. I'm keeping my key bound fingers crossed...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1408</id>
+    <id>https://csells.github.io/sb6/1408</id>
     <title>Longhorn 4074, MSBuild + GetOutputAssembly</title>
     <updated>2004-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@ Joe Nalewabau has one very important addition point to make about the new key bi
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">Re-run MSBuild and enjoy&lt;/P>&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1409</id>
+    <id>https://csells.github.io/sb6/1409</id>
     <title>Chris Anderson on Avalon Visual Extensibility</title>
     <updated>2004-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -122,7 +124,7 @@ e.g. &amp;lt;Text&amp;gt;,&amp;nbsp;&amp;lt;Video&amp;gt;, &amp;lt;Rectangle&amp
 &lt;P>Two&amp;nbsp;interesting things about this button style. The first is that you can&amp;nbsp;make a Button look however you want it to look,&amp;nbsp;without worrying whether the Avalon team had that in mind up front.&amp;nbsp;Two, when you want to drop in the content inside the Button tag, e.g. "Hello", you drop in the ContentPresentor and it knows how to&amp;nbsp;display what was placed in the Button (again, which&amp;nbsp;could be anything). Simple and flexible: two things that I'm finding to be true more and more about Avalon the further I dig.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1407</id>
+    <id>https://csells.github.io/sb6/1407</id>
     <title>The VS Keybinding Randomizer Is An Actual Person</title>
     <updated>2004-06-18T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -133,7 +135,7 @@ e.g. &amp;lt;Text&amp;gt;,&amp;nbsp;&amp;lt;Video&amp;gt;, &amp;lt;Rectangle&amp
 &lt;P>Of course, what I think doesn't matter (it stopped mattering when I signed that damned employment contract : ). It's what you think that matters and you should &lt;A href="http://blogs.msdn.com/joen/archive/2004/06/10/153245.aspx">feel free to let him know what you think about the new VC# 2005 key bindings&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1406</id>
+    <id>https://csells.github.io/sb6/1406</id>
     <title>Avalon Data Binding Talk, PADNUG, Thurs, 6/24/04</title>
     <updated>2004-06-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -144,7 +146,7 @@ e.g. &amp;lt;Text&amp;gt;,&amp;nbsp;&amp;lt;Video&amp;gt;, &amp;lt;Rectangle&amp
 &lt;P>&lt;SPAN>&lt;SPAN>Data Binding in Avalon&lt;BR>&lt;/SPAN>&lt;/SPAN>&lt;SPAN>&lt;SPAN>6/24/2004, 6:30pm&lt;BR>Portland Community College Auditorium, Room 104&lt;BR>1626 SE Water Avenue&lt;BR>Portland, OR&lt;/SPAN>&lt;/SPAN>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1403</id>
+    <id>https://csells.github.io/sb6/1403</id>
     <title>Chris Anderson on XAML "Aha" Moments</title>
     <updated>2004-06-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -154,7 +156,7 @@ e.g. &amp;lt;Text&amp;gt;,&amp;nbsp;&amp;lt;Video&amp;gt;, &amp;lt;Rectangle&amp
 Chris Anderson, Architect on the Avalon team, shows the first XAML "Hello, World" code and then describes &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=10280">two big "aha" moments to which XAML programmers can look forward&lt;/A>. I've been to both of the moments that Chris describes and have had one more he doesn't mention: data binding in Avalon changes &lt;EM>everything&lt;/EM> about how I build my UI.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1405</id>
+    <id>https://csells.github.io/sb6/1405</id>
     <title>Whoa. I'm A Banner Ad.</title>
     <updated>2004-06-17T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -164,7 +166,7 @@ Chris Anderson, Architect on the Avalon team, shows the first XAML "Hello, World
 If you hit the &lt;A href="http://www.microsoft-watch.com/">Microsoft-Watch&lt;/A> web site often enough (it's been on 3 of my last 4 visits), you'll see my smiling face as a giant banner ad. Hell, I don't even put my picture up on my own site (well, except &lt;a href="/public/fun/centerfold/">this one&lt;/A>...)! Maybe they've got too many hits on their web site and instead of taking it down without warning, they're using my picture to scare folks away. ; )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1404</id>
+    <id>https://csells.github.io/sb6/1404</id>
     <title>Anders On Integrating Database Support Into C#</title>
     <updated>2004-06-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -176,7 +178,7 @@ If you hit the &lt;A href="http://www.microsoft-watch.com/">Microsoft-Watch&lt;/
 &lt;P>Now that we've removed memory management from my code and between InitializeComponent and XAML, we've removed the need to write UI layout code, the next big chunk that gums up the works is data integration code. To have Anders thinking about how to extend C# 3.0 to mitigate this problem has me all a tingle!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1401</id>
+    <id>https://csells.github.io/sb6/1401</id>
     <title>Refining the Versioning Story</title>
     <updated>2004-06-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -195,7 +197,7 @@ If you hit the &lt;A href="http://www.microsoft-watch.com/">Microsoft-Watch&lt;/
 &lt;P>Also, &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/06/15/clrversioning">Ian has some thoughts on the new model&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1400</id>
+    <id>https://csells.github.io/sb6/1400</id>
     <title>"[T]he IE team does exist and does care"</title>
     <updated>2004-06-16T07:00:00.000Z</updated>
     <published>2004-06-16T07:00:00.000Z</published>
@@ -204,7 +206,7 @@ If you hit the &lt;A href="http://www.microsoft-watch.com/">Microsoft-Watch&lt;/
 Dave Massy is moving to Internet Explorer Program Management and wants to know &lt;A href="http://blogs.msdn.com/dmassy/archive/2004/06/16/157263.aspx">what you want from IE in the next version&lt;/A>. Don't be shy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1402</id>
+    <id>https://csells.github.io/sb6/1402</id>
     <title>The Reason for ATOM</title>
     <updated>2004-06-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

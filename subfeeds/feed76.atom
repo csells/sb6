@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed76.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed76.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed75.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed77.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed76.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed75.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed77.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed76.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1345</id>
+    <id>https://csells.github.io/sb6/1345</id>
     <title>.NET Rocks: Reflections on Connections</title>
     <updated>2004-05-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 Carl IM'd me to see if I could call into a long conference call. I said that I would, but couldn't 'til the brothers Sells had gone to bed (doing the dad thing, don't you know). Anyway, I called and got to swap conference stories with Carl, Rory, Dan, Bill, Mark, Kathleen and Robert. Then they told me &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=65">I was actually broadcasting on an episode of .NET Rocks live focusing on conferences&lt;/A> and today I got the URL. Ooops. Hope I didn't say anything I shouldn't have... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1344</id>
+    <id>https://csells.github.io/sb6/1344</id>
     <title>3 Years of Spouting</title>
     <updated>2004-05-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -52,7 +54,7 @@ Carl IM'd me to see if I could call into a long conference call. I said that I w
 &lt;a href="/12495">Here&lt;/a>. &lt;P>The one where I reminisce on &lt;a href="/12495">3 years of The Sells Spout and my blog as a whole&lt;/A> and wonder what it is that brings so many people to the site.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12495</id>
+    <id>https://csells.github.io/sb6/12495</id>
     <title>3 Years of Spouting</title>
     <updated>2004-05-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -106,7 +108,7 @@ Discuss&lt;/a>&lt;/li>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1342</id>
+    <id>https://csells.github.io/sb6/1342</id>
     <title>Lies, Hypocrisy and the 'Friends' Theme Song</title>
     <updated>2004-05-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -116,7 +118,7 @@ Discuss&lt;/a>&lt;/li>
 &lt;P>As much as I love the Friends show for it's portrayal of unconditional love (as a geek, people loving me no matter what I do is appealing), I have to admit that it works best on a backdrop of few money worries (Monica's apartment is worth &lt;EM>$6000/month&lt;/EM>?!? No wonder I don't live in NYC...). &lt;A href="http://www.npr.org/rundowns/segment.php?wfId=1874924">NPR's Mike Pesca opens up my eyes to the lies and hypocrisies (hyprocrisi? [see? geek!]) in the Friends theme song and is hilarious about it&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1343</id>
+    <id>https://csells.github.io/sb6/1343</id>
     <title>BBC Coupling: I Laughed 'til I Cried</title>
     <updated>2004-05-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -126,7 +128,7 @@ Discuss&lt;/a>&lt;/li>
 &lt;P>The American version left me completely cold, but Melissa and I have just watched &lt;A href="http://www.bbc.co.uk/comedy/coupling/">the 1st season of the original BBC series Coupling&lt;/A> and I actually laughed several times 'til I cried. In fact, there was one phrase that I tried to repeat to my wife because it struck me so hard, but I literally couldn't say it without losing my ability to speak (btw, "the pride of my ear bucket" is the phrase and I'm typing it through the tears).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1341</id>
+    <id>https://csells.github.io/sb6/1341</id>
     <title>Channel9 Video: What influenced the design of LH?</title>
     <updated>2004-05-15T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -136,7 +138,7 @@ Discuss&lt;/a>&lt;/li>
 Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) talks about the warm, fuzzy tasks that they went through to come up with "what innovative" looks like in ways that I admire, 'cuz &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=7331">I &lt;EM>never&lt;/EM> would have thunk of them&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1340</id>
+    <id>https://csells.github.io/sb6/1340</id>
     <title>Chad on the Visual Studio Team Wants To Meet You</title>
     <updated>2004-05-14T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -148,7 +150,7 @@ Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) t
 &lt;P>&lt;A href="http://blogs.msdn.com/chadroyal/archive/2004/05/14/132307.aspx">Chad wants you to send him your picture and some info&lt;/A> so that he can show his VS team that their customers are real folks. I sent him mine; I may be an MS employee, but I've been using Visual Studio non-stop since it was called QuickC and I &lt;EM>care&lt;/EM> what those guys do with my development environment of choice!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1338</id>
+    <id>https://csells.github.io/sb6/1338</id>
     <title>The Advice of Our Fathers</title>
     <updated>2004-05-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -159,7 +161,7 @@ Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) t
 &lt;P>&lt;EM>[ed: Just 'cuz Friends is over don't mean I'm a gonna pick a new style to describe my Spout entries. If it ain't broke, don't fix it, my father always used to say...]&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1339</id>
+    <id>https://csells.github.io/sb6/1339</id>
     <title>Squarified Treemaps in Avalon and Much, Much More</title>
     <updated>2004-05-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -173,7 +175,7 @@ Kam Vedbrat, a member of the Longhorn User Experience team (aka the Aero team) t
 &lt;P>All in all, Jonathan provides a 9500+ word tour de force, spanning prose, pictures, opinion, working code and even video! If he'd have done the voice over, he'd have gotten the whole thing. I put my feet up and worked my way through two cups of Chai tea, three biscuits and several pieces of teriyaki turkey jerky on and off during the day while reading his piece and enjoyed the experience very much. Jonathan covers a great deal of the reasons that we're going to have to see passed our old barriers in Longhorn and he does it well, mixing his own thoughts with references from around the web on these topics. If you only read one piece on Longhorn this month, &lt;A href="http://www.codeproject.com/useritems/treemaps.asp">read this one&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12496</id>
+    <id>https://csells.github.io/sb6/12496</id>
     <title>The Advice of Our Fathers</title>
     <updated>2004-05-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -206,7 +208,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1336</id>
+    <id>https://csells.github.io/sb6/1336</id>
     <title>WinHEC Avalon NNTP *Dude*</title>
     <updated>2004-05-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -216,7 +218,7 @@ Discuss&lt;/a>&lt;/p>
 Kenny Lim has posted &lt;A href="http://blogs.msdn.com/digitalnetbizz/archive/2004/05/13/131332.aspx">the source&lt;/A> to his &lt;A href="http://blogs.msdn.com/digitalnetbizz/archive/2004/05/11/130291.aspx">WinHEC-compliant Avalon NNTP Reader&lt;/A> (&lt;A href="http://digitalnetbizz.50megs.com/nntp.JPG">screenshot here&lt;/A>). It's stateless right now, but WinFS seems a natural for keeping this kind of state as soon as we're allowed to extend the WinFS type system. Thanks, Kenny!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1337</id>
+    <id>https://csells.github.io/sb6/1337</id>
     <title>Find Yourself with Longhorn P2P</title>
     <updated>2004-05-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -226,7 +228,7 @@ Kenny Lim has posted &lt;A href="http://blogs.msdn.com/digitalnetbizz/archive/20
 &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/05/13/131357.aspx">Karsten posts&lt;/A> about &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/p2psdk/p2p/what_is_peer-to-peer_networking_.asp">some cool P2P samples he found&lt;/A> in &lt;A href="http://longhorn.msdn.microsoft.com">the updated WinHEC Longhorn SDK&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1333</id>
+    <id>https://csells.github.io/sb6/1333</id>
     <title>WinFS: Where Do The Attributes Come From?</title>
     <updated>2004-05-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -244,7 +246,7 @@ on Channel9 talking about a variety of WinFS topics:&lt;/p>
 &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1334</id>
+    <id>https://csells.github.io/sb6/1334</id>
     <title>MSDNers Storming the 5/18 Portland Nerd Dinner</title>
     <updated>2004-05-12T07:00:00.000Z</updated>
     <published>2004-05-12T07:00:00.000Z</published>
@@ -254,7 +256,7 @@ on Channel9 talking about a variety of WinFS topics:&lt;/p>
 &lt;P>Plus, my boss has one of those nifty MS American Express cards, so we should be able to overpower him and use it to pay for our crappy food court dinners. And as if that weren't enough, my boss will also be packing some MS "crap" (his words : ), so if you only come to one PND, make it this one!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1335</id>
+    <id>https://csells.github.io/sb6/1335</id>
     <title>Your Should Be Using an RSS Reader for Everything!</title>
     <updated>2004-05-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

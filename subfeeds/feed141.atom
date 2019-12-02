@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed141.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed141.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed140.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed142.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed141.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed140.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed142.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed141.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/452</id>
+    <id>https://csells.github.io/sb6/452</id>
     <title>eXtensible C#© Is Here!</title>
     <updated>2003-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -60,7 +62,7 @@ www.resolvecorp.com
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/450</id>
+    <id>https://csells.github.io/sb6/450</id>
     <title>Pies &amp; Marketing Guys</title>
     <updated>2003-02-18T08:00:00.000Z</updated>
     <published>2003-02-18T08:00:00.000Z</published>
@@ -69,7 +71,7 @@ www.resolvecorp.com
 &lt;a href="/12352">Here&lt;/a>. The results of my marketing guy's recent foray are in...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/451</id>
+    <id>https://csells.github.io/sb6/451</id>
     <title>Microsoft &amp; Patents</title>
     <updated>2003-02-18T08:00:00.000Z</updated>
     <published>2003-02-18T08:00:00.000Z</published>
@@ -78,7 +80,7 @@ www.resolvecorp.com
 &lt;a href="/12560">Here&lt;/a>. My retort to a report's questions about Microsoft's recent .NET patent application.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/449</id>
+    <id>https://csells.github.io/sb6/449</id>
     <title>.NET Reverse Engineering Techniques</title>
     <updated>2003-02-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -88,7 +90,7 @@ www.resolvecorp.com
 &lt;a href="http://www.only4gurus.com/download.asp?ID=2372">Here&lt;/a>. From Michael Box: Understanding .NET reverse engineering techniques: file examination, disassembly, spying, using a Debugger and other tools.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12560</id>
+    <id>https://csells.github.io/sb6/12560</id>
     <title>Microsoft &amp; Patents</title>
     <updated>2003-02-18T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -123,7 +125,7 @@ they're playing with the world. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/448</id>
+    <id>https://csells.github.io/sb6/448</id>
     <title>What Is Meant By Marketing</title>
     <updated>2003-02-17T08:00:00.000Z</updated>
     <published>2003-02-17T08:00:00.000Z</published>
@@ -132,7 +134,7 @@ they're playing with the world. : )&lt;/p>
 &lt;a href="/12353">Here&lt;/a>. In my quest for understanding the business side of this industry, I found this amusing...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/447</id>
+    <id>https://csells.github.io/sb6/447</id>
     <title>Microsoft Gets a Clue From Its Kiddie Corps</title>
     <updated>2003-02-17T08:00:00.000Z</updated>
     <published>2003-02-17T08:00:00.000Z</published>
@@ -141,7 +143,7 @@ they're playing with the world. : )&lt;/p>
 &lt;a href="http://www.msnbc.com/news/873455.asp">Here&lt;/a>. A bunch of kids gather in a real-world like setting to design an app, only consulting an actual software engineer after the spec is done. Not only does the core app sound cool, i.e. groups of contacts that play/chat together in an online environment, but the way they designed it sounds cool, too. I'd like to grab a set of my customer base and hang in a trendy Seattle downtown warehouse for a month, too, but my customers are all too old to get away for that long. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/446</id>
+    <id>https://csells.github.io/sb6/446</id>
     <title>dotEASY</title>
     <updated>2003-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ Abstract: "dotEASY" is a Visual Studio .Net Add-in that evaluates C# source code
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/445</id>
+    <id>https://csells.github.io/sb6/445</id>
     <title>No touch deployment</title>
     <updated>2003-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -169,7 +171,7 @@ http://www.ondotnet.com/pub/a/dotnet/2003/01/27/ztd.html
 Here is another problem I just came across.  I often use System.Diagnostics.Process.Start("http://www.sellsbrothers.com") to launch a website (or mailto, etc).  However when deploying a simple URL shortcut to the actual application (on a web server), the assembly gets hosted by IEEXEC.exe.  The problem is that the Process.Start method then returns a file not found error!  I did get it working by directly invoking Internet Explorer, but I needed to know it's directory from the registry because it is not always in the path (and there were some other strange behaviors).  So I have ended up using a minimalist setup.msi file that leaves a 5-10 line Loader.exe program on the users computer which in turn loads the assembly from the web server.  That way it is *not* hosted in IEEXEC and Process.Start works as expected.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/441</id>
+    <id>https://csells.github.io/sb6/441</id>
     <title>Data Tier Modeler for .Net - O/R mapping tool</title>
     <updated>2003-02-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -179,7 +181,7 @@ Here is another problem I just came across.  I often use System.Diagnostics.Proc
 &lt;a href="http://www.evaluant.com">Here&lt;/a>. From Sébastien Ros: This new tool is an object-relational framework fully integrated in VS.Net. Its main features are true UML importation, automatic object cache, database specific generation, transparent data encryption and bidirectional relations navigation. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/443</id>
+    <id>https://csells.github.io/sb6/443</id>
     <title>More Safe Serialization for .NET</title>
     <updated>2003-02-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -189,7 +191,7 @@ Here is another problem I just came across.  I often use System.Diagnostics.Proc
 &lt;a href="http://www.dcooney.com/wiki/?PickleFramework">Here&lt;/a>. From Dominic Cooney: This library provides similar functionality to the .NET Framework's binary serialization (although unlike Chris Sell's SafeFormatter, it's not a drop-in replacement for the binary formatter; you have to implement an interface). It works on the .NET Compact Framework, and in downloaded code with only 'Internet' permissions. Unlike SafeFormatter, this library preserves the object reference graph.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/442</id>
+    <id>https://csells.github.io/sb6/442</id>
     <title>Distributed .NET Newsletter</title>
     <updated>2003-02-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -199,7 +201,7 @@ Here is another problem I just came across.  I often use System.Diagnostics.Proc
 &lt;a href="http://www.ingorammer.com/contact/newsletter.aspx">Here&lt;/a>. From Ingo Rammer: Starting with February 2003, I will publish a free, bi-weekly newsletter on distributed programming with .NET which covers architecture, design and development guides and tips as well as links to other free material I consider as "must reads". </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/440</id>
+    <id>https://csells.github.io/sb6/440</id>
     <title>Inside the Windows Deveopment Process</title>
     <updated>2003-02-13T08:00:00.000Z</updated>
     <published>2003-02-13T08:00:00.000Z</published>
@@ -208,7 +210,7 @@ Here is another problem I just came across.  I often use System.Diagnostics.Proc
 &lt;a href="http://www.winsupersite.com/reviews/winserver2k3_gold2.asp">Here&lt;/a>. From Mike Johnson: A look at how Microsoft develops and maintains the Windows operating system.  Fascinating reading for developers!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/439</id>
+    <id>https://csells.github.io/sb6/439</id>
     <title>Oracle Data Provider for .NET</title>
     <updated>2003-02-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -218,7 +220,7 @@ Here is another problem I just came across.  I often use System.Diagnostics.Proc
 &lt;a href="http://otn.oracle.com/tech/windows/odpnet/content.html">Here&lt;/a>. From Mihies: The Oracle Data Provider for .NET (ODP.NET) features optimized data access to the Oracle database from a .NET environment. Unlike OLE DB .NET and ODBC .NET, ODP.NET is a native driver and does not use a data access bridge, which can reduce performance. ODP.NET allows developers to take advantage of advanced Oracle database functionality. The data provider can be used from any .NET language, including C# and Visual Basic .NET. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12353</id>
+    <id>https://csells.github.io/sb6/12353</id>
     <title>What is Meant by "Marketing"?</title>
     <updated>2003-02-13T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

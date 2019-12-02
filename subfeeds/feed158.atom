@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed158.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed158.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed157.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed159.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed158.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed157.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed159.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed158.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/204</id>
+    <id>https://csells.github.io/sb6/204</id>
     <title>Very interesting insight into working at Microsoft</title>
     <updated>2002-08-28T07:00:00.000Z</updated>
     <published>2002-08-28T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.joelonsoftware.com/articles/TwoStories.html">Here&lt;/a>. From Phil: compares microsoft's culture to mainstream company cultutes.  The author ended up being a program manager for Excel.  He has lots of interesting information on software development in general: http://www.joelonsoftware.com.  Chris, I know you've visited the site, just giving a heads up to other folks...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/203</id>
+    <id>https://csells.github.io/sb6/203</id>
     <title>CollectionGen Updated</title>
     <updated>2002-08-27T07:00:00.000Z</updated>
     <published>2002-08-27T07:00:00.000Z</published>
@@ -50,7 +52,7 @@
 &lt;a href="/12424">Here&lt;/a>. The CollectionGen hits, they keep on coming. Tor-Erik Hagen has split the core code from the VS.NET custom tool code to provide for the command line tool he also provided, along with porting all the C# template code to VB.NET. Justin Rudd and James Johnson have also contributed some efficiency and type-safety enhancements. If only we had a wizard, we'd be set (I've got the beginnings of one, if anyone is interested). Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/200</id>
+    <id>https://csells.github.io/sb6/200</id>
     <title>Web Services Development Kit Technology Preview</title>
     <updated>2002-08-26T07:00:00.000Z</updated>
     <published>2002-08-26T07:00:00.000Z</published>
@@ -63,7 +65,7 @@
 -WS-Attachments and DIME"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/202</id>
+    <id>https://csells.github.io/sb6/202</id>
     <title>x86 ASM to IL Compiler</title>
     <updated>2002-08-26T07:00:00.000Z</updated>
     <published>2002-08-26T07:00:00.000Z</published>
@@ -74,7 +76,7 @@
 [radio.weblogs.com/0108971]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/201</id>
+    <id>https://csells.github.io/sb6/201</id>
     <title>Microsoft Developer Tools Roadmap 2002–2004</title>
     <updated>2002-08-26T07:00:00.000Z</updated>
     <published>2002-08-26T07:00:00.000Z</published>
@@ -83,7 +85,7 @@
 &lt;a href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.asp">Here&lt;/a>. "This document contains a summary of Microsoft's plan for Visual Studio .NET and the .NET Framework over the next two releases."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/199</id>
+    <id>https://csells.github.io/sb6/199</id>
     <title>SQL Server Notification Services ships</title>
     <updated>2002-08-25T07:00:00.000Z</updated>
     <published>2002-08-25T07:00:00.000Z</published>
@@ -92,7 +94,7 @@
 &lt;a href="http://www.microsoft.com/sql/ns/">Here&lt;/a>. "Microsoft SQL Server 2000 Notification Services is the premier platform for developing and deploying a new class of scalable Web applications that deliver personalized, timely information updates to a variety of mobile devices."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12646</id>
+    <id>https://csells.github.io/sb6/12646</id>
     <title>"Spend A Day With .NET" Coding Contest (with prizes and everything!)</title>
     <updated>2002-08-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -271,7 +273,7 @@ or send along a prize or whatever,
 me a line&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/198</id>
+    <id>https://csells.github.io/sb6/198</id>
     <title>"Spend A Day With .NET" on August 30th</title>
     <updated>2002-08-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -281,7 +283,7 @@ me a line&lt;/a>.&lt;/p></content>
 &lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. I've heard from individuals and teams all over the world who are going to participate in the "Spend A Day With .NET" coding contest on August 30th. And as the fever spreads, the prizes increase, now including five different software packages, 12 books, a free year of MSDN Universal and the grand prize, free admission to the Web Services DevCon. It's not too late to call in sick and send in your entry!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/197</id>
+    <id>https://csells.github.io/sb6/197</id>
     <title>foreach is Your Friend, part 1</title>
     <updated>2002-08-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -291,7 +293,7 @@ me a line&lt;/a>.&lt;/p></content>
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1029871000253/">Here&lt;/a>. "Of course, the flexibility and expressiveness of C++ that allowed this kind of thing to be built at the library level, instead of directly into the language itself, was both its best feature and its worst problem. C# eschews this kind of flexibility, and the complexity that follows, by simply building a foreach statement into the language that knows how to handle both arrays and custom types."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/196</id>
+    <id>https://csells.github.io/sb6/196</id>
     <title>Second .NET Framework Service Pack</title>
     <updated>2002-08-22T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -303,7 +305,7 @@ me a line&lt;/a>.&lt;/p></content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/195</id>
+    <id>https://csells.github.io/sb6/195</id>
     <title>The Diminishing Importance of HTML</title>
     <updated>2002-08-21T07:00:00.000Z</updated>
     <published>2002-08-21T07:00:00.000Z</published>
@@ -312,7 +314,7 @@ me a line&lt;/a>.&lt;/p></content>
 &lt;a href="http://www.devx.com/codemag/articles/2002/JulyAug/DiminishingHTML/codemag-1.asp">Here&lt;/a>. "HTML-based Web development has dominated application development for the last six years or so and there are no signs of that changing. However, things are changing as the .NET initiative takes hold. Although Microsoft has put a lot of effort into its Web-based interfaces, which include the powerful new ASP.NET Web Forms framework, I am guessing that there will actually be a push back to desktop-driven, forms-based applications once .NET takes hold."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/194</id>
+    <id>https://csells.github.io/sb6/194</id>
     <title>The Microsoft Script Center</title>
     <updated>2002-08-20T07:00:00.000Z</updated>
     <published>2002-08-20T07:00:00.000Z</published>
@@ -321,7 +323,7 @@ me a line&lt;/a>.&lt;/p></content>
 &lt;a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/scriptcenter/filefolder/default.asp">Here&lt;/a>. From Razvan Caciula: This site rocks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/193</id>
+    <id>https://csells.github.io/sb6/193</id>
     <title>Genghis v0.3 Release</title>
     <updated>2002-08-18T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -347,7 +349,7 @@ me a line&lt;/a>.&lt;/p></content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/192</id>
+    <id>https://csells.github.io/sb6/192</id>
     <title>NUnit 2.0 RC1 available</title>
     <updated>2002-08-16T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -369,7 +371,7 @@ me a line&lt;/a>.&lt;/p></content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/191</id>
+    <id>https://csells.github.io/sb6/191</id>
     <title>Star Trek hope</title>
     <updated>2002-08-16T07:00:00.000Z</updated>
     <published>2002-08-16T07:00:00.000Z</published>

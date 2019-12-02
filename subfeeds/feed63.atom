@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed63.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed63.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed62.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed64.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed63.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed62.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed64.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed63.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1523</id>
+    <id>https://csells.github.io/sb6/1523</id>
     <title>Your distinct personality: The Black Knight</title>
     <updated>2004-09-23T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -43,7 +45,7 @@
 &lt;P>The title is certainly cooler than "Scullery Maid," but the text makes me sound like kind of an asshole... (not that I'm arguing, mind you, I'm just surprised that a computer program can pick it up so readily : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1522</id>
+    <id>https://csells.github.io/sb6/1522</id>
     <title>Very Much Enjoying .NET Rocks Lately</title>
     <updated>2004-09-23T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -53,7 +55,7 @@
 &lt;P>&lt;A href="http://www.franklins.net/dotnetrocks/">DNR&lt;/A> goes up and down like every other media outlet (it's not unlike this very web site in that way), but I've really been enjoying it muchly lately. Not only did I get to hear someone besides &lt;A href="http://www.pluralsite.com/">my normal brethren&lt;/A> talk about CAS in a way that didn't make my flinch (&lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=79">Don Kiely on developing with least privilege&lt;/A>), but I also got to listen to &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=81">Mark Miller&lt;/A> talk (at break-neck speeds) about my Dad freaking out when the jelly got into the peanut butter at the same time he was enthusing about CodeRush and telling Rory that he didn't need counseling to deal with his relationship problems, he needed penicillin. Fabulous.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1520</id>
+    <id>https://csells.github.io/sb6/1520</id>
     <title>Mike Harsh On the Life Left in Windows Forms (Lots!)</title>
     <updated>2004-09-22T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -70,7 +72,7 @@
 &lt;P>These are Mike's opinions and not official Microsoft messaging, but I'll leave you to decide whether that's worse or better. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1519</id>
+    <id>https://csells.github.io/sb6/1519</id>
     <title>Giving a Mapped Drive .NET FullTrust</title>
     <updated>2004-09-21T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -83,7 +85,7 @@
 &lt;P>Since awarding new permissions, full trust or not, to any chunk of code is something that can cause a security hole, be careful. In this case, I'm awarding full trust so that Z acts just like a normal HD which has full trust by default, so I'm OK. Please make sure that you're OK before adding permission via code groups willy nilly.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1518</id>
+    <id>https://csells.github.io/sb6/1518</id>
     <title>Windows Command Shell Partner Drop 3 Available</title>
     <updated>2004-09-20T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -93,7 +95,7 @@
 For Windows Command Shell (aka MSH aka Monad) users, Partner Drop #3 was just posted today on &lt;A href="http://beta.microsoft.com">&lt;U>&lt;FONT color=#0000ff>http://beta.microsoft.com&lt;/U>&lt;/FONT>&lt;/A>. So far, all I know is that it fixes 45 internally and externally reported bugs, but it's nice to know that things are moving along on the first new shell we've had since NT 3.1.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1517</id>
+    <id>https://csells.github.io/sb6/1517</id>
     <title>DevCon Sold Out; Added A Little Extra Space</title>
     <updated>2004-09-20T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -103,7 +105,7 @@ For Windows Command Shell (aka MSH aka Monad) users, Partner Drop #3 was just po
 &lt;a href="/public/conference/">Here&lt;/a>. &lt;P>After only 5 weeks of registrations, &lt;A HREF="/public/conference/">the Applied XML Developer's Conference&lt;/A> has sold out. With 4 weeks of registrations left to go, &lt;STRONG>we've gone back to the venue for extra space&lt;/STRONG>. It's not much extra space, though, so if you want a seat, &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">you should register expeditiously&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1516</id>
+    <id>https://csells.github.io/sb6/1516</id>
     <title>Go See Shaun Of The Dead</title>
     <updated>2004-09-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -113,7 +115,7 @@ For Windows Command Shell (aka MSH aka Monad) users, Partner Drop #3 was just po
 I don't care who or what you are, male or female, rich or poor, heterosexual, homosexual, pansexual or Rory, you should go and see &lt;A href="http://www.imdb.com/title/tt0365748/">Shaun of the Dead&lt;/A>. I went to a sneak preview tonight and it's the best movie I've see all year. Absolutely hil-laugh-your-ass-off-larious.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1515</id>
+    <id>https://csells.github.io/sb6/1515</id>
     <title>Chris and Melissa Go To Burning Man</title>
     <updated>2004-09-12T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -124,7 +126,7 @@ I don't care who or what you are, male or female, rich or poor, heterosexual, ho
 &lt;P>&lt;A HREF="/public/fun/burningman/">&lt;FONT color=#000000>Click here for the full story.&lt;/FONT>&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12343</id>
+    <id>https://csells.github.io/sb6/12343</id>
     <title>Chris and Melissa Go To Burning Man</title>
     <updated>2004-09-12T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/burningman/index.11.jpg"/>
@@ -395,7 +397,7 @@ lifestyles, my own is fairly puritan (&lt;i>mostly &lt;/i>by choice : ). The &am
 Home&amp;quot; that I most treasured was the one I got from my sons on our return.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1513</id>
+    <id>https://csells.github.io/sb6/1513</id>
     <title>Catching up with Longhorn</title>
     <updated>2004-09-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -415,7 +417,7 @@ Home&amp;quot; that I most treasured was the one I got from my sons on our retur
 &lt;P>In the meantime, I'm re-aligning the Longhorn DevCenter content with our new goals, making sure to keep on my toes as things suss out (we're &lt;I>far&lt;/I> from completely sussed on the details or implementations of this announcement, which is why watching internal and external commentary is so interesting right now).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1514</id>
+    <id>https://csells.github.io/sb6/1514</id>
     <title>Joe Stegman on Windows Forms and Avalon Together</title>
     <updated>2004-09-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -425,7 +427,7 @@ Home&amp;quot; that I most treasured was the one I got from my sons on our retur
 Joe Stegman, Lead PM on the Windows Forms team, talks about &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=21751">how tight the integration between Windows Forms and Avalon will be&lt;/A>, including hosting Windows Forms controls inside of Avalon, Avalon controls inside of Windows Forms and sharing a data binding model. In other words, developing on Windows Forms is a wonderful way to get tasty managed UI goodness today and long into the future, whether you'd like to target Avalon and/or Longhorn in the future or not.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1512</id>
+    <id>https://csells.github.io/sb6/1512</id>
     <title>Windows Forms 2.0 Rocks The House</title>
     <updated>2004-09-10T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -435,7 +437,7 @@ Joe Stegman, Lead PM on the Windows Forms team, talks about &lt;A href="http://c
 &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=21658">Joe Stegman shows off the ability of Windows Forms 2.0 to build very professional looking UIs&lt;/A>, including clones of MSN Messenger, MS Money, IE and Outlook, all using out of the box controls. In particular, IE was implemented with 10 lines of non-Designer code. Whoa. I can only assume that the Windows Forms team will ship these code samples on &lt;A href="http://www.windowsforms.net/">windowsforms.net&lt;/A>&amp;nbsp;ASAP. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1511</id>
+    <id>https://csells.github.io/sb6/1511</id>
     <title>New XML Dev.Conf. Talk: XML in .NET 2.0</title>
     <updated>2004-09-07T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -445,7 +447,7 @@ Joe Stegman, Lead PM on the Windows Forms team, talks about &lt;A href="http://c
 &lt;a href="/public/conference/">Here&lt;/a>. Neetu Rajpal, a PM on the SQL Server team, has agreed to give us an overview of what's new in XML for .NET 2.0 and in design-time support for Visual Studio 2005 at &lt;A HREF="/public/conference/">the Applied XML Developer's Conference&lt;/A>, October 20-21 at the Skamania Lodge in Stevenson, Washington. While I was away enjoying &lt;A href="http://www.burningman.com/">America's version of a nude beach&lt;/A>, we've surged to 80% full, so &lt;A HREF="/public/conference/">register soon&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12485</id>
+    <id>https://csells.github.io/sb6/12485</id>
     <title>The Week Before Burning Man</title>
     <updated>2004-09-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -455,7 +457,7 @@ Joe Stegman, Lead PM on the Windows Forms team, talks about &lt;A href="http://c
 &lt;p align="left">I was just listing my activities for the week before Burning Man and amazed even myself:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">Shopping for and celebrating my wife's 36th birthday&lt;/li>&lt;li>&lt;p align="left">Helping to prepare for and then watching Sells brother #1 test for his Jr. Brown belt in karate (he was amazing)&lt;/li>&lt;li>&lt;p align="left">Hosting my aunt and grandmother on a &lt;i>very &lt;/i>rare 4-day trip&lt;/li>&lt;li>&lt;p align="left">A day-trip to the beach&lt;/li>&lt;li>&lt;p align="left">Celebrating the birthday of Sells brother #2&lt;/li>&lt;li>&lt;p align="left">Coordinating the update, from my house and at the last possible moment, of more than 100 pages on microsoft.com to reflect the recent announcement of WinFX being made available on down-level versions of Windows (this included 3 all-nighters)&lt;/li>&lt;li>&lt;p align="left">Preparing for and running a 2-day garage sale of the stuff I pulled out of my house over the last 8 months in my own personal episode of &lt;a href="http://tlc.discovery.com/fansites/cleansweep/cleansweep.html">Clean Sweep&lt;/a>&lt;/li>&lt;li>&lt;p align="left">Packing for 5 days in the desert (I worried about survival and my wife worried about having enough costumes...)&lt;/li>&lt;/ul>&lt;p align="left">Of course, after that I spent a week at Burning Man, and today we're cleaning the playa out of everything, preparing the boys for school, hanging out with the relatives for Labor Day and celebrating our 13th wedding anniversary. Starting tomorrow, I have to figure out what to do with the Longhorn Developer Center now that WinFX will be available on down-level windows, co-author two Avalon books and one Windows Forms book and run the Applied XML Developer's Conference 5. Should be fun. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1510</id>
+    <id>https://csells.github.io/sb6/1510</id>
     <title>The Week Before Burning Man</title>
     <updated>2004-09-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

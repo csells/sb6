@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed90.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed90.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed89.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed91.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed90.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed89.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed91.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed90.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1152</id>
+    <id>https://csells.github.io/sb6/1152</id>
     <title>WinXP SP2 Training Course for Developers</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <published>2004-02-24T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;A href="http://msdn.microsoft.com/security/">The MSDN Security Developer Center&lt;/A> has &lt;A href="http://msdn.microsoft.com/security/productinfo/XPSP2/introduction.aspx">an overview of what XP SP2 will mean for developers&lt;/A>. Now is better than later to check this out!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1142</id>
+    <id>https://csells.github.io/sb6/1142</id>
     <title>Avalon Bezier Spline Designer Code</title>
     <updated>2004-02-23T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 &lt;a href="http://www.nikhilk.net/Entry.aspx?id=31">Here&lt;/a>. By popular demand, Nikhil Kothari, a PM on the ASP.NET team, has posted &lt;A href="http://www.nikhilk.net/Content/Samples/BezierCode.zip">the source code&lt;/A> to &lt;A href="http://www.nikhilk.net/Entry.aspx?id=30">his most excellent Avalon Bezier Spline Designer&lt;/A>. This is the coolest real Longhorn thing I've seen that comes with soure. Thanks, Nikhil!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1143</id>
+    <id>https://csells.github.io/sb6/1143</id>
     <title>50% Evil is Still 50% Good</title>
     <updated>2004-02-23T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -62,7 +64,7 @@
 &lt;P>[via &lt;A href="http://www2.ryanfarley.com:82/blog/">Ryan Farley&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1144</id>
+    <id>https://csells.github.io/sb6/1144</id>
     <title>Chat: Longhorn Roadmap for Existing C/C++ Apps</title>
     <updated>2004-02-23T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -72,7 +74,7 @@
 On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032245114">the VC++ product team will be hosting a chat on what to do with your existing C, C++ and MFC applications in the Longhorn time frame&lt;/A>, starting with what to do now to best prepare yourself and your applications. If you're a VC++ developer, don't miss it!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1145</id>
+    <id>https://csells.github.io/sb6/1145</id>
     <title>Getting Started with Your Own Software Company</title>
     <updated>2004-02-23T08:00:00.000Z</updated>
     <published>2004-02-23T08:00:00.000Z</published>
@@ -82,7 +84,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 &lt;P>BTW, I've seen the Eric's next piece and a Gary Larson reference had me in stitches, so remember to &lt;A href="http://msdn.microsoft.com/longhorn/community/business/default.aspx">come back next month&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1146</id>
+    <id>https://csells.github.io/sb6/1146</id>
     <title>Genghis v0.5 On the Way, But Baby First</title>
     <updated>2004-02-23T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -92,7 +94,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 &lt;a href="http://genghisgroup.com">Here&lt;/a>. &lt;P>For those folks asking, another drop of Genghis is on the way, which includes an HTML link class that handles links for you, a&amp;nbsp;user-sizeable panel, a gradient progress bar, a completely revamped FileDocument and a host of fixes and enhancements, including stacking support and terminal server support for toast windows. However, before that can come, Mike Marshall, the Genghis build-master, stopped to email me about the impending arriving of his first child. Now *that's* dedication! I doubt if I'd stop to email any of the folks in charge of the shared source projects I'm involved with on the way to the hospital... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1141</id>
+    <id>https://csells.github.io/sb6/1141</id>
     <title>Adding Ref-Counting to Rotor</title>
     <updated>2004-02-22T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -107,7 +109,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 &lt;P>BTW2, I'd like to take this opportunity to publicly apologize to Brian Harry. It is definitely the case that &lt;A href="http://discuss.develop.com/archives/wa.exe?A2=ind0007&amp;amp;L=DOTNET&amp;amp;P=R24819&amp;amp;I=3">ref-counting *can* be added to .NET&lt;/A> but &lt;A href="http://discuss.develop.com/archives/wa.exe?A2=ind0010A&amp;amp;L=DOTNET&amp;amp;P=R28572&amp;amp;I=3">I have in no way shown that it *should* be done&lt;/A>. Thanks for letting me try, though. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1140</id>
+    <id>https://csells.github.io/sb6/1140</id>
     <title>Ryan Dawson on Indigo</title>
     <updated>2004-02-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 &lt;A href="http://www.longhornblogs.com/rdawson/articles/IndigoWallstreet.aspx">Ryan Dawson turns his attention to Indigo&lt;/A>, building a client and server and then adding security and reliability. In his writing, he also points out a number of pitfalls for you to avoid when getting starting with Indigo in the PDC bits.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1138</id>
+    <id>https://csells.github.io/sb6/1138</id>
     <title>WinFS Scenario #2: Event Planning</title>
     <updated>2004-02-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -128,7 +130,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 &lt;P>On a related note, I was watching an internal training video on WinFS yesterday and it excited me in a way that's not appropriate for humans to feel about technology. The enumeration, update, serialization, relationship, extensibility and notification models just all seem so *right*. I'm looking forward to another drop of the bits that enables me to extend WinFS so I can really start building stuff.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1139</id>
+    <id>https://csells.github.io/sb6/1139</id>
     <title>Exploring New WinForm Controls in VS .NET Whidbey</title>
     <updated>2004-02-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -138,7 +140,7 @@ On Monday, March 15th between 11am and 12:30pm PST, &lt;A href="http://msevents.
 Long before Longhorn, we'll have Whidbey and an updated Windows Forms (as well as a bunch of other updated things, but I like Windows Form : ). &lt;A href="http://www.devx.com/codemag/Article/20145/0/page/1">This article enumerates some of the updated controls in Windows Forms Whidbey.&lt;/A>&amp;nbsp;Also, stay turned for an MSDN Magazine article by Michael Weinhardt and me with a broader look at what's new in Whidbey Windows Forms (in fact, &lt;A href="http://msdn.microsoft.com/columns/winforms.asp">Michael has already tackled the new GridView control&lt;/A>).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1134</id>
+    <id>https://csells.github.io/sb6/1134</id>
     <title>Monkeying For Rory at PADNUG</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -148,7 +150,7 @@ Long before Longhorn, we'll have Whidbey and an updated Windows Forms (as well a
 Rory has graciously allowed me to volunteer as his code/slide monkey at &lt;A href="http://www.padnug.org/padnug/meetings.aspx?ID=86">his Portland Area .NET User's Group meeting talk on Thursday, 2/26 at 6:30pm&lt;/A>. The topic, in his words: "2/3 'Stuff you can use right now' and 1/3 'When pigs fly (Longhorn)'." I miss monkeying with my DM brethren, so I'm looking forward to this very much.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1137</id>
+    <id>https://csells.github.io/sb6/1137</id>
     <title>Prepare for Longhorn: Architecture Strategy Series</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -158,7 +160,7 @@ Rory has graciously allowed me to volunteer as his code/slide monkey at &lt;A hr
 Steve Kirk has updated &lt;A href="http://msdn.microsoft.com/architecture/">the Architecture Developer Center&lt;/A> with &lt;A href="http://msdn.microsoft.com/architecture/overview/series/">a series of streaming video presentations about the core architectures that motivated Longhorn&lt;/A>. Topics range Pat Helland on comparing technology architectures with city architectures to Gurdeep Singh Pall talking about real-time collaboration, which a wide range of subjects in between. If you'd like to get your head in the same place that Microsoft's architects were when the conceived of Longhorn, while still getting information that you can use today, check these out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1133</id>
+    <id>https://csells.github.io/sb6/1133</id>
     <title>Anon Delegates and Higher Order Procedures in C#</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -168,7 +170,7 @@ Steve Kirk has updated &lt;A href="http://msdn.microsoft.com/architecture/">the 
 Steve Maine has written &lt;A href="http://msdnaa.net/Resources/display.aspx?ResID=2488">a very nice piece on anonymous delegates and higher order procedures in C# Whidbey&lt;/A>. Enjoy. I know I did.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1135</id>
+    <id>https://csells.github.io/sb6/1135</id>
     <title>What The Heck Is a "Smart Client" Anyway?</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -178,7 +180,7 @@ Steve Maine has written &lt;A href="http://msdnaa.net/Resources/display.aspx?Res
 In the most recent &lt;A href="http://msdn.microsoft.com/architecture/community/newsletter/">Microsoft Architecture Update newsletter&lt;/A>, David Hill defines just &lt;A href="http://msdn.microsoft.com/architecture/community/newsletter/#au1">what the heck Microsoft means when the sling around the term "smart client."&lt;/A> Worth reading for the Ven diagram alone.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1132</id>
+    <id>https://csells.github.io/sb6/1132</id>
     <title>Avalon DataTransformer Sample</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

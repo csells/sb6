@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed18.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed18.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed17.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed19.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed18.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed17.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed19.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed18.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2161</id>
+    <id>https://csells.github.io/sb6/2161</id>
     <title>"So easy to read, it should be illegal"</title>
     <updated>2008-01-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -43,7 +45,7 @@
 Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A href="http://www.amazon.ca/Programming-Wpf-Building-Presentation-Foundation/dp/customer-reviews/0596510373/ref=cm_cr_dp_all_summary/701-8494570-8437158?ie=UTF8&amp;amp;customer-reviews.sort%5Fby=-SubmissionDate&amp;amp;showViewpoints=1&amp;amp;customer-reviews.start=1#customerReviews">compliment&lt;/A>. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2160</id>
+    <id>https://csells.github.io/sb6/2160</id>
     <title>WHS Continues to Rock My World</title>
     <updated>2008-01-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -58,7 +60,7 @@ Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A hre
 &lt;P>Really, the only problem I have now is that I only have enough data to fill 14% of the 1.4TB of new storage space. Maybe we need a Windows Friends &amp;amp; Family Server and I could rent out the extra space? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2158</id>
+    <id>https://csells.github.io/sb6/2158</id>
     <title>Christmas Delight</title>
     <updated>2007-12-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -76,7 +78,7 @@ Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A hre
 &lt;P>*Yes, I know I'm a Microsoft employee and biased. Feel free to take what I say with as much salt as your heart can take. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2159</id>
+    <id>https://csells.github.io/sb6/2159</id>
     <title>Fingerling Potato Baby Jesus</title>
     <updated>2007-12-27T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -86,7 +88,7 @@ Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A hre
 &lt;A href="http://cgi.ebay.com/Fingerling-Potato-Baby-Jesus_W0QQitemZ230206884496QQihZ013QQcategoryZ13771QQssPageNameZWDVWQQrdZ1QQcmdZViewItem">This is what happens&lt;/A> when my relatives get together and the wine flows freely...&amp;nbsp;: )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2157</id>
+    <id>https://csells.github.io/sb6/2157</id>
     <title>The Sidekick Phone Sucks</title>
     <updated>2007-12-26T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -102,7 +104,7 @@ Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A hre
 &lt;p>P.S. I can't tell you how much my son loves this phone...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2156</id>
+    <id>https://csells.github.io/sb6/2156</id>
     <title>Microsoft needs you to build Emacs.Net</title>
     <updated>2007-12-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -112,7 +114,7 @@ Thanks very much "ET" on the Canadian Amazon. I can think of no higher &lt;A hre
 Interested? &lt;A href="http://www.douglasp.com/blog/2007/12/27/EmacsNet.aspx">Drop Doug a line.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2155</id>
+    <id>https://csells.github.io/sb6/2155</id>
     <title>Posting from my OLPC PC</title>
     <updated>2007-12-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -122,7 +124,7 @@ Interested? &lt;A href="http://www.douglasp.com/blog/2007/12/27/EmacsNet.aspx">D
 The form factor is cool, the OS is fine (although I'd prefer Windows) but the chicklet keyboard is worthless. I can literally type faster on my t-mobile dash smartphone. Anyone want an OLPC laptop PC for $200 + shipping? </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2154</id>
+    <id>https://csells.github.io/sb6/2154</id>
     <title>XBOX 360 For Pennies a Day!</title>
     <updated>2007-12-16T08:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -139,7 +141,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;P>P.S. The moral of the story: buy your electronics at CostCo.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2153</id>
+    <id>https://csells.github.io/sb6/2153</id>
     <title>Conversing In Italian over the Interweb</title>
     <updated>2007-12-12T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -153,7 +155,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;P>All in all, I'd say it worked out pretty well, although I did get some flowers from his dog the other day...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2152</id>
+    <id>https://csells.github.io/sb6/2152</id>
     <title>Here Comes Another Bubble sttto some Billy Joel song...</title>
     <updated>2007-12-11T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -163,7 +165,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;A href="http://www.richterscales.com/assets/audio/rsrecordings/HereComesAnotherBubble.mp3">This is hilarious!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2151</id>
+    <id>https://csells.github.io/sb6/2151</id>
     <title>Win a Trip to NYC + WPF Dream Machine with Your WPF Application Stylings!</title>
     <updated>2007-12-10T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -187,7 +189,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;P>I'm a bit of a financial nut, so I'm very much looking forward to the results of this contest. Dazzle us!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2150</id>
+    <id>https://csells.github.io/sb6/2150</id>
     <title>Give Them a Fish or Teach 'em To Fish?</title>
     <updated>2007-12-10T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -200,7 +202,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;P>I can see his point, but I don't see how decades of giving food and support to the 3rd world has helped them to become part of the 1st world. Maybe access to the world's information so that they can educate themselves and learn how to solve their own problems might work a little better. It's worth a try at least.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2149</id>
+    <id>https://csells.github.io/sb6/2149</id>
     <title>Mark Your Calendars! PDC08 Announced</title>
     <updated>2007-12-06T08:00:00.000Z</updated>
     <published>2007-12-06T08:00:00.000Z</published>
@@ -211,7 +213,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;H3>October 27&amp;#8211;30, 2008&lt;BR>Pre-conference October 26, 2008&lt;BR>Los Angeles, California&lt;/H3></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2148</id>
+    <id>https://csells.github.io/sb6/2148</id>
     <title>12 ways to de-commercialize the holidays</title>
     <updated>2007-12-03T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -235,7 +237,7 @@ The form factor is cool, the OS is fine (although I'd prefer Windows) but the ch
 &lt;P>On the "Let the kids rule for one day" front, that's what we do each year for each kid's birthday. They look forward to that part of it more than any other.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2147</id>
+    <id>https://csells.github.io/sb6/2147</id>
     <title>StayAtHomeServer.com!</title>
     <updated>2007-12-03T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed125.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed125.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed124.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed126.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed125.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed124.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed126.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed125.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/665</id>
+    <id>https://csells.github.io/sb6/665</id>
     <title>Posting This from the Applied XML Dev.Conf.</title>
     <updated>2003-07-09T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -44,7 +46,7 @@
 If you'd like to participate in the conference, head over to the conference home page for the link to the message board and post to your heart's content.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/664</id>
+    <id>https://csells.github.io/sb6/664</id>
     <title>Stop planning for the future!</title>
     <updated>2003-07-09T07:00:00.000Z</updated>
     <published>2003-07-09T07:00:00.000Z</published>
@@ -55,7 +57,7 @@ If you'd like to participate in the conference, head over to the conference home
 Stu says this in more detail for the unconvinced.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/662</id>
+    <id>https://csells.github.io/sb6/662</id>
     <title>The Best Just Keeps Getting Better</title>
     <updated>2003-07-08T07:00:00.000Z</updated>
     <published>2003-07-08T07:00:00.000Z</published>
@@ -64,7 +66,7 @@ Stu says this in more detail for the unconvinced.</content>
 &lt;a href="http://www.sharpreader.net/">Here&lt;/a>. SharpReader 0.9.2 released today. Includes Feedster, Technorati &amp; [slash:comments] support, as well as bug fixes. I'm running it now w/ no problems.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/661</id>
+    <id>https://csells.github.io/sb6/661</id>
     <title>All the new kids on the blog</title>
     <updated>2003-07-08T07:00:00.000Z</updated>
     <published>2003-07-08T07:00:00.000Z</published>
@@ -73,7 +75,7 @@ Stu says this in more detail for the unconvinced.</content>
 &lt;a href="http://seattlepi.nwsource.com/business/129927_msftblog08.html">Here&lt;/a>. What became of my interview with the Seattle PI.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/657</id>
+    <id>https://csells.github.io/sb6/657</id>
     <title>My First Press Contact @ MS</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <published>2003-07-07T07:00:00.000Z</published>
@@ -82,7 +84,7 @@ Stu says this in more detail for the unconvinced.</content>
 &lt;a href="/12542">Here&lt;/a>. The one where I joust with a knight of the Seattle Post-Intelligencer.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/656</id>
+    <id>https://csells.github.io/sb6/656</id>
     <title>Genghis Moved to GotDotNet Workspaces 1.0</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -92,19 +94,19 @@ Stu says this in more detail for the unconvinced.</content>
 &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=dfd0b577-2e97-4d21-90c4-6ca9d83e47ad">Here&lt;/a>. Now that GotDotNet Workspaces 1.0 has shipped (congrats!) Mike has moved Genghis there. Feel free to apply for membership if you've already contributed source to Genghis or if there's something you'd like to add.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/660</id>
+    <id>https://csells.github.io/sb6/660</id>
     <title>Regular Expression Workbench 2.0</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
     <published>2003-07-07T07:00:00.000Z</published>
-    <summary>Here. While I don't think it's as pretty, Eric Gunnerson's RegexW has some cool features I wish RegexD [1] had, like regex->English translation and menus for regex parts. Anyone want to merge the best of both into some uber regex tool? [1] http://127.0.0.1:8080/tools/#regexd</summary>
+    <summary>Here. While I don't think it's as pretty, Eric Gunnerson's RegexW has some cool features I wish RegexD [1] had, like regex->English translation and menus for regex parts. Anyone want to merge the best of both into some uber regex tool? [1] https://csells.github.io/sb6/tools/#regexd</summary>
     <content type="html">&lt;h1>Regular Expression Workbench 2.0&lt;/h1>
 &lt;a href="http://blogs.gotdotnet.com/EricGu/permalink.aspx/3eaf7ed2-d76b-427a-913c-79284e11e9cd">Here&lt;/a>. While I don't think it's as pretty, Eric Gunnerson's RegexW has some cool features I wish RegexD [1] had, like regex->English translation and menus for regex parts. Anyone want to merge the best of both into some uber regex tool?
 
-[1] http://127.0.0.1:8080/tools/#regexd</content>
+[1] https://csells.github.io/sb6/tools/#regexd</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12542</id>
+    <id>https://csells.github.io/sb6/12542</id>
     <title>My 
 First Press Contact @ MS</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
@@ -147,7 +149,7 @@ from imperfect human memory):&lt;/p>&lt;blockquote>&lt;p>Todd: &amp;quot;Thanks 
 	Longhorn DevCenter.&lt;/i>&lt;/p>&lt;p>Todd: &amp;quot;Can I just say you're an MSDN Content 
 	Strategist?&amp;quot;&lt;/p>&lt;p>Chris: &amp;quot;Sure.&amp;quot;&lt;/p>&lt;p>&lt;i>So now the reporter's got me 
 	giving him more info than he actually wants. I'm in trouble...&lt;/i>&lt;/p>&lt;p>
-	Todd: &amp;quot;And your blog is http://127.0.0.1:8080/spout?&amp;quot;&lt;/p>&lt;p>Chris: &lt;i>
+	Todd: &amp;quot;And your blog is https://csells.github.io/sb6/spout?&amp;quot;&lt;/p>&lt;p>Chris: &lt;i>
 	long explanation about how I organize my site, how the Spout is just the 
 	editorial section and that I announce everything from all sections on my 
 	home page.&lt;/i>&lt;/p>&lt;p>Todd: &amp;quot;Oh. So your blog is just 
@@ -160,7 +162,7 @@ Robert Scoble took the brunt...&lt;/a>]&lt;/i>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/658</id>
+    <id>https://csells.github.io/sb6/658</id>
     <title>Linus Torvald Goes To Work in My Neck Of the Woods</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <published>2003-07-07T07:00:00.000Z</published>
@@ -173,7 +175,7 @@ Linus continues to live in California, but works for a company in Beaverton, OR.
 I don't know what that means, but it sounds cool. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/659</id>
+    <id>https://csells.github.io/sb6/659</id>
     <title>Crackers</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <published>2003-07-07T07:00:00.000Z</published>
@@ -182,7 +184,7 @@ I don't know what that means, but it sounds cool. : )</content>
 &lt;a href="http://dotnetguy.techieswithcats.com/archives/003549.shtml">Here&lt;/a>. I love this kind of double-sneaky sneaky..</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/655</id>
+    <id>https://csells.github.io/sb6/655</id>
     <title>Membership to the RegexD Workspace</title>
     <updated>2003-07-07T07:00:00.000Z</updated>
     <published>2003-07-07T07:00:00.000Z</published>
@@ -193,7 +195,7 @@ I don't know what that means, but it sounds cool. : )</content>
 If you want to be a member, send include a link to an initial change in your request message so that I can check it out before approving your membership.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/653</id>
+    <id>https://csells.github.io/sb6/653</id>
     <title>Feedster turns turbo!</title>
     <updated>2003-07-04T07:00:00.000Z</updated>
     <published>2003-07-04T07:00:00.000Z</published>
@@ -202,7 +204,7 @@ If you want to be a member, send include a link to an initial change in your req
 &lt;a href="http://www.feedster.com/">Here&lt;/a>. I don't know what happened, but suddenly Feedster rocks. It turned up 76 references to the Applied XML Developer's Conference in Google speeds. Plus, the Understanding Your Search section is just cool (although I don't really need to see it on every page of results : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/654</id>
+    <id>https://csells.github.io/sb6/654</id>
     <title>Feedster Wars</title>
     <updated>2003-07-04T07:00:00.000Z</updated>
     <published>2003-07-04T07:00:00.000Z</published>
@@ -273,7 +275,7 @@ oracle: 4273
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/652</id>
+    <id>https://csells.github.io/sb6/652</id>
     <title>Alvio -- a very cool place to order computers</title>
     <updated>2003-07-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -290,7 +292,7 @@ The thing that I like most about Dell is how easy it is to configure computers o
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/651</id>
+    <id>https://csells.github.io/sb6/651</id>
     <title>I'm with Mike: Gentlemen Prefer SharpReader</title>
     <updated>2003-07-03T07:00:00.000Z</updated>
     <published>2003-07-03T07:00:00.000Z</published>

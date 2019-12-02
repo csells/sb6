@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed40.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed40.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed39.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed41.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed40.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed39.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed41.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed40.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1846</id>
+    <id>https://csells.github.io/sb6/1846</id>
     <title>No DevCon This Year</title>
     <updated>2005-08-26T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -43,7 +45,7 @@
 &lt;P>P.S. I imagine the DevCon come back in time, but it may well be a while...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1845</id>
+    <id>https://csells.github.io/sb6/1845</id>
     <title>Avalon + Indigo = Magic @ the PDC</title>
     <updated>2005-08-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -56,7 +58,7 @@
 &lt;P>It's midnight as I post this description and Doug has been in my office since 6:30pm working with me on it. If nothing else, it's going to be hella fun for us. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1844</id>
+    <id>https://csells.github.io/sb6/1844</id>
     <title>PND For You And Me</title>
     <updated>2005-08-24T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -66,7 +68,7 @@
 &lt;P>Between &lt;a href="/12474">the new job&lt;/A>, the new house and &lt;A href="/wpfbook">the book&lt;/A>, I haven't had nearly enough contact with &lt;A href="http://www.neopoleon.com/blog/">my&lt;/A> &lt;A href="http://www.hanselman.com/blog/">local&lt;/A> &lt;A href="http://richhubbins.theclaussens.com/">nerd&lt;/A> &lt;A href="http://www.managed-world.com/">friends&lt;/A>. I'm starting to experience nerd withdrawal symptoms! Come to &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/08/23/7021.aspx">the PND next Tuesday&lt;/A> and ask me about &lt;A href="http://www.google.com/search?hl=en&amp;amp;q=define+mdd">MDD&lt;/A>, &lt;A href="http://msdn.microsoft.com/events/pdc/">my PDC talk&lt;/A> or &lt;A href="http://www.dotnetrocks.com/default.aspx?showID=130">how Jeff Richter and I were recently blamed for IDisposable&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1843</id>
+    <id>https://csells.github.io/sb6/1843</id>
     <title>Show Off @ The PDC</title>
     <updated>2005-08-23T07:00:00.000Z</updated>
     <published>2005-08-23T07:00:00.000Z</published>
@@ -78,7 +80,7 @@
 &lt;P>Careful; these are the kinds of events that inspire &lt;a href="/12357">me&lt;/A> &lt;a href="/12360">and&lt;/A> &lt;a href="/12618">my&lt;/A> &lt;a href="/12640">friends&lt;/A> &lt;a href="/12348">to&lt;/A> &lt;A HREF="/public/fun/centerfold/">get&lt;/A> &lt;a href="/12350">a&lt;/A> &lt;a href="/12346">little&lt;/A> &lt;a href="/12352">crazy&lt;/A>. Still, there ain't an audience on the planet that wants to see your cool, geeky stuff more than the PDC audience. Come one, come all!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1842</id>
+    <id>https://csells.github.io/sb6/1842</id>
     <title>New Contractor Advice: Time Estimation</title>
     <updated>2005-08-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -91,7 +93,7 @@
 &lt;P>Obviously, very few people that read this site are contractors in the area of home renovation, but I think the advice applies to most forms of contracting. Take it as you will.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1839</id>
+    <id>https://csells.github.io/sb6/1839</id>
     <title>The List</title>
     <updated>2005-08-20T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -104,7 +106,7 @@
 &lt;P>Can't you just picture the movie where the terrorists kidnap a Cabinet member, hold their family hostage and use them as a mule to blow up some airplane? I'll take the anal probes at the airport, thank you.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1838</id>
+    <id>https://csells.github.io/sb6/1838</id>
     <title>Cool New IVR Feature</title>
     <updated>2005-08-19T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -115,7 +117,7 @@
 &lt;P>However, I never thought of the IVR feature I ran into today. While transfering my utilities to our new address, one of the utilities put me on hold and offered to call me back when it was my turn in line (promising me that I would not lose my place). I've got &lt;A href="http://www.audiovox.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&amp;amp;storeId=10001&amp;amp;productId=13758&amp;amp;langId=-1">the world's most perfect cell phone&lt;/A> and &lt;A href="http://www.motorola.com/mdirect/demos/bluetooth03/">the world's most perfect Bluetooth headset&lt;/A>, so staying on hold was just as easy as not, but still, that's a damn cool feature.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12469</id>
+    <id>https://csells.github.io/sb6/12469</id>
     <title>The Half Monty</title>
     <updated>2005-08-12T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="/public/spout/halfmonty.PNG"/>
@@ -126,7 +128,7 @@
 &lt;p align="left">I spent last weekend in Reno with Joel, my fraternity brother, wife's sister's husband and business partner (we have an investing business). We'd both been working killer hours lately and we needed a break, so we spent three days on a &amp;quot;dirty boy's weekend&amp;quot; (as another friend called it). We gambled and drank and ate and slept in and took in a showing of &lt;a href="http://www.imdb.com/title/tt0377818/">The Dukes of Hazzard&lt;/a> and, one night, we went to a comedy club. The main act was a fabulous comedian that took his craft very seriously. In fact, he was so committed to what he did, that he went to all the trouble to have his hair cut so that it looked short with it tucked into his hat, even though it was really very long, just so he could whip it out in his act for comedic effect. During his act, he juggled a chainsaw, did an amazing card trick, road a unicycle, played music on the MP3 player he'd plugged into his mic, brought folks up on stage and had us all laughing the entire time. He had this way of bringing folks up on stage where he'd point at a person, ask them their name (e.g. &amp;quot;Bob&amp;quot;) and then say, &amp;quot;Folks, give Bob a hand as he comes up to help me out with this next bit.&amp;quot; He was a true entertainer.&lt;/p>&lt;p align="left">After he'd had us busting a gut for about an hour, he pointed to me and said, &amp;quot;What's your name?&amp;quot; I answered him and he said, &amp;quot;Folks, give Chris a hand as he comes up to help me out with this next bit&amp;quot; and up on stage I went. Now, from a distance, I look fairly normal sized, especially sitting down. Our comedian was a tad on the short size, frankly, so when I walked up on stage, I towered over him and his eyes got real big. Of course, I'm shy on stage, so I didn't say much, but nodded and played along good-naturedly. I mean, hell, I'd once led an audience into &lt;a href="/12352">a public pie lynching of a suited marketing person&lt;/a>, so I knew the drill.&lt;/p>&lt;p align="left">He looked at me and said, &amp;quot;Chris, I want you to follow along with me. Do what I do. If you don't do what I do, it won't be funny. The funnier it is, the more likely you are to get laid.&amp;quot; Of course, I was in Reno w/o my wife, so unless Joel got frisky, I wasn't going to get laid, but that didn't mean I wasn't enthusiastic about increasing my chances (and, of course, the audience was egging me on), so I nodded my head earnestly that I would do my best to follow along. He gave me a floppy cabby hat and put a top hat on his own head -- I followed along. He did a little bit of &lt;a href="http://www.imdb.com/title/tt0204946/">&amp;quot;spirit fingers&amp;quot;&lt;/a> and I followed. He did some &lt;a href="http://www.elvis.com/">hip gyrations&lt;/a>; I followed. Of course, the audience was loving this and I love it when the audience is having a good time, so I'm having a good time.&lt;/p>&lt;p align="left">Then he started the music: &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/B000005K6Y/qid=1123905990">&amp;quot;You Can Leave Your Hat On,&amp;quot;&lt;/a> by Tom Jones, made famous in strip routines the world over and most especially in the excellent movie: &lt;a href="http://www.imdb.com/title/tt0119164/">The Fully Monty&lt;/a>.&lt;/p>&lt;p align="left">I can see where this is going.&lt;/p>&lt;p align="left">So can the audience.&lt;/p>&lt;p align="left">Now I'm trying to remember what underwear I'm wearing.&lt;/p>&lt;p align="left">Our comedian starts into his routine, doing flips and tricks with his hat that I try to keep up with, but it's hard enough to balance a stiff top hat on your head, let alone a floppy cabby hat so, while I make the best of it, I'm only funny because I can't do what this guy is doing. The best bit, of course, is when he holds his hat over his crotch, I follow, he gyrates, I follow, he lets go of his hat, I follow, his hat stays up and mine... does not (obviously he's more likely to get laid at this point than I am : ).&lt;/p>&lt;p align="left">After this, he pulls half his belt out and swings it around in a sexy manner; I follow, being as sexy as a giant, overweight geek can be (remember the fat guy from The Full Monty?). He throws his belt over his should and I do the same.&lt;/p>&lt;p align="left">And then the inevitable. The music builds to a fever pitch, he reaches down and pulls off his pull-away pants in one smooth motion, throwing them over his shoulder and the crowd goes wild.&lt;/p>&lt;p align="left">Then he looks at me expectantly and the crowd goes even more wild (especially Joel who's nearly choking in laughter at this point). I raise my eyebrow to the comedian and he eggs me on. I raise my eyebrow to the audience and they egg me on. I remember that I'm no stranger to public nudity and a crazy audience is even more fun than &lt;a href="/public/fun/centerfold/">a quiet photo studio&lt;/a>, so I reach for my pants.&lt;/p>&lt;p align="left">Of course, I'm not wearing my tear-away pants, so I'm laboriously unbuttoning and unzipping, following by carefully pulling off my pants over my sandals, which is not an easy thing to do without falling down when you're 6'5&amp;quot; and your center of gravity is someone near your left ear. But, I manage it and throw my pants over my shoulder, suddenly reminded of the underwear I chose for my day of revelry:&lt;/p>&lt;p align="left">&lt;img border="0" src="/public/spout/halfmonty.PNG" width="640" height="480">&lt;/p>&lt;p align="left">Now the comedian was nearly choking with laughter, but he said I did a great job and reached out to give me a hug (being careful to keep his hips as far away from mine as I was keeping mine from his), then shoo'd me off the stage. Then, while I'm still struggling to get my pants back on, the house lights go up, the act is over and the comedian is gone. And now, half the audience wants to shake my hand on the way out for showing off my polka dots on stage. It was a good way to start the weekend. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1836</id>
+    <id>https://csells.github.io/sb6/1836</id>
     <title>Very Cool Nullable Fix</title>
     <updated>2005-08-12T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -148,7 +150,7 @@
 &lt;P>&lt;A href="http://blogs.msdn.com/somasegar/archive/2005/08/11/450640.aspx">Somasgar has the full scoop.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1837</id>
+    <id>https://csells.github.io/sb6/1837</id>
     <title>Chris does the Half Monty</title>
     <updated>2005-08-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -159,7 +161,7 @@
 &lt;P>&lt;IMG height=480 src="/public/spout/halfmonty.PNG" width=640 border=0>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1835</id>
+    <id>https://csells.github.io/sb6/1835</id>
     <title>What should I do w/ the metadata?</title>
     <updated>2005-08-11T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -178,7 +180,7 @@
 &lt;P>What do you guys do?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1833</id>
+    <id>https://csells.github.io/sb6/1833</id>
     <title>I Love Arguing with Ian</title>
     <updated>2005-08-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -210,7 +212,7 @@
 &lt;P class=MsoNormal>&lt;FONT face="Times New Roman" size=3>&lt;SPAN style="FONT-SIZE: 12pt">See? Big fun! : )&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/FONT></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1834</id>
+    <id>https://csells.github.io/sb6/1834</id>
     <title>Fight Club Rules 9-16</title>
     <updated>2005-08-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -220,7 +222,7 @@
 If you love &lt;A href="http://www.imdb.com/title/tt0137523/">Fight Club&lt;/A> (who doesn't?!?), then you'll love &lt;A href="http://www.drinkatwork.com/2005/08/ninth-through-sixteenth-rules-of-fight.html">the rest of the Fight Club rules&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1832</id>
+    <id>https://csells.github.io/sb6/1832</id>
     <title>WinFX Beta 1 Online SDK Docs</title>
     <updated>2005-08-03T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -230,7 +232,7 @@ If you love &lt;A href="http://www.imdb.com/title/tt0137523/">Fight Club&lt;/A> 
 &lt;A href="http://winfx.msdn.microsoft.com/library/">I think the title says it all...&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1831</id>
+    <id>https://csells.github.io/sb6/1831</id>
     <title>Don Box Slept Here</title>
     <updated>2005-07-28T07:00:00.000Z</updated>
     <published>2005-07-28T07:00:00.000Z</published>

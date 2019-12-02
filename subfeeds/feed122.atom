@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed122.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed122.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed121.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed123.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed122.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed121.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed123.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed122.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/700</id>
+    <id>https://csells.github.io/sb6/700</id>
     <title>Inscrutable Spam: "DWG Needed"</title>
     <updated>2003-07-22T07:00:00.000Z</updated>
     <published>2003-07-22T07:00:00.000Z</published>
@@ -45,7 +47,7 @@ If this is spam, I fail to see what they're selling, but I was amused anyway:
 I admit to sending an email with my regrets (what time travel-related plans I possess are incomplete), but expressed my willingness to accept "good money." : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/701</id>
+    <id>https://csells.github.io/sb6/701</id>
     <title>My $5 Digital Music Experiment</title>
     <updated>2003-07-22T07:00:00.000Z</updated>
     <published>2003-07-22T07:00:00.000Z</published>
@@ -54,7 +56,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="/12536">Here&lt;/a>. The one where I really, really try to love BuyMusic.com.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/699</id>
+    <id>https://csells.github.io/sb6/699</id>
     <title>Nerd in Shining Armor</title>
     <updated>2003-07-22T07:00:00.000Z</updated>
     <published>2003-07-22T07:00:00.000Z</published>
@@ -63,7 +65,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0440241162/chrissells">Here&lt;/a>. It was completely vapid and intellectually void, but I stayed up 'til 2:30a last night reading it while various alpha bits installed on my laptop. Nice mental floss.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/698</id>
+    <id>https://csells.github.io/sb6/698</id>
     <title>My First Visit to MS Studios</title>
     <updated>2003-07-22T07:00:00.000Z</updated>
     <published>2003-07-22T07:00:00.000Z</published>
@@ -72,7 +74,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="/12537">Here&lt;/a>. The one where I get to see where BillG taped his anti-trust testimony.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/697</id>
+    <id>https://csells.github.io/sb6/697</id>
     <title>.NET Delegates Are More Powerful Than You Think</title>
     <updated>2003-07-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -82,7 +84,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-07-21T08:36:33Z">Here&lt;/a>. Don has a nice write-up of delegates vs. interfaces as points of extensibility. Bottom line: delegates are more flexible than interfaces.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/696</id>
+    <id>https://csells.github.io/sb6/696</id>
     <title>Get MS Knowledge Base Alerts via RSS</title>
     <updated>2003-07-20T07:00:00.000Z</updated>
     <published>2003-07-20T07:00:00.000Z</published>
@@ -91,7 +93,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://weblogs.asp.net/dwanta/posts/10284.aspx">Here&lt;/a>. "If you haven’t heard of kbAlertz, it’s a website I setup to email me (and other subscribers) when Microsoft publishes new KB articles for their technologies. I’ve finally gotten around to exposing the Kbs as a RSS feed. Basically, pick the technology you want to subscribe to, and I’ll expose the latest 10 Microsoft Knowledge base articles as a RSS feed."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/694</id>
+    <id>https://csells.github.io/sb6/694</id>
     <title>RSS2.0 Copyright Transferred to Harvard Law School</title>
     <updated>2003-07-18T07:00:00.000Z</updated>
     <published>2003-07-18T07:00:00.000Z</published>
@@ -100,7 +102,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://scriptingnews.userland.com/backissues/2003/07/18#rss20News">Here&lt;/a>. Dave Winer has transferred the copyright to RSS 2.0 to Harvard Law School as well as opened it up for more public feedback. This is good because RSS 2.0 is gaining in popularity but has come under fire lately for being controlled by Dave alone. Thanks, Dave.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/695</id>
+    <id>https://csells.github.io/sb6/695</id>
     <title>HTML Writer for .NET</title>
     <updated>2003-07-18T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -110,7 +112,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=ee974084-d5c2-44d5-a11b-b2efb96074f8">Here&lt;/a>. Lutz Roeder (of Reflector fame) has started a workspace around WYSIWYG HTML editing in .NET.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/692</id>
+    <id>https://csells.github.io/sb6/692</id>
     <title>Higher Primates Can Program</title>
     <updated>2003-07-18T07:00:00.000Z</updated>
     <published>2003-07-18T07:00:00.000Z</published>
@@ -119,7 +121,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://www.enewsbuilder.net/NewTech/e_article000163707.cfm">Here&lt;/a>. First companies move jobs overseas and now this…</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/693</id>
+    <id>https://csells.github.io/sb6/693</id>
     <title>Time To Sell Your Soul to the Devil?</title>
     <updated>2003-07-18T07:00:00.000Z</updated>
     <published>2003-07-18T07:00:00.000Z</published>
@@ -128,7 +130,7 @@ I admit to sending an email with my regrets (what time travel-related plans I po
 &lt;a href="http://www.microsoft-watch.com/article2/0,4248,1190227,00.asp">Here&lt;/a>. In spite of the mention of my site in this article, I consider it more of a "rent" then a "sell". : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12537</id>
+    <id>https://csells.github.io/sb6/12537</id>
     <title>My First Visit to MS Studios</title>
     <updated>2003-07-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -160,7 +162,7 @@ cool stuff here at MS. Recommended.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/689</id>
+    <id>https://csells.github.io/sb6/689</id>
     <title>Interop Declarations for Windows.h</title>
     <updated>2003-07-15T07:00:00.000Z</updated>
     <published>2003-07-15T07:00:00.000Z</published>
@@ -171,7 +173,7 @@ cool stuff here at MS. Recommended.&lt;/p>
 [staff.develop.com/candera/weblog2]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/690</id>
+    <id>https://csells.github.io/sb6/690</id>
     <title>Alan Cooper's Has A Dream</title>
     <updated>2003-07-15T07:00:00.000Z</updated>
     <published>2003-07-15T07:00:00.000Z</published>
@@ -180,7 +182,7 @@ cool stuff here at MS. Recommended.&lt;/p>
 &lt;a href="/12538">Here&lt;/a>. The one where Alan proposes an important distinction between s/w architect and s/w engineer and convinces me that a s/w paradise exists (if only in his mind).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/691</id>
+    <id>https://csells.github.io/sb6/691</id>
     <title>MS Trusted Most to Provide Security Systems</title>
     <updated>2003-07-15T07:00:00.000Z</updated>
     <published>2003-07-15T07:00:00.000Z</published>
@@ -191,7 +193,7 @@ cool stuff here at MS. Recommended.&lt;/p>
 Nice to know folks trust us about *something*. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12346</id>
+    <id>https://csells.github.io/sb6/12346</id>
     <title>The 
 Original ".NET Redneck"</title>
     <updated>2003-07-15T07:00:00.000Z</updated>

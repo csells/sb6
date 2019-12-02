@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed16.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed16.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed15.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed17.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed16.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed15.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed17.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed16.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2191</id>
+    <id>https://csells.github.io/sb6/2191</id>
     <title>Oslo Defined</title>
     <updated>2008-09-06T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -43,7 +45,7 @@
 &lt;P>See you at the PDC!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2190</id>
+    <id>https://csells.github.io/sb6/2190</id>
     <title>I don't pretend to understand advertising</title>
     <updated>2008-09-05T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -56,7 +58,7 @@
 &lt;P>And the commercials are having an effect: they're being talked about and folks are interested in the next one. How often do you hear about folks looking forward to a commercial? That in and of itself is an achievement.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2189</id>
+    <id>https://csells.github.io/sb6/2189</id>
     <title>Programming WPF goes into 3rd printing</title>
     <updated>2008-09-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -67,7 +69,7 @@
 &lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Get 'em while they're hot!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2188</id>
+    <id>https://csells.github.io/sb6/2188</id>
     <title>Where did my old Word command go in new Word?</title>
     <updated>2008-08-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -77,7 +79,7 @@
 I've been using Word for a long time and my fingers knew where the commands were that I used even though my brain didn't. Most of the those commands I've mapped to the new Ribbon-enabled Word without a problem, but sometimes I still search. For those times, the Office guys have put up &lt;A href="http://office.microsoft.com/assistance/asstvid.aspx?assetid=XT100766331033&amp;amp;vwidth=1044&amp;amp;vheight=788&amp;amp;type=flash&amp;amp;CTT=11&amp;amp;Origin=HA100744321033">a cool tool that shows me where the new version of each command is located in the new Word&lt;/A>. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2187</id>
+    <id>https://csells.github.io/sb6/2187</id>
     <title>DVDFab + My Own DVDs = Couch Convenience</title>
     <updated>2008-08-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -90,7 +92,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>Oh, well, if the police want to come for me, they know &lt;A href="http://www.ci.oswego.or.us/">where I am&lt;/A>. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2186</id>
+    <id>https://csells.github.io/sb6/2186</id>
     <title>Digigirlz Rock!</title>
     <updated>2008-08-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -105,7 +107,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>They didn't buy it... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2185</id>
+    <id>https://csells.github.io/sb6/2185</id>
     <title>Digital Video Camera and Editing S/W for a Kid?</title>
     <updated>2008-08-03T07:00:00.000Z</updated>
     <published>2008-08-03T07:00:00.000Z</published>
@@ -116,7 +118,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>Thanks!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2184</id>
+    <id>https://csells.github.io/sb6/2184</id>
     <title>Oslo talks at the PDC</title>
     <updated>2008-08-01T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -136,7 +138,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;LI>&lt;A href="http://channel9.msdn.com/pdc2008/TL17/">Windows Workflow Foundation: Futures&lt;/A>&lt;BR>Presenter: Kenny Wolf &lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2183</id>
+    <id>https://csells.github.io/sb6/2183</id>
     <title>George Carlin, Rest In Peace</title>
     <updated>2008-06-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -149,7 +151,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;p>Update: &lt;a href="http://www.funnyordie.com/videos/80fc8238cc">a very NSFW GC highlight video series&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2181</id>
+    <id>https://csells.github.io/sb6/2181</id>
     <title>Bill's Last Review</title>
     <updated>2008-06-13T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -173,7 +175,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>I still can't say that I've actually *met* the man, though. sigh.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2182</id>
+    <id>https://csells.github.io/sb6/2182</id>
     <title>Losing weight the old fashioned way: tonsilectomy</title>
     <updated>2008-06-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -246,7 +248,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>"Nurse! Cold compresses!"&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2180</id>
+    <id>https://csells.github.io/sb6/2180</id>
     <title>$200 Off Early Registration for PDC2008!</title>
     <updated>2008-05-28T07:00:00.000Z</updated>
     <published>2008-05-28T07:00:00.000Z</published>
@@ -255,7 +257,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>I love the smell of &lt;A href="http://microsoft.com/pdc">the PDC&lt;/A> in the morning!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2179</id>
+    <id>https://csells.github.io/sb6/2179</id>
     <title>The Next Generation</title>
     <updated>2008-05-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -275,7 +277,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;DIV>What a good way to spend the day. Highly recommended.&lt;/DIV></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2178</id>
+    <id>https://csells.github.io/sb6/2178</id>
     <title>Why I Love My Tribe and Want You To Join It!</title>
     <updated>2008-04-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -297,7 +299,7 @@ I've been using Word for a long time and my fingers knew where the commands were
 &lt;P>Most of you will be able to see the thing I've been working on with my tribe at the PDC. Or, if you'd like to help us build it, &lt;A href="http://douglaspurdy.com/2008/04/29/new-languages-compilers/">we're always looking for new tribe members&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2177</id>
+    <id>https://csells.github.io/sb6/2177</id>
     <title>Nobody Knows Shoes: The Book -- Pure Genius!</title>
     <updated>2008-03-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

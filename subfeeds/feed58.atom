@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed58.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed58.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed57.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed59.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed58.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed57.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed59.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed58.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1591</id>
+    <id>https://csells.github.io/sb6/1591</id>
     <title>MSDN DevChat on Real World No-Touch Deployment</title>
     <updated>2004-11-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;P>&lt;A href="http://dotnetjunkies.com/WebLog/mlevison/archive/2004/11/19/32792.aspx">Robi Khan and Mark Levison&lt;/A> from Databeacon will be doing a MSDN DevChat on their recent commercial application using No-Touch Deployment. It's on Wednesday, November 24, 2004 at 10am PST. I'll be watching and you can &lt;A href="http://msevents.microsoft.com/cui/WebCastEventDetails.aspx?culture=en-CA&amp;amp;EventID=1032259860&amp;amp;EventCategory=2">sign up here&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1590</id>
+    <id>https://csells.github.io/sb6/1590</id>
     <title>A Reason For A Home Gigabit Network</title>
     <updated>2004-11-19T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -54,7 +56,7 @@ I finally figured out why I need a gigabit LAN, especially at my house: the Wind
 Oh, and as if that weren't enough, the XBOX Media Center Extender kit comes with a remote and remote sensor that works for playing DVDs, too, thus saving you the trouble of buying both. I'm in love!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1589</id>
+    <id>https://csells.github.io/sb6/1589</id>
     <title>Avalon CTP Sample and Tool: XamlPad Clone</title>
     <updated>2004-11-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -68,7 +70,7 @@ This just in: &lt;a href="http://www.simplegeek.com/permalink.aspx/5ee9126c-1ecd
 Plus, &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/11/20/avalononxp">Ian's posted a hack to the sample that Chris's XamlPad Clone comes with&lt;/a>. Fun. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1588</id>
+    <id>https://csells.github.io/sb6/1588</id>
     <title>November 2004 Avalon CTP Released</title>
     <updated>2004-11-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -93,7 +95,7 @@ Plus, &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/11/20/avalononxp">I
 &lt;P>In the words of Chris Anderson, Architect on the Avalon team, "This is not the final API set, XAML spec, or anything else - this is a 'Technology Preview'". And still, I've spent all day installing in on my machine. Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1586</id>
+    <id>https://csells.github.io/sb6/1586</id>
     <title>Rich Salz on WSDL 2.0</title>
     <updated>2004-11-18T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -105,7 +107,7 @@ Plus, &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/11/20/avalononxp">I
 &lt;P>It's hisjudgmentt that this is not a step forward and I'm having&amp;nbsp;a hard time finding fault with his argument. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1587</id>
+    <id>https://csells.github.io/sb6/1587</id>
     <title>Scott Garvey's Discussion of Smart Clients</title>
     <updated>2004-11-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@ Channel9 has a nice video of Scott Garvey, a Microsoft Smart Client Evangelist, 
 For me, things boil down this way: if it's something I've got to spend significant time in, I really want it to be a smart client, otherwise I'm going to get frustrated. For example, Outlook Web Access is great for occasional use from any PC under the sun, but if I'm using it for more than 5 minutes, I'm guaranteed to press a hotkey like Ctrl+A and get nothing like I expect, forcing me to find my laptop so I can get some real work done in Outlook.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1584</id>
+    <id>https://csells.github.io/sb6/1584</id>
     <title>ZBB: Why Not Counting Bugs in the Last 48 Hours?</title>
     <updated>2004-11-16T08:00:00.000Z</updated>
     <published>2004-11-16T08:00:00.000Z</published>
@@ -129,7 +131,7 @@ For me, things boil down this way: if it's something I've got to spend significa
 &lt;P>My question is, why not count the bugs in the last 48 hours? Are those somehow less valid than the bugs found 49 hours ago? And what's with 48 hours itself? Why not 36? Or 72? Pathetic product team wannabes wanna know!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1585</id>
+    <id>https://csells.github.io/sb6/1585</id>
     <title>Art Tips for Programmers</title>
     <updated>2004-11-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -139,7 +141,7 @@ For me, things boil down this way: if it's something I've got to spend significa
 As I think I've said before, as the capabilities of our UI platform expands, programmers are going to need to know a lot more about user experience and graphic art. Towards that goal, I offer a recent post on Slashdot that provides &lt;A href="http://slashdot.org/article.pl?sid=04/11/16/016244">advise on how programmers can bone up for the latter&lt;/A>. Anyone got any ideas about the former?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1583</id>
+    <id>https://csells.github.io/sb6/1583</id>
     <title>Smart Client DevCenter: Rebooted</title>
     <updated>2004-11-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -156,7 +158,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 &lt;P>And don't hesitate to send &lt;A href="mailto:jonwells@microsoft.com">Jonathan&lt;/A> or &lt;A href="mailto:csells@microsoft.com">me&lt;/A> your complaints and suggestions. We don't put this site up for our health, you know; we do it for you!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1581</id>
+    <id>https://csells.github.io/sb6/1581</id>
     <title>Tons of Fun with Windows Media Encoder</title>
     <updated>2004-11-13T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -176,7 +178,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 &lt;P>So, while I wasn't happy with &lt;A HREF="/public/video/x1demo.wmv">the results&lt;/A>, I'm very jazzed about the medium. Expect to see more.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1582</id>
+    <id>https://csells.github.io/sb6/1582</id>
     <title>Outsourcing to Arkansas</title>
     <updated>2004-11-13T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -188,7 +190,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1579</id>
+    <id>https://csells.github.io/sb6/1579</id>
     <title>Bill Wagner Using the Updater App Block</title>
     <updated>2004-11-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -199,7 +201,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 &lt;P>[&lt;A href="http://www.theserverside.net/articles/showarticle.tss?id=UpdateAppBlock">via theserverside.net&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1578</id>
+    <id>https://csells.github.io/sb6/1578</id>
     <title>A Guy Worth Hiring</title>
     <updated>2004-11-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -209,7 +211,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 &lt;P>&lt;A href="http://213.186.36.10/~al/alstudio/cv/en.htm">This guy&lt;/A> deserves a flood of job offers. Make yours good!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1580</id>
+    <id>https://csells.github.io/sb6/1580</id>
     <title>ATOM is to RSS as XML is to SGML</title>
     <updated>2004-11-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -219,7 +221,7 @@ As I think I've said before, as the capabilities of our UI platform expands, pro
 Tim Bray finally provides &lt;A href="http://www.tbray.org/ongoing/When/200x/2004/11/11/AtomInnovation">a technical reason for ATOM to exist that I can get behind&lt;/A>. Once every RSS consumer in the world (which really isn't that many) also supports ATOM, we can move forward to a saner world.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1577</id>
+    <id>https://csells.github.io/sb6/1577</id>
     <title>Concrete Examples of Software Factories?!?</title>
     <updated>2004-11-07T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

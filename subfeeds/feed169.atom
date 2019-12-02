@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed169.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed169.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed168.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed170.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed169.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed168.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed170.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed169.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12362</id>
+    <id>https://csells.github.io/sb6/12362</id>
     <title>Waka Waka Poem</title>
     <updated>2002-05-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -44,7 +46,7 @@
 win_tech_off_topic@yahoogroups.com&lt;br>Sat &lt;span class="created">5/18/2002 6:32 PM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/42</id>
+    <id>https://csells.github.io/sb6/42</id>
     <title>XML Comments Let You Build Docs from C# Source</title>
     <updated>2002-05-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -54,7 +56,7 @@ win_tech_off_topic@yahoogroups.com&lt;br>Sat &lt;span class="created">5/18/2002 
 "C# allows developers to embed XML comments into their source files—a useful facility, especially when more than one programmer is working on the same code. The C# parser can expand these XML tags to provide additional information and export them to an external document for further processing. &lt;a href="http://msdn.microsoft.com/msdnmag/issues/02/06/XMLC/XMLC.asp">This article&lt;/a> shows how to use XML comments and explains the relevant tags. The author demonstrates how to set up your project to export your XML comments into convenient documentation for the benefit of other developers. He also shows how to use comments to generate help files. "</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12422</id>
+    <id>https://csells.github.io/sb6/12422</id>
     <title>.NET XsdClassesGen</title>
     <updated>2002-05-17T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -79,7 +81,7 @@ win_tech_off_topic@yahoogroups.com&lt;br>Sat &lt;span class="created">5/18/2002 
 	Stephane Tombeur has posted the code to VS2005&lt;/a>. Thanks, Stephane!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/41</id>
+    <id>https://csells.github.io/sb6/41</id>
     <title>Data Binding in Windows Forms Applications</title>
     <updated>2002-05-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -89,7 +91,7 @@ win_tech_off_topic@yahoogroups.com&lt;br>Sat &lt;span class="created">5/18/2002 
 Dino expounds on a subject near and dear to my heart -- &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndive/html/data04182002.asp">databinding in WinForms&lt;/a>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/40</id>
+    <id>https://csells.github.io/sb6/40</id>
     <title>HowTo emulate the behavior of the explorer shell</title>
     <updated>2002-05-16T07:00:00.000Z</updated>
     <published>2002-05-16T07:00:00.000Z</published>
@@ -98,7 +100,7 @@ Dino expounds on a subject near and dear to my heart -- &lt;a href="http://msdn.
 From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.com/atl/ShellFolderTree.asp">an interesting ActiveX Control Library&lt;/a> (ATL) giving you the permission to include it in a commercial application. Cool work, Nick :)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/39</id>
+    <id>https://csells.github.io/sb6/39</id>
     <title>The Han Solo Affair</title>
     <updated>2002-05-15T07:00:00.000Z</updated>
     <published>2002-05-15T07:00:00.000Z</published>
@@ -109,7 +111,7 @@ From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.co
 &lt;p>I laughed 'til I cried.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/36</id>
+    <id>https://csells.github.io/sb6/36</id>
     <title>.NET ANY where, ANY time and on ANY device</title>
     <updated>2002-05-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -126,7 +128,7 @@ From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.co
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/37</id>
+    <id>https://csells.github.io/sb6/37</id>
     <title>SQL Server Centric .NET Code Generator</title>
     <updated>2002-05-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -142,7 +144,7 @@ From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.co
 &lt;p>This seems to have punted on the multi-language issues, however. sigh.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/38</id>
+    <id>https://csells.github.io/sb6/38</id>
     <title>Fujitsu NetCOBOL™ for .NET Ready To Ship</title>
     <updated>2002-05-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -154,7 +156,7 @@ From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.co
 &lt;p>"NetCOBOL ™ opens doors to leverage existing COBOL code while taking advantage of the innovative Microsoft .NET platform."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/33</id>
+    <id>https://csells.github.io/sb6/33</id>
     <title>Generics for C# and CLR</title>
     <updated>2002-05-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -164,7 +166,7 @@ From Razvan Caciula: Nick Hodapp publishes &lt;a href="http://www.codeproject.co
 From Razvan Caciula: You have all here about parametric polymorphism in the CLR using &lt;a href="http://research.microsoft.com/projects/clrgen/">an extended version of C#&lt;/a>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/35</id>
+    <id>https://csells.github.io/sb6/35</id>
     <title>Stephen Wolfram's "A New Kind of Science"</title>
     <updated>2002-05-13T07:00:00.000Z</updated>
     <published>2002-05-13T07:00:00.000Z</published>
@@ -175,7 +177,7 @@ From Razvan Caciula: You have all here about parametric polymorphism in the CLR 
 &lt;p>"This long-awaited work from one of the world's most respected scientists presents a series of dramatic discoveries never before made public. Starting from a collection of simple computer experiments—illustrated in the book by striking computer graphics—Stephen Wolfram shows how their unexpected results force a whole new way of looking at the operation of our universe."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/32</id>
+    <id>https://csells.github.io/sb6/32</id>
     <title>Modern C++ Design</title>
     <updated>2002-05-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -185,7 +187,7 @@ From Razvan Caciula: You have all here about parametric polymorphism in the CLR 
 From Razvan Caciula: I like Chris Sells's books, but also i like romanians too :> I'm preparing for a technical interview and i founded &lt;a href="http://www.moderncppdesign.com/">this book&lt;/a> very useful.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/34</id>
+    <id>https://csells.github.io/sb6/34</id>
     <title>C# samples to customize the WebBrowser control</title>
     <updated>2002-05-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -197,7 +199,7 @@ From Razvan Caciula: I like Chris Sells's books, but also i like romanians too :
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/31</id>
+    <id>https://csells.github.io/sb6/31</id>
     <title>No matter the language, programming is fun!</title>
     <updated>2002-05-12T07:00:00.000Z</updated>
     <published>2002-05-12T07:00:00.000Z</published>
@@ -211,7 +213,7 @@ C, Befunge and BrainF*ck along with the general purpose techniques to use for yo
 &lt;p>Ouch. My brain *still* hurts...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/30</id>
+    <id>https://csells.github.io/sb6/30</id>
     <title>HowTo: Write a Self-Installing Service</title>
     <updated>2002-05-12T07:00:00.000Z</updated>
     <published>2002-05-12T07:00:00.000Z</published>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed44.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed44.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed43.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed45.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed44.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed43.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed45.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed44.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1788</id>
+    <id>https://csells.github.io/sb6/1788</id>
     <title>I am a Gauntlet Adventurer</title>
     <updated>2005-05-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -47,7 +49,7 @@
 &lt;P>BTW, wander around building 10 one time and you'll know I'm not kidding... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1786</id>
+    <id>https://csells.github.io/sb6/1786</id>
     <title>C++ is dead, long live C++!</title>
     <updated>2005-05-25T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -64,7 +66,7 @@
 &lt;P>Luckily, no one asked me to put any of my body parts on the conference table that day, but you gotta love a guy that can turn a phrase like that. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1787</id>
+    <id>https://csells.github.io/sb6/1787</id>
     <title>XBox 360 Game Videos</title>
     <updated>2005-05-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -74,7 +76,7 @@
 I'm sure you've heard the news and read the specs and you might even have seen the celebrity-ridden MTV special. Now, see &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=abde1e02-b529-469e-ae6a-7417fcde9e12">what it'll really be about&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1784</id>
+    <id>https://csells.github.io/sb6/1784</id>
     <title>Story-Driven Development</title>
     <updated>2005-05-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -85,7 +87,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>Today, after 5 months of marination, I awoke with the "Intro to Our Stuff" article in my head and I've started outlining it. This one is really "Intro to Our Stuff for Developers" piece, which corresponding "Intro to Our Stuff for IT Pros" and "Intro to Our Stuff for Business Analysts" pieces that needs to happen, too.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1785</id>
+    <id>https://csells.github.io/sb6/1785</id>
     <title>Frequent Flier Miles Suck (Airlines Suck)</title>
     <updated>2005-05-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -97,7 +99,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>Blackout dates, "saver seats," coach seats built for pigmes... the whole airline industry sucks and you can tell them I said so!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1783</id>
+    <id>https://csells.github.io/sb6/1783</id>
     <title>Cat Swimmer</title>
     <updated>2005-05-24T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -109,7 +111,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>I just thought I'd share. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1782</id>
+    <id>https://csells.github.io/sb6/1782</id>
     <title>Episode III: ROTS doesn't suck and other opinions</title>
     <updated>2005-05-23T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -122,7 +124,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>In other news, I'm still waiting for a sequel to &lt;A href="http://www.imdb.com/title/tt0133093/">The Matrix&lt;/A>.&amp;nbsp;I don't count &lt;A href="http://www.imdb.com/title/tt0234215/">this fan-boy movie&lt;/A> or &lt;A href="http://www.imdb.com/title/tt0242653/">this one&lt;/A>. Anyone got a release date to a follow on worth the time to watch?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1781</id>
+    <id>https://csells.github.io/sb6/1781</id>
     <title>Avalon + Indigo Beta 1 Release Candidate</title>
     <updated>2005-05-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -132,7 +134,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>Today Microsoft has published &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=B789BC8D-4F25-4823-B6AA-C5EDF432D0C1">the release candidate of Avalon and Indigo Beta 1&lt;/A>. The most interesting features of this release over the CTP releases of the past is that these bits work on Visual Studio 2005 beta 2, both full and express. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1780</id>
+    <id>https://csells.github.io/sb6/1780</id>
     <title>Avalon Wants You!</title>
     <updated>2005-05-18T07:00:00.000Z</updated>
     <published>2005-05-18T07:00:00.000Z</published>
@@ -144,7 +146,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>If you're a UI or a media person, I can't imagine a better place for you then on the Avalon team, and this isn't the only Avalon-related position we've got. In fact, I did a query today and found &lt;A href="http://members.microsoft.com/careers/search/results.aspx?FromCP=Y&amp;amp;JobCategoryCodeID=&amp;amp;JobLocationCodeID=1&amp;amp;JobProductCodeID=&amp;amp;JobTitleCodeID=10296&amp;amp;Divisions=&amp;amp;TargetLevels=&amp;amp;Keywords=avalon&amp;amp;JobCode=&amp;amp;ManagerAlias=&amp;amp;Interval=25">25 SDE positions at MS with the keyword "Avalon" in the description&lt;/A>. Come one, come all! We're having an Avalon party at Microsoft and we'd love you to come and join us. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1778</id>
+    <id>https://csells.github.io/sb6/1778</id>
     <title>When did the cmd shell start doing this?!?</title>
     <updated>2005-05-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -158,7 +160,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>The up and down arrows work, F7 works, F8 works, they all work! When the heck did the shell start keeping track of per sub-command histories and why haven't I noticed it 'til now?!?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1779</id>
+    <id>https://csells.github.io/sb6/1779</id>
     <title>"dumpbin" is now "link -dump"</title>
     <updated>2005-05-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -170,7 +172,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>[&lt;A href="http://www.wiseowl.com/">via Brent Rector&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1777</id>
+    <id>https://csells.github.io/sb6/1777</id>
     <title>Survey: Windows Forms Programming 2ed Length</title>
     <updated>2005-05-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -188,7 +190,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>P.P.S. I expect the first three reviews on Amazon to be complaints about whichever method we choose and reminising about how wonderful it was to get all of WinForms in 700 pages. Those kinds of complaints should be forwarded to the WinForms team in emails that start with "You put too much good stuff into WinForms 2.0!" : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1776</id>
+    <id>https://csells.github.io/sb6/1776</id>
     <title>More Better Avalon Sparklines</title>
     <updated>2005-05-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -202,7 +204,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;LI>&lt;EM>good news: &lt;/EM>sparklines shows how dead MSFT is very nicely!&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1775</id>
+    <id>https://csells.github.io/sb6/1775</id>
     <title>Damn I Love Skype!</title>
     <updated>2005-05-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -214,7 +216,7 @@ I'm sure you've heard the news and read the specs and you might even have seen t
 &lt;P>These communication devices are pretty important for a remote guy. Just today, I had an hour long video counseling session with my boss (it takes me about a year to feel like I'm actually capable of any new job I take) and another hour-long IM with one of the architects on my team arguing about what the hell we're building anyway. The counseling session would've happened no matter where I lived, but even if I lived next door to him in Redmond, I wasn't going to be sitting in the architect's living room from 12:30am - 1:30am chatting with him; new comm was the enabler.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1773</id>
+    <id>https://csells.github.io/sb6/1773</id>
     <title>Today's Reading: A Semantic Web Primer</title>
     <updated>2005-05-10T07:00:00.000Z</updated>
     <published>2005-05-10T07:00:00.000Z</published>

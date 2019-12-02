@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed45.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed45.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed44.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed46.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed45.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed44.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed46.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed45.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1774</id>
+    <id>https://csells.github.io/sb6/1774</id>
     <title>A Few More Books From My Current Stack</title>
     <updated>2005-05-10T07:00:00.000Z</updated>
     <published>2005-05-10T07:00:00.000Z</published>
@@ -45,7 +47,7 @@
 &lt;LI>&lt;STRONG>"Building the Data Warehouse."&lt;/STRONG> Of the three books on this list, this book is easily my favorite. The writing style is very readable and it's just packed full of useful thinking. Highly recommended.&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1772</id>
+    <id>https://csells.github.io/sb6/1772</id>
     <title>Animating Avalon Card Control Library</title>
     <updated>2005-05-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -55,7 +57,7 @@
 &lt;P>&lt;A href="http://blogs.msdn.com/adam_nathan/archive/2005/05/03/414148.aspx">Sweet!&lt;/A>&lt;/P>&lt;IMG src="http://www.pinvoke.net/blog/images/cardhand.gif"></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1770</id>
+    <id>https://csells.github.io/sb6/1770</id>
     <title>Only Annual Time Traveler's Convention</title>
     <updated>2005-05-02T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -70,7 +72,7 @@
 &lt;P>I can't attend this year myself, but I'm &lt;EM>definitely &lt;/EM>planning to go to this one and only convention some time in the future (I love that idea : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1771</id>
+    <id>https://csells.github.io/sb6/1771</id>
     <title>I am not a graphic artist!</title>
     <updated>2005-05-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -88,7 +90,7 @@
 &lt;P>That's not to say that some enterprising 3rd party couldn't create tools to help artistic yarn heads like me produce useful Avalon graphics. If my experience is any indication, there are going to be a lot of developers moving to Avalon that are expected to create wonderful things w/o an artistic bone in their bodies. Somebody help!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1769</id>
+    <id>https://csells.github.io/sb6/1769</id>
     <title>I enjoyed THGTTG</title>
     <updated>2005-04-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -98,7 +100,7 @@
 &lt;A href="http://www.imdb.com/title/tt0371724/">It&lt;/A> wasn't perfect, e.g. lots of the fun bits were gone and at least one sub-plot never got resolved, but I liked the new stuff, e.g. the motivation for the end of the movie and the romance. Bottom line: I laughed a lot. We did have a pretty decent local geek turn-out, so that made it even more fun, but it was a completely watchable movie and I'd definitely see it again.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1768</id>
+    <id>https://csells.github.io/sb6/1768</id>
     <title>Another VB.NET feature that makes me jealous</title>
     <updated>2005-04-28T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -108,7 +110,7 @@
 &lt;P>First there was case-correction, now &lt;A href="http://te.3leafdev.com/2005/04/a_c_feature_in_.html">VB programmers in VS 2005 beta 2 get grayed out members in intellisense if they set their ClickOnce properties below FullTrust&lt;/A>. Cool!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1765</id>
+    <id>https://csells.github.io/sb6/1765</id>
     <title>I Like VC# Express</title>
     <updated>2005-04-26T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -121,7 +123,7 @@
 &lt;P>Overall, though, I'm loving VC# Express. Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1766</id>
+    <id>https://csells.github.io/sb6/1766</id>
     <title>The Value of Scoble</title>
     <updated>2005-04-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -132,7 +134,7 @@
 &lt;P>Robert Scoble has become the Geraldo Rivera of technology reporting. Even if MS took away Robert's camcorder, I expect &lt;A href="http://www.oreilly.com/">O'Reilly&lt;/A>, &lt;A href="http://www.ftponline.com/">Fawcette&lt;/A>, &lt;A href="http://www.cnet.com/">CNET&lt;/A>, &lt;A href="http://www.serverside.net/">ServerSide&lt;/A>, &lt;A href="http://www.codeproject.com/">CodeProject&lt;/A>&amp;nbsp;or any&amp;nbsp;of a number of other technology eyeball companies&amp;nbsp;to hand it right back to him.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1767</id>
+    <id>https://csells.github.io/sb6/1767</id>
     <title>Anyone Want To Join Us For Hitchhiker on Friday?</title>
     <updated>2005-04-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -143,7 +145,7 @@
 &lt;P>Everyone's welcome to join us. I'll buy the popcorn!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1764</id>
+    <id>https://csells.github.io/sb6/1764</id>
     <title>Status of ATL Internals 2e</title>
     <updated>2005-04-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -157,7 +159,7 @@
 &lt;P>Now, finally, we have an author that's going to see this book to the finish line: Chris Tavares. I've written with him before and he's excellent. He's already ported chapters 1-4 to ATL8 as provided in VS 2005 and is on schedule to bring my and Brent's work on ATL3, Kirk and George's work on ATL7 and his own new work into a cohesive ATL8 book to hit the shelves 3-4 months after VS05 has hit RTM.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1763</id>
+    <id>https://csells.github.io/sb6/1763</id>
     <title>Status on Windows Forms Programming 2e</title>
     <updated>2005-04-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@
 &lt;P>I have to say that working with Mike on this process has been fabulous. An ordinary author faced with updating to a new version of a technology might just update the material and leave the story alone, even if it needs update. Instead, Mike took the time to reexamine the book from first principles, fixing the problems in the story that always nagged at me in the 1st edition and proposing improvements to stuff I was pretty proud of. In general, even without the update to the new technology, the book is better than the 1st edition.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1762</id>
+    <id>https://csells.github.io/sb6/1762</id>
     <title>Rocky on SOA Versioning</title>
     <updated>2005-04-21T07:00:00.000Z</updated>
     <published>2005-04-21T07:00:00.000Z</published>
@@ -191,7 +193,7 @@
 &lt;P>I'm also of the mind that the component-based world isn't even very good for components unless you get to package the components and the apps all at once. For example, in the world I'd like to see plug-in applications like Visual Studio become, where the app and the plug-ins come from different places and version independently, message-based thinking is far more applicable than component-based thinking.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1761</id>
+    <id>https://csells.github.io/sb6/1761</id>
     <title>Now *that's* how you want a Virtual PC to be!</title>
     <updated>2005-04-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -202,7 +204,7 @@
 &lt;P>Just before I was about to reinstall things, I realized -- I was running a VPC image, not the computer's native image. I couldn't freakin' tell the difference! Nice...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1759</id>
+    <id>https://csells.github.io/sb6/1759</id>
     <title>Worth giving up the Omega Speedmaster for...</title>
     <updated>2005-04-13T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -214,7 +216,7 @@
 &lt;P>Of course, I'd want the platinum model, but at $137,000, maybe I'd learn to tell time by the moss on the north side of trees...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1760</id>
+    <id>https://csells.github.io/sb6/1760</id>
     <title>Rory + Scott's TechEd Video #4</title>
     <updated>2005-04-13T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

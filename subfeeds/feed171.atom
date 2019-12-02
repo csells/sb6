@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed171.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed171.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed170.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed172.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed171.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed170.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed172.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed171.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12426</id>
+    <id>https://csells.github.io/sb6/12426</id>
     <title>.NET IM Client Classes</title>
     <updated>2002-03-08T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -59,7 +61,7 @@
     .NET IM client application&lt;/a>. Check it out!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12591</id>
+    <id>https://csells.github.io/sb6/12591</id>
     <title>HTTP is Dead?</title>
     <updated>2002-02-27T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/conference/mini_wsdclogo.gif"/>
@@ -180,7 +182,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12590</id>
+    <id>https://csells.github.io/sb6/12590</id>
     <title>Please Say "Why"</title>
     <updated>2002-02-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -208,7 +210,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12589</id>
+    <id>https://csells.github.io/sb6/12589</id>
     <title>How Did You Get Your Start?</title>
     <updated>2002-02-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -322,7 +324,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12398</id>
+    <id>https://csells.github.io/sb6/12398</id>
     <title>Tough Interview</title>
     <updated>2002-02-19T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -335,7 +337,7 @@ me. Later I attempted to save face by explaining to Tate that I would've done be
 me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough interview.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12399</id>
+    <id>https://csells.github.io/sb6/12399</id>
     <title>Smart is Not Enough</title>
     <updated>2002-02-18T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -346,7 +348,7 @@ me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough int
 &lt;p>Here's &lt;a href="http://www.fortune.com/indext.jhtml?channel=print_article.jhtml&amp;amp;doc_id=00003138">a recent Fortune magazine article&lt;/a> about the MS interview process and the culture. Scary...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12400</id>
+    <id>https://csells.github.io/sb6/12400</id>
     <title>Reaction from Microsoft</title>
     <updated>2002-02-18T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -358,7 +360,7 @@ me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough int
 	me that Microsoft has told all its interviewing employees to keep an eye on your page for ideas and thoughts.&amp;quot; &lt;/p>&lt;/blockquote>&lt;p>Figures. I set out to help the &lt;i>interviewees&lt;/i> and I end up helping the &lt;i>interviewers.&lt;/i> Is there nothing that Microsoft can't leverage for their own benefit? &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12401</id>
+    <id>https://csells.github.io/sb6/12401</id>
     <title>More Reaction from Microsoft</title>
     <updated>2002-02-18T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -369,7 +371,7 @@ me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough int
 &lt;p>I've heard from several of my friends at Microsoft (and yes, I do have some...), that Microsoft is not such a terrible place to work, but nobody puts it better than &lt;a href="mailto:mbyron@microsoft.com">Mike Byron&lt;/a>: &lt;/p>&lt;blockquote>&lt;p>&amp;quot;Huh. Ran into your Web page about Microsoft. I gotta comment on one thing I saw there: &lt;/p>&lt;p>'Over the years I've been collecting interview questions from Microsoft. I guess I started this hobby with the intent of working there some day, but now that I have a wife and two kids, that's pretty much out of the&amp;nbsp;question.' &lt;/p>&lt;p>&amp;quot;Baloney. I've been working at Microsoft for almost 5 years. I&amp;nbsp;have a wife&amp;nbsp;and twin 7-year-olds. I have an active church life. I work around 40-45&amp;nbsp;hours per week, and have for the whole time. I have a GREAT time at&amp;nbsp;Microsoft.&amp;nbsp;I'm a veteran of Silicon Valley. Been creating mostly systems software&amp;nbsp;since 1977. Microsoft is no different from most Silicon Valley&amp;nbsp;companies --better hours than most startups, more driven than HP. I do work an&amp;nbsp;occasional 50-55 hour week close to ship time. &lt;/p>&lt;p>&amp;quot;Now, there are people that work here with completely different stories. But&amp;nbsp;I am in no wise unique. I have lots of friends in basically the same&amp;nbsp;position -- 40 hour weeks.&amp;quot; &lt;/p>&lt;/blockquote>&lt;p>Thanks for the quote, Mike. I'll try not to get you into &amp;quot;trouble...&amp;quot; &lt;/p>&lt;p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12402</id>
+    <id>https://csells.github.io/sb6/12402</id>
     <title>Contacting Microsoft</title>
     <updated>2002-02-17T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -380,7 +382,7 @@ me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough int
 &lt;p>If you'd like to beg Bill directly for a job, his email is &lt;a href="mailto:billg@microsoft.com">billg@microsoft.com&lt;/a>. If you'd actually like an answer some day, send your questions to &lt;a href="mailto:askbill@microsoft.com">askbill@microsoft.com&lt;/a>. &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12655</id>
+    <id>https://csells.github.io/sb6/12655</id>
     <title>Welcome to Genghis!</title>
     <updated>2002-02-16T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/tools/genghis/images/genghis.gif"/>
@@ -1221,7 +1223,7 @@ me as if to say, &amp;quot;At Microsoft, we don't hold back.&amp;quot; Tough int
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12403</id>
+    <id>https://csells.github.io/sb6/12403</id>
     <title>Microsoft Interview Questions</title>
     <updated>2002-02-16T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -1634,7 +1636,7 @@ sub ax, dx&lt;/pre>
         &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12404</id>
+    <id>https://csells.github.io/sb6/12404</id>
     <title>I Don't Provide The Answers</title>
     <updated>2002-02-15T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -1653,7 +1655,7 @@ I've have several people ask for the right answers the these questions
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12364</id>
+    <id>https://csells.github.io/sb6/12364</id>
     <title>I Like Clocks</title>
     <updated>2002-02-08T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -1678,7 +1680,7 @@ I've have several people ask for the right answers the these questions
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12365</id>
+    <id>https://csells.github.io/sb6/12365</id>
     <title>A Little Slice of Time</title>
     <updated>2002-02-02T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/slice.jpg"/>
@@ -1689,7 +1691,7 @@ I've have several people ask for the right answers the these questions
 &lt;p>&lt;img border="0" src="/public/fun/slice.jpg" width="139" height="75">&lt;/p>&lt;p>&lt;i>Chris Sells&lt;br>&lt;span class="created">Feb 2, 2002 8:02pm&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12592</id>
+    <id>https://csells.github.io/sb6/12592</id>
     <title>A Visit with the Visual C++ Team</title>
     <updated>2002-01-22T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

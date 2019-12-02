@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed36.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed36.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed35.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed37.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed36.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed35.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed37.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed36.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1898</id>
+    <id>https://csells.github.io/sb6/1898</id>
     <title>Generics Q: Best way to convert a string to a T?</title>
     <updated>2005-11-04T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -46,7 +48,7 @@
 &lt;P>I came up with a solution that relies more than I'd like on run-time behavior rather than compile-time behavior, which is why I'm asking.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1897</id>
+    <id>https://csells.github.io/sb6/1897</id>
     <title>WinFX in the BackRow</title>
     <updated>2005-11-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -56,7 +58,7 @@
 Casey Chesnum has put together what is probably the first real WinFX app: a Media Center "light" app that looks damn cool. &lt;A href="http://www.mperfect.net/backRow/">Check it out.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1896</id>
+    <id>https://csells.github.io/sb6/1896</id>
     <title>What's a group of geeks called?</title>
     <updated>2005-10-31T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -72,7 +74,7 @@ Casey Chesnum has put together what is probably the first real WinFX app: a Medi
 &lt;p>P.S. &lt;a href="http://rinkworks.com/words/collective.shtml">this site on collective nouns&lt;/a> has a bunch of fun ones. I think I like "smack of jellyfish" best...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1895</id>
+    <id>https://csells.github.io/sb6/1895</id>
     <title>Testing ASP.NET 2.0 port of sb.com</title>
     <updated>2005-10-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -82,7 +84,7 @@ Casey Chesnum has put together what is probably the first real WinFX app: a Medi
 Pay no attention to the may behind the curtain...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1893</id>
+    <id>https://csells.github.io/sb6/1893</id>
     <title>VS05 Has Shipped! Wahoo!</title>
     <updated>2005-10-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -92,7 +94,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;A href="http://blogs.msdn.com/somasegar/archive/2005/10/27/485665.aspx">Soma says it all.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1894</id>
+    <id>https://csells.github.io/sb6/1894</id>
     <title>Scraping old versions of VS05 off your system</title>
     <updated>2005-10-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -103,7 +105,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;P>To solve this problem, Dan Fernandez posts about a &lt;A href="http://blogs.msdn.com/danielfe/archive/2005/10/27/485863.aspx">VS05 uninstall tool&lt;/A> that worked wonderfully for me.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1891</id>
+    <id>https://csells.github.io/sb6/1891</id>
     <title>I'm all ready for 9th grade</title>
     <updated>2005-10-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -120,7 +122,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;DIV align=center>&lt;A href="http://www.blogthings.com/couldyoupasseighthgrademathquiz/">Could You Pass 8th Grade Math?&lt;/A>&lt;/DIV></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1892</id>
+    <id>https://csells.github.io/sb6/1892</id>
     <title>The Most Amazing Consumer Experience</title>
     <updated>2005-10-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -133,7 +135,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;P>Highly recommended. I wish all my consumer experiences were like this one!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1889</id>
+    <id>https://csells.github.io/sb6/1889</id>
     <title>WF Activity Context</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -143,7 +145,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;a href="/12463">Here&lt;/a>. The one where I find &lt;a href="/12463">more WF activity instances than I expect&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1887</id>
+    <id>https://csells.github.io/sb6/1887</id>
     <title>Petzold on "Does Visual Studio Rot the Mind?"</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <published>2005-10-24T07:00:00.000Z</published>
@@ -154,7 +156,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;P>It doesn't end the way I expected it to. Fun stuff.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12464</id>
+    <id>https://csells.github.io/sb6/12464</id>
     <title>Typed WF Communications Details</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -164,7 +166,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;p align="left">If you downloaded the samples from my previous &lt;a href="#Workflow_Communication_Spelunking">two&lt;/a> &lt;a href="#More_Workflow_Communciation_Spelunking">forays&lt;/a> into WF communications programming, you probably couldn't get them to build. The problem is that when I packaged things up, I removed the bin directories. I haven't figured out just why this causes everything to stop building, but with the help of Dennis Pilarinos, I rearranged the two projects into three:&lt;/p>&lt;ol>&lt;li>&lt;p align="left">communications interface (CommunicationLibrary): the data exchange service interface definition, compiles into CommunicationLibrary.dll&lt;/li>&lt;li>&lt;p align="left">communications activities (WorkflowProject1): uses a pre-build step to generate the typed activities generated from the communications library using the wca tool, references CommunicationLibrary.dll and compiles into WorkflowProject1.dll (nice name, eh? : )&lt;/li>&lt;li>&lt;p align="left">application (EventSinkAndMethodInvoke2): the app that uses the typed activities, references both CommunicationLibrary.dll and WorkflowProject1.dll&lt;/li>&lt;/ol>&lt;p align="left">It's only by separating the communications activities into a separate assembly that things can build and rebuild reliably. You can &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2with3projectsAndStateMachine.zip">download the newly configured code here&lt;/a>. Enjoy.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1890</id>
+    <id>https://csells.github.io/sb6/1890</id>
     <title>PDC05 Sessions Online</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <published>2005-10-24T07:00:00.000Z</published>
@@ -174,7 +176,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;P>&lt;EM>"If you were unable to attend the &lt;/EM>&lt;A href="http://msdn.microsoft.com/events/pdc/">&lt;EM>Microsoft Professional Developers Conference 2005&lt;/EM>&lt;/A>&lt;EM> (PDC05) in Los Angeles this year, never fear; 209 breakout sessions, panels, and symposia are &lt;/EM>&lt;A href="http://microsoft.sitestream.com/PDC05/">&lt;EM>now available online&lt;/EM>&lt;/A>&lt;EM>. Each session includes a video of the presenter, a navigable index of the content, the PowerPoint presentation itself, and video of any demos. We'll be hosting this content for free, for anyone, for six full months."&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1888</id>
+    <id>https://csells.github.io/sb6/1888</id>
     <title>Typed WF Communications Details</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -184,7 +186,7 @@ Pay no attention to the may behind the curtain...</content>
 &lt;a href="/12464">Here&lt;/a>. &lt;P>The one where I finally figure out &lt;a href="/12464">how to get wca integrated with my WF VS projects in a sane way&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12463</id>
+    <id>https://csells.github.io/sb6/12463</id>
     <title>WF Activity Context</title>
     <updated>2005-10-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -211,7 +213,7 @@ string comment = &lt;b>this.eventSink1.Comment&lt;/b>;
 }&lt;/pre>&lt;/div>&lt;p align="left">I haven't figured out whether this makes sense to me yet, but that's how it is. You can get the code &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2with3projectsAndStateMachine.zip">here&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1886</id>
+    <id>https://csells.github.io/sb6/1886</id>
     <title>Samwise Gamgee was the ultimate Program Manager</title>
     <updated>2005-10-22T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

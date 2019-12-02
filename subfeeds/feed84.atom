@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed84.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed84.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed83.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed85.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed84.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed83.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed85.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed84.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1232</id>
+    <id>https://csells.github.io/sb6/1232</id>
     <title>VS.NET Whidbey Has a Command Shell Window Built It</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -42,7 +44,7 @@
 &lt;P>It's well hidden, but &lt;A href="http://geekswithblogs.net/jolson/archive/2004/03/24/3326.aspx">Jason Olson points out that VS.NET Whidbey &lt;EM>finally&lt;/EM> has a command shell&lt;/A> built right in. Now if only it changed folders with my solution and support completion via the tab key, support F7 and F8...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1236</id>
+    <id>https://csells.github.io/sb6/1236</id>
     <title>Taking Advantage of Enterprise Features in Indigo</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 In this piece, &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/indigoattrprog.asp">Karsten digs into some of the advanced features of Indigo&lt;/A>, building the code to start from scratch on the client and server, then adding the code to add state management, reliability to the messages and asynchronous messaging.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1229</id>
+    <id>https://csells.github.io/sb6/1229</id>
     <title>Don Answers: Does Indigo Need IIS?</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -62,7 +64,7 @@ In this piece, &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=
 Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-03-24T07:08:11Z">how Indigo services are hosted and how that interacts with IIS&lt;/A> (or not, as the case may be).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1235</id>
+    <id>https://csells.github.io/sb6/1235</id>
     <title>What the Heck Is It With Today?</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <published>2004-03-25T08:00:00.000Z</published>
@@ -71,7 +73,7 @@ Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?
 &lt;a href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;days=90">Here&lt;/a>. First, I'm swamped in work. Then, I'm swamped in news. Finally, &lt;A href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;amp;days=90">I'm swamped in sales&lt;/A>, with the book at it's all-time low on Amazon.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1233</id>
+    <id>https://csells.github.io/sb6/1233</id>
     <title>I've Seen Monad and I Am Pleased</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?
 &lt;P>Just the idea of not having to deal with ambiguous from standard input or reparse the data at every stage of the shell pipeline makes me giddy with anticipation.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1231</id>
+    <id>https://csells.github.io/sb6/1231</id>
     <title>XAML is VB's "With" on Steroids</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -93,7 +95,7 @@ Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?
 &lt;A href="http://myxaml.com/marcclifton/archive/2004/03/22/152.aspx">Marc's post&lt;/A> made me connect VB's With statement for performing multiple operations on a single variable with XAML's terse, but powerful, syntax.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1226</id>
+    <id>https://csells.github.io/sb6/1226</id>
     <title>What Every Conference Room Should Be Like</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -103,7 +105,7 @@ Don Box talks about &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?
 I want all of the MS conference rooms to be like &lt;A href="http://www.microsoft.com/presspass/features/2004/mar04/03-22CIW.asp">this one&lt;/A> so that they can broadcast high quality audio and video to me at my house. I &lt;EM>especially&lt;/EM> want &lt;A href="http://research.microsoft.com/~rcutler/ringcam/ringcam.htm">a RingCam&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1227</id>
+    <id>https://csells.github.io/sb6/1227</id>
     <title>Checking Spec. Compliance at Build Time</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -113,7 +115,7 @@ I want all of the MS conference rooms to be like &lt;A href="http://www.microsof
 &lt;a href="/12502">Here&lt;/a>. The one where &lt;a href="/12502">Ward and I turn a spec. into a SOAP endpoint implementation compliance test&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1234</id>
+    <id>https://csells.github.io/sb6/1234</id>
     <title>Web Site Dedicated to Extending VS.NET</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -124,7 +126,7 @@ I want all of the MS conference rooms to be like &lt;A href="http://www.microsof
 &lt;P>[via &lt;A class=headermaintitle id=Header1_HeaderTitle href="http://weblogs.asp.net/ksharkey/archive/2004/03/23/95015.aspx">Visual ActiveKent Sharkey .NET SE 3.11&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1225</id>
+    <id>https://csells.github.io/sb6/1225</id>
     <title>Very Cool Web Service Testing Tool from Mindreef</title>
     <updated>2004-03-24T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -134,7 +136,7 @@ I want all of the MS conference rooms to be like &lt;A href="http://www.microsof
 &lt;P>I knew Mindreef had cool testing tools, but &lt;A href="http://www.mindreef.net/soapscope/wsdldemo">I just found one today on their web site that I ended up using all afternoon&lt;/A>. You feed it a WSDL URL and it generates a form, allowing you to see the SOAP request and response packet in several formats include raw XML, to pseudo-code, pretty-printed XML and tree. It's much more flexible then the built in one that ASP.NET provides and the price is right.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1224</id>
+    <id>https://csells.github.io/sb6/1224</id>
     <title>It's All Down Hill From Here : )</title>
     <updated>2004-03-24T08:00:00.000Z</updated>
     <published>2004-03-24T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ I want all of the MS conference rooms to be like &lt;A href="http://www.microsof
 &lt;P>I'm met Rory's "tart of a girlfriend" and there's really nothing more I need to consider accomplishing. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1223</id>
+    <id>https://csells.github.io/sb6/1223</id>
     <title>Tom Barnaby on Preparing for Indigo</title>
     <updated>2004-03-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ I want all of the MS conference rooms to be like &lt;A href="http://www.microsof
 Tom Barnaby has some &lt;A href="http://www.ftponline.com/reports/vslivesf/2004/barnaby/">tips for preparing today for Indigo tomorrow&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1222</id>
+    <id>https://csells.github.io/sb6/1222</id>
     <title>BradA on GC fun in Whidbey</title>
     <updated>2004-03-24T08:00:00.000Z</updated>
     <published>2004-03-24T08:00:00.000Z</published>
@@ -164,7 +166,7 @@ Tom Barnaby has some &lt;A href="http://www.ftponline.com/reports/vslivesf/2004/
 Brad Abrams posts a nice, consise description of two tweaks to the GC that Whidbey provides to enable developers to handle unmanaged resources in their .NET objects better. &lt;A href="http://blogs.msdn.com/brada/archive/2003/12/12/50948.aspx">Check it out.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1221</id>
+    <id>https://csells.github.io/sb6/1221</id>
     <title>The Next Big Leap in "Programming"</title>
     <updated>2004-03-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -175,7 +177,7 @@ Brad Abrams posts a nice, consise description of two tweaks to the GC that Whidb
 &lt;P>.NET and Longhorn have provided us a big step forward in terms of hand-crafting computer-based solutions to our problems, but only self-organizing, self-evolving, self-repairing systems can really scale. I know that &lt;A href="http://www-306.ibm.com/autonomic/index.shtml">IBM has done some work in this area with their automonic computing&lt;/A>, but my personal favorite work on this topic is &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/1558605436/">Genetic Programming III by John Koza&lt;/A>. Anyone for a Genetic Algorithm Runtime (GAR)?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1220</id>
+    <id>https://csells.github.io/sb6/1220</id>
     <title>"Meet the Man Behind the Marquee"</title>
     <updated>2004-03-22T08:00:00.000Z</updated>
     <published>2004-03-22T08:00:00.000Z</published>

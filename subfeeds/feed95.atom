@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed95.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed95.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed94.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed96.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed95.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed94.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed96.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed95.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1075</id>
+    <id>https://csells.github.io/sb6/1075</id>
     <title>Longhorn Meetup</title>
     <updated>2004-01-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 I don't know what a "Meetup" is, but I signed up for &lt;A href="http://longhorn.meetup.com/">a "Longhorn Meetup"&lt;/A> in 97007 (and I wasn't the first). Will it hurt?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1073</id>
+    <id>https://csells.github.io/sb6/1073</id>
     <title>The .NET Show: Longhorn Overview</title>
     <updated>2004-01-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@ I don't know what a "Meetup" is, but I signed up for &lt;A href="http://longhorn
 Robert Hess kicks off a series of Longhorn episodes on The .NET Show with &lt;A href="http://msdn.microsoft.com/theshow/Episode039/default.asp">a Longhorn overview&lt;/A>, featuring some of the major movers and shakers behind the technology and then, of course, some shenanigans from none other than the poster children of coding for Longhorn, Don "Outofthe" Box and Chris "Mr." Anderson.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12508</id>
+    <id>https://csells.github.io/sb6/12508</id>
     <title>When In Doubt, Ignore Longhorn</title>
     <updated>2004-01-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -141,7 +143,7 @@ it after all. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1074</id>
+    <id>https://csells.github.io/sb6/1074</id>
     <title>When In Doubt, Ignore Longhorn</title>
     <updated>2004-01-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -151,7 +153,7 @@ it after all. : )&lt;/p>
 &lt;a href="/12508">Here&lt;/a>. &lt;P>The one where I list my favorite sources of information for development with today's shipping .NET Framework.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1070</id>
+    <id>https://csells.github.io/sb6/1070</id>
     <title>PSS Security Response Team Alert-New Worm: Mydoom</title>
     <updated>2004-01-28T08:00:00.000Z</updated>
     <published>2004-01-28T08:00:00.000Z</published>
@@ -160,7 +162,7 @@ it after all. : )&lt;/p>
 &lt;a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/alerts/mydoom.asp">Here&lt;/a>. "&lt;SPAN style="COLOR: #000000">Please review the Microsoft security alert regarding W32/Mydoom@MM and take appropriate action for your environment. This rapidly spreading, mass-mailer virus affects Microsoft Outlook, Microsoft Outlook Express, and Web-based e-mail."&lt;/SPAN></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1072</id>
+    <id>https://csells.github.io/sb6/1072</id>
     <title>XAML as Documents</title>
     <updated>2004-01-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -170,7 +172,7 @@ it after all. : )&lt;/p>
 &lt;P>Wes muses on &lt;A href="http://wesnerm.blogs.com/net_undocumented/2004/01/xaml_as_documen.html">whether XAML could become a "standard" document format&lt;/A>&amp;nbsp;for even custom types. Certainly, if a document was serialized in XAML using custom types instead of in a custom format, it would save some translation to/from the Avalon object model...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1071</id>
+    <id>https://csells.github.io/sb6/1071</id>
     <title>Announcing the Longhorn Developer FAQ</title>
     <updated>2004-01-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -182,7 +184,7 @@ it after all. : )&lt;/p>
 &lt;P>And, if you've got an feedback on the FAQ items or would like to see new ones (or would like to hire him -- he's amazing with all things XML), &lt;A href="mailto:stuart@ferncrk.com">feel free to send him an email&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1069</id>
+    <id>https://csells.github.io/sb6/1069</id>
     <title>Brian Noyes on .NET Rocks about ClickOnce</title>
     <updated>2004-01-27T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -193,7 +195,7 @@ it after all. : )&lt;/p>
 &lt;P>ClickOnce debuts in Whidbey and will be a big part of the deployment story in Longhorn.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1068</id>
+    <id>https://csells.github.io/sb6/1068</id>
     <title>System Stats Using Avalon Animation Lingo</title>
     <updated>2004-01-27T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -203,7 +205,7 @@ it after all. : )&lt;/p>
 Ryan Dawson built &lt;A href="http://www.longhornblogs.com/rdawson/articles/SystemStats.aspx">a fun system stats utility&lt;/A> showing off the Avalon's animation of object rotation, position, translation and opacity. And more importantly, he describes how he did it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1066</id>
+    <id>https://csells.github.io/sb6/1066</id>
     <title>MSBuild in 30 Minutes or Less</title>
     <updated>2004-01-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -213,7 +215,7 @@ Ryan Dawson built &lt;A href="http://www.longhornblogs.com/rdawson/articles/Syst
 &lt;a href="http://www.iunknown.com/Files/Practical_Eye_Issue2.pdf">Here&lt;/a>. I just learned today that one of the most interesting conversationalist in the Windows development world has started a PDF newsletter. In this issue, he provides a quick guide to writing build scripts in MSBuild, the new build engine in Whidbey and Longhorn. Subscribed.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1064</id>
+    <id>https://csells.github.io/sb6/1064</id>
     <title>New MSDN Data Access &amp; Storage Developer Center</title>
     <updated>2004-01-26T08:00:00.000Z</updated>
     <published>2004-01-26T08:00:00.000Z</published>
@@ -222,7 +224,7 @@ Ryan Dawson built &lt;A href="http://www.longhornblogs.com/rdawson/articles/Syst
 MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all your data access and storage needs. Check out &lt;A href="http://msdn.microsoft.com/data/editor/">Christa's goals for the site&lt;/A> and don't hesitate to &lt;A href="mailto:christac@microsoft.com?subject=Comments on the Data Access &amp;amp; Storage Developer Center">send your comments her way&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1067</id>
+    <id>https://csells.github.io/sb6/1067</id>
     <title>Win32 -> .NET Framework API Map</title>
     <updated>2004-01-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -232,7 +234,7 @@ MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all yo
 &lt;A href="http://www.cheztabor.com/">Tim Tabor&lt;/A> points out a new find, &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/win32map.asp">a mapping from Win32 API functions to the closest equivalent in the .NET Framework class library&lt;/A>. This is an amazing resource for folks making the switch.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1065</id>
+    <id>https://csells.github.io/sb6/1065</id>
     <title>Generic Sort-only IBindingList Implementation</title>
     <updated>2004-01-26T08:00:00.000Z</updated>
     <published>2004-01-26T08:00:00.000Z</published>
@@ -241,7 +243,7 @@ MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all yo
 &lt;a href="http://www.mikedub.net/default.html">Here&lt;/a>. Michael has put together a very nice implementation of IBindingList that derives from ArrayList and adds generic sorting based on the types of the items in the list. Very handy for adding sorting to your DataGrid when binding to custom types instead of DataSets.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1063</id>
+    <id>https://csells.github.io/sb6/1063</id>
     <title>Paul Thurrott Talks to the Longhorn Aero Team</title>
     <updated>2004-01-23T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -253,7 +255,7 @@ MSDN launches it's new Data Access &amp;amp; Storage Developer Center for all yo
 &lt;P>I agree, Paul. Thanks.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1061</id>
+    <id>https://csells.github.io/sb6/1061</id>
     <title>Introducing Microsoft WinFX by Brent Rector</title>
     <updated>2004-01-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

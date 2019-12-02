@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed121.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed121.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed120.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed122.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed121.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed120.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed122.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed121.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/714</id>
+    <id>https://csells.github.io/sb6/714</id>
     <title>SlashDot Review of Essential .NET</title>
     <updated>2003-07-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://slashdot.org/article.pl?sid=03/07/27/2230220">Here&lt;/a>. "Of course, there is the question of whether this book will actually improve your .NET development skills, but in riposte, you can honestly say that no volume details the CLR and its potential so well, and that this alone is worth the book's cover price."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/710</id>
+    <id>https://csells.github.io/sb6/710</id>
     <title>Beyond CheckOut and CheckIn</title>
     <updated>2003-07-26T07:00:00.000Z</updated>
     <published>2003-07-26T07:00:00.000Z</published>
@@ -51,7 +53,7 @@
 &lt;a href="http://software.ericsink.com/Beyond_CheckOut_and_CheckIn.html">Here&lt;/a>. Eric Sink, the CEO of SourceGear, provides very lucid explanations of advanced features of source control, including labeling, cloacking, sharing, pinning, branching and merging branches. Even on medium-sized projects, I've *needed* at least half of those features, so getting to know what they're for is good for you (like broccoli : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/712</id>
+    <id>https://csells.github.io/sb6/712</id>
     <title>Marketing is not a Post-Processing Step</title>
     <updated>2003-07-26T07:00:00.000Z</updated>
     <published>2003-07-26T07:00:00.000Z</published>
@@ -60,7 +62,7 @@
 &lt;a href="http://software.ericsink.com/Positioning.html">Here&lt;/a>. Where has Eric Sink been all my life?!? Another great article on marketing by geeks for geeks.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/711</id>
+    <id>https://csells.github.io/sb6/711</id>
     <title>Marketing for Geeks</title>
     <updated>2003-07-26T07:00:00.000Z</updated>
     <published>2003-07-26T07:00:00.000Z</published>
@@ -69,20 +71,20 @@
 &lt;a href="http://software.ericsink.com/Act_Your_Age.html">Here&lt;/a>. Some straight talk about marketing from one geek to another. I wish I would've known this stuff years ago!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/707</id>
+    <id>https://csells.github.io/sb6/707</id>
     <title>Another RSS + search application</title>
     <updated>2003-07-25T07:00:00.000Z</updated>
     <published>2003-07-25T07:00:00.000Z</published>
-    <summary>Here. Rory Blyth put the Amazon.com web service to work building RSS feeds to search for new products in your favorite categories, further pushing the "RSS as intelligent search agent" idea [1]. And, if anyone buys from links on his feeds, he promises to give the money to charity (until such time as it provides enough income for him to sip umbrella drinks on the beach, I presume : ). [1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703</summary>
+    <summary>Here. Rory Blyth put the Amazon.com web service to work building RSS feeds to search for new products in your favorite categories, further pushing the "RSS as intelligent search agent" idea [1]. And, if anyone buys from links on his feeds, he promises to give the money to charity (until such time as it provides enough income for him to sip umbrella drinks on the beach, I presume : ). [1] https://csells.github.io/sb6/news/showTopic.aspx?ixTopic=703</summary>
     <content type="html">&lt;h1>Another RSS + search application&lt;/h1>
 &lt;a href="http://www.neopoleon.com/blog/chooseFeedGroup.aspx">Here&lt;/a>. Rory Blyth put the Amazon.com web service to work building RSS feeds to search for new products in your favorite categories, further pushing the "RSS as intelligent search agent" idea [1].
 
 And, if anyone buys from links on his feeds, he promises to give the money to charity (until such time as it provides enough income for him to sip umbrella drinks on the beach, I presume : ).
 
-[1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703</content>
+[1] https://csells.github.io/sb6/news/showTopic.aspx?ixTopic=703</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/709</id>
+    <id>https://csells.github.io/sb6/709</id>
     <title>Need an Excuse? Use a Web Service</title>
     <updated>2003-07-25T07:00:00.000Z</updated>
     <published>2003-07-25T07:00:00.000Z</published>
@@ -91,7 +93,7 @@ And, if anyone buys from links on his feeds, he promises to give the money to ch
 &lt;a href="/public/samples/excuses-asmx.zip">Here&lt;/a>. Someone transcribed an ExcuseBall (tm) into a spreadsheet and the rest was reflex.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/708</id>
+    <id>https://csells.github.io/sb6/708</id>
     <title>"This is your code. This is your code, managed."</title>
     <updated>2003-07-25T07:00:00.000Z</updated>
     <published>2003-07-25T07:00:00.000Z</published>
@@ -100,7 +102,7 @@ And, if anyone buys from links on his feeds, he promises to give the money to ch
 &lt;a href="http://msdn.microsoft.com/theshow/">Here&lt;/a>. I'm heading up to Redmond to do a taping of the .NET Show on Monday on the topic of managed code. Robert's idea is to show folks that still think of .NET as managed only just what they're missing. I've got 15 minutes for a code demo. Suggestions?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/706</id>
+    <id>https://csells.github.io/sb6/706</id>
     <title>Ingo says, "Sealed is Good"</title>
     <updated>2003-07-25T07:00:00.000Z</updated>
     <published>2003-07-25T07:00:00.000Z</published>
@@ -111,7 +113,7 @@ And, if anyone buys from links on his feeds, he promises to give the money to ch
 So, while sealed is useful, it still sucks. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/705</id>
+    <id>https://csells.github.io/sb6/705</id>
     <title>Not A Legend</title>
     <updated>2003-07-24T07:00:00.000Z</updated>
     <published>2003-07-24T07:00:00.000Z</published>
@@ -124,7 +126,7 @@ Plus, his site lampoons the "official" software legend site [1] nicely. : )
 http://www.softwarelegends.com</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12535</id>
+    <id>https://csells.github.io/sb6/12535</id>
     <title>Using GotDotNet Workspaces For Commercial Work</title>
     <updated>2003-07-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -158,7 +160,7 @@ CommandLineParser class&lt;/a> for those that are interested. Enjoy!&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/703</id>
+    <id>https://csells.github.io/sb6/703</id>
     <title>"Intelligent Search Agents" Made Real</title>
     <updated>2003-07-23T07:00:00.000Z</updated>
     <published>2003-07-23T07:00:00.000Z</published>
@@ -173,7 +175,7 @@ To compose a new RSS feed tailored to your tastes, surf to wired.com and enter y
 [scriptingnews.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/702</id>
+    <id>https://csells.github.io/sb6/702</id>
     <title>Active Scripting for .NET</title>
     <updated>2003-07-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ To compose a new RSS feed tailored to your tastes, surf to wired.com and enter y
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12534</id>
+    <id>https://csells.github.io/sb6/12534</id>
     <title>Windows XP Remote Assistance Rocks!</title>
     <updated>2003-07-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -215,7 +217,7 @@ about it at all).&lt;/p>&lt;p>Wow. That's a feature that made my life better.&lt
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/704</id>
+    <id>https://csells.github.io/sb6/704</id>
     <title>Windows XP Remote Assistance Rocks!</title>
     <updated>2003-07-23T07:00:00.000Z</updated>
     <published>2003-07-23T07:00:00.000Z</published>
@@ -224,7 +226,7 @@ about it at all).&lt;/p>&lt;p>Wow. That's a feature that made my life better.&lt
 &lt;a href="/12534">Here&lt;/a>. The one where Windows makes my life better.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12536</id>
+    <id>https://csells.github.io/sb6/12536</id>
     <title>My $5 Digital Music Experiment</title>
     <updated>2003-07-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

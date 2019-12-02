@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed55.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed55.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed54.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed56.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed55.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed54.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed56.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed55.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1636</id>
+    <id>https://csells.github.io/sb6/1636</id>
     <title>SlashDot is Wrong: MCE05 Rocks</title>
     <updated>2004-12-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://slashdot.org/article.pl?sid=04/12/29/1452230">Here&lt;/a>. &lt;P>I'm a &lt;EM>very&lt;/EM> happy user of &lt;A href="http://www.microsoft.com/windowsxp/mediacenter/default.mspx">Windows Media Center Edition 2005&lt;/A> and have been for some months. Not only does it allow me unfettered access to audio, video and recorded TV from any PC in the house, but with the &lt;A href="http://www.microsoft.com/windowsxp/mediacenter/evaluation/devices/xboxextenderkit.mspx">XBOX Media Center Extender&lt;/A>, I can access all of this from any TV in the house as well (so long as its equipped with an MCE Extender). Further, I was able to use MCE to record several episodes of a yoga TV show for my sister-in-law and burn them onto DVDs with an evaluation&amp;nbsp;copy of &lt;A href="http://www.intervideo.com/jsp/WinDVDCreator_Profile.jsp">WinDVD Creator&lt;/A>, making her very happy. I don't know what the "content restrictions" who-ha is about, but MCE05 works &lt;EM>great&lt;/EM> for me.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1634</id>
+    <id>https://csells.github.io/sb6/1634</id>
     <title>Mobiform Aurora XAML Editor</title>
     <updated>2004-12-23T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 &lt;P>Cool!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1635</id>
+    <id>https://csells.github.io/sb6/1635</id>
     <title>Concurrency: The Next Important Thing</title>
     <updated>2004-12-23T08:00:00.000Z</updated>
     <published>2004-12-23T08:00:00.000Z</published>
@@ -63,7 +65,7 @@
 &lt;P>What this means to me is that we'll have to have &lt;EM>much&lt;/EM> better language-level support for concurrent programming. What we have now sucks. Rocks. Hard.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1632</id>
+    <id>https://csells.github.io/sb6/1632</id>
     <title>SVG to XAML Converter</title>
     <updated>2004-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -74,7 +76,7 @@
 &lt;P>"This edition can convert SVG created by tools other than Adobe&amp;#174; Illustrator&amp;#174;. But SVG exported from Adobe&amp;#174; Illustrator&amp;#174; is the only fully supported subset of SVG."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1633</id>
+    <id>https://csells.github.io/sb6/1633</id>
     <title>Hosting An Avalon Application in a Browser</title>
     <updated>2004-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -84,7 +86,7 @@
 Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/12/21/329296.aspx">converting a stand-alone Avalon application into an application that can be hosted in IE&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1631</id>
+    <id>https://csells.github.io/sb6/1631</id>
     <title>We Need NetFlix for TV</title>
     <updated>2004-12-20T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -94,7 +96,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Sometimes I miss some made-for-TV movie or series that I'd really like to see and that I didn't know about before hand so that I could point my ReplayTV or MCE at it. The world needs NetFlix for TV.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1630</id>
+    <id>https://csells.github.io/sb6/1630</id>
     <title>A Limerick in Rory's Honor</title>
     <updated>2004-12-19T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -107,7 +109,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Happy birthday, pal. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1627</id>
+    <id>https://csells.github.io/sb6/1627</id>
     <title>Getting Out The Vote: Save Ctrl+F5 in VS05!</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -118,7 +120,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Don't just site there!&amp;nbsp;&lt;A href="http://lab.msdn.microsoft.com/productfeedback/viewfeedback.aspx?feedbackid=1cf3309f-971c-4ad1-8da0-f1c88eaca4c5">Vote to Save Ctrl+F5 in VS05!&lt;/A>&amp;nbsp;(I love MSDN Product Feedback : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1629</id>
+    <id>https://csells.github.io/sb6/1629</id>
     <title>Deuce Bigalow: European Gigolo</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -128,7 +130,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Am I the only one actually &lt;A href="http://www.sonypictures.com/movies/deucebigaloweuropeangigolo/index.html">looking forward to this movie&lt;/A>?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1628</id>
+    <id>https://csells.github.io/sb6/1628</id>
     <title>Ian Dives Deep Into Animation</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -138,7 +140,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>I said that &lt;A href="/1613">animation in Avalon is simple&lt;/A>. Ian said that &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/16/movingpictures">it's hard&lt;/A>. We're both right (I was talking about the programming model and Ian is talking about the nuts and bolts of the implementation), but Ian &lt;EM>seems&lt;/EM> more right because of those fabulous example pictures that explain why wagon wheels look like they're going backward. Now if he could only explain why computer screens in movies always look like they've been engineered to invoke seizures, we'd have something!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1624</id>
+    <id>https://csells.github.io/sb6/1624</id>
     <title>Products and Money</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -151,7 +153,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Both are excellent but both convince me yet again that such things are more luck than skill (which sucks for those of us that consider themselves skillful).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1626</id>
+    <id>https://csells.github.io/sb6/1626</id>
     <title>JohnMont Wants Feedback on WinForms/Avalon Interop</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -163,7 +165,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 &lt;P>Don't be shy! &lt;A href="http://blogs.msdn.com/johnmont/archive/2004/12/15/316219.aspx">Let him know what it is you're looking for from Avalon and Windows Form integration!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1625</id>
+    <id>https://csells.github.io/sb6/1625</id>
     <title>Best of the Blogs: VS Tools for Office 2003</title>
     <updated>2004-12-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -173,7 +175,7 @@ Karsten has some tips on &lt;A href="http://blogs.msdn.com/karstenj/archive/2004
 Kevin Schuler and Drew Robbins have compiled a list of dozens of &lt;A href="http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_vsto2003_ta/html/OfficeVSTOBestOfBlogs2003.asp">the best VSTO blog entries in 2003&lt;/A> across seven categories ranging from architecture to troubleshooting. If you're into VSTO, this should provide some pleasant holiday reading for you. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1622</id>
+    <id>https://csells.github.io/sb6/1622</id>
     <title>Avalon Chess</title>
     <updated>2004-12-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -183,7 +185,7 @@ Kevin Schuler and Drew Robbins have compiled a list of dozens of &lt;A href="htt
 &lt;P>The Avalon experiments keep on happening. This time, &lt;A href="http://www.valil.com/avalon/">check out Avalon Chess&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1623</id>
+    <id>https://csells.github.io/sb6/1623</id>
     <title>Snorkeling Is Unbelievably Wonderful</title>
     <updated>2004-12-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

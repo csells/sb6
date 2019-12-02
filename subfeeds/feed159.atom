@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed159.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed159.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed158.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed160.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed159.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed158.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed160.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed159.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/190</id>
+    <id>https://csells.github.io/sb6/190</id>
     <title>Only Two More Weeks 'til Spend A Day With .NET!</title>
     <updated>2002-08-15T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 Grand prize is free admission to the Web Services DevCon, but other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET, a half-day of consulting and free software and t-shirts galore!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/189</id>
+    <id>https://csells.github.io/sb6/189</id>
     <title>Bug free development</title>
     <updated>2002-08-14T07:00:00.000Z</updated>
     <published>2002-08-14T07:00:00.000Z</published>
@@ -53,7 +55,7 @@ Grand prize is free admission to the Web Services DevCon, but other prizes inclu
 From Damon Gautama: If the quantum view of the world is correct, does it mean that testers create bugs by observing them?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/187</id>
+    <id>https://csells.github.io/sb6/187</id>
     <title>Google Inside</title>
     <updated>2002-08-14T07:00:00.000Z</updated>
     <published>2002-08-14T07:00:00.000Z</published>
@@ -62,7 +64,7 @@ From Damon Gautama: If the quantum view of the world is correct, does it mean th
 &lt;a href="http://technetcast.com/tnc_play_stream.html?stream_id=420">Here&lt;/a>. From Razvan Caciula: The technology behind Google in mp3 audio and 15 minute Q&amp;A session with Jim Reese, Google's Chief Operations Engineer.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/186</id>
+    <id>https://csells.github.io/sb6/186</id>
     <title>Borland Announces .NET with Delphi 7</title>
     <updated>2002-08-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -72,7 +74,7 @@ From Damon Gautama: If the quantum view of the world is correct, does it mean th
 &lt;a href="http://www.borland.com/delphi/">Here&lt;/a>. From Razvan Caciula: "This product also feature full support for new and emerging Web Services, integrated model driven development, and preview capabilities for the Microsoft.NET Framework. Delphi 7 supports a first true model driven architecture with new UML solutions bundled in, updated cross-platform testing capabilities and Linux support with KylixTM 3."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/188</id>
+    <id>https://csells.github.io/sb6/188</id>
     <title>1/3 of All Email is Spam</title>
     <updated>2002-08-14T07:00:00.000Z</updated>
     <published>2002-08-14T07:00:00.000Z</published>
@@ -81,7 +83,7 @@ From Damon Gautama: If the quantum view of the world is correct, does it mean th
 &lt;a href="http://www.cloudmark.com/">Here&lt;/a>. That's according to today's daily log on CloudNet.com, makers of SpamNet, a p2p spamfighter for Outlook. I've been using it for the last coupla days and been pretty darn happy. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/183</id>
+    <id>https://csells.github.io/sb6/183</id>
     <title>Wahoo! reinstated for .NET SP1!</title>
     <updated>2002-08-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -91,7 +93,7 @@ From Damon Gautama: If the quantum view of the world is correct, does it mean th
 SP1, as far as I can tell, introduced a bug wherein applications that had specific code groups granting them permissions with a membership determined by a strong key could not run when launched via the href-exe/moble code technique. Keith Brown did some spelunking and determined that ieexec.exe (the hosting process for such an app) would (mistakenly?) require that code from the site as a whole had at least Execution permissions before taking any of the other permissions for the specific assembly into account. The upshot is that to let wahoo.exe run on a .NET SP1+ box, you had to have two code groups, one that gave Internet permissions or greater to assemblies w/ a strong name and one that awarded at least Execution permission to all assemblies from sellsbrothers.com. I've updated the &lt;a href="/12661">Wahoo! site&lt;/a> w/ an MSI that creates both of these code groups along with the full source so that you can do the same for your own assemblies. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12578</id>
+    <id>https://csells.github.io/sb6/12578</id>
     <title>The Apple and the Tree</title>
     <updated>2002-08-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -114,7 +116,7 @@ SP1, as far as I can tell, introduced a bug wherein applications that had specif
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/185</id>
+    <id>https://csells.github.io/sb6/185</id>
     <title>The Apple and the Tree</title>
     <updated>2002-08-13T07:00:00.000Z</updated>
     <published>2002-08-13T07:00:00.000Z</published>
@@ -123,7 +125,7 @@ SP1, as far as I can tell, introduced a bug wherein applications that had specif
 &lt;a href="/12578">Here&lt;/a>. A conversation I had with my eight-year-old son yesterday.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/184</id>
+    <id>https://csells.github.io/sb6/184</id>
     <title>Mindreef Tide Beta</title>
     <updated>2002-08-13T07:00:00.000Z</updated>
     <published>2002-08-13T07:00:00.000Z</published>
@@ -138,7 +140,7 @@ Mindreef develops a Web services diagnostic system that provides value through t
 We are currently accepting beta testers. If you're interested in being part of our program, fill out the Beta Tester Questionnaire.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/182</id>
+    <id>https://csells.github.io/sb6/182</id>
     <title>WD-Mag Newsletter: Chris Sells on .NET</title>
     <updated>2002-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -148,7 +150,7 @@ We are currently accepting beta testers. If you're interested in being part of o
 &lt;a href="http://www.wd-mag.com/newsletters/sells/">Here&lt;/a>. I plan on holding forth on smaller .NET programming topics in this bi-monthly newsletter.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/181</id>
+    <id>https://csells.github.io/sb6/181</id>
     <title>Windows interfaces and protocols</title>
     <updated>2002-08-12T07:00:00.000Z</updated>
     <published>2002-08-12T07:00:00.000Z</published>
@@ -161,7 +163,7 @@ In addition, on Aug. 28 Microsoft will release for free to developers 272 applic
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/179</id>
+    <id>https://csells.github.io/sb6/179</id>
     <title>DX9 promises movie-quality quality in real-time</title>
     <updated>2002-08-09T07:00:00.000Z</updated>
     <published>2002-08-09T07:00:00.000Z</published>
@@ -170,7 +172,7 @@ In addition, on Aug. 28 Microsoft will release for free to developers 272 applic
 &lt;a href="http://www.ati.com/developer/demos/R9700.html">Here&lt;/a>. Check out the Animusic demo, which is a capture of a real-time animation demo using DirectX9 and an ATI Radeon 9700. Not only is it amazing graphics-wise, but's it's entertainment. If we can do this kind of thing in real-time, it won't take Pixar to do ToyStory, we can have it in our games or we can do it ourselves in our basements. This will do for animators what word processors did for authors and sequencers did for muscians.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/177</id>
+    <id>https://csells.github.io/sb6/177</id>
     <title>Microsoft at the San Francisco Moscone Center</title>
     <updated>2002-08-09T07:00:00.000Z</updated>
     <published>2002-08-09T07:00:00.000Z</published>
@@ -179,7 +181,7 @@ In addition, on Aug. 28 Microsoft will release for free to developers 272 applic
 &lt;a href="http://www.eweek.com/article2/0,3959,441106,00.asp">Here&lt;/a>. From Razvan Caciula: "We want to reach those who are likely to be operating in a mixed (Windows/Linux) environment"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/178</id>
+    <id>https://csells.github.io/sb6/178</id>
     <title>Edsger Wybe Dijkstra: 1930-2002</title>
     <updated>2002-08-09T07:00:00.000Z</updated>
     <published>2002-08-09T07:00:00.000Z</published>
@@ -188,7 +190,7 @@ In addition, on Aug. 28 Microsoft will release for free to developers 272 applic
 &lt;a href="http://www.cs.utexas.edu/users/UTCS/notices/dijkstra/ewdobit.html">Here&lt;/a>. "Dijkstra is renowned for the insight that mathematical logic is and must be the basis for sensible computer program construction and for his contributions to mathematical methodology. He is responsible for the idea of building operating systems as explicitly synchronized sequential processes, for the formal development of computer programs, and for the intellectual foundations for the disciplined control of nondeterminacy. He is well known for his amazingly efficient shortest path algorithm and for having designed and coded the first Algol 60 compiler. He was famously the leader in the abolition of the GOTO statement from programming."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/180</id>
+    <id>https://csells.github.io/sb6/180</id>
     <title>VBTV</title>
     <updated>2002-08-09T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

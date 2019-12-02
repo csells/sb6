@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed75.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed75.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed74.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed76.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed75.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed74.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed76.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed75.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1359</id>
+    <id>https://csells.github.io/sb6/1359</id>
     <title>A Gathering of VS05 Team System Info</title>
     <updated>2004-05-24T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -58,7 +60,7 @@
 &lt;LI>Seeing our own internal tools, like PREfast, made available to our customers and integrated so nicely into VS&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1357</id>
+    <id>https://csells.github.io/sb6/1357</id>
     <title>A Gathering of Avalon 3D Materials</title>
     <updated>2004-05-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 &lt;P>3D support in Avalon is not meant to build Doom 3, but it does shine especially brightly in two places: 1) you can do 3D in a declarative way in XAML, just like the rest of Avalon and 2) as Greg describes, &lt;A href="http://weblogs.asp.net/greg_schechter/archive/2004/05/22/139744.aspx">the integration of 2D and 3D in Avalon is nice and clean&lt;/A> the way it isn't in most current 3D APIs. I'm looking forward to taking advantage of the 3D support in my own apps, which isn't something I ever considered before with DirectX. Thanks, guys!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12493</id>
+    <id>https://csells.github.io/sb6/12493</id>
     <title>Strengths and Weaknesses</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -117,7 +119,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1354</id>
+    <id>https://csells.github.io/sb6/1354</id>
     <title>Another Killer App for Web Services</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -127,7 +129,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;a href="/12494">Here&lt;/a>. The one where the idea of &lt;a href="/12494">intranet services being exposed as web services gets me hot&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1356</id>
+    <id>https://csells.github.io/sb6/1356</id>
     <title>Strengths and Weaknesses</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -137,7 +139,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;a href="/12493">Here&lt;/a>. The one where I learn that &lt;a href="/12493">DevelopMentor was my own personal speed reading course&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1355</id>
+    <id>https://csells.github.io/sb6/1355</id>
     <title>Employers Check References</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -147,7 +149,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 I got an email asking to serve as a reference for a guy I'd never heard of today. Just so you know, especially in a down economy, employers check references. Also, it's a good idea to &lt;EM>ask&lt;/EM> a reference between adding them to your resume so they don't have to respond, "Roy? I don't know anyone named Roy..." : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12494</id>
+    <id>https://csells.github.io/sb6/12494</id>
     <title>Another Killer App for Web Services</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/img.10.jpg"/>
@@ -210,7 +212,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1353</id>
+    <id>https://csells.github.io/sb6/1353</id>
     <title>WinHEC Avalon Slides</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -225,7 +227,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;P>[&lt;A href="http://pdcbloggers.net/Longhorn/XAML/2310.item">via Adam Kinney&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1351</id>
+    <id>https://csells.github.io/sb6/1351</id>
     <title>Interview: Bob Muglia, MS Longhorn Server Sr. VP</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -235,7 +237,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;A href="http://www.zdnet.com.au/insight/software/0,39023769,39148209,00.htm">ZDNet asks Bob Muglia, the Sr. VP in charge of Longhorn Server, questions&lt;/A> like: What does MS think about Linux? When will Longhorn client and server ship? What about WinFS? And my personal favorite: Can you tell us what's on Blackcomb's feature list?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1352</id>
+    <id>https://csells.github.io/sb6/1352</id>
     <title>The Power of Vector Drawing</title>
     <updated>2004-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -245,7 +247,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 Ian blathers on about &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/05/20/vectors">the power for vector graphics&lt;/A> for a while then hits you with this link &lt;A href="http://www.xara.com/products/xarax/">demonstrating the power of vector graphics&lt;/A>. Wow. Some of those pictures are amazing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1349</id>
+    <id>https://csells.github.io/sb6/1349</id>
     <title>&lt;h1>"No coding question unanswered for &lt; 24 hours"&lt;/h1></title>
     <updated>2004-05-19T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -260,7 +262,7 @@ Ian blathers on about &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/05/
 &lt;P>After the session, one Portland nerd came up and told me that he can't remember the last time that he had a coding question that went unanswered for more than 24 hours. Wow. We'd come quite a ways when that's the case.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1348</id>
+    <id>https://csells.github.io/sb6/1348</id>
     <title>A Rare Insight Into MS</title>
     <updated>2004-05-19T07:00:00.000Z</updated>
     <published>2004-05-19T07:00:00.000Z</published>
@@ -269,7 +271,7 @@ Ian blathers on about &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/05/
 The Channel9 team cranked up the MS transparency a notch today by sharing a long &lt;EM>internal&lt;/EM> email thread with the Channel9 community for their feedback. This is interesting because, unlike most of the content that MS shares with the public, &lt;A href="http://www.glitteringgenerality.com/PermaLink.aspx?guid=626b3f5b-77d7-4305-b2d8-82ef6e2c9e05">this email thread was not created with sharing in mind&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1350</id>
+    <id>https://csells.github.io/sb6/1350</id>
     <title>WinFS StoreSpy v0.8 for the WinHEC Longhorn</title>
     <updated>2004-05-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -279,7 +281,7 @@ The Channel9 team cranked up the MS transparency a notch today by sharing a long
 Doh! I jumped the gun on this post. The WinFS team doesn't think that StoreSpy is ready for prime time, so I've taken it down. Bad dog. No bone!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1346</id>
+    <id>https://csells.github.io/sb6/1346</id>
     <title>Google's #1 Sells</title>
     <updated>2004-05-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -289,7 +291,7 @@ Doh! I jumped the gun on this post. The WinFS team doesn't think that StoreSpy i
 As &lt;A href="http://steverodgers.blogspot.com/2004_05_01_steverodgers_archive.html#108478022406625242">my friend Steve&lt;/A> puts it, &lt;A href="http://www.google.com/search?hl=en&amp;amp;ie=UTF-8&amp;amp;q=sells">according to Google&lt;/A>, I'm "even more famous than the act of selling itself." : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1347</id>
+    <id>https://csells.github.io/sb6/1347</id>
     <title>6x The MSDN Fun at Tonight's Portland Nerd Dinner</title>
     <updated>2004-05-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

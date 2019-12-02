@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed51.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed51.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed50.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed52.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed51.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed50.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed52.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed51.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1693</id>
+    <id>https://csells.github.io/sb6/1693</id>
     <title>Google Site Search *Is* Working!</title>
     <updated>2005-02-10T08:00:00.000Z</updated>
     <published>2005-02-10T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 Doh! It was all about the outer &amp;lt;form runat="server"&amp;gt; that I wasn't using on my web pages, but just left 'cuz "it wasn't hurting anything." Removing the outer form let the inner Google site search form work and wa la -- site searching on sellsbrothers.com (and it only took 10 years : ). Thanks to &lt;a href="http://www.fastchicken.co.nz/blog">Nic Wise&lt;/a> for his diagnosis!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1689</id>
+    <id>https://csells.github.io/sb6/1689</id>
     <title>I Think VSLive Is *It*</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -51,7 +53,7 @@ Doh! It was all about the outer &amp;lt;form runat="server"&amp;gt; that I wasn'
 &lt;P>It's become apparent to me that for Microsoft-focused non-Microsoft hosted conferences, &lt;A href="http://www.ftponline.com/conferences/vslive/">VSLive is it&lt;/A>. I know that in the past that they've had financial problems, but I haven't heard rumors of that for a while. Even more importantly, their attendance numbers and their coverage is top notch for 3rd party Windows developer conferences. If I was going to speak at a wide-reach Windows developer conference that wasn't a TechEd or a PDC, VSLive would be it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1688</id>
+    <id>https://csells.github.io/sb6/1688</id>
     <title>Video: Soma on Visual Studio 2005 + Smart Clients</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@ Doh! It was all about the outer &amp;lt;form runat="server"&amp;gt; that I wasn'
 &lt;EM>"&lt;A href="http://www.ftponline.com/reports/vslivesf/2005/somasegar/">Somasegar says&lt;/A> a key component of continuing this momentum is creating 'connected systems' that work together by using smart clients. 'Let's take the best from the Web client world and the best from the rich client world, and&amp;#8212;voila!&amp;#8212;you have a smart client,' Somasegar says. Smart clients can allow several applications to share code with one another while using minimal resources, eliminating the need to duplicate coding efforts; essentially, if one application requires a piece of code existing already in another application, it simply can request the code to be sent over. 'The cheapest piece of code is the piece of code that you don't have to write in the first place,' Somasegar says, as smart clients provide interoperability through Web services and leverage existing investments. 'Enabling developers to reuse existing assets is a key design goal.' The end result of using a smart client, ultimately, is a rich user experience that requires using minimal resources."&lt;/EM></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1691</id>
+    <id>https://csells.github.io/sb6/1691</id>
     <title>VSLive Indigo Day Coverage from TheServerSide</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ Doh! It was all about the outer &amp;lt;form runat="server"&amp;gt; that I wasn'
 Paul Ballard provides &lt;A href="http://www.theserverside.net/articles/showarticle.tss?id=VSLiveDay02">a nice summary of the Indigo Day at VSLive&lt;/A>. I especially like the acronyms that the Indigo boys were using; the ABCs of Indigo&amp;nbsp;and the CIA of security are damned easy to remember!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1687</id>
+    <id>https://csells.github.io/sb6/1687</id>
     <title>Clemens says "Hello, World" via Indigo</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -81,7 +83,7 @@ Paul Ballard provides &lt;A href="http://www.theserverside.net/articles/showarti
 &lt;EM>"&lt;FONT face=Arial size=2>If you looked at the PDC 2003 Indigo bits, you will notice that &lt;A href="http://staff.newtelligence.net/clemensv/PermaLink.aspx?guid=d678ab54-9d39-4fc9-82c0-4e03382d457f">the [Indigo] programming model changed&lt;/A> quite a bit. I think that in fact, every single element of the programming model changed since then. And all for the better. The programming model is so intuitive by now that I am (almost) tempted to say 'Alright, understood, next technology, please.'"&lt;/FONT>&lt;/EM></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1686</id>
+    <id>https://csells.github.io/sb6/1686</id>
     <title>Watch Eric Rudder's VSLive Indigo Keynote</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -95,7 +97,7 @@ By far my favorite part of this presentation (except for watching Ari's heart be
 And finally, Eric says that we'll be releasing a new WinFX CTP in March, which will include both Avalon and Indigo (although it may be March 38th or March 43rd : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1690</id>
+    <id>https://csells.github.io/sb6/1690</id>
     <title>Introducing Indigo: An Early Look</title>
     <updated>2005-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -106,7 +108,7 @@ And finally, Eric says that we'll be releasing a new WinFX CTP in March, which w
 &lt;P>The first article of a new Indigo programming model since PDC03 (and hopefully the one that'll stick : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12338</id>
+    <id>https://csells.github.io/sb6/12338</id>
     <title>Trying To Be As Cool As Star Trek</title>
     <updated>2005-02-08T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/uhuraheadset.JPG"/>
@@ -122,7 +124,7 @@ on Star Trek and now it's finally happened! I'm ready for my replicator,
 transporter, tricorder and Holodeck now...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1684</id>
+    <id>https://csells.github.io/sb6/1684</id>
     <title>Trying To Be As Cool As Star Trek</title>
     <updated>2005-02-08T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -132,7 +134,7 @@ transporter, tricorder and Holodeck now...&lt;/p></content>
 &lt;a href="/12338">Here&lt;/a>. &lt;a href="/12338">&lt;IMG height=236 src="/public/fun/uhuraheadset.JPG" width=164 border=0>&lt;IMG height=235 src="/public/fun/csellsheadset.jpg" width=164 border=0>&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1682</id>
+    <id>https://csells.github.io/sb6/1682</id>
     <title>Avalon + Scaleable Golf == Hole in N</title>
     <updated>2005-02-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -148,7 +150,7 @@ transporter, tricorder and Holodeck now...&lt;/p></content>
 &lt;P dir=ltr>I love that folks have started to document their learning processes on their blogs. There's no better way for the WinFX folks to get a look at how folks are approaching their technology. Keep it up!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1683</id>
+    <id>https://csells.github.io/sb6/1683</id>
     <title>XSLTO: Mapping XSLT to Objects</title>
     <updated>2005-02-08T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -160,7 +162,7 @@ transporter, tricorder and Holodeck now...&lt;/p></content>
 Update: Steve Dunn has &lt;A HREF="/public/samples/xslto1.1.zip">ported Kim's sample from .NET 2.0 beta to .NET 1.1&lt;/A>. Thanks, Steve!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1685</id>
+    <id>https://csells.github.io/sb6/1685</id>
     <title>Allowing Partially Trusted Callers</title>
     <updated>2005-02-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -171,7 +173,7 @@ Update: Steve Dunn has &lt;A HREF="/public/samples/xslto1.1.zip">ported Kim's sa
 &lt;P>[&lt;A href="http://pluralsight.com/blogs/keith/archive/2005/02/08/5677.aspx">via Keith Brown&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12339</id>
+    <id>https://csells.github.io/sb6/12339</id>
     <title>Chris Sells Is Merely an Alter-Ego</title>
     <updated>2005-02-05T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/chrissharp_02_05_05.jpg"/>
@@ -188,7 +190,7 @@ Personal Email&lt;br>
 Saturday, &lt;span class="created">February 05, 2005 10:24 AM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1681</id>
+    <id>https://csells.github.io/sb6/1681</id>
     <title>Chris Sells Is Merely an Alter-Ego</title>
     <updated>2005-02-05T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/chrissharp_02_05_05.jpg"/>
@@ -199,7 +201,7 @@ Saturday, &lt;span class="created">February 05, 2005 10:24 AM&lt;/span>&lt;/i>&l
 &lt;a href="/12339">Here&lt;/a>. &lt;a href="/12339">&lt;img height=482 src="/public/fun/chrissharp_02_05_05.jpg" width=447 border=0>&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1679</id>
+    <id>https://csells.github.io/sb6/1679</id>
     <title>Want to be able to step into the Windows Forms source? I do!</title>
     <updated>2005-02-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

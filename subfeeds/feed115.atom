@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed115.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed115.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed114.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed116.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed115.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed114.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed116.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed115.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12525</id>
+    <id>https://csells.github.io/sb6/12525</id>
     <title>"Your enquiries frustrate the hell out of me"</title>
     <updated>2003-09-05T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -60,7 +62,7 @@ in the world. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/791</id>
+    <id>https://csells.github.io/sb6/791</id>
     <title>XML Eye for the Object Guy</title>
     <updated>2003-09-05T07:00:00.000Z</updated>
     <published>2003-09-05T07:00:00.000Z</published>
@@ -69,7 +71,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://blogs.gotdotnet.com/tewald/">Here&lt;/a>. Tim's blogging again.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/793</id>
+    <id>https://csells.github.io/sb6/793</id>
     <title>James Bond-like Water Car</title>
     <updated>2003-09-05T07:00:00.000Z</updated>
     <published>2003-09-05T07:00:00.000Z</published>
@@ -78,7 +80,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.aquada.host.goodtechnology.net/aquada/homepage.jsp?flash=true">Here&lt;/a>. This would cut the commute times across Lake Washington...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/788</id>
+    <id>https://csells.github.io/sb6/788</id>
     <title>Proof of Life</title>
     <updated>2003-09-03T07:00:00.000Z</updated>
     <published>2003-09-03T07:00:00.000Z</published>
@@ -87,7 +89,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.myelin.co.nz/post/2003/9/4/#200309041">Here&lt;/a>. Having never used SOAP before, Phillip Pearson posted an example of using the new microsoft.com web service from Python, including support for the developer token and the WS-Security headers.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/789</id>
+    <id>https://csells.github.io/sb6/789</id>
     <title>Don on SOA from the Applied XML Dev.Conf., part 2</title>
     <updated>2003-09-03T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -97,7 +99,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030902SOAPDB/manifest.xml">Here&lt;/a>. Either I was way behind on part 1, or I'm way ahead on part 2, but here it is. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/790</id>
+    <id>https://csells.github.io/sb6/790</id>
     <title>Handy .NET Generics Terms to Impress the Chicks</title>
     <updated>2003-09-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -107,7 +109,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://blogs.gotdotnet.com/EricGu/permalink.aspx/abba7015-b8ea-4367-878b-5dd82c8821a5">Here&lt;/a>. From Eric Gunnerson.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/787</id>
+    <id>https://csells.github.io/sb6/787</id>
     <title>Don on SOA from the Applied XML Dev.Conf., part 1</title>
     <updated>2003-09-03T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -117,7 +119,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030827SOAPDB/manifest.xml">Here&lt;/a>. Part 1 of Don's day #2 keynote from the Applied XML Developer's Conference.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/782</id>
+    <id>https://csells.github.io/sb6/782</id>
     <title>977!</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -128,7 +130,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://1.junglescan.com/scan/details.php?asin=0321116208&amp;days=30">Here&lt;/a>. According to JungleScan.com, Windows Forms Programming in C# has been as well as 977. That's as well as any of my books in the last year (except Essential .NET, which hit 226, but I didn't write any of that... : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/783</id>
+    <id>https://csells.github.io/sb6/783</id>
     <title>Windows Forms Programming in C# Sample Chapter</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -139,7 +141,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.awprofessional.com/catalog/product.asp?product_id={B757E215-0FB4-4EA1-A051-65EE537AE9C7}">Here&lt;/a>. AW has been kind enough to post the preface and a sample chapter (Chapter 9: Design-Time Integration) to the official AW Windows Forms Programming in C# book page. They've also posted Mike Blaszczak's foreword. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/785</id>
+    <id>https://csells.github.io/sb6/785</id>
     <title>Meet Duncan Mackenzie: AndAlso Zealot</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <published>2003-09-02T07:00:00.000Z</published>
@@ -148,7 +150,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://students.mainfunction.com/GearUp/display.asp?page=duncan_interview">Here&lt;/a>. Duncan is a fellow Content Strategist at MSDN in charge of protecting VB against semi-colon zealot's like me. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/784</id>
+    <id>https://csells.github.io/sb6/784</id>
     <title>Typeless Schemas and Services</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <published>2003-09-02T07:00:00.000Z</published>
@@ -159,7 +161,7 @@ in the world. : )&lt;/p>
 "Chris Sells has been running a boutique developer's conference for a few years. It's currently called the 'Applied XML Developers Conference,' with the sub-title 'applied topics for XML and Web Services zealots.' The devcon is clearly a case where, contrary to the spam we all get, size doesn't matter: Chris attracts an influential set of speakers and attendees, and what is discussed at these conferences is often a leading indicator of major trends in web services."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/781</id>
+    <id>https://csells.github.io/sb6/781</id>
     <title>Book of the Week at ASPExperts.com</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -170,7 +172,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.aspexperts.com/">Here&lt;/a>. I don't know why ASPExperts.com would designate a WinForms book as "Book of the Week," but I'm honored none-the-less. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/786</id>
+    <id>https://csells.github.io/sb6/786</id>
     <title>Holy Cow!</title>
     <updated>2003-09-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.bookpool.com/.x/3dnsq5n3gr/sm/0321116208">Here&lt;/a>. Apparently my book has sold out on BookPool.com already. Cool...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/779</id>
+    <id>https://csells.github.io/sb6/779</id>
     <title>Missing it</title>
     <updated>2003-09-01T07:00:00.000Z</updated>
     <published>2003-09-01T07:00:00.000Z</published>
@@ -190,7 +192,7 @@ in the world. : )&lt;/p>
 &lt;a href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2003-09-01T05:47:51Z">Here&lt;/a>. Don's take on the state of MS's developer relations (although, as he admits, he's no longer unbiased).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12526</id>
+    <id>https://csells.github.io/sb6/12526</id>
     <title>Communication Is All</title>
     <updated>2003-09-01T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

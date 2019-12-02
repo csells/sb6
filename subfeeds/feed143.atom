@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed143.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed143.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed142.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed144.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed143.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed142.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed144.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed143.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/421</id>
+    <id>https://csells.github.io/sb6/421</id>
     <title>Wes's Internet Helpdesk</title>
     <updated>2003-02-04T08:00:00.000Z</updated>
     <published>2003-02-04T08:00:00.000Z</published>
@@ -43,7 +45,7 @@
 Life from the working end of an ISP support desk. Hilarious.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/423</id>
+    <id>https://csells.github.io/sb6/423</id>
     <title>Shtoo</title>
     <updated>2003-02-04T08:00:00.000Z</updated>
     <published>2003-02-04T08:00:00.000Z</published>
@@ -52,7 +54,7 @@ Life from the working end of an ISP support desk. Hilarious.</content>
 &lt;a href="/12355">Here&lt;/a>. How Stu Halloway pronounces his name.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/422</id>
+    <id>https://csells.github.io/sb6/422</id>
     <title>Every OS Sucks</title>
     <updated>2003-02-04T08:00:00.000Z</updated>
     <published>2003-02-04T08:00:00.000Z</published>
@@ -67,7 +69,7 @@ Life from the working end of an ISP support desk. Hilarious.</content>
 Equal opportunity bashing of "everything since the abacus." Also hilarious.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/420</id>
+    <id>https://csells.github.io/sb6/420</id>
     <title>Let The Language Wars Continue</title>
     <updated>2003-02-03T08:00:00.000Z</updated>
     <published>2003-02-03T08:00:00.000Z</published>
@@ -76,7 +78,7 @@ Equal opportunity bashing of "everything since the abacus." Also hilarious.</con
 &lt;a href="/12562">Here&lt;/a>. I think that the CLR languages *should* have different capabilities and that  programmers should be proud of their choice of language! The skinning the pretends to separate two nearly identical languages must end!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/419</id>
+    <id>https://csells.github.io/sb6/419</id>
     <title>Safe, Simple Multithreading in WindForms, part 3</title>
     <updated>2003-02-03T08:00:00.000Z</updated>
     <published>2003-02-03T08:00:00.000Z</published>
@@ -85,7 +87,7 @@ Equal opportunity bashing of "everything since the abacus." Also hilarious.</con
 &lt;a href="http://msdn.microsoft.com/columns/winforms.asp">Here&lt;/a>. I thought that I had said it all in parts 1 and 2, but I still had a little more in me.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12562</id>
+    <id>https://csells.github.io/sb6/12562</id>
     <title>Let The Language Wars Continue</title>
     <updated>2003-02-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -129,7 +131,7 @@ could be better than that? : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/418</id>
+    <id>https://csells.github.io/sb6/418</id>
     <title>White House adviser confirms resignation plans</title>
     <updated>2003-02-02T08:00:00.000Z</updated>
     <published>2003-02-02T08:00:00.000Z</published>
@@ -138,7 +140,7 @@ could be better than that? : )&lt;/p>
 &lt;a href="http://www.cnn.com/2003/ALLPOLITICS/01/31/terrorism.adviser.ap/">Here&lt;/a>. Apparently Mr. Clarke is/was President Bush's "top cyber-security advisor" and the recent SQL virus drove him to throw up his hands in dispair (or be thrown out on his butt). Even more disturbing is that he predicts that this is but the beginning...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/417</id>
+    <id>https://csells.github.io/sb6/417</id>
     <title>.NET Bugs Registry</title>
     <updated>2003-01-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -148,7 +150,7 @@ could be better than that? : )&lt;/p>
 &lt;a href="http://www.jelovic.com/dotnetbugs/index.html">Here&lt;/a>. It's nice to see that somebody is tracking and publishing bugs on my most favorite technology, although I suspect that many are as yet unlisted...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/416</id>
+    <id>https://csells.github.io/sb6/416</id>
     <title>Blogs open doors for developers</title>
     <updated>2003-01-31T08:00:00.000Z</updated>
     <published>2003-01-31T08:00:00.000Z</published>
@@ -157,7 +159,7 @@ could be better than that? : )&lt;/p>
 &lt;a href="http://news.com.com/2100-1001-982854.html?tag=fd_lede1_hed">Here&lt;/a>. From Luciano Passuello: 1st page article on CNet's news.com talks about developers and blogs.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/415</id>
+    <id>https://csells.github.io/sb6/415</id>
     <title>Sam .NET Blog has changed locations and technology</title>
     <updated>2003-01-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -169,7 +171,7 @@ From Sam Gentile: For people who were reading my .NET Radio Blog. I have moved t
 http://dotnetweblogs.com/sgentile/ </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/414</id>
+    <id>https://csells.github.io/sb6/414</id>
     <title>Editor for Web.Config files in ASP.NET</title>
     <updated>2003-01-28T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -179,7 +181,7 @@ http://dotnetweblogs.com/sgentile/ </content>
 &lt;a href="http://www.hunterstone.com ">Here&lt;/a>. From Jim Corbin: Hunter Stone has created a useful tool for managing one or multiple Web.Config XML files in an ASP.NET application.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12563</id>
+    <id>https://csells.github.io/sb6/12563</id>
     <title>OOD (The D Stands for "Dead In The Water")</title>
     <updated>2003-01-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -221,7 +223,7 @@ dies. With OO persistence, when the app goes, so goes the data. The problem with
 OOD is that things are *too* seamlessly integrated. Ironic, no?&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/413</id>
+    <id>https://csells.github.io/sb6/413</id>
     <title>OOD (The D Stands for "Dead In The Water")</title>
     <updated>2003-01-24T08:00:00.000Z</updated>
     <published>2003-01-24T08:00:00.000Z</published>
@@ -230,7 +232,7 @@ OOD is that things are *too* seamlessly integrated. Ironic, no?&lt;/p></content>
 &lt;a href="/12563">Here&lt;/a>. In which I come to a startling conclusion on why OO databases never really happened and never will.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/412</id>
+    <id>https://csells.github.io/sb6/412</id>
     <title>ASP.NET: Tips and Tricks</title>
     <updated>2003-01-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -240,7 +242,7 @@ OOD is that things are *too* seamlessly integrated. Ironic, no?&lt;/p></content>
 &lt;a href="http://www.only4gurus.com/download.asp?ID=190">Here&lt;/a>. From Ben Kohn: See demonstrations of a variety of useful techniques and approaches that can be leveraged to help build powerful ASP.NET Web applications and Web Services. Learn about: debugging, tracing, event logging, performance counters, error handling, Web form session state, sending email from, file upload and others.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12564</id>
+    <id>https://csells.github.io/sb6/12564</id>
     <title>Sealed Sucks</title>
     <updated>2003-01-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

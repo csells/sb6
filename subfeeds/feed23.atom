@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed23.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed23.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed22.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed24.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed23.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed22.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed24.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed23.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2086</id>
+    <id>https://csells.github.io/sb6/2086</id>
     <title>Programming WPF: Rough Cuts</title>
     <updated>2007-03-10T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -43,7 +45,7 @@
 If you can't wait for Programming WPF to be on the shelves (I know I'm having trouble), then you can &lt;A href="http://www.oreilly.com/catalog/9780596510381/">read the chapters as we write them&lt;/A>. These chapters have not gone through the technical reviewing stage or the copy editing stage, but they've been through the baptism of fire that is co-author review and both Ian and I are nuts for grammar, so they should be pretty readable. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2085</id>
+    <id>https://csells.github.io/sb6/2085</id>
     <title>Mobile Video Conferencing! I want one!</title>
     <updated>2007-03-08T08:00:00.000Z</updated>
     <published>2007-03-08T08:00:00.000Z</published>
@@ -52,7 +54,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>I gotta get &lt;A href="http://www.headthere.com/products.html">one of these&lt;/A>&amp;nbsp;(the video conferencing robot, not the dude)!&lt;/P>&lt;IMG src="http://www.headthere.com/images/slide1.jpg"></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2084</id>
+    <id>https://csells.github.io/sb6/2084</id>
     <title>Using my XBox 360 for Corp. Video Conferencing</title>
     <updated>2007-03-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -71,7 +73,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>However, for the $30 incremental cost of the camera + year of live, it's a solution good enough that we're using it more and more. Have I mentioned how much I love my xbox 360?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2083</id>
+    <id>https://csells.github.io/sb6/2083</id>
     <title>Visual Studio Orcas March 2007 CTP</title>
     <updated>2007-03-01T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -86,7 +88,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2082</id>
+    <id>https://csells.github.io/sb6/2082</id>
     <title>Lutz Roeder's Reflector 5.0</title>
     <updated>2007-02-19T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -100,7 +102,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Need I say more?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2081</id>
+    <id>https://csells.github.io/sb6/2081</id>
     <title>Detailed Time Zone Data</title>
     <updated>2007-02-14T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -112,7 +114,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>At the time, they had a custom format for the data (and they probably still do, as far as I know), so I wrote &lt;A href="/12660">a utility to translate the tz format into XML&lt;/A> for easy parsing. I literally haven't touched the tool since, but with the recent time zone law changes in the US, I thought folks might be interested. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2080</id>
+    <id>https://csells.github.io/sb6/2080</id>
     <title>Slide your vote in for ScottH's Podcast</title>
     <updated>2007-02-08T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -128,7 +130,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Enjoy. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2079</id>
+    <id>https://csells.github.io/sb6/2079</id>
     <title>.NET: Decompressing zip file entries into memory</title>
     <updated>2007-02-04T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -150,7 +152,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>You can &lt;a href="/public/samples/DumpZipFileOfTextFiles.zip">download the sample&lt;/A> if you like. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2078</id>
+    <id>https://csells.github.io/sb6/2078</id>
     <title>Stange But Real Facts</title>
     <updated>2007-02-03T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -161,7 +163,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>P.S. Can you lick your elbow? Tom claims to have a friend that can lick his. He's going to be very popular when he grows up...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2076</id>
+    <id>https://csells.github.io/sb6/2076</id>
     <title>Windows Servers for the rest of us</title>
     <updated>2007-02-02T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -172,7 +174,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Yesterday, Charlie announced &lt;A href="http://blogs.technet.com/homeserver/">the Windows Home Server Blog&lt;/A>. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2077</id>
+    <id>https://csells.github.io/sb6/2077</id>
     <title>You Can Help Find Jim Gray</title>
     <updated>2007-02-02T08:00:00.000Z</updated>
     <published>2007-02-02T08:00:00.000Z</published>
@@ -186,7 +188,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Please spent a few minutes. Thank you.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2075</id>
+    <id>https://csells.github.io/sb6/2075</id>
     <title>The Potential of WPF/E</title>
     <updated>2007-02-01T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -197,7 +199,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>P.S. I don't smoke (except for the occasional cigar) and I definitely don't want to smell smoke while I eat or in my clothes, but the fact that smokers are no longer allowed to smoke most places strikes me as a violation of an important liberty. Have those studies about the effects of 3rd party smoke been verified?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2074</id>
+    <id>https://csells.github.io/sb6/2074</id>
     <title>WPF XBAP App: British Library Books Online</title>
     <updated>2007-01-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -210,7 +212,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>Wow. This is literally the only way to interact with some of this material and it's enabled with WPF. Nice.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2073</id>
+    <id>https://csells.github.io/sb6/2073</id>
     <title>Window Clippings 1.5</title>
     <updated>2007-01-29T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -225,7 +227,7 @@ If you can't wait for Programming WPF to be on the shelves (I know I'm having tr
 &lt;P>All of this is merely to say, I'm really loving my &lt;A href="http://weblogs.asp.net/kennykerr/archive/2007/01/28/window-clippings-1-5.aspx">Windows Clippings&lt;/A> experience. Thanks, Kenny!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2072</id>
+    <id>https://csells.github.io/sb6/2072</id>
     <title>API Usability</title>
     <updated>2007-01-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

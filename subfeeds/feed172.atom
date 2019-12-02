@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed172.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed172.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed171.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed173.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed172.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed171.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed173.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed172.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12661</id>
+    <id>https://csells.github.io/sb6/12661</id>
     <title>Welcome to Wahoo!</title>
     <updated>2002-01-15T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/wahoo/wahoo.JPG"/>
@@ -91,7 +93,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
 &lt;a href="mailto:tomasg@SPSS.COM">Tomas Gudmundsson&lt;/a>. I know I do.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12366</id>
+    <id>https://csells.github.io/sb6/12366</id>
     <title>The Game of Wahoo!</title>
     <updated>2002-01-15T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -102,7 +104,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12429</id>
+    <id>https://csells.github.io/sb6/12429</id>
     <title>VS.NET Fun Facts</title>
     <updated>2002-01-06T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -116,7 +118,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
     if you'd like to get the most out of VS.NET.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12594</id>
+    <id>https://csells.github.io/sb6/12594</id>
     <title>VS.NET Fun Facts</title>
     <updated>2002-01-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -894,7 +896,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
         all of which I can heartily recommend.&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12367</id>
+    <id>https://csells.github.io/sb6/12367</id>
     <title>My Family Heritage</title>
     <updated>2001-12-31T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/animal.jpg"/>
@@ -906,7 +908,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12615</id>
+    <id>https://csells.github.io/sb6/12615</id>
     <title>Elvish in the New Age</title>
     <updated>2001-12-29T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -923,7 +925,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
 &lt;P>&lt;I>Off Topic mailing list&lt;/I>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12368</id>
+    <id>https://csells.github.io/sb6/12368</id>
     <title>1970s "wocka-wocka" porno guitar</title>
     <updated>2001-12-19T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -933,7 +935,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
 &lt;p>&lt;b>&lt;i>Sung to &amp;quot;Shaft&amp;quot; by Isaac Hayes &amp;lt;&lt;a HREF="http://www.shaft-themovie.com/soundtrack/track01.mp3">&lt;font COLOR="#0000ff">&lt;u>http://www.shaft-themovie.com/soundtrack/track01.mp3&lt;/u>&lt;/font>&lt;/a>&amp;gt;&lt;/i>&lt;/b>&lt;/p>&lt;p>Who's the man with tongue-in-cheek&lt;br>that's a code machine to all the geeks?&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>You're damn right.&lt;br>Who is the man&lt;br>that would replace COM for its brother runtime?&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>Can ya dig it?&lt;br>Who's the cat that won't cop out&lt;br>when there's IDispatch all about&lt;/p>&lt;p>(Box!)&lt;/p>&lt;p>Right on&lt;br>You see this cat Box is a bad mother--&lt;/p>&lt;p>(Shut your mouth)&lt;/p>&lt;p>But I'm talkin' about Box&lt;/p>&lt;p>(Then we can dig it)&lt;/p>&lt;p>He's a complicated man&lt;br>but no one understands him but his pointers&lt;/p>&lt;p>(Don Box)&lt;/p>&lt;p>&lt;i>John Bristowe&lt;br>Wed &lt;span class="created">12/19/2001 2:02 PM&lt;/span>&lt;br>dotnet discussion &lt;a href="mailto:[DOTNET@DISCUSS.DEVELOP.COM">[DOTNET@DISCUSS.DEVELOP.COM&lt;/a>]&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12595</id>
+    <id>https://csells.github.io/sb6/12595</id>
     <title>Too Many Secrets</title>
     <updated>2001-12-18T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -990,7 +992,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
             </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12596</id>
+    <id>https://csells.github.io/sb6/12596</id>
     <title>Effective C# Available Today</title>
     <updated>2001-12-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -1015,7 +1017,7 @@ by the Windows Forms team on GotDotNet. I'd like to thank the academy... : )&lt;
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12369</id>
+    <id>https://csells.github.io/sb6/12369</id>
     <title>I am not making this up...</title>
     <updated>2001-11-27T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -1056,7 +1058,7 @@ HRESULT RunCommandEx(LPCWSTR szCmdLine) {
 }&lt;/pre>&lt;p>That's not &lt;i>quite&lt;/i> my definition of robust, but oh well...&lt;/p>&lt;p>&lt;i>Tue &lt;span class="created">11/27/2001 3:52 PM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12370</id>
+    <id>https://csells.github.io/sb6/12370</id>
     <title>.NET edition of Truckin' (Grateful Dead)</title>
     <updated>2001-11-27T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -1067,7 +1069,7 @@ HRESULT RunCommandEx(LPCWSTR szCmdLine) {
 Tue &lt;span class="created">11/27/2001 3:41 PM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12597</id>
+    <id>https://csells.github.io/sb6/12597</id>
     <title>Thank You, Don Box</title>
     <updated>2001-11-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -1111,7 +1113,7 @@ Tue &lt;span class="created">11/27/2001 3:41 PM&lt;/span>&lt;/i>&lt;/p></content
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12598</id>
+    <id>https://csells.github.io/sb6/12598</id>
     <title>If you knew .NET like I know .NET...</title>
     <updated>2001-11-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -1238,7 +1240,7 @@ Tue &lt;span class="created">11/27/2001 3:41 PM&lt;/span>&lt;/i>&lt;/p></content
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12599</id>
+    <id>https://csells.github.io/sb6/12599</id>
     <title>Be Your Own Teddy Bear</title>
     <updated>2001-10-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -1284,7 +1286,7 @@ Tue &lt;span class="created">11/27/2001 3:41 PM&lt;/span>&lt;/i>&lt;/p></content
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12371</id>
+    <id>https://csells.github.io/sb6/12371</id>
     <title>The F-Key Diet</title>
     <updated>2001-10-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

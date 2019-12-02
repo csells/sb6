@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed66.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed66.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed65.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed67.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed66.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed65.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed67.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed66.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1475</id>
+    <id>https://csells.github.io/sb6/1475</id>
     <title>DonXML Updates His SVG2XAML Tool For WinHEC LH</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -43,7 +45,7 @@
 &lt;P>Eventually, we'll be awash in real tools that output XAML, but until then conversion tools are important so that &lt;A href="http://weblogs.asp.net/peterstern/archive/2004/08/09.aspx">real artists can use the tools with which they're already familiar&lt;/A>, output them into a vector format supported by that tool and then convert them to XAML for use in Longhorn apps.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1483</id>
+    <id>https://csells.github.io/sb6/1483</id>
     <title>.NET DJ Interviews Don "The King of COM" Box</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 &lt;a href="http://www.sys-con.com/story/?storyid=45908&amp;DE=1">Here&lt;/a>. In the interview, Don answers questions like "How did you get started in computer technologies" and "What's your favorite vegetable," but &lt;A href="http://www.sys-con.com/story/?storyid=45908&amp;amp;DE=1">he also answers much more interesting questions like &lt;STRONG>"I'm perfectly happy using ASMX for Web services - why should I care about Indigo?"&lt;/STRONG> and &lt;STRONG>"So, how will Indigo be better than WSE 2.0?"&lt;/STRONG>&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1476</id>
+    <id>https://csells.github.io/sb6/1476</id>
     <title>I'm With David: Doom 3 Ain't All That</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -63,7 +65,7 @@
 I can't tell you how much I loved Doom. I've probably played all of the Doom games back-to-back all the way through a half a dozen times over the last decade. And I was &lt;EM>so&lt;/EM> excited about Doom 3, but &lt;A href="http://weblogs.asp.net/dweller/archive/2004/08/12/213299.aspx">David's right&lt;/A>: Star Wars is to Phantom Menace as Doom 1 is to Doom 3: much prettier but much less fun.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1482</id>
+    <id>https://csells.github.io/sb6/1482</id>
     <title>"Windows Forms layout coming out of your butt"</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@ I can't tell you how much I loved Doom. I've probably played all of the Doom gam
 &lt;P>Mike Weinhardt lists his &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000069.html">favorite new features in Windows Forms 2.0&lt;/A>, not only bringing my "butt" into it, but making it sound like a &lt;EM>good&lt;/EM> thing. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1479</id>
+    <id>https://csells.github.io/sb6/1479</id>
     <title>3D for the Rest of Us, Part 2: Transforms</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ I can't tell you how much I loved Doom. I've probably played all of the Doom gam
 Daniel Lehenbauer, SDE on the Avalon team, posts &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/08/08/210961.aspx">another article on Avalon 3D with fabulous figures&lt;/A>. As a guy that relies on screen shots and the kindness of his friends for such luscious figures, I've &lt;EM>very&lt;/EM> jealous. Check it out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1477</id>
+    <id>https://csells.github.io/sb6/1477</id>
     <title>"Avalon is not going to replace the browser."</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -93,7 +95,7 @@ Daniel Lehenbauer, SDE on the Avalon team, posts &lt;A href="http://blogs.msdn.c
 Joe Beda, development lead on the Avalon team, &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=948">talks about rich vs. reach and where Avalon fits into this picture&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1481</id>
+    <id>https://csells.github.io/sb6/1481</id>
     <title>Eric Gunnerson Can't Resist The Pull Of Longhorn</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -103,7 +105,7 @@ Joe Beda, development lead on the Avalon team, &lt;A href="http://channel9.msdn.
 Apparently Eric Gunnerson,&amp;nbsp;confident that C# is now perfect (and who can blame him?) has decided to &lt;A href="http://blogs.msdn.com/ericgu/archive/2004/08/12/213778.aspx">work on the Longhorn Movie Maker team&lt;/A> (and who can blame him?).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1480</id>
+    <id>https://csells.github.io/sb6/1480</id>
     <title>Scott's .NET Zen</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -114,7 +116,7 @@ Apparently Eric Gunnerson,&amp;nbsp;confident that C# is now perfect (and who ca
 &lt;P>&lt;i>Languages Zen Koan:&lt;BR>"One day Fred was working with .NET. He overheard a programmer say to his superior, "Give me the best programming language you have." "Every language in .NET is the best," replied the butcher. "You can not find any language in .NET that is not the best." At these words, Fred was enlightened."&lt;/i>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1478</id>
+    <id>https://csells.github.io/sb6/1478</id>
     <title>Monad Architect Presents on the Monad Shell</title>
     <updated>2004-08-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -124,7 +126,7 @@ Apparently Eric Gunnerson,&amp;nbsp;confident that C# is now perfect (and who ca
 Only4Gurus.com has posted a presentation by Jeffrey P. Snover, a Monad Architect, entitled "&lt;a href='http://www.only4gurus.com/v2/preview.asp?ID=6307'>Monad Shell &amp;#8211; Task-Oriented Automation Framework&lt;/a>," in which he covers the Monad mission, the overall architecture and key developer and admin concepts. I'm a huge Monad fan and so should you be.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1473</id>
+    <id>https://csells.github.io/sb6/1473</id>
     <title>It's Best To Ignore Rory on IM</title>
     <updated>2004-08-09T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/fun/rory.1.gif"/>
@@ -179,7 +181,7 @@ together]] writes:&lt;/span>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1472</id>
+    <id>https://csells.github.io/sb6/1472</id>
     <title>Mensa Has an Open Enrollment Day</title>
     <updated>2004-08-05T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/mensa1.jpg"/>
@@ -194,7 +196,7 @@ together]] writes:&lt;/span>&lt;/p>
 &lt;p>And don't forget to steal the new flair, Rory... : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1471</id>
+    <id>https://csells.github.io/sb6/1471</id>
     <title>XAML: Smooth &amp; Satisfying</title>
     <updated>2004-08-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -204,7 +206,7 @@ together]] writes:&lt;/span>&lt;/p>
 &lt;A href="http://www.petersterndesign.com">Peter Stern&lt;/A> strikes again, this time with &lt;A href="http://www.cafeshops.com/peterstern/355236">fun XAML t-shirts, coffee mugs and laptop stickers&lt;/A>. Ordered.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1470</id>
+    <id>https://csells.github.io/sb6/1470</id>
     <title>Microsoft Longhorn Employee Blogs</title>
     <updated>2004-08-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -214,7 +216,7 @@ together]] writes:&lt;/span>&lt;/p>
 &lt;a href="http://www.microsoft.com/communities/blogs/PortalResults.mspx?BlogPart=Blog&amp;BlogCategory=b7abf888-8e44-494b-9cc5-09d2890e70b2">Here&lt;/a>. As I post this, &lt;A href="http://www.microsoft.com/communities/blogs/PortalResults.mspx?BlogPart=Blog&amp;amp;BlogCategory=b7abf888-8e44-494b-9cc5-09d2890e70b2">82 Microsoft employees classify themselves as blogging about Longhorn or Longhorn-related topics&lt;/A>. I thought I knew them all, but there are some that were new to me.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1469</id>
+    <id>https://csells.github.io/sb6/1469</id>
     <title>I want remote apps, not remote desktops</title>
     <updated>2004-08-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -225,7 +227,7 @@ together]] writes:&lt;/span>&lt;/p>
 &lt;P>However, as enabling as TS and VPC are, I want more. Instead of logging into a desktop and having the windows trapped on that desktop, I want the windows from a VPC or TS session to just show up on my local desktop, maybe using title bar colors to tell me which ones are running on which machines. I know that X-Windows has provided this for a while, but I want this for Windows. That is all.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1468</id>
+    <id>https://csells.github.io/sb6/1468</id>
     <title>Longhorn Jobs</title>
     <updated>2004-07-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed127.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed127.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed126.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed128.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed127.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed126.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed128.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed127.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/641</id>
+    <id>https://csells.github.io/sb6/641</id>
     <title>Less Than 10 Seats Left @ Applied XML Dev.Conf.</title>
     <updated>2003-06-27T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -42,7 +44,7 @@
 &lt;a href="/conference">Here&lt;/a>. If you're waiting 'til the last minute to register for the Applied XML Developer's Conference, you'll want to lock in soon. There's less than 10 seats available, so registering now would be good.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/639</id>
+    <id>https://csells.github.io/sb6/639</id>
     <title>Amazon.com + Kevin Bacon-style Relation Paths</title>
     <updated>2003-06-26T07:00:00.000Z</updated>
     <published>2003-06-26T07:00:00.000Z</published>
@@ -55,7 +57,7 @@ For example, from "The Best of Martha Stewart Living : Weddings" to "Mastering V
 Hours of fun for the whole family.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/638</id>
+    <id>https://csells.github.io/sb6/638</id>
     <title>Applied XML Dev.Conf. Message Board Heating Up</title>
     <updated>2003-06-26T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -65,7 +67,7 @@ Hours of fun for the whole family.</content>
 &lt;a href="http://www.gotdotnet.com/community/messageboard/MessageBoard.aspx?id=3714">Here&lt;/a>. The message board for the Applied XML Developer's Conference is heating up a bit. I set it up for the audience to be able to communicate during the presentations, but folks are already using it to coordinate Dev.Conf.-related activites. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/637</id>
+    <id>https://csells.github.io/sb6/637</id>
     <title>BillG Comments on my ThinkWeek Paper</title>
     <updated>2003-06-25T07:00:00.000Z</updated>
     <published>2003-06-25T07:00:00.000Z</published>
@@ -78,7 +80,7 @@ Hours of fun for the whole family.</content>
 I don't know what this means in terms of something actually happening, but I certainly got the only good result I had envisioned. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/636</id>
+    <id>https://csells.github.io/sb6/636</id>
     <title>Updater Application Block on MSDN.COM</title>
     <updated>2003-06-25T07:00:00.000Z</updated>
     <published>2003-06-25T07:00:00.000Z</published>
@@ -87,7 +89,7 @@ I don't know what this means in terms of something actually happening, but I cer
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnbda/html/updater.asp">Here&lt;/a>. Jamie Cool's App Updater sample that keeps an installed WinForms application up to date with bits from a server has been updated and is now available as the Updater Application Block to be even more robust (although Jamie's sample code was used for all of the Terrarium code updates, which had huge usage). Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/635</id>
+    <id>https://csells.github.io/sb6/635</id>
     <title>Amazon.com on Web Services @ Applied XML Dev.Conf.</title>
     <updated>2003-06-25T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -97,7 +99,7 @@ I don't know what this means in terms of something actually happening, but I cer
 &lt;a href="/conference">Here&lt;/a>. Colin Bryar, Director of Amazon.com Web Services &amp; Associates, will be giving an in depth talk at the Applied XML Developer's Conference on the how and why of web services at Amazon.com, one of the world's most well-known and most heavily used engines for driving revenue for 3rd parties (as well as for Amazon.com itself).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12543</id>
+    <id>https://csells.github.io/sb6/12543</id>
     <title>The Danger of Good Debate Skills</title>
     <updated>2003-06-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -123,7 +125,7 @@ can't blame that on anyone but myself. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/634</id>
+    <id>https://csells.github.io/sb6/634</id>
     <title>Whidbey XML Tools Preview @ Applied XML Dev.Conf.</title>
     <updated>2003-06-23T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -133,7 +135,7 @@ can't blame that on anyone but myself. : )&lt;/p>
 &lt;a href="/conference">Here&lt;/a>. Microsoft's suite of XML tools will grow considerably in the Whidbey timeframe. MS is showing off their initial ideas at the Applied XML Developer's Conference to gather feedback. Don't miss it!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12412</id>
+    <id>https://csells.github.io/sb6/12412</id>
     <title>Chris's Notes on Cashflow Quadrant</title>
     <updated>2003-06-22T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -191,7 +193,7 @@ can't blame that on anyone but myself. : )&lt;/p>
 		useful.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12411</id>
+    <id>https://csells.github.io/sb6/12411</id>
     <title>"Them that know, don't tell"</title>
     <updated>2003-06-22T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -256,7 +258,7 @@ can't blame that on anyone but myself. : )&lt;/p>
 		thinking even more.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12544</id>
+    <id>https://csells.github.io/sb6/12544</id>
     <title>Learning to Learn</title>
     <updated>2003-06-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -335,7 +337,7 @@ Thanks, COM (and Don and Tim and Keith and every audience I've every had : ).&lt
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/633</id>
+    <id>https://csells.github.io/sb6/633</id>
     <title>*Wide* View</title>
     <updated>2003-06-21T07:00:00.000Z</updated>
     <published>2003-06-21T07:00:00.000Z</published>
@@ -344,7 +346,7 @@ Thanks, COM (and Don and Tim and Keith and every audience I've every had : ).&lt
 &lt;a href="http://members.chello.nl/~s.ferris/">Here&lt;/a>. The fun you can have with 9 PCs and 13 monitors.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/631</id>
+    <id>https://csells.github.io/sb6/631</id>
     <title>Free Seats Awarded for the Applied XML Dev. Conf.</title>
     <updated>2003-06-20T07:00:00.000Z</updated>
     <published>2003-06-20T07:00:00.000Z</published>
@@ -353,7 +355,7 @@ Thanks, COM (and Don and Tim and Keith and every audience I've every had : ).&lt
 &lt;a href="/12545">Here&lt;/a>. The contest entries were so good that I had to award three winners, not just one. Winners, email me to claim your prize.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12545</id>
+    <id>https://csells.github.io/sb6/12545</id>
     <title>Naming My Feed</title>
     <updated>2003-06-20T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -415,7 +417,7 @@ Register now before all the seats are gone.&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/632</id>
+    <id>https://csells.github.io/sb6/632</id>
     <title>MS.COM's Web Services @ Applied XML Dev. Conf.</title>
     <updated>2003-06-20T07:00:00.000Z</updated>
     <published>2003-06-20T07:00:00.000Z</published>

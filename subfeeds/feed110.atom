@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed110.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed110.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed109.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed111.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed110.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed109.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed111.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed110.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/867</id>
+    <id>https://csells.github.io/sb6/867</id>
     <title>What Is An RSS Feed?</title>
     <updated>2003-10-09T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12520">Here&lt;/a>. The one where I describe RSS to the world's youngest mutual fund manager and my Mom.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/861</id>
+    <id>https://csells.github.io/sb6/861</id>
     <title>testing</title>
     <updated>2003-10-08T07:00:00.000Z</updated>
     <published>2003-10-08T07:00:00.000Z</published>
@@ -51,7 +53,7 @@
 &lt;a href="http://localhost">Here&lt;/a>. testing, please ignore</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/862</id>
+    <id>https://csells.github.io/sb6/862</id>
     <title>Watching the 'digital hand'</title>
     <updated>2003-10-08T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -61,7 +63,7 @@
 &lt;a href="http://rss.com.com/2010-7355_3-5088457.html?part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. Gurley sums up nicely the tendency of the IT industry to eat other industries and itself, leading to nice things for consumers, but not industries.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/860</id>
+    <id>https://csells.github.io/sb6/860</id>
     <title>XmlSerializer as XPath</title>
     <updated>2003-10-08T07:00:00.000Z</updated>
     <published>2003-10-08T07:00:00.000Z</published>
@@ -70,7 +72,7 @@
 &lt;a href="http://staff.develop.com/candera/weblog2/permalink.aspx/1b6b0694-653b-41c8-9e10-2d8b37a887db">Here&lt;/a>. Craig lays out a subtle but important different between thinking about XML as serialized types and thinking about XML that can be serialized to/from types. Nicely said, Craig.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/858</id>
+    <id>https://csells.github.io/sb6/858</id>
     <title>More on Generics in the CLR</title>
     <updated>2003-10-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@
 &lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/10/NET/">Here&lt;/a>. Jason Clark digs further into C# generics, including the niftiness of constraints and why they're so important (nicely told, Jason!).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/859</id>
+    <id>https://csells.github.io/sb6/859</id>
     <title>"Davis concedes, Schwarzenegger wins"</title>
     <updated>2003-10-07T07:00:00.000Z</updated>
     <published>2003-10-07T07:00:00.000Z</published>
@@ -89,7 +91,7 @@
 &lt;a href="http://www.cnn.com/2003/ALLPOLITICS/10/07/recall.main/index.html">Here&lt;/a>. In the "truth is stranger than fiction," category, Arnie does it. As I hail from the first state with a professional wrestler as it's governor, I think Cali got off easy. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/857</id>
+    <id>https://csells.github.io/sb6/857</id>
     <title>If you're going to the PDC, register soon</title>
     <updated>2003-10-06T07:00:00.000Z</updated>
     <published>2003-10-06T07:00:00.000Z</published>
@@ -98,7 +100,7 @@
 &lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. It seems likely that unlike most conferences since the bubble burst, the PDC will sell out. If you want to go, register soon.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/856</id>
+    <id>https://csells.github.io/sb6/856</id>
     <title>Dave Barry Takes the Fight to the Telemarketers</title>
     <updated>2003-10-05T07:00:00.000Z</updated>
     <published>2003-10-05T07:00:00.000Z</published>
@@ -107,7 +109,7 @@
 &lt;a href="http://www.miami.com/mld/miamiherald/living/columnists/dave_barry/6934584.htm">Here&lt;/a>. I'm guessing that the American Teleservices Association doesn't even realize how two-faced it's being when they get upset at unwelcome calls. Oh well. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/855</id>
+    <id>https://csells.github.io/sb6/855</id>
     <title>Roy, of 'Siegfried and Roy', attacked by tiger</title>
     <updated>2003-10-04T07:00:00.000Z</updated>
     <published>2003-10-04T07:00:00.000Z</published>
@@ -116,7 +118,7 @@
 &lt;a href="http://www.cnn.com/2003/US/West/10/04/roy.attacked/index.html">Here&lt;/a>. I can hear mothers around the world saying to their children, "See? I *told* you not to play with tigers!"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/848</id>
+    <id>https://csells.github.io/sb6/848</id>
     <title>Nuance Vocalizer 3.0 Demo</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>
@@ -127,7 +129,7 @@
 [1] http://promo.net/pg/</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/849</id>
+    <id>https://csells.github.io/sb6/849</id>
     <title>Geek dinner in Portland... and I missed it!</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>
@@ -136,7 +138,7 @@
 &lt;a href="http://snowstormlife.com/blog/posts/180.aspx">Here&lt;/a>. Doh! There was a geek dinner in Portland and I missed it! What? I make my address and email secret from you people?!? Let me know these things! I hope they have another one soon...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/852</id>
+    <id>https://csells.github.io/sb6/852</id>
     <title>Stealing Anyone's IP is Low</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>
@@ -147,7 +149,7 @@
 DISCLAIMER: I'm an employee of Microsoft, Corp. but the opinions expressed on this web site are my own and in no way reflect the opinions of my employer.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/854</id>
+    <id>https://csells.github.io/sb6/854</id>
     <title>The fruits of your success</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>
@@ -158,7 +160,7 @@ DISCLAIMER: I'm an employee of Microsoft, Corp. but the opinions expressed on th
 Jesse Livermore wrote these words in "How to Trade in Stocks," but they apply widely, I think.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12521</id>
+    <id>https://csells.github.io/sb6/12521</id>
     <title>My 9-Year Old Has a Cell Phone</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -206,7 +208,7 @@ calling her on his phone. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/853</id>
+    <id>https://csells.github.io/sb6/853</id>
     <title>My 9-Year Old Has A Cell Phone</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>

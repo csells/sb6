@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed50.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed50.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed49.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed51.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed50.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed49.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed51.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed50.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1705</id>
+    <id>https://csells.github.io/sb6/1705</id>
     <title>The MS Official Story Direct to Your RSS Reader</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <published>2005-02-16T08:00:00.000Z</published>
@@ -44,7 +46,7 @@
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1708</id>
+    <id>https://csells.github.io/sb6/1708</id>
     <title>Building Extensible Windows Forms Applications</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -66,7 +68,7 @@
 &lt;P>I know there are more pieces than just these, so &lt;A href="/1708">send them along&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1706</id>
+    <id>https://csells.github.io/sb6/1706</id>
     <title>Hitchhiker's Guide Might Not Suck</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -76,7 +78,7 @@
 &lt;a href="http://www.amazon.com/exec/obidos/subst/home/home.html/103-8833209-8659037">Here&lt;/a>. After watching &lt;A href="http://www.amazon.com/">the Hitchhiker's Guide to the Galaxy trailer on Amazon.com&lt;/A>, I have to say, it might not suck. Any Portland Nerds that want to join me for the first show on 4/29 (but don't tell my boss, he thinks I'm working that day... : )?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1704</id>
+    <id>https://csells.github.io/sb6/1704</id>
     <title>Windows Metafile to Avalon XAML Conversion</title>
     <updated>2005-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -86,7 +88,7 @@
 &lt;P>Cristian Civera, a Microsoft .NET MVP, has posted a preview of &lt;A href="http://lab.aspitalia.com/lab.aspx?ID=15#eng">a tool to convert Windows Enhanced Metafiles, an existing vector graphics file&amp;nbsp;format, to XAML, Avalon's new format for describing vector graphics&lt;/A> (among other things). Thanks, Cristian!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1701</id>
+    <id>https://csells.github.io/sb6/1701</id>
     <title>Experimenting with Windows Alternatives</title>
     <updated>2005-02-14T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -96,7 +98,7 @@
 &lt;a href="/12479">Here&lt;/a>. The one where I give &lt;a href="/12479">thumbs up to three Windows alternatives and a thumb sideways to another&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1702</id>
+    <id>https://csells.github.io/sb6/1702</id>
     <title>Fear, Uncertainty and Longhorn</title>
     <updated>2005-02-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -106,7 +108,7 @@
 &lt;P>Robert Scoble has &lt;A href="http://radio.weblogs.com/0001011/2005/02/14.html#a9420">some stuff to say&lt;/A> about Avalon, Indigo, Longhorn and packaging. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1700</id>
+    <id>https://csells.github.io/sb6/1700</id>
     <title>VSLive in Vegas Has "SmartClient Live"</title>
     <updated>2005-02-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@
 &lt;P>[&lt;A href="http://ea.3leaf.com/2005/02/first_vs_live_c.html">via 3Leaf&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1699</id>
+    <id>https://csells.github.io/sb6/1699</id>
     <title>Service Contracts in Indigo</title>
     <updated>2005-02-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -127,7 +129,7 @@
 Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/archive/2005/02/12/5819.aspx">the basics of specifying a service contract in Indigo&lt;/A>. Enjoy (I plan to : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1698</id>
+    <id>https://csells.github.io/sb6/1698</id>
     <title>Airing The Dirty Laundry</title>
     <updated>2005-02-12T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -152,7 +154,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;P>About halfway through the conversation, the nerds around me could no longer continue their conversations and were laughing openly. Ah, the joys of parenthood...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12479</id>
+    <id>https://csells.github.io/sb6/12479</id>
     <title>Experimenting with Windows Alternatives</title>
     <updated>2005-02-12T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -162,7 +164,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;p align="left">When I used to teach COM, we would brag about its cross-platform-ness, i.e. it worked across Windows 95, Windows 98, Windows NT 4, etc. So, when I'm talking about Windows alternatives, of course I mean Windows XP, Windows XP Media Center Edition, Windows CE and Windows XP Tablet Edition:&lt;/p>&lt;ul>&lt;li>&lt;p align="left">&lt;b>Windows XP&lt;/b>: This is the workhorse of my day and with SP2, it's even more wonderful than it was before. Love it.&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows XP Media Center Edition&lt;/b>: The mix of a pleasing 10-foot UI, picture, music and video playback, content and UI extension, PVR, Windows-based expansion and MCE extenders makes this a fabulous media client and server. Love it.&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows CE/SmartPhone 2003 Second Edition&lt;/b>: The 10-inch UI, the built-in apps and services, the extension apps, the internet access and a set of apps optimized for 9-key + joystick input all make this a fabulous user platform that's replaced my phone, my mp3 player and even my laptop in some cases. Plus, I can build my own apps! I haven't felt this way since my first laptop freed me from the tyranny of the desktop. Love, love, love it!&lt;/li>&lt;li>&lt;p align="left">&lt;b>Windows XP Tablet Edition&lt;/b>: I love reading text on this OS. The ClearText, the form factor and the scroll-specific buttons near the screen make it a wonderful reading experience. I also look forward to reviewing articles and book chapters with my tablet. However, I doubt I'll get to it because I dread picking it up and being faced with all of the text input I'm forced to perform. Unlike the MCE or SP OSes which have been optimized for remote control/keypad input, the tablet is more general purpose and therefore supports far more general purpose applications. This means text input for dialogs and passwords and URLs and all kinds of other things where my poor handwriting is often painful. Of course, handwriting is faster than joystick/keypad input, but because there seems so much more input required in an average tablet session, it seems slower. I with the apps for the tablet were more special-purpose and optimized for stylus-only input. Love it and don't so much love it.&lt;/li>&lt;/ul>&lt;p align="left">BTW, I paid $6000 in college for my Mac IIcx that I used to log into the Unix machines in the lab, so I've had a full range of computer UI experiences. I do truly love Windows best.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1696</id>
+    <id>https://csells.github.io/sb6/1696</id>
     <title>Local Boy Does Good</title>
     <updated>2005-02-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -172,7 +174,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;P>Microsoft's own Robert Scoble has broken his way into the secular press, with an article in both Fortune (&lt;A href="http://www.fortune.com/fortune/technology/articles/0,15114,1011763,00.html">Why There's No Escaping the Blog&lt;/A>) and The Economist (&lt;A href="http://www.economist.com/people/displayStory.cfm?story_id=3644293">Chief humanising officer&lt;/A>). Way to go, Robert!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1695</id>
+    <id>https://csells.github.io/sb6/1695</id>
     <title>Project Manager Leavers Suicide PPT Presentation</title>
     <updated>2005-02-11T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -185,7 +187,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;P>&lt;EM>"To Ron's credit, it was one helluva way to go out," human resources manager Gail Everts said. "Ron clearly spent a lot of time on that presentation. If the subject matter weren't so heavy, we'd probably use it to train his replacement."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1697</id>
+    <id>https://csells.github.io/sb6/1697</id>
     <title>i-mate SP3 Smartphone: How do I love thee?</title>
     <updated>2005-02-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -216,7 +218,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;P>It's my understanding that some of these flaws are fixed in the later smartphones (like &lt;A href="http://www.audiovox.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&amp;amp;storeId=10001&amp;amp;productId=13758&amp;amp;langId=-1">the Audiovox SMT5600&lt;/A>), but even with the issues I mention, I can't imagine that someone with a cell phone wouldn't pick a smart one over a dumb one, nor can I imagine that more then a relative few would prefer a PDA to a smart phone. The smart phone represents a perfect storm of form factor, capability and developer tools. Keep your hands and feet inside the ride, boys and girls, it's going to be a wild ride.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1692</id>
+    <id>https://csells.github.io/sb6/1692</id>
     <title>Indigo Day: Mujtaba Syed's Notes From The Field</title>
     <updated>2005-02-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -234,7 +236,7 @@ Don Box has posted an article on &lt;A href="http://pluralsight.com/blogs/dbox/a
 &lt;P>Thanks, Mujtaba!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1694</id>
+    <id>https://csells.github.io/sb6/1694</id>
     <title>Smart Client Patterns &amp; Practices Survey</title>
     <updated>2005-02-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

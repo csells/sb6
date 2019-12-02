@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed78.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed78.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed77.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed79.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed78.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed77.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed79.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed78.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1316</id>
+    <id>https://csells.github.io/sb6/1316</id>
     <title>*Sweet* Windows Forms 2.0 Features Screen Shots</title>
     <updated>2004-05-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -47,7 +49,7 @@
 &lt;P>[&lt;A href="http://www.mikedub.net/windowsformsredux/archives/000018.html">via Mike Weinhardt&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1317</id>
+    <id>https://csells.github.io/sb6/1317</id>
     <title>"Just think Chris Sells on my TV set!"</title>
     <updated>2004-05-03T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -57,7 +59,7 @@
 I think David meant this as &lt;A href="http://www.davidmcnamee.com/PermaLink.aspx?guid=ed72e88c-fc7c-48de-b0fa-2fbcf4943e60">a good thing&lt;/A>, but it sounded scary to me... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1315</id>
+    <id>https://csells.github.io/sb6/1315</id>
     <title>More Free WIndows Forms Controls:xpCommon Controls</title>
     <updated>2004-05-02T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -67,7 +69,7 @@ I think David meant this as &lt;A href="http://www.davidmcnamee.com/PermaLink.as
 And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep on coming&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1314</id>
+    <id>https://csells.github.io/sb6/1314</id>
     <title>Lutz Releases Reflector 4.0 (Finally!)</title>
     <updated>2004-05-02T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 &lt;p>UPDATE: Denis Bauer has provided his own &lt;a href="http://www.denisbauer.com/weblog/PermaLink,guid,d8da2708-8e5f-47a1-84ad-2cd81589d3fa.aspx">Reflector 4.0 Add-In to disassemble an entire assembly to a set of files&lt;/a>. This is handy if, like me, you like to curl up with a good chuck of source code, put your feet up and enjoy a good cigar.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1313</id>
+    <id>https://csells.github.io/sb6/1313</id>
     <title>NetXP: More Free Windows Forms Controls</title>
     <updated>2004-05-01T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -93,7 +95,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 &lt;A href="http://weblogs.asp.net/rosherove/archive/2004/05/01/124503.aspx">Roy points out&lt;/A> some Windows Forms controls that &lt;A href="http://www.larkware.com/Articles/TheDailyGrind361.html">Mike pointed out to him&lt;/A> and &lt;A href="http://www.dacris.com/netxp/">now I'm pointing out to you: NetXP&lt;/A>, which includes all kinds of fun controls and components for use for free for personal and freeware use. It's amazing the number of high-quality free .NET controls exist. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1312</id>
+    <id>https://csells.github.io/sb6/1312</id>
     <title>Talking To Kids About Money</title>
     <updated>2004-05-01T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -103,7 +105,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 &lt;a href="/12405">Here&lt;/a>. &lt;P>I found &lt;A href="http://www.themint.org/">a new site&lt;/A> focusing on a topic near and dear to my heart -- &lt;a href="/12405">educating kids about money&lt;/A> -- so I thought I'd log it for future reference (although you're free to &lt;a href="/12405">read my thoughts about it&lt;/A>, too : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12405</id>
+    <id>https://csells.github.io/sb6/12405</id>
     <title>Talking To Kids About Money</title>
     <updated>2004-05-01T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -169,7 +171,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 		</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1311</id>
+    <id>https://csells.github.io/sb6/1311</id>
     <title>Google Files for IPO @ e Billion Dollars</title>
     <updated>2004-04-30T07:00:00.000Z</updated>
     <published>2004-04-30T07:00:00.000Z</published>
@@ -178,7 +180,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 &lt;P>Unlike some lame "e" prefix that the kids like to put on things these days, &lt;A href="http://www.wired.com/news/business/0,1367,63286,00.html">Google's IPO valued at e billion dollars ($2,718,281,828) is the mathematical value e&lt;/A> (multiplied by 1 billion, of course). Luckily, they didn't have to spell &lt;EM>this&lt;/EM> famous mathematical number. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1310</id>
+    <id>https://csells.github.io/sb6/1310</id>
     <title>"The Great Windows 95 Trade-In Program"</title>
     <updated>2004-04-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -191,7 +193,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 &lt;P>Who else thinks that Richard Childress is absolutely right?!? Let's hear it!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1309</id>
+    <id>https://csells.github.io/sb6/1309</id>
     <title>Safe, Even Simpler Multithreading in Windows Forms</title>
     <updated>2004-04-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -202,7 +204,7 @@ And the hits, &lt;A href="http://www.steepvalley.net/xpcommon_1.htm">they keep o
 Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000009.html">threading in Windows Forms by illustrating the BackgroundWorker component from Windows Forms 2.0&lt;/A>. I have to admit that after I saw this component, I felt very silly for not wrapping my own code up in this form. Thank goodness for .the Windows Forms 2.0 team. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1308</id>
+    <id>https://csells.github.io/sb6/1308</id>
     <title>You Clever IM People Are Driving Me Nuts!</title>
     <updated>2004-04-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -216,7 +218,7 @@ Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mik
 &lt;P>Thus endith today's rant. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1307</id>
+    <id>https://csells.github.io/sb6/1307</id>
     <title>Rory Sells His Ex's Wedding Dress</title>
     <updated>2004-04-29T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -226,7 +228,7 @@ Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mik
 &lt;a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=4146756343">Here&lt;/a>. At least, if this isn't Rory, &lt;A href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;amp;item=4146756343">it sure &lt;EM>reads&lt;/EM> like Rory&lt;/A>... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1305</id>
+    <id>https://csells.github.io/sb6/1305</id>
     <title>Miguel de Icaza On Why Longhorn Matters</title>
     <updated>2004-04-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -244,7 +246,7 @@ Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mik
 &lt;P>What I find most interesting is that while Miguel doesn't cover the entire Longhorn story, e.g. he doesn't mention WinFS at all, what he does mention, he summaries well. I'm glad to see the message of what's going to make Longhorn cool is getting out. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1306</id>
+    <id>https://csells.github.io/sb6/1306</id>
     <title>OSS Groups Teaming Up to Combat Longhorn</title>
     <updated>2004-04-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -254,7 +256,7 @@ Mike Weinhardt adds a 4th installment to my series on &lt;A href="http://www.mik
 It's interesting to hear &lt;A href="http://news.com.com/2100-1032_3-5201325.html?tag=nefd.lede">what the Mozilla and Gnome guys are thinking about to rally their forces to combat Longhorn&lt;/A>. The interesting thing about it for me, a developer and user of software, is that when MS products improve, competitors feel the need to keep up and vice versa. In other words, I think competition is a big win for everyone and I, for one, am glad we have it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1304</id>
+    <id>https://csells.github.io/sb6/1304</id>
     <title>Tic-Tac-Toe for Longhorn</title>
     <updated>2004-04-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed19.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed19.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed18.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed20.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed19.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed18.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed20.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed19.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2146</id>
+    <id>https://csells.github.io/sb6/2146</id>
     <title>MS Math Add-In for Word 2007</title>
     <updated>2007-11-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -55,7 +57,7 @@
 &lt;P>This even works if you have multiple equations with multiple unknowns, which means this is good through at least 8th grade Algebra. Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2144</id>
+    <id>https://csells.github.io/sb6/2144</id>
     <title>Why aren't Windows settings stored in %HOMEPATH%?</title>
     <updated>2007-11-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -68,7 +70,7 @@
 &lt;P>These are the thoughts you have uninstalling VS05 and VS08b2...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2145</id>
+    <id>https://csells.github.io/sb6/2145</id>
     <title>1 Setup == Innumerable Uninstalls?</title>
     <updated>2007-11-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -78,7 +80,7 @@
 &lt;P>OK, what's the deal with installing 1 product (Visual Studio 2008 beta 2) and having to do &lt;A href="http://www.microsoft.com/express/support/uninstall/default.aspx">&lt;EM>&lt;STRONG>22 separate uninstalls&lt;/STRONG>&lt;/EM>&lt;/A>?!?&lt;EM>&lt;STRONG> &lt;/STRONG>&lt;/EM>How is this a good thing?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2142</id>
+    <id>https://csells.github.io/sb6/2142</id>
     <title>C# 3.0 in a Nutshell, LINQPad and Pure Genius</title>
     <updated>2007-11-26T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -90,7 +92,7 @@
 &lt;P>And if that weren't enough, the tool comes with an integrated tree of samples that follow along with the material in the book, teaching the material from another angle and reinforcing it perfectly. It's pure genius and if I ever write another book, it's a model I'm going to follow. Very highly recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2143</id>
+    <id>https://csells.github.io/sb6/2143</id>
     <title>I had to load FireFox on my machine yesterday</title>
     <updated>2007-11-26T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -103,7 +105,7 @@
 &lt;P>Anyway, FireFox rescales things very nicely and made my online reading very pleasant.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2141</id>
+    <id>https://csells.github.io/sb6/2141</id>
     <title>Amazon Kindle Real-Life Review</title>
     <updated>2007-11-24T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -114,7 +116,7 @@
 &lt;P>Has anyone used an ebook reader before? I have some friends with the Sony version and they love it. Are we there yet? Does anyone have a Kindle?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2140</id>
+    <id>https://csells.github.io/sb6/2140</id>
     <title>Visual Studio 2008 Has Been Released!</title>
     <updated>2007-11-19T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -133,7 +135,7 @@
 &lt;P>Enjoy! I know I have been.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2139</id>
+    <id>https://csells.github.io/sb6/2139</id>
     <title>My Team is Hiring and We Need YOU!</title>
     <updated>2007-11-16T08:00:00.000Z</updated>
     <published>2007-11-16T08:00:00.000Z</published>
@@ -144,7 +146,7 @@
 &lt;P>P.S. Did I mention that the team includes Don Box, Chris Anderson and Doug Purdy as well as &lt;A href="http://www.pluralsight.com/blogs/mgudgin/">Martin Gudgin&lt;/A>, &lt;A href="http://www.pluralsight.com/blogs/jeffsch/">Jeff Schlimmer&lt;/A> and &lt;A href="http://research.microsoft.com/~cszypers/">Clemens Szyperski&lt;/A>, as well as a bunch more talented folks?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2138</id>
+    <id>https://csells.github.io/sb6/2138</id>
     <title>Free copies of "Programming WPF" for YOU!</title>
     <updated>2007-11-14T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -156,7 +158,7 @@
 &lt;P>That's it! I'll pick the top n folks based on how many books I've got when I unpack the boxes. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2137</id>
+    <id>https://csells.github.io/sb6/2137</id>
     <title>Volunteering as Christmas Present?</title>
     <updated>2007-11-05T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -170,7 +172,7 @@
 &lt;P>Thoughts? Has anyone done something like this before? Does anyone have any ideas for Portland-area organizations that can help me get my volunteer hours in this holiday season?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2136</id>
+    <id>https://csells.github.io/sb6/2136</id>
     <title>The Future of Telecommuting</title>
     <updated>2007-10-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -180,7 +182,7 @@
 &lt;P class=MsoNormal>I truly believe that the future of employment will be much more individualistic and that requiring people to move will be an anachronism. Right now, phone + LiveMeeting is about 50% as good as being there; you're limited in what jobs you can do based on how much a part of your job "being there" actually is. We already have the pieces of technology to push "being there" to about 80%; we just haven't put them together yet. When we do, a bunch more barriers are going to come down. Until then, some folks are on the bleeding edge and isn't that what this whole industry is about anyway? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2135</id>
+    <id>https://csells.github.io/sb6/2135</id>
     <title>Working Remotely for Microsoft: Misc Tips &amp; Tricks</title>
     <updated>2007-10-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -200,7 +202,7 @@
 &lt;P>Tomorrow, I'll post the final entry in this series with my thoughts about &lt;a href="/2136">the future of telecommuting&lt;/a>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2134</id>
+    <id>https://csells.github.io/sb6/2134</id>
     <title>Working Remotely for Microsoft: What Are the Consequences?</title>
     <updated>2007-10-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -213,7 +215,7 @@
 &lt;P class=MsoNormal>Tomorrow: &lt;a href="/2135">Misc tips &amp;amp; tricks.&lt;/a>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2133</id>
+    <id>https://csells.github.io/sb6/2133</id>
     <title>Working Remotely for Microsoft: Can You Communicate Effectively From Home During Meetings?</title>
     <updated>2007-10-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -236,7 +238,7 @@
 &lt;P>Tomorrow we'll discuss &lt;a href="/2134">the career consequences of working remotely at Microsoft&lt;/a>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2132</id>
+    <id>https://csells.github.io/sb6/2132</id>
     <title>Working Remotely for Microsoft: Can You Communicate Effectively From Home?</title>
     <updated>2007-10-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

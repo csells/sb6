@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed157.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed157.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed156.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed158.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed157.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed156.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed158.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed157.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12575</id>
+    <id>https://csells.github.io/sb6/12575</id>
     <title>Attracting and Keeping Good Folks</title>
     <updated>2002-09-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -85,7 +87,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/219</id>
+    <id>https://csells.github.io/sb6/219</id>
     <title>Web Services Plumbing Work Nearly Completed</title>
     <updated>2002-09-02T07:00:00.000Z</updated>
     <published>2002-09-02T07:00:00.000Z</published>
@@ -94,7 +96,7 @@
 &lt;a href="http://www.theregister.co.uk/content/23/26899.html">Here&lt;/a>. At a recent talk at XML Web Services One, Don says that a lot of the plumbing work is winding down and that applications are about to take center stage as they have the basic bits they need to really work well. Of course, he says that we still have a couple more years of plumbing work to "finish up", but Don's a long thinker. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/218</id>
+    <id>https://csells.github.io/sb6/218</id>
     <title>ASP.NET View State Decoder</title>
     <updated>2002-09-02T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -106,7 +108,7 @@
 I've used this and loved it. It works a treat!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/217</id>
+    <id>https://csells.github.io/sb6/217</id>
     <title>"Spend a Day with .NET" Judges Judging</title>
     <updated>2002-09-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -118,7 +120,7 @@ I've used this and loved it. It works a treat!</content>
 The judges are judging and I will the results as soon as I have them.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/215</id>
+    <id>https://csells.github.io/sb6/215</id>
     <title>Spout -- Development for Developers</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -128,7 +130,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="/12576">Here&lt;/a>. "I got an email today from David, who says, 'So, I am looking to see what I can do to develop my skills as a designer. The trouble that I have, is simple. Where does a programmer that is over 40 years old, with a good job, and a good family turn to to learn something like this?'"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/213</id>
+    <id>https://csells.github.io/sb6/213</id>
     <title>Day w/ .NET: Join us on IRC undernet channel #c#</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -138,7 +140,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="http://www.mirc.com/get.html">Here&lt;/a>. Download mIRC, connect to a "Random US/EN Undernet Server" and join the "#c#" channel (it may not be listed).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12576</id>
+    <id>https://csells.github.io/sb6/12576</id>
     <title>Development for Developers</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -206,7 +208,7 @@ The judges are judging and I will the results as soon as I have them.</content>
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/212</id>
+    <id>https://csells.github.io/sb6/212</id>
     <title>Today's the Day to Spend with .NET!</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -216,7 +218,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/214</id>
+    <id>https://csells.github.io/sb6/214</id>
     <title>A Roadmap to the Recently Released Windows APIs</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <published>2002-08-30T07:00:00.000Z</published>
@@ -225,7 +227,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="http://www.oreillynet.com/pub/a/dotnet/2002/08/28/winapi.html">Here&lt;/a>. "There is a common belief among programmers--particularly those disinclined to believe the truth of anything coming out of Redmond--that Windows is full of 'secret functions.' These functions, so the story goes, are used by Microsoft to prevent independent reimplementation of its operating system and to give its own applications programmers an extra advantage. With the August 2002 release of its Platform SDK, Microsoft is complying with the terms of the consent decree it signed with the Department of Justice in November 2001. ... If you are one of the people who harbor suspicions against Microsoft, then you're not likely to be convinced that the recent release has changed anything. For a lot of the rest of us, including shell integration programmers, cryptographers and the terminally curious, the new information is fascinating and potentially useful, although not always as complete as we'd like."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/211</id>
+    <id>https://csells.github.io/sb6/211</id>
     <title>Practical VoIP Using VOCAL</title>
     <updated>2002-08-30T07:00:00.000Z</updated>
     <published>2002-08-30T07:00:00.000Z</published>
@@ -236,7 +238,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/208</id>
+    <id>https://csells.github.io/sb6/208</id>
     <title>VC++ Jacket for the Best Managed C++ Entry</title>
     <updated>2002-08-29T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -246,7 +248,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. Things are still heating up in the prize category. Not only has O'Reilly just donated a year subscription of Safari, along with a bunch of .NET book packs, but Nick Hodapp, a PM on the VC++ team at Microsoft, has just donated a VC++ Jacket to the best "Spend A Day With .NET" coding contest entry that's written in Managed C++. The anticipation is killing me!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/207</id>
+    <id>https://csells.github.io/sb6/207</id>
     <title>"Spend A Day With .NET" Tomorrow!</title>
     <updated>2002-08-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -256,7 +258,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. I've heard from folks from all over the world that are using tomorrow as an opportunity to either dive into .NET for the first time or to build their pet project with .NET. People are splitting into teams, designing their entries and looking for 3rd party libraries to get them started, all without writing a single line of code until the stroke of midnight on the morning of August 30th in their local time zone. The competition is fierce, and while the prizes seem to have attracted people’s attention, I think it’s the competition that is getting folks excited. Should be fun! : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/206</id>
+    <id>https://csells.github.io/sb6/206</id>
     <title>Newsletters Are Hard!</title>
     <updated>2002-08-29T07:00:00.000Z</updated>
     <published>2002-08-29T07:00:00.000Z</published>
@@ -265,7 +267,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 &lt;a href="/12577">Here&lt;/a>. "As I write this, several thousand emails are being sent to the initial list of SellsBrothers News newsletter subscribers. My motive (to let folks know what was happening on the site without having to visit every day) was pure, but if I would have know how hard it was going to be to set the thing up, I don't that I would have started."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/210</id>
+    <id>https://csells.github.io/sb6/210</id>
     <title>free .NET development environment</title>
     <updated>2002-08-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -277,7 +279,7 @@ The judges are judging and I will the results as soon as I have them.</content>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12577</id>
+    <id>https://csells.github.io/sb6/12577</id>
     <title>Newsletters Are Hard!</title>
     <updated>2002-08-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

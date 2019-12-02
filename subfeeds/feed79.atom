@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed79.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed79.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed78.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed80.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed79.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed78.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed80.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed79.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1302</id>
+    <id>https://csells.github.io/sb6/1302</id>
     <title>A Boy's AdminLife</title>
     <updated>2004-04-27T07:00:00.000Z</updated>
     <published>2004-04-27T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.adminlife.com/247reference/default.aspx">Here&lt;/a>. A great number of my google searches end up on &lt;A href="http://www.dotnet247.com">www.dotnet247.com&lt;/A>, which is a web site that gathers discussions for .NET developers. Matt Reynolds, the proprietor of dotnet247.com has also brought us &lt;A href="http://www.winfx247.com">www.winfx247.com&lt;/A>&amp;nbsp;(which I'm sure will be very useful to lots of folks in the not too distant future) and, just recently, &lt;A href="http://www.adminlife.com">www.adminlife.com&lt;/A>, which is the dotnet247.com for IT pros/administrators. Myself, I'm looking forward to the day when my 9-year old can administer my network, but for him, I'm sure &lt;A href="http://www.adminlife.com">www.adminlife.com&lt;/A> will be a great site. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1303</id>
+    <id>https://csells.github.io/sb6/1303</id>
     <title>Edward Tufte + Avalon</title>
     <updated>2004-04-27T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 It's my belief that the big deal with Avalon is that it gives us much more powerful tools to deal with data visualization and manipulation. Towards that end, &lt;A href="http://c2.com/cgi/wiki?WardCunningham">Ward&lt;/A> turned me onto &lt;A href="http://www.edwardtufte.com/tufte/">Edward Tufte&lt;/A> at lunch today and I've got &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0961392118/chrissells">"Envisioning Information"&lt;/A> on it's way to my house as we speak.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1300</id>
+    <id>https://csells.github.io/sb6/1300</id>
     <title>Chris Sells on Organized Chaos</title>
     <updated>2004-04-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -61,7 +63,7 @@ It's my belief that the big deal with Avalon is that it gives us much more power
 &lt;P>The one where I express &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=5230">my surprise that we ever manage to ship anything at all&lt;/A>, let alone the best stuff there is.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1301</id>
+    <id>https://csells.github.io/sb6/1301</id>
     <title>Marc Clifton is a Prolific SOB</title>
     <updated>2004-04-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -74,7 +76,7 @@ It's my belief that the big deal with Avalon is that it gives us much more power
 &lt;P>Marc, if you're going to be in the Pacific Northwest anytime soon, &lt;A href="mailto:csells@microsoft.com">look me up&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1299</id>
+    <id>https://csells.github.io/sb6/1299</id>
     <title>Logging Indigo Messages</title>
     <updated>2004-04-26T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -84,7 +86,7 @@ It's my belief that the big deal with Avalon is that it gives us much more power
 Roman Kiss has built &lt;A href="http://www.codeproject.com/useritems/ConsoleIndigoLogging.asp">a little Indigo logging tool&lt;/A> that uses Indigo's ability to drop arbitrary code into the message pipline. Very handy for seeing what's really going on at the message level w/o changing any of your code. Personally, I'd like to see an Avalon version (or even a Windows Forms version) just 'cuz I think it'd be prettier. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1298</id>
+    <id>https://csells.github.io/sb6/1298</id>
     <title>A Windows Forms 2.0 Voice in the Wilderness</title>
     <updated>2004-04-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -95,7 +97,7 @@ Roman Kiss has built &lt;A href="http://www.codeproject.com/useritems/ConsoleInd
 &lt;P>Michael Weinhardt, who took over my &lt;A href="http://msdn.microsoft.com/columns/winforms.asp">Wonders of Windows Forms column&lt;/A> and is the co-author on the 2nd edition of &lt;A HREF="/public/writing/wfbook">my Windows Forms book&lt;/A>, has dedicated himself to &lt;A href="http://www.mikedub.net/windowsformsredux/archives/000005.html">shouting the value of Windows Forms 2.0 from the rooftops&lt;/A>. &lt;A href="http://www.mikedub.net/windowsformsredux/index.xml">Subscribed&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1297</id>
+    <id>https://csells.github.io/sb6/1297</id>
     <title>Post/Reply Alphabet Soup</title>
     <updated>2004-04-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -105,7 +107,7 @@ Roman Kiss has built &lt;A href="http://www.codeproject.com/useritems/ConsoleInd
 The one where &lt;A href="/12648">the arbitrary differences between newsgroups, mailing lists, web forums and blogs w/ comments drive me to madness&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1296</id>
+    <id>https://csells.github.io/sb6/1296</id>
     <title>Freeing My Mind</title>
     <updated>2004-04-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -115,7 +117,7 @@ The one where &lt;A href="/12648">the arbitrary differences between newsgroups, 
 &lt;a href="/12497">Here&lt;/a>. The one with &lt;a href="/12497">my private meditation lesson&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1295</id>
+    <id>https://csells.github.io/sb6/1295</id>
     <title>WinFS is a Domain Ontology with Style</title>
     <updated>2004-04-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -125,7 +127,7 @@ The one where &lt;A href="/12648">the arbitrary differences between newsgroups, 
 &lt;A href="http://dotnetjunkies.com/WebLog/mwherman2000/archive/2003/11/11/3435.aspx">Michael Herman caught onto WinFS's real nature&lt;/A> last year and I'm just now catching up. He points to a paper describing ontologies and points out this about WinFS: "WinFS is a knowledge repesentation, storage and synch system ...a literal implementation of a system strongly based on ontology related concepts." For the basics of ontologies for our new world-to-be, Michael recommends &lt;A href="http://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Ontology Development 101: A Guide to Creating Your First Ontology&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12497</id>
+    <id>https://csells.github.io/sb6/12497</id>
     <title>Freeing My Mind</title>
     <updated>2004-04-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -207,7 +209,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1294</id>
+    <id>https://csells.github.io/sb6/1294</id>
     <title>Security in Longhorn: Focus on Least Privilege</title>
     <updated>2004-04-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -217,7 +219,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;A href="http://www.develop.com/kbrown/">Keith "Mr. Security" Brown&lt;/A> kicks off a series of security articles on Longhorn. &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlong/html/leastprivlh.asp">In this piece&lt;/A>, Keith digs into the current plans for making Longhorn a much safer place for applications, only really giving administrator privileges to applications with a special need for them, regardless of the privileges of the user running the applications. This is a core piece of taking back our computers from the world's hackers and Keith lays out the basics nicely.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1292</id>
+    <id>https://csells.github.io/sb6/1292</id>
     <title>.NET Evangelists on .NET Rocks Today @ 9am PST</title>
     <updated>2004-04-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -227,7 +229,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>I work closely with Vic and Steve on the strategy for Longhorn content and activies, so I'm planning to tune it to &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/04/22/118660.aspx">today's .NET Rocks&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1293</id>
+    <id>https://csells.github.io/sb6/1293</id>
     <title>Overview of MSBuild, Part 1 of 3</title>
     <updated>2004-04-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -238,7 +240,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>Also, because MSBuild is still under development, this piece covers the details of both the MSBuild in the Longhorn PDC bits as well as the most recent Visual Studio 2005 technology preview.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1291</id>
+    <id>https://csells.github.io/sb6/1291</id>
     <title>What's New in Windows Forms 2.0</title>
     <updated>2004-04-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -249,7 +251,7 @@ Discuss&lt;/a>&lt;/p>
 Mike and I write our first cut and &lt;A href="http://msdn.microsoft.com/msdnmag/issues/04/05/NETFramework20/default.aspx">what's new and cool in Windows Forms 2.0&lt;/A> in this month's MSDN Magazine.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1290</id>
+    <id>https://csells.github.io/sb6/1290</id>
     <title>PInvoke.NET: Interop the Wiki Way</title>
     <updated>2004-04-19T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

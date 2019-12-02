@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed100.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed100.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed99.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed101.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed100.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed99.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed101.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed100.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1006</id>
+    <id>https://csells.github.io/sb6/1006</id>
     <title>Chris Anderson &amp; Don Box sing Longhorn Xmas Carols</title>
     <updated>2003-12-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031218XAMLDB/manifest.xml">Here&lt;/a>. And plus they talk about XAML... Have a Merry and a Happy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1004</id>
+    <id>https://csells.github.io/sb6/1004</id>
     <title>Joel on Biculturalism</title>
     <updated>2003-12-17T08:00:00.000Z</updated>
     <published>2003-12-17T08:00:00.000Z</published>
@@ -51,7 +53,7 @@
 I've been completely unconnected for four days, so I'm sure that &lt;A href="http://www.joelonsoftware.com/articles/Biculturalism.html">Joel's essay on the differences in culture between Unix and Windows programmers&lt;/A> has been blogged to death, like most of Joel's essays. However, I was a Unix programmer for 4 years before becoming a Windows programmer, so this one really spoke to me. I especially like his description of how programs act under Unix so that they can communicate with other programs (success produces no output) vs. how they act under Windows so that they can communicate with people (success produces output). I don't know what I'm going to do with these new insights, but I'm enjoying them nevertheless.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1003</id>
+    <id>https://csells.github.io/sb6/1003</id>
     <title>Whidbey GC helps manage non-memory resources</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <published>2003-12-12T08:00:00.000Z</published>
@@ -60,7 +62,7 @@ I've been completely unconnected for four days, so I'm sure that &lt;A href="htt
 &lt;a href="http://blogs.gotdotnet.com/BradA/permalink.aspx/bdfed2f9-f262-41b0-adec-740527711ef4">Here&lt;/a>. Brad Abrams describes how the Whidbey .NET Framework adds support for tracking unmanaged memory and limited resources of a non-memory nature. The former is handled by informing the GC of added "pressure" associated with unmanaged memory&amp;nbsp;and the latter by exposing the private HandleCollector class that .NET 1.x has used for a while now. It's not reference counting, but it'll do for a start... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1001</id>
+    <id>https://csells.github.io/sb6/1001</id>
     <title>New .NET Show: Longhorn @ the PDC</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -70,7 +72,7 @@ I've been completely unconnected for four days, so I'm sure that &lt;A href="htt
 &lt;a href="http://msdn.microsoft.com/theshow/episode038/default.asp">Here&lt;a>. "In this episode of the .NET Show we focus on how 'Longhorn' was presented, and received, at the PDC. In our first segment we talk with key players in the Longhorn project, &lt;B>Brad Abrams&lt;/B>, &lt;B>Chris Anderson&lt;/B>, &lt;B>Quentin Clark&lt;/B>, and &lt;B>Pablo Fernicola&lt;/B> about the main messages that they are hoping developers at the PDC understand about Longhorn. We then switch the tables and talk with &lt;B>Richard Hale Shaw&lt;/B>, &lt;B>Simon Stewart&lt;/B>, and &lt;B>Robb McLarty&lt;/B>, a diverse set of attendees of the PDC and hear straight from them what they think about Longhorn, and how it might affect their development efforts moving forward."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1002</id>
+    <id>https://csells.github.io/sb6/1002</id>
     <title>WinFS Overview on MSDN TV</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@ I've been completely unconnected for four days, so I'm sure that &lt;A href="htt
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031211WinFSQC/manifest.xml">Here&lt;/a>. &lt;P>Apparently it's Longhorn day for MS videos:&lt;/P>&lt;P>"Quentin Clark provides an overview of WinFS, including what benefits it produces, what it is, and how it's put together. This episode introduces WinFS as a basis for more detailed presentations."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1000</id>
+    <id>https://csells.github.io/sb6/1000</id>
     <title>Avalon Resource Variety Sample</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -91,7 +93,7 @@ I've been completely unconnected for four days, so I'm sure that &lt;A href="htt
 &lt;P>BTW, this is post 1000 on this feed. I can't keep&amp;nbsp; up with Scoble, of course, but I had no idea I was *that* wordy. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/998</id>
+    <id>https://csells.github.io/sb6/998</id>
     <title>Avalon Blog: Design Eye for the Dev Guy</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -101,7 +103,7 @@ I've been completely unconnected for four days, so I'm sure that &lt;A href="htt
 And from heaven, the thing that budding Longhorn programmers most need falls to earth. &lt;A href="http://longhornblogs.com/ndunlap">Nathan Dunlap,&amp;nbsp;a designer on the Avalon team, has taken up blogging&lt;/A>. He's covering design tips as someone that understands Avalon *and* design inside and out. Welcome, Nathan! Subscribed.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/999</id>
+    <id>https://csells.github.io/sb6/999</id>
     <title>Avalon Video Clipping Sample</title>
     <updated>2003-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 &lt;a href="http://longhornblogs.com/ndunlap/posts/1749.aspx">Here&lt;/a>. Nathan Dunlap kicks off his new Avalon design blog with a sample on how to clip video to arbitrary shapes. I don't know for what I'd use this, but it's nice to know it's there. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/997</id>
+    <id>https://csells.github.io/sb6/997</id>
     <title>Xamlon samples look interesting</title>
     <updated>2003-12-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -121,7 +123,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 &lt;P>If you haven't seen it, Xamlon is a .NET 1.1 implementation of Longhorn's XAML. And while I was under the impression that it was just XAML, i.e. a language for declaring and defining objects, it looks like Xamlon is an attempt to implement Avalon, too. I haven't downloaded it, but looking at &lt;A href="http://66.27.62.90/docs/samples.htm">the Xamlon samples and code online&lt;/A>, it looks like a subset of Avalon. Interesting...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/996</id>
+    <id>https://csells.github.io/sb6/996</id>
     <title>MS Producer is growing on me</title>
     <updated>2003-12-11T08:00:00.000Z</updated>
     <published>2003-12-11T08:00:00.000Z</published>
@@ -132,7 +134,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 &lt;P>Of course, I've wasted all the time savings telling you people about it, but still... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/992</id>
+    <id>https://csells.github.io/sb6/992</id>
     <title>WinForms Prog. in VB.NET: Design-Time Integration</title>
     <updated>2003-12-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -142,7 +144,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 &lt;a href="http://www.ftponline.com/books/chapters/0321125193.pdf">Here&lt;/a>. FTP has posted the Design-Time Integration chapter from Windows Forms Programming in Visual Basic .NET. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/994</id>
+    <id>https://csells.github.io/sb6/994</id>
     <title>The Microsoft Partner Proposal Tool</title>
     <updated>2003-12-10T08:00:00.000Z</updated>
     <published>2003-12-10T08:00:00.000Z</published>
@@ -151,7 +153,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 &lt;P>Ever since coming to Microsoft, I've been doing my best to be as available as I was before hand. However, what that means is that sometimes I get requests for help in areas that are way out of my purview. One such thing is when people send me ideas for products that can only be done by Microsoft, implying some kind of partnership with the originator of the idea. I know how that works -- I've pitched my share of ideas at MS looking for funding, too. However, unless it's funding for developer-related content (of which I have a tiny amount), I can't help anyone fund their sure-fire startup. However, since MS gets so many such requests, they've set up a web site to take them all in. If you've got yourself the next killer app idea, save yourself the time and go directly to &lt;A href="http://members.microsoft.com/partner/proposals/">the Microsoft Partner Proposal Tool&lt;/A>. I'm guessing the success rate is small, but it's certainly better than sending me email. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/995</id>
+    <id>https://csells.github.io/sb6/995</id>
     <title>Brush With Fame: Alexey Pajitnov, Tetris Inventor</title>
     <updated>2003-12-10T08:00:00.000Z</updated>
     <published>2003-12-10T08:00:00.000Z</published>
@@ -160,7 +162,7 @@ And from heaven, the thing that budding Longhorn programmers most need falls to 
 When I heard that Alexey Pajitnov, the inventor of Tetris, worked at MS, I *had* to show him &lt;A href="/12661">Wahoo!&lt;/A>. He said that I was violating copyright. Shhh... Nobody tell... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/993</id>
+    <id>https://csells.github.io/sb6/993</id>
     <title>WinFX: An All-Managed API by Ian Griffiths</title>
     <updated>2003-12-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -170,7 +172,7 @@ When I heard that Alexey Pajitnov, the inventor of Tetris, worked at MS, I *had*
 &lt;a href="http://www.ondotnet.com/pub/a/dotnet/2003/11/24/longhorn_01.htm">Here&lt;/a>. I can't believe a missed the first piece of Ian Griffiths's new column! Ian is a DevelopMentor instructor, co-author on three books with me (two still in development) and a long-time friend. Check out his opinion&amp;nbsp;on WinFX and what it means for&amp;nbsp;developers and please&amp;nbsp;point me at the RSS feed so I don't miss the next one!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/990</id>
+    <id>https://csells.github.io/sb6/990</id>
     <title>Longhorn-Specific PDC Presentations, Slides &amp; Code</title>
     <updated>2003-12-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

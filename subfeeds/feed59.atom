@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed59.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed59.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed58.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed60.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed59.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed58.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed60.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed59.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1574</id>
+    <id>https://csells.github.io/sb6/1574</id>
     <title>The Importance of Reputation</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12482">Here&lt;/a>. The one where my boy is falsely accused of pantsing a kid and avoids suspension &lt;a href="/12482">because he's known as a "good kid."&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12481</id>
+    <id>https://csells.github.io/sb6/12481</id>
     <title>It's The Thoughts That Count...</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -52,7 +54,7 @@
 &lt;p align="left">On an internal mailing list the other day, there was a question asking for how to make a tray notification icon come back up on the try after explorer.exe died and came back to life. Good notification icons do this and the asker wanted to know how to do it for Windows Forms. I had had a dearth of technical work at the time, so decided to dig into the problem and see if I could answer it.&lt;/p>&lt;p align="left">I started with a dim memory of a piece in MSJ by Paul Dilascia on the subject. Searching on msdn.com, I found Paul DiLascia's 2/99 MSJ C++ Q&amp;amp;A (&lt;a href="http://www.microsoft.com/msj/0299/c/c0299.aspx">http://www.microsoft.com/msj/0299/c/c0299.aspx&lt;/a>) (emphasis added by me):&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;provided you have Windows 98 or the Microsoft Internet Explorer 4.0 desktop installed. Whenever Internet Explorer 4.0 starts the taskbar, it broadcasts &lt;b>a registered message TaskbarCreated&lt;/b> to all top-level parent windows. This is your cue to recreate the icons. If you're using MFC, all you have to do is define a global variable to hold the registered message and implement an ON_REGISTERED_MESSAGE handler for it.&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">From there, I dug through the SDK docs on ON_REGISTERED_MESSAGE (&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vcmfc98/html/_mfc_on_registered_message.asp">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vcmfc98/html/_mfc_on_registered_message.asp&lt;/a>) and found:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;b>&lt;i>// example for ON_REGISTERED_MESSAGE&lt;br>const UINT wm_Find = RegisterWindowMessage( FINDMSGSTRING )&lt;/i>&lt;/b>&lt;/p>&lt;p align="left">&lt;i>BEGIN_MESSAGE_MAP( CMyWnd, CMyParentWndClass )&lt;br>//{{AFX_MSG_MAP( CMyWnd )&lt;br>&amp;nbsp; ON_REGISTERED_MESSAGE( wm_Find, OnFind )&lt;br>// ... Possibly more entries to handle additional messages&lt;br>//}}AFX_MSG_MAP&lt;br>END_MESSAGE_MAP( )&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">Figuring I'd have to be able to call RegisterWindowsMessage from managed code, I surfed to pinvoke.net and found RegisterWindowMessage (&lt;a href="http://pinvoke.net/default.aspx/user32.RegisterWindowMessage">http://pinvoke.net/default.aspx/user32.RegisterWindowMessage&lt;/a>):&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>[DllImport(&amp;quot;user32.dll&amp;quot;, SetLastError=true, CharSet=CharSet.Auto)]&lt;br>static extern uint RegisterWindowMessage(string lpString);&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">Now that I knew how to figure out the Window message value for which to watch, I looked back into the MSDN documentation on System.Windows.Forms.Control, the base class of Form and all other HWND-based classes in Windows Forms (&lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemwindowsformscontrolclasswndproctopic.asp">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemwindowsformscontrolclasswndproctopic.asp&lt;/a>) and the WndProc method I would have to override to catch the message, finding:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>protected virtual void WndProc(&lt;br>ref Message m&lt;br>);&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">and:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;All messages are sent to the WndProc method after getting filtered through the PreProcessMessage method.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>&amp;quot;The WndProc method corresponds exactly to the Windows WindowProc function. For more information about processing Windows messages, see the WindowProc function documentation in the Windows Platform SDK reference located in the MSDN Library.&lt;/i>&lt;/p>&lt;p align="left">&lt;i>&amp;quot;Notes to Inheritors: Inheriting controls should call the base class's WndProc method to process any messages that they do not handle.&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">Putting this together, I figured you could add &amp;quot;re-awakening&amp;quot; to notification icons in the following way (some compiler errors left in to keep readers on their toes : ):&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>using System.Windows.Forms;&lt;br>using System.Runtime.InteropServices;&lt;br>&lt;br>class MyMainForm : Form {&lt;br>&amp;nbsp; [DllImport(&amp;quot;user32.dll&amp;quot;, SetLastError=true, CharSet=CharSet.Auto)]&lt;br>&amp;nbsp; static extern uint RegisterWindowMessage(string lpString);&lt;br>&lt;br>&amp;nbsp; static uint taskbarCreatedMessage = RegisterWindowMessage(&amp;quot;TaskbarCreated&amp;quot;);&lt;br>&lt;br>&amp;nbsp; protected override void WndProc(ref Message m) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; if( (uint)m.Msg == taskbarCreatedMessage ) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // re-show your notify icon&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; base.WndProc(ref m);&lt;br>&amp;nbsp; }&lt;br>&amp;nbsp; &lt;br>}&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">After posting this answer to the list, I couldn't help but crank up a quick app to test it (after fixing the compiler errors of course : ). To my satisfaction, it worked immediately. I put up a notify icon in Windows Forms, killed explorer.exe and was pleased to see my icon show back up again when explorer.exe was restarted.&lt;/p>&lt;p align="left">However, just to make sure, I commented out my code to see my icon not be restored. Those of you familiar with the internals of Windows Forms know what happened next, of course, because my notify icon was restored properly to the tray even without my code, as illustrated by Reflector against the .NET 1.1 Windows Forms implementation:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>public sealed class NotifyIcon : Component {&lt;br>&amp;nbsp; ...&lt;br>&lt;b>&amp;nbsp; static NotifyIcon() {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; NotifyIcon.WM_TASKBARCREATED =&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; SafeNativeMethods.RegisterWindowMessage(&amp;quot;TaskbarCreated&amp;quot;);&lt;br>&amp;nbsp; }&lt;br>&lt;/b>&lt;br>&lt;b>&amp;nbsp; private void WmTaskbarCreated(ref Message m) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; this.added = false;&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; this.UpdateIcon(this.visible);&lt;br>&amp;nbsp; }&lt;br>&lt;br>&amp;nbsp; private void WndProc(ref Message msg) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; if (msg.Msg == NotifyIcon.WM_TASKBARCREATED) {&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; this.WmTaskbarCreated(ref msg);&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br>&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br>&amp;nbsp; }&lt;br>&lt;/b>&amp;nbsp; ...&lt;br>&lt;b>&amp;nbsp; private static int WM_TASKBARCREATED;&lt;br>&lt;/b>&amp;nbsp; ...&lt;br>}&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">What? Why would someone post a question about how to make something work that already worked? I figured that the questioner was referring to .NET 1.0 and I was digging through .NET 1.1 code.&lt;/p>&lt;p align="left">However, reading through the 1.0 code showed the same support, meaning that neither the questioner nor I had bothered to check for this support before running off to add it. So, the lesson? Write your tests first!&lt;/p>&lt;p align="left">Still, I learned a bit along the way and that was fun. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1575</id>
+    <id>https://csells.github.io/sb6/1575</id>
     <title>It's The Thoughts That Count...</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -62,7 +64,7 @@
 &lt;a href="/12481">Here&lt;/a>. The one where &lt;a href="/12481">I lead you through my thought processes&lt;/A> to chase down the answer to a problem that doesn't need solving in the slightest...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1573</id>
+    <id>https://csells.github.io/sb6/1573</id>
     <title>Getting My Hopes Up On Episode 3</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -72,7 +74,7 @@
 Dammit. &lt;A href="http://www.movie-list.com/trailers.php?id=starwars3">The trailer for Star Wars 3: The Revenge of the Sith&lt;/A>, actually looks good! I just know I'm going to get my heart broken again...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1572</id>
+    <id>https://csells.github.io/sb6/1572</id>
     <title>Jon Udell Knocks My Socks Off With Dragon Naturally Speaking 8.0</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -82,7 +84,7 @@ Dammit. &lt;A href="http://www.movie-list.com/trailers.php?id=starwars3">The tra
 I've never really seen anyone use speech recognition for real and after &lt;A href="http://weblog.infoworld.com/udell/2004/11/04.html#a1108">watching Jon Udell use Dragon Naturally Speaking 8.0&lt;/A>, I'm flabbergasted. I had no idea working with it could be so natural. Wow.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1576</id>
+    <id>https://csells.github.io/sb6/1576</id>
     <title>Distributed Shared Always On Message Queue Service</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -92,7 +94,7 @@ I've never really seen anyone use speech recognition for real and after &lt;A hr
 &lt;a href="http://www.amazon.com/gp/browse.html/ref=sc_fe_c_1_3435361_7/104-8999252-2227109?%5Fencoding=UTF8&amp;node=13584001&amp;no=3435361&amp;me=A36L942TSJ2AJA">Here&lt;/a>. Jeff Barr of Amazon has just informed me that &lt;A href="http://www.amazon.com/gp/browse.html/ref=sc_fe_c_1_3435361_7/104-8999252-2227109?%5Fencoding=UTF8&amp;amp;node=13584001&amp;amp;no=3435361&amp;amp;me=A36L942TSJ2AJA">Amazon now provides a distributed, shared, always on message queuing service&lt;/A> which allows you to create and delete queues, enqueue, read and dequeue messages that can stay put for as long as 30 days. It's free right now and I don't quite know how it will be used for porn and spam, but I have every confidence that you guys will figure it out. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12482</id>
+    <id>https://csells.github.io/sb6/12482</id>
     <title>The Importance of Reputation</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -102,7 +104,7 @@ I've never really seen anyone use speech recognition for real and after &lt;A hr
 &lt;p align="left">My youngest son was called into the office today for pantsing a kid on the school playground. That is not at all like my son (he's the sweetest kid you'd ever want to meet), but the principal was new, so she was talking about suspension. Luckily, the secretaries knew my boy, so they were able to point out the inconsistency of that behavior with the reputation he had built in 4 years at the school. It turns out that the pantsed boy was cutting in line in front of my son, who didn't like it, so pushed him right back out of line again. The &amp;quot;cutter&amp;quot; took a swing, my boy swung back and in the process (they're only 9) they both fell. My son reached out to grab the boy's shirt to catch himself, not knowing that the other boy was also falling and got the pants instead, causing the aforementioned &amp;quot;pantsing.&amp;quot;&lt;/p>&lt;p align="left">The moral of this story is an old saying I heard when I was a kid and have lived by since: &amp;quot;If you rise at dawn, you can sleep 'til noon.&amp;quot; In other words, if you build yourself a reputation for good things, when occasionally you stray, folks will cut you some slack. The converse of this rule is that if build yourself a reputation for bad things, that could well stick with you for a long, long time...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1571</id>
+    <id>https://csells.github.io/sb6/1571</id>
     <title>The Country Has Spoken</title>
     <updated>2004-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -113,7 +115,7 @@ I've never really seen anyone use speech recognition for real and after &lt;A hr
 &lt;P>[both links from &lt;A href="http://www25.brinkster.com/rchildress/">Rick Childress&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12340</id>
+    <id>https://csells.github.io/sb6/12340</id>
     <title>There Are No 
 Words...</title>
     <updated>2004-11-02T08:00:00.000Z</updated>
@@ -133,7 +135,7 @@ Personal Email&lt;br>
 Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1570</id>
+    <id>https://csells.github.io/sb6/1570</id>
     <title>There Are No Words...</title>
     <updated>2004-11-02T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -143,7 +145,7 @@ Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;a href="/12340">Here&lt;/a>. &lt;P>&lt;a href="/12340">This is what Don Box's 12-year old son thought a good last minute costume would be&lt;/A> when trick-or-treating the Indigo halls of Microsoft suddenly seemed an imperative. I guess this is the consequence of having a life-sized cardboard cutout readily available...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1569</id>
+    <id>https://csells.github.io/sb6/1569</id>
     <title>MaxiVista: Changing My Mind About Tablets</title>
     <updated>2004-11-01T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -155,7 +157,7 @@ Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;P>If you have a device you'd like to turn into a 2nd monitor and you don't yet have MaxiVista, Scott Hanselman's posted &lt;A href="http://www.hanselman.com/blog/PermaLink.aspx?guid=003e6a13-aba2-4cef-8515-a9d81b5b23ba">a 30% off MaxiVista coupon&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1568</id>
+    <id>https://csells.github.io/sb6/1568</id>
     <title>First Commercial .NET No Touch Deployment App</title>
     <updated>2004-10-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -172,7 +174,7 @@ Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;p>&lt;b>NOTE: I don't know if this was exuberance at making the instructions for running the sample easy or not, but you should absolutely not "[u]se the Microsoft .NET Framework wizard to grant full trust to trusted sites." Trusted or not, you should not award any code any more permission than it needs. For instructions on how to build an MSI setup for configuring a NTD client for just the right amount of permissions until you can use ClickOnce (which handles permission elevation much better than NTD), you can &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms11122002.asp">read this article on the topic&lt;/a>.&lt;/b>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1567</id>
+    <id>https://csells.github.io/sb6/1567</id>
     <title>Way Cool Windows Forms 2.0 Samples</title>
     <updated>2004-10-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -189,7 +191,7 @@ Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;LI>&lt;B>&lt;A href="http://www.windowsforms.net/TrackViews.aspx?ID=192&amp;amp;Type=Samples&amp;amp;Redir=%2fSamples%2fdownload.aspx%3fPageId%3d1%26ItemId%3d192%26tabindex%3d4">Outlook 2003 Clone&lt;/A> &lt;/B>- &lt;I>Joe Stegman&lt;/I>&lt;BR>This is a UI front end that has the look and feel of Microsoft Outlook 2003.&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1566</id>
+    <id>https://csells.github.io/sb6/1566</id>
     <title>Inside Some MS Product Team Processes</title>
     <updated>2004-10-26T07:00:00.000Z</updated>
     <published>2004-10-26T07:00:00.000Z</published>
@@ -205,7 +207,7 @@ Tue &lt;span class="created">11/2/2004 6:12 PM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;P>This just makes you want to drop everything and sign up for a product team, doesn't it? &lt;A href="http://www.microsoft.com/careers/default.mspx">MS is hiring...&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1564</id>
+    <id>https://csells.github.io/sb6/1564</id>
     <title>Here's Some Marketing I Can Get Behind</title>
     <updated>2004-10-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

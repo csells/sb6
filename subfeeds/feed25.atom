@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed25.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed25.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed24.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed26.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed25.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed24.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed26.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed25.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2056</id>
+    <id>https://csells.github.io/sb6/2056</id>
     <title>Dammit!</title>
     <updated>2006-11-22T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -44,7 +46,7 @@
 &lt;P>P.S. I believe in God, but am not a member of any religion. I was confirmed Catholic, but am no longer one.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2055</id>
+    <id>https://csells.github.io/sb6/2055</id>
     <title>Costco + Busted Xbox 360 = Happiness</title>
     <updated>2006-11-13T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -69,7 +71,7 @@
 &lt;P>P.S.S. I put in that postscript because I don't want readers to think that I was scared off (or wised up, depending on your POV) from &lt;A href="/2054">the response to my last post&lt;/A>. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12352</id>
+    <id>https://csells.github.io/sb6/12352</id>
     <title>Pies &amp; Marketing Guys</title>
     <updated>2006-11-11T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/vslive1.JPG"/>
@@ -80,7 +82,7 @@
 &lt;p>It all started with a bet that my new marketing guy could meet his promised numbers by a certain date. Figure 1 shows me reading his results report at VSLive 2003. Figure 2 shows the audience deciding if that was good enough. Figure 3 shows him taking a pie in the face as revenge by engineers for the missed promises of marketing guys everywhere.&lt;/p>&lt;p>&lt;img border="0" src="/public/fun/vslive1.JPG" width="309" height="192">&lt;/p>&lt;p>Figure 1: Reading the marketing results report to the audience&lt;/p>&lt;p>&lt;img border="0" src="/public/fun/vslive2.JPG" width="397" height="205">&lt;/p>&lt;p>Figure 2: The audience deciding whether the marketing guy had lived up to his promises&lt;/p>&lt;p>&lt;img border="0" src="/public/fun/vslive3.JPG" width="267" height="173">&lt;/p>&lt;p>Figure 3: The marketing guy and his just desserts&lt;/p>&lt;p>&lt;i>VSLive 2003&lt;br>&lt;span class="created">Feb 13th, 4:30pm&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2054</id>
+    <id>https://csells.github.io/sb6/2054</id>
     <title>Our Long National Nightmare is Over</title>
     <updated>2006-11-08T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -92,7 +94,7 @@
 &lt;P>P.S. apologies to Mr. Petzold for ripping off &lt;A href="http://www.charlespetzold.com/blog/2006/11/080248.html">his blog post&lt;/A>, but when I saw it in &lt;A href="http://live.com">my RSS reader&lt;/A>, I thought that the above would be the subject of his latest essay and that we would finally have something on which to agree. It'll be my luck that he's a staunch Republican and I'll hear about my misguideness tomorrow... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2053</id>
+    <id>https://csells.github.io/sb6/2053</id>
     <title>.NET Framework 3.0 (aka WinFX) Has Shipped!</title>
     <updated>2006-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@
 &lt;P>Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2052</id>
+    <id>https://csells.github.io/sb6/2052</id>
     <title>Pay As You Go Phones For the Boys</title>
     <updated>2006-11-04T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -176,7 +178,7 @@
 &lt;P>Assuming I trust my kids to call whoever they want (so long as they pay), it seems clear that Net10 is the way to go. It's effectively $10 for the entry-level phone (because it comes w/ $30 of free airtime) and $6/hour for more time after the first 300 minutes are gone. Plus, the Net10 phones show the amount of time left on the account, so the boys can monitor it themselves easily. Neither AT&amp;amp;T Wireless or Cingular has good reception in my area, so who knows what the reception would be, but for $40, it wouldn't be expensive to find out and they sell them at my local Safeway...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2051</id>
+    <id>https://csells.github.io/sb6/2051</id>
     <title>Mark Twain on Investing</title>
     <updated>2006-10-30T08:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -187,7 +189,7 @@
 &lt;P>&lt;EM>-Mark Twain&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12332</id>
+    <id>https://csells.github.io/sb6/12332</id>
     <title>Project Life Cycle</title>
     <updated>2006-10-28T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/fun/project_life_cycle.GIF"/>
@@ -200,7 +202,7 @@
 Sat, &lt;span class="created">10/28/2006 10:24am&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2049</id>
+    <id>https://csells.github.io/sb6/2049</id>
     <title>Isaiah Okorie Asks "How do you do what you do?"</title>
     <updated>2006-10-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -234,7 +236,7 @@ Sat, &lt;span class="created">10/28/2006 10:24am&lt;/span>&lt;/i>&lt;/p></conten
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt">[csells] My pleasure.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12333</id>
+    <id>https://csells.github.io/sb6/12333</id>
     <title>Imitation, Flattery, Nudity</title>
     <updated>2006-10-18T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/programmer-fashion-04.jpg"/>
@@ -246,7 +248,7 @@ Sat, &lt;span class="created">10/28/2006 10:24am&lt;/span>&lt;/i>&lt;/p></conten
 &lt;p>&lt;i>From &lt;a href="http://www.jj5.net/programmer-fashion/">JJ5's web site&lt;/a>.&lt;br>Wed, &lt;span class="created">10/18/2006 11:08am&lt;/span> (what a thing to see so early in the morning...)&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12334</id>
+    <id>https://csells.github.io/sb6/12334</id>
     <title>The Positronic Man</title>
     <updated>2006-10-11T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/Panel2.JPG"/>
@@ -263,7 +265,7 @@ Enterprise&amp;quot; panel organizer&lt;br>
 &lt;span class="created">10/11/2006&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2048</id>
+    <id>https://csells.github.io/sb6/2048</id>
     <title>I don't know what this has to do with Vista...</title>
     <updated>2006-10-06T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -273,7 +275,7 @@ Enterprise&amp;quot; panel organizer&lt;br>
 but &lt;A href="http://www.clearification.com/">I like it&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2047</id>
+    <id>https://csells.github.io/sb6/2047</id>
     <title>WPF: Enabling Crimes Against Nature in a Good Way</title>
     <updated>2006-10-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -297,7 +299,7 @@ but &lt;A href="http://www.clearification.com/">I like it&lt;/A>.</content>
 &lt;P>The crayon box has lots of colors that I don't like, but in the hands of an artist, they can create beauty.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2046</id>
+    <id>https://csells.github.io/sb6/2046</id>
     <title>Teaching Kids To Do Cool Computer Stuff?</title>
     <updated>2006-10-02T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -315,7 +317,7 @@ but &lt;A href="http://www.clearification.com/">I like it&lt;/A>.</content>
 &lt;p>P.S. My son is a 6th grader, making his class 11 and 12 year olds.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2045</id>
+    <id>https://csells.github.io/sb6/2045</id>
     <title>Sept CTP of .NET 3.0</title>
     <updated>2006-10-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

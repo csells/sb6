@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed135.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed135.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed134.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed136.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed135.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed134.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed136.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed135.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/531</id>
+    <id>https://csells.github.io/sb6/531</id>
     <title>Hippo.NET Build Tool Released</title>
     <updated>2003-04-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -55,7 +57,7 @@ Current features are:
 - Rich Windows Forms UI </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/532</id>
+    <id>https://csells.github.io/sb6/532</id>
     <title>My First Week @ MS</title>
     <updated>2003-04-25T07:00:00.000Z</updated>
     <published>2003-04-25T07:00:00.000Z</published>
@@ -64,7 +66,7 @@ Current features are:
 &lt;a href="/12555">Here&lt;/a>. The one where I list what I learned my first week at the source of all software.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12555</id>
+    <id>https://csells.github.io/sb6/12555</id>
     <title>My First Week @ MS</title>
     <updated>2003-04-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -121,7 +123,7 @@ know how it went, both internally and externally. I learned some things:&lt;/p>&
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/530</id>
+    <id>https://csells.github.io/sb6/530</id>
     <title>NAnt 0.8.2 released</title>
     <updated>2003-04-24T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -135,7 +137,7 @@ See the download link above or the NAnt homepage:
 http://nant.sourceforge.net/</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/529</id>
+    <id>https://csells.github.io/sb6/529</id>
     <title>Imax Plugging 'Matrix' Sequels Into Large Screen</title>
     <updated>2003-04-24T07:00:00.000Z</updated>
     <published>2003-04-24T07:00:00.000Z</published>
@@ -144,7 +146,7 @@ http://nant.sourceforge.net/</content>
 &lt;a href="http://story.news.yahoo.com/news?tmpl=story2&amp;u=/nm/20030424/en_nm/film_matrix_dc">Here&lt;/a>. It's not that I don't love close-ups of extreme-sized beavers, but this could run a close 2nd. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/527</id>
+    <id>https://csells.github.io/sb6/527</id>
     <title>New MSDN DevCenters</title>
     <updated>2003-04-23T07:00:00.000Z</updated>
     <published>2003-04-23T07:00:00.000Z</published>
@@ -153,7 +155,7 @@ http://nant.sourceforge.net/</content>
 &lt;a href="http://msdn.microsoft.com/developercenters/">Here&lt;/a>. I'm sure that this is all over the web by now, but I couldn't help but congratulate my new team on a wonderful revamp of their most important content into Developer Centers (DevCenters) for architecture, web services, VS, VB, VC++, C#, J#, .NET and Windows Server 2003. It looks great, guys. Congrats!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/528</id>
+    <id>https://csells.github.io/sb6/528</id>
     <title>Programming WinForms with MC++</title>
     <updated>2003-04-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -163,7 +165,7 @@ http://nant.sourceforge.net/</content>
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vctchWindowsFormsForManagedCProgrammers.asp">Here&lt;/a>. Sam Gentile and I wrote a piece on building WinForms apps in MC++ using the new designer support in VS.NET 2003. Unfortunately, it acquired some small errors along the publishing path, e.g. STA does not stand for "spanning three algorithm" in this case. However, the errors are minor and C++ programmers interested in the .NET forms engine should definately take a look.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/526</id>
+    <id>https://csells.github.io/sb6/526</id>
     <title>Edgar Codd dies at 79</title>
     <updated>2003-04-23T07:00:00.000Z</updated>
     <published>2003-04-23T07:00:00.000Z</published>
@@ -172,7 +174,7 @@ http://nant.sourceforge.net/</content>
 &lt;a href="http://rss.com.com/2100-1012-997975.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news">Here&lt;/a>. Mr. Codd was one of the great ones. His ideas will continue to affect us for the as far into the future as I can imagine. Thank you, Mr. Codd.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/524</id>
+    <id>https://csells.github.io/sb6/524</id>
     <title>Are You a Koan Head?</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <published>2003-04-22T07:00:00.000Z</published>
@@ -181,7 +183,7 @@ http://nant.sourceforge.net/</content>
 &lt;a href="http://www.villagevoice.com/issues/0316/edwinter.php">Here&lt;/a>. The New York Village Voice mentions sellsbrothers.com/fun/msiview. Whoa.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12393</id>
+    <id>https://csells.github.io/sb6/12393</id>
     <title>My Dad's All Set to Work At Microsoft</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -206,7 +208,7 @@ overcome by methane and other gasses trapped in them.&amp;quot;&lt;/p>
 &lt;p>Anyone wonder where I got it? : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/520</id>
+    <id>https://csells.github.io/sb6/520</id>
     <title>Microsoft XSD Inference 1.0</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <published>2003-04-22T07:00:00.000Z</published>
@@ -219,7 +221,7 @@ Towards that end, I fed the 200+ XML files for Dave's Quick Search Taskbar Toolb
 Highly recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/519</id>
+    <id>https://csells.github.io/sb6/519</id>
     <title>My Dad's All Set to Work At Microsoft</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <published>2003-04-22T07:00:00.000Z</published>
@@ -228,7 +230,7 @@ Highly recommended.</content>
 The one where &lt;a href="/12393">my Dad answers the Microsoft manhole interview question&lt;/a> and we judge just how far from the tree this acorn has fallen.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/518</id>
+    <id>https://csells.github.io/sb6/518</id>
     <title>Write Access to RegexD Source</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <published>2003-04-22T07:00:00.000Z</published>
@@ -239,7 +241,7 @@ This helps me to ensure that only good code makes it into RegexD. Thanks!</summa
 This helps me to ensure that only good code makes it into RegexD. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/517</id>
+    <id>https://csells.github.io/sb6/517</id>
     <title>Borland details .NET development tools</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -249,7 +251,7 @@ This helps me to ensure that only good code makes it into RegexD. Thanks!</conte
 &lt;a href="http://www.infoworld.com/article/03/04/21/HNborlandc_1.html">Here&lt;/a>. Yet another signal of the inevitability of .NET.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12350</id>
+    <id>https://csells.github.io/sb6/12350</id>
     <title>"Software Legend" Silliness</title>
     <updated>2003-04-22T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/BradsPhoto.jpg"/>

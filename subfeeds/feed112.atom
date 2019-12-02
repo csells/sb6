@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed112.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed112.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed111.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed113.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed112.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed111.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed113.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed112.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/836</id>
+    <id>https://csells.github.io/sb6/836</id>
     <title>Men Extinct Soon -- Only 125K Years Left</title>
     <updated>2003-09-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -44,7 +46,7 @@
 [boingboing.net]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/833</id>
+    <id>https://csells.github.io/sb6/833</id>
     <title>GetRight Rocks</title>
     <updated>2003-09-26T07:00:00.000Z</updated>
     <published>2003-09-26T07:00:00.000Z</published>
@@ -59,7 +61,7 @@ I used to recommend GetRight all the time to my friends and now I'm doing it aga
 BTW, the new Matrix trailer rocks...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/832</id>
+    <id>https://csells.github.io/sb6/832</id>
     <title>[sing]Longhooooooooorn!!![/sing]</title>
     <updated>2003-09-25T07:00:00.000Z</updated>
     <published>2003-09-25T07:00:00.000Z</published>
@@ -68,7 +70,7 @@ BTW, the new Matrix trailer rocks...</content>
 &lt;a href="http://www.shamiro.ch/PermaLink.aspx?guid=daa44294-9cf5-47e6-98aa-e1ee11058299">Here&lt;/a>. Thanks for keeping us focused on providing *real* value, Ben. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/830</id>
+    <id>https://csells.github.io/sb6/830</id>
     <title>Creative WEAPON</title>
     <updated>2003-09-24T07:00:00.000Z</updated>
     <published>2003-09-24T07:00:00.000Z</published>
@@ -77,7 +79,7 @@ BTW, the new Matrix trailer rocks...</content>
 &lt;a href="http://www.go-l.com/desktops/machl38/features/index.htm">Here&lt;/a>. A 3.8GHz PC with *all* the bells and whistles. Only $7800. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/831</id>
+    <id>https://csells.github.io/sb6/831</id>
     <title>Blog: Laura John, an MSDN PM on a mission</title>
     <updated>2003-09-24T07:00:00.000Z</updated>
     <published>2003-09-24T07:00:00.000Z</published>
@@ -92,7 +94,7 @@ Laura is one of those calm, gentle folks adding process to the chaos. She and I 
 Anyway, that all serves as an intro to her new blog, which I've subscribed to and encourage you to do the same. I think she really gets what makes processes and orgs work (and not just 'cuz she agrees with me : ). Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/829</id>
+    <id>https://csells.github.io/sb6/829</id>
     <title>Geek Eye for the Luddite Guys</title>
     <updated>2003-09-23T07:00:00.000Z</updated>
     <published>2003-09-23T07:00:00.000Z</published>
@@ -101,7 +103,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 &lt;a href="http://www.fortune.com/fortune/personalfortune/articles/0,15114,488957,00.html">Here&lt;/a>. I'm sure I'll get tired of this general theme directly, but right now it tickles me. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/828</id>
+    <id>https://csells.github.io/sb6/828</id>
     <title>Hurricane Isabelle up close and personal</title>
     <updated>2003-09-23T07:00:00.000Z</updated>
     <published>2003-09-23T07:00:00.000Z</published>
@@ -110,7 +112,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 &lt;a href="http://www.snopes.com/photos/isabel.asp">Here&lt;/a>. Wow.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/824</id>
+    <id>https://csells.github.io/sb6/824</id>
     <title>Rebuilding MSDN with Angle Brackets, Pt. 1</title>
     <updated>2003-09-19T07:00:00.000Z</updated>
     <published>2003-09-19T07:00:00.000Z</published>
@@ -119,7 +121,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 &lt;a href="http://www.msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030916WebServicesTE/manifest.xml">Here&lt;/a>. Tim Ewald recorded at the Applied XML Developer's Conference on rebuilding MSDN's internal content management infrastructure using XML from the ground up (part 1 of 2).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/825</id>
+    <id>https://csells.github.io/sb6/825</id>
     <title>Rebuilding MSDN with Angle Brackets, Pt. 2</title>
     <updated>2003-09-19T07:00:00.000Z</updated>
     <published>2003-09-19T07:00:00.000Z</published>
@@ -128,7 +130,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 &lt;a href="http://www.msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030918WebServicesTE/manifest.xml">Here&lt;/a>. Tim Ewald recorded at the Applied XML Developer's Conference on rebuilding MSDN's internal content management infrastructure using XML from the ground up (part 2 of 2).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/827</id>
+    <id>https://csells.github.io/sb6/827</id>
     <title>Visual Studio .NET 2003 Upgrade Offer 'til 9/30</title>
     <updated>2003-09-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -140,7 +142,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 "Microsoft is pleased to offer Visual Studio .NET 2002 Professional, Enterprise Developer, and Enterprise Architect customers a corresponding upgrade to a Visual Studio .NET 2003 product for only $29 US. This offer is open until September 30, 2003."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/823</id>
+    <id>https://csells.github.io/sb6/823</id>
     <title>All Consuming Windows Forms Programming in C#</title>
     <updated>2003-09-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -150,7 +152,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 &lt;a href="http://allconsuming.net/item.cgi?isbn=0321116208">Here&lt;/a>. This site is cool. It rolls up helpful info on my book, along with blogger mentions. Nice.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/826</id>
+    <id>https://csells.github.io/sb6/826</id>
     <title>Alan Cooper on the *Real* New Economy</title>
     <updated>2003-09-19T07:00:00.000Z</updated>
     <published>2003-09-19T07:00:00.000Z</published>
@@ -161,7 +163,7 @@ Anyway, that all serves as an intro to her new blog, which I've subscribed to an
 Anyway, a bit of what we talked about that weekend is in Alan's latest piece. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/821</id>
+    <id>https://csells.github.io/sb6/821</id>
     <title>"MP3s Are Not the Devil," by Orson Scott Card</title>
     <updated>2003-09-16T07:00:00.000Z</updated>
     <published>2003-09-16T07:00:00.000Z</published>
@@ -170,7 +172,7 @@ Anyway, a bit of what we talked about that weekend is in Alan's latest piece. Re
 &lt;a href="http://www.ornery.org/essays/warwatch/2003-09-07-1.html">Here&lt;/a>. One of my favorite authors speaks out on a controversial topic.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/820</id>
+    <id>https://csells.github.io/sb6/820</id>
     <title>The Future "Longhorn" Developer Center</title>
     <updated>2003-09-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -180,7 +182,7 @@ Anyway, a bit of what we talked about that weekend is in Alan's latest piece. Re
 &lt;a href="http://msdn.microsoft.com/longhorn/">Here&lt;/a>. Watch this space.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/822</id>
+    <id>https://csells.github.io/sb6/822</id>
     <title>See MSBuild.exe at the PDC</title>
     <updated>2003-09-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed72.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed72.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed71.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed73.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed72.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed71.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed73.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed72.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1399</id>
+    <id>https://csells.github.io/sb6/1399</id>
     <title>Testing 1 2 3</title>
     <updated>2004-06-16T07:00:00.000Z</updated>
     <published>2004-06-16T07:00:00.000Z</published>
@@ -42,7 +44,7 @@ This is a test of the emergency broadcast system.
 &amp;lt;beeeeeeeeep&amp;gt;</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1398</id>
+    <id>https://csells.github.io/sb6/1398</id>
     <title>"he isn't null terminated!" Bwa ha ha ha!</title>
     <updated>2004-06-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -52,7 +54,7 @@ This is a test of the emergency broadcast system.
 I'm still laughing about &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=9619fe3d-d932-44fb-ba87-760f9195d251">this one&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12345</id>
+    <id>https://csells.github.io/sb6/12345</id>
     <title>Geek Milkshake</title>
     <updated>2004-06-14T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -161,7 +163,7 @@ Sent: Monday, &lt;span class="created">June 14, 2004 3:15 PM&lt;/span>&lt;br>
 Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1397</id>
+    <id>https://csells.github.io/sb6/1397</id>
     <title>Geek Milkshake</title>
     <updated>2004-06-14T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -171,7 +173,7 @@ Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
 &lt;a href="/12345">Here&lt;/a>. I can't get &lt;a href="/12345">the video possibilities&lt;/A> out of my head...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1396</id>
+    <id>https://csells.github.io/sb6/1396</id>
     <title>Channel9 Videos: Rich Turner On The Road To Indigo</title>
     <updated>2004-06-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -186,7 +188,7 @@ Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
 &lt;P>Plus, &lt;A href="http://weblogs.asp.net/richturner666/">Rich has a blog&lt;/A> to which I subscribe (but I wish he were more prolific).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1395</id>
+    <id>https://csells.github.io/sb6/1395</id>
     <title>Jon Udell's Questions about Longhorn</title>
     <updated>2004-06-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -201,7 +203,7 @@ Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
 &lt;P>I don't have any pithy summaries of his basic points; his posts deserve a read and a think.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1394</id>
+    <id>https://csells.github.io/sb6/1394</id>
     <title>Avalon Property Invalidation &amp; Custom Measurement</title>
     <updated>2004-06-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -211,7 +213,7 @@ Windows Technology Off Topic mailing list&lt;/a>&lt;/i>&lt;/p></content>
 This post is an oldie, but a goody, in which &lt;A href="http://weblogs.asp.net/digitalnetbizz/archive/2004/03/14/89626.aspx">Kenny Lim talks not only about custom Avalon controls catching property changes so that they can re-render themselves, but also about the custom measurement sequence&lt;/A>, which is a core piece of a control that does custom layout like, say, a pile of cards (hypothetically, of course : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1391</id>
+    <id>https://csells.github.io/sb6/1391</id>
     <title>Using XAML As A 3D File Format</title>
     <updated>2004-06-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -221,7 +223,7 @@ This post is an oldie, but a goody, in which &lt;A href="http://weblogs.asp.net/
 Daniel Lehenbauer, an SDE on the Avalon team, has started &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.Unofficial3DFileFormat">a wiki providing helpful hints on using XAML as your new 3D file format&lt;/A> and has provided &lt;A href="http://blogs.msdn.com/danlehen/archive/2004/06/08/151376.aspx">a utility to help those playing with 3D&lt;/A>&amp;nbsp;in the WinHEC build of Longhorn (build 4074).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1393</id>
+    <id>https://csells.github.io/sb6/1393</id>
     <title>Another Cool Visualization</title>
     <updated>2004-06-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -232,7 +234,7 @@ Daniel Lehenbauer, an SDE on the Avalon team, has started &lt;A href="http://cha
 &lt;p>[via Jason Whittingon]&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1392</id>
+    <id>https://csells.github.io/sb6/1392</id>
     <title>Addressing Misperceptions About Indigo</title>
     <updated>2004-06-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -243,7 +245,7 @@ Daniel Lehenbauer, an SDE on the Avalon team, has started &lt;A href="http://cha
 &lt;P>Bottom line: Microsoft is not taking MSMQ, COM+ or Remoting out of the platform; it's just that Indigo, which subsumes the features of these other technologies, will do it all better.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1390</id>
+    <id>https://csells.github.io/sb6/1390</id>
     <title>On The Value and Direction of WinFS</title>
     <updated>2004-06-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -253,7 +255,7 @@ Daniel Lehenbauer, an SDE on the Avalon team, has started &lt;A href="http://cha
 Jon Udell, a writer for InfoWorld,&amp;nbsp;begins a series digging into the value proposition of Longhorn with &lt;A href="http://weblog.infoworld.com/udell/2004/06/02.html#a1012">a look at WinFS&lt;/A>. Jeremy Mazner, a Microsoft evangelist focusing on WinFS, provides &lt;A href="http://weblogs.asp.net/jmazner/archive/2004/06/07/150642.aspx">a counter-point&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12491</id>
+    <id>https://csells.github.io/sb6/12491</id>
     <title>My First Presentation For A Distinguished Engineer</title>
     <updated>2004-06-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -324,7 +326,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1388</id>
+    <id>https://csells.github.io/sb6/1388</id>
     <title>My First Presentation For A Distinguished Engineer</title>
     <updated>2004-06-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -334,7 +336,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;a href="/12491">Here&lt;/a>. The one where &lt;a href="/12491">I get to present a technical topic to Anders Hejlsberg&lt;/A> and it changes my brain.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1389</id>
+    <id>https://csells.github.io/sb6/1389</id>
     <title>The Magic of the DevCon: The Attendees</title>
     <updated>2004-06-07T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -347,7 +349,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;P>A DevCon is a wonderful mix of movers and shakers, vendors, enthusiasts, architects, practitioners and and a conference with an atmosphere and a set of attendees unlike any other that I've attended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1387</id>
+    <id>https://csells.github.io/sb6/1387</id>
     <title>MikeDub On Solving An Instance of Writer's Block</title>
     <updated>2004-06-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

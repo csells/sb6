@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed132.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed132.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed131.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed133.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed132.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed131.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed133.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed132.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/574</id>
+    <id>https://csells.github.io/sb6/574</id>
     <title>You are all destroying the internet (!)</title>
     <updated>2003-05-16T07:00:00.000Z</updated>
     <published>2003-05-16T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.theregister.co.uk/content/6/30733.html">Here&lt;/a>. From Steve Dunn: Quote: "Google has its own spam problems: a tiny number of webloggers and list-makers whose mindless hyperlinks degrade the value of its search results, and create the Web equivalent of TV static."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12554</id>
+    <id>https://csells.github.io/sb6/12554</id>
     <title>My First Talk As A Microsoft 
 Employee</title>
     <updated>2003-05-16T07:00:00.000Z</updated>
@@ -106,7 +108,7 @@ going to need some new material...&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/575</id>
+    <id>https://csells.github.io/sb6/575</id>
     <title>Customer Debug Probes and CLR SPY</title>
     <updated>2003-05-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -116,7 +118,7 @@ going to need some new material...&lt;/p>
 &lt;a href="http://blogs.gotdotnet.com/anathan/permalink.aspx/976d1677-a6d1-4a25-9c7b-8448824b8267">Here&lt;/a>. Adam Nathan posts the source to a new .NET 1.1 debugging tool. Thanks, Adam!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/576</id>
+    <id>https://csells.github.io/sb6/576</id>
     <title>Applied XML Conference Sessions Chosen</title>
     <updated>2003-05-16T07:00:00.000Z</updated>
     <published>2003-05-16T07:00:00.000Z</published>
@@ -127,7 +129,7 @@ going to need some new material...&lt;/p>
 The seating for Applied XML is limited and all previous DevCons have sold out, so you may want to grab your seat now. And once you’ve done that, please spread the word! The more XML and web services zealots in one place, the better!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/573</id>
+    <id>https://csells.github.io/sb6/573</id>
     <title>SharpReader 0.9.0.2 Released</title>
     <updated>2003-05-15T07:00:00.000Z</updated>
     <published>2003-05-15T07:00:00.000Z</published>
@@ -136,7 +138,7 @@ The seating for Applied XML is limited and all previous DevCons have sold out, s
 &lt;a href="http://aspnetweblog.com/posts/7043.aspx">Here&lt;/a>. SharpReader is easily my favorite RSS reader. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/572</id>
+    <id>https://csells.github.io/sb6/572</id>
     <title>SharpLibrary Released</title>
     <updated>2003-05-13T07:00:00.000Z</updated>
     <published>2003-05-13T07:00:00.000Z</published>
@@ -146,7 +148,7 @@ The seating for Applied XML is limited and all previous DevCons have sold out, s
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/571</id>
+    <id>https://csells.github.io/sb6/571</id>
     <title>MSDN Hands-On Lab</title>
     <updated>2003-05-13T07:00:00.000Z</updated>
     <published>2003-05-13T07:00:00.000Z</published>
@@ -155,7 +157,7 @@ The seating for Applied XML is limited and all previous DevCons have sold out, s
 &lt;a href="http://msdn.microsoft.com/labs/holo/">Here&lt;/a>. Is your boss with holding VS.NET? Are you forced to program in the old world of unmanaged code? Not even allowed to install VS.NET onto your machine to play with it? If so, check out the MSDN Hands-On Labs where you'll have remote access to Microsoft's own machines to build project types of your choice to take .NET and VS.NET around the block.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/570</id>
+    <id>https://csells.github.io/sb6/570</id>
     <title>"blog noise?!" .03% of the web is changing Google</title>
     <updated>2003-05-12T07:00:00.000Z</updated>
     <published>2003-05-12T07:00:00.000Z</published>
@@ -170,7 +172,7 @@ Because of this, Google is likely to set up a "Blog" tab and take blog results o
 [radio.weblogs.com/0001011]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/569</id>
+    <id>https://csells.github.io/sb6/569</id>
     <title>62 Abstracts For The Applied XML Conference!</title>
     <updated>2003-05-10T07:00:00.000Z</updated>
     <published>2003-05-10T07:00:00.000Z</published>
@@ -179,7 +181,7 @@ Because of this, Google is likely to set up a "Blog" tab and take blog results o
 &lt;a href="/conference">Here&lt;/a>. Holy cow! I was *swamped* with abstracts for the Applied XML Developer's Conference. I got 62 and so many of them are so wonderful that I'm seriously considering expanding the Developer's Conference to 3 days (although I don't know if folks can stand that kind of density for that long : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/568</id>
+    <id>https://csells.github.io/sb6/568</id>
     <title>Sun announces new features for JDK 1.5</title>
     <updated>2003-05-09T07:00:00.000Z</updated>
     <published>2003-05-09T07:00:00.000Z</published>
@@ -188,7 +190,7 @@ Because of this, Google is likely to set up a "Blog" tab and take blog results o
 &lt;a href="http://java.sun.com/features/2003/05/bloch_qa.html">Here&lt;/a>. From Chris Tavares: Sun fires it's return shots in the feature war between Java and the CLR. And for us developers, it looks like a good thing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/567</id>
+    <id>https://csells.github.io/sb6/567</id>
     <title>Microsoft Windows Server 2003 vs. Linux</title>
     <updated>2003-05-09T07:00:00.000Z</updated>
     <published>2003-05-09T07:00:00.000Z</published>
@@ -205,7 +207,7 @@ Red Hat Linux 8.0 Professional
 enjoy..</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/562</id>
+    <id>https://csells.github.io/sb6/562</id>
     <title>MS Discusses Next-Generation Secure Computing Base</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -214,7 +216,7 @@ enjoy..</content>
 &lt;a href="http://www.microsoft.com/presspass/features/2003/may03/05-07NGSCB.asp">Here&lt;/a>. "Security and privacy are two of the most important -- and difficult -- issues facing the computer industry. Improving the ability of software and hardware to protect the integrity of digital information and the privacy of computer users has become a critical focus for both software developers and hardware manufacturers. Last June, Microsoft introduced a new security technology, code-named "Palladium" at the time, that is designed to provide the foundation for a new approach to security and privacy in Windows. Now known as the Next-Generation Secure Computing Base (NGSCB) for Windows, this technology utilizes an innovative hardware and software design to protect against malicious software in order to enhance privacy, security, and system integrity and help insure that software acts in a way that customers can rely on."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/560</id>
+    <id>https://csells.github.io/sb6/560</id>
     <title>Microsoft Details Longhorn Roadmap</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -223,7 +225,7 @@ enjoy..</content>
 &lt;a href="http://www.wininformant.com/Articles/Index.cfm?ArticleID=38967">Here&lt;/a>. "During his keynote address on day two of the Windows Hardware Engineering Conference (WinHEC), Microsoft Senior Vice President of the Windows Client Division, detailed his company's roadmap for delivering Longhorn, the next major Windows version."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/564</id>
+    <id>https://csells.github.io/sb6/564</id>
     <title>Easy Event Notification Using Multiple Inheritance</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -236,7 +238,7 @@ While I thought that this 6/95 article was lost in the mists of time, Betsy Hard
 Luckily, Office 11 comes with MS Office Document Imaging, which has built-in OCR. After processing the document, I was able to select columns of text and past them into Word. I had to do considerable clean-up, but it was about 10x faster than typing it all by hand. I do so love MS software.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/565</id>
+    <id>https://csells.github.io/sb6/565</id>
     <title>Microsoft-specific Google</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>

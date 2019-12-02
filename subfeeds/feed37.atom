@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed37.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed37.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed36.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed38.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed37.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed36.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed38.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed37.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1884</id>
+    <id>https://csells.github.io/sb6/1884</id>
     <title>@ MS, We Share Your Pain</title>
     <updated>2005-10-21T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -42,7 +44,7 @@
 Check out the &lt;A href="http://www.activewin.com/awin/comments.asp?HeadlineIndex=32022">new feature in Vista that allows MS developers to feel your pain&lt;/A> when a crash occurs in a very real way.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1885</id>
+    <id>https://csells.github.io/sb6/1885</id>
     <title>I'm starting to speak in numbers</title>
     <updated>2005-10-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -52,7 +54,7 @@ Check out the &lt;A href="http://www.activewin.com/awin/comments.asp?HeadlineInd
 Someone posted an URL to a mailing list I'm on. My response to his post was "404." I bet you know what I meant w/o thinking about it. He knew and responded as if I'd written in English. This reminds me of the old joke about the guys that'd be around each other so long, they replaced back the same&amp;nbsp;old jokes with numbers and make each other laugh. It's a funny old world.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1883</id>
+    <id>https://csells.github.io/sb6/1883</id>
     <title>I'm the "with" @ the Redmond P&amp;P Summit</title>
     <updated>2005-10-20T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -62,7 +64,7 @@ Someone posted an URL to a mailing list I'm on. My response to his post was "404
 &lt;P>Sure, sure, Alan Cooper and Anders Hejlsberg are keynoting, but I'm the "with" at &lt;A href="http://www.pnpsummit.com/">this year's Redmond, WA Patterns &amp;amp; Practices Summit 12/13 - 12/15&lt;/A>. I don't yet know what that means, but maybe if I'm enough "with it" in Redmond, it'll lead to "with-ness" in Sydney or Oslo (hint, hint... : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12341</id>
+    <id>https://csells.github.io/sb6/12341</id>
     <title>Top 10 List of Top 10 Lists</title>
     <updated>2005-10-20T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -97,7 +99,7 @@ Applied XML Developer's Conference&lt;br>
 Friday, &lt;span class="created">October 20th, 2005&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1882</id>
+    <id>https://csells.github.io/sb6/1882</id>
     <title>Retaking the holy land</title>
     <updated>2005-10-18T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -107,7 +109,7 @@ Friday, &lt;span class="created">October 20th, 2005&lt;/span>&lt;/i>&lt;/p></con
 I just found the most awesome site: &lt;A href="http://grouphug.us">http://grouphug.us&lt;/A>. So far, &lt;A href="http://grouphug.us/confessions/643541420">this is my favorite&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1881</id>
+    <id>https://csells.github.io/sb6/1881</id>
     <title>Web Services and Data Binding?</title>
     <updated>2005-10-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -117,7 +119,7 @@ I just found the most awesome site: &lt;A href="http://grouphug.us">http://group
 What does it mean to bind to a web service? It's not hard to think of taking the result of a web service and binding it as input to some set of controls, but what about changes to that data? Should data from web services be read-only, requiring an explicit call to add, remove or update or should their be some standard WS-CRUD standard? What do you nice folks do?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1880</id>
+    <id>https://csells.github.io/sb6/1880</id>
     <title>More Workflow Communications Spelunking</title>
     <updated>2005-10-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -127,7 +129,7 @@ What does it mean to bind to a web service? It's not hard to think of taking the
 &lt;a href="/12465">Here&lt;/a>. The one where I take Dennis's suggestion, &lt;a href="/12465">try wca.exe with my workflow communications problems&lt;/A>, and discover as many more problems as I solve.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12465</id>
+    <id>https://csells.github.io/sb6/12465</id>
     <title>More Workflow Communciation Spelunking</title>
     <updated>2005-10-16T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/wf2.jpg"/>
@@ -174,7 +176,7 @@ ID=&amp;quot;terminate1&amp;quot;
 }&lt;/pre>&lt;/div>&lt;p align="left">I really like that typed activities are generated for me based on my data exchange service interfaces, but it's still a manual, multi-stage process today. I'd prefer that it happened automatically, like typed resources and settings in VS05. If that can't happen, I'd prefer to be able to bind directly to the parameter binding list that the generic event sink activity already knows about. At least that way, if there's a problem, my workflow doesn't get destroyed because of it.&lt;/p>&lt;p align="left">The updated VS05b2, WF/WinFXb1 sample code is available &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2typed.zip">for your enjoyment&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1878</id>
+    <id>https://csells.github.io/sb6/1878</id>
     <title>Quote of the day</title>
     <updated>2005-10-14T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -184,7 +186,7 @@ ID=&amp;quot;terminate1&amp;quot;
 &lt;P>&lt;EM>"More and more people I know know more and more people I know." --Melissa Sells&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12466</id>
+    <id>https://csells.github.io/sb6/12466</id>
     <title>Workflow Communication Spelunking</title>
     <updated>2005-10-14T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/wf.1.jpg"/>
@@ -349,7 +351,7 @@ ID=&amp;quot;eventSinkActivity1&amp;quot;
   xmlns:d2p1=&amp;quot;ComponentModel&amp;quot; /&amp;gt;&lt;/pre>&lt;/div>&lt;p align="left">Clearly, this is binding syntax only a mother could love, but luckily the designer did it for me, it's going to change in the next beta and it does most of what I want, i.e. bind the input of the Error property on the Terminate activity to something produced by another activity. It's not the same as binding the event sink activity parameters directly, thereby allowing me to shed this dirty global variable feeling, but it's oh so close.&lt;/p>&lt;p align="left">The VS05b2, WF/WinFXb1 sample code is available &lt;a href="/public/samples/WfEventSinkAndMethodInvoke2.zip">for your enjoyment&lt;/a>.&lt;/p>&lt;p align="left">Props to Dennis Pilarinos and Anandhi Somasekaran from the WF group for help figuring this out.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1879</id>
+    <id>https://csells.github.io/sb6/1879</id>
     <title>Workflow Communication Spelunking</title>
     <updated>2005-10-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -359,7 +361,7 @@ ID=&amp;quot;eventSinkActivity1&amp;quot;
 &lt;a href="/12466">Here&lt;/a>. The one where I figure out &lt;a href="/12466">how to communicate into, out of and between WF activities&lt;/A>, but not in a satisfying way.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1877</id>
+    <id>https://csells.github.io/sb6/1877</id>
     <title>His Outsourced Life</title>
     <updated>2005-10-13T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -369,7 +371,7 @@ ID=&amp;quot;eventSinkActivity1&amp;quot;
 &lt;a href="http://www.smartmoney.com/esquire/index.cfm?Story=20050909-outsource&amp;pgnum=1">Here&lt;/a>. &lt;P>&lt;A href="http://www.smartmoney.com/esquire/index.cfm?Story=20050909-outsource&amp;amp;pgnum=1">An Esquire magazine author hires not one but two Indian assistants and outsources practically everything but watching TV to them&lt;/A>. By the end of the article, he's outsourced writing the article. I don't know if it's true, but it is funny (and scary).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1876</id>
+    <id>https://csells.github.io/sb6/1876</id>
     <title>How is "workflow" different from "visual programming?"</title>
     <updated>2005-10-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -379,7 +381,7 @@ ID=&amp;quot;eventSinkActivity1&amp;quot;
 Is there something intrinsic about "workflow" that needs to be surfaced to folks or would any visual programming language do? I'm not finding any commercial products in my web searches, but I know that there have been some "integrated component"-style programming languages where you lay flow and logic out from a set of components on a toolbox. Is Windows Workflow Foundation one of those that MS just happens to be doing or is there something important about "workflow" that interests folks?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1875</id>
+    <id>https://csells.github.io/sb6/1875</id>
     <title>What interests you about Windows Workflow Foundation?</title>
     <updated>2005-10-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -389,7 +391,7 @@ Is there something intrinsic about "workflow" that needs to be surfaced to folks
 The PDC was a buzz with folks praising WWF. Please tell me a) what you think is cool about WWF and b) how it will improve your life or the lives of your colleagues or customers. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1874</id>
+    <id>https://csells.github.io/sb6/1874</id>
     <title>It's a Windows Life</title>
     <updated>2005-10-10T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed9.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed9.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed8.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed10.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed9.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed8.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed10.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed9.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2294</id>
+    <id>https://csells.github.io/sb6/2294</id>
     <title>Modeling Inheritance in "M"</title>
     <updated>2009-07-10T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -42,7 +44,7 @@
 &lt;A href="http://blogs.msdn.com/dave_langer/">Dave Langer&lt;/A>, an architect at Microsoft, explores the question of &lt;A href="http://blogs.msdn.com/dave_langer/archive/2009/06/02/modeling-inheritance-in-oslo-s-m.aspx">how to model inheritance in "M"&lt;/A>. What do you think? What support for inheritance should "Oslo" provide? What scenarios do you need us to nail in this area? &lt;A href="https://connect.microsoft.com/oslo">Let us know!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2295</id>
+    <id>https://csells.github.io/sb6/2295</id>
     <title>PowerBoots makes me want to use PowerShell!</title>
     <updated>2009-07-10T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="http://huddledmasses.org/images/PowerBoots/PowerBoots7.png"/>
@@ -60,7 +62,7 @@
 &lt;P>Anyway, the first thing that's made me really really want to move to ps is &lt;A href="http://huddledmasses.org/powerboots/">PowerBoots&lt;/A>! It's starting to really deliver on what I had hoped to get out of ps and it feels like &lt;A href="/2177">Shoes&lt;/A>, which I already know I love. &lt;A href="http://huddledmasses.org/powerboots/">Check it out!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2292</id>
+    <id>https://csells.github.io/sb6/2292</id>
     <title>Telerik Ships Alpha "M"-Based Comparison Tool</title>
     <updated>2009-07-09T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -72,7 +74,7 @@
 &lt;P>And the best part? It's all free! &lt;A href="http://www.telerik.com/community/labs/telerik-oslo-comparison-and-migration-tool.aspx">Download yours today.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2290</id>
+    <id>https://csells.github.io/sb6/2290</id>
     <title>Dynamic Languages: A Separation of Concerns</title>
     <updated>2009-07-08T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -97,7 +99,7 @@
 &lt;P>My name is Chris Sells and I'm an Intellisense addict. Admitting I have the problem is the first step...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2291</id>
+    <id>https://csells.github.io/sb6/2291</id>
     <title>Telerik Does LINQ to "M"</title>
     <updated>2009-07-08T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -110,7 +112,7 @@
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2289</id>
+    <id>https://csells.github.io/sb6/2289</id>
     <title>Part 3 of Dana's End-to-End "Oslo" Series: Quadrant</title>
     <updated>2009-07-07T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -120,7 +122,7 @@
 In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-models-to-quadrant-using-oslo-may-ctp-part-i.aspx">part 1&lt;/A> and &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/05/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-ii.aspx">part 2&lt;/A> of his series, &lt;A href="http://blogs.msdn.com/dkaufman/default.aspx">Dana Kaufman&lt;/A>, a Program Manager on the "Oslo" team, used "M" to model the schema for employee information and to create a domain-specific language (DSL) for creating values of that schema. In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/24/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-iii.aspx">part 3&lt;/A>, Dana shows how to navigate the schema and models in "Quadrant," the data visualization and manipulation tool of "Oslo." Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2288</id>
+    <id>https://csells.github.io/sb6/2288</id>
     <title>Rocky's MCsla on the Olso May CTP</title>
     <updated>2009-07-06T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -130,7 +132,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 &lt;A href="http://www.lhotka.net/">Rockford Lhotka&lt;/A> of &lt;A href="http://www.amazon.com/exec/obidos/search-handle-url/search-type=ss&amp;amp;index=books&amp;amp;field-author=Rockford%20Lhotka">several C# and VB books&lt;/A> and the world-renown &lt;A href="http://www.lhotka.net/cslanet/">CSLA .NET business object framework&lt;/A> has ported his &lt;A href="http://www.lhotka.net/weblog/MCslaOnTheOlsoMayCTP.aspx">"Oslo"-based MCsla.NET&lt;/A> to the May 2009 CTP. For the part that he's made work in "Oslo," Rocky has told me that the amount of code you need to write to take advantage of his framework is down by 90% over the C#/VB.NET versions, which sounds like a pretty big win to me. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2287</id>
+    <id>https://csells.github.io/sb6/2287</id>
     <title>MGraph Visualizer Plug-in for Intellipad!</title>
     <updated>2009-06-29T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/mgraphipad.jpg"/>
@@ -142,7 +144,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 &lt;A href="http://www.sixpairs.com/">Ceyhun Ciper&lt;/A> is at it again, this time taking advantage of the Intellipad plug-in capabilities in &lt;A href="http://msdn.com/oslo/">the "Oslo" May 2009 CTP&lt;/A> and adding &lt;A href="http://www.sixpairs.com/mgplugin.aspx">real-time "M" visualization as you type&lt;/A>. This is a wonderful way to see both the textual and graphic abstract symbol tree of your data as you type it. Keep up the good work, Ceyhun!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2286</id>
+    <id>https://csells.github.io/sb6/2286</id>
     <title>JavaScript implementation of "M"</title>
     <updated>2009-06-24T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -152,7 +154,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 &lt;A href="http://diakopter.blogspot.com/">Matthew Wilson&lt;/A> is pushing "M" into the land of browser client-side scripting with his partial (but growing!) JavaScript implementation, as seen in &lt;A href="http://jsmeta.googlecode.com/svn/trunk/bin/JSMetaPad.html">his web 3-pane "M" grammar mode&lt;/A> ala Intellipad. It's work like this that could make "M" a cross-platform solution for languages as well as data types and values. Good job, Matt!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2284</id>
+    <id>https://csells.github.io/sb6/2284</id>
     <title>Need a visualization of "M" in your programs?</title>
     <updated>2009-06-23T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -164,7 +166,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 &lt;P>Sweet!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2285</id>
+    <id>https://csells.github.io/sb6/2285</id>
     <title>Deep Fried Bytes: Shawn Wildermuth on "Oslo"</title>
     <updated>2009-06-23T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -175,7 +177,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 &lt;P>&lt;EM>Be warned, this podcast uses the phrase "bowled shrimp." : )&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2283</id>
+    <id>https://csells.github.io/sb6/2283</id>
     <title>From DSLs &amp; Models to “Quadrant” w/ “Oslo” May CTP</title>
     <updated>2009-06-09T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -185,7 +187,7 @@ In &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-mo
 Dana Kaufman, a PM on the extended "Oslo" team, has been blogging a series of articles on &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/05/27/from-dsl-and-models-to-quadrant-using-oslo-may-ctp-part-i.aspx">the definition of a set of "M" types&lt;/A>, &lt;A href="http://blogs.msdn.com/dkaufman/archive/2009/06/05/from-dsls-and-models-to-quadrant-using-oslo-may-ctp-part-ii.aspx">the associated "M" language definition for a domain-specific language (DSL)&lt;/A> and concluding in how that data can be visualized and manipulated in "Quadrant" (the first two parts are available now and the third is coming). Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2282</id>
+    <id>https://csells.github.io/sb6/2282</id>
     <title>Actipro's SyntaxEditor Adds Support for "Oslo"!</title>
     <updated>2009-06-04T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -195,7 +197,7 @@ Dana Kaufman, a PM on the extended "Oslo" team, has been blogging a series of ar
 Do you like Intellipad so much that you want to host it? If so, than you need &lt;A href="http://blog.actiprosoftware.com/post/2009/06/02/Integrating-MGrammar-DSL-parsers-with-SyntaxEditor-to-implement-syntax-highlighting.aspx">Actipro's SyntaxEditor&lt;/A>, which is not only a kick-butt syntax highlighting editor, but can be completely driven by an "Oslo" language definition in a .mg file. The demo is free and one of the samples is a fun little Intellipad clone. &lt;A href="http://blog.actiprosoftware.com/post/2009/06/02/Integrating-MGrammar-DSL-parsers-with-SyntaxEditor-to-implement-syntax-highlighting.aspx">Check it out!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2281</id>
+    <id>https://csells.github.io/sb6/2281</id>
     <title>Helping to set up fireworks for the 4th of July?</title>
     <updated>2009-06-03T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -205,7 +207,7 @@ Do you like Intellipad so much that you want to host it? If so, than you need &l
 Last year right after the 4th of July, one of my kind readers offered to let the me and the boys help set up and set off this year's 4th of July show in or around Portland. However, I can't find who offered. If that kind reader is still out there, can you drop me a line? I'm sure my 60-year-old father would like to help, too. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2280</id>
+    <id>https://csells.github.io/sb6/2280</id>
     <title>MGDisplay: Visualize Parsed "Oslo" Grammars</title>
     <updated>2009-05-29T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>

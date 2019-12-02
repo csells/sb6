@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed88.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed88.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed87.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed89.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed88.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed87.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed89.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed88.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1179</id>
+    <id>https://csells.github.io/sb6/1179</id>
     <title>Rich Turner on Is .NET Remoting Dead?</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 Rich Turner, a PM on the Microsoft Indigo team, has &lt;A href="http://weblogs.asp.net/richturner666/archive/2004/03/05/84771.aspx">a pretty firm answer to the question of whether .NET remoting is dead: no&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1181</id>
+    <id>https://csells.github.io/sb6/1181</id>
     <title>Enabling SSL On Your Server For Free</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <published>2004-03-07T08:00:00.000Z</published>
@@ -51,7 +53,7 @@ Rich Turner, a PM on the Microsoft Indigo team, has &lt;A href="http://weblogs.a
 I have never really understood the machinations that you have to go through to enable SSL, but &lt;A href="http://www.scotg.net/permalink.aspx/1a767f7e-ec48-435b-be91-bad1ac35056f">Scot Gellock has posted a script to simplify part of it, i.e. getting the certificate&lt;/A>. And he does it with freely available tools, which is always a nice bonus. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1174</id>
+    <id>https://csells.github.io/sb6/1174</id>
     <title>How the Longhorn SDK is Built</title>
     <updated>2004-03-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@ I have never really understood the machinations that you have to go through to e
 Lori Pearce, the&amp;nbsp;Matriarch of the Longhorn SDK, describes &lt;A href="http://weblogs.asp.net/loripe/archive/2004/03/04/84070.aspx">what goes into the&amp;nbsp;LHSDK and how it's built&lt;/A>. The scope is beyond belief.&amp;nbsp;</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1173</id>
+    <id>https://csells.github.io/sb6/1173</id>
     <title>Automating Windows Forms for Testing</title>
     <updated>2004-03-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ Lori Pearce, the&amp;nbsp;Matriarch of the Longhorn SDK, describes &lt;A href="h
 Brian McMaster from the Windows Forms team provides &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwinforms/html/autowforms.asp?frame=true">an article on how to automate Windows Forms applications for testing via tools like Visual Test&lt;/A>. Check it out if that's the kind of thing you want to do.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1170</id>
+    <id>https://csells.github.io/sb6/1170</id>
     <title>Introducing Chris “Flash” Sells</title>
     <updated>2004-03-05T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/chrisflashsells.jpg"/>
@@ -90,7 +92,7 @@ one of two record albums I had and I listened to it over and over and over):&lt;
 DonXML Demsak's Grok This&lt;/a></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1171</id>
+    <id>https://csells.github.io/sb6/1171</id>
     <title>Longhorn Concept Video: Financial Services</title>
     <updated>2004-03-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -100,7 +102,7 @@ DonXML Demsak's Grok This&lt;/a></content>
 In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/productinfo/conceptvid/#finserv">Carter Maslan explores how we imagine that Longhorn's capabilities could be applied to a financial services application&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1172</id>
+    <id>https://csells.github.io/sb6/1172</id>
     <title>Reimplementing Mike's cmdline Utility using WMI</title>
     <updated>2004-03-05T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -113,7 +115,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>BTW, I have to admit that I'm nowhere near as manly as Mike. I'll take this sissy code any day. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1169</id>
+    <id>https://csells.github.io/sb6/1169</id>
     <title>Sample: Hello Longhorn on CodeProject</title>
     <updated>2004-03-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -123,7 +125,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>Looks like CodeProject is getting into the Longhorn act with &lt;A href="http://www.codeproject.com/csharp/HelloLonghorn.asp">a nice Hello, Longhorn sample by Deepak Kapoor&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1166</id>
+    <id>https://csells.github.io/sb6/1166</id>
     <title>Short, but Revealing, Interview of David Treadwell</title>
     <updated>2004-03-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -136,7 +138,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>[&lt;A href="http://www.gotdotnet.com/team/dbox/">via Don Box&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1164</id>
+    <id>https://csells.github.io/sb6/1164</id>
     <title>BizTalk Server 2004</title>
     <updated>2004-03-02T08:00:00.000Z</updated>
     <published>2004-03-02T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;A href="http://www.microsoft.com/biztalk/">Microsoft has launched BizTalk Server 2004&lt;/A>. For me, the biggest deal is &lt;A href="http://www.microsoft.com/biztalk/evaluation/overview/biztalkserver.asp">the integration of the schema mapper into VS.NET&lt;/A>, which lets me build an XSLT document interactively with a coupla schemas (and I can come up with schemas from instances via &lt;A href="http://apps.gotdotnet.com/xmltools/xsdinference/">Microsoft's schema inference tool&lt;/A>).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1168</id>
+    <id>https://csells.github.io/sb6/1168</id>
     <title>The .NET Show: I'm Green With Envy for Indigo</title>
     <updated>2004-03-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P style="MARGIN-RIGHT: 0px">BTW, does anyone have some &lt;A href="mailto:csells@sellsbrothers.com?subject=Recommended Indigo Blogger">recommendations for Indigo bloggers&lt;/A>? I subscribe to &lt;A href="http://www.gotdotnet.com/team/dbox/">Don&lt;/A>, &lt;A href="http://weblogs.asp.net/yassers/">Yasser&lt;/A> and &lt;A href="http://skonnard.com/">Aaron&lt;/A>, but don't see much Indigo traffic on those sites.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1165</id>
+    <id>https://csells.github.io/sb6/1165</id>
     <title>Jon Udell Sends Home the .NET Report Card</title>
     <updated>2004-03-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -176,7 +178,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>On the other hand, I find myself pleasantly surprised by &lt;A href="http://www.infoworld.com/article/04/02/27/09FEmsnet_1.html">Jon Udell's .NET Report Card&lt;/A>. To be sure, there is room for improvement (Don always says, "The largest room in the world is the room for improvement" : ), but two As and two Bs is pretty damn good in this age of very high expections, so I'm a proud 2nd cousin right now (the product teams are the real parents, of course).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1167</id>
+    <id>https://csells.github.io/sb6/1167</id>
     <title>Living Two Lives</title>
     <updated>2004-03-02T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -188,7 +190,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>Anyway, it all boils down to one thing: impact. Are you impacted by the things that happen in the virtual world? I know I am. Sometimes it's negative and sometimes it's positive, but it can be just as strong as the impact I feel in my "normal" life. For me, most of my most meaningful impact happens in the "real" world, but as technology advances, I think more and more of that balance will tip, whether that's OK with you or not.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1163</id>
+    <id>https://csells.github.io/sb6/1163</id>
     <title>Sample: Avalon DawsonDraw</title>
     <updated>2004-03-01T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -199,7 +201,7 @@ In this concept video, &lt;A href="http://www.msdn.microsoft.com/Longhorn/produc
 &lt;P>BTW, Ryan's pretty darn prolific on Longhorn and &lt;A href="http://www.longhornblogs.com/rdawson/">I recommend his blog&lt;/A> in general. Also, if I remember correctly, he's 19, so you're getting pure enthusiasm and uncensored truth. Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1162</id>
+    <id>https://csells.github.io/sb6/1162</id>
     <title>How fast does Avalon need to be?</title>
     <updated>2004-03-01T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

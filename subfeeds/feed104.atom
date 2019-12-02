@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed104.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed104.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed103.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed105.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed104.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed103.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed105.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed104.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/949</id>
+    <id>https://csells.github.io/sb6/949</id>
     <title>My First Meeting with BillGs Technical Advisor</title>
     <updated>2003-11-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12515">Here&lt;/a>. The one where I meet BillG's Technical Advisor and am charmed into volunteering for more work.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/950</id>
+    <id>https://csells.github.io/sb6/950</id>
     <title>Simple Stand-Alone Client for GDN Workspaces</title>
     <updated>2003-11-15T08:00:00.000Z</updated>
     <published>2003-11-15T08:00:00.000Z</published>
@@ -51,7 +53,7 @@
 &lt;a href="http://blogs.gotdotnet.com/aoakley/permalink.aspx/a2610938-d034-4e57-aea2-1d072837907a">Here&lt;/a>. If you're a GDN workspaces fan, but pine for a stand-alone client outside of VS.NET and the browser, have I got a deal for you! Andy Oakley, the GDN Workspaces PM, has posted a stand-alone WinForms client for GDN workspaces. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/948</id>
+    <id>https://csells.github.io/sb6/948</id>
     <title>Paul Thurrott Previews PDC Longhorn Thoroughly</title>
     <updated>2003-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@
 &lt;a href="http://www.winsupersite.com/reviews/longhorn_4051.asp">Here&lt;/a>. Paul Thurrot digs deeply into the PDC build of Longhorn, including impressions, screen shots and videos. Of course, since this is a developer release, the user experience isn't nearly what we plan it to be, but even developers need to know how to use the OS for which they're developing. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/947</id>
+    <id>https://csells.github.io/sb6/947</id>
     <title>Brad Abrams of MS Solicits Feedback on WinFS</title>
     <updated>2003-11-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 "Don't complain later if you don't help me fix it now ;-) Please comment or drop me an email or IM."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/946</id>
+    <id>https://csells.github.io/sb6/946</id>
     <title>Windows XP Service Pack 2: A Developer's View</title>
     <updated>2003-11-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@
 &lt;a href="http://msdn.microsoft.com/security/?pull=/library/en-us/dnwxp/html/securityinxpsp2.asp">Here&lt;/a>. While it's not Longhorn specific, certainly the changes made to security for users and application developers in WinXP SP2 are going to impact those same decisions made in Longhorn. Prepare yourself now!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/945</id>
+    <id>https://csells.github.io/sb6/945</id>
     <title>The XML Application Mark-up Language Reference</title>
     <updated>2003-11-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -97,7 +99,7 @@ There are all *kinds* of interesting things to check out in XAML. My personal fa
 Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/944</id>
+    <id>https://csells.github.io/sb6/944</id>
     <title>The Root of All Avalon Apps</title>
     <updated>2003-11-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -107,7 +109,7 @@ Enjoy.</content>
 &lt;a href="http://longhorn.msdn.microsoft.com/?//longhorn.msdn.microsoft.com/lhsdk/ref/ns/msavalon.windows/c/application/application.aspx">Here&lt;/a>. &lt;a href="http://longhorn.msdn.microsoft.com/lhsdk/ref/ns/msavalon.windows/c/application/application.aspx">&lt;/a>If you're building an Avalon application, the one thing you won't be able to live without is an instance of the MSAvalon.Windows.Application object. It's the core of all Avalon apps and where you should start when digging into Longhorn development.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/943</id>
+    <id>https://csells.github.io/sb6/943</id>
     <title>Complete Namespace Listings for WinFX</title>
     <updated>2003-11-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -121,7 +123,7 @@ Some of these namesspaces will change name and most of them will change in funct
 Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/942</id>
+    <id>https://csells.github.io/sb6/942</id>
     <title>The Motivation for WinFS</title>
     <updated>2003-11-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -131,7 +133,7 @@ Enjoy.</content>
 &lt;a href="http://anopinion.net/posts/156.aspx">Here&lt;/a>. Mike Deem posts his opinion on why WinFS is so important. +1.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/940</id>
+    <id>https://csells.github.io/sb6/940</id>
     <title>Visual Editor for MSBuild</title>
     <updated>2003-11-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -141,7 +143,7 @@ Enjoy.</content>
 &lt;a href="http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=2cb20e79-d706-4706-9ea0-26188257ee7d">Here&lt;/a>. For those of you that don't like writing raw XML if you can help it and that Don and Tim haven't yet converted, there's a Visual Editor for MSBuild. Of course, it's not VS.NET, but what is? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/941</id>
+    <id>https://csells.github.io/sb6/941</id>
     <title>VS.NET Whidbey Shortcut Expansion</title>
     <updated>2003-11-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -173,7 +175,7 @@ But wait, there's more. Adding custom shortcuts is merely a matter of adding a n
 Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/936</id>
+    <id>https://csells.github.io/sb6/936</id>
     <title>WinFX Application Written in Standard ML</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -183,7 +185,7 @@ Enjoy.</content>
 &lt;a href="http://blogs.gotdotnet.com/marcmill/permalink.aspx/f513664a-38a6-42fe-8089-c6349975563a">Here&lt;/a>. I have no idea how this SML application works, but it's cool that it does.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/935</id>
+    <id>https://csells.github.io/sb6/935</id>
     <title>MSDN TV: What is WinFX?</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -193,7 +195,7 @@ Enjoy.</content>
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031107WINFXBA/manifest.xml">Here&lt;/a>. Watch Brad Abrams and learn the object-oriented, managed API for the breadth of Windows "Longhorn" and how it relates to the work you are already doing on the .NET Framework. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/939</id>
+    <id>https://csells.github.io/sb6/939</id>
     <title>I want my Matrix back!</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <published>2003-11-07T08:00:00.000Z</published>
@@ -204,7 +206,7 @@ Enjoy.</content>
 Anyway, I'm still reeling. Scott says it better than I can.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/934</id>
+    <id>https://csells.github.io/sb6/934</id>
     <title>Cool Longhorn Diagrams from the PDC</title>
     <updated>2003-11-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

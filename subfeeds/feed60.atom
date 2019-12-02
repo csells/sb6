@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed60.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed60.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed59.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed61.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed60.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed59.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed61.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed60.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1565</id>
+    <id>https://csells.github.io/sb6/1565</id>
     <title>The Downside of Smart Children</title>
     <updated>2004-10-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -44,7 +46,7 @@
 &lt;P>Still, while I am proud of my son for catching onto to my "creativity," luckily there are all kinds of other, more subtle lies that I've told him that are set to trigger in my retirement years, sure to motivate him to call, even if only to curse my name. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1563</id>
+    <id>https://csells.github.io/sb6/1563</id>
     <title>Sells on the SellsCon</title>
     <updated>2004-10-23T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -60,7 +62,7 @@
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">Inexplicably, the DevCon seems to just get better and better. I blame it on the community willing to listen to a variety of sources to hear what's really going on, some of it good and some of it that needs some work, whether it's from professional speakers or nervous amateurs, for-profit vendors or seasoned practitioners. Thanks for letting me participate.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1562</id>
+    <id>https://csells.github.io/sb6/1562</id>
     <title>DevCon == 44 bloggers and 247 posts (so far)!</title>
     <updated>2004-10-23T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -70,7 +72,7 @@
 &lt;a href="/public/conference/#Sightings">Here&lt;/a>. Holy cow! I knew people liked the DevCon, but &lt;A HREF="/public/conference/#Sightings">I've never seen a blogging response like this&lt;/A>. I've found 44 separate bloggers and 247 posts related to the event itself (not counting the warm-up to the event). That's almost 6 posts/blogger or 2 posts/attendee! Good lord, but these were a prolific bunch...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1561</id>
+    <id>https://csells.github.io/sb6/1561</id>
     <title>Applied XML Dev.Conf. 5 Web Sightings</title>
     <updated>2004-10-21T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -80,7 +82,7 @@
 &lt;a href="/public/conference/#sightings">Here&lt;/a>. I got so tons of positive feedback during &lt;A HREF="/public/conference/">the DevCon&lt;/A>&amp;nbsp;about the talks, the venue, the format, etc, for which I thanked each person sincerely. However, &lt;A HREF="/public/conference/#sightings">the huge number of DevCon-related posts on the web&lt;/A>, including &lt;A href="http://www.devsource.ziffdavis.com/article2/0,1759,1681545,00.asp">a reporter's piece on DevSource&lt;/A>, was overwhelming.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1560</id>
+    <id>https://csells.github.io/sb6/1560</id>
     <title>DevCon5 is Sold Out... Again</title>
     <updated>2004-10-19T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -91,7 +93,7 @@
 &lt;P>Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1558</id>
+    <id>https://csells.github.io/sb6/1558</id>
     <title>Coming into the final DevCon5 curve</title>
     <updated>2004-10-18T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -113,7 +115,7 @@
 &lt;P>Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1559</id>
+    <id>https://csells.github.io/sb6/1559</id>
     <title>Delighted by Windows Media Center Edition 2005</title>
     <updated>2004-10-18T07:00:00.000Z</updated>
     <published>2004-10-18T07:00:00.000Z</published>
@@ -131,7 +133,7 @@
 &lt;P>I've already got my MCE Extender on order so that I can see about sharing this experience into other TVs in my house. Windows Media Center Edition 2005 is Highly Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1556</id>
+    <id>https://csells.github.io/sb6/1556</id>
     <title>Tim Bray Prepares For His DevCon Talk</title>
     <updated>2004-10-17T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -141,7 +143,7 @@
 &lt;P>&lt;A href="http://www.tbray.org/ongoing/When/200x/2004/10/17/SellsPrep">Tim wonders&lt;/A> whether he should let the 'softies attending and speaking at &lt;a href="/public/conference/">the Applied XML Developer's Conference&lt;/A> have it or not. I say, give us both barrels, Tim!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1557</id>
+    <id>https://csells.github.io/sb6/1557</id>
     <title>I'm With Jim: X1 Rocks</title>
     <updated>2004-10-17T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -151,7 +153,7 @@
 Like everyone else in the blogespher, I installed Google Desktop Search last week. And, after using it a few times, I've uninstalled it. &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=d0518e5c-44ad-428e-8661-1edb07a3ee58">Jim's right&lt;/A>; &lt;A href="http://www.x1.com/">X1 kicks its butt.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1555</id>
+    <id>https://csells.github.io/sb6/1555</id>
     <title>Channel9: More Monad</title>
     <updated>2004-10-15T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -161,7 +163,7 @@ Like everyone else in the blogespher, I installed Google Desktop Search last wee
 I haven't even seen this yet and &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=25506">I want to recommend it&lt;/A>. I'm just a big monad and Jeff Snover fan.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1554</id>
+    <id>https://csells.github.io/sb6/1554</id>
     <title>Don at the DevCon on "WS-Why?"</title>
     <updated>2004-10-15T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -173,7 +175,7 @@ I haven't even seen this yet and &lt;A href="http://channel9.msdn.com/ShowPost.a
 &lt;P>Personally, I've always wondered about the history of the avalanche of WS-* specs and to hear it from an irreverent horse's mouth should be tons o' fun.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1547</id>
+    <id>https://csells.github.io/sb6/1547</id>
     <title>.NET Show: Don and Doug on Connected Systems</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -184,7 +186,7 @@ I haven't even seen this yet and &lt;A href="http://channel9.msdn.com/ShowPost.a
 &lt;P>And after watching them together on the latest .NET Show, I get to &lt;a href="/public/conference/">see them again next week at the Applied XML Developer's Conference&lt;/A>. How lucky am I? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1550</id>
+    <id>https://csells.github.io/sb6/1550</id>
     <title>Randy Jackson on Pleasing the Gods</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -197,7 +199,7 @@ I haven't even seen this yet and &lt;A href="http://channel9.msdn.com/ShowPost.a
 &lt;P>And yes: today I'm going to read you my email because today, clever people insist on emailing me. : P&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1551</id>
+    <id>https://csells.github.io/sb6/1551</id>
     <title>MSDN Content Strategy Wants *You*</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <published>2004-10-14T07:00:00.000Z</published>
@@ -243,7 +245,7 @@ organizations to align goals and execute against them; and an
 intense passion for and knowledge of the Microsoft developer.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1553</id>
+    <id>https://csells.github.io/sb6/1553</id>
     <title>Aaron Skonnard On The Indigo SDR</title>
     <updated>2004-10-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

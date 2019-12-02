@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed22.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed22.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed21.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed23.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed22.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed21.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed23.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed22.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2102</id>
+    <id>https://csells.github.io/sb6/2102</id>
     <title>Sometimes I crack myself up</title>
     <updated>2007-05-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -46,7 +48,7 @@
 &lt;P>This is what happens when you write into the wee hours of the morning... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2101</id>
+    <id>https://csells.github.io/sb6/2101</id>
     <title>Heard in the halls at RailsConf 2007</title>
     <updated>2007-05-19T07:00:00.000Z</updated>
     <published>2007-05-19T07:00:00.000Z</published>
@@ -58,7 +60,7 @@
 &lt;P>I find I like the Ruby crowd : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2100</id>
+    <id>https://csells.github.io/sb6/2100</id>
     <title>Dogfood -- it ain't just for dogs</title>
     <updated>2007-05-11T07:00:00.000Z</updated>
     <published>2007-05-11T07:00:00.000Z</published>
@@ -67,7 +69,7 @@
 Am I the only one that find it ironic that an online paper on the merits of &lt;A href="http://www.readingonline.org/articles/art_index.asp?HREF=/articles/r_walker/">a new way to format text for online reading&lt;/A> doesn't use the technique it advocates?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2099</id>
+    <id>https://csells.github.io/sb6/2099</id>
     <title>Get your PDC Code Camp On!</title>
     <updated>2007-05-10T07:00:00.000Z</updated>
     <published>2007-05-10T07:00:00.000Z</published>
@@ -76,7 +78,7 @@ Am I the only one that find it ironic that an online paper on the merits of &lt;
 The &lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>*free*&lt;/FONT>&lt;/EM>&lt;/STRONG> &lt;A href="http://pdx.techevents.info/codecamp/3/default.aspx">Portland Code Camp&lt;/A> is just around the corner on May 19th and 20th at the Vancouver WSU campus. Personally, I'm looking forward to the Chris Bilson talk on adding PowerShell support to your app, George Clingerman on 2D graphics in XNA (maybe it's time to port &lt;a href="/public/wahoo/">Wahoo!&lt;/A>?) and Stuart Celarier on NDepend. &lt;A href="http://pdx.techevents.info/codecamp/3/register.aspx">Register today!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2098</id>
+    <id>https://csells.github.io/sb6/2098</id>
     <title>Lutz's Silverlight 1.1 Alpha Samples</title>
     <updated>2007-05-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -86,7 +88,7 @@ The &lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>*free*&lt;/FONT>&lt;/EM>&lt;/STRONG
 Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of his .NET code to use the Silverlight 1.1 alpha&lt;/A>, which includes the mini-CLR (or whatever we're calling it these days : ). Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2096</id>
+    <id>https://csells.github.io/sb6/2096</id>
     <title>Glyn Griffiths: Ian's Dad and Damn Fine Reviewer</title>
     <updated>2007-04-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -104,7 +106,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>P.S. With your kind permission, I'd like to post your comment on my blog so that others may have a greater understanding of where &lt;A href="http://www.interact-sw.co.uk/iangblog/">Ian&lt;/A> gets his monster intellect.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2097</id>
+    <id>https://csells.github.io/sb6/2097</id>
     <title>On becoming an empty nester...</title>
     <updated>2007-04-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -118,7 +120,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>So, what's next for me in this new phase of my life? Well, I've already started some stuff. A couple of weeks ago, I started a little gooey shell for monad (I call it "gonad"&amp;nbsp; : ). And last Friday, I started private piano lessons (a blast!). I'd like to pick up my other hobbies again, too, but for the life of me, I can't remember what my other hobbies used to be...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2095</id>
+    <id>https://csells.github.io/sb6/2095</id>
     <title>Shooting the Sh*t with Scott (part 1 of 2)</title>
     <updated>2007-04-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -129,7 +131,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>P.S. Sorry about coughing they weren't able to edit out. Alergies...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2093</id>
+    <id>https://csells.github.io/sb6/2093</id>
     <title>My Foreword To ChrisAn's "Essential WPF"</title>
     <updated>2007-04-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -147,7 +149,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>As the author of a competing book from another publisher, I can't say that this is the only book you'll ever need on WPF (or they'd have me in front of a firing squad), but I can say this with certainty: it belongs on your shelf within an easy reach. I know that's where my copy will be.&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2094</id>
+    <id>https://csells.github.io/sb6/2094</id>
     <title>WPF/E == Silverlight</title>
     <updated>2007-04-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -158,7 +160,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>And, if you can wait just a little while longer, you can read about Silverlight in &lt;A HREF="/public/writing/wpfbook/">Programming WPF&lt;/A> (available now &lt;A href="http://www.oreilly.com/catalog/9780596510381/">in Rough Cut format&lt;/A> and for &lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">pre-order from Amazon&lt;/A>) in an appendix by my friend and yours, &lt;A href="http://www.adoguy.com/">Shawn Wildermuth&lt;/A>. Shawn's been doing a ton of Silverlight work lately, including doing a bunch of Silverlight presentations for Microsoft, so he knows of what he speaks.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2092</id>
+    <id>https://csells.github.io/sb6/2092</id>
     <title>Best WPF Resources?</title>
     <updated>2007-04-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -169,7 +171,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;FONT face=Cambria>I&amp;#8217;d like to provide a list of the best WPF resources, including real-world apps, free web resources, SDK docs, samples, blogs, etc. If you&amp;#8217;ve got something that belongs on that list, I&amp;#8217;d love to hear about it. Thanks!&lt;/FONT>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2090</id>
+    <id>https://csells.github.io/sb6/2090</id>
     <title>"Student who needs to interview a programmer"</title>
     <updated>2007-04-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -203,7 +205,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>&lt;STRONG>[jimmy] Is there anything else about being a computer programmer that you would like to tell me about? &lt;BR>&lt;/STRONG>[csells] If you've got the disposition, programming and related software engineering work can be extremely rewarding, not just for the fun and satisfaction of taking control of a tiny virtual universe, but also because of the real difference software has and continues to make on real people's lives. Over the last three decades, I believe that software has literally changed the world for the better and I see that trend accelerating. Bottom line: It's fun, flexibly, in-demand and makes the world a better place&amp;nbsp;-- what could be better than that?&lt;/P>&lt;/SPAN></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2091</id>
+    <id>https://csells.github.io/sb6/2091</id>
     <title>Show Me The Templates!</title>
     <updated>2007-04-11T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -215,7 +217,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2089</id>
+    <id>https://csells.github.io/sb6/2089</id>
     <title>The Microsoft "Sells" Department</title>
     <updated>2007-03-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -244,7 +246,7 @@ Lutz has ported &lt;A href="http://www.aisto.com/roeder/Silverlight/">some of hi
 &lt;P>At no point during this call did I consider sending John somewhere else for help. He'd already been through our support and didn't like it. I can't make people purchase Microsoft products. I can't make people like Microsoft products. However, that one day with that one customer, I was going to do my best to help one customer to not hate Microsoft. Sometimes that's all you can do and I was proud to do it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2087</id>
+    <id>https://csells.github.io/sb6/2087</id>
     <title>Name Sara Williams's Baby Girl</title>
     <updated>2007-03-21T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

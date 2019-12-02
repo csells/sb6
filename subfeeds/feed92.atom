@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed92.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed92.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed91.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed93.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed92.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed91.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed93.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed92.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1121</id>
+    <id>https://csells.github.io/sb6/1121</id>
     <title>Exploring Visual Trees in Avalon</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetbizz/archive/2004/02/16/73603.aspx">Visual Trees in Avalon&lt;/A> that was down right inspirational. In fact, I spent all morning building a little app that will dump the &amp;lt;VisualTree&amp;gt; portion of a &amp;lt;Style&amp;gt; so that when you're customizing the visual tree of an existing control, you have some place from which to start. As soon as I figure out how to get property aliasing and data binding info at run-time, I'll post my app for real but &lt;A HREF="/public/tools/visualTreeShower.zip">the current version is available here&lt;/A> for the adventurous.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1116</id>
+    <id>https://csells.github.io/sb6/1116</id>
     <title>Akimbo: The Internet Television Network</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <published>2004-02-16T08:00:00.000Z</published>
@@ -52,7 +54,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>The final step, I think, is to be able to consume any of my cached a/v from any PC/TV in my house, whether the a/v is cached manually by ripping a CD or&amp;nbsp;DVD or whether it's cached automatically via a&amp;nbsp;hunk of&amp;nbsp;PVR software running on a server. Can I do that today w/o spending thousands of dollars?&amp;nbsp;Is&amp;nbsp;&lt;A href="http://www.microsoft.com/windowsxp/mediacenter/evaluation/devices/xboxextenderkit.asp">the XBox Media Center Extender&lt;/A>&amp;nbsp;the answer?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1115</id>
+    <id>https://csells.github.io/sb6/1115</id>
     <title>Smart Client Language Translation in Longhorn</title>
     <updated>2004-02-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -62,7 +64,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>Jason Nadal builds &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/02/15/73357.aspx">a useful smart client application in Longhorn for language translation&lt;/A>. It's a simple front-end to a web service, but it's the first real custom app for Longhorn I've seen that doesn't have to do with demonstrating or building for the platform.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1114</id>
+    <id>https://csells.github.io/sb6/1114</id>
     <title>Authors Posting Reviews: Tsk, Tsk, Tsk</title>
     <updated>2004-02-14T08:00:00.000Z</updated>
     <published>2004-02-14T08:00:00.000Z</published>
@@ -72,7 +74,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>For the record (although how can you really trust a statement like this?), I never post reviews on my own books and I always put my name on any review or feedback I give of any kind. I do shamelessly ask for reviews when I get emails about my book, but at least I'm open about it. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1108</id>
+    <id>https://csells.github.io/sb6/1108</id>
     <title>Ian on Zooming XAML</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>BTW, if you haven't figured it out yet, Ian is quite the Avalon boy. If you're into such things, &lt;A href="http://www.interact-sw.co.uk/iangblog/">you should subscribe to his blog&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1110</id>
+    <id>https://csells.github.io/sb6/1110</id>
     <title>NASA Learns Lesson from Mars Spirit Rover</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <published>2004-02-13T08:00:00.000Z</published>
@@ -93,7 +95,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>[via Stuart Celarier]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1112</id>
+    <id>https://csells.github.io/sb6/1112</id>
     <title>Avalon Resizable Panels with Splitter Bars</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -105,7 +107,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 &lt;P>BTW, if it seems like a list a lot of community Avalon pieces on my site, it's because there's a lot of community activity in Avalon. If you're doing WinFS or Indigo work and I'm not seeing it, &lt;A href="mailto:csells@microsoft.com">please let me know&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1113</id>
+    <id>https://csells.github.io/sb6/1113</id>
     <title>Ebooks: Neither E, Nor Books</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <published>2004-02-13T08:00:00.000Z</published>
@@ -114,7 +116,7 @@ Kenny Lim posted an article about &lt;A href="http://weblogs.asp.net/digitalnetb
 As a computer boy and a producer of words in a row (and a frustrated novelist), I found &lt;A href="http://craphound.com/ebooksneitherenorbooks.txt">Cory Doctorow's thoughts on eBooks&lt;/A> specifically and copyright in general to be very interesting. Don't know that I agree, but what fun is it to only consume content with which you agree? That's why I always listen to Rush when I can. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1111</id>
+    <id>https://csells.github.io/sb6/1111</id>
     <title>How to Make an App. as Both GUI and Console?</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <published>2004-02-13T08:00:00.000Z</published>
@@ -123,7 +125,7 @@ As a computer boy and a producer of words in a row (and a frustrated novelist), 
 Developer building tools always want to know how to make an app that works well as both a console and a GUI. &lt;A href="http://blogs.msdn.com/junfeng/archive/2004/02/06/68531.aspx">Junfeng describes two interesting techniques&lt;/A>, one used by VS.NET and one used by ildasm. I've done the VS.NET technique myself before and it works well, although the details can get a bit hairly. I haven't yet built an app where twiddling the bits with editbin is necessary, but hey, whatever makes you happy. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1109</id>
+    <id>https://csells.github.io/sb6/1109</id>
     <title>A Man Named "Stuart Longhorn"</title>
     <updated>2004-02-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -134,7 +136,7 @@ Developer building tools always want to know how to make an app that works well 
 &lt;P>[&lt;A href="http://www.ferncrk.com">via Stuart Celarier&lt;/A>, &lt;A href="http://msdn.microsoft.com/Longhorn/Support/lhdevfaq/default.aspx">the real Longhorn Stuart&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1107</id>
+    <id>https://csells.github.io/sb6/1107</id>
     <title>Say "Bye" to Rory @ Portland Nerd Dinner Tonight</title>
     <updated>2004-02-12T08:00:00.000Z</updated>
     <published>2004-02-12T08:00:00.000Z</published>
@@ -143,7 +145,7 @@ Developer building tools always want to know how to make an app that works well 
 For most of you, Rory's not going anywhere, as I'm sure he'll keep starting flame wars and drawing terrible cartoons. However, for those of us in the Portland area, tonight will be his last nerd dinner, as he's heading out to the east coast. Come and say goodbye and &lt;A href="http://snowstormlife.com/blogs/bliz/PermaLink.aspx?guid=4b47f1ff-9807-4c2b-a334-4e2974e2b741">touch him one last time&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1105</id>
+    <id>https://csells.github.io/sb6/1105</id>
     <title>Rory's Tile Sample Uses Sidebar as It's Meant To</title>
     <updated>2004-02-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -156,7 +158,7 @@ For most of you, Rory's not going anywhere, as I'm sure he'll keep starting flam
 &lt;P>You can read about these and other interesting sidebar guidelines in &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/ux/default.aspx?pull=/library/en-us/dnaero/html/wux_topic_sidebar.asp">the sidebar section&lt;/A> of &lt;A href="http://msdn.microsoft.com/Longhorn/understanding/ux/default.aspx?pull=/library/en-us/dnaero/html/samplerintro.asp">the Longhorn User Experience guide&lt;/A> (still under construction, of course). If you've got &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.aero&amp;amp;lang=en&amp;amp;cr=US">any feedback, the UX team would *love* to hear it&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1106</id>
+    <id>https://csells.github.io/sb6/1106</id>
     <title>Bezier Spline Designer using Avalon</title>
     <updated>2004-02-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -166,7 +168,7 @@ For most of you, Rory's not going anywhere, as I'm sure he'll keep starting flam
 &lt;a href="http://www.nikhilk.net/Entry.aspx?id=30">Here&lt;/a>. This looks *very* cool. Can't *wait* to see the source code. Hurry up, Nikhil! So long as it compiles and runs, we'll be forgiving. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1104</id>
+    <id>https://csells.github.io/sb6/1104</id>
     <title>Kenny Linn on Intro Animation in XAML</title>
     <updated>2004-02-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -179,7 +181,7 @@ For most of you, Rory's not going anywhere, as I'm sure he'll keep starting flam
 &lt;P>Oh, and animations in Avalon are cool, too. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1103</id>
+    <id>https://csells.github.io/sb6/1103</id>
     <title>Adam Kinney on Dynamic Animation in Avalon</title>
     <updated>2004-02-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

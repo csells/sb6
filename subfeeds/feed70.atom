@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed70.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed70.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed69.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed71.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed70.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed69.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed71.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed70.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1427</id>
+    <id>https://csells.github.io/sb6/1427</id>
     <title>The XAML Clone Wars Heat Up</title>
     <updated>2004-06-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 There are two companies vying to be your XAML vendor today to help you get read for Longhorn tomorrow. Mobiform released &lt;A href="http://www.mobiform.com/xamlview.aspx">an updated XAML viewer&lt;/A> today that can convert from SVG to XAML and show XAML on your existing .NET machines. Xamlon has been on a hiring spree, today bringing on &lt;A href="http://xamlblogs.com/ben/archive/2004/06/28/189.aspx">Ben Cantlon&lt;/A>. I don't know Ben, but he's asking for suggestions on what his company can do today to move you to XAML that works on .NET today and Longhorn tomorrow.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1424</id>
+    <id>https://csells.github.io/sb6/1424</id>
     <title>BillG on Microsoft's Anti-Spam Efforts</title>
     <updated>2004-06-28T07:00:00.000Z</updated>
     <published>2004-06-28T07:00:00.000Z</published>
@@ -51,7 +53,7 @@ There are two companies vying to be your XAML vendor today to help you get read 
 It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc, to work together against &lt;A href="http://www.microsoft.com/mscorp/execmail/2004/06-28antispam.asp">a common foe: spammers&lt;/A>. This gives me hope that warring nations will be able to band together when the alien invasion comes. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1425</id>
+    <id>https://csells.github.io/sb6/1425</id>
     <title>Using Permutations in .NET</title>
     <updated>2004-06-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@ It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc
 &lt;P>I know this is almost a year old, but the permutations algorithm was my favorite from STL and I've had occassion to miss it since moving to .NET, so it was nice to find Dr. James McCaffrey's &lt;A href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/permutations.asp">Using Permutations in .NET for Improved Systems Security&lt;/A> on msdn.com. The security implications are interesting, I suppose, but permutations are useful than that (like if you're &lt;a href="/12488">trying to crush librarians&lt;/A>...).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1426</id>
+    <id>https://csells.github.io/sb6/1426</id>
     <title>Avalon 3D Hit Testing Demo</title>
     <updated>2004-06-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -72,7 +74,7 @@ It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc
 &lt;P>For example, in his &lt;A href="http://weblogs.asp.net/danlehen/archive/2004/06/27/167463.aspx">Avalon 3D Hit Testing Demo&lt;/A>, Daniel Lehenbauer shows how hit testing can move into a ViewPort3D element (the representation of a 3D scene in an Avalon display) into the specific element being clicked. In other words, you can have a Button right next to a ViewPort3D showing a teapot and your app can easily tell which one was clicked. Handling a teapot click is slightly harder than handling a Button click simple because the Button does it's own hit testing, but the Avalon 3D hit testing supports advanced features like clicking through the handle of the teapot w/o that being classified as a "hit," all of which Daniel explains nicely in his sample.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1423</id>
+    <id>https://csells.github.io/sb6/1423</id>
     <title>Feature Leaked From VS05 Beta 1</title>
     <updated>2004-06-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -82,7 +84,7 @@ It's pretty cool for to see industry competitors, Microsoft, AOL, Earthlink, etc
 Apparently someone has an early copy of Visual Studio 2005 and has stumbled onto &lt;A href="http://notgartner.com/posts/355.aspx">the big feature&lt;/A> we've been saving for an important keynote.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1422</id>
+    <id>https://csells.github.io/sb6/1422</id>
     <title>The Good Bits of STL in .NET 2.0</title>
     <updated>2004-06-26T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -92,7 +94,7 @@ Apparently someone has an early copy of Visual Studio 2005 and has stumbled onto
 I look at &lt;A href="http://blogs.msdn.com/kcwalina/">Krzysztof Cwalina's&lt;/A> post on &lt;A href="http://blogs.msdn.com/kcwalina/archive/2004/06/22/162533.aspx">delegated-based APIs in combination with generics&lt;/A> and I think of the best parts of STL-like template-based programming without all the STL or templates causing the blinding pain just behind your eyes.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1418</id>
+    <id>https://csells.github.io/sb6/1418</id>
     <title>My Experiments In Social Video</title>
     <updated>2004-06-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -102,7 +104,7 @@ I look at &lt;A href="http://blogs.msdn.com/kcwalina/">Krzysztof Cwalina's&lt;/A
 &lt;a href="/12489">Here&lt;/a>. The one where I try &lt;a href="/12489">a couple of experiments in social video&lt;/A> to bring me closure to my friends and get half-way there.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1420</id>
+    <id>https://csells.github.io/sb6/1420</id>
     <title>A Man, A Plan, A Canal, A Librarian!</title>
     <updated>2004-06-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -112,7 +114,7 @@ I look at &lt;A href="http://blogs.msdn.com/kcwalina/">Krzysztof Cwalina's&lt;/A
 &lt;a href="/12488">Here&lt;/a>. &lt;P>The one where I write two computer programs, neither of which do as well as the two librarians they're up against (damn librarians...).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1419</id>
+    <id>https://csells.github.io/sb6/1419</id>
     <title>The Right Level Of Community Involvement</title>
     <updated>2004-06-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -125,7 +127,7 @@ I look at &lt;A href="http://blogs.msdn.com/kcwalina/">Krzysztof Cwalina's&lt;/A
 &lt;P>When folks complain about too much community involvement, I judge we're at just the right level. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12488</id>
+    <id>https://csells.github.io/sb6/12488</id>
     <title>A Man, A Plan, A Canal, A Librarian!</title>
     <updated>2004-06-26T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/wordfind.jpg"/>
@@ -167,7 +169,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1417</id>
+    <id>https://csells.github.io/sb6/1417</id>
     <title>My Day With Edward Tufte</title>
     <updated>2004-06-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -177,7 +179,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;a href="/12490">Here&lt;/a>. The one where &lt;a href="/12490">I enjoy a day with Edward Tufte&lt;/A> even if he unfairly blames PowerPoint for sloppy thinking.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12489</id>
+    <id>https://csells.github.io/sb6/12489</id>
     <title>My Experiments in Social Video</title>
     <updated>2004-06-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -238,7 +240,7 @@ is inevitable. I just I'm just a bit ahead of the curve. : )&lt;/p>&lt;p align="
 Discuss&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12490</id>
+    <id>https://csells.github.io/sb6/12490</id>
     <title>My Day With Edward Tufte</title>
     <updated>2004-06-25T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/spout/sparklines.gif"/>
@@ -388,7 +390,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1416</id>
+    <id>https://csells.github.io/sb6/1416</id>
     <title>Longhorn Foghorn: Crazy About Avalon Data Binding</title>
     <updated>2004-06-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -398,7 +400,7 @@ Discuss&lt;/a>&lt;/li>&lt;/p>
 &lt;P>Over the last few weeks, I've fallen in love with the power and simplicity of Avalon data binding. &lt;A href="http://msdn.microsoft.com/longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnfoghorn/html/foghorn06252004.asp">In this month's column&lt;/A>, I start a 2 article series by focusing on the basics of data binding in Avalon and tease you with a screen shot of my Longhorn Solitaire application rebuilt using data binding and styles, the details of which I'll cover in the 2nd part of the series.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1412</id>
+    <id>https://csells.github.io/sb6/1412</id>
     <title>Swag for the June 29 Portland Nerd Dinner</title>
     <updated>2004-06-24T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

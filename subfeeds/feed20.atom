@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed20.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed20.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed19.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed21.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed20.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed19.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed21.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed20.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2131</id>
+    <id>https://csells.github.io/sb6/2131</id>
     <title>Working Remotely for Microsoft: Can I Find Someone To Let Me Work From Home?</title>
     <updated>2007-10-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -44,7 +46,7 @@
 &lt;P class=MsoNormal>Tomorrow: &lt;a href="/2132">Can You Communicate Effectively From Home?&lt;/a>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2130</id>
+    <id>https://csells.github.io/sb6/2130</id>
     <title>Working Remotely for Microsoft: Can You Focus On Work At Home?</title>
     <updated>2007-10-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -61,7 +63,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2129</id>
+    <id>https://csells.github.io/sb6/2129</id>
     <title>The Whiteboard Whisperer: Working Remotely for Microsoft</title>
     <updated>2007-10-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -74,7 +76,7 @@
 &lt;P class=MsoNormal>Tune in tomorrow for &lt;a href="/2130">"Can You Focus On Work At Home?"&lt;/a>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2128</id>
+    <id>https://csells.github.io/sb6/2128</id>
     <title>Fun With GridView*RowPresenter</title>
     <updated>2007-10-19T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -177,7 +179,7 @@
 &lt;P>Beside the border around the tree view (caused by focus), the worst part about our simple tree-list-view is that, while each grid view row has the proper column sizes and relative positions, because the tree does the indenting, all of the columns are offset, not just the first one. The key to fixing this problem is to put the styling for indenting into the template for the first column only using the CellTemplate property of the GridViewRowColumn, taking over the drawing of the tree view items, which is what &lt;A href="http://blogs.msdn.com/atc_avalon_team/archive/2006/03/01/541206.aspx">&lt;FONT color=#000000>the tree-list-view sample&lt;/FONT>&lt;/A> does.&lt;/P>&lt;/DIV></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2127</id>
+    <id>https://csells.github.io/sb6/2127</id>
     <title>The Windows Workflow Team Wants to Hear from You!</title>
     <updated>2007-10-19T07:00:00.000Z</updated>
     <published>2007-10-19T07:00:00.000Z</published>
@@ -186,7 +188,7 @@
 Are you using WF but it's not quite right? Are you avoiding WF because it doesn't have the features you need? Now's your chance to &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_Activities_Survey_blog">influence the future of WF with a quick survey&lt;/A>. Vote early, vote often! : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2126</id>
+    <id>https://csells.github.io/sb6/2126</id>
     <title>Yahtzee Croshaw -- You're My Hero!</title>
     <updated>2007-10-03T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -197,7 +199,7 @@ Are you using WF but it's not quite right? Are you avoiding WF because it doesn'
 &lt;P>Agree with him or not, you gotta &lt;A href="http://www.escapistmagazine.com/profiles/view/Yahtzee%20Croshaw/posts">appreciate Yahtzee's style&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2125</id>
+    <id>https://csells.github.io/sb6/2125</id>
     <title>Releasing the Source Code for the .NET Framework Libraries!</title>
     <updated>2007-10-03T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -209,7 +211,7 @@ Are you using WF but it's not quite right? Are you avoiding WF because it doesn'
 &lt;P>Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2124</id>
+    <id>https://csells.github.io/sb6/2124</id>
     <title>I'm an "Uber Cool High Nerd"</title>
     <updated>2007-09-09T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -219,7 +221,7 @@ Are you using WF but it's not quite right? Are you avoiding WF because it doesn'
 &lt;A href="http://www.nerdtests.com/nt2ref.html">&lt;IMG alt="NerdTests.com says I'm an Uber Cool High Nerd.  What are you?  Click here!" src="http://www.nerdtests.com/images/badge/nt2/d9ce90a8f93e92b0.png"> &lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2123</id>
+    <id>https://csells.github.io/sb6/2123</id>
     <title>20 Timeless Money Rules</title>
     <updated>2007-09-01T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -251,7 +253,7 @@ Are you using WF but it's not quite right? Are you avoiding WF because it doesn'
 &lt;P>Following this advice will put you in the top 20% of investors in the world.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2122</id>
+    <id>https://csells.github.io/sb6/2122</id>
     <title>"Programming WPF" (finally) shipping!</title>
     <updated>2007-08-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -266,7 +268,7 @@ Are you using WF but it's not quite right? Are you avoiding WF because it doesn'
 &lt;P>Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/wpfbook</id>
+    <id>https://csells.github.io/sb6/wpfbook</id>
     <title>Programming WPF</title>
     <updated>2007-08-28T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/writing/wpfbook/wpfcover.JPG"/>
@@ -318,7 +320,7 @@ Buy Programming WPF, 2nd edition today!&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2121</id>
+    <id>https://csells.github.io/sb6/2121</id>
     <title>Shawn has prepared Genghis v0.8</title>
     <updated>2007-08-24T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -329,7 +331,7 @@ Buy Programming WPF, 2nd edition today!&lt;/a>&lt;/p>
 &lt;P>Shawn's really done all the work for Genghis since I came to Microsoft.&amp;nbsp;Thanks, Shawn.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2120</id>
+    <id>https://csells.github.io/sb6/2120</id>
     <title>Duck Typing for .NET!</title>
     <updated>2007-08-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -339,7 +341,7 @@ Buy Programming WPF, 2nd edition today!&lt;/a>&lt;/p>
 For structural typing fans (and they'll be more of you over time -- trust me), David Meyer has posted &lt;A href="http://www.deftflux.net/blog/page/Duck-Typing-Project.aspx">a duck typing library for .NET&lt;/A>. There are many reasons this is cool, but in summary, it allows for many of the dynamic features of languages like Python and Ruby to used used in any .NET language. Very cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2119</id>
+    <id>https://csells.github.io/sb6/2119</id>
     <title>How to write a book - the short honest truth</title>
     <updated>2007-08-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -350,7 +352,7 @@ For structural typing fans (and they'll be more of you over time -- trust me), D
 I found &lt;A href="http://www.scottberkun.com/blog/2007/how-to-write-a-book-the-short-honest-truth/">this&lt;/A> on &lt;A href="http://digg.com">digg.com&lt;/A> and liked the short, honest style. Bottom line: anyone can write a book; it takes real work to write a good book.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2118</id>
+    <id>https://csells.github.io/sb6/2118</id>
     <title>"How you doin'?"</title>
     <updated>2007-08-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

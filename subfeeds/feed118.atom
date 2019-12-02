@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed118.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed118.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed117.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed119.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed118.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed117.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed119.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed118.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12528</id>
+    <id>https://csells.github.io/sb6/12528</id>
     <title>The real goals of marketing?</title>
     <updated>2003-08-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -69,7 +71,7 @@ goals of marketing?&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/750</id>
+    <id>https://csells.github.io/sb6/750</id>
     <title>What You Should Know About the Blaster Worm</title>
     <updated>2003-08-14T07:00:00.000Z</updated>
     <published>2003-08-14T07:00:00.000Z</published>
@@ -78,7 +80,7 @@ goals of marketing?&lt;/p>
 &lt;a href="http://www.microsoft.com/security/incident/blast.asp">Here&lt;/a>. "At 11:34 A.M. Pacific Time on August 11, Microsoft began investigating a worm reported by Microsoft Product Support Services (PSS). A new worm commonly known as W32.Blaster.Worm has been identified that exploits the vulnerability that was addressed by Microsoft Security Bulletin MS03-026."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/749</id>
+    <id>https://csells.github.io/sb6/749</id>
     <title>IM Buddies</title>
     <updated>2003-08-14T07:00:00.000Z</updated>
     <published>2003-08-14T07:00:00.000Z</published>
@@ -87,7 +89,7 @@ goals of marketing?&lt;/p>
 &lt;a href="http://shop.marxtoys.com/index.cgi/scan/se=IM%20Buddies/sf=category.html">Here&lt;/a>. I'm speechless.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/746</id>
+    <id>https://csells.github.io/sb6/746</id>
     <title>Another Industry Ravaged by Technology</title>
     <updated>2003-08-13T07:00:00.000Z</updated>
     <published>2003-08-13T07:00:00.000Z</published>
@@ -100,7 +102,7 @@ Technology has ravaged many an industry, providing cars instead of carriages, MP
 My vote for a market ripe for such treatment is real estate. Why I'm penalized 3% of the sale price of my house for data entry into MLS, the national real estate database, and checking the paperwork (something I could get done by a real estate attorney for a few hundred dollars) is beyond me. I need my house entered into MLS if I'm going to make it known by buyer's agents and I need to keep paying them 3% or they won't bring their customers to see my house, but the 3% I pay to my seller's agent is just a waste. Can some please ravage real estate for me? Thanks. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12390</id>
+    <id>https://csells.github.io/sb6/12390</id>
     <title>Robert Scoble on Interviewing at Microsoft</title>
     <updated>2003-08-13T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -142,7 +144,7 @@ to demonstrate that you can think in code on the whiteboard.&lt;p>One guy asked 
 whiteboard.&lt;/p>
 There's an excellent book written on the Microsoft interviewing process called 
 &amp;quot;Moving Mount Fuji.&amp;quot;&lt;p>I also read Chris Sells' &amp;quot;Interviewing at Microsoft&amp;quot; site: 
-	&lt;a href="/tagged/interview">http://127.0.0.1:8080/fun/msiview/&lt;/a>&lt;/p>
+	&lt;a href="/tagged/interview">https://csells.github.io/sb6/fun/msiview/&lt;/a>&lt;/p>
 Some more advice: I came an hour early and took an early-moring walk around the 
 campus. That helped me calm my mind down, and get into what it's like being 
 there. Also, it let me think about &amp;quot;why do I want to work at Microsoft?&amp;quot; which 
@@ -192,7 +194,7 @@ Good luck in your interviews!
 &lt;/blockquote></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/747</id>
+    <id>https://csells.github.io/sb6/747</id>
     <title>Brent Rector on .NET Rocks!</title>
     <updated>2003-08-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -202,7 +204,7 @@ Good luck in your interviews!
 &lt;a href="http://www.franklins.net/dotnetrocks1.asp#thisweek">Here&lt;/a>. Brent Rector is my long-time friend and co-author of ATL Internals. Don't miss his unique perspective on the world. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/748</id>
+    <id>https://csells.github.io/sb6/748</id>
     <title>Robert Scoble on Interviewing at Microsoft</title>
     <updated>2003-08-13T07:00:00.000Z</updated>
     <published>2003-08-13T07:00:00.000Z</published>
@@ -211,7 +213,7 @@ Good luck in your interviews!
 Robert Scoble (&lt;a href="http://radio.weblogs.com/0001011">the Scobleizer&lt;/a>) contributes his answer to the eternal question: &lt;a href="/12390">what's it like to interview at Microsoft&lt;/a>?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12529</id>
+    <id>https://csells.github.io/sb6/12529</id>
     <title>I'm no hero</title>
     <updated>2003-08-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -229,7 +231,7 @@ however. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/744</id>
+    <id>https://csells.github.io/sb6/744</id>
     <title>I'm no hero</title>
     <updated>2003-08-12T07:00:00.000Z</updated>
     <published>2003-08-12T07:00:00.000Z</published>
@@ -238,7 +240,7 @@ however. : )&lt;/p>
 &lt;a href="/12529">Here&lt;/a>. The one where I attempt to correct the interpretation of yesterday's post that puts me in the minority when it comes to having MS customers' best interests at heart. Nothing could be further from the truth.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/743</id>
+    <id>https://csells.github.io/sb6/743</id>
     <title>Making money from virtually nothing</title>
     <updated>2003-08-12T07:00:00.000Z</updated>
     <published>2003-08-12T07:00:00.000Z</published>
@@ -249,7 +251,7 @@ however. : )&lt;/p>
 It's the wild west all over again, with a black market economy and no regulation. I predict that the next J.P. Morgan will come out of this space before regulators step in.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/745</id>
+    <id>https://csells.github.io/sb6/745</id>
     <title>Updated FormatDesigner</title>
     <updated>2003-08-12T07:00:00.000Z</updated>
     <published>2003-08-12T07:00:00.000Z</published>
@@ -258,7 +260,7 @@ It's the wild west all over again, with a black market economy and no regulation
 &lt;a href="/12416">Here&lt;/a>. Atif Aziz sent along code to change the culture interactively. Thanks, Atif! I also took this opportunity to sort the Type field and resize the main window to be a bit larger for those hard to reach format strings.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12530</id>
+    <id>https://csells.github.io/sb6/12530</id>
     <title>I speak for the trees</title>
     <updated>2003-08-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -296,7 +298,7 @@ the Lorax.
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/742</id>
+    <id>https://csells.github.io/sb6/742</id>
     <title>I speak for the trees</title>
     <updated>2003-08-11T07:00:00.000Z</updated>
     <published>2003-08-11T07:00:00.000Z</published>
@@ -305,7 +307,7 @@ the Lorax.
 &lt;a href="/12530">Here&lt;/a>. Another one where I quote Dr. Seuss.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/741</id>
+    <id>https://csells.github.io/sb6/741</id>
     <title>Amazing Text-to-Speech</title>
     <updated>2003-08-09T07:00:00.000Z</updated>
     <published>2003-08-09T07:00:00.000Z</published>
@@ -316,7 +318,7 @@ the Lorax.
 [1] http://gutenberg.net/</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/739</id>
+    <id>https://csells.github.io/sb6/739</id>
     <title>Why is a registry file called a "hive"?</title>
     <updated>2003-08-08T07:00:00.000Z</updated>
     <published>2003-08-08T07:00:00.000Z</published>

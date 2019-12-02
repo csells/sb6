@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed81.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed81.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed80.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed82.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed81.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed80.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed82.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed81.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1279</id>
+    <id>https://csells.github.io/sb6/1279</id>
     <title>I'm on Channel9 Talking About Longhorn + Solitaire</title>
     <updated>2004-04-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;P>Robert Scoble and I walked around MSDN last week with a camera and here's the first snippet where &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=2744">I talk about my experiences building Solitaire for Longhorn&lt;/A>. Watching it now, it seems to me that I need to chill a bit and maybe take a breath now and again. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1275</id>
+    <id>https://csells.github.io/sb6/1275</id>
     <title>Karsten on The Fundamentals Pillar</title>
     <updated>2004-04-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 &lt;P>Also, if you're looking for more Fundamentals resources, check out the &lt;A href="http://msdn.microsoft.com/longhorn/understanding/pillars/fundamentals/">Fundamentals Pillar page on the Longhorn Developer Center&lt;/A>, which lists &lt;A href="http://msdn.microsoft.com/longhorn/pdcmaterials/pdctalksfundamentals/">the Fundamentals PDC Talks&lt;/A>, several fundamentals articles (including &lt;A href="http://msdn.microsoft.com/longhorn/understanding/pillars/fundamentals/default.aspx?pull=/library/en-us/dnwinforms/html/clickonce.asp">a nice overview of ClickOnce for Longhorn&lt;/A>) and &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/default.aspx?dg=microsoft.public.windows.developer.winfx.fundamentals&amp;amp;lang=en&amp;amp;cr=US">the WinFX Fundamentals newsgroup&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1273</id>
+    <id>https://csells.github.io/sb6/1273</id>
     <title>Joe Beda on All Kinds of Avalon</title>
     <updated>2004-04-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 &lt;P>I got all this from &lt;A href="http://channel9.msdn.com/rss.aspx?threadID=1656">the Channel9 Video RSS Feed&lt;/A>. You should, too.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1274</id>
+    <id>https://csells.github.io/sb6/1274</id>
     <title>I'm Loving the .NET Fx ARM</title>
     <updated>2004-04-10T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -84,7 +86,7 @@
 &lt;a href="/12499">Here&lt;/a>. &lt;P>The one where I learn a bunch of interesting stuff reading all of the annotations from &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321154894/chrissells">The .NET Framework Standard Library Annotated Reference&lt;/A> in one sitting.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12499</id>
+    <id>https://csells.github.io/sb6/12499</id>
     <title>I'm Loving the .NET Fx ARM</title>
     <updated>2004-04-10T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -144,7 +146,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1271</id>
+    <id>https://csells.github.io/sb6/1271</id>
     <title>Jason Olson on Threading in Avalon</title>
     <updated>2004-04-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;p>UPDATE: &lt;a href="http://www.interact-sw.co.uk/iangblog/2004/04/09/usinguicontext">Ian Griffiths points out that the code can be even sweeter&lt;/a>!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1272</id>
+    <id>https://csells.github.io/sb6/1272</id>
     <title>Longhorn Concept Video: Manufacturing</title>
     <updated>2004-04-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -176,7 +178,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>In general, if you haven't seen &lt;A href="http://msdn.microsoft.com/longhorn/productinfo/conceptvid/">the concept videos&lt;/A>, they're a fantastic way to see what the heck we're trying to enable with Longhorn.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1270</id>
+    <id>https://csells.github.io/sb6/1270</id>
     <title>"Avalon Is Not Going To Replace The Browser"</title>
     <updated>2004-04-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ Discuss&lt;/a>&lt;/p>
 &lt;P>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=948">In this short video&lt;/A>, Joe Beda, answers the question of whether Avalon is meant to replace HTML/the web (it's not) and what's Avalon's message of "best of the web/best of Windows" message is really about, e.g. ease of deployment for Avalon apps like web apps, accessing central services for data and functionality (using web services instead of client UI generation), etc.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1269</id>
+    <id>https://csells.github.io/sb6/1269</id>
     <title>Longhorn Blogs Wiki Page</title>
     <updated>2004-04-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -197,7 +199,7 @@ Discuss&lt;/a>&lt;/p>
 Channel9 has &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.LonghornWiki">a Longhorn Wiki&lt;/A> and on it, Adam Kinney has started &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.BlogsOnLonghorn">a list of Longhorn Blogs&lt;/A>. Want to add your own? Click on the Edit link on the top left.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1262</id>
+    <id>https://csells.github.io/sb6/1262</id>
     <title>Channel9 Ships</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <published>2004-04-06T07:00:00.000Z</published>
@@ -207,7 +209,7 @@ Channel9 has &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.Lon
 &lt;P>&lt;A href="http://channel9.msdn.com/rss.aspx">Subscribed&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1265</id>
+    <id>https://csells.github.io/sb6/1265</id>
     <title>MS Developer Tool Roadman: '05 and Beyond</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -217,7 +219,7 @@ Channel9 has &lt;A href="http://channel9.msdn.com/wiki/default.aspx/Channel9.Lon
 Wow. I've seen bits and drops of Whidbey (I'm limited to builds that work on Longhorn), so haven't seen the grand, overall vision of it. In the latest Microsoft Developer Tool Roadmap, they whole darn thing is laid out and &lt;A href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.aspx">the new stuff goes on forever&lt;/A>! Details are presented for IDE enhancements, language enhancements for VB, C#, C++ and J#, Windows Forms, ASP.NET, devices, ADO.NET, web services, Office, SQL Server, Analysis and Design (aka "Whitehorse") and even a bit about what's coming in Longhorn on the tools side. Holy New Stuff, Batman!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12500</id>
+    <id>https://csells.github.io/sb6/12500</id>
     <title>Filling In Missing Computer Science Knowledge</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -251,7 +253,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1266</id>
+    <id>https://csells.github.io/sb6/1266</id>
     <title>Looking For the .NET Source Code Crawling Guy</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -261,7 +263,7 @@ Discuss&lt;/a>&lt;/p>
 I gave a talk at the Twin Cities .NET User Group in Minneapolis in January and I met a guy there building a web sit to crawl .NET source code on the web. I didn't get his contact info and he didn't email me, so I don't know how to get a hold of him. If that's you, &lt;A href="mailto:csells@microsoft.com?subject=I'm the .NET Code Crawling Guy">please drop me a line&lt;/A>. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1263</id>
+    <id>https://csells.github.io/sb6/1263</id>
     <title>Laptop Lust</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <published>2004-04-06T07:00:00.000Z</published>
@@ -270,7 +272,7 @@ I gave a talk at the Twin Cities .NET User Group in Minneapolis in January and I
 I think these are &lt;A href="http://www.go-l.com/laptops/index.htm">the sexiest PC laptops&lt;/A> I've ever seen, but I can't decide if I want the &lt;A href="http://www.go-l.com/news/product_news/2004/index.htm#anchorcariolet">Cabriolet&lt;/A> or &lt;A href="http://www.go-l.com/news/product_news/2004/index.htm#anchornewyorker">the New Yorker&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1264</id>
+    <id>https://csells.github.io/sb6/1264</id>
     <title>Longhorn Sample: RSS Reader (Like, Out Loud)</title>
     <updated>2004-04-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

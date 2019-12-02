@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed99.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed99.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed98.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed100.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed99.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed98.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed100.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed99.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1019</id>
+    <id>https://csells.github.io/sb6/1019</id>
     <title>A Programmer's Introduction to Visual Studio .NET</title>
     <updated>2003-12-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vs2004_intro.asp">Here&lt;/a>. Sean "Early" Campbell &amp;amp; Scott "Adopter" Swigart lay out their top 10 new IDE features of Visual Studio .NET "Whidbey".</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1018</id>
+    <id>https://csells.github.io/sb6/1018</id>
     <title>3rd Party XAML Viewer #2!</title>
     <updated>2003-12-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 &lt;P>[From Don "XML" (&lt;A href="http://www.donxml.com">donxml.com&lt;/A>)]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1017</id>
+    <id>https://csells.github.io/sb6/1017</id>
     <title>3rd Party XAML Viewer #2!</title>
     <updated>2003-12-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -63,7 +65,7 @@
 We're not even to beta yet, but we already have not &lt;A href="http://www.xamlon.com/">one&lt;/A>, but &lt;A href="http://www.mobiform.com/xamlproducts.aspx">two&lt;/A> 3rd party XAML viewers targeting existing versions of the .NET Framework. Wow.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1016</id>
+    <id>https://csells.github.io/sb6/1016</id>
     <title>10 Better Questions for Don Box</title>
     <updated>2003-12-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ We're not even to beta yet, but we already have not &lt;A href="http://www.xamlo
 &lt;P>-Has family scrutiny caused you to stop dressing your pugs in clown suits before expressing your love for them?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1015</id>
+    <id>https://csells.github.io/sb6/1015</id>
     <title>Lending a Helping Hand</title>
     <updated>2003-12-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -93,7 +95,7 @@ We're not even to beta yet, but we already have not &lt;A href="http://www.xamlo
 &lt;a href="/12511">Here&lt;/a>. Normally I wouldn't pass along something like this, but this is from my uncle and therefore genuine. If you can &lt;a href="/12511">lend a hand to his brother&lt;/A> who's financially destitute after a liver and kidney transplant, I'd appreciate it. Even prayers would help. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1014</id>
+    <id>https://csells.github.io/sb6/1014</id>
     <title>Salon.com on Longhorn and Blogging</title>
     <updated>2003-12-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -103,7 +105,7 @@ We're not even to beta yet, but we already have not &lt;A href="http://www.xamlo
 Scott Rosenberg appreciates &lt;A href="http://www.salon.com/tech/col/rose/2003/12/22/longhorn/?ref=null">how important blogs are&lt;/A> when it comes to exposing Microsoft inards as Longhorn is developed. Except for the fact that Scoble's not a programmer and I'm not an architect, he does a pretty good job.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12511</id>
+    <id>https://csells.github.io/sb6/12511</id>
     <title>Lending a Helping Hand</title>
     <updated>2003-12-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -171,7 +173,7 @@ Thank you very much and have a Merry Christmas and a Happy New Year.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1012</id>
+    <id>https://csells.github.io/sb6/1012</id>
     <title>Chris Sells on Longhorn for the TC .NET User Group</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -181,7 +183,7 @@ Thank you very much and have a Merry Christmas and a Happy New Year.&lt;/p>
 &lt;P>I'm in Minnesota over the holidays, so I thought I'd drop in on &lt;A href="http://www.ilmservice.com/twincitiesnet/default.aspx">the Twin Cities .NET User Group for a short discussion of Longhorn&lt;/A>. Please keep in mind that this talk is purely shelfish on my part -- I learn best by telling the story.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1013</id>
+    <id>https://csells.github.io/sb6/1013</id>
     <title>MSDN Article Submission for Budding Authors</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -191,7 +193,7 @@ Thank you very much and have a Merry Christmas and a Happy New Year.&lt;/p>
 With the increasing number of folks pinging me about submitting Longhorn articles, I thought I'd point folks to the &lt;A href="http://msdn.microsoft.com/aboutmsdn/submit.asp">MSDN Article Submission Guidelines&lt;/A>, which describe how to establish a relationship with MSDN Developer Centers for article submission (&lt;A href="http://msdn.microsoft.com/msdnmag/submit.aspx">MSDN Magazine has a separate process&lt;/A> for now). Unless you've got a track record and can talk a Developer Center into a series right off the bat, you're likely going to be working gratis on the first few articles 'til you've established a reputation, but it's a nice way for new authors to see their name in lights. If you've got a Longhorn-specific article idea, you can also &lt;A href="mailto:csells@microsoft.com?subject=Longhorn Article Idea">send it directly to me&lt;/A> for a slightly quicker way to get it into my hands.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1010</id>
+    <id>https://csells.github.io/sb6/1010</id>
     <title>Announcing The Longhorn Developer Platform Survey</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -201,7 +203,7 @@ With the increasing number of folks pinging me about submitting Longhorn article
 &lt;a href="http://weblogs.asp.net/edkaim/posts/44762.aspx">Here&lt;/a>. Give Microsoft formal feedback on Longhorn so that we can act on it more effectively.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1008</id>
+    <id>https://csells.github.io/sb6/1008</id>
     <title>Mr. Blyth Goes To Town (Redmond, specifically...)</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <published>2003-12-22T08:00:00.000Z</published>
@@ -220,7 +222,7 @@ With the increasing number of folks pinging me about submitting Longhorn article
 &lt;P>Disappointingly, while &lt;a href="/12553">the culture is very different from any other company I've ever encountered&lt;/A>, Microsoft is mostly normal (mostly... : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1007</id>
+    <id>https://csells.github.io/sb6/1007</id>
     <title>Microsoft "Longhorn" Help Highlights</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -230,7 +232,7 @@ With the increasing number of folks pinging me about submitting Longhorn article
 &lt;a href="http://www.winwriters.com/articles/longhorn/index.html">Here&lt;/a>. Matthew Ellison, from WinWriters.com, discusses his highlights of the new help system in Longhorn.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1011</id>
+    <id>https://csells.github.io/sb6/1011</id>
     <title>Mary Jo Interviews Don Box</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -240,7 +242,7 @@ With the increasing number of folks pinging me about submitting Longhorn article
 &lt;a href="http://www.microsoft-watch.com/article2/0,4248,1418556,00.asp">Here&lt;/a>. &lt;P>Mary Jo Foley interviews Don Box on the origins of Indigo, the status of SOAP, the definition of SOA and Miguel de Icaza. Unfortunately, Mary Jo doesn't dig for any dirt and Don doesn't volunteer any, so it's a relatively boring interview. Luckily, it's short.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1009</id>
+    <id>https://csells.github.io/sb6/1009</id>
     <title>Scoble Makes My Life Easier</title>
     <updated>2003-12-22T08:00:00.000Z</updated>
     <published>2003-12-22T08:00:00.000Z</published>
@@ -249,7 +251,7 @@ With the increasing number of folks pinging me about submitting Longhorn article
 &lt;A href="http://radio.weblogs.com/0001011/">Robert Scoble&lt;/A> provided a major boost in my productivity today by adding titles to &lt;A href="http://radio.weblogs.com/0001011/rss.xml">his RSS feed&lt;/A>. Thank you, Robert.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1005</id>
+    <id>https://csells.github.io/sb6/1005</id>
     <title>Visual Studio Magazine: Get a Grip on Longhorn</title>
     <updated>2003-12-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

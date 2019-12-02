@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed12.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed12.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed11.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed13.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed12.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed11.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed13.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed12.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2250</id>
+    <id>https://csells.github.io/sb6/2250</id>
     <title>I love Microsoft's terrible automated voice attendant</title>
     <updated>2009-02-19T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -45,7 +47,7 @@
 &lt;P>She was so grateful and it made my day to solve her problem. I love our customers and I hope the terrible robot on the main MS line keeps sending 'em my way.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2249</id>
+    <id>https://csells.github.io/sb6/2249</id>
     <title>Mix09: Developing RESTful Services &amp; Clients w/ M</title>
     <updated>2009-02-18T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -58,7 +60,7 @@
 &lt;P>&lt;A href="http://2009.visitmix.com/Registration/">Come one, come all!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2247</id>
+    <id>https://csells.github.io/sb6/2247</id>
     <title>More from Stephen Modeling an Application in Oslo</title>
     <updated>2009-02-16T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -68,7 +70,7 @@
 Stephen has three more installments in his series on modeling an application in Oslo: &lt;A href="http://www.stephenforte.net/PermaLink,guid,3d84984e-4d4e-4bb8-81c6-c11abe3c3cf1.aspx">Discovery&lt;/A>, &lt;A href="http://www.stephenforte.net/PermaLink,guid,8f695719-fa10-43b3-82aa-e2312b5a9c46.aspx">Domain Entities and Refactoring&lt;/A> and &lt;a href="http://www.stephenforte.net/PermaLink,guid,d3983e8f-9cb0-468b-a9c6-c5c45fa6d86d.aspx">Transforming MGraph to TSQL&lt;/a>. It's fascinating to watch him use the platform starting from scratch. Recommended!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2248</id>
+    <id>https://csells.github.io/sb6/2248</id>
     <title>Martin Fowler on DSL Migration</title>
     <updated>2009-02-16T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -79,7 +81,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>While Oslo has no direct support for the incremental migration strategy to migrate DSL documents forward, we absolutely provide the tools for building it yourself. We do have very nice support for model-based migration, which keeps a parser around for each version of the DSL and produces the same underlying semantic model (which we call MGraph).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2245</id>
+    <id>https://csells.github.io/sb6/2245</id>
     <title>Welcome to the January 2009 "Oslo" SDK!</title>
     <updated>2009-02-02T08:00:00.000Z</updated>
     <category term="osloeditorial" label="Oslo"/>
@@ -100,7 +102,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 10pt">&lt;FONT face=Calibri>XXOO, Chris Sells &amp;amp; Kent Sharkey&lt;/FONT>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2246</id>
+    <id>https://csells.github.io/sb6/2246</id>
     <title>Stephen Forte: Oslo Confessions of a .NET Programm</title>
     <updated>2009-02-02T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -113,7 +115,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>Worth watching.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2244</id>
+    <id>https://csells.github.io/sb6/2244</id>
     <title>Bill Gibson on Domain Modeling</title>
     <updated>2009-01-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -123,7 +125,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>&lt;A href="http://blogs.msdn.com/billgibson/">Bill Gibson&lt;/A> is an architect on the Oslo team and is in charge of our &lt;A href="http://msdn.microsoft.com/en-us/library/dd129638.aspx">M coding conventions&lt;/A> and &lt;A href="http://msdn.microsoft.com/en-us/library/dd326765.aspx">modeling patterns&lt;/A> documents. He's started blogging recently and has a nice post about &lt;A href="http://blogs.msdn.com/billgibson/archive/2009/01/27/domain-modeling.aspx">domain modeling in Oslo&lt;/A>. He's a good guy to hit up with questions about how to model various constructs in M or just modeling questions in general. He's been doing this modeling thing &lt;EM>forever&lt;/EM>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2243</id>
+    <id>https://csells.github.io/sb6/2243</id>
     <title>Agilitrain: Model Driven Development with Oslo</title>
     <updated>2009-01-27T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -137,7 +139,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>I'm a huge &lt;A href="https://agilitrain.com/Workshop/Info/Model_Driven_Development_with_Oslo">Shawn Wildermuth&lt;/A> fan (Shawn's the author of this course and the instructor). Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2242</id>
+    <id>https://csells.github.io/sb6/2242</id>
     <title>All Technology Has Downsides</title>
     <updated>2009-01-25T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -158,7 +160,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>And how do we reduce the impact of the downsides of a new technology? By knowing that they're there, which is why &lt;A href="http://www.lhotka.net/weblog/DSLsNdashFunCoolButMaybeABadIdea.aspx">Rocky's commentary&lt;/A> is so useful. Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2241</id>
+    <id>https://csells.github.io/sb6/2241</id>
     <title>ExtractM "Oslo" Sample</title>
     <updated>2009-01-20T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -168,7 +170,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;a href="http://download.microsoft.com/download/7/7/6/7760B8FD-5CBC-4AE7-A3EF-2A61D753332F/ExtractM.msi">ExtractM is a sample command-line tool for extracting M source code from compiled M images&lt;/a> by Shannon Koh, a developer on the "Oslo" team. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2240</id>
+    <id>https://csells.github.io/sb6/2240</id>
     <title>There once was a man from Duluth</title>
     <updated>2009-01-18T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -179,7 +181,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>I&amp;nbsp;swam a mile when&amp;nbsp;I was 17 and again last summer, but never non-stop before.&amp;nbsp;I know it doesn't compare to real swimmers (it took me 45 minutes), but I've been swimming for less than a year. Plus i found two meaningful rhymes for "Duluth."&amp;nbsp;I rock. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2239</id>
+    <id>https://csells.github.io/sb6/2239</id>
     <title>Dan Vanderboom: Why Oslo Is Important</title>
     <updated>2009-01-18T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -189,7 +191,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;A href="http://dvanderboom.wordpress.com/2009/01/17/why-oslo-is-important/">I couldn't have said it better myself.&lt;/A> Very much worth the read. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2238</id>
+    <id>https://csells.github.io/sb6/2238</id>
     <title>SE Radio: Oslo with Don and Doug</title>
     <updated>2009-01-16T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -202,7 +204,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2237</id>
+    <id>https://csells.github.io/sb6/2237</id>
     <title>DSL DevCon Pre-registration</title>
     <updated>2009-01-15T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -214,7 +216,7 @@ Stephen has three more installments in his series on modeling an application in 
 &lt;P>&lt;a href="/public/conference/">Tell a friend!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2236</id>
+    <id>https://csells.github.io/sb6/2236</id>
     <title>MGraph: Taste Great, Less Filling</title>
     <updated>2009-01-13T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>

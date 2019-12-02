@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/feed.atom</id>
+  <id>https://csells.github.io/sb6/feed.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed2.atom"/>
-  <link rel="self" href="http://localhost:8080/feed.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed2.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/feed.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -29,22 +29,24 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/fun-with-curl-and-dart</id>
+    <id>https://csells.github.io/sb6/fun-with-curl-and-dart</id>
     <title>Fun with Curl and Dart</title>
     <updated>2019-08-04T07:00:00.000Z</updated>
-    <link rel="enclosure" type="image/png" href="http://127.0.0.1:8080/public/post-images/2019-08-04-curl-dart-fun/curl-logo.png"/>
+    <link rel="enclosure" type="image/png" href="https://csells.github.io/sb6/public/post-images/2019-08-04-curl-dart-fun/curl-logo.png"/>
     <published>2019-08-04T07:00:00.000Z</published>
     <summary>If you're a Dart programmer, the curl command doesn't really help you. Oh, it can tease you with of its wonderful functionality, but you still have to take anything you can do with curl and manually translate it into Dart code. Until now. Updating curl.trillworks.com for Dart For almost 5 years now, Nick Carneiro has maintained a wonderful site for converting curl commands into network code for your favorite language: curl.trillworks.com. I guess his first most favorate language must be Python, since that's...</summary>
-    <content type="html">&lt;h1>Fun with Curl and Dart&lt;/h1>&lt;img src="http://127.0.0.1:8080/public/post-images/2019-08-04-curl-dart-fun/curl-logo.png" class="main-blog-image" style="width: 250px" />
+    <content type="html">&lt;h1>Fun with Curl and Dart&lt;/h1>&lt;img src="https://csells.github.io/sb6/public/post-images/2019-08-04-curl-dart-fun/curl-logo.png" class="main-blog-image" style="width: 250px" />
 &lt;p>If you're a Dart programmer, &lt;a href="https://curl.haxx.se/docs/manpage.html">the curl command&lt;/a> doesn't really help you. Oh, it can tease you with of its wonderful functionality, but you still have to take anything you can do with curl and manually translate it into Dart code.&lt;/p>
 &lt;p>Until now.&lt;/p>
 &lt;h2>Updating curl.trillworks.com for Dart&lt;/h2>
-&lt;p>For almost 5 years now, &lt;a href="https://github.com/NickCarneiro">Nick Carneiro&lt;/a> has maintained a wonderful site for converting curl commands into network code for your favorite language: curl.trillworks.com.&lt;/p>&lt;img src="http://127.0.0.1:8080/public/post-images/2019-08-04-curl-dart-fun/curl.trillworks.com.png" />
+&lt;p>For almost 5 years now, &lt;a href="https://github.com/NickCarneiro">Nick Carneiro&lt;/a> has maintained a wonderful site for converting curl commands into network code for your favorite language: curl.trillworks.com.&lt;/p>&lt;img src="https://csells.github.io/sb6/public/post-images/2019-08-04-curl-dart-fun/curl.trillworks.com.png" />
 &lt;p>I guess his first most favorate language must be Python, since that's the default, but since last week, there's been a new language listed: Dart. In addition to providing this site, Nick did one other thing: he exposed the underlying tech as an OSS repo on GitHub: &lt;a href="https://github.com/NickCarneiro/curlconverter">curlconverter&lt;/a>. And that repo is a wonder to behold, because it was factored in such a way that I could add Dart generation support for Dart in a weekend. Truly an example for other multi-language tools to follow.&lt;/p>
 &lt;h2>Chrome DevTools: Network&lt;/h2>
-&lt;p>The reason you care about turning curl into Dart is because the Chrome DevTools turn the curl command format into a universal capture format for requests in Chrome. That means that you can go to your favorite web site, dig around on &lt;a href="https://developers.google.com/web/tools/chrome-devtools/network/">the Network tab of the Chrome DevTools&lt;/a>, right-click on the bit that you like and pull it out as a curl command.&lt;/p>&lt;img src='http://127.0.0.1:8080/public/post-images/2019-08-04-curl-dart-fun/copy-as-curl.png' />
+&lt;p>The reason you care about turning curl into Dart is because the Chrome DevTools turn the curl command format into a universal capture format for requests in Chrome. That means that you can go to your favorite web site, dig around on &lt;a href="https://developers.google.com/web/tools/chrome-devtools/network/">the Network tab of the Chrome DevTools&lt;/a>, right-click on the bit that you like and pull it out as a curl command.&lt;/p>&lt;img src='https://csells.github.io/sb6/public/post-images/2019-08-04-curl-dart-fun/copy-as-curl.png' />
 &lt;p>When you do, you'll end up with something like this:&lt;/p>
 &lt;pre>&lt;code class="language-shell">curl "https://www.fantasynamegen.com/barbarian/short/" -H "Upgrade-Insecure-Requests: 1" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" -H "Referer: https://www.fantasynamegen.com/" --compressed
 &lt;/code>&lt;/pre>
@@ -76,7 +78,7 @@ dependencies:
 &lt;pre>&lt;code class="language-shell">$ pub get
 $ dart fanname.dart
 &lt;/code>&lt;/pre>
-&lt;p>The call to &lt;code>pub get&lt;/code> pulls down the dependencies and the call to dart runs your program. Of course, this assumes that you've got &lt;a href="https://dart.dev/tools/sdk">the Dart SDK&lt;/a> installed and on the PATH. Assuming you do, you'll have output that looks like this:&lt;/p>&lt;img src='http://127.0.0.1:8080/public/post-images/2019-08-04-curl-dart-fun/curl-dart-out.png' />
+&lt;p>The call to &lt;code>pub get&lt;/code> pulls down the dependencies and the call to dart runs your program. Of course, this assumes that you've got &lt;a href="https://dart.dev/tools/sdk">the Dart SDK&lt;/a> installed and on the PATH. Assuming you do, you'll have output that looks like this:&lt;/p>&lt;img src='https://csells.github.io/sb6/public/post-images/2019-08-04-curl-dart-fun/curl-dart-out.png' />
 &lt;p>Actually, the output in this case goes on for a lot longer than that, so it isn't particularly helpful, but with a little filtering, it can be:&lt;/p>
 &lt;pre>&lt;code class="language-shell">$ dart fanname.dart | grep '&amp;lt;li&amp;gt;' | sed 's/&amp;lt;\/*li&amp;gt;//g'
 Vadryt
@@ -106,21 +108,21 @@ Ordhall
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/returning-to-d&amp;amp;d</id>
+    <id>https://csells.github.io/sb6/returning-to-d&amp;amp;d</id>
     <title>Returning to D&amp;amp;D</title>
     <updated>2017-12-29T08:00:00.000Z</updated>
-    <link rel="enclosure" type="image/png" href="http://127.0.0.1:8080/public/post-images/2017/DnD_Logo.png"/>
+    <link rel="enclosure" type="image/png" href="https://csells.github.io/sb6/public/post-images/2017/DnD_Logo.png"/>
     <published>2017-12-29T08:00:00.000Z</published>
     <summary>30 years ago, I paused a 5-year love of D&amp;amp;D to attend college. About six months ago, I picked it up again with my adult sons, who'd gathered for my birthday. We started with $20 on the D&amp;amp;D 5e Starter Set, which includes everything you need for a group to play: a subset of the 5th Edition D&amp;amp;D rules, a starter module, a set of pre-rolled characters and dice. My youngest son had learned all of the rules watching Critical Role, so I lead the interactive story telling as the DM, asking him for the sp...</summary>
-    <content type="html">&lt;h1>Returning to D&amp;amp;D&lt;/h1>&lt;img src="http://127.0.0.1:8080/public/post-images/2017/DnD_Logo.png" class="main-blog-image" style="width: 250px">
+    <content type="html">&lt;h1>Returning to D&amp;amp;D&lt;/h1>&lt;img src="https://csells.github.io/sb6/public/post-images/2017/DnD_Logo.png" class="main-blog-image" style="width: 250px">
 &lt;p>30 years ago, I paused a 5-year love of D&amp;amp;D to attend college. About six months ago, I picked it up again with my adult sons, who'd gathered for my birthday. We started with $20 on &lt;a href="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_starterset">the D&amp;amp;D 5e Starter Set&lt;/a>, which includes everything you need for a group to play: a subset of the 5th Edition D&amp;amp;D rules, a starter module, a set of pre-rolled characters and dice. My youngest son had learned all of the rules watching &lt;a href="https://geekandsundry.com/shows/critical-role/">Critical Role&lt;/a>, so I lead the interactive story telling as the DM, asking him for the specific mechanics as needed.&lt;/p>
 &lt;h2>Paper &amp;amp; Pencil&lt;/h2>
 &lt;p>We had a blast. I can't tell you how many hours of joy we got for $20 (although of course that lead to much more money spent shopping for the perfect dice, buying the full set of 5e rules, spell chards, etc.). However, we ran into two classes of problems with the paper &amp;amp; pencil play: 1) it only really works if you're all together in the same room (my sons are normally spread between three cities) and 2) some logistical issues like progressive map reveal (aka "fog of war") and managing encounters (i.e. initiative, HP, AC, attacks, damage, etc.&lt;/p>
 &lt;h2>Remote Players&lt;/h2>
-&lt;p>The first issue we easily solved with Google Hangouts, which we tried both at the local Google office in a conference room with a dedicated video conferencing system (an option I realize isn't available to everyone) and in my home office with a dedicated video conferencing computer, which I think is available to most anyone:&lt;/p>&lt;img src="http://127.0.0.1:8080/public/post-images/2017/home-dnd-setup.png" />
+&lt;p>The first issue we easily solved with Google Hangouts, which we tried both at the local Google office in a conference room with a dedicated video conferencing system (an option I realize isn't available to everyone) and in my home office with a dedicated video conferencing computer, which I think is available to most anyone:&lt;/p>&lt;img src="https://csells.github.io/sb6/public/post-images/2017/home-dnd-setup.png" />
 &lt;p>I happen to be using &lt;a href="https://enterprise.google.com/chrome/devices/#meetings">a dedicated device for Google Hangouts&lt;/a>, but we've also used a separate laptop that worked as well.&lt;/p>
 &lt;h2>RPG Logistics Software&lt;/h2>
-&lt;p>The logistics problems were the same as when I played D&amp;amp;D in the '80s, but I had less patience for them now that I know the power of software. So, I immediately started designing a solution in my head (&lt;a href="http://127.0.0.1:8080/backgammon-and-using-your-own-products">as I am wont to do&lt;/a>). However, as much as I enjoy writing software, I wanted to get back to playing faster than that! After some research, I found two main applications built to solve my RPG problems: Roll20 and Fantasy Grounds.&lt;/p>
+&lt;p>The logistics problems were the same as when I played D&amp;amp;D in the '80s, but I had less patience for them now that I know the power of software. So, I immediately started designing a solution in my head (&lt;a href="https://csells.github.io/sb6/backgammon-and-using-your-own-products">as I am wont to do&lt;/a>). However, as much as I enjoy writing software, I wanted to get back to playing faster than that! After some research, I found two main applications built to solve my RPG problems: Roll20 and Fantasy Grounds.&lt;/p>
 &lt;p>&lt;a href="https://www.fantasygrounds.com">Fantasy Grounds&lt;/a> has a lot going for it and I know many people love it. However, there weren't a lot of "getting started" videos that I found inspiring and it required the local installation of a 32-bit client app. That seemed a little backwards to me. Also, it cost money just to get started.&lt;/p>
 &lt;p>On the other hand, &lt;a href="http://roll20.net">Roll20&lt;/a> is web-based, has &lt;a href="https://www.youtube.com/results?search_query=roll20&amp;page=&amp;utm_source=opensearch">a ton of intro videos on YouTube&lt;/a> and is free (of course, they have paid options, too)! The videos made it look great, so my local son and I tried a little mock battle. When that worked, we got the party together to try the free module that comes with Roll20. We lost an hour or so getting used to things, which is to be expected, but I swear we spent another whole hour trying the built-in video conferencing that comes with Roll20. In theory it's great, as everyone shows up right on the game table, but in practice, it makes the whole app unstable as hell. I recommend turning it off completely and using a dedicated PC for video conferencing as we do.&lt;/p>
 &lt;p>Some of the Roll20 controls are clunky, e.g. having to switch between select and drag mode when interacting with maps, and there can be some data entry when it comes to picking spells and the like.&lt;/p>
@@ -132,14 +134,14 @@ Ordhall
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/the-mother-of-all-web-demos</id>
+    <id>https://csells.github.io/sb6/the-mother-of-all-web-demos</id>
     <title>The mother of all web demos</title>
     <updated>2017-11-12T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WebAssembly_Logo.png/440px-WebAssembly_Logo.png"/>
     <published>2017-11-12T08:00:00.000Z</published>
     <summary>WebAssembly explodes client-side programming Back in the olden days, you could use whatever programming language you wanted to write your client-side code: ASM, C, C++, BASIC, Java, C#, etc. Hell, every language had a client-side UI framework attached (often more than one ). Then the web hit and we used those same languages to generate HTML on the server-side. It was a polyglot world for client-side development right up until mobile made itself the #1 targeted format in the world (cue record scratching nois...</summary>
     <content type="html">&lt;h1>WebAssembly &lt;em>explodes&lt;/em> client-side programming&lt;/h1>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WebAssembly_Logo.png/440px-WebAssembly_Logo.png" class="main-blog-image" style="width: 250px">
-&lt;p>Back in the olden days, you could use whatever programming language you wanted to write your client-side code: ASM, C, C++, BASIC, Java, C#, etc. Hell, every language had a client-side UI framework attached (often &lt;a href="http://127.0.0.1:8080/wfbook">more&lt;/a> &lt;a href="http://127.0.0.1:8080/wpfbook">than&lt;/a> &lt;a href="https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide">one&lt;/a>). Then the web hit and we used those same languages to generate HTML on the server-side. It was a polyglot world for client-side development right up until mobile made itself the #1 targeted format in the world (cue &lt;a href="https://www.youtube.com/watch?v=sqgW-2orQQg">record scratching noise&lt;/a>).&lt;/p>
+&lt;p>Back in the olden days, you could use whatever programming language you wanted to write your client-side code: ASM, C, C++, BASIC, Java, C#, etc. Hell, every language had a client-side UI framework attached (often &lt;a href="https://csells.github.io/sb6/wfbook">more&lt;/a> &lt;a href="https://csells.github.io/sb6/wpfbook">than&lt;/a> &lt;a href="https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide">one&lt;/a>). Then the web hit and we used those same languages to generate HTML on the server-side. It was a polyglot world for client-side development right up until mobile made itself the #1 targeted format in the world (cue &lt;a href="https://www.youtube.com/watch?v=sqgW-2orQQg">record scratching noise&lt;/a>).&lt;/p>
 &lt;p>In a mobile/cloud world, the server is alive with programming languages, including Java, C#, Swift, JavaScript, Erlang, Clojure, Go and 100 others. But on the client-side, we're relegated to just a handful:&lt;/p>
 &lt;ul>
 &lt;li>Mobile Web: JavaScript (and its variants)&lt;/li>
@@ -147,21 +149,21 @@ Ordhall
 &lt;/ul>
 &lt;p>That's pretty much it. As a C# guy personally interested in building a web app (specifically a &lt;a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web App&lt;/a> that works great on both desktop and mobile devices), I was pretty frustrated. I could write any language I wanted so long as it was JavaScript.&lt;/p>
 &lt;p>If you want, you could point out the large number of languages that "transpile" to JavaScript, including some C# variants, but every one of those that I've tried has been a very leaky abstraction -- you have to know that they are just JavaScript translators and write your code accordingly. It's a very different experience than the multi-language support on the Java VM or .NET, where the VM provides a common environment for every language without any one language being "special" (although you could argue that Java shines through into languages like Clojure and C# into F#, but not nearly to the same degree). Really, in the browser, JavaScript is the only first-class language, along with HTML being the only UI framework.&lt;/p>
-&lt;p>So, with PWAs on my mind, HTML in my heart and JavaScript at my fingers, I started &lt;a href="http://127.0.0.1:8080/building-a-modern-mobile-first-app">looking into JavaScript frameworks&lt;/a>. Unfortunately, they all of them left me wanting something much more like those old Microsoft UI frameworks, but for the web.&lt;/p>
+&lt;p>So, with PWAs on my mind, HTML in my heart and JavaScript at my fingers, I started &lt;a href="https://csells.github.io/sb6/building-a-modern-mobile-first-app">looking into JavaScript frameworks&lt;/a>. Unfortunately, they all of them left me wanting something much more like those old Microsoft UI frameworks, but for the web.&lt;/p>
 &lt;p>And then came Steve.&lt;/p>
 &lt;h1>The mother of all web demos&lt;/h1>
 &lt;p>In June of 2017, Steve Sanderson gave a talk entitled &lt;a href="https://www.youtube.com/watch?v=MiLAE6HMr10">Web Apps can’t really do &lt;em>that&lt;/em>, can they?&lt;/a> in which he demonstrated the following:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/chrisdunelm/DotNetAnywhere">DotNetAnywhere&lt;/a> runtime compiled to &lt;a href="http://webassembly.org/">WebAssembly&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://127.0.0.1:8080/public/post-images/2017/steve1.png">.NET Hello, World run via WebAssembly&lt;/a> in DotNetAnywhere&lt;/li>
+&lt;li>&lt;a href="https://csells.github.io/sb6/public/post-images/2017/steve1.png">.NET Hello, World run via WebAssembly&lt;/a> in DotNetAnywhere&lt;/li>
 &lt;li>&lt;a href="https://github.com/SteveSanderson/Blazor">Blazor&lt;/a>, an experimental client-side framework for building &lt;a href="https://en.wikipedia.org/wiki/Single-page_application">Single Page Apps&lt;/a> in .NET&lt;/li>
-&lt;li>ASP.NET &lt;a href="http://127.0.0.1:8080/public/post-images/2017/steve2.png">Razor template expansion&lt;/a> (including embedded C#) on the client-side&lt;/li>
+&lt;li>ASP.NET &lt;a href="https://csells.github.io/sb6/public/post-images/2017/steve2.png">Razor template expansion&lt;/a> (including embedded C#) on the client-side&lt;/li>
 &lt;li>Hot-loading (a code change recompiles the app via in-memory, server-side Roslyn compiler and reloads the app on the client-side)&lt;/li>
 &lt;li>Dynamically loaded polyfill for browsers that don't support WebAssembly, i.e. IE&lt;/li>
 &lt;li>&lt;a href="https://twitter.com/davidfowl/status/891125650286755840">Debugging on the client-side in C#&lt;/a> (developed in a hackathon after Steve's talk)&lt;/li>
 &lt;li>&lt;a href="https://github.com/SteveSanderson/Blazor/blob/master/samples/ClientServerApp/ClientServerApp.Shared/WeatherForecast.cs">Shared C# classes between the client-side and server-side (aka "reified classes")&lt;/a>, serialized via JSON and passed around via REST (not mentioned in Steve's talk, but available in his sample code)&lt;/li>
 &lt;li>Classic Todo List app implemented from scratch in 5 minutes flat, with a size of only 326K:&lt;/li>
-&lt;/ul>&lt;img src="http://127.0.0.1:8080/public/post-images/2017/steve3.png">
+&lt;/ul>&lt;img src="https://csells.github.io/sb6/public/post-images/2017/steve3.png">
 &lt;p>This talk blew my mind. This was the browser-based full stack for .NET that I hadn't even realized that I'd wanted. Steve's demo made me realize that not only could Microsoft create an amazing end-to-end experience for .NET developers that wanted their code to fit into the modern web, but they could do it in a way that worked across all form factors and all platforms.&lt;/p>
 &lt;p>This demo wasn't the end. &lt;a href="http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/">Steve recently posted&lt;/a> an update talking about all of the contributors he's had since his demo, but also the move to the more full-featured Mono .NET implementation provided by Xamarin.&lt;/p>
 &lt;h1>What's coming&lt;/h1>
@@ -187,14 +189,14 @@ Ordhall
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/building-a-modern,-mobile-first-app</id>
+    <id>https://csells.github.io/sb6/building-a-modern,-mobile-first-app</id>
     <title>Building a modern, mobile-first app</title>
     <updated>2017-11-11T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://media.idownloadblog.com/wp-content/uploads/2014/12/IBM-Apple-apps-Retention-screenshot.jpg"/>
     <published>2017-11-11T08:00:00.000Z</published>
     <summary>A while ago, I started building a brand new client app. I wanted to use all of the modern techniques to make it a great app and to make sure it had maximum reach. For me, that meant a Progressive Web App that would work from desktop and mobile browsers. And so that meant JavaScript. That was OK; I'd been through the 5 stages of grief for JavaScript years ago but the real question is, which client-side framework do I choose? To answer that question, I spent a great deal of time with a LOT of them: Angular : ...</summary>
     <content type="html">&lt;h1>Building a modern, mobile-first app&lt;/h1>&lt;img src="http://media.idownloadblog.com/wp-content/uploads/2014/12/IBM-Apple-apps-Retention-screenshot.jpg" class="main-blog-image" style="width: 250px">
-&lt;p>A while ago, I started building &lt;a href="http://127.0.0.1:8080/backgammon-and-using-your-own-products">a brand new client app&lt;/a>. I wanted to use all of the modern techniques to make it a great app and to make sure it had maximum reach. For me, that meant a &lt;a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web App&lt;/a> that would work from desktop and mobile browsers. And so that meant JavaScript. That was OK; I'd been through &lt;a href="https://grief.com/the-five-stages-of-grief/">the 5 stages of grief&lt;/a> for JavaScript &lt;a href="http://127.0.0.1:8080/win8jsbook">years ago&lt;/a> but the real question is, which client-side framework do I choose? To answer that question, I spent a great deal of time with a LOT of them:&lt;/p>
+&lt;p>A while ago, I started building &lt;a href="https://csells.github.io/sb6/backgammon-and-using-your-own-products">a brand new client app&lt;/a>. I wanted to use all of the modern techniques to make it a great app and to make sure it had maximum reach. For me, that meant a &lt;a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web App&lt;/a> that would work from desktop and mobile browsers. And so that meant JavaScript. That was OK; I'd been through &lt;a href="https://grief.com/the-five-stages-of-grief/">the 5 stages of grief&lt;/a> for JavaScript &lt;a href="https://csells.github.io/sb6/win8jsbook">years ago&lt;/a> but the real question is, which client-side framework do I choose? To answer that question, I spent a great deal of time with a LOT of them:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://angular.io/">&lt;strong>Angular&lt;/strong>&lt;/a>: I was a huge AngularJS (v1) fan, but when the template for an Angular 2 project included as many files as for a J2EE project, I was out. Too much, too soon.&lt;/li>
 &lt;li>&lt;a href="https://www.polymer-project.org/">&lt;strong>Polymer&lt;/strong>&lt;/a>: great framework with great UI components and tools, but the bet on standardizing &lt;a href="https://caniuse.com/#feat=imports">HTML Imports&lt;/a> as the core reuse mechanism didn't pay off. Instead, Polymer 3 seems to be heading down a "put your HTML into a string" road, which I don't like. Plus, the code I wrote in Polymer felt wrong somehow, particularly when it came to state management. This would become a theme.&lt;/li>
@@ -209,26 +211,26 @@ Ordhall
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/viking-me</id>
+    <id>https://csells.github.io/sb6/viking-me</id>
     <title>Viking Me</title>
     <updated>2016-11-21T08:00:00.000Z</updated>
-    <link rel="enclosure" type="image/jpg" href="http://127.0.0.1:8080/public/post-images/2016/viking-me-irl.jpg"/>
+    <link rel="enclosure" type="image/jpg" href="https://csells.github.io/sb6/public/post-images/2016/viking-me-irl.jpg"/>
     <category term="fun" label="Fun"/>
     <published>2016-11-21T08:00:00.000Z</published>
     <summary>Today, I was asked about the story behind my viking avatar: The avatar is years and years old. Peter Stern, a graphic designer friend of mine, put together a set of avatars for me for something (I forget what) and the viking is the one that resonated with me the most because of my Norwegian heritage, my physical stature and my general demeanor (those of you who know me have never asked why I choose a Viking avatar : ). However, it was my mention of a real-life picture of me in a viking helmet that lead to t...</summary>
-    <content type="html">&lt;h1>Viking Me&lt;/h1>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/viking-me-irl.jpg" class="main-blog-image" style="width: 250px" />
+    <content type="html">&lt;h1>Viking Me&lt;/h1>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/viking-me-irl.jpg" class="main-blog-image" style="width: 250px" />
 &lt;p>Today, I was asked about the story behind my viking avatar: The avatar is years and years old. Peter Stern, a graphic designer friend of mine, put together a set of avatars for me for something (I forget what) and the viking is the one that resonated with me the most because of my Norwegian heritage, my physical stature and my general demeanor (those of you who know me have never asked why I choose a Viking avatar : ).&lt;/p>
 &lt;p>However, it was my mention of a real-life picture of me in a viking helmet that lead to the challenge -- post that picture! So here you go. Enjoy. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/backgammon-and-using-your-own-products</id>
+    <id>https://csells.github.io/sb6/backgammon-and-using-your-own-products</id>
     <title>Backgammon and Using Your Own Products</title>
     <updated>2016-11-05T07:00:00.000Z</updated>
-    <link rel="enclosure" type="image/png" href="http://127.0.0.1:8080/public/post-images/fibs-logo.png"/>
+    <link rel="enclosure" type="image/png" href="https://csells.github.io/sb6/public/post-images/fibs-logo.png"/>
     <published>2016-11-05T07:00:00.000Z</published>
     <summary>Have you ever used a product of any kind -- an app, a device, a plunger -- and thought to yourself "Do these people even use their own product?" As a Product Manager at Google and a long-time software product guy, I think this all the time. Sure, [Donald Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123), [Steve Krug](https://www.amazon.com/dp/0321344758/) and [countless others](https://www.amazon.com/s/field-keywords=product+design) have written well on the topic of product ...</summary>
-    <content type="html">&lt;h1>Backgammon and Using Your Own Products&lt;/h1>&lt;img src="http://127.0.0.1:8080/public/post-images/fibs-logo.png" class="main-blog-image" style="width: 400px" />
+    <content type="html">&lt;h1>Backgammon and Using Your Own Products&lt;/h1>&lt;img src="https://csells.github.io/sb6/public/post-images/fibs-logo.png" class="main-blog-image" style="width: 400px" />
 Have you ever used a product of any kind -- an app, a device, a plunger -- and thought to yourself "Do these people even use their own product?" As a Product Manager at Google and a long-time software product guy, I think this all the time. Sure, [Donald Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123), [Steve Krug](https://www.amazon.com/dp/0321344758/) and [countless others](https://www.amazon.com/s/field-keywords=product+design) have written well on the topic of product design, but that's not enough.
 &lt;p>&lt;strong>You actually have to use your own products to solve the same problems your target customers are trying to solve.&lt;/strong>&lt;/p>
 &lt;p>If you don't, you're much less likely to produce something that anyone will want to use.&lt;/p>
@@ -274,7 +276,7 @@ Have you ever used a product of any kind -- an app, a device, a plunger -- and t
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/google-cloud-storage-hierarchy-in-.net</id>
+    <id>https://csells.github.io/sb6/google-cloud-storage-hierarchy-in-.net</id>
     <title>Google Cloud Storage Hierarchy in .NET</title>
     <updated>2016-08-07T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="https://vienna-wv.com/images/tree.jpg"/>
@@ -308,7 +310,7 @@ Have you ever used a product of any kind -- an app, a device, a plunger -- and t
   foo/bar.txt
   quux/
 &lt;/code>&lt;/pre>
-&lt;p>However, if you surf to the &lt;a href="https://console.cloud.google.com/storage/browser">Storage Browser&lt;/a> to see the project with these three objects, you'll see something that looks like a normal file/folder browser:&lt;/p>&lt;img src="http://127.0.0.1:8080/public/post-images/gcs-bhelper-1.png" />
+&lt;p>However, if you surf to the &lt;a href="https://console.cloud.google.com/storage/browser">Storage Browser&lt;/a> to see the project with these three objects, you'll see something that looks like a normal file/folder browser:&lt;/p>&lt;img src="https://csells.github.io/sb6/public/post-images/gcs-bhelper-1.png" />
 &lt;h2>Implicit and Explicit Folders&lt;/h2>
 &lt;p>The Storage Browser has interpreted one of the objects as a file and two of them as folders, one implicit and one explicit. The implicit object folder comes from the slash in "foo/bar.txt"; the slash is used as a delimiter that means "folder" as far as the Storage Browser is concerned.&lt;/p>
 &lt;p>The explicit folder comes from an object with a name that ends in a slash. You can create one by pressing the Create Folder button in the Storage Explorer or with the following lines of code:&lt;/p>
@@ -359,7 +361,7 @@ var folderObj = client.CreateFolder(bucketName, "baaz/");
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/breaking-into-the-industry</id>
+    <id>https://csells.github.io/sb6/breaking-into-the-industry</id>
     <title>Breaking Into the Industry</title>
     <updated>2016-07-29T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://1.bp.blogspot.com/_FV-iAD8SAbc/S6GV9-oiX1I/AAAAAAAAAw0/ZtQnw3cMkxM/S1600-R/oldcode.jpg"/>
@@ -402,7 +404,7 @@ var folderObj = client.CreateFolder(bucketName, "baaz/");
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/access-google-cloud-source-repositories-from-visual-studio</id>
+    <id>https://csells.github.io/sb6/access-google-cloud-source-repositories-from-visual-studio</id>
     <title>Access Google Cloud Source Repositories from Visual Studio</title>
     <updated>2016-07-02T07:00:00.000Z</updated>
     <published>2016-07-02T07:00:00.000Z</published>
@@ -419,19 +421,19 @@ var folderObj = client.CreateFolder(bucketName, "baaz/");
 &lt;p>Select the Source Code section and choose the repo that you’d like to access locally from the drop-down. Then, open the drop-down again and select "Clone repository".&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image03.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image03.png" alt="" />&lt;/p>
 &lt;ul>
 &lt;li>Change the preferred authentication method to "Manually generated credentials".&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image02.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image02.png" alt="" />&lt;/p>
 &lt;ul>
 &lt;li>Copy the URL starting with https://source.developers.google.com into your clipboard and save it for later. One easy way to do this is to use the Copy button to put the entire git clone command into your clipboard and then trim it to just the URL portion.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image01.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image01.png" alt="" />&lt;/p>
 &lt;ul>
 &lt;li>Click "Generate and store your Git credentials" (and not the OK button).&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image04.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image04.png" alt="" />&lt;/p>
 &lt;ul>
 &lt;li>From the browse window that pops up, gather the Git password (which goes along with the email you used to authenticate). You can ignore the instructions about putting a command into your .netrc file, since Visual Studio will ask you for your username/password pair directly.&lt;/li>
 &lt;/ul>
@@ -440,7 +442,7 @@ var folderObj = client.CreateFolder(bucketName, "baaz/");
 &lt;ul>
 &lt;li>To start, choose View | Team Explorer in Visual Studio.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image05.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image05.png" alt="" />&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>In the Local Git Repositories section, choose the Clone option and add the Git URL for your CSR repo, choose a local directory and press the Clone button.&lt;/p>
@@ -449,28 +451,28 @@ var folderObj = client.CreateFolder(bucketName, "baaz/");
 &lt;p>Visual Studio will prompt you for the username and password.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="http://127.0.0.1:8080/public/post-images/2016/csr-vs-image00.png" alt="" />&lt;/p>
+&lt;p>&lt;img src="https://csells.github.io/sb6/public/post-images/2016/csr-vs-image00.png" alt="" />&lt;/p>
 &lt;p>The username is the email address you used to generate the Git password previously. The password is the one you generated when you asked for manually generated credentials.&lt;/p>
 &lt;p>At this point, you can edit your files into Visual Studio normally and use the Team Explorer to see the files that have changed, look at diffs, commit the changes, etc.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/solitaire-redux</id>
+    <id>https://csells.github.io/sb6/solitaire-redux</id>
     <title>Solitaire Redux</title>
     <updated>2016-05-06T07:00:00.000Z</updated>
-    <link rel="enclosure" type="image/png" href="http://127.0.0.1:8080/public/post-images/sol-redux.png"/>
+    <link rel="enclosure" type="image/png" href="https://csells.github.io/sb6/public/post-images/sol-redux.png"/>
     <category term="fun" label="Fun"/>
     <published>2016-05-06T07:00:00.000Z</published>
     <summary>I've done a bunch of stuff related to Solitaire on my blog for some reason. I guess I'm a fan, although mostly these days I focusing my listening in boring meetings with 2048 or Border Siege (the real reason I have an Android phone). Still, the interest must still be there, because when I saw 10 SOLITAIRE Facts You Probably Didn't Know scroll by on my Flipboard feed, I was curious. I didn't find anything that surprised me (I am a bit of a Solitaire buff after all), but I certainly was surprised to see this ...</summary>
-    <content type="html">&lt;h1>Solitaire Redux&lt;/h1>&lt;img src="http://127.0.0.1:8080/public/post-images/sol-redux.png" class="main-blog-image" />
-&lt;p>I've done &lt;a href="http://127.0.0.1:8080/search?q=Solitaire">a bunch of stuff related to Solitaire&lt;/a> on my blog for some reason. I guess I'm a fan, although mostly these days I focusing my listening in boring meetings with &lt;a href="http://gabrielecirulli.github.io/2048/">2048&lt;/a> or &lt;a href="https://play.google.com/store/apps/details?id=com.game.drisk">Border Siege&lt;/a> (the real reason I have an Android phone).&lt;/p>
-&lt;p>Still, the interest must still be there, because when I saw &lt;a href="https://www.youtube.com/watch?v=tUmeV8QV_Ak">10 SOLITAIRE Facts You Probably Didn't Know&lt;/a> scroll by on my Flipboard feed, I was curious. I didn't find anything that surprised me (I am a bit of a Solitaire buff after all), but I certainly was surprised to see this image come up when I got to Solitaire Fact #1:&lt;/p>&lt;img src="http://127.0.0.1:8080/public/post-images/sol-redux-matts-house.png" />
+    <content type="html">&lt;h1>Solitaire Redux&lt;/h1>&lt;img src="https://csells.github.io/sb6/public/post-images/sol-redux.png" class="main-blog-image" />
+&lt;p>I've done &lt;a href="https://csells.github.io/sb6/search?q=Solitaire">a bunch of stuff related to Solitaire&lt;/a> on my blog for some reason. I guess I'm a fan, although mostly these days I focusing my listening in boring meetings with &lt;a href="http://gabrielecirulli.github.io/2048/">2048&lt;/a> or &lt;a href="https://play.google.com/store/apps/details?id=com.game.drisk">Border Siege&lt;/a> (the real reason I have an Android phone).&lt;/p>
+&lt;p>Still, the interest must still be there, because when I saw &lt;a href="https://www.youtube.com/watch?v=tUmeV8QV_Ak">10 SOLITAIRE Facts You Probably Didn't Know&lt;/a> scroll by on my Flipboard feed, I was curious. I didn't find anything that surprised me (I am a bit of a Solitaire buff after all), but I certainly was surprised to see this image come up when I got to Solitaire Fact #1:&lt;/p>&lt;img src="https://csells.github.io/sb6/public/post-images/sol-redux-matts-house.png" />
 &lt;p>Apparently Solitaire is the #1 most popular app that runs on Windows and I was the source of that information. To be clear, this is something I heard when I worked at Microsoft and probably was happy to say (never let a good story be ruined by the facts), but I never seen stats to that effect. Caveat emptor, your mileage my vary, some assembly required and all that jazz.&lt;/p>
 &lt;p>BTW, for the curious, this is &lt;a href="https://en.wikipedia.org/wiki/Matt_Pietrek">Matt Pietrek&lt;/a>'s office from back in the day. The only computer in that shot that's mine is the laptop. Since it doesn't seem to be running Solitaire, I'm not sure why gameranx chose it, but I do remember liking that shirt...&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/moved-to-blot</id>
+    <id>https://csells.github.io/sb6/moved-to-blot</id>
     <title>Moved to Blot</title>
     <updated>2015-09-13T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="/public/post-images/blot-logo.png"/>
@@ -588,7 +590,7 @@ service than that?&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/choose-html-for-ui-development</id>
+    <id>https://csells.github.io/sb6/choose-html-for-ui-development</id>
     <title>Choose HTML for UI Development</title>
     <updated>2015-09-12T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
@@ -756,7 +758,7 @@ good reason not to.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/13741</id>
+    <id>https://csells.github.io/sb6/13741</id>
     <title>Blog Past and Future</title>
     <updated>2015-09-05T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="/public/post-images/13741-265.png"/>
@@ -767,7 +769,7 @@ good reason not to.&lt;/p>
 &lt;p>This blog started as a single static page in 1995 as a set of links to provide to my students while I was teaching at DevelopMentor. I would like to show you a screenshot of that initial page, but as it turns out, the site predates the internet archive, so I can only show you what it looked like in 1998:&lt;/p>  &lt;p>&lt;a href="/public/post-images/13741-264.png">&lt;img title="image" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="image" src="/public/post-images/13741-265.png" width="552" height="480" />&lt;/a>&lt;/p>  &lt;p>I guess I was doing some independent contracting at the time, because I was billing myself as a “Windows Object Architect,” whatever that is. BTW, I wouldn’t call that phone number if I were you – I don’t know who it will ring, but it won’t be me. The rest still works, however.&lt;/p>  &lt;h2>Posts&lt;/h2>  &lt;p>Over the years, I’ve done more or less blogging based on my current gig:&lt;/p>  &lt;p>&lt;a href="/public/post-images/13741-266.png">&lt;img title="image" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="image" src="/public/post-images/13741-267.png" width="640" height="385" />&lt;/a>&lt;/p>  &lt;p>This post will be my 2,650th, with the peak in 2003.&lt;/p>  &lt;h2>Tweets&lt;/h2>  &lt;p>Now, I’m far more active on Twitter:&lt;/p>  &lt;p>&lt;a href="/public/post-images/13741-268.png">&lt;img title="image" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="image" src="/public/post-images/13741-269.png" width="635" height="768" />&lt;/a>&lt;/p>  &lt;p>My first tweet was in October of 2009. I’d had an account for a while before that, but I just didn’t get it at first. Now I love it and have produced 3,053 tweets in 7 years. I find that while I like long-form writing a great deal, it’s much easier to find the time to turn a single thought into 140 characters then into 1400 words.&lt;/p>  &lt;h2>Blot&lt;/h2>  &lt;p>This is all coming up now because I’m busy moving to &lt;a href="http://blot.im">Blot&lt;/a>, which gives me a chance to take a look back at all of this content I’ve generated. I love Blot because I can dump all of my old content into Dropbox in HTML fragment format (along with some per-file metadata) and Blot will produce a reasonable static site for me. By moving to the file system from a blogging API (AtomPub in my case), I can remove the need to use blogging tools (like &lt;a href="http://windows.microsoft.com/en-us/windows-live/essentials">Live Writer&lt;/a>) and instead switch to any reasonable editor I want.&lt;/p>  &lt;p>Further, since Blot supports all kinds of formats, I can move to Markdown for new content but not have to try to translate all of my HTML content, which is a lifesaver.&lt;/p>  &lt;p>Unfortunately, the port to Blot is taking longer than I’d like for two reasons. The first is simply that &lt;a href="https://twitter.com/davidmerfieId">David Merfield&lt;/a> just didn’t anticipate some old guy dumping 20 years worth of blog content into his system, so there have been some problems. The good news is that David is &lt;em>extremely &lt;/em>responsive. Every system has issues, but the measure of quality is how long it takes to go from issue reported to issue fixed and in the case of Blot, that time is sometimes days but often hours, which includes adding features specifically for my use case that he just hasn’t needed before. Highly recommended.&lt;/p>  &lt;h2>The Dead Web&lt;/h2>  &lt;p>The other reason that this translation is taking some time is that I’ve got a few link formats in my content and relied on &lt;a href="http://www.iis.net/downloads/microsoft/url-rewrite">IIS URL rewriting&lt;/a> to keep them working. As I move to Blot, it’s easier to just fix the URLs as I extract the data from SQL Server (and I still use and love &lt;a href="/12425">RegexD&lt;/a> to figure out how to translate those URLs). As I do that, I’m testing for 404 links on my new site to make sure that I haven’t screwed anything up (I like &lt;a href="http://home.snafu.de/tilman/xenulink.html">Xenu's Link Sleuth&lt;/a> for that work).&lt;/p>  &lt;p>What I’m finding is that I’m fixing my own URLs but finding hundreds of links into the larger web that are broken. That’s just depressing. I work hard to keep my site running for anyone that wants the old data and I’ll be working with David on a URL forwarding scheme and 404 logging to keep external links working as I move to Blot. However, that doesn’t seem like an important goal for other folks.&lt;/p>  &lt;h2>Where Are We?&lt;/h2>  &lt;p>Still, I get to move to Blot and use whatever editor I want from whatever OS I want, so I’m a happy guy. Hopefully that happiness will translate into more blog posts, but if it doesn’t, I imagine I’ll still be &lt;a href="https://twitter.com/csells">spouting off on Twitter&lt;/a> at the very least. Everyone needs a place to spout off sometimes.&lt;/p>  </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/13740</id>
+    <id>https://csells.github.io/sb6/13740</id>
     <title>Handling Orientation Changes in Xamarin.Forms Apps</title>
     <updated>2015-01-04T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/png" href="/public/post-images/13740-259.png"/>
@@ -795,7 +797,7 @@ good reason not to.&lt;/p>
 &lt;p>Of course, I could use this technique to do something completely differently in each orientation, but I was hoping that the two layouts made sense to the user and didn’t even register as special, which Xamarin.Forms allowed me to do.&lt;/p>  </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/13739</id>
+    <id>https://csells.github.io/sb6/13739</id>
     <title>Launching the Native Map App from Xamarin.Forms</title>
     <updated>2015-01-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

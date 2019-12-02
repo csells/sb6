@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed21.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed21.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed20.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed22.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed21.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed20.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed22.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed21.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2117</id>
+    <id>https://csells.github.io/sb6/2117</id>
     <title>eWeek: Microsoft Moves Ahead w/ Software Modeling</title>
     <updated>2007-08-02T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -43,7 +45,7 @@
 &lt;P>BTW, as a matter of context, I'm not a big codegen fan (in spite of &lt;A href="http://msdn.microsoft.com/msdnmag/issues/01/12/GenProg/">my previous dealings&lt;/A> : ) and it would be a mistake to think of "modeling" as "fancy codegen," in spite of what this article implies.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2116</id>
+    <id>https://csells.github.io/sb6/2116</id>
     <title>Take the Silverlight Tour</title>
     <updated>2007-07-31T07:00:00.000Z</updated>
     <published>2007-07-31T07:00:00.000Z</published>
@@ -52,7 +54,7 @@
 Shawn Wildermuth, author of the Silverlight appendix in &lt;A href="http://www.amazon.com/Programming-WPF-None-Chris-Sells/dp/0596510373/">Programming WPF&lt;/A>, has put together &lt;A href="http://www.silverlight-tour.com/st/">a comprehensive 3-day shortcourse on Silverlight&lt;/A> and is taking it on road to Atlanta, Boston, Chicago, San Fran, Dallas, Seattle and DC. &lt;A href="http://www.silverlight-tour.com/st/signup.aspx">Sign up today!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2115</id>
+    <id>https://csells.github.io/sb6/2115</id>
     <title>Another One Bites the Dust!</title>
     <updated>2007-07-21T07:00:00.000Z</updated>
     <published>2007-07-21T07:00:00.000Z</published>
@@ -61,7 +63,7 @@ Shawn Wildermuth, author of the Silverlight appendix in &lt;A href="http://www.a
 &lt;A href="http://www.hanselman.com/blog/BlueBadge.aspx">Welcome to Microsoft, Scott Hanselman&lt;/A>!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2114</id>
+    <id>https://csells.github.io/sb6/2114</id>
     <title>Programming WPF, 2e (RTM Edition) on Amazon!</title>
     <updated>2007-07-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -73,7 +75,7 @@ Shawn Wildermuth, author of the Silverlight appendix in &lt;A href="http://www.a
 &lt;P>P.S. I read the QC1 (Quality Check 1), all 859 pages of it, in two solid days this weekend. I found a bunch of nits, all of which will be fixed before you see it in August. Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2113</id>
+    <id>https://csells.github.io/sb6/2113</id>
     <title>Windows Home Server RTM Shipped!</title>
     <updated>2007-07-16T07:00:00.000Z</updated>
     <published>2007-07-16T07:00:00.000Z</published>
@@ -82,7 +84,7 @@ Shawn Wildermuth, author of the Silverlight appendix in &lt;A href="http://www.a
 I knew something was up when the Home Server team climbed onto a bus Friday afternoon outside of building 42. They were obviously celebrating something. This morning, I found out what it was -- &lt;A href="http://blogs.technet.com/homeserver/archive/2007/07/16/ship-it.aspx">Windows Home Service RTM shipped&lt;/A>! Congrats, guys! I can't wait for the RTM bits to be available internally so I can install it. I've got a machine all picked out. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2112</id>
+    <id>https://csells.github.io/sb6/2112</id>
     <title>Unpublished Microsoft Interviewing Tips</title>
     <updated>2007-07-14T07:00:00.000Z</updated>
     <published>2007-07-14T07:00:00.000Z</published>
@@ -100,7 +102,7 @@ I knew something was up when the Home Server team climbed onto a bus Friday afte
 &lt;P>Good luck!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2111</id>
+    <id>https://csells.github.io/sb6/2111</id>
     <title>Genghis moved to CodePlex</title>
     <updated>2007-06-17T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -110,7 +112,7 @@ I knew something was up when the Home Server team climbed onto a bus Friday afte
 &lt;A href="http://adoguy.com">Shawn Wildermuth&lt;/A> has moved &lt;A href="http://codeplex.com/genghis/">Genghis to CodePlex&lt;/A> because GotDotNet Workspaces is going away. I actually really like CodePlex, but not the state those pesky contractors left the Genghis bits in, so we'll be following up with another release in early July to bring sanity back. Thanks, Shawn!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2109</id>
+    <id>https://csells.github.io/sb6/2109</id>
     <title>The T-Mobile Wing rocks! 'til the battery dies...</title>
     <updated>2007-06-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -122,7 +124,7 @@ I knew something was up when the Home Server team climbed onto a bus Friday afte
 &lt;P>So it's back to my i-mate smartflip (hurray for data sync!). I was *so* loving that slamming keyboard...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2110</id>
+    <id>https://csells.github.io/sb6/2110</id>
     <title>Hands on the Microsoft Surface</title>
     <updated>2007-06-14T07:00:00.000Z</updated>
     <published>2007-06-14T07:00:00.000Z</published>
@@ -134,7 +136,7 @@ I knew something was up when the Home Server team climbed onto a bus Friday afte
 &lt;P>I can definitely see these things attracting a crowd at the zoo or the local phone store. It's a thing.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2108</id>
+    <id>https://csells.github.io/sb6/2108</id>
     <title>Big Screen + Keyboard for my Cell Love? Love it!</title>
     <updated>2007-06-07T07:00:00.000Z</updated>
     <published>2007-06-07T07:00:00.000Z</published>
@@ -143,7 +145,7 @@ I knew something was up when the Home Server team climbed onto a bus Friday afte
 I love the idea of &lt;A href="http://www.palm.com/us/products/mobilecompanion/">the new Palm Foleo&lt;/A>, i.e. my life fits on my cell phone in my pocket and my "laptop" is just a bigger display and full-sized keyboard. Of course, this presupposes the storage capacity to store my life on my cell phone (like I do currently on my laptop), which we're a ways from. Unfortunately, this means that the Foleo is likely ahead of its time and will therefore suffer, but it's another step down a good road (remember the "brick" computer that could plug into any keyboard/mouse?).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2107</id>
+    <id>https://csells.github.io/sb6/2107</id>
     <title>What's your programmer personality type?</title>
     <updated>2007-06-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -154,7 +156,7 @@ Your &lt;A href="http://www.doolwind.com/index.php?page=11">programmer personali
 &lt;P>&lt;B>You're a &lt;FONT size=5>D&lt;/FONT>oer.&lt;/B>&lt;BR>You are very quick at getting tasks done. You believe the outcome is the most important part of a task and the faster you can reach that outcome the better. After all, time is money.&lt;BR>&lt;BR>&lt;B>You like coding at a &lt;FONT size=5>H&lt;/FONT>igh level.&lt;/B>&lt;BR>The world is made up of objects and components, you should create your programs in the same way.&lt;BR>&lt;BR>&lt;B>You work best in a &lt;FONT size=5>S&lt;/FONT>olo situation.&lt;/B>&lt;BR>The best way to program is by yourself. There's no communication problems, you know every part of the code allowing you to write the best programs possible.&lt;BR>&lt;BR>&lt;B>You are a li&lt;FONT size=5>B&lt;/FONT>eral programmer.&lt;/B>&lt;BR>Programming is a complex task and you should use white space and comments as freely as possible to help simplify the task. We're not writing on paper anymore so we can take up as much room as we need.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2106</id>
+    <id>https://csells.github.io/sb6/2106</id>
     <title>LoadWithPartialName, I miss you...</title>
     <updated>2007-06-05T07:00:00.000Z</updated>
     <published>2007-06-05T07:00:00.000Z</published>
@@ -165,7 +167,7 @@ Your &lt;A href="http://www.doolwind.com/index.php?page=11">programmer personali
 &lt;P>Maybe in .NET 3.5, we can get a helper function that wraps the #pragmas for us... : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2105</id>
+    <id>https://csells.github.io/sb6/2105</id>
     <title>A really bad optimization</title>
     <updated>2007-06-04T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -178,7 +180,7 @@ Your &lt;A href="http://www.doolwind.com/index.php?page=11">programmer personali
 &lt;P>Sure. And what do they do with the matter at the original end? Do they leave it alive work another job, but only pay one set of taxes? I don't think so...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2104</id>
+    <id>https://csells.github.io/sb6/2104</id>
     <title>Microsoft Surface</title>
     <updated>2007-05-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -188,7 +190,7 @@ Your &lt;A href="http://www.doolwind.com/index.php?page=11">programmer personali
 I sent the boys to &lt;A href="http://www.microsoft.com/surface/">the Microsoft Surface web site&lt;/A> last night while I was in another room. I don't believe I've ever heard that many "wows" and "cools" and "I want its!" out of the two of them. And after getting my butt out of my chair, I have to agree -- I want one.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2103</id>
+    <id>https://csells.github.io/sb6/2103</id>
     <title>Why do we pick on journalism majors, so?</title>
     <updated>2007-05-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

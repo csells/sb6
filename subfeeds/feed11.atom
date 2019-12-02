@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed11.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed11.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed10.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed12.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed11.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed10.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed12.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed11.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2265</id>
+    <id>https://csells.github.io/sb6/2265</id>
     <title>DSL DevCon: More Attendees Than Ever</title>
     <updated>2009-03-30T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -45,7 +47,7 @@
 &lt;P>I so miss this conference. Why don't I do this more often?!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2264</id>
+    <id>https://csells.github.io/sb6/2264</id>
     <title>InfoQ: Oslo news and content</title>
     <updated>2009-03-26T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -55,7 +57,7 @@
 &lt;P>The nice folks over at InfoQ have been &lt;A href="http://www.infoq.com/oslo">building up some Oslo content and reporting on Oslo news&lt;/A>. Check it out!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2263</id>
+    <id>https://csells.github.io/sb6/2263</id>
     <title>Watch the Oslo Mix '09 Talk: Developing RESTful Services and Clients with "M"</title>
     <updated>2009-03-23T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -65,7 +67,7 @@
 &lt;a href="http://videos.visitmix.com/MIX09/T11F">Here&lt;/a>. Learn how Web developers can use "M", a new language for describing data, metadata and domain specific languages, to enhance RESTful services like HTTP, JSON, RSS/Atom, and more. Also see how "M" can be used on premise or in the cloud to achieve greater development productivity and to create more compelling customer experiences. Speakers: Douglas Purdy &amp;amp; Chris Sells</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2262</id>
+    <id>https://csells.github.io/sb6/2262</id>
     <title>Don’t Miss Doug and Chris Doing Their Mix ‘09 Talk Oslo-Style</title>
     <updated>2009-03-18T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -75,7 +77,7 @@
 &lt;a href="https://content.visitmix.com/2009/Sessions/">Here&lt;/a>. Doug Purdy and Chris Sells will be giving their Mix '09 talk on Friday, March 20th at 9am in San Polo 3501. Doug will be talking about RESTful services and clients using "M", the language of "Oslo". Chris will be typing furiously trying to keep up. Come one, come all! Plus, free hugs from Doug to anyone that mentions this post!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2261</id>
+    <id>https://csells.github.io/sb6/2261</id>
     <title>Why I Hate My iPhone</title>
     <updated>2009-03-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -105,7 +107,7 @@
 &lt;P>They will pry my iphone out of my cold dead hands.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2259</id>
+    <id>https://csells.github.io/sb6/2259</id>
     <title>Intro to Oslo in Dutch</title>
     <updated>2009-03-14T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -115,7 +117,7 @@
 &lt;P>My Dutch is a little rusty, but &lt;A href="http://www.inwit.nl/post/Oslo-talk-audio-recording-screencast-slide-deck.aspx">RJ's Intro to Oslo screencast&lt;/A> looks great to me. Good work, RJ.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2260</id>
+    <id>https://csells.github.io/sb6/2260</id>
     <title>How I learned to Stop Worrying and Love the Twitter</title>
     <updated>2009-03-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -135,7 +137,7 @@
 &lt;P>Also, I have to say that I really love the social aspect -- I'm working alone at my house a lot and it's nice to have the world listening to every fool thing that comes into my head. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2258</id>
+    <id>https://csells.github.io/sb6/2258</id>
     <title>Preview of Doug's "M" RESTful Services Talk at Mix</title>
     <updated>2009-03-12T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -145,7 +147,7 @@
 &lt;P>Scott Hanselman got a preview of the talk that Doug is giving at Mix this year on RESTful services using "M", took some screen shots and did &lt;A href="http://www.hanselman.com/blog/MixGettingMyHeadAroundOsloMAndMGrammar.aspx">a nice write-up&lt;/A>. Worth a quick look-over even if you're coming to the talk (which will be a hoot -- I'll be carrying Doug's bags on this one : ).&lt;/P>&lt;IMG src="http://www.hanselman.com/blog/content/binary/WindowsLiveWriter/GettingmyheadaroundOsloMandMGrammer_C5C9/7_thumb.png"></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2257</id>
+    <id>https://csells.github.io/sb6/2257</id>
     <title>BizTalk Application Deployment DSL</title>
     <updated>2009-03-12T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -155,7 +157,7 @@
 Yossi Dahan has posted &lt;A href="http://geekswithblogs.net/Connected/archive/2009/03/04/oslo-based-solution-for-deploying-biztalk-applications.aspx">a most excellent DSL for building BizTalk application deployment scripts&lt;/A>. Plus, he's created a most excellent &lt;a href="http://btsdf.codeplex.com/">project on codeplex for his bits&lt;/a>. Most excellent!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2256</id>
+    <id>https://csells.github.io/sb6/2256</id>
     <title>OsloTool: GUI for the command line Oslo tools</title>
     <updated>2009-03-06T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -167,7 +169,7 @@ Yossi Dahan has posted &lt;A href="http://geekswithblogs.net/Connected/archive/2
 &lt;P>I'd love to see this integrated into Intellipad, Bryan!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2255</id>
+    <id>https://csells.github.io/sb6/2255</id>
     <title>Did you register for the DSL DevCon and not hear back?</title>
     <updated>2009-03-05T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -177,7 +179,7 @@ Yossi Dahan has posted &lt;A href="http://geekswithblogs.net/Connected/archive/2
 &lt;P>Apparently even more people have registered for &lt;a href="/public/conference/">the DSL DevCon&lt;/A> than I thought. If you've sent a registration notice and having heard back from me, then you aren't registered. Please &lt;a href="/public/conference/#Sign_Up!">register again&lt;/A> or email me directly: &lt;A href="mailto:csells@microsoft.com">csells@microsoft.com&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2254</id>
+    <id>https://csells.github.io/sb6/2254</id>
     <title>Self-Modifying DSL from Savas</title>
     <updated>2009-03-05T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -187,7 +189,7 @@ Yossi Dahan has posted &lt;A href="http://geekswithblogs.net/Connected/archive/2
 Leave it to &lt;A href="http://savas.parastatidis.name/">Savas&lt;/A> to invent &lt;A href="http://savas.parastatidis.name/2009/03/05/056eb478-f9ce-4453-a9cf-21d370981c42.aspx">a self-modifying DSL in MGrammar&lt;/A>. You go, Savas! : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2253</id>
+    <id>https://csells.github.io/sb6/2253</id>
     <title>January 2009 "Oslo" SDK Refresh</title>
     <updated>2009-03-04T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -200,7 +202,7 @@ Leave it to &lt;A href="http://savas.parastatidis.name/">Savas&lt;/A> to invent 
 &lt;P>Oh, and 3-pane mode will be an official part of the product in future CTPs, so it will receive the same testing love as the rest of the project. We heard you!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2252</id>
+    <id>https://csells.github.io/sb6/2252</id>
     <title>DSL DevCon: The 13th Talk</title>
     <updated>2009-03-02T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -211,7 +213,7 @@ Leave it to &lt;A href="http://savas.parastatidis.name/">Savas&lt;/A> to invent 
 &lt;P>Also, seats are filling up FAST, faster than any of the other DevCons. Make sure to &lt;A HREF="/public/conference/#Sign_Up!">register now&lt;/A> if you're coming! And don't forget, it's free!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2251</id>
+    <id>https://csells.github.io/sb6/2251</id>
     <title>DSL DevCon Speakers and Sessions Announced!</title>
     <updated>2009-02-23T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>

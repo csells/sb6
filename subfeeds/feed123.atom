@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed123.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed123.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed122.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed124.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed123.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed122.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed124.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed123.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/686</id>
+    <id>https://csells.github.io/sb6/686</id>
     <title>Web Servers: IIS6 vs. Apache 1.3.23/2.0.4</title>
     <updated>2003-07-14T07:00:00.000Z</updated>
     <published>2003-07-14T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.veritest.com/clients/reports/microsoft/ms_competitive_webbench_performance.pdf">Here&lt;/a>. Veritest shows that Windows Server 2003/IIS6 creams Linux/Apache by up to 300% vs. Apache 1.3.23 and up to 58% vs. Apache 2.0.4.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/687</id>
+    <id>https://csells.github.io/sb6/687</id>
     <title>Notes on Neal Stephenson's USENIX Keynote</title>
     <updated>2003-07-14T07:00:00.000Z</updated>
     <published>2003-07-14T07:00:00.000Z</published>
@@ -58,7 +60,7 @@ This is *so* different from how I write, but it makes a really good story. : ) P
 This is how I like to write. I write up articles, post them various places, get feedback and then use those as draft material for the chapters in my books. It works really well, I think, both because it produces better material and because my hardcore audience doesn't have to write for the book publishing process for a lot of the material.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/688</id>
+    <id>https://csells.github.io/sb6/688</id>
     <title>Addison-Wesley Announces Five Leading-Edge Books</title>
     <updated>2003-07-14T07:00:00.000Z</updated>
     <published>2003-07-14T07:00:00.000Z</published>
@@ -69,7 +71,7 @@ This book is written to help experienced programmers who already possess a basic
 This book is written to help experienced programmers who already possess a basic understanding of Visual C# .NET and the .NET Framework to master the Windows Forms toolkit. Contents include discussion of the core elements of Windows Forms (with concise examples and graphic depictions of user interface features in action), as well as pitfalls to avoid and solutions to common problems. Windows Forms Programming in C# is the seventh book to publish in Addison-Wesley's Microsoft .NET Development Series. Chris Sells has been touring the U.S. as one of Microsoft's Software Legends. (Publishing August 2003)"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12538</id>
+    <id>https://csells.github.io/sb6/12538</id>
     <title>Alan Cooper's Has A Dream</title>
     <updated>2003-07-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -161,7 +163,7 @@ I'm done. Isn't that what we all want?&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12347</id>
+    <id>https://csells.github.io/sb6/12347</id>
     <title>Fly Daddy Al</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -174,7 +176,7 @@ Stolen on &lt;span class="created">7/13/2003&lt;/span> from Alan's USB hard driv
 computer&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/684</id>
+    <id>https://csells.github.io/sb6/684</id>
     <title>My First Flight Lesson</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <published>2003-07-13T07:00:00.000Z</published>
@@ -183,7 +185,7 @@ computer&lt;/i>&lt;/p></content>
 &lt;a href="/12539">Here&lt;/a>. The one where the Father of VB turns off the autopilot, giving me control of his airplane and causing me to nearly lose control of my bowels.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/682</id>
+    <id>https://csells.github.io/sb6/682</id>
     <title>Fly Daddy Al</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <published>2003-07-13T07:00:00.000Z</published>
@@ -192,7 +194,7 @@ computer&lt;/i>&lt;/p></content>
 &lt;a href="/12347">Here&lt;/a>. Ever wondered what Alan Cooper, the Father of VB, is like at home? Well, his son illuminates this mystery for us in his very own rap song. Not only fun, but very impressive for a 14-year old. I love computers.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12539</id>
+    <id>https://csells.github.io/sb6/12539</id>
     <title>My First 
 Flight Lesson</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
@@ -240,7 +242,7 @@ dropped some bricks when that happened...&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/679</id>
+    <id>https://csells.github.io/sb6/679</id>
     <title>.NET Games Development Forum</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -250,7 +252,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="http://www.windowsforms.com/Forums/ShowForum.aspx?tabIndex=1&amp;tabId=41&amp;ForumID=24">Here&lt;/a>. With DX9, I can see lots of games embracing .NET in the future. This is where it'll start.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/680</id>
+    <id>https://csells.github.io/sb6/680</id>
     <title>Where Are They Now? Kraig Brockschmidt</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <published>2003-07-13T07:00:00.000Z</published>
@@ -259,7 +261,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="http://www.clarityseminars-nw.com/trainers.htm">Here&lt;/a>. I heard that he gave all his money away and joined a commune. Now, it seems that the author of calc.exe and Inside OLE 2 is back.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/685</id>
+    <id>https://csells.github.io/sb6/685</id>
     <title>RSS vs. Necho</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <published>2003-07-13T07:00:00.000Z</published>
@@ -268,7 +270,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="http://webservices.xml.com/pub/a/ws/2003/07/08/salz.html">Here&lt;/a>. Rich Salz explains in a clear, calm manner the problems with RSS and what Necho/Echo/Pie brings to the table. Thanks, Rich!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/681</id>
+    <id>https://csells.github.io/sb6/681</id>
     <title>Top 10 XML Specifications Rejected by the W3C</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <published>2003-07-13T07:00:00.000Z</published>
@@ -277,7 +279,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="/12348">Here&lt;/a>. The top 10 list from the Applied XML Dev.Conf.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/683</id>
+    <id>https://csells.github.io/sb6/683</id>
     <title>Another Dev.Conf. Come and Gone</title>
     <updated>2003-07-13T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -287,7 +289,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="/conference">Here&lt;/a>. If you didn't get to come to the Applied XML Developer's Conference, you missed a fun show. The conference page (linked to this item) has the materials and a list of blogs that I know of that posted conference commentary.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/677</id>
+    <id>https://csells.github.io/sb6/677</id>
     <title>Applied XML Developer's Conference Trip Report</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <published>2003-07-11T07:00:00.000Z</published>
@@ -296,7 +298,7 @@ dropped some bricks when that happened...&lt;/p>
 &lt;a href="/12541">Here&lt;/a>. My notes from the Dev.Conf.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/678</id>
+    <id>https://csells.github.io/sb6/678</id>
     <title>The Killer App for Web Services</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <published>2003-07-11T07:00:00.000Z</published>

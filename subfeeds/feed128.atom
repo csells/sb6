@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed128.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed128.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed127.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed129.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed128.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed127.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed129.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed128.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12546</id>
+    <id>https://csells.github.io/sb6/12546</id>
     <title>End-To-End RSS + Comments</title>
     <updated>2003-06-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -62,7 +64,7 @@ Nick&lt;/a> will follow suit.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/629</id>
+    <id>https://csells.github.io/sb6/629</id>
     <title>End-To-End RSS + Comments</title>
     <updated>2003-06-18T07:00:00.000Z</updated>
     <published>2003-06-18T07:00:00.000Z</published>
@@ -71,7 +73,7 @@ Nick&lt;/a> will follow suit.&lt;/p>
 &lt;a href="/12546">Here&lt;/a>. The one where I release my RSS 2.0 feed, complete with end-to-end comment support.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/628</id>
+    <id>https://csells.github.io/sb6/628</id>
     <title>Hosting Windows Forms Designers</title>
     <updated>2003-06-18T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ Nick&lt;/a> will follow suit.&lt;/p>
 [mikedub.net/GalleySlave]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12417</id>
+    <id>https://csells.github.io/sb6/12417</id>
     <title>XmlSerializerPreCompiler</title>
     <updated>2003-06-18T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="http://www.cybral.com/images/XmlPrecompiler.gif"/>
@@ -107,7 +109,7 @@ Nick&lt;/a> will follow suit.&lt;/p>
 	&lt;img src="http://www.cybral.com/images/XmlPrecompiler.gif" width="552" height="343">&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/630</id>
+    <id>https://csells.github.io/sb6/630</id>
     <title>XmlSerializerPreCompiler</title>
     <updated>2003-06-18T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -119,7 +121,7 @@ Nick&lt;/a> will follow suit.&lt;/p>
 The XmlSerializerPreCompiler tools checks to see if a type can be serialized by the XmlSerializer class and if it can't, shows the compiler errors happening behind the scenes so that the type can be modified. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/627</id>
+    <id>https://csells.github.io/sb6/627</id>
     <title>Reminder: Win a Free Seat at the Applied XML Dev. Conference</title>
     <updated>2003-06-17T07:00:00.000Z</updated>
     <published>2003-06-17T07:00:00.000Z</published>
@@ -130,7 +132,7 @@ The XmlSerializerPreCompiler tools checks to see if a type can be serialized by 
 Even if you don't submit a contest entry, don't forget to reserve your spot at the conference! Seats are going fast and all three other DevCon's have sold out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/625</id>
+    <id>https://csells.github.io/sb6/625</id>
     <title>Filter Files With Unknown Extensions For XP</title>
     <updated>2003-06-16T07:00:00.000Z</updated>
     <published>2003-06-16T07:00:00.000Z</published>
@@ -139,7 +141,7 @@ Even if you don't submit a contest entry, don't forget to reserve your spot at t
 &lt;a href="/12418">Here&lt;/a>. The fact that Windows XP Find in Files only searches files with known file extensions drives me crazy because it skips, among other things, .cs  files. Every time I set up a new system, I have to re-figure out how to fix this. To facilitate that, I put together a .reg file that enable Find in Files to search all unknown file extensions as text files. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/624</id>
+    <id>https://csells.github.io/sb6/624</id>
     <title>(web) matrix reloaded</title>
     <updated>2003-06-16T07:00:00.000Z</updated>
     <published>2003-06-16T07:00:00.000Z</published>
@@ -148,7 +150,7 @@ Even if you don't submit a contest entry, don't forget to reserve your spot at t
 &lt;a href="http://www.asp.net/webmatrix/default.aspx">Here&lt;/a>. From Rick Childress (www25.brinkster.com/rchildress): Web Matrix 0.6 has been released.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/626</id>
+    <id>https://csells.github.io/sb6/626</id>
     <title>Releasing Nested Objects in Rotor</title>
     <updated>2003-06-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -158,7 +160,7 @@ Even if you don't submit a contest entry, don't forget to reserve your spot at t
 &lt;a href="/12547">Here&lt;/a>. ChrisT continues to make progress in the "Adding Ref-Counting to Rotor" project.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12547</id>
+    <id>https://csells.github.io/sb6/12547</id>
     <title>Releasing Nested Objects in Rotor</title>
     <updated>2003-06-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -227,7 +229,7 @@ Finalizing finalizer object 401&lt;/pre>&lt;p>In other words, all top-level and
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/622</id>
+    <id>https://csells.github.io/sb6/622</id>
     <title>Much Improved FxCop v1.21 Released</title>
     <updated>2003-06-15T07:00:00.000Z</updated>
     <published>2003-06-15T07:00:00.000Z</published>
@@ -236,7 +238,7 @@ Finalizing finalizer object 401&lt;/pre>&lt;p>In other words, all top-level and
 &lt;a href="http://www.gotdotnet.com/team/fxcop/">Here&lt;/a>. FxCop should be part of the build process for any .NET code that has a build process. Recommended!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/620</id>
+    <id>https://csells.github.io/sb6/620</id>
     <title>nprof - Open-source .NET profiler</title>
     <updated>2003-06-14T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -250,7 +252,7 @@ It comes with a basic VS.NET add-in that lets you profile from DevStudio. There 
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12418</id>
+    <id>https://csells.github.io/sb6/12418</id>
     <title>Filter Files With Unknown Extensions For XP</title>
     <updated>2003-06-13T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -266,7 +268,7 @@ It comes with a basic VS.NET add-in that lets you profile from DevStudio. There 
 	search all unknown file extensions as text files&lt;/a>. Enjoy.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/612</id>
+    <id>https://csells.github.io/sb6/612</id>
     <title>[open mouthed amazement]</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <published>2003-06-12T07:00:00.000Z</published>
@@ -277,7 +279,7 @@ It comes with a basic VS.NET add-in that lets you profile from DevStudio. There 
 [radio.weblogs.com/0001011]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/614</id>
+    <id>https://csells.github.io/sb6/614</id>
     <title>Win a Free Seat at the Applied XML Dev. Conference</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <published>2003-06-12T07:00:00.000Z</published>

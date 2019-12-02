@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed73.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed73.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed72.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed74.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed73.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed72.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed74.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed73.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1386</id>
+    <id>https://csells.github.io/sb6/1386</id>
     <title>The Magic of the DevCon: Picking the Topic</title>
     <updated>2004-06-05T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -44,7 +46,7 @@
 &lt;P>So, as much as I love Longhorn and Avalon specifically and see them at topics for future DevCons, the technology's not ready yet. Most of the real Avalon experts are MS employees and while there are some &lt;A href="http://www.longhornblogs.com/akinney/">notable&lt;/A> &lt;A href="http://www.interact-sw.co.uk/iangblog/">exceptions&lt;/A>, we're just not at a critical mass of folks &lt;EM>yet &lt;/EM>for a XAML DevCon.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1384</id>
+    <id>https://csells.github.io/sb6/1384</id>
     <title>I Knew I Had "Circus Freak" In My Blood!</title>
     <updated>2004-06-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -57,7 +59,7 @@
 &lt;P>All this and more in &lt;A href="http://www.shortnorth.com/CircusTown.html">an article from The Short North Gazette&lt;/A> in Columbus, Ohio.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1385</id>
+    <id>https://csells.github.io/sb6/1385</id>
     <title>Leaked Image of VB.net Context Menu</title>
     <updated>2004-06-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -68,7 +70,7 @@
 &lt;P>[&lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-06-05T03:12:13Z">via Don Box&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1383</id>
+    <id>https://csells.github.io/sb6/1383</id>
     <title>Call For Speakers: Applied XML Dev.Conf. 5</title>
     <updated>2004-06-04T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -81,7 +83,7 @@
 &lt;P>BTW, the conference itself is likely to be in Oregon during the 2nd or 3rd week of September, 2004, but we're still working the details out. One of the fun things that we're thinking about this year is to have the Dev.Conf. in &lt;A href="http://www.sunriver-resort.com/">Sunriver, Oregon&lt;/A>, a resort and spa town in central Oregon where sun is plentiful and rain is scarce. There are no major airports there, so we'd provide bus transportation from Portland, OR for anyone that wanted it. It'd be a 3.5 hour road trip.&amp;nbsp;&lt;A href="mailto:csells@microsoft.com?subject=My thoughts on having the Dev.Conf. in Sunriver, Oregon">What do folks think about that?&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1382</id>
+    <id>https://csells.github.io/sb6/1382</id>
     <title>This Is The Problem With Fame In The IT Industry</title>
     <updated>2004-06-03T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -91,7 +93,7 @@
 The problem with fame in the IT industry is that when someone dreams about me, &lt;A href="http://www25.brinkster.com/rchildress/postView.aspx?id=88">it's a dude&lt;/A>. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1381</id>
+    <id>https://csells.github.io/sb6/1381</id>
     <title>MyXaml Is Not A Microsoft XAML Clone</title>
     <updated>2004-06-02T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -103,7 +105,7 @@ The problem with fame in the IT industry is that when someone dreams about me, &
 &lt;P>On the other hand, there are two other projects that &lt;EM>&lt;STRONG>are&lt;/STRONG>&lt;/EM> aiming to clone/sub-set XAML/Avalon on .NET today: &lt;A href="http://www.xamlon.com/">Xamlon&lt;/A> and &lt;A href="http://www.mobiform.com/xamlproducts.aspx">Mobiform's XAML products&lt;/A>. I can't claim that either of these will actually help you transition to Longhorn when it comes along, but I know that &lt;A href="http://xamlblogs.com/paul/archive/2004/06/01/175.aspx">Xamlon's XAML samples work with minor tweaks on their parser and on the WinHEC build of Longhorn&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1380</id>
+    <id>https://csells.github.io/sb6/1380</id>
     <title>Finally, A Use For Orkut!</title>
     <updated>2004-06-01T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -113,7 +115,7 @@ The problem with fame in the IT industry is that when someone dreams about me, &
 &lt;a href="http://www.orkut.com/">Here&lt;/a>. So far, it's provided the information required for two of my Orkut friends to wish me a happy birthday. Other than that, I haven't found a use for the site, however...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1379</id>
+    <id>https://csells.github.io/sb6/1379</id>
     <title>Q: Why Can't I Unload a .NET Assembly? A:...</title>
     <updated>2004-05-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -124,7 +126,7 @@ The problem with fame in the IT industry is that when someone dreams about me, &
 &lt;P>Have you got opinions on this topic? &lt;A href="http://blogs.msdn.com/jasonz/archive/2004/05/31/145105.aspx">Make hay while the sun shines!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1378</id>
+    <id>https://csells.github.io/sb6/1378</id>
     <title>Replicator v0.1</title>
     <updated>2004-05-30T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -134,7 +136,7 @@ The problem with fame in the IT industry is that when someone dreams about me, &
 I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting.com/">one of these&lt;/A>, but that doesn't stop me from wanting one.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1377</id>
+    <id>https://csells.github.io/sb6/1377</id>
     <title>Turning Science Into Engineering</title>
     <updated>2004-05-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -144,7 +146,7 @@ I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting
 &lt;P>It's generally know that the thing we call software "engineering" is nothing like that. We just don't have anything like the rigor that real engineering disciplines do and we need them. I wonder if &lt;A href="http://blogs.msdn.com/bharry/archive/2004/05/26/142681.aspx">Brian's quest to understand the real software life cycle and codify them&lt;/A> constitutes another step down the road that the other engineering disciplines took to become predictable, schedule-able, reliable, budget-able and robust. I hope so.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1376</id>
+    <id>https://csells.github.io/sb6/1376</id>
     <title>You Can Actually Schedule Inch-Pebbles</title>
     <updated>2004-05-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -156,7 +158,7 @@ I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting
 &lt;P>At the time, we didn't have a name for the granularity that could be accurately scheduled and, since I haven't read &lt;A href="http://www.amazon.com/exec/obidos/ASIN/078214327X/">Mike's book&lt;/A>, I don't know how he defines the term "inch-pebble," but from now on, that's what I'm going to call it and if that's different from what Mike called it, well, then he'll just have to update his definition in his next edition. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1370</id>
+    <id>https://csells.github.io/sb6/1370</id>
     <title>On Threat Modeling</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -167,7 +169,7 @@ I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting
 &lt;P>[via &lt;A href="http://www.resolvecorp.com/default.aspx">Pierre Nallet&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1373</id>
+    <id>https://csells.github.io/sb6/1373</id>
     <title>Got Smart Client Development Questions?</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -177,7 +179,7 @@ I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting
 &lt;A href="http://msdn.microsoft.com/smartclient/">We've got answers.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1371</id>
+    <id>https://csells.github.io/sb6/1371</id>
     <title>Jury Duty</title>
     <updated>2004-05-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -187,7 +189,7 @@ I'm not sure what I would make if I had &lt;A href="http://www.dimensionprinting
 &lt;a href="/12492">Here&lt;/a>. The one where &lt;a href="/12492">I spend a day at jury duty&lt;/A> but don't actually get to serve on a jury (and realize that serving on a jury was pretty darn unlikely in the first place).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12492</id>
+    <id>https://csells.github.io/sb6/12492</id>
     <title>Jury 
 Duty</title>
     <updated>2004-05-28T07:00:00.000Z</updated>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed145.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed145.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed144.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed146.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed145.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed144.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed146.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed145.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/394</id>
+    <id>https://csells.github.io/sb6/394</id>
     <title>Thanks, Chris</title>
     <updated>2003-01-15T08:00:00.000Z</updated>
     <published>2003-01-15T08:00:00.000Z</published>
@@ -47,7 +49,7 @@ To WinDevelopers &amp; .NETters!
 I recommend the experience to anyone that wants to know professional technique and esoteric possibilities of .NET!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/393</id>
+    <id>https://csells.github.io/sb6/393</id>
     <title>nogoop ActiveX/COM Inspector 1.1.10 released</title>
     <updated>2003-01-13T08:00:00.000Z</updated>
     <published>2003-01-13T08:00:00.000Z</published>
@@ -56,7 +58,7 @@ I recommend the experience to anyone that wants to know professional technique a
 &lt;a href="http://www.nogoop.com">Here&lt;/a>. From Francis Upton: The ActiveX/COM Inspector allows you to inspect and execute any ActiveX control.  It works with controls and typelibs, automatically showing the documentation associated with classes and members.  Quickly find out how a control behaves using event logging, a visual design surface, method execution and property inspection.  Use it to help understand Automation interfaces (for example MS Office), and to help with developing Addins.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/392</id>
+    <id>https://csells.github.io/sb6/392</id>
     <title>.NET Rocks Interview: .NET Success Stories</title>
     <updated>2003-01-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -68,7 +70,7 @@ I recommend the experience to anyone that wants to know professional technique a
 It's stories like this that are going to finally turn the masses away from the unmanaged world to the managed world. And they'll never, ever want to go back...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/391</id>
+    <id>https://csells.github.io/sb6/391</id>
     <title>ASP.NET: Blackbelt Web Form Programming</title>
     <updated>2003-01-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -78,7 +80,7 @@ It's stories like this that are going to finally turn the masses away from the u
 &lt;a href="http://www.only4gurus.com/Library/ShowCat.asp?Cat=ASP.Net">Here&lt;/a>. From Vaclav Novak: Push your ASP.NET Web Forms to the extreme. This session focuses on advanced tips and tricks for ASP.NET page development, including UI that morphs based on the data it displays, dynamic templates, passing values from page to page, adding client events to server controls, and more. Assumes a basic understanding of ASP.NET pages and controls. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/389</id>
+    <id>https://csells.github.io/sb6/389</id>
     <title>Aspect-Oriented Programming with C# and .NET</title>
     <updated>2003-01-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -90,7 +92,7 @@ It's stories like this that are going to finally turn the masses away from the u
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/390</id>
+    <id>https://csells.github.io/sb6/390</id>
     <title>Dynamic Aspect-Weaving with .NET</title>
     <updated>2003-01-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -100,7 +102,7 @@ It's stories like this that are going to finally turn the masses away from the u
 &lt;a href="http://www.dcl.hpi.uni-potsdam.de/dcl/papers/GI2002.ps">Here&lt;/a>. From Hun Boon Teo: Another research paper from Wolfgang Schult and Andreas Polze, part of abstract: "Within this paper, we focus on dynamic management of aspect information during program runtime. We introduce a new approach called "dynamic aspect weaving" to interconnect aspect code and functional code. Using our approach, it is possible to decide at runtime whether objects living inside a compoent should be instantiated with support for a particular aspect or not. We have implemented our approach in contect of the langauge C# and the Microsoft .NET environment."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/386</id>
+    <id>https://csells.github.io/sb6/386</id>
     <title>What's New in VS.NET 2003</title>
     <updated>2003-01-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -110,7 +112,7 @@ It's stories like this that are going to finally turn the masses away from the u
 &lt;a href="http://www.3leaf.com/default/articles/ea/WhatsNewWithVS2003.aspx">Here&lt;/a>. A somewhat wordy list of what's new in VS.NET 2003. It figures that just after I'd learned to use the Designer for event handling that MS would add C# "code spitting" for the override keyword and the delegate += operator...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/385</id>
+    <id>https://csells.github.io/sb6/385</id>
     <title>.NET ResourceExplorer</title>
     <updated>2003-01-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -120,7 +122,7 @@ It's stories like this that are going to finally turn the masses away from the u
 &lt;a href="/12419">Here&lt;/a>. In writing the resources chapter of my WinForms book, I found that there was no single utility for displaying the resource contents of assemblies, .resx files and .resource files (even embedded .resources files) in a way that made sense to me. So, I built one. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/387</id>
+    <id>https://csells.github.io/sb6/387</id>
     <title>25 pathetic attempts to make .NET look bad</title>
     <updated>2003-01-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -132,7 +134,7 @@ It's stories like this that are going to finally turn the masses away from the u
 Along these same lines, I spent a day of onsite consulting having a .NET vs. Java debate. I was the outsider .NET guy and the company already had three Java guys already on staff (one was the VP of Engineering). Needless to say, .NET won. : )  It boiled down to what to do with the existing ATL/COM/C++ code base and the .NET interop story wins there hands down.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/388</id>
+    <id>https://csells.github.io/sb6/388</id>
     <title>An entire site dedicated to connection strings!</title>
     <updated>2003-01-11T08:00:00.000Z</updated>
     <published>2003-01-11T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ Holy cow! An entire site of just connection string examples! Cool!
 [John Bristowe: radio.weblogs.com/0112381]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/384</id>
+    <id>https://csells.github.io/sb6/384</id>
     <title>Jeff Key's .NET Samples</title>
     <updated>2003-01-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ Holy cow! An entire site of just connection string examples! Cool!
 &lt;a href="http://www.sliver.com/dotnet/index.aspx">Here&lt;/a>. I just stumpled onto a set of very cool .NET samples from Jeff Key and *had* to share them. There are too many cool things to pick a favorite.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12419</id>
+    <id>https://csells.github.io/sb6/12419</id>
     <title>.NET ResourceExplorer</title>
     <updated>2003-01-10T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/img.2.jpg"/>
@@ -177,7 +179,7 @@ Holy cow! An entire site of just connection string examples! Cool!
     and the ResXResourceReader (for reading .resx files). Enjoy.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/382</id>
+    <id>https://csells.github.io/sb6/382</id>
     <title>Looking for whitepapers, presentations &amp; webcasts?</title>
     <updated>2003-01-09T08:00:00.000Z</updated>
     <published>2003-01-09T08:00:00.000Z</published>
@@ -192,7 +194,7 @@ Ramon says that contributions are welcome.
 David</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/381</id>
+    <id>https://csells.github.io/sb6/381</id>
     <title>Developer</title>
     <updated>2003-01-09T08:00:00.000Z</updated>
     <published>2003-01-09T08:00:00.000Z</published>
@@ -208,7 +210,7 @@ Jeff.
 jtrichard@sotasw.com</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/383</id>
+    <id>https://csells.github.io/sb6/383</id>
     <title>TeeGofer</title>
     <updated>2003-01-09T08:00:00.000Z</updated>
     <published>2003-01-09T08:00:00.000Z</published>

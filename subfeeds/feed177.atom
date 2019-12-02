@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed177.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed177.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed176.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed177.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed176.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed177.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12626</id>
+    <id>https://csells.github.io/sb6/12626</id>
     <title>College Fun</title>
     <updated>2001-02-28T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -89,7 +91,7 @@ Blewett&lt;br>
 Ian Griffiths&lt;br>George Shepherd&lt;br>Internal Mailing List &lt;br>&lt;/i> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12660</id>
+    <id>https://csells.github.io/sb6/12660</id>
     <title>TZ Data to XML Project</title>
     <updated>2001-02-22T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -152,7 +154,7 @@ Ian Griffiths&lt;br>George Shepherd&lt;br>Internal Mailing List &lt;br>&lt;/i> &
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12427</id>
+    <id>https://csells.github.io/sb6/12427</id>
     <title>Genghis</title>
     <updated>2001-02-16T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -167,7 +169,7 @@ Ian Griffiths&lt;br>George Shepherd&lt;br>Internal Mailing List &lt;br>&lt;/i> &
     functional heir to Attila, a similar set of functionality built on top of ATL.&lt;/span>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12629</id>
+    <id>https://csells.github.io/sb6/12629</id>
     <title>a poem</title>
     <updated>2000-11-21T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -183,7 +185,7 @@ touch &lt;br>WTL may restore my churning (out string manipulating code).
 &lt;/p>&lt;p>&lt;i>Phil Beck &lt;br>ATL Mailing List&lt;/i> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12630</id>
+    <id>https://csells.github.io/sb6/12630</id>
     <title>These Days its only COM COM COM (Am I Crying)</title>
     <updated>2000-08-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -214,7 +216,7 @@ Chawla&lt;br>Private
 Email&lt;/i> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12628</id>
+    <id>https://csells.github.io/sb6/12628</id>
     <title>DM in the Wall Street Journal</title>
     <updated>2000-08-08T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/MindChil1.jpg"/>
@@ -250,7 +252,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12431</id>
+    <id>https://csells.github.io/sb6/12431</id>
     <title>UrlRun</title>
     <updated>2000-06-26T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -274,7 +276,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12632</id>
+    <id>https://csells.github.io/sb6/12632</id>
     <title>Signs that you may be taking COM too seriously...</title>
     <updated>2000-03-13T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -284,7 +286,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 &lt;ul>&lt;li>The family pet dies. The best explanation you can give the children is "Fluffy's reference count finally reached zero." &lt;li>You've mailed more than three written petitions to the city council of Enumclaw, Washington requesting that the town prefix its name with an 'I'. &lt;li>Your wife has a rather irritating habit of QI'ing you for IMowsTheLawn, despite the fact that for years you've been returning everything from E_NOINTERFACE to RPC_S_SERVER_TOO_BUSY. &lt;li>The best thing about the new generation of wireless internet devices is that you will be able to receive the DCOM and ATL mailing lists from almost anywhere. &lt;li>Part of your IPO research strategy involves calling the company's engineering manager on the phone and demanding a detailed explanation of apartments and threading. &lt;li>The party you threw to celebrate the introduction of asynchronous RPC calls in Windows 2000 was significantly more expensive than your wedding reception. &lt;li>Last Summer's family vacation to Redmond, Washington. &lt;li>All those emails you've sent to Chris Sells trying to convince him that "ATL Internals" would make a really great movie. &lt;li>Although it is humorous, there are a couple of items in the &lt;a href="#signs1">"Signs you've hired the wrong COM developer..."&lt;/a> list that you can't help but view as personally insulting. &lt;li>On your laptop there exists a half-completed manuscript entitled "The Tao of COM". &lt;li>You refer to your Social Security Number as your GUID.&lt;/li>&lt;/ul>&lt;p>&lt;i>Tony Toivonen &lt;br>&lt;/i>&lt;em>DCOM Mailing List&lt;/em> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12373</id>
+    <id>https://csells.github.io/sb6/12373</id>
     <title>ATL Borg</title>
     <updated>2000-02-10T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/ATLBorg.JPG"/>
@@ -295,7 +297,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 &lt;p align="center">&lt;img border="0" src="/public/fun/ATLBorg.JPG" width="623" height="554"> &lt;/p>&lt;p align="left">&lt;i>Jeff Smith &lt;br>Thu &lt;span class="created">2/10/2000 12:07 AM&lt;/span> &lt;br>&lt;/i>&lt;em>Private Mail&lt;/em> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12633</id>
+    <id>https://csells.github.io/sb6/12633</id>
     <title>In defense of the VB Programmer</title>
     <updated>2000-01-20T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -305,7 +307,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 &lt;p>&amp;gt; -----Original Message----- &lt;br>&amp;gt; From: Russ Huffman [mailto:russ@DEVAUTHORITY.COM] &lt;br>&amp;gt; Sent: Thursday, &lt;span class="created">January 20, 2000 8:39 AM&lt;/span> &lt;br>&amp;gt; To: ATL@DISCUSS.MICROSOFT.COM &lt;br>&amp;gt; &lt;br>&amp;gt; Don't we already have a "bunch of programmers who have no &lt;br>&amp;gt; idea about how the underlying systems work"? I think they &lt;br>&amp;gt; are called VB programmers... ;) &lt;br>&lt;br>I hate to break this to you, but I've met a lot of VB programmers trapped in the body of a C++ programmer. Unfortunately, many development shops place a lot of peer pressure on people to reject their yearnings to stop using semicolons and memory allocators. It's sad, but VB programmers today are where US Blacks were in the 30's and gays were in the 50's. We have yet to see the "Rosa Parks" or "Stonewall Riots" for VB programmers. &lt;br>&lt;br>BTW, I have been preparing a keynote address in case I am ever asked to keynote a VB-friendly conference. If you want to look at a draft, &lt;b>go to &lt;a href="http://www.develop.com/dbox/dream.htm">http://www.develop.com/dbox/dream.htm&lt;/a> &lt;i>[ed: MLK's "I have a dream" set to VB music]&lt;/i>&lt;/b> &lt;/p>&lt;p>...I have been to VB7. I've seen the promised land. I may not get there with you... &lt;br>&lt;br>DB &lt;/p>&lt;p>PS: Last time I checked, all programmers have selective ignorance. I know nothing about 3D graphics. I know a lot about COM. VB gets under people's skin because one can be ignorant of computer architecture and ASM and still &lt;br>get a lot done. &lt;/p>&lt;p>&lt;br>&lt;i>&lt;b>Don Box&lt;/b> &lt;br>ATL Mailing List&lt;/i> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12634</id>
+    <id>https://csells.github.io/sb6/12634</id>
     <title>Abort, Retry, Ignore</title>
     <updated>1999-12-01T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -318,7 +320,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12652</id>
+    <id>https://csells.github.io/sb6/12652</id>
     <title>Welcome to Attila!</title>
     <updated>1999-11-01T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/attila/attila.jpg"/>
@@ -547,7 +549,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
         &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12635</id>
+    <id>https://csells.github.io/sb6/12635</id>
     <title>Still_Life_with_Aggregate</title>
     <updated>1999-10-25T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/fun/aggregate.gif"/>
@@ -559,7 +561,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 &lt;a name="Still_Life_with_Aggregate" href="#Still_Life_with_Aggregate">Still Life with Aggregate&lt;/a>&lt;/h2>&lt;p align="center">&lt;img border="0" src="/public/fun/aggregate.gif" width="629" height="406"> &lt;/p>&lt;p align="center">Built using &lt;a href="http://www.sfpg.com/animation/liteBrite.html">online Lite-Brite&lt;/a>. &lt;/p>&lt;p align="left">&lt;i>&lt;b>Jason Whittington &lt;a href="mailto:O'LearyJOLeary@ARTISOFT.COM">&lt;br>&lt;/a>&lt;/b>Private DevelopMentor Mailing List&lt;/i> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12636</id>
+    <id>https://csells.github.io/sb6/12636</id>
     <title>Spirit of the IUnknown</title>
     <updated>1999-10-06T07:00:00.000Z</updated>
     <published>1999-10-06T07:00:00.000Z</published>
@@ -569,7 +571,7 @@ Cal Caldwell&lt;br>Private Email&lt;/i> &lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12637</id>
+    <id>https://csells.github.io/sb6/12637</id>
     <title>Computer synthesized song to liven up your day...</title>
     <updated>1999-07-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed161.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed161.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed160.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed162.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed161.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed160.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed162.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed161.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/160</id>
+    <id>https://csells.github.io/sb6/160</id>
     <title>Visual C++ 7 speed vs Visual C# speed</title>
     <updated>2002-07-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -44,7 +46,7 @@
 [Windows Technology Off Topic Mailing List]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/159</id>
+    <id>https://csells.github.io/sb6/159</id>
     <title>Tim Ewald Finally Gets a Home Page!</title>
     <updated>2002-07-30T07:00:00.000Z</updated>
     <published>2002-07-30T07:00:00.000Z</published>
@@ -55,7 +57,7 @@
 [pocketsoap.com/weblog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12359</id>
+    <id>https://csells.github.io/sb6/12359</id>
     <title>My Chris Sells Is A Centerfold!</title>
     <updated>2002-07-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -65,7 +67,7 @@
 &lt;p>&lt;i>sttto Centerfold by J. Geils Band (&lt;a href="http://www.80smusiclyrics.com/artists/jgeilsband.htm">http://www.80smusiclyrics.com/artists/jgeilsband.htm&lt;/a>)&lt;/i>&lt;/p>&lt;p>Yes, he walks, yes, he talks!&lt;br>He'll be your Code Complete!&lt;br>That ATL instructor&lt;br>Sure could put 'em in the seats.&lt;br>&lt;br>He could teach like no one else&lt;br>No one could ever stain&lt;br>The memory of that DM guy&lt;br>Could never cause me pain&lt;br>&lt;br>Years go by, I'm lookin' through a codin' magazine&lt;br>&lt;a href="/public/fun/centerfold/">And there's my DM buddy on the pages in between!&lt;/a>&lt;br>&lt;br>CHORUS:&lt;br>My blood runs cold&lt;br>My memory has just been sold&lt;br>Instructor is the centerfold,&lt;br>Chris Sells is the centerfold&lt;br>(Repeat)&lt;br>&lt;br>Shipped me code 'bout ActiveX,&lt;br>While I was thinkin' about GenX&lt;br>IUnknown, IDispatch,&lt;br>He could teach 'em all&lt;br>&lt;br>I was shakin' in my shoes&lt;br>Whenever he flashed those baby-blues&lt;br>Something had a hold on me&lt;br>Whenever Chris passed by&lt;br>&lt;br>That book and cool code samples&lt;br>Too magical to touch&lt;br>To see him in that photograph,&lt;br>Is really just too much!&lt;br>&lt;br>CHORUS&lt;br>&lt;br>It's okay I understand&lt;br>This ain't no never never land&lt;br>I hope that when this issue's gone&lt;br>This memory will TOO be gone&lt;br>&lt;br>Take your car, yes we will&lt;br>We'll take your car and drive it&lt;br>We'll take it to a motel room&lt;br>And leave you there, in private!&lt;br>&lt;br>A part of me has just been ripped&lt;br>The pages from my mind are stripped&lt;br>Oh no, I can't deny it&lt;br>Oh yea, guess I gotta try it!&lt;br>&lt;br>CHORUS&lt;br>&lt;br>&lt;b>Copyright (c) 2002 Anonymous. :-)&lt;/b>&lt;/p>&lt;p>&lt;i>Ted Neward &lt;a href="mailto:[tneward@JAVAGEEKS.COM">[tneward@JAVAGEEKS.COM&lt;/a>]&lt;br>private mailing list&lt;br>Tue &lt;span class="created">7/30/2002 2:06 AM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/157</id>
+    <id>https://csells.github.io/sb6/157</id>
     <title>Internet Security Checker for Win2K</title>
     <updated>2002-07-30T07:00:00.000Z</updated>
     <published>2002-07-30T07:00:00.000Z</published>
@@ -76,7 +78,7 @@
 [W2Knews]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/158</id>
+    <id>https://csells.github.io/sb6/158</id>
     <title>My Chris Sells Is A Centerfold!</title>
     <updated>2002-07-30T07:00:00.000Z</updated>
     <published>2002-07-30T07:00:00.000Z</published>
@@ -107,7 +109,7 @@ And there's my DM buddy on the pages in between!
 [Ted Neward]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/155</id>
+    <id>https://csells.github.io/sb6/155</id>
     <title>ASP.NET state management with style (&amp; attributes)</title>
     <updated>2002-07-27T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@ And there's my DM buddy on the pages in between!
 &lt;a href="http://radio.weblogs.com/0108971/2002/07/25.html#a29">Here&lt;/a>. Now *this* is the way that state should be managed in ASP.NET!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/147</id>
+    <id>https://csells.github.io/sb6/147</id>
     <title>Microsoft XML Diff and Patch 1.0 Beta</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -129,7 +131,7 @@ And there's my DM buddy on the pages in between!
 [netcrucible.com/blog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/151</id>
+    <id>https://csells.github.io/sb6/151</id>
     <title>.NET HandleCollector source and sample</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -141,7 +143,7 @@ And there's my DM buddy on the pages in between!
 This is the way that GDI+ deals with unmanaged resource reclamation and can be used for your own non-memory resources.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/149</id>
+    <id>https://csells.github.io/sb6/149</id>
     <title>George Shepherd's Windows Forms FAQ</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 [radio.weblogs.com/0105852/]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/153</id>
+    <id>https://csells.github.io/sb6/153</id>
     <title>VS.NET Update</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 &lt;a href="http://news.com.com/2100-1001-946395.html?tag=fd_top">Here&lt;/a>. From Michael Weinhardt: "Microsoft plans to deliver this fall a minor update to its Visual Studio.Net suite of development tools, said Eric Rudder, senior vice president of Microsoft's developer and platform evangelism."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/150</id>
+    <id>https://csells.github.io/sb6/150</id>
     <title>The Rotor Architecture Revisited</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -177,7 +179,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 [radio.weblogs.com/0105852/]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/152</id>
+    <id>https://csells.github.io/sb6/152</id>
     <title>Beta-2 of Nunit 2.0 is available</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -199,7 +201,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 [DOTNET-PRODUCTS]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/148</id>
+    <id>https://csells.github.io/sb6/148</id>
     <title>Wonders of Windows Forms: You Can Take It with You</title>
     <updated>2002-07-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -209,7 +211,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 &lt;a href="http://msdn.microsoft.com/columns/winforms.asp">Here&lt;/a>. "Guest columnist Jim Wilson shows you how the .NET Compact Framework and Smart Device Extensions enable you to develop rich Windows Forms applications for mobile devices."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/146</id>
+    <id>https://csells.github.io/sb6/146</id>
     <title>ASP.NET - It's not just for IIS anymore....</title>
     <updated>2002-07-24T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -219,7 +221,7 @@ George is a long-time colleague of mine at DevelopMentor as well as the chief au
 &lt;a href="http://news.com.com/2100-1001-946004.html?tag=fd_top">Here&lt;/a>. From Rick Childress: Microsoft will soon be announcing a deal with Covalent to bring ASP.NET to Apache.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/145</id>
+    <id>https://csells.github.io/sb6/145</id>
     <title>J2EE versus .NET Part I</title>
     <updated>2002-07-23T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

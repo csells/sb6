@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed126.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed126.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed125.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed127.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed126.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed125.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed127.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed126.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/650</id>
+    <id>https://csells.github.io/sb6/650</id>
     <title>RSS vs. Echo at Applied XML Dev.Conf.</title>
     <updated>2003-07-03T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -48,7 +50,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/643</id>
+    <id>https://csells.github.io/sb6/643</id>
     <title>VS.NET Project &amp; Solution Converter</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -58,7 +60,7 @@
 &lt;a href="http://jsp.mobikom.com/stoyan/vspc/vspc.html">Here&lt;/a>. I just know that folks are going to need to be able to convert between VS.NET 2002 and 2003 projects and solutions for a while yet, so here's a free, extensible conversion tool to do the job.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/645</id>
+    <id>https://csells.github.io/sb6/645</id>
     <title>Spout: Learning to Learn</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -68,7 +70,7 @@
 &lt;a href="/12544">Here&lt;/a>. The one where I talk about the most important thing I ever learned.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/649</id>
+    <id>https://csells.github.io/sb6/649</id>
     <title>Bill Gates on Longhorn</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <published>2003-07-01T07:00:00.000Z</published>
@@ -79,7 +81,7 @@
 "Years. At this time we're doing the prototyping — feasibility studies, performance studies. We don't have a date because what we have is a technological breakthrough that we have to really make sure we refine and get right. Then we'll get to the point where we'll set up an engineering schedule."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/648</id>
+    <id>https://csells.github.io/sb6/648</id>
     <title>Bill Gates' take on subjects from spam to Mozambiq</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <published>2003-07-01T07:00:00.000Z</published>
@@ -88,7 +90,7 @@
 &lt;a href="http://www.usatoday.com/tech/news/2003-06-29-gates-interview_x.htm">Here&lt;/a>. I really like how BillG answers questions in general and this USA today interview covers lots of interesting ground, including BillG's take on spam, boring companies, Longhorn &amp; Linux. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/644</id>
+    <id>https://csells.github.io/sb6/644</id>
     <title>Registration-less COM to .NET Wrapper Tool Beta</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -98,7 +100,7 @@
 &lt;a href="http://www.aurigma.com/Products/COMtoNET/">Here&lt;/a>. Aurigma has posted the beta for a COM to .NET wrapper generation tool that doesn't require the COM server to be registered, which is nice for hosted scenarios. It also generates the wrapper code for you to see and edit for your own purposes. Interesting.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/647</id>
+    <id>https://csells.github.io/sb6/647</id>
     <title>Microsoft beats Linux in trio of govt contracts</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <published>2003-07-01T07:00:00.000Z</published>
@@ -107,7 +109,7 @@
 &lt;a href="http://famulus.msnbc.com/famuluscom/reuters07-01-100552.asp?sym=MSFT">Here&lt;/a>. The question isn't which one is cheaper up front. The question is whether which one provides better value overall.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/646</id>
+    <id>https://csells.github.io/sb6/646</id>
     <title>The Danger of Good Debate Skills</title>
     <updated>2003-07-01T07:00:00.000Z</updated>
     <published>2003-07-01T07:00:00.000Z</published>
@@ -116,7 +118,7 @@
 &lt;a href="/12543">Here&lt;/a>. The one where I need to be very careful to listen to good ideas from anyone, even if they haven't been a professional speaker.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/642</id>
+    <id>https://csells.github.io/sb6/642</id>
     <title>Applied XML Dev.Conf. Talks Coming In</title>
     <updated>2003-06-30T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -128,7 +130,7 @@
 Of course, one of the perks of running a conference is that you get a peak at things early. These talks look really fun. Can't wait to see them presented.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12409</id>
+    <id>https://csells.github.io/sb6/12409</id>
     <title>Chris's Notes on The Motley Fool Investment Guide</title>
     <updated>2003-06-29T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -149,7 +151,7 @@ Of course, one of the perks of running a conference is that you get a peak at th
 		</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12407</id>
+    <id>https://csells.github.io/sb6/12407</id>
     <title>Chris's Notes on The Instant Millionaire</title>
     <updated>2003-06-29T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -172,7 +174,7 @@ Of course, one of the perks of running a conference is that you get a peak at th
 		</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12410</id>
+    <id>https://csells.github.io/sb6/12410</id>
     <title>The "Average Return" Myth</title>
     <updated>2003-06-29T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -804,7 +806,7 @@ r0 = 4.037%&lt;/pre>
 		be lower than the average rate as variability increases.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12406</id>
+    <id>https://csells.github.io/sb6/12406</id>
     <title>Chris's Notes on Stock Options for Dummies</title>
     <updated>2003-06-29T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -835,7 +837,7 @@ r0 = 4.037%&lt;/pre>
 		</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12408</id>
+    <id>https://csells.github.io/sb6/12408</id>
     <title>Chris's Notes on All the Math You Need to Get Rich</title>
     <updated>2003-06-29T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -868,7 +870,7 @@ r0 = 4.037%&lt;/pre>
 		</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/640</id>
+    <id>https://csells.github.io/sb6/640</id>
     <title>Register for the Microsoft PDC</title>
     <updated>2003-06-27T07:00:00.000Z</updated>
     <published>2003-06-27T07:00:00.000Z</published>

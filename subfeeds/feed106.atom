@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed106.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed106.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed105.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed107.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed106.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed105.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed107.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed106.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/920</id>
+    <id>https://csells.github.io/sb6/920</id>
     <title>My First PDC as a Microsoftie</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12518">Here&lt;/a>. The one where I look behind the curtain, see the wizard and like it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12516</id>
+    <id>https://csells.github.io/sb6/12516</id>
     <title>Time For An Exciting Career In Electronics</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -79,7 +81,7 @@ vocational technical school near my house...&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12518</id>
+    <id>https://csells.github.io/sb6/12518</id>
     <title>My First PDC as a Microsoftie</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -176,7 +178,7 @@ from the deep, rich flavor. Recommend.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12517</id>
+    <id>https://csells.github.io/sb6/12517</id>
     <title>In Search of Expertise</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -229,7 +231,7 @@ Comments on my continued quest for expertise welcome.&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/921</id>
+    <id>https://csells.github.io/sb6/921</id>
     <title>In Search of Expertise</title>
     <updated>2003-11-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -241,7 +243,7 @@ Comments on my continued quest for expertise welcome.&lt;/a>&lt;/p>
 For those of you saying "duh," that's not helpful... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/913</id>
+    <id>https://csells.github.io/sb6/913</id>
     <title>PDC Session Slides &amp; Code</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -251,7 +253,7 @@ For those of you saying "duh," that's not helpful... : )</content>
 &lt;a href="http://msdn.microsoft.com/events/pdc/agendaandsessions/sessions/default.aspx">Here&lt;/a>. Not all PDC sessions have slides and/or code yet, but most do. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/911</id>
+    <id>https://csells.github.io/sb6/911</id>
     <title>The Business of Software</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -265,7 +267,7 @@ Towards that end, I've set up an experimental section of the Longhorn Developer 
 Check it out and let me know what else you'd like to see there.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/916</id>
+    <id>https://csells.github.io/sb6/916</id>
     <title>Hang Out in The Longhorn Newsgroups</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -275,7 +277,7 @@ Check it out and let me know what else you'd like to see there.</content>
 &lt;a href="http://msdn.microsoft.com/longhorn/community/newsgroups/">Here&lt;/a>. I'll be hanging out in the Longhorn newsgroups, as will MVPs and the product groups. Come on, come all!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/918</id>
+    <id>https://csells.github.io/sb6/918</id>
     <title>ChrisAn posts a brief history of XAML</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -287,7 +289,7 @@ Check it out and let me know what else you'd like to see there.</content>
 http://www.simplegeek.com/blogxbrowsing.asmx/GetRss?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/898</id>
+    <id>https://csells.github.io/sb6/898</id>
     <title>The MSDN Longhorn Developer Center Web Site</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -303,7 +305,7 @@ The LHDC includes community news on the Editor's Blog (the "Longhorn" category o
 Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/904</id>
+    <id>https://csells.github.io/sb6/904</id>
     <title>The Longhorn SDK Online</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -315,7 +317,7 @@ Enjoy.</content>
 Even if you do have the offline LHSDK, you'll want to check out the online version, as it includes experimental support for MSDN Annotations, which lets readers comment on each page.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/909</id>
+    <id>https://csells.github.io/sb6/909</id>
     <title>Updated CLR Profiler</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -325,7 +327,7 @@ Even if you do have the offline LHSDK, you'll want to check out the online versi
 &lt;a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=86ce6052-d7f4-4aeb-9b7a-94635beebdda&amp;DisplayLang=en">Here&lt;/a>. "The CLR Profiler includes a number of very useful views of the allocation profile, including a histogram of allocated types, allocation and call graphs, a time line showing GCs of various generations and the resulting state of the managed heap after those collections, and a call tree showing per-method allocations and assembly loads."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/901</id>
+    <id>https://csells.github.io/sb6/901</id>
     <title>Chris Anderson &amp; Don Box Do A Lap Around Longhorn</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -335,7 +337,7 @@ Even if you do have the offline LHSDK, you'll want to check out the online versi
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20031028LHORNDB/manifest.xml">Here&lt;/a>. Before they hit it big on the stage during their keynote demo, Chris Anderson and Don Box recorded their now famous "Lap Around Longhorn" demo for MSDN TV. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/912</id>
+    <id>https://csells.github.io/sb6/912</id>
     <title>Paul Thurrott's Windows SuperSite @ the PDC</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -345,7 +347,7 @@ Even if you do have the offline LHSDK, you'll want to check out the online versi
 &lt;a href="http://www.winsupersite.com/reviews/pdc2003.asp">Here&lt;/a>. Paul's site has all kinds of Longhorn screenshots and videos from the PDC.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/902</id>
+    <id>https://csells.github.io/sb6/902</id>
     <title>Inside Longhorn: The Details</title>
     <updated>2003-10-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

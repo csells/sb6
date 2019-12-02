@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed124.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed124.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed123.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed125.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed124.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed123.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed125.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed124.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12540</id>
+    <id>https://csells.github.io/sb6/12540</id>
     <title>The Killer App for Web Services</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -57,7 +59,7 @@ web services are supposed to enable. *Wow*.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/676</id>
+    <id>https://csells.github.io/sb6/676</id>
     <title>Scott Hanselman + Applied XML Dev.Conf.</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -67,7 +69,7 @@ web services are supposed to enable. *Wow*.&lt;/p>
 &lt;a href="http://radio.weblogs.com/0106747/">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/674</id>
+    <id>https://csells.github.io/sb6/674</id>
     <title>Steve Maine blogs the Applied XML Dev.Conf.</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -77,7 +79,7 @@ web services are supposed to enable. *Wow*.&lt;/p>
 &lt;a href="http://stevemaine.blogspot.com/">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/675</id>
+    <id>https://csells.github.io/sb6/675</id>
     <title>Patrick Cauldwell, a speaker, blogs the Dev.Conf.</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -87,7 +89,7 @@ web services are supposed to enable. *Wow*.&lt;/p>
 &lt;a href="http://www.cauldwell.net/patrick/blog/">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12541</id>
+    <id>https://csells.github.io/sb6/12541</id>
     <title>Applied XML DevCon Trip Report</title>
     <updated>2003-07-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -218,7 +220,7 @@ return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/672</id>
+    <id>https://csells.github.io/sb6/672</id>
     <title>Quake II.NET in Managed C++</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -228,7 +230,7 @@ return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;
 &lt;a href="http://www.vertigosoftware.com/Quake2.htm">Here&lt;/a>. These guys demonstrate not only a cool application of Managed C++, but also what a fabulous bridge that MC++ is between the unmanaged and managed worlds. Folks that haven't moved to VS.NET because they're doing C++ are *really* missing out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/668</id>
+    <id>https://csells.github.io/sb6/668</id>
     <title>Aaron B. Hockley</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <published>2003-07-10T07:00:00.000Z</published>
@@ -237,7 +239,7 @@ return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;
 &lt;a href="http://www.hockley.org/xmlcon/">Here&lt;/a>. Aaron joins in the fun.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/666</id>
+    <id>https://csells.github.io/sb6/666</id>
     <title>Don "XML" Blogging Applied XML Dev.Conf.</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -247,7 +249,7 @@ return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;
 &lt;a href="http://weblogs.asp.net/donxml">Here&lt;/a>. Don's blogging the Applied XML Developer's Conference.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/670</id>
+    <id>https://csells.github.io/sb6/670</id>
     <title>And the bad part about wireless access...</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <published>2003-07-10T07:00:00.000Z</published>
@@ -256,7 +258,7 @@ return&lt;/span> length * width;&lt;br>&amp;nbsp; }&lt;br>}&lt;/span>&lt;/p>&lt;
 While it's cool that we have bits and electrons at this year's Developer's Conference, unfortunately the speaker has to compete with the entire web during their talk. This means that if you're less than completely riveting (which few speakers are), folks check out and often can't catch up. It's hard enough to give a good talk, but that's just brutal.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/669</id>
+    <id>https://csells.github.io/sb6/669</id>
     <title>And so's Jeremy</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <published>2003-07-10T07:00:00.000Z</published>
@@ -265,7 +267,7 @@ While it's cool that we have bits and electrons at this year's Developer's Confe
 &lt;a href="http://www.eskimo.com/~jeremyk/">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/667</id>
+    <id>https://csells.github.io/sb6/667</id>
     <title>Rory Blyth is blogging the Dev.Conf., too</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -275,7 +277,7 @@ While it's cool that we have bits and electrons at this year's Developer's Confe
 &lt;a href="http://www.neopoleon.com/blog/">Here&lt;/a>. Rory Blyth seems to be keeping track of who he's eating with and who he meets in the rest room, so clearly, a must read. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/671</id>
+    <id>https://csells.github.io/sb6/671</id>
     <title>Forgetting the pain of childbirth</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <published>2003-07-10T07:00:00.000Z</published>
@@ -288,7 +290,7 @@ That’s what happens to me at each DevCon. Every time I run one, folks say nice
 And yet, this is “SellsCon” IV (as Don calls it) and I keep doing them. Luckily, I tend to forget the pain once I have the baby in my arms, which will be sometime on Friday after 5:45pm.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12348</id>
+    <id>https://csells.github.io/sb6/12348</id>
     <title>Top 10 XML Specifications Rejected by the W3C</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -329,7 +331,7 @@ Presented at the Applied XML Developer's Conference West 2003&lt;br>
 &lt;span class="created">July 10, 2003&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/673</id>
+    <id>https://csells.github.io/sb6/673</id>
     <title>Steve Loughran blogs the Dev.Conf.</title>
     <updated>2003-07-10T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -339,7 +341,7 @@ Presented at the Applied XML Developer's Conference West 2003&lt;br>
 &lt;a href="http://www.iseran.com/cgi-bin/blosxom2.pl">Here&lt;/a>. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/663</id>
+    <id>https://csells.github.io/sb6/663</id>
     <title>New Software at Spout Manor</title>
     <updated>2003-07-09T07:00:00.000Z</updated>
     <published>2003-07-09T07:00:00.000Z</published>

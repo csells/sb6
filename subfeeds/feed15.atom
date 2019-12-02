@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed15.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed15.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed14.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed16.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed15.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed14.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed16.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed15.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2202</id>
+    <id>https://csells.github.io/sb6/2202</id>
     <title>Vim Support for MGrammar</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -42,7 +44,7 @@
 From &lt;SPAN class=vcard>&lt;SPAN class="fn n">&lt;A href="http://www.thebc.se/2008/11/vim-support-for-mgrammar/">Fredrik Eriksson&lt;/A>&lt;/SPAN>&lt;/SPAN>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2207</id>
+    <id>https://csells.github.io/sb6/2207</id>
     <title>Three-Pane MGrammar Development in Intellipad</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -53,7 +55,7 @@ From &lt;SPAN class=vcard>&lt;SPAN class="fn n">&lt;A href="http://www.thebc.se/
 &lt;P>Personally, I'm a huge fan of seeing something work as I type. Think of it as&amp;nbsp;"holistic intellsense."&amp;nbsp;The SQL generation in Intellipad works the exact same way. I find it a huge help.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2206</id>
+    <id>https://csells.github.io/sb6/2206</id>
     <title>Another Oslo MGrammar Sample: WatiN</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -63,7 +65,7 @@ From &lt;SPAN class=vcard>&lt;SPAN class="fn n">&lt;A href="http://www.thebc.se/
 Torkel &amp;#214;degaard has done a very nice, detailed look at created &lt;A href="http://www.codinginstinct.com/2008/11/creating-watin-dsl-using-mgrammar.html">a DSL in MGrammar for the WatiN browser automation library&lt;/A>, including a look at the code he used to parse the Abstract Symbol Tree produced by MGrammar to do something useful.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2205</id>
+    <id>https://csells.github.io/sb6/2205</id>
     <title>Generating code from M</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -78,7 +80,7 @@ Torkel &amp;#214;degaard has done a very nice, detailed look at created &lt;A hr
 &lt;P>I've seen various samples around the interweb on model-driven aka "executable models" (some of which we've supplied on the &lt;A href="http://msdn.com/oslo">Oslo DevCenter&lt;/A>), but &lt;SPAN class=fn>Kirill Chilingarashvili&lt;/SPAN> has done &lt;A href="http://blog.devarchive.net/2008/11/generating-code-using-ms-codename-t4.html">a nice little sample of combining Visual Studio's T4 codegen language with a custom DSL in MGrammar&lt;/A>. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2208</id>
+    <id>https://csells.github.io/sb6/2208</id>
     <title>News: How modeling will change programming</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -88,7 +90,7 @@ Torkel &amp;#214;degaard has done a very nice, detailed look at created &lt;A hr
 Burley Kawasaki is a Microsoft marketing person, it's true, but he also really understands &lt;A href="http://www.betanews.com/article/Microsofts_Burley_Kawasaki_How_modeling_will_change_programming/1226357640">the point of Oslo&lt;/A>. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2200</id>
+    <id>https://csells.github.io/sb6/2200</id>
     <title>Big, Juicy Video on M from Jon Flanders</title>
     <updated>2008-11-06T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -98,7 +100,7 @@ Burley Kawasaki is a Microsoft marketing person, it's true, but he also really u
 Jon Flanders from pluralsight has posted &lt;A href="http://www.pluralsight.com/community/blogs/jfland/archive/2008/11/04/semi-short-video-on-m-aka-m-is-like-an-onion.aspx">a 39 minute screencast video introducing M to .NET developers&lt;/A>. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2199</id>
+    <id>https://csells.github.io/sb6/2199</id>
     <title>Oslo: Using Mg to Define a To-Do Language</title>
     <updated>2008-11-06T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -111,7 +113,7 @@ Jon Flanders from pluralsight has posted &lt;A href="http://www.pluralsight.com/
 &lt;P>Good work, Justin!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2201</id>
+    <id>https://csells.github.io/sb6/2201</id>
     <title>The DSL DevCon</title>
     <updated>2008-11-06T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -122,7 +124,7 @@ Jon Flanders from pluralsight has posted &lt;A href="http://www.pluralsight.com/
 &lt;P>This one will be on all things data-driven, model-based and/or DSL enhanced. I'm thinking March or April&amp;nbsp;of 2009. &amp;nbsp;Who's interested?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2198</id>
+    <id>https://csells.github.io/sb6/2198</id>
     <title>Aaron Skonnard on "Oslo"</title>
     <updated>2008-11-03T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -132,7 +134,7 @@ Jon Flanders from pluralsight has posted &lt;A href="http://www.pluralsight.com/
 Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has provided &lt;A href="http://www.pluralsight.com/community/blogs/aaron/archive/2008/11/03/introducing-quot-oslo-quot.aspx">a very nice overview of "Oslo,"&lt;/A> including the major pieces and most importantly, why you care. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2197</id>
+    <id>https://csells.github.io/sb6/2197</id>
     <title>Oslo Week One Wrap-Up</title>
     <updated>2008-11-02T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -190,7 +192,7 @@ Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has pro
 &lt;P>Whew. We just announced "Oslo" last week and it's crazy how much there is on it already.&amp;nbsp;Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2196</id>
+    <id>https://csells.github.io/sb6/2196</id>
     <title>The Oslo Developer Center: Letter from the Editors</title>
     <updated>2008-10-27T07:00:00.000Z</updated>
     <category term="osloeditorial" label="Oslo"/>
@@ -249,7 +251,7 @@ Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has pro
 &lt;P>XXOO, Chris Sells &amp;amp; Kent Sharkey&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2195</id>
+    <id>https://csells.github.io/sb6/2195</id>
     <title>Tired of writing unit tests yourself? Try Pex!</title>
     <updated>2008-10-24T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -262,7 +264,7 @@ Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has pro
 &lt;P>So, Pex will produce a parameterized set of unit tests for your classes and does all of this integrated with Visual Studio and the unit testing built into VS. I've seen &lt;A href="http://msdn.microsoft.com/en-us/devlabs/cc950525.aspx">the demo&lt;/A> and it blew me away. Nikolai Tillmann, a developer at MSR (Microsoft Research), has &lt;A href="http://blogs.msdn.com/nikolait/archive/2008/10/21/sneak-preview-code-digger-the-new-pex-experience.aspx">a nice write-up that discusses his work&lt;/A>&amp;nbsp;and when you're done with that, go &lt;A href="http://msdn.microsoft.com/en-us/devlabs/cc950525.aspx">download Pex&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2194</id>
+    <id>https://csells.github.io/sb6/2194</id>
     <title>MS + jQuery: This Is Huge!</title>
     <updated>2008-09-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -279,7 +281,7 @@ Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has pro
 &lt;P>If we can learn to do that second thing, then we've turned a corner at Microsoft. I'm keeping my fingers crossed.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2193</id>
+    <id>https://csells.github.io/sb6/2193</id>
     <title>Teasers for this year's PDC</title>
     <updated>2008-09-24T07:00:00.000Z</updated>
     <published>2008-09-24T07:00:00.000Z</published>
@@ -296,7 +298,7 @@ Aaron Skonnard of &lt;A href="http://pluralsight.com">pluralsight&lt;/A> has pro
 &lt;P>If you haven't done so yet, &lt;A href="http://www.microsoftpdc.com/Registration/">you should register quickly&lt;/A> before the whole thing sells out.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2192</id>
+    <id>https://csells.github.io/sb6/2192</id>
     <title>Custom Window Chrome in WPF</title>
     <updated>2008-09-08T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

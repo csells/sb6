@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed85.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed85.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed84.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed86.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed85.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed84.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed86.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed85.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1219</id>
+    <id>https://csells.github.io/sb6/1219</id>
     <title>A Service The USPS Could Use to Trump FedEx</title>
     <updated>2004-03-21T08:00:00.000Z</updated>
     <published>2004-03-21T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 So long as the post office would toss the junk mail and I could switch my utilities to email from the source, &lt;A href="http://news.bbc.co.uk/2/hi/south_asia/3514252.stm">I'd happily pay $.22/letter to get my snail mail in email earlier&lt;/A>. Come to think of it, I'd pay them just to drop my junk mail...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1218</id>
+    <id>https://csells.github.io/sb6/1218</id>
     <title>New IE Security Features in XPSP2</title>
     <updated>2004-03-21T08:00:00.000Z</updated>
     <published>2004-03-21T08:00:00.000Z</published>
@@ -50,7 +52,7 @@ So long as the post office would toss the junk mail and I could switch my utilit
 &lt;P>Tony Screiner is spending &lt;A href="http://blogs.msdn.com/tonyschr/">the next week or so covering the new security features that XPSP2 includes for IE&lt;/A>, starting today with &lt;A href="http://blogs.msdn.com/tonyschr/archive/2004/03/21/93430.aspx">the new Authenticode dialog&lt;/A> (which is very reminiscent of what's coming in Whidbey's ClickOnce and in Longhorn). &lt;A href="http://blogs.msdn.com/tonyschr/Rss.aspx">Subscribed.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1217</id>
+    <id>https://csells.github.io/sb6/1217</id>
     <title>GUI Interface Gallery</title>
     <updated>2004-03-21T08:00:00.000Z</updated>
     <published>2004-03-21T08:00:00.000Z</published>
@@ -59,7 +61,7 @@ So long as the post office would toss the junk mail and I could switch my utilit
 Looking for old screenshots of Windows 3.0 or BeOS or MacOS? &lt;A href="http://www.cheztabor.com">Tim Tabor&lt;/A> posted a nice &lt;A href="http://www.aci.com.pl/mwichary/guidebook/index">web site dedicated to capturing screenshots from as many OS GUIs as possible&lt;/A>, including desktops and icons.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1214</id>
+    <id>https://csells.github.io/sb6/1214</id>
     <title>MapPoint Web Service Free for MSDN Subscribers</title>
     <updated>2004-03-20T08:00:00.000Z</updated>
     <published>2004-03-20T08:00:00.000Z</published>
@@ -69,7 +71,7 @@ Looking for old screenshots of Windows 3.0 or BeOS or MacOS? &lt;A href="http://
 &lt;P>[&lt;A href="http://radio.weblogs.com/0117167/2004/03/20.html#a591">via Early Adopter&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1216</id>
+    <id>https://csells.github.io/sb6/1216</id>
     <title>Programming Stinks</title>
     <updated>2004-03-20T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -79,7 +81,7 @@ Looking for old screenshots of Windows 3.0 or BeOS or MacOS? &lt;A href="http://
 &lt;P>As much as I love writing code, I realized long ago that it's really the act of bending my computer to my will that I really love. Programming's just the only way to really do that. After a few decades, you'd have thought we'd have come up with something better. &lt;A href="http://www.salon.com/tech/col/rose/2004/03/19/programmers_at_work/index.html">Our industry's pioneers agree that programming is holding us back, but don't really know what we'll use to replace it.&lt;/A> Ideas?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1215</id>
+    <id>https://csells.github.io/sb6/1215</id>
     <title>What About the Raw Sex Appeal?!?</title>
     <updated>2004-03-20T08:00:00.000Z</updated>
     <published>2004-03-20T08:00:00.000Z</published>
@@ -89,7 +91,7 @@ Looking for old screenshots of Windows 3.0 or BeOS or MacOS? &lt;A href="http://
 &lt;P>[&lt;A href="http://radio.weblogs.com/0001011/">via The Scobleizer&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1212</id>
+    <id>https://csells.github.io/sb6/1212</id>
     <title>Have Some of WinFS Today</title>
     <updated>2004-03-19T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -99,7 +101,7 @@ Looking for old screenshots of Windows 3.0 or BeOS or MacOS? &lt;A href="http://
 &lt;A href="http://www.x1.com/">I have absolutely fallen in love with&amp;nbsp;X1.&lt;/A> I don't search my email, attachments&amp;nbsp;or file system anymore; I just type a few character into filter fields until the results have narrowed enough to show me what I was looking for. This is but a small part of what WinFS is going to enabled and it already saves me hours/month. Highly recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12387</id>
+    <id>https://csells.github.io/sb6/12387</id>
     <title>HR Bloggers</title>
     <updated>2004-03-19T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -124,7 +126,7 @@ far more than the stuff on this one, most of which was obtained far before I
 ever worked at MS.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1211</id>
+    <id>https://csells.github.io/sb6/1211</id>
     <title>Today I Met A Lady Named "Friend"</title>
     <updated>2004-03-19T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -135,7 +137,7 @@ ever worked at MS.&lt;/p></content>
 &lt;P>Tracey was&amp;nbsp;&lt;EM>very&lt;/EM> friendly, just like all of the MS recruiters that I've met. In fact, MS recruiters are getting &lt;EM>so &lt;/EM>friendly, that &lt;A href="/12387">now HR is blogging&lt;/A>. What's next? Giving away the source?&amp;nbsp;: )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1213</id>
+    <id>https://csells.github.io/sb6/1213</id>
     <title>Review: Hell House</title>
     <updated>2004-03-19T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -148,7 +150,7 @@ ever worked at MS.&lt;/p></content>
 &lt;P>It amazes me that such a thing actually happens. The techniques they use reminds me of a cross between the horror movies we was made to watch in driver's ed and the pressure our society puts on our children to believe in Santa. Don't cults get into trouble for this kind of thing? Truth is truly stranger than fiction.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1206</id>
+    <id>https://csells.github.io/sb6/1206</id>
     <title>Hey! You Kids Get Outta My Yard!</title>
     <updated>2004-03-18T08:00:00.000Z</updated>
     <published>2004-03-18T08:00:00.000Z</published>
@@ -157,7 +159,7 @@ ever worked at MS.&lt;/p></content>
 &lt;a href="/1205">Here&lt;/a>. &lt;A href="/1205">Kids got no respect these days...&lt;/A> : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1210</id>
+    <id>https://csells.github.io/sb6/1210</id>
     <title>WinFS Scenario #4: Easing Development Process 2</title>
     <updated>2004-03-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -167,7 +169,7 @@ ever worked at MS.&lt;/p></content>
 Dan Crevier from the Office team &lt;A href="http://blogs.msdn.com/dancre/archive/2004/03/13/89256.aspx">pines for WinFS when they were implementing Mac Office 2004&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1208</id>
+    <id>https://csells.github.io/sb6/1208</id>
     <title>WinFS 101: Introducing the New Windows File System</title>
     <updated>2004-03-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -177,7 +179,7 @@ Dan Crevier from the Office team &lt;A href="http://blogs.msdn.com/dancre/archiv
 Thomas Rizzo, Director (!) on the SQL Server Product Management team, &lt;A href="http://www.msdn.microsoft.com/Longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnwinfs/html/winfs03112004.asp">kicks off his WinFS column with an overview of why we need it and what it is&lt;/A>. I always love the first piece in any column, as it sets the grounding information for what readers are going to need to understand reading future pieces. I especially love them from internal folks, as it really gives a flavor of what the product team (WinFS, in this case), had in mind that drove them to build their thing the way they did. &lt;A href="http://www.msdn.microsoft.com/Longhorn/understanding/columns/default.aspx?pull=/library/en-us/dnwinfs/html/winfs03112004.asp">Check it out.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1209</id>
+    <id>https://csells.github.io/sb6/1209</id>
     <title>Brent's Chapter 6: Indigo</title>
     <updated>2004-03-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ Thomas Rizzo, Director (!) on the SQL Server Product Management team, &lt;A href
 Read &lt;A href="http://www.msdn.microsoft.com/Longhorn/understanding/books/rector/default.aspx?pull=/library/en-us/dnintlong/html/longhornch06.asp">chapter 6 of Introducing Longhorn for Developers, where Brent dives into the Indigo pillar of Longhorn&lt;/A>, including an architectural overview, programming web services, programming remote objects, securing Indigo endpoints, reliable and durable messages and transactions.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1207</id>
+    <id>https://csells.github.io/sb6/1207</id>
     <title>Quick Review of 4 California Theme Parks</title>
     <updated>2004-03-18T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

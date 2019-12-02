@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed54.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed54.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed53.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed55.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed54.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed53.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed55.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed54.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1651</id>
+    <id>https://csells.github.io/sb6/1651</id>
     <title>A New WinFX Community Enters the Fray</title>
     <updated>2005-01-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;A class=headermaintitle id=Header1_HeaderTitle href="http://dotnetjunkies.com/WebLog/deepakkapoor/">Deepak Kapoor&lt;/A>&amp;nbsp;has launched a new WinFX community: &lt;A href="http://www.deepwinfx.com">deepwinfx.com&lt;/A>. It's pretty bare right now, but hopefully it'll flesh out nicely. I'll be keeping an eye on it. Good luck, Deepak!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1650</id>
+    <id>https://csells.github.io/sb6/1650</id>
     <title>ClickOnce Love</title>
     <updated>2005-01-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 S. "Soma" Somasegar, corporate vice president of the Developer Division at Microsoft, posts about &lt;A href="http://blogs.msdn.com/somasegar/archive/2005/01/11/351231.aspx">his understandable love of ClickOnce&lt;/A>. He'll be giving the keynote at VSLive and lists &lt;A href="http://blogs.bartdesmet.net/bart/archive/2004/12/26/518.aspx">three&lt;/A> &lt;A href="http://geekswithblogs.net/jglynn/archive/2004/08/05/9341.aspx">ClickOnce&lt;/A> &lt;A href="http://www.ondotnet.com/pub/a/dotnet/2004/10/11/clickonce.html">blog entries&lt;/A> at which you should take a gander.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12650</id>
+    <id>https://csells.github.io/sb6/12650</id>
     <title>Welcome to SolFx</title>
     <updated>2005-01-06T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/solfx/solfx1.jpg"/>
@@ -71,7 +73,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1647</id>
+    <id>https://csells.github.io/sb6/1647</id>
     <title>Avalon Nov. '04 CTP Sample: SolFx</title>
     <updated>2005-01-06T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/solfx/solfx1.jpg"/>
@@ -83,7 +85,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 &lt;P>&lt;img height=399 src="/public/fun/solfx/solfx1.jpg" width=557 border=0>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1646</id>
+    <id>https://csells.github.io/sb6/1646</id>
     <title>Thinstall sounds cool</title>
     <updated>2005-01-05T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -96,7 +98,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 &lt;P>Has anyone else tried it?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1644</id>
+    <id>https://csells.github.io/sb6/1644</id>
     <title>Paint.NET 2.0</title>
     <updated>2005-01-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -108,7 +110,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 &lt;P>Also, don't forget to check back in mid to late January for &lt;A href="http://www.eecs.wsu.edu/paint.net/plannedfeatures.html">Paint.NET 2.1&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1643</id>
+    <id>https://csells.github.io/sb6/1643</id>
     <title>Dissecting a C# Application: Inside SharpDevelop</title>
     <updated>2005-01-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -121,7 +123,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 &lt;p>And as if that weren't enough, because SharpDevelop is an open source project, if any of the features tickle your fancy, you can &lt;a href="http://www.sharpdevelop.com/OpenSource/SD/Download/">download the SourceDevelop code&lt;/a> to see how they were implemented.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1645</id>
+    <id>https://csells.github.io/sb6/1645</id>
     <title>Seeing Stars in Avalon</title>
     <updated>2005-01-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -131,7 +133,7 @@ re-using DrawingBrushes and a simplified card back. Enjoy!&lt;/p>
 Savas Parastatidis has posted his early work &lt;A href="http://savas.parastatidis.name/2004/12/21/86cbd8a6-e58d-4a3a-8b14-964fc44ed7c2.aspx">using Avalon 3D to visualize stars in the galaxy&lt;/A>. I don't believe that I've ever seen the stars line up like that, but the screen shots are cool anyway. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1642</id>
+    <id>https://csells.github.io/sb6/1642</id>
     <title>Death As A Possible Consequence</title>
     <updated>2005-01-02T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -141,7 +143,7 @@ Savas Parastatidis has posted his early work &lt;A href="http://savas.parastatid
 &lt;a href="/12480">Here&lt;/a>. The one where I describe &lt;a href="/12480">my recent run-ins with the Oregon traffic police&lt;/A> and my availability as the "Bad Boy" in your boy band.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12480</id>
+    <id>https://csells.github.io/sb6/12480</id>
     <title>Death As A Possible Consequence</title>
     <updated>2005-01-01T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -151,7 +153,7 @@ Savas Parastatidis has posted his early work &lt;A href="http://savas.parastatid
 &lt;p align="left">When something legal comes up, I like to dig into it. For example, I did my own consulting contracts for years, I've testified against &lt;a href="/12559">an Oregon state bill mandating Open Source Software&lt;/a> (a bill that was never passed), I wanted to &lt;a href="/12492">serve on a jury&lt;/a> and I've recently become very familiar with the Oregon state eviction and small claims procedures for a rental unit I own. I find laws and procedures to be fascinating and, like most things, showing up is 80%.&lt;/p>&lt;p align="left">However, I don't like the law so much when I'm the defendant, as was recently the case when the state of Oregon was hell bent on suspending my driver's license. It seems that if you get 4 tickets in 2 years that they like you to stay home for 30 days or at least take the bus more. I've had speeding tickets on and off for most of my life, but before this 2-year period which included a total of 6 tickets (thank goodness that the state of Oregon doesn't count tickets in Washington), I hadn't had a ticket for about 5 years. Incidentally, if I could manage to spread them out in a Bell Curve instead of in a Mandelbrot Set, I wouldn't even have to be in this predicament, but natural has it's laws and who am I to consider myself above them?&lt;/p>&lt;p align="left">Anyway, the tickets should hardly count. One was 'cuz I didn't slow down fast enough in one of those coastal towns where half of the tourist revenue comes from their 100 feet of road along the highway that drops from 55 to 25 with a sign posted behind a tree. Another was on the way to Burning Man. Sure, I was going a little fast, but I spent the next week driving the dusty BM roads on my bike -- can't we do some averaging here?!? Another was an actual speeding ticket around town and that one I'll admit to, but the forth one was when I passed into a turning lane through a solid yellow line in rush hour traffic 'cuz I wanted to turn left and the line of traffic was &lt;i>way&lt;/i> shorted than the line of traffic going straight, so I cheated over a few feet early. I mean, come on, that's just an efficient distribution of traffic! I was avoiding gridlock! It was practically my patriotic duty to move over into the left lane early!&lt;/p>&lt;p align="left">However, the truck that was waiting patiently to move over into the left turn lane until he had passed the solid yellow line just ahead of me didn't see it that way. Nor did the police car that had just turned the corner coming towards me as I scooted around the truck, neatly avoiding the oncoming traffic, all executed flawlessly while my wife dug her nails into my leg.&lt;/p>&lt;p align="left">So, I did what I do with all my tickets: I signed the back and I paid the money. I mean, it's not like my hairy cleavage is going to change any cop's mind, so what else could I do?&lt;/p>&lt;p align="left">When the letter from the state came that said they'd like me to turn in my driver's license for a month is when I started exploring options real quick.&lt;/p>&lt;p align="left">So, I called my tax/business/family attorney, who gave me the names of three traffic attorneys. Unfortunately, each of them specialized in Driving while Under-the-Influence and I began to think that I'd have been better off if I'd have been drunk. Each of them advised me that there was nothing anyone could do for me. I signed the ticket and I was going to have to give up my license. I also felt a very &amp;quot;and why are you wasting my time, you sober slug, I've got important drunk people to talk to&amp;quot; vibe, but that could've just been me...&lt;/p>&lt;p align="left">Luckily, once it was clear I was going to hang up the phone without giving the 3rd lawyer money, he mentioned another attorney that specialized in sober traffic offenses. This new attorney was one smooth operator. After about 5 minutes of questions over the phone, he'd figured out the &amp;quot;conviction&amp;quot; (when you sign the back of the ticket, you've agreed to be &amp;quot;convicted&amp;quot; of a crime) most likely to be turned back to trial (the passing violation, of all things). How did he determine the likelihood of getting a trial? He knew the prosecutor responsible for that part of the state! He was going to call the guy up, ask him for a solid, they run it by the judge as a formality and bang! I've got a new trial and my suspension was suspended pending the outcome of the trial.&lt;/p>&lt;p align="left">And what did I have to do? Show up in court and plea my case? (&amp;quot;You want the truth! You can't handle the truth! You want me crossing that line! You &lt;i>need &lt;/i>me crossing that line!&amp;quot;) Nope.&lt;/p>&lt;p align="left">Bring three character witnesses? (I have pictured Rory on the stand trying to provide a credible character assessment. : ) Nix.&lt;/p>&lt;p align="left">Lie under oath? (&amp;quot;Yes? Mr. Sells? This is Nancy Reagan. I'd like that Eagle Scout Award that my husband signed back, please. Seems you lied to get out of a traffic ticket...&amp;quot;) Nine.&lt;/p>&lt;p align="left">All I had to do was send in a $750 check and do it quickly, please. As soon as it cleared the bank, I'd have my new trial (although it's illegal for him to give me &amp;quot;odds&amp;quot; on my ability to get a new trial, my attorney was clear that it wouldn't be a problem).&lt;/p>&lt;p align="left">Plus, I didn't even have to go to the trial. In fact, in a very carefully worded letter from my attorney, he let me know that I should only come to court if I could say that I didn't do it with feeling and confidence. If I couldn't do that, I should just go about my business. Note that he never actually asked me if I did it or not. I find that a particularly fascinating and scary part of our legal system.&lt;/p>&lt;p align="left">Anyway, at the trial, my &amp;quot;conviction&amp;quot; (I have to put it in quotes or you might think I was a criminal [I mean, just 'cuz I committed a crime, doesn't make me a criminal, does it?]) was over-turned in exchange for 8 hours of &amp;quot;driving school.&amp;quot; This time, I'm using the quotes because there ain't no actual driving schooling going on. Instead, this is a replay of those driver's education movies where they show you &amp;quot;Faces of Death 3&amp;quot; in an effort to scare you onto the straight an narrow in a very Old Testament, fire and brimstone sorta way. Here's the descriptive paragraph from the letter I got in the mail yesterday:&lt;/p>&lt;blockquote>&lt;p align="left">&lt;i>&amp;quot;You have been given the opportunity to participate in the High Risk Driving Course... The course is designed to educate drivers to the potential and very real consequences of 'high-risk' driving behaviors. You will spend eight hours [in the course]. During this time you will hear several presentations on the consequences of high-risk driving, have contact with victims of traumatic injuries and their families, and discuss death as possible consequences of high risk driving choices. Participation in the course will include group discussions and testing, including essay questions and an evaluation of the course. We anticipate that facing the reality and potential consequences of high-risk driving behavior will positively affect the attitudes and behaviors that contribute to choices which place [you] and others at risk of serious injury and death... I understand that what I see and hear in this program is meant to have an emotional impact on me. I may experience psychological discomfort...&amp;quot;&lt;/i>&lt;/p>&lt;/blockquote>&lt;p align="left">I believe that participation in this program should qualify me as a &amp;quot;bad boy&amp;quot; and thereby make me the recipient of all of the benefits thereof, e.g. the alleged &amp;quot;good girls&amp;quot; that can't stay away from &amp;quot;bad boys&amp;quot; should now feel free to throw their undergarments onto the stage and to mob my limonene (it's a white '98 Volkswagen Cabrio Convertible &amp;quot;limo&amp;quot; [note the quotes] in case you're confused). The fact that my financial portfolio is fully diversified using CFA-certified asset allocation techniques, that I was a Boy Scout, that I'm married to my first real girlfriend, that I was a member of the marching band, that I was going 20 miles/hour when I committed my most recent traffic &amp;quot;crime&amp;quot; and that I wouldn't actually drive with a suspended license, thereby causing all kinds of havoc in my life, should not detract from my obvious reckless, dangerous, &amp;quot;high-risk&amp;quot; persona. Anyone need a bad boy for their boy band? I'm available...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1641</id>
+    <id>https://csells.github.io/sb6/1641</id>
     <title>Earthquake Disaster Relief Information</title>
     <updated>2004-12-31T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -163,7 +165,7 @@ Savas Parastatidis has posted his early work &lt;A href="http://savas.parastatid
 &lt;P>Thank you.&lt;A href="http://www.reliefweb.int/w/rwb.nsf">&lt;/P>&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1639</id>
+    <id>https://csells.github.io/sb6/1639</id>
     <title>Fix for VS05b1 Avalon compilation perf problems</title>
     <updated>2004-12-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -196,7 +198,7 @@ my emails on New Year's Eve even when they're officially Out Of Office -- for
 this tips!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1640</id>
+    <id>https://csells.github.io/sb6/1640</id>
     <title>"How Do I" Makes Me Smile</title>
     <updated>2004-12-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -206,7 +208,7 @@ this tips!&lt;/p></content>
 &lt;P>I liked the new "How Do I...?" section of the references pages in &lt;A href="http://winfx.msdn.microsoft.com">the WinFX SDK&lt;/A> before, but when I ran into the "How do I make an element spin in place?" section of the &lt;A href="http://winfx.msdn.microsoft.com/?//winfx.msdn.microsoft.com/winfx/ref/ns/system.windows.shapes/c/rectangle/rectangle.aspx">System.Windows.Shapes.Rectangle&lt;/A> (I mean, I need to make elements spin in place &lt;EM>all&lt;/EM> the time!), I fell in love. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1638</id>
+    <id>https://csells.github.io/sb6/1638</id>
     <title>BackgroundWorker and Sample for Compact Framework</title>
     <updated>2004-12-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -216,7 +218,7 @@ this tips!&lt;/p></content>
 Not only has Daniel Moth implemented the Windows Forms 2.0 &lt;A href="http://www.danielmoth.com/Blog/2004/12/backgroundworker-for-cf-10.html">BackgroundWorker component for the .NET Compact Framework&lt;/A>, but he's also &lt;A href="http://www.danielmoth.com/Blog/2004/12/backgroundworker-sample.html">ported my pi calculation application to use this new implementation&lt;/A> as an example of the savings in code that the BackgroundWorker component provides.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1637</id>
+    <id>https://csells.github.io/sb6/1637</id>
     <title>Microsoft Wants You To Speak At TechEd'05</title>
     <updated>2004-12-29T08:00:00.000Z</updated>
     <published>2004-12-29T08:00:00.000Z</published>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed64.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed64.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed63.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed65.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed64.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed63.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed65.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed64.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1506</id>
+    <id>https://csells.github.io/sb6/1506</id>
     <title>The One With The Man That Burns</title>
     <updated>2004-08-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -42,7 +44,7 @@
 I'm in-the-middle-desert unavailable this week @ &lt;A href="http://www.burningman.com/">Burning Man&lt;/A>. Wish this open-minded but sheltered Midwestern boy luck. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1507</id>
+    <id>https://csells.github.io/sb6/1507</id>
     <title>1/2 Price Devscovery Ticket for 8/31-9/2</title>
     <updated>2004-08-30T07:00:00.000Z</updated>
     <published>2004-08-30T07:00:00.000Z</published>
@@ -51,7 +53,7 @@ I'm in-the-middle-desert unavailable this week @ &lt;A href="http://www.burningm
 Rich has &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=e7849476-8482-4aea-b145-c8f96ae9ffef">one half-price ticket to the Redmond Devscovery running 8/31-9/2&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1508</id>
+    <id>https://csells.github.io/sb6/1508</id>
     <title>Jim Allchin, Group VP for Windows, on Channel9 Vid</title>
     <updated>2004-08-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@ Rich has &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=e78
 &lt;P>Channel9 has &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=19798">the latest Windows/WinFX/Longhorn/WinFS/Avalon/Indigo skinny right from the horse's mouth: Jim Allchin&lt;/A> the Group VP in charge of Windows.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1509</id>
+    <id>https://csells.github.io/sb6/1509</id>
     <title>Scoble Takes the Pulse of the Developer Community</title>
     <updated>2004-08-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ Rich has &lt;A href="http://richhubbins.theclaussens.com/PermaLink.aspx?guid=e78
 Robert Scoble has done &lt;A href="http://radio.weblogs.com/0001011/2004/08/30.html#a8167">a great job reporting the pulse of the Windows developer community&lt;/A> on &lt;A href="/1504">Friday's news&lt;/A>. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1505</id>
+    <id>https://csells.github.io/sb6/1505</id>
     <title>Jeremy Mazern on What Happened To Longhorn &amp; WinFS</title>
     <updated>2004-08-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -81,7 +83,7 @@ Robert Scoble has done &lt;A href="http://radio.weblogs.com/0001011/2004/08/30.h
 Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222488.aspx">Longhorn&lt;/A> and &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/08/29/222493.aspx">WinFS&lt;/A>. Most interesting is Jeremy's discussion of the usability&amp;nbsp;studies we did on WinFS and how we're using that information to improve the API. Check it out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1504</id>
+    <id>https://csells.github.io/sb6/1504</id>
     <title>WinFX To Be Available On Down-Level Windows</title>
     <updated>2004-08-27T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -98,7 +100,7 @@ Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/a
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1503</id>
+    <id>https://csells.github.io/sb6/1503</id>
     <title>Enjoyed Listening to Charles Petzold on .NET Rocks</title>
     <updated>2004-08-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -109,7 +111,7 @@ Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/a
 &lt;P>BTW, I'm a huge Richard the Toy Boy fan. He's got such a radio voice and entertaining manner that he should do the radio thing professionally (hopefully I'm not embarrassing myself because he's already a professional and I don't know it : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1502</id>
+    <id>https://csells.github.io/sb6/1502</id>
     <title>Here's A Side Of The Olympic I Hadn't Heard Before</title>
     <updated>2004-08-24T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -122,7 +124,7 @@ Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/a
 &lt;p>[&lt;a href="http://blogs.msdn.com/oldnewthing/archive/2004/08/23/218838.aspx">via Raymond Chen&lt;/a>]&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1500</id>
+    <id>https://csells.github.io/sb6/1500</id>
     <title>Why Joe Likes XAML</title>
     <updated>2004-08-22T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -137,7 +139,7 @@ Jeremy contributes to the news about &lt;A href="http://blogs.msdn.com/jmazner/a
 &lt;P>You can read about the work that Joe has done with XAML and download his code samples on his web site's &lt;A href="http://www.joemarini.com/tutorials/index.php">tutorial section&lt;/A>. Joe is definitely one to watch in the Longhorn/Avalon space.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12382</id>
+    <id>https://csells.github.io/sb6/12382</id>
     <title>Standing Out When Submitting Your Resume</title>
     <updated>2004-08-22T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -151,7 +153,7 @@ send, I love the idea of Michael Swanson opening the floodgates by
 sending his resume along with a life-size cardboard figure&lt;/a>. What's next?&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1501</id>
+    <id>https://csells.github.io/sb6/1501</id>
     <title>Tim Sneath On Building a Longhorn Sidebar</title>
     <updated>2004-08-22T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -161,7 +163,7 @@ sending his resume along with a life-size cardboard figure&lt;/a>. What's next?&
 &lt;A href="http://weblogs.asp.net/tims/archive/2004/08/20/217893.aspx">Tim Sneath shares his experiences building a Longhorn Sidebar&lt;/A>, including some tips on how to do the work w/o making your shell unusable (always a plus : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1499</id>
+    <id>https://csells.github.io/sb6/1499</id>
     <title>"You will have gold pieces by the bushel."</title>
     <updated>2004-08-21T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -171,7 +173,7 @@ sending his resume along with a life-size cardboard figure&lt;/a>. What's next?&
 That's quite a nice fortune. My lucky numbers were 7, 12, 15, 36, 39 and 21. With the "gold pieces by the bushel," I don't really need the lucky numbers, do I? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1498</id>
+    <id>https://csells.github.io/sb6/1498</id>
     <title>Wow. DevCon Already More Than Half Full</title>
     <updated>2004-08-20T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -181,7 +183,7 @@ That's quite a nice fortune. My lucky numbers were 7, 12, 15, 36, 39 and 21. Wit
 &lt;a href="/public/conference/">Here&lt;/a>. This is the 5th DevCon that I've thrown and I've &lt;EM>never&lt;/EM> seen it fill up this quickly. We're already half-way full after only a week of registrations. &lt;A HREF="/public/conference/">If you want a seat, you should get one quickly.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12344</id>
+    <id>https://csells.github.io/sb6/12344</id>
     <title>Wife Objects To Midget Above The Fridge</title>
     <updated>2004-08-20T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -245,7 +247,7 @@ work, 6 hours of commute and 6 hours of sleep over 2 days:&lt;/p>
 &lt;p>Is there any doubt why I love her? : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12383</id>
+    <id>https://csells.github.io/sb6/12383</id>
     <title>Some of the MS Interview Process Filmed (Finally!)</title>
     <updated>2004-08-20T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>

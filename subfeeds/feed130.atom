@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed130.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed130.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed129.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed131.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed130.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed129.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed131.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed130.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/601</id>
+    <id>https://csells.github.io/sb6/601</id>
     <title>My First API Review</title>
     <updated>2003-06-04T07:00:00.000Z</updated>
     <published>2003-06-04T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="/12550">Here&lt;/a>. The one where I crash a Longhorn API review and get to help name a data structure.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12550</id>
+    <id>https://csells.github.io/sb6/12550</id>
     <title>My First API Review</title>
     <updated>2003-06-04T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -99,7 +101,7 @@ experience all around.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/598</id>
+    <id>https://csells.github.io/sb6/598</id>
     <title>SQL Buddy</title>
     <updated>2003-06-03T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -109,7 +111,7 @@ experience all around.&lt;/p>
 &lt;a href="http://sqlbuddy.sourceforge.net/">Here&lt;/a>. I got turned onto this tool internally and I love it. It installs simply, works intuitively and allows for easy ad hoc queries and commands. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/600</id>
+    <id>https://csells.github.io/sb6/600</id>
     <title>Submitting to Billg's ThinkWeek</title>
     <updated>2003-06-03T07:00:00.000Z</updated>
     <published>2003-06-03T07:00:00.000Z</published>
@@ -118,7 +120,7 @@ experience all around.&lt;/p>
 &lt;a href="/12551">Here&lt;/a>. The one where I submit a paper to Billg's ThinkWeek and wonder what I heck I got myself into.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12551</id>
+    <id>https://csells.github.io/sb6/12551</id>
     <title>Submitting to Billg's ThinkWeek</title>
     <updated>2003-06-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -152,7 +154,7 @@ crossed. : )&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/599</id>
+    <id>https://csells.github.io/sb6/599</id>
     <title>Launching NTD Apps. w/ Command Line Args.</title>
     <updated>2003-06-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -162,7 +164,7 @@ crossed. : )&lt;/p>
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. Easily one of the questions I get asked the most once folks start using no-touch deployment (NTD) applications, that is Windows Forms applications that can launched with an URL, is how they can pass command line arguments to them. This article lays out the client-side and server-side code needed to make this happen. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/597</id>
+    <id>https://csells.github.io/sb6/597</id>
     <title>MSDN Article: No Touch Deployment</title>
     <updated>2003-06-02T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -173,7 +175,7 @@ crossed. : )&lt;/p>
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05152003.asp">Here&lt;/a>. From JosephCooney: Chris has a new MSDN article on passing command-line parameters to "No Touch Deployment" windows forms applications</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/596</id>
+    <id>https://csells.github.io/sb6/596</id>
     <title>SmartConsult .NET</title>
     <updated>2003-06-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -196,7 +198,7 @@ In simple words - You get your custom .NET components developed for one simple f
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/595</id>
+    <id>https://csells.github.io/sb6/595</id>
     <title>Code Library for .Net 3.0</title>
     <updated>2003-05-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -206,7 +208,7 @@ In simple words - You get your custom .NET components developed for one simple f
 &lt;a href="http://myweb.hinet.net/home4/s630417/">Here&lt;/a>. From fish: Helps you to find and use the code snippet.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/594</id>
+    <id>https://csells.github.io/sb6/594</id>
     <title>Feature packed "Date Picker" control for .NET!</title>
     <updated>2003-05-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -222,7 +224,7 @@ Also checkout our newly released .NET component prodcut-line!
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/593</id>
+    <id>https://csells.github.io/sb6/593</id>
     <title>MSDN Security Developer Center</title>
     <updated>2003-05-30T07:00:00.000Z</updated>
     <published>2003-05-30T07:00:00.000Z</published>
@@ -231,7 +233,7 @@ Also checkout our newly released .NET component prodcut-line!
 &lt;a href="http://msdn.microsoft.com/security/">Here&lt;/a>. Concerned about making your Windows code secure? Start here. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12391</id>
+    <id>https://csells.github.io/sb6/12391</id>
     <title>How Would You Move Mount Fuji?</title>
     <updated>2003-05-29T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -246,7 +248,7 @@ truly), check out
 How Would You Move Mount Fuji?&lt;/a> by William Poundstone.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/592</id>
+    <id>https://csells.github.io/sb6/592</id>
     <title>Software Legends Night in Greater Portland, OR</title>
     <updated>2003-05-29T07:00:00.000Z</updated>
     <published>2003-05-29T07:00:00.000Z</published>
@@ -257,7 +259,7 @@ How Would You Move Mount Fuji?&lt;/a> by William Poundstone.&lt;/p></content>
 As an added treat, my parents are in town for my wife's nursing school graduation and they'll be at Borders wondering what the hell people are all worked up about. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/590</id>
+    <id>https://csells.github.io/sb6/590</id>
     <title>ROI of Programming</title>
     <updated>2003-05-26T07:00:00.000Z</updated>
     <published>2003-05-26T07:00:00.000Z</published>
@@ -266,7 +268,7 @@ As an added treat, my parents are in town for my wife's nursing school graduatio
 &lt;a href="http://www.only4gurus.com/v2/ShowCat.asp?Cat=Search&amp;Key=ROI">Here&lt;/a>. From Carlos Aquino: There is a lot of talk about programming techniques, plataforms, languages and other technical issues. But, what about the ROI? Don't you even know what is ROI? ROI is the Return of the Investment and it is a magical word to the ones who emits your paychecks... Learn more with some papers about .NET ROI, Biztalk ROI and Streaming Media ROI. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/591</id>
+    <id>https://csells.github.io/sb6/591</id>
     <title>Ghost Installer Studio 3.6 Released</title>
     <updated>2003-05-26T07:00:00.000Z</updated>
     <published>2003-05-26T07:00:00.000Z</published>

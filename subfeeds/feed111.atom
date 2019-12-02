@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed111.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed111.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed110.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed112.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed111.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed110.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed112.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed111.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/851</id>
+    <id>https://csells.github.io/sb6/851</id>
     <title>Forces Required 2 Drag Sheep Over Various Surfaces</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <published>2003-10-03T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.improb.com/ig/ig-pastwinners.html#ig2003">Here&lt;/a>. The 2003 Ig Nobel Prize Winners</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/850</id>
+    <id>https://csells.github.io/sb6/850</id>
     <title>Use Rory Blyth as your own personal PDC reporter</title>
     <updated>2003-10-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 &lt;a href="http://www.neopoleon.com/blog/permalink.aspx/7c86cfcd-fc98-4c49-982a-e750e9eb54d4">Here&lt;/a>. Rory Blyth, potentially the most entertaining writer in the bloggesphere, has offered to be your own personal PDC reporter, attending the topics that you can't and writing them up for you. I'm not sure if he's willing to do this, but maybe you could talk him into wearing your clothers while he does it. I'm XXL, Rory, and like neon colors. I'll send my session schedule later today and you just hit all the ones I can't, OK? Great. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/847</id>
+    <id>https://csells.github.io/sb6/847</id>
     <title>PDC Pre-Con Tutorial: Windows Forms</title>
     <updated>2003-10-02T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -63,7 +65,7 @@
 Also, I've never spoken with Rocky before, but he's also a big Midwesterner with a strong opinion, so it should be fun. Plus, he prefers semi-colonless languages, so all kinds of sparks should fly as I attempt to convert him to the one, true way and he does the same to me. We may have trouble remembering there's an audience. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/844</id>
+    <id>https://csells.github.io/sb6/844</id>
     <title>MS "Send comments on this topic" really works!</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <published>2003-10-01T07:00:00.000Z</published>
@@ -74,7 +76,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 [1] http://www.amazon.com/exec/obidos/tg/detail/-/0321116208</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/841</id>
+    <id>https://csells.github.io/sb6/841</id>
     <title>BillG using his power for good, not evil</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <published>2003-10-01T07:00:00.000Z</published>
@@ -83,7 +85,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 &lt;a href="http://rover.cs.northwestern.edu/~surana/blog/past/000118.html">Here&lt;/a>. An interesting summary of the impact that the Bill &amp; Melinda Gates Foundation is having, and about to have, on the world.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/845</id>
+    <id>https://csells.github.io/sb6/845</id>
     <title>Windows XP Media Center Edition 2004 Review</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <published>2003-10-01T07:00:00.000Z</published>
@@ -92,7 +94,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 &lt;a href="http://www.winsupersite.com/reviews/windowsxp_mce2004.asp">Here&lt;/a>. Microsoft quietly released Windows XP Media Center Edition 2004 and Paul Thurrott loudly loves it (although he certainly identifies "opportunities for improvement" as well... : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/842</id>
+    <id>https://csells.github.io/sb6/842</id>
     <title>Nice video intro to Office 2003</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <published>2003-10-01T07:00:00.000Z</published>
@@ -101,7 +103,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 &lt;a href="http://www.microsoft.com/insider/live/default.aspx?page=currentShow">Here&lt;/a>. "Are you curious about the new Microsoft® Office System, including the latest versions of Office Professional Edition, Outlook®, and the all-new OneNote™ note-taking application? The current Insider show is a perfect way to whet your appetite for their release this fall, plus get the latest information on Tablet PC."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/846</id>
+    <id>https://csells.github.io/sb6/846</id>
     <title>LonghornBlogs.com</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 &lt;a href="http://www.longhornblogs.com/">Here&lt;/a>. "LonghornBlogs.com is a community initiative to help spread the word with factual information about the next version of Windows, straight from the people that are building it. Because of this, the majority of people posting here (at least for now) will be Microsoft employees. Our intention here was to keep the signal-to-noise ratio extremely low. You won't find too many personal posts here, just good solid information about Longhorn."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/843</id>
+    <id>https://csells.github.io/sb6/843</id>
     <title>.NET Resource Kit CD</title>
     <updated>2003-10-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -121,7 +123,7 @@ Also, I've never spoken with Rocky before, but he's also a big Midwesterner with
 &lt;a href="http://msdn.microsoft.com/vbasic/vbrkit/">Here&lt;/a>. While the .NET Resource Kit is targeted at VB programmers, it comes with tons of real 3rd party controls for free that work just as well for C# programmers as well as VB.NET programmers.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/840</id>
+    <id>https://csells.github.io/sb6/840</id>
     <title>I *Trust* MIT</title>
     <updated>2003-09-30T07:00:00.000Z</updated>
     <published>2003-09-30T07:00:00.000Z</published>
@@ -134,7 +136,7 @@ I wish MIT provided discussion forums so that I could talk with other students "
 I think I'll start with 15.433...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/838</id>
+    <id>https://csells.github.io/sb6/838</id>
     <title>A *royalty* check from Pearson!</title>
     <updated>2003-09-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -145,7 +147,7 @@ I think I'll start with 15.433...</content>
 &lt;a href="/writing">Here&lt;/a>. Whoa. I just got a royalty check from Pearson today. Right now, it lists my advance for the WinForms book (which may turn into positive money some day), but also includes money from ATL Internals (which I'm still proud of) and Windows Telephony Programming (which I can't believe is still selling!). I won't be able to put my kids through college with the money. In fact, I can barely put them through a car wash with that money, but it's still nice. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/839</id>
+    <id>https://csells.github.io/sb6/839</id>
     <title>Creating Doc-Centric Apps in WinForms, part 1 of 3</title>
     <updated>2003-09-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -166,7 +168,7 @@ Part 3 wraps most everything up into a reusable component, turning the construct
 Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/837</id>
+    <id>https://csells.github.io/sb6/837</id>
     <title>Interview with Tim Bray, co-inventor of XML</title>
     <updated>2003-09-29T07:00:00.000Z</updated>
     <published>2003-09-29T07:00:00.000Z</published>
@@ -175,7 +177,7 @@ Enjoy.</content>
 &lt;a href="http://rss.com.com/2008-1082_3-5080774.html">Here&lt;/a>. Tim talks on the topic of the business value of XML and web services, the difficulting in programming XML, and the strides that tools like .NET are making in making XML less difficult to program.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/834</id>
+    <id>https://csells.github.io/sb6/834</id>
     <title>The Google File System</title>
     <updated>2003-09-28T07:00:00.000Z</updated>
     <published>2003-09-28T07:00:00.000Z</published>
@@ -186,7 +188,7 @@ Enjoy.</content>
 [boingboing.net]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/835</id>
+    <id>https://csells.github.io/sb6/835</id>
     <title>Pointy-Hair Boss Tells All</title>
     <updated>2003-09-28T07:00:00.000Z</updated>
     <published>2003-09-28T07:00:00.000Z</published>

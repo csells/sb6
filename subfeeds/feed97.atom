@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed97.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed97.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed96.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed98.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed97.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed96.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed98.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed97.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1048</id>
+    <id>https://csells.github.io/sb6/1048</id>
     <title>Give Your Feedback on the WinFX Docs</title>
     <updated>2004-01-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://blogs.msdn.com/brada/archive/2004/01/14/58648.aspx">Here&lt;/a>. Brad Abrams, Lead PM on the .NET Framework team, is asking how you'd like to see Microsoft improve &lt;A href="http://longhorn.msdn.microsoft.com">the WinFX documentation&lt;/A>. Don't be shy; complaining now can improve your life later.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1044</id>
+    <id>https://csells.github.io/sb6/1044</id>
     <title>Intro'ing Longhorn for Developers Ch4: Storage</title>
     <updated>2004-01-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://msdn.microsoft.com/longhorn/understanding/books/default.aspx?pull=/library/en-us/dnintlong/html/longhornch04.asp">Here&lt;/a>. &lt;P>In this chapter, Brent Rector provides his overview of WinFS, including the programming model and how to access items from the WinFS API and via SQL directly (the latter sounds a lot more fun that it is : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1047</id>
+    <id>https://csells.github.io/sb6/1047</id>
     <title>Bush: Get Your Own Dream!</title>
     <updated>2004-01-15T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -63,7 +65,7 @@
 &lt;P>Sorry about that... I now return you to your regularly scheduled programming.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1040</id>
+    <id>https://csells.github.io/sb6/1040</id>
     <title>Don Box on Indigo</title>
     <updated>2004-01-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt;/A> has &lt;A href="http://www.theserverside.net/talks/index.aspx">an interview with Don Box on Indigo&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1043</id>
+    <id>https://csells.github.io/sb6/1043</id>
     <title>Inside Avalon: Timing Is Everything</title>
     <updated>2004-01-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt
 &lt;a href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnavalon/html/avalon01062004.asp">Here&lt;/a>. Jeff Bogdan, one of the chief architects on the Microsoft Avalon team, kicks off the new Avalon column that he shares with &lt;A href="http://www.simplegeek.com">Chris Anderson&lt;/A>, the other chief architect on the Avalon team. These guys know Avalon because they had a hand in inventing it, so I'm *very* much looking forward to this column. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1042</id>
+    <id>https://csells.github.io/sb6/1042</id>
     <title>Creating Indigo Applications with the PDC Bits</title>
     <updated>2004-01-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -93,7 +95,7 @@ The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt
 &lt;a href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlingo/html/indigolingo01062004.asp">Here&lt;/a>. Yasser Shohoud, a member of the Indigo team at Microsoft,&amp;nbsp;kicks off his new Indigo column with a walk-through of how to get started programming Indigo using the Visual Studio .NET templates that come with the Longhorn SDK. Yasser is also the author of the well-regarded &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0201774259">Real World XML Web Services: For VB and VB .NET Developers&lt;/A>, so I'm looking forward to more discussions of how to apply Indigo in the real world. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1041</id>
+    <id>https://csells.github.io/sb6/1041</id>
     <title>Evidence of Life on Mars</title>
     <updated>2004-01-14T08:00:00.000Z</updated>
     <published>2004-01-14T08:00:00.000Z</published>
@@ -103,7 +105,7 @@ The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt
 &lt;P>[1] but in a good way!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1039</id>
+    <id>https://csells.github.io/sb6/1039</id>
     <title>Passing the Torch on Wonder of Windows Forms</title>
     <updated>2004-01-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -113,7 +115,7 @@ The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms12182003.asp">Here&lt;/a>. This month, Mike Weinhardt takes over for me on the Wonder of Windows Forms column so that I can concentrate on Longhorn. Mike is the co-author on the 2e of Windows Forms Programming book and a co-author with me on &lt;A href="http://msdn.microsoft.com/msdnmag/issues/03/04/Design-TimeControls/default.aspx">a couple of Windows Forms&lt;/A> &lt;A href="http://msdn.microsoft.com/msdnmag/issues/03/05/Design-TimeControls/default.aspx">Designer integration pieces&lt;/A> for MSDN Magazine, so he's well qualified. Plus, as an Ozzie, he's got quite an interesting outlook. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1037</id>
+    <id>https://csells.github.io/sb6/1037</id>
     <title>My Windows Forms Book On Amazon's Top 10</title>
     <updated>2004-01-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -123,7 +125,7 @@ The new .NET site &lt;A href="http://www.theserverside.net">TheServerSide.NET&lt
 Holy cow! Windows Forms Programming in C# is &lt;A href="http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/books/285844/ref%3Dbr%5Fts%5Fslwth%5Fth%5Fmore/002-8484084-0560053">#10 on the list of best-selling Microsoft-related books&lt;/A>. I'd like to thank the academy...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1036</id>
+    <id>https://csells.github.io/sb6/1036</id>
     <title>WinFX 247 Web Site Beta</title>
     <updated>2004-01-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -133,7 +135,7 @@ Holy cow! Windows Forms Programming in C# is &lt;A href="http://www.amazon.com/e
 From the same folks that brought you &lt;A href="http://www.dotnet247.com/">dotnet247.com&lt;/A> comes &lt;A href="http://www.winfx247.com/">winfx247.com&lt;/A>. Since half of my .NET coding research yields answers at dotnet247.com, I'm excited to see the Longhorn/WinFX equivalent. It's new, but I'm sure it will be a very useful site over time.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1038</id>
+    <id>https://csells.github.io/sb6/1038</id>
     <title>Joe Hewitt on What Longhorn Needs for Developers</title>
     <updated>2004-01-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -145,7 +147,7 @@ From the same folks that brought you &lt;A href="http://www.dotnet247.com/">dotn
 &lt;P>As a app builder in my heart, I absolutely want the tools to build *good* applications, not just *pretty* applications.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12389</id>
+    <id>https://csells.github.io/sb6/12389</id>
     <title>Interviewing at 
 Lego</title>
     <updated>2004-01-10T08:00:00.000Z</updated>
@@ -160,7 +162,7 @@ different interview process than you're likely to get at Microsoft (except that
 'softies hit you with sneaky stuff, too, sometimes : ).&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12509</id>
+    <id>https://csells.github.io/sb6/12509</id>
     <title>Surprised by Microsoft's Openness</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -200,7 +202,7 @@ to work at Microsoft.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1030</id>
+    <id>https://csells.github.io/sb6/1030</id>
     <title>Developers Shrug Off Longhorn Delay Rumors</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -210,7 +212,7 @@ to work at Microsoft.&lt;/p>
 &lt;a href="http://www.ecommercetimes.com/perl/story/32522.html">Here&lt;/a>. &lt;P>&amp;lt;whew&amp;gt; : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1031</id>
+    <id>https://csells.github.io/sb6/1031</id>
     <title>New Home for Many MS Bloggers</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <published>2004-01-09T08:00:00.000Z</published>

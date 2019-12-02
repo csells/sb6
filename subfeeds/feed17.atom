@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed17.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed17.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed16.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed18.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed17.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed16.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed18.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed17.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2176</id>
+    <id>https://csells.github.io/sb6/2176</id>
     <title>Anyone know anyone in the TV industry?</title>
     <updated>2008-03-17T07:00:00.000Z</updated>
     <published>2008-03-17T07:00:00.000Z</published>
@@ -43,7 +45,7 @@
 &lt;P>Anyone know anyone that needs the story for a new TV show? We'd watch and buy tons of advertisers' products!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2175</id>
+    <id>https://csells.github.io/sb6/2175</id>
     <title>Do you want to host the WF workflow and rules designer?</title>
     <updated>2008-03-14T07:00:00.000Z</updated>
     <published>2008-03-14T07:00:00.000Z</published>
@@ -52,7 +54,7 @@
 If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_Rules_Designer_Rehosting_Blogs">fill in this survey and tell the WF team what you want&lt;/A>. They *really* want to know.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2174</id>
+    <id>https://csells.github.io/sb6/2174</id>
     <title>On Beyond Unit Testing</title>
     <updated>2008-03-08T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -64,7 +66,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2173</id>
+    <id>https://csells.github.io/sb6/2173</id>
     <title>My Favorite Blog: Scott's computerzen.com</title>
     <updated>2008-03-04T08:00:00.000Z</updated>
     <published>2008-03-04T08:00:00.000Z</published>
@@ -74,7 +76,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>Just this morning, I enjoyed &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/SixMonthsInTheInsideAmIEvilYet.aspx" rel=bookmark>&lt;FONT color=#72412c>Six Months in the Inside - Am I evil yet?&lt;/FONT>&lt;/A>, &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/AmazonKindle.aspx" rel=bookmark>&lt;FONT color=#72412c>Amazon Kindle&lt;/FONT>&lt;/A>&amp;nbsp;and &lt;A class=TitleLinkStyle href="http://www.hanselman.com/blog/LINQToEverythingLINQToXSDAddsMoreLINQiness.aspx" rel=bookmark>&lt;FONT color=#72412c>LINQ to Everything - LINQ to XSD adds more LINQiness&lt;/FONT>&lt;/A>. The Kindle review was especially enlightening because it was the first one I've read that actually a) covered the stuff I care about and b) pushed me off the fence about whether I want one (I do!).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2172</id>
+    <id>https://csells.github.io/sb6/2172</id>
     <title>Programming WPF: "Programming Book of the Decade"</title>
     <updated>2008-03-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -85,7 +87,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>&lt;A href="http://www.amazon.com/review/R2ORK7Y8N3HUMZ/ref=cm_cr_rdp_perm">*blush*&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2171</id>
+    <id>https://csells.github.io/sb6/2171</id>
     <title>Programming WPF enters 2nd printing!</title>
     <updated>2008-02-21T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -98,7 +100,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>Thanks for reading.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2170</id>
+    <id>https://csells.github.io/sb6/2170</id>
     <title>Bridging object models: the faux-object idiom</title>
     <updated>2008-02-20T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -116,7 +118,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2169</id>
+    <id>https://csells.github.io/sb6/2169</id>
     <title>.NET Source Code Mass Downloader</title>
     <updated>2008-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -127,7 +129,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>21 Days Later: &lt;A href="http://www.kodyaz.com/blogs/unknown_tales_from_kerem/default.aspx">Kerem Kusmezer&lt;/A> and &lt;A href="http://www.wintellect.com/cs/blogs/jrobbins/default.aspx">John Robbins&lt;/A>&amp;nbsp;released &lt;A href="http://www.codeplex.com/NetMassDownloader">a tool to download the source code en mass&lt;/A>. Frankly, I'm surprised it took so long. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2168</id>
+    <id>https://csells.github.io/sb6/2168</id>
     <title>I woke up today and decided to win the lottery</title>
     <updated>2008-02-01T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -154,7 +156,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>It's already been a good day. Think how much better it'll be after they announce my winning numbers? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2167</id>
+    <id>https://csells.github.io/sb6/2167</id>
     <title>Poetry Proclivities</title>
     <updated>2008-01-30T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -167,7 +169,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>I've seen &lt;a href="/12362">geek poetry&lt;/A>, &lt;a href="/12359">geek activities as song parodies&lt;/A>, &lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=367997#367997">programs as songs (genius!)&lt;/A>, but I've never seen a geek limerick. Got any?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2166</id>
+    <id>https://csells.github.io/sb6/2166</id>
     <title>Configuring VS08 to Debug .NET Framework Source</title>
     <updated>2008-01-18T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -189,7 +191,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;P>Others are coming. Thanks, Shawn!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2165</id>
+    <id>https://csells.github.io/sb6/2165</id>
     <title>Bookscan says "Programming WPF" is #3 .NET book!</title>
     <updated>2008-01-17T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -200,7 +202,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 &lt;A href="http://www.amazon.com/Programming-WPF-Chris-Sells/dp/0596510373/">Wahoo!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2164</id>
+    <id>https://csells.github.io/sb6/2164</id>
     <title>WPF Book Easter Egg</title>
     <updated>2008-01-08T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -211,7 +213,7 @@ If so, &lt;A href="https://live.datstat.com/MSCSD-Collector/Survey.ashx?Name=WF_
 Does anyone have both the Anderson WPF book and the Griffiths/Sells WPF book? If so, have you read Don's forewords in both books?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2163</id>
+    <id>https://csells.github.io/sb6/2163</id>
     <title>The Annotated Turing!</title>
     <updated>2008-01-06T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -222,7 +224,7 @@ Does anyone have both the Anderson WPF book and the Griffiths/Sells WPF book? If
 I just saw that Mr. Petzold is &lt;A href="http://www.charlespetzold.com/AnnotatedTuring/">re-publishing the paper that started computer science and annotating it&lt;/A> so that even I can understand it. I can't wait!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2162</id>
+    <id>https://csells.github.io/sb6/2162</id>
     <title>Time for some anti-social networking</title>
     <updated>2008-01-05T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

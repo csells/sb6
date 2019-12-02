@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed119.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed119.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed118.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed120.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed119.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed118.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed120.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed119.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/740</id>
+    <id>https://csells.github.io/sb6/740</id>
     <title>Visual Studio .NET Code Generator Shim</title>
     <updated>2003-08-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.gotdotnet.com/Community/Workspaces/Workspace.aspx?id=ef3d0a73-0468-46da-8780-ede0f12b6f22">Here&lt;/a>. Atif Aziz built a generic VS.NET code generator shim that allows you to build a code generator that plugs into VS.NET by implementing a single method. Cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/738</id>
+    <id>https://csells.github.io/sb6/738</id>
     <title>Just got an invitation to BloggerCon</title>
     <updated>2003-08-07T07:00:00.000Z</updated>
     <published>2003-08-07T07:00:00.000Z</published>
@@ -51,7 +53,7 @@
 &lt;a href="http://blogs.law.harvard.edu/bloggerCon/">Here&lt;/a>. BloggerCon is a user conference, which would be very new to me (I've only ever attended developer conferences). Have there been previous BloggerCons? If so, how have folks liked them?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/736</id>
+    <id>https://csells.github.io/sb6/736</id>
     <title>Format Specifiers Appendix from C# in a Nutshell</title>
     <updated>2003-08-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@
 &lt;a href="http://www.oreilly.com/catalog/csharpnut/chapter/appb.pdf">Here&lt;/a>. By request, O'Reilly and Assoc. has posted the Format Specifiers appendix from C# in a Nutshell by Drayton et al. It's a wonderful reference to the String.Format/ToString format specifiers that I'm constantly searching for on MSDN. Thanks, ORA!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/737</id>
+    <id>https://csells.github.io/sb6/737</id>
     <title>FormatDesigner</title>
     <updated>2003-08-06T07:00:00.000Z</updated>
     <published>2003-08-06T07:00:00.000Z</published>
@@ -70,7 +72,7 @@
 &lt;a href="/12416">Here&lt;/a>. FormatDesigner is an application to experiment with the format strings used to format data in String.Format and various type's ToString functions.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12416</id>
+    <id>https://csells.github.io/sb6/12416</id>
     <title>.NET FormatDesigner</title>
     <updated>2003-08-06T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/formatd.JPG"/>
@@ -92,7 +94,7 @@
 	&lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/735</id>
+    <id>https://csells.github.io/sb6/735</id>
     <title>P2P + DRM</title>
     <updated>2003-08-06T07:00:00.000Z</updated>
     <published>2003-08-06T07:00:00.000Z</published>
@@ -101,7 +103,7 @@
 &lt;a href="http://www.altnet.com/">Here&lt;/a>. I hesitate to blog this because you might not believe the "my friend" part, but my friend was just downloading some stuff with Kazaa and found a bunch of it tagged with DRM. Apparently AltNet is tagging porn content with Digital Rights Management and dropping it into peer-to-peer networks. When someone finds the AltNcontent in their search, downloads it and is asked to pay some small amount of money before consuming the content. What a great way to get your content out to folks and get paid for it! Why didn't the RIAA think of this instead of suing their customers into oblivion? Those porn guys are always way ahead of their time...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/732</id>
+    <id>https://csells.github.io/sb6/732</id>
     <title>Howl: Windows implementation of Rendezvous(tm)</title>
     <updated>2003-08-05T07:00:00.000Z</updated>
     <published>2003-08-05T07:00:00.000Z</published>
@@ -110,7 +112,7 @@
 &lt;a href="http://www.swampwolf.com/products/">Here&lt;/a>. Here's an open source implementation of Apple's Rendezvous(tm). I don't know what this protocol enables, but folks seemed to like it at the Applied XML Dev.Conf.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/733</id>
+    <id>https://csells.github.io/sb6/733</id>
     <title>Consider offering freelance technical support</title>
     <updated>2003-08-05T07:00:00.000Z</updated>
     <published>2003-08-05T07:00:00.000Z</published>
@@ -123,7 +125,7 @@
 Well-reasoned and well-written.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/734</id>
+    <id>https://csells.github.io/sb6/734</id>
     <title>Don Box Sings</title>
     <updated>2003-08-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -133,7 +135,7 @@ Well-reasoned and well-written.</content>
 &lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. You haven't lived 'til you've had Don Box call you at home to sing you the fresh lyrics from a new parody to be performed by the Band on the Runtime at the next major MS event. PDC is going to rock.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/730</id>
+    <id>https://csells.github.io/sb6/730</id>
     <title>Unskilled and Unaware of It</title>
     <updated>2003-08-04T07:00:00.000Z</updated>
     <published>2003-08-04T07:00:00.000Z</published>
@@ -152,7 +154,7 @@ On a lighter note, I love how the researchers go "meta" at the end of their arti
 : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/731</id>
+    <id>https://csells.github.io/sb6/731</id>
     <title>RSSJobs</title>
     <updated>2003-08-04T07:00:00.000Z</updated>
     <published>2003-08-04T07:00:00.000Z</published>
@@ -163,22 +165,22 @@ On a lighter note, I love how the researchers go "meta" at the end of their arti
 With all of the RSS "agents" I've been finding, I'm come to the conclusion that my RSS aggregator is more important than my browser. My browser displays the information but my RSS aggregator tells me there is some information of interest to me, a much harder and more important job.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/728</id>
+    <id>https://csells.github.io/sb6/728</id>
     <title>Comics via RSS?</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <published>2003-08-03T07:00:00.000Z</published>
-    <summary>Here. Has anyone built a comics.com to RSS gateway? I'd like to subscribe to my favorite comics w/o being forced to actually visit the site on a daily basis (I don't do that anymore [*]). A dilbert.com to RSS gateway would be nice, too. [*] http://127.0.0.1:8080/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
+    <summary>Here. Has anyone built a comics.com to RSS gateway? I'd like to subscribe to my favorite comics w/o being forced to actually visit the site on a daily basis (I don't do that anymore [*]). A dilbert.com to RSS gateway would be nice, too. [*] https://csells.github.io/sb6/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
 </summary>
     <content type="html">&lt;h1>Comics via RSS?&lt;/h1>
 &lt;a href="http://www.comics.com">Here&lt;/a>. Has anyone built a comics.com to RSS gateway? I'd like to subscribe to my favorite comics w/o being forced to actually visit the site on a daily basis (I don't do that anymore [*]).
 
 A dilbert.com to RSS gateway would be nice, too.
 
-[*] http://127.0.0.1:8080/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
+[*] https://csells.github.io/sb6/spout/#No_huggy,_no_kissy,_until_I_get_an_RSS_feed
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/727</id>
+    <id>https://csells.github.io/sb6/727</id>
     <title>Positive Affirmation</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <published>2003-08-03T07:00:00.000Z</published>
@@ -187,7 +189,7 @@ A dilbert.com to RSS gateway would be nice, too.
 &lt;a href="/12531">Here&lt;/a>. The one where I mix Scott Adams and losing the lottery and pretend that I'm OK with the whole thing... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/729</id>
+    <id>https://csells.github.io/sb6/729</id>
     <title>Another Reason That Feedster Rocks</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <published>2003-08-03T07:00:00.000Z</published>
@@ -199,12 +201,12 @@ When combined with recent versions of SharpReader that has built in support for 
 
 Why doesn't Google provide their results in RSS? Anyone built an RSS gateway for Google yet?
 
-[1] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=707
-[2] http://127.0.0.1:8080/news/showTopic.aspx?ixTopic=703
+[1] https://csells.github.io/sb6/news/showTopic.aspx?ixTopic=707
+[2] https://csells.github.io/sb6/news/showTopic.aspx?ixTopic=703
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/725</id>
+    <id>https://csells.github.io/sb6/725</id>
     <title>Intellectual Sensuality</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <published>2003-08-03T07:00:00.000Z</published>

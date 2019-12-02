@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed27.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed27.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed26.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed28.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed27.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed26.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed28.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed27.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2031</id>
+    <id>https://csells.github.io/sb6/2031</id>
     <title>Fixing the Internet</title>
     <updated>2006-08-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -50,7 +52,7 @@
 &lt;P>Anyway, I wish I could tell you about this guy 'cuz he does great work and he deserves move business. Hopefully this post will shame him into it. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2028</id>
+    <id>https://csells.github.io/sb6/2028</id>
     <title>Vista Song Parody from Ted + Carl!</title>
     <updated>2006-08-15T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -60,7 +62,7 @@
 I'm a big Ted Pattison fan in general (you have *got* to hear the story where the cowboy shows up at the door in buttless leather chaps), but he's at his best when he's singing (or holding Don's hand). Of course, Carl Franklin's no slouch at singing either (I don't know how he his at holding hands or whether his chaps have a butt or not), so &lt;A href="http://www.pwop.com/vista.mp3">you'll want to hear them singing "Why Did Shipping Vista Turn Out to be so Hard"&lt;/A> sttto "Me and Julio Down by the School Yard," by Paul Simon. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2029</id>
+    <id>https://csells.github.io/sb6/2029</id>
     <title>$33 On Bookpool: Windows Forms 2.0 Programming</title>
     <updated>2006-08-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -71,7 +73,7 @@ I'm a big Ted Pattison fan in general (you have *got* to hear the story where th
 The nice folks at Bookpool are running a special on &lt;A href="http://www.bookpool.com/sm/0321267966">Windows Forms 2.0 Programming: only $33!&lt;/A> Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2027</id>
+    <id>https://csells.github.io/sb6/2027</id>
     <title>24 and the Comic Book Archive</title>
     <updated>2006-08-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -84,7 +86,7 @@ The nice folks at Bookpool are running a special on &lt;A href="http://www.bookp
 &lt;P>Wouldn't that make Jack proud?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2026</id>
+    <id>https://csells.github.io/sb6/2026</id>
     <title>WPF Security in 14 Points and Some Extra Words</title>
     <updated>2006-08-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -94,7 +96,7 @@ The nice folks at Bookpool are running a special on &lt;A href="http://www.bookp
 MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D26D609CF01!132.entry">a nice summary to get you started down the road to WPF ClickOnce deployment&lt;/A>, both for stand-alone apps and browser-based apps (XBAPs). Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2025</id>
+    <id>https://csells.github.io/sb6/2025</id>
     <title>Get 'Em While They're Hot</title>
     <updated>2006-08-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -105,7 +107,7 @@ MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D2
 &lt;P>Even though &lt;a href="/12462">the 1st printing&lt;/A> was just in May of this year, &lt;A href="http://www.amazon.com/gp/product/0321267966/">Windows Forms 2.0 Programming&lt;/A> just entered the 2nd printing. Thanks for reading!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2024</id>
+    <id>https://csells.github.io/sb6/2024</id>
     <title>We Sold A Copy of ATL Internals!</title>
     <updated>2006-08-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -116,7 +118,7 @@ MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D2
 &lt;P>You said it couldn't be done, but ATL Internals, 2e, has &lt;A href="http://www.amazon.com/gp/product/customer-reviews/0321159624/">a review&lt;/A>! Thanks, W.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2023</id>
+    <id>https://csells.github.io/sb6/2023</id>
     <title>The Media Center PC ain't a desktop; it's a server</title>
     <updated>2006-08-08T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -128,7 +130,7 @@ MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D2
 &lt;P>What's not to love about that?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2022</id>
+    <id>https://csells.github.io/sb6/2022</id>
     <title>3 Degrees of Email Separation</title>
     <updated>2006-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -140,7 +142,7 @@ MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D2
 &lt;P>I consider the ability to follow this chain to an answer one of the huge benefits of my industry -- I wish I was able to tap into it in other disciples, e.g. health care, financial, home repair, etc. Likely these chains exist in other areas, too, I just don't know the first link in the chain. I actually tried to establish a financial chain one time, but that just pissed off the guy who was always my first email. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2021</id>
+    <id>https://csells.github.io/sb6/2021</id>
     <title>Custom Settings Provider in .NET 2.0</title>
     <updated>2006-07-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -151,7 +153,7 @@ MikeDub has &lt;A href="http://michaelweinhardt.spaces.live.com/blog/cns!BCB75D2
 I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and built a sample to demonstrate how to integrate it (or any .NET 2.0 custom settings provider) with the settings designer-generated code. &lt;A href="/public/writing/dotnet2customsettingsprovider.htm">Enjoy&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12414</id>
+    <id>https://csells.github.io/sb6/12414</id>
     <title>Number To String Converter</title>
     <updated>2006-07-30T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/num2str0.jpg"/>
@@ -193,7 +195,7 @@ I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and
 	Discuss&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12413</id>
+    <id>https://csells.github.io/sb6/12413</id>
     <title>RegistrySettingsProvider2</title>
     <updated>2006-07-30T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -212,7 +214,7 @@ I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and
    </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2019</id>
+    <id>https://csells.github.io/sb6/2019</id>
     <title>On W*F Integration Samples</title>
     <updated>2006-07-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -223,7 +225,7 @@ I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and
 &lt;P>You can see the results of that work in the .NET 3.0 SDK under the &lt;A href="http://windowssdk.msdn.microsoft.com/en-us/library/ms756478.aspx">Integration Samples for WinFX Features&lt;/A> topic. Right now, there are 9 integration samples and I'm hoping to almost double that by .NET 3.0 RTM. I'd love feedback. Thanks!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2020</id>
+    <id>https://csells.github.io/sb6/2020</id>
     <title>Number to String Converter</title>
     <updated>2006-07-30T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -235,7 +237,7 @@ I updated the SDK RegistrySettingsProvider to implement IApplicationSettings and
 &lt;P align=left>&lt;a href="/12414">Enjoy.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2018</id>
+    <id>https://csells.github.io/sb6/2018</id>
     <title>Laura Foy makes on10.net for me</title>
     <updated>2006-07-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

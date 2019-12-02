@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed165.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed165.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed164.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed166.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed165.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed164.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed166.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed165.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/100</id>
+    <id>https://csells.github.io/sb6/100</id>
     <title>The Big Secret</title>
     <updated>2002-06-23T07:00:00.000Z</updated>
     <published>2002-06-23T07:00:00.000Z</published>
@@ -43,7 +45,7 @@ By Steven Levy, Newsweek</summary>
 By Steven Levy, Newsweek</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/99</id>
+    <id>https://csells.github.io/sb6/99</id>
     <title>Object vs. XML</title>
     <updated>2002-06-22T07:00:00.000Z</updated>
     <published>2002-06-22T07:00:00.000Z</published>
@@ -52,7 +54,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="/12582">Here&lt;/a>. "I  was watching a group of folks present a new XML standard the other day and I realized something for the first time: to XML folk, OO languages are just script-like 'glue' for connecting XML processing steps, the "Unix pipe" of the new millennium, if you will. Integration with OO languages is necessary to enable XML dominance, but that's an accident of history. In the view of the XML zealot, OO will eventually fall away and only pure, clean XML will be left in it's place."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12582</id>
+    <id>https://csells.github.io/sb6/12582</id>
     <title>Object vs. XML</title>
     <updated>2002-06-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -91,7 +93,7 @@ By Steven Levy, Newsweek</content>
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/96</id>
+    <id>https://csells.github.io/sb6/96</id>
     <title>treecc -- Free Compiler Construction Tool for C#</title>
     <updated>2002-06-20T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -101,7 +103,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.southern-storm.com.au/treecc_doc/treecc.html#SEC_Top">Here&lt;/a>. "The approach that we take with treecc is similar to that used by yacc. A simple rule-based language is devised that is used to describe the intended behaviour declaratively. Embedded code is used to provide the specific implementation details. A translator then converts the input into source code that can be compiled in the usual fashion."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/98</id>
+    <id>https://csells.github.io/sb6/98</id>
     <title>Ventura Not Seeking Re-Election</title>
     <updated>2002-06-20T07:00:00.000Z</updated>
     <published>2002-06-20T07:00:00.000Z</published>
@@ -110,7 +112,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.startribune.com/stories/670/2912980.html">Here&lt;/a>. As a former MN resident, I'm very happy to report that Jessie "The Body" Ventura will not be running for another term as governor. I didn't have anything against Mr. Ventura because he was a wrestler -- my issue is that he's an idiot. I was embarrassed for the state of my birth that he won and I'm happy that he won't be a choice in the future.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/97</id>
+    <id>https://csells.github.io/sb6/97</id>
     <title>Under the Lid of Open Source .NET CLI Impls</title>
     <updated>2002-06-20T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -120,7 +122,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.devx.com/free/hotlinks/2002/ednote061902/ednote061902-1.asp">Here&lt;/a>. "Cross-platform .NET development is imminent, but the purpose, the feature set, and the platform support varies. We were curious about the development of the various open source implementations of Microsoft .NET's Common Language Runtime, so we talked to the key developers in charge of each of three CLI implementations—Mono, Rotor, and Portable .NET—to find out what exactly they've built, how they did it, and how they compare. What we found might surprise you."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/94</id>
+    <id>https://csells.github.io/sb6/94</id>
     <title>VS.NET Google Search Macro</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -130,7 +132,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://radio.weblogs.com/0104813/stories/2002/06/19/vsnetGoogleMacro.html">Here&lt;/a>. Drew Marsh posted a VS.NET macro that will launch a search for selected text on Google.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/93</id>
+    <id>https://csells.github.io/sb6/93</id>
     <title>Flat Controls for WinForms</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -140,7 +142,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://windowsforms.net/Default.aspx?tabindex=4&amp;tabid=47">Here&lt;/a>. "Many people feel that flat UI look of web pages is desirable. Catering to this market, Ivar Lumi has written a library of flat controls. In the attached .zip file are flat DateTimePicker, EditBox, SpinEdit, ComboBox, ToolBar, Button, Label, CheckBox controls. Also included is an OutlookBar control."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/90</id>
+    <id>https://csells.github.io/sb6/90</id>
     <title>NotifyIcon XP</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <published>2002-06-19T07:00:00.000Z</published>
@@ -149,7 +151,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.gotdotnet.com/userfiles/hansb/NotifyIconXP02.zip">Here&lt;/a>. "Perfectly mimics the built-in NotifyIcon control, except this one supports Windows XP balloon tips."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/92</id>
+    <id>https://csells.github.io/sb6/92</id>
     <title>WANTED! Starting Work on a Windows Forms Project?</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -159,7 +161,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://windowsforms.net/pages/devlab.aspx">Here&lt;/a>. "Are you starting work on a Windows Forms project and need that extra jump start? The Windows Forms development team is hosting a hands-on development lab on the Microsoft campus for companies who are actively starting Windows Forms work. If you are about to start a Windows Forms project or recently started a project, please apply to attend."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/95</id>
+    <id>https://csells.github.io/sb6/95</id>
     <title>Melbourne .NET User Group Hosts WDN RSS Feed</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -169,7 +171,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://mdnug.org/news/">Here&lt;/a>. "MDNUG would like to thank Chris Sells for making the RSS feed freely available to the masses. We're too slack to write our own."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/91</id>
+    <id>https://csells.github.io/sb6/91</id>
     <title>A Windows Forms Application Desktop Toolbar</title>
     <updated>2002-06-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -179,7 +181,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.gotdotnet.com/userfiles/FredB/AppBars.zip">Here&lt;/a>. "This sample demonstrates how to create a Windows Forms application that registers itself as a desktop toolbar. The behavior of your desktop toolbar can exactly mimic that of the Windows Taskbar."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/86</id>
+    <id>https://csells.github.io/sb6/86</id>
     <title>Achieving Interoperability (2 of 3)</title>
     <updated>2002-06-18T07:00:00.000Z</updated>
     <published>2002-06-18T07:00:00.000Z</published>
@@ -188,7 +190,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.sdmagazine.com/documents/s=7147/sdm0206g/0206g.htm">Here&lt;/a>. "A .NET-savvy compiler can help you to get the best of all worlds: Continue using your language as before, yet take advantage of valuable components from other languages. Part 2 of 3."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/88</id>
+    <id>https://csells.github.io/sb6/88</id>
     <title>A clickable button</title>
     <updated>2002-06-18T07:00:00.000Z</updated>
     <published>2002-06-18T07:00:00.000Z</published>
@@ -197,7 +199,7 @@ By Steven Levy, Newsweek</content>
 &lt;a href="http://www.codeproject.com/scrapbook/ClickableButton.asp">Here&lt;/a>. "As useful and as popular as Chris Maunder's "An unclickable button" article and class is, I thought that a clickable button might also be useful. While my ClickableButton class is implemented specifically for .NET, the very same techniques can be used in nearly every object-oriented windowing library."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/85</id>
+    <id>https://csells.github.io/sb6/85</id>
     <title>Polyglot Programming (1 of 3)</title>
     <updated>2002-06-18T07:00:00.000Z</updated>
     <published>2002-06-18T07:00:00.000Z</published>

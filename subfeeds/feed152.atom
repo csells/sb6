@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed152.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed152.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed151.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed153.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed152.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed151.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed153.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed152.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/300</id>
+    <id>https://csells.github.io/sb6/300</id>
     <title>Sun to join web services group</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -43,7 +45,7 @@
 The more folks involved in making web services work, the better I like it. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/297</id>
+    <id>https://csells.github.io/sb6/297</id>
     <title>Creating Non-Rectangular Windows</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -54,7 +56,7 @@ The more folks involved in making web services work, the better I like it. Wahoo
 This is a little exerpt from the book about using WinForms to do non-rectangular forms and hit-testing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/296</id>
+    <id>https://csells.github.io/sb6/296</id>
     <title>Visual Studio .NET Info Center</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -64,7 +66,7 @@ This is a little exerpt from the book about using WinForms to do non-rectangular
 &lt;a href="http://searchvb.techtarget.com/vsnetHome/0,293828,sid8,00.html">Here&lt;/a>. If you've got a VS.NET question, I'm now the official SearchVB site's VS.NET "expert", which seems strange on a site with "VB" in the title, but .NET is about language-neutrality, after all. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/294</id>
+    <id>https://csells.github.io/sb6/294</id>
     <title>Using ATL Server to Build Web Services</title>
     <updated>2002-10-29T08:00:00.000Z</updated>
     <published>2002-10-29T08:00:00.000Z</published>
@@ -75,7 +77,7 @@ This is a little exerpt from the book about using WinForms to do non-rectangular
 This is really Kirk's baby, I just helped get it dressed for public display. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12571</id>
+    <id>https://csells.github.io/sb6/12571</id>
     <title>A Giant Sucking Sound</title>
     <updated>2002-10-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -135,7 +137,7 @@ This is really Kirk's baby, I just helped get it dressed for public display. : )
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12356</id>
+    <id>https://csells.github.io/sb6/12356</id>
     <title>Doonesbury on Blogs</title>
     <updated>2002-10-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -146,7 +148,7 @@ This is really Kirk's baby, I just helped get it dressed for public display. : )
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12572</id>
+    <id>https://csells.github.io/sb6/12572</id>
     <title>Type Safety in a Loosely Coupled World</title>
     <updated>2002-10-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -195,7 +197,7 @@ This is really Kirk's baby, I just helped get it dressed for public display. : )
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12420</id>
+    <id>https://csells.github.io/sb6/12420</id>
     <title>Scancode Mapper</title>
     <updated>2002-10-13T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/tools/ScancodeMapper.JPG"/>
@@ -216,7 +218,7 @@ for Win2K+:&lt;/p>
     Windows. No warranties extended. Use at your own risk. Enjoy. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/284</id>
+    <id>https://csells.github.io/sb6/284</id>
     <title>Scancode Mapper</title>
     <updated>2002-10-13T07:00:00.000Z</updated>
     <published>2002-10-13T07:00:00.000Z</published>
@@ -225,7 +227,7 @@ for Win2K+:&lt;/p>
 &lt;a href="/12420">Here&lt;/a>. Scancode Mapper is a GUI tool for setting the Scan Code Mapper for Windows Registry settings for Win2K+, e.g. disabling the Caps Lock Key.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/285</id>
+    <id>https://csells.github.io/sb6/285</id>
     <title>The .NET Show: The Developer Roadmap</title>
     <updated>2002-10-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -237,7 +239,7 @@ for Win2K+:&lt;/p>
 I haven't seen this episode yet, but I generally watch all episodes of The .NET Show and enjoy them.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/283</id>
+    <id>https://csells.github.io/sb6/283</id>
     <title>ISO close to approving C#, CLI as standards</title>
     <updated>2002-10-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -247,7 +249,7 @@ I haven't seen this episode yet, but I generally watch all episodes of The .NET 
 &lt;a href="http://www.infoworld.com/articles/hn/xml/02/10/11/021011hncsharp.xml?s=rss&amp;t=news&amp;slot=2">Here&lt;/a>. From Husein Choroomi: The programming language C#, as well as the CLI (Common Language Infrastructure), have passed through a working group within the ISO (International Organization for Standardization) and will likely be approved by January, said John Montgomery, group product manager with Microsoft's .Net developer platform group.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/281</id>
+    <id>https://csells.github.io/sb6/281</id>
     <title>SQL Server Centric .NET Code Generator</title>
     <updated>2002-10-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -261,7 +263,7 @@ This isn't particularly new, but it's new to me and it's from Microsoft France. 
 [pinetree-tech.com/weblog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/282</id>
+    <id>https://csells.github.io/sb6/282</id>
     <title>Microsoft's singing in C#</title>
     <updated>2002-10-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -271,7 +273,7 @@ This isn't particularly new, but it's new to me and it's from Microsoft France. 
 &lt;a href="http://zdnet.com.com/2100-1104-961737.html">Here&lt;/a>. From Keith Wedinger: Microsoft and its allies have quietly expanded an effort to gain acceptance for C#, the software giant's competitor to Java and a foundation for its next-generation Internet services.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/280</id>
+    <id>https://csells.github.io/sb6/280</id>
     <title>Brian Jepson Blogs the DevCon</title>
     <updated>2002-10-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -281,7 +283,7 @@ This isn't particularly new, but it's new to me and it's from Microsoft France. 
 &lt;a href="http://www.jepstone.net/radio/">Here&lt;/a>. Can't be at the DevCon? Check out Brian Jepson's talk-by-talk coverage on his blog. I'm sorry if you can't be there, though. We're having a blast!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12357</id>
+    <id>https://csells.github.io/sb6/12357</id>
     <title>Top 10 Reasons You Know Youve Been Hacking Too Many Web Services...</title>
     <updated>2002-10-10T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

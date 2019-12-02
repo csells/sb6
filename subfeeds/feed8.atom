@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed8.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed8.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed7.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed9.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed8.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed7.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed9.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed8.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2309</id>
+    <id>https://csells.github.io/sb6/2309</id>
     <title>From "Oslo" to SQL Server Modeling</title>
     <updated>2009-11-10T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -44,7 +46,7 @@
 &lt;P>Tune in on November 17th, the first day of the PDC, for &lt;A href="http://msdn.com/data">the new unified Data Developer Center&lt;/A>, which will include all manner of data technologies, including XML, DataReader, DataSet, LINQ to SQL, Data Services (aka "Astoria") and Entity Framework. One stop shopping!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2308</id>
+    <id>https://csells.github.io/sb6/2308</id>
     <title>Chris Sells on .NET Rocks! talking about data</title>
     <updated>2009-11-07T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -54,7 +56,7 @@
 I was on &lt;A href="http://www.dotnetrocks.com/default.aspx?ShowNum=494">.NET Rocks! recently talking to Richard and Carl about data&lt;/A> in Visual Studio (object-oriented, XML and relational), what tools Microsoft is already providing for managing your SQL Server schema and data migration and&amp;nbsp;where "Oslo" ("M", "Quadrant" and the Repository)&amp;nbsp;fits into the overall picture. It was fun and I think it turned out well. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2307</id>
+    <id>https://csells.github.io/sb6/2307</id>
     <title>Questionnaire DSL with Microsoft "Oslo"</title>
     <updated>2009-11-02T08:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -64,7 +66,7 @@ I was on &lt;A href="http://www.dotnetrocks.com/default.aspx?ShowNum=494">.NET R
 Gerben van Loon, a lead developer at Avanade, has put together &lt;A href="http://bloggingabout.net/blogs/gerben/archive/2009/10/30/questionnaire-dsl-with-microsoft-quot-oslo-quot-overview.aspx">a nice overview of a DSL they've been building for describing questionnaires in "M", seeing how they flow in Quadrant and then executing them on their web site&lt;/A>. Sweet stuff!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2306</id>
+    <id>https://csells.github.io/sb6/2306</id>
     <title>Sweet State Machine DSL in "M"</title>
     <updated>2009-10-30T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -77,7 +79,7 @@ Gerben van Loon, a lead developer at Avanade, has put together &lt;A href="http:
 &lt;P>He built this with a language definition in "M". What could be simpler?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2305</id>
+    <id>https://csells.github.io/sb6/2305</id>
     <title>"Oslo" at the 2009 PDC</title>
     <updated>2009-10-28T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -97,7 +99,7 @@ Gerben van Loon, a lead developer at Avanade, has put together &lt;A href="http:
 &lt;P>If you're going to PDC and you'd like to chat, &lt;A href="mailto:csells@microsoft.com?subject=Meet me at the PDC!">drop me a line&lt;/A> and we can set up some time. See you there!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2304</id>
+    <id>https://csells.github.io/sb6/2304</id>
     <title>The New Microsoft Store Looks Cool</title>
     <updated>2009-10-22T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -107,7 +109,7 @@ Gerben van Loon, a lead developer at Avanade, has put together &lt;A href="http:
 And &lt;A href="http://www.engadget.com/2009/10/22/microsoft-store-opens-to-scottsdale-campers-video/">the folks in Scottsdale, AZ lined up overnight to be there when it opened&lt;/A> and get their copies of &lt;A href="http://www.microsoft.com/windows/windows-7/default.aspx">Windows 7&lt;/A> (which goes on sale today and, if I may say so, rocks).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2303</id>
+    <id>https://csells.github.io/sb6/2303</id>
     <title>"M" Language Type Definitions for 280 Popular (and not so popular) Data Models</title>
     <updated>2009-10-11T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -117,7 +119,7 @@ And &lt;A href="http://www.engadget.com/2009/10/22/microsoft-store-opens-to-scot
 Holy "M" types, Batman! Somebody's been busy building M type definitions for tons of existing data models, including ATOM, AWK, BPEL, C/C++/C#/Java, COBOL, HTML, LaTeX, Make and &lt;A href="http://www.emn.fr/z-info/atlanmod/index.php/MsOsloM">the list goes on and on&lt;/A>. I don't know how they did it -- it's an amazing task! Now that they've got some free time back, maybe they'll build M language definitions to parse the file formats. I'm just sayin'... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2302</id>
+    <id>https://csells.github.io/sb6/2302</id>
     <title>NHibernate DSL Built Using "Oslo"</title>
     <updated>2009-09-24T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -127,7 +129,7 @@ Holy "M" types, Batman! Somebody's been busy building M type definitions for ton
 Felice has built &lt;A href="http://nhmodeller.selfip.com/">a domain specific language (DSL) for defining NHibernate entities using "Oslo"&lt;/A>, including both a command-line compiler and a very full-featured Intellipad add-in. Nice!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2301</id>
+    <id>https://csells.github.io/sb6/2301</id>
     <title>Put Intellipad-like language editing features into your applications</title>
     <updated>2009-09-18T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -137,7 +139,7 @@ Felice has built &lt;A href="http://nhmodeller.selfip.com/">a domain specific la
 Bill Henning from Actipro Software has done it again, this time providing the components to drop real-time language creation features into your application for building custom grammars in &lt;A href="http://blog.actiprosoftware.com/post/2009/08/25/SyntaxEditor-for-WPFe28099s-MGrammar-add-on-adds-AST-construction-and-error-reporting-features.aspx">the critically acclaimed SyntaxEditor control&lt;/A>. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2300</id>
+    <id>https://csells.github.io/sb6/2300</id>
     <title>The Downside of Transparency</title>
     <updated>2009-09-15T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -170,7 +172,7 @@ Bill Henning from Actipro Software has done it again, this time providing the co
 &lt;P>Still, transparency is absolutely worth the downsides. Keeps those cards and letters comin'! : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2299</id>
+    <id>https://csells.github.io/sb6/2299</id>
     <title>Kraig Brockschmidt blogging on "Oslo"</title>
     <updated>2009-09-08T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -180,7 +182,7 @@ Bill Henning from Actipro Software has done it again, this time providing the co
 Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) "&lt;A href="http://www.amazon.com/Inside-Microsoft-Programming-Kraig-Brockschmidt/dp/1556158432/">Inside OLE&lt;/A>," has been a part of the "Oslo" community team for a while and is now &lt;A href="http://www.kraigbrockschmidt.com/luminarity/">blogging in the way that only he can&lt;/A>. He's building some samples as he explores the feet on the ground experience and you should check it out. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2298</id>
+    <id>https://csells.github.io/sb6/2298</id>
     <title>Add "Search the Internet" Back to the Win7 Start Menu</title>
     <updated>2009-09-03T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -197,7 +199,7 @@ Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) "&lt
 &lt;p>Update: This post has been translated to &lt;a href="http://www.autoteiledirekt.de/science/tilfoj-sog-pa-internettet-tilbage-til-menuen-win7-start">Danish&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2297</id>
+    <id>https://csells.github.io/sb6/2297</id>
     <title>Amanda Laucher on Using Oslo for DSLs</title>
     <updated>2009-09-02T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -207,7 +209,7 @@ Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) "&lt
 &lt;A href="http://www.infoq.com/presentations/Creating-DSLs-in-Oslo-Amanda-Laucher">Amanda Laucher talks about Oslo and its tools&lt;/A>, Intellipad, m.exe and mg.exe&amp;nbsp;- the "M" compilers - and how they can be used to create a DSL. She demonstrates the creation of a demo DSL in Oslo, and she does it in a very approachable way. [ed: Quadrant is available with &lt;a href="http://go.microsoft.com/?linkid=9648442">the May CTP&lt;/a>.]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2296</id>
+    <id>https://csells.github.io/sb6/2296</id>
     <title>SQL Script to Uninstall an "M" Image</title>
     <updated>2009-07-24T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -217,7 +219,7 @@ Kraig Brockschmidt, the author of calc.exe and the famous (and infamous : ) "&lt
 &lt;P>"In the May CTP bits, we started working on parts of uninstall support for schema created by an image, but didn&amp;#8217;t expose it as a user-visible feature as we will in future CTPs. So if you want to get your hands on this functionality right now, &lt;A href="http://blogs.msdn.com/modelcitizen/archive/2009/07/23/sql-script-to-uninstall-an-m-image.aspx">give this SQL script a try&lt;/A>. This creates a stored procedure creatively named 'Uninstall,' which takes one argument, the id of the image to uninstall which can be obtained from the [Language.Catalog.Runtime].[Images] table."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2293</id>
+    <id>https://csells.github.io/sb6/2293</id>
     <title>Use the "Oslo" Repository to Store Service Config</title>
     <updated>2009-07-10T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>

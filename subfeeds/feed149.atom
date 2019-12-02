@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed149.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed149.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed148.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed150.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed149.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed148.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed150.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed149.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/336</id>
+    <id>https://csells.github.io/sb6/336</id>
     <title>My Coding Standards</title>
     <updated>2002-11-27T08:00:00.000Z</updated>
     <published>2002-11-27T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="/12569">Here&lt;/a>. This software development moment brought to you by Chris Sells, the naked guy in the upper-left corner.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12569</id>
+    <id>https://csells.github.io/sb6/12569</id>
     <title>My Coding Standards</title>
     <updated>2002-11-27T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -86,7 +88,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/335</id>
+    <id>https://csells.github.io/sb6/335</id>
     <title>The .NET Show: The Compact Framework</title>
     <updated>2002-11-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -96,7 +98,7 @@
 &lt;a href="http://msdn.microsoft.com/theshow/Episode029/default.asp">Here&lt;/a>. A new episode of The .NET Show shipped today on the Compact Framework. More and more I want to use WinForms for smaller and smaller devices. I am looking forward to programming CF apps on my cell phone!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/334</id>
+    <id>https://csells.github.io/sb6/334</id>
     <title>SOAPScope Ships</title>
     <updated>2002-11-22T08:00:00.000Z</updated>
     <published>2002-11-22T08:00:00.000Z</published>
@@ -107,7 +109,7 @@
 MindReef showed the beta version at the Web Services DevCon to critical acclaim. It sure looks good.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/333</id>
+    <id>https://csells.github.io/sb6/333</id>
     <title>.NET Refactoring Tool Enters Beta</title>
     <updated>2002-11-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -119,7 +121,7 @@ MindReef showed the beta version at the Web Services DevCon to critical acclaim.
 As I'm writing a bunch of book code just now, I'm not a good beta tester for this tool, but the descriptions of what it does look yummy. I would especially love Extract Method and Rename Type.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/330</id>
+    <id>https://csells.github.io/sb6/330</id>
     <title>Building Secure ASP.NET Applications</title>
     <updated>2002-11-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -134,7 +136,7 @@ Summary: This guide presents a practical, scenario driven approach to designing 
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/328</id>
+    <id>https://csells.github.io/sb6/328</id>
     <title>Hierarchy Doesn't Scale</title>
     <updated>2002-11-18T08:00:00.000Z</updated>
     <published>2002-11-18T08:00:00.000Z</published>
@@ -143,7 +145,7 @@ Summary: This guide presents a practical, scenario driven approach to designing 
 &lt;a href="/12570">Here&lt;/a>. My thoughts on the short-comings of the use of hierarchy to organize data and a plea for something better.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/329</id>
+    <id>https://csells.github.io/sb6/329</id>
     <title>'Essential .NET' is shipping in the UK</title>
     <updated>2002-11-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ Summary: This guide presents a practical, scenario driven approach to designing 
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/327</id>
+    <id>https://csells.github.io/sb6/327</id>
     <title>Download the Visual Studio .NET 2003 Final Beta</title>
     <updated>2002-11-17T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -169,7 +171,7 @@ Summary: This guide presents a practical, scenario driven approach to designing 
 The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is available for download by MSDN subscribers. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/326</id>
+    <id>https://csells.github.io/sb6/326</id>
     <title>If Richard Feynman applied for a job at Microsoft</title>
     <updated>2002-11-15T08:00:00.000Z</updated>
     <published>2002-11-15T08:00:00.000Z</published>
@@ -178,7 +180,7 @@ The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is
 &lt;a href="/12395">Here&lt;/a>. Shawn Van Ness sent me a *fabulous* story of what would happen if Richard Feynman interviewed at Microsoft which sums up nicely what drives me to keep the page going in the first place. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/325</id>
+    <id>https://csells.github.io/sb6/325</id>
     <title>"Longhorn" Alpha Preview</title>
     <updated>2002-11-15T08:00:00.000Z</updated>
     <published>2002-11-15T08:00:00.000Z</published>
@@ -187,7 +189,7 @@ The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is
 &lt;a href="http://www.winsupersite.com/reviews/longhorn_alpha.asp">Here&lt;/a>. "Longhorn is now considered a major Windows release by Microsoft, and early alpha builds are now testing at the company's Redmond campus. Last month, some of those builds leaked to the Internet, causing a stir in the Windows enthusiast community. I take a look at one of those builds here."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12355</id>
+    <id>https://csells.github.io/sb6/12355</id>
     <title>Shtoo</title>
     <updated>2002-11-15T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -198,7 +200,7 @@ The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/319</id>
+    <id>https://csells.github.io/sb6/319</id>
     <title>C# and Java: The Smart Distinctions</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -208,7 +210,7 @@ The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is
 &lt;a href="http://www.jot.fm/issues/issue_2002_11/article4">Here&lt;/a>. From Hun Boon Teo: Article by Dominik Gruntz from Journal of Object Technology (Nov-Dec 2002 Issue), this article shows some of the subtle difference between C# and Java.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/323</id>
+    <id>https://csells.github.io/sb6/323</id>
     <title>WinForms Auto-Scaling</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -218,7 +220,7 @@ The final beta of Visual Studio .NET 2003, aka the Everett version of VS.NET, is
 &lt;a href="/public/writing/winformsAutoScaling.htm">Here&lt;/a>. That cool auto-scaling that WinForms does when moving between system font settings baffled me 'til I sat down to really understand it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/318</id>
+    <id>https://csells.github.io/sb6/318</id>
     <title>From the angle bracket department ...</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <published>2002-11-14T08:00:00.000Z</published>

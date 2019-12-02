@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed137.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed137.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed136.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed138.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed137.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed136.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed138.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed137.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/508</id>
+    <id>https://csells.github.io/sb6/508</id>
     <title>WinForms Design-Time Integration, Part 2</title>
     <updated>2003-04-17T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/05/Design-TimeControls/default.aspx">Here&lt;/a>. "This is the second of two articles discussing the extremely rich design-time features of the .NET Framework. Part 2 continues the journey by concentrating on design-time functionality that you can implement beyond your components and controls, including TypeConverters, UITypeEditors, and Designers."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12658</id>
+    <id>https://csells.github.io/sb6/12658</id>
     <title>Hello IDispatch Lovers</title>
     <updated>2003-04-17T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -266,7 +268,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/507</id>
+    <id>https://csells.github.io/sb6/507</id>
     <title>Printer Margins, Part 2</title>
     <updated>2003-04-17T07:00:00.000Z</updated>
     <published>2003-04-17T07:00:00.000Z</published>
@@ -275,7 +277,7 @@
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1049396577703/">Here&lt;/a>. In this 2nd part of my discussion on printer margins, I show how to get real margin bounds taking the physical limitations of the printer into account.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12642</id>
+    <id>https://csells.github.io/sb6/12642</id>
     <title>Major Retrofit for ASP.NET 1.0</title>
     <updated>2003-04-17T07:00:00.000Z</updated>
     <category term="colophon" label="Colophon"/>
@@ -305,7 +307,7 @@
       content and site maintenance easy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12557</id>
+    <id>https://csells.github.io/sb6/12557</id>
     <title>XML For Humans</title>
     <updated>2003-04-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -365,7 +367,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/506</id>
+    <id>https://csells.github.io/sb6/506</id>
     <title>Essential .NET Nominated for Reader's Choice Award</title>
     <updated>2003-04-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -375,7 +377,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 &lt;a href="http://www.sys-con.com/dotnet/readerschoice2003/vote.cfm">Here&lt;/a>. If you liked Don's Essential .NET (I know I did), then you should vote for it on the .NET Developer's Journal Reader's Choice Awards. You also get the opportunity to vote in all kinds of other categories besides books.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/504</id>
+    <id>https://csells.github.io/sb6/504</id>
     <title>Make XML More Readable</title>
     <updated>2003-04-15T07:00:00.000Z</updated>
     <published>2003-04-15T07:00:00.000Z</published>
@@ -384,7 +386,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 &lt;a href="http://www.ftponline.com/xmlmag/2003_04/online/xml_wahlin_04_14_03/">Here&lt;/a>. I didn't know that XmlTextWriter could format your code for you. I've written the code to do it myself. Doh! Is there nothing that the .NET Framework Class Library authors haven't already thunk up?!?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/505</id>
+    <id>https://csells.github.io/sb6/505</id>
     <title>Priceless</title>
     <updated>2003-04-15T07:00:00.000Z</updated>
     <published>2003-04-15T07:00:00.000Z</published>
@@ -393,7 +395,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 &lt;a href="/12558">Here&lt;/a>. It's the little things in life...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/503</id>
+    <id>https://csells.github.io/sb6/503</id>
     <title>C# Programmers Out-Earn VB.NET Programmers by 26%</title>
     <updated>2003-04-15T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -403,7 +405,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 &lt;a href="http://www.ftponline.com/vsm/2003_06/magazine/features/salarysurvey/">Here&lt;/a>. Visual Studio Magazine posts the results of their latest salary survey. Average Visual Studio programmer salary is $76K, up 12% from last year. Unfortunately, layoffs and such like are still the order of the day.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/502</id>
+    <id>https://csells.github.io/sb6/502</id>
     <title>Microsoft CRM Software Development Kit (SDK)</title>
     <updated>2003-04-14T07:00:00.000Z</updated>
     <published>2003-04-14T07:00:00.000Z</published>
@@ -412,7 +414,7 @@ solve problems for real humans. How can I argue with that?&lt;/p>
 &lt;a href="http://www.only4gurus.com/v2/preview.asp?ID=2702">Here&lt;/a>. From Ramon: This SDK provides the information necessary for developers to integrate their applications into Microsoft CRM or to build a vertical solution on the Microsoft CRM platform. An architectural overview includes descriptions of the object and security models, as well as the integration points. The API references are documented and the database schema is provided. There is a “How To” section with sample code. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12558</id>
+    <id>https://csells.github.io/sb6/12558</id>
     <title>Priceless</title>
     <updated>2003-04-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -428,7 +430,7 @@ I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : )&lt;/
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12351</id>
+    <id>https://csells.github.io/sb6/12351</id>
     <title>The SellsBrothers Little League Team</title>
     <updated>2003-04-12T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/2003bball2small.JPG"/>
@@ -439,7 +441,7 @@ I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : )&lt;/
 &lt;p>&lt;img border="0" src="/public/fun/2003bball2small.JPG" width="640" height="480">&lt;/p>&lt;p>Here's the SellsBrothers Beaverton Area Little League team looking very serious. Notice the SellsBrothers logo on the hats. Having your own company definitely has it's perks. : )&lt;/p>&lt;p>&lt;img border="0" src="/public/fun/2003bball3small.JPG" width="640" height="480">&lt;/p>&lt;p>Here's the SellsBrothers team looking more natural.&lt;/p>&lt;p>&lt;i>Beaverton, OR&lt;br>Saturday, &lt;span class="created">April 12, 2003&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/500</id>
+    <id>https://csells.github.io/sb6/500</id>
     <title>The Matrix Reloaded Trailer</title>
     <updated>2003-04-11T07:00:00.000Z</updated>
     <published>2003-04-11T07:00:00.000Z</published>
@@ -448,7 +450,7 @@ I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : )&lt;/
 &lt;a href="http://whatisthematrix.warnerbros.com">Here&lt;/a>. The Matrix was a religous experience for me. The Matrix Reloaded can't possibly have the same impact, but it's still going to kick ass. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/501</id>
+    <id>https://csells.github.io/sb6/501</id>
     <title>Windows Server 2003 Editions Compared</title>
     <updated>2003-04-11T07:00:00.000Z</updated>
     <published>2003-04-11T07:00:00.000Z</published>
@@ -457,7 +459,7 @@ I'm cool. I'm sure it won't last, but I plan to enjoy it while it does. : )&lt;/
 &lt;a href="http://www.winsupersite.com/showcase/winserver2003_editions.asp">Here&lt;/a>. Just in case you're confused about what editions of Windows Server 2003 do what, here's a nice summary.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/499</id>
+    <id>https://csells.github.io/sb6/499</id>
     <title>BlogXThis</title>
     <updated>2003-04-11T07:00:00.000Z</updated>
     <published>2003-04-11T07:00:00.000Z</published>

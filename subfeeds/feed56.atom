@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed56.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed56.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed55.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed57.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed56.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed55.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed57.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed56.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1621</id>
+    <id>https://csells.github.io/sb6/1621</id>
     <title>Edward Tufte + Avalon == Visualization Goodness</title>
     <updated>2004-12-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -43,7 +45,7 @@
 &lt;P>As evidence of the power of Avalon to enable the next-gen UI, Sean Gerety has provided &lt;A href="http://dotnetjunkies.com/WebLog/metablog/archive/2004/12/03/34896.aspx">an Avalon implementation of Sparklines&lt;/A>. Excellent work, Sean.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1620</id>
+    <id>https://csells.github.io/sb6/1620</id>
     <title>Dependency and Attached Properties in Avalon</title>
     <updated>2004-12-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 Drew Marsh has &lt;A href="http://blog.hackedbrain.com/articles/UnderstandingDependencyObjectAndDependencyProperty.aspx">a very nice write-up of the need and usage of dependency properties via attached properties in Avalon&lt;/A>, endorsed (with &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/12/05/8108.aspx">some additional commentary&lt;/A>) by Rob Relyea from the Avalon team.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1619</id>
+    <id>https://csells.github.io/sb6/1619</id>
     <title>Rod's Avalon Adventures</title>
     <updated>2004-12-04T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ Drew Marsh has &lt;A href="http://blog.hackedbrain.com/articles/UnderstandingDep
 &lt;LI>&lt;a href="http://blogs.officezealot.com/rod/archive/2005/01/18/3885.aspx">Avalon Adventures Summary:&lt;/a> The Good, the Bad and the Ugly&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1617</id>
+    <id>https://csells.github.io/sb6/1617</id>
     <title>Another Reason To Hate The Dentist</title>
     <updated>2004-12-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -86,7 +88,7 @@ Drew Marsh has &lt;A href="http://blog.hackedbrain.com/articles/UnderstandingDep
 &lt;p>P.S. After a McDonald's toy and chicken sandwich (eaten carefully from the un-decimated side of his mouth), Tom seems unaffected. However, I'm sure that the whole sordid experience will come roaring back to him in the future unless they've replaced the dentist with nanites and computer programs (or sledge hammers and chisels, which would be equally humane)...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1616</id>
+    <id>https://csells.github.io/sb6/1616</id>
     <title>Pleasantly Undetectable Advertising</title>
     <updated>2004-12-03T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -96,7 +98,7 @@ Drew Marsh has &lt;A href="http://blog.hackedbrain.com/articles/UnderstandingDep
 I don't know what Amazon is doing -- except possibly trying to stimulate blog entries -- because I could detect no advertising in there most recent &lt;A href="http://www.amazon.com/exec/obidos/tg/browse/-/13609421">home page movie short, "Tooth Fairy,"&lt;/A> but I did enjoy it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1618</id>
+    <id>https://csells.github.io/sb6/1618</id>
     <title>More On Avalon CTP Animations</title>
     <updated>2004-12-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ I don't know what Amazon is doing -- except possibly trying to stimulate blog en
 &lt;P>&lt;EM>"Thanks for your enthusiasm for custom animations."&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1613</id>
+    <id>https://csells.github.io/sb6/1613</id>
     <title>Animating Custom Types in Avalon</title>
     <updated>2004-12-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -121,7 +123,7 @@ I don't know what Amazon is doing -- except possibly trying to stimulate blog en
 Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/12/02/avaloncustomanimation">the core concepts in Avalon animation&lt;/A> by implementing a custom font size animation class. Basically, "animation" in Avalon means "changing an object's value over a range in a given time," e.g. changing a font size from 10 to 72 in 4 seconds or an X coordinate from 10 to 100 in 2 seconds. Animation seemed so fancy to me until I broke it down in my head in this way.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1612</id>
+    <id>https://csells.github.io/sb6/1612</id>
     <title>Annual Free Credit Report Available As Of 12/1/04</title>
     <updated>2004-12-02T08:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -131,7 +133,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">Since our credit scores have become such a big part of our lives, it has become federal law that everyone be able to &lt;A href="https://www.annualcreditreport.com">get a free credit report annually&lt;/A>. As of December 1&lt;SUP>st&lt;/SUP>, 2004, the western states are eligible and the web site lists when other groups of states will have access. For a blow-by-blow, check out &lt;A href="http://www.pfblog.com/archives/1028_fresh_taste_of_free_credit_report_equifax.html">the write-up on the Personal Finance Blog&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1615</id>
+    <id>https://csells.github.io/sb6/1615</id>
     <title>On Microsoft's Transparency in 2004</title>
     <updated>2004-12-02T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -144,7 +146,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 &lt;P dir=ltr>Frankly, I'm pleasantly surprised at how far Microsoft has come opening up to the world. I hope we're at a critical mass where it just can't be stopped, but as an engineer, that's hardly surprising. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1614</id>
+    <id>https://csells.github.io/sb6/1614</id>
     <title>Nixon Knew He Was A Crook...</title>
     <updated>2004-12-02T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -156,7 +158,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 &lt;p>P.P.S. I don't mean to call the Avalon guys crooks. Those guys work super hard to build the right thing and they're dying for the feedback. That makes them *very* different than Nixon, who really didn't want the feedback he got. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1611</id>
+    <id>https://csells.github.io/sb6/1611</id>
     <title>GUI Front End to XmlSerializerPreCompiler</title>
     <updated>2004-12-01T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -167,7 +169,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 &lt;P align=left>&lt;A href="http://www.cybral.com/solutions/tools.htm#XmlPrecompiler">&lt;IMG height=343 src="http://www.cybral.com/images/XmlPrecompiler.gif" width=520>&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1610</id>
+    <id>https://csells.github.io/sb6/1610</id>
     <title>Avalon 3D Samples Updated for the CTP</title>
     <updated>2004-11-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -177,7 +179,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/11/30/272461.aspx">Karsten says&lt;/A>: "Check out &lt;A href="http://www.therhogue.com/WinFX/">http://www.therhogue.com/WinFX/&lt;/A>&amp;nbsp;for some more Avalon 3D samples.&amp;nbsp; Robert Hogue is an amazing developer and these are definitely worth checking out."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1609</id>
+    <id>https://csells.github.io/sb6/1609</id>
     <title>The 7 Goals of Highly Effective XAML Designers</title>
     <updated>2004-11-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ Ian Griffiths illustrates &lt;A href="http://www.interact-sw.co.uk/iangblog/2004
 Rob Relyea, a Lead PM on the Avalon team, has posted &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/11/29/7838.aspx">the 7 goals that drives the XAML&amp;nbsp;design decisions&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1608</id>
+    <id>https://csells.github.io/sb6/1608</id>
     <title>Sioux Falls, SD Geek Dinner Starting</title>
     <updated>2004-11-29T08:00:00.000Z</updated>
     <published>2004-11-29T08:00:00.000Z</published>
@@ -196,7 +198,7 @@ Rob Relyea, a Lead PM on the Avalon team, has posted &lt;A href="http://www.long
 Rod Paddock is starting up &lt;A href="http://blogs.officezealot.com/rod/archive/2004/11/29/3487.aspx">a Geek Dinner for Sioux Falls, South Dakota&lt;/A> and asked that I slobber a little Sells juice on it. Consider yourself sauced, Rod.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1607</id>
+    <id>https://csells.github.io/sb6/1607</id>
     <title>Microsoft's Road Map for Windows Forms and Avalon</title>
     <updated>2004-11-27T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

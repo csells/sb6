@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed62.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed62.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed61.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed63.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed62.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed61.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed63.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed62.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12484</id>
+    <id>https://csells.github.io/sb6/12484</id>
     <title>Settings, Collections and VS05b1 (oh my)</title>
     <updated>2004-10-07T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -54,7 +56,7 @@ public class MyList : System.Collections.ArrayList&lt;/strong> {
 }&lt;/strong>&lt;/pre>&lt;p>Notice also the Clone method. I added this later because the base ArrayList Clone method creates an instance of ArrayList, not my custom MyList type. Of course, since this was all run-time type errors, I couldn't let the compiler tell me about these problems; I had to run my app and find them. Very frustrating, especially when generics makes these problems all go away.&lt;/p>&lt;p align="left">Still, I'm very much enjoying the new productivity features in VS05 and Windows Forms 2.0 and when they work better together, I'll be even more happy.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1536</id>
+    <id>https://csells.github.io/sb6/1536</id>
     <title>Ryan, My Favorite Feedbacker</title>
     <updated>2004-10-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -65,7 +67,7 @@ public class MyList : System.Collections.ArrayList&lt;/strong> {
 &lt;P>That's not to say that I agree with everything he says or that the product team agrees, but I wish I had 100 more Ryan Dawson's banging on the pillars and complaining loudly and clearly so that the product teams can get some crystal clear feedback on what works, what doesn't and what developers want. If you don't have a blog, get one or post your complaints on &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/">the newsgroups&lt;/A>. Come on! Tell us why we suck and what to do to stop sucking! You know you want to. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1535</id>
+    <id>https://csells.github.io/sb6/1535</id>
     <title>From Chris Sells to Sam Ruby</title>
     <updated>2004-10-05T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -75,7 +77,7 @@ public class MyList : System.Collections.ArrayList&lt;/strong> {
 I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, can I get the status of your DevCon slides? They were due Monday. Thank you.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1532</id>
+    <id>https://csells.github.io/sb6/1532</id>
     <title>Brian Kernighan on Debugging</title>
     <updated>2004-10-04T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -86,7 +88,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>&lt;EM>"Debugging is twice as hard as writing the code in the first place.&amp;nbsp; Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."&lt;BR>--Brian Kernighan&lt;/EM>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1533</id>
+    <id>https://csells.github.io/sb6/1533</id>
     <title>XML Developer's Conference Hotel Rooms Releasing</title>
     <updated>2004-10-04T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -96,7 +98,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;a href="/public/conference/">Here&lt;/a>. If you haven't made your hotel reservation for &lt;A HREF="/public/conference/">the Applied XML Developer's Conference&lt;/A>, Oct. 20-21 at &lt;A href="http://skamanialodge.dolce.com/">the Skamania Lodge in Stevenson, Washington&lt;/A> (40 minutes from Portland Int'l airport), you'll want to do that today as the rooms we've been holding are about to be released to the general public. Also, if you haven't registered for the conference, you'll want to &lt;A href="https://www.pluralsight.com/events/devcon/secure/register.aspx">register now&lt;/A>, as we've only got a few seats left.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1534</id>
+    <id>https://csells.github.io/sb6/1534</id>
     <title>Thinking About Developers and Smart Clients</title>
     <updated>2004-10-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -108,7 +110,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>BTW, I'm still the Content Strategist for the Longhorn DevCenter, so don't go getting your hopes up that I'll stop beating &lt;EM>that&lt;/EM> particular drum. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1531</id>
+    <id>https://csells.github.io/sb6/1531</id>
     <title>Charlie Kindel on Home Servers and Storage</title>
     <updated>2004-10-03T07:00:00.000Z</updated>
     <published>2004-10-03T07:00:00.000Z</published>
@@ -124,7 +126,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>P.S. While I don't believe that this attitude has anything to do with Charlie Kindel, if there had been a 3rd Sells Brother, he would've been named Charlie. Likewise, I've always hated my girlie name and sometimes think about changing it. To what, you ask? You guessed it: Charlie. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1529</id>
+    <id>https://csells.github.io/sb6/1529</id>
     <title>Learn Indigo in 5 Minutes</title>
     <updated>2004-10-02T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -134,7 +136,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>Well, to be fair, Don leaves some details out, but he wanted to see if he could explain &lt;A href="http://pluralsight.com/blogs/dbox/archive/2004/10/02/2558.aspx">Indigo in 5 minutes or less&lt;/A>. Worth the read.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1530</id>
+    <id>https://csells.github.io/sb6/1530</id>
     <title>Mixed Feelings</title>
     <updated>2004-10-02T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -146,7 +148,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>So, now I have mixed feelings. On the one hand, I'm happy that I didn't have to go through all that trouble again, but on the other, I doesn't seem very useful to set my Administrator password to anything useful if I anyone with physical access can just reset it so easily. Of course, &lt;A href="http://www.pluralsite.com/blogs/keith/default.aspx">Keith Brown&lt;/A> and other security experts have been saying that physical security is paramount for any other kind of security to be affective, but it was kind of unsettling to have the point driven home so starkly.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1528</id>
+    <id>https://csells.github.io/sb6/1528</id>
     <title>Avalon: Modern Day Compositing &amp; Rendering Engine</title>
     <updated>2004-10-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -161,7 +163,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 &lt;P>[&lt;A href="http://www.simplegeek.com/permalink.aspx/bd17085d-16c4-4ebf-8569-3a3692f077d3">via Chris Anderson&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1527</id>
+    <id>https://csells.github.io/sb6/1527</id>
     <title>The GLAT: I couldn't resist</title>
     <updated>2004-09-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -171,7 +173,7 @@ I can't get Sam to reply to my emails, so I'm hoping he'll see this post: Sam, c
 I'm not going to move, but I couldn't help printing out &lt;A href="http://www.google.com/googleblog/2004/09/pencils-down-people.html">the test&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1526</id>
+    <id>https://csells.github.io/sb6/1526</id>
     <title>BankOne: Special Victims Unit</title>
     <updated>2004-09-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@ I'm not going to move, but I couldn't help printing out &lt;A href="http://www.g
 I have a BankOne Visa card that I use for Sells Brothers, Inc. as a charge card for expenses like computer equipment, technical book purchases and strip clubs (you know -- business expenses : ). Apparently somebody got a hold of the number and started making charges with it today. A $19 charge was approved, but the $331 charge swung the BankOne AI software into action and the charge was declined. They called right away to confirm the activity and when I didn't recognize it, they credited me the $19, canceled the card, put a new one in the mail, sent all three major credit card agencies a notice so that my credit rating wouldn't be affected and put an affidavit in the mail so that I could swear that the $19 charge wasn't mine. All of this defense against identity theft cost me 5 minutes on the phone, a few days wait while I receive my new card, a signature and $0. Amazing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1525</id>
+    <id>https://csells.github.io/sb6/1525</id>
     <title>Reverse Migration: From Linux to Windows</title>
     <updated>2004-09-28T07:00:00.000Z</updated>
     <published>2004-09-28T07:00:00.000Z</published>
@@ -190,7 +192,7 @@ I have a BankOne Visa card that I use for Sells Brothers, Inc. as a charge card 
 &lt;P>The kind of testimonial from real folks trying to build and maintain real systems that eWeek's Peter Galli sites in &lt;A href="http://www.eweek.com/article2/0,1759,1651187,00.asp">his article&lt;/A> is pretty compelling. I wonder if we've reached the saturation point of folks that have the know-how to maintain the OS as well as their apps?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1524</id>
+    <id>https://csells.github.io/sb6/1524</id>
     <title>Clean Sweep @ Casa de Sells</title>
     <updated>2004-09-25T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -215,7 +217,7 @@ I have a BankOne Visa card that I use for Sells Brothers, Inc. as a charge card 
 &lt;P>Today at Casa de Sells we completed a 9-month long whole-house &lt;A href="http://tlc.discovery.com/fansites/cleansweep/cleansweep.html">Clean Sweep&lt;/A>, literally touching everything we own and deciding whether to keep it, sell it or trash it. We didn't actually remodel anything while our stuff was on the lawn, but the whole place seems much bigger since emptying the things we no longer used out of the house and completely filling a&amp;nbsp;2-car garage before hauling the stuff off to &lt;A href="http://tlc.discovery.com/fansites/cleansweep/cleansweep.html">Powell's book store&lt;/A> (they buy as well as sell) and conducting not one but two giant garage sales in two separate neighborhoods. The $5671 we earned along the way was just found money (especially Melissa's paycheck... : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1521</id>
+    <id>https://csells.github.io/sb6/1521</id>
     <title>Tim Ewald On MSDN2 Internals</title>
     <updated>2004-09-23T07:00:00.000Z</updated>
     <published>2004-09-23T07:00:00.000Z</published>

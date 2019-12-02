@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed163.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed163.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed162.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed164.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed163.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed162.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed164.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed163.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/131</id>
+    <id>https://csells.github.io/sb6/131</id>
     <title>Content Management Server and Microsoft</title>
     <updated>2002-07-09T07:00:00.000Z</updated>
     <published>2002-07-09T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.microsoft.com/cmserver/">Here&lt;/a>. From Razvan Caciula: "Microsoft announces the release of the Content Management Server 2002 beta, a faster, easier, and more cost effective way to create, deploy, and maintain mission critical, content rich Web sites."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/128</id>
+    <id>https://csells.github.io/sb6/128</id>
     <title>Microsoft target, Java</title>
     <updated>2002-07-08T07:00:00.000Z</updated>
     <published>2002-07-08T07:00:00.000Z</published>
@@ -52,7 +54,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</su
 I think the Java Language Conversion Assistant is a better tool. Don't u? :)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/129</id>
+    <id>https://csells.github.io/sb6/129</id>
     <title>After Java#, Linux :)</title>
     <updated>2002-07-08T07:00:00.000Z</updated>
     <published>2002-07-08T07:00:00.000Z</published>
@@ -61,7 +63,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="http://zdnet.com.com/2100-1104-941951.html">Here&lt;/a>. From Razvan Caciula: "Microsoft appears to be changing its tactics in its ongoing spat with the Linux and open-source world by taking a booth at this August's LinuxWorld Expo for the first time."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/127</id>
+    <id>https://csells.github.io/sb6/127</id>
     <title>WS-Security &amp; TIP transaction source code to be re</title>
     <updated>2002-07-08T07:00:00.000Z</updated>
     <published>2002-07-08T07:00:00.000Z</published>
@@ -70,7 +72,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="http://www.newtelligence.com/wsextensions">Here&lt;/a>. "We have decided to release the source code for our WS-Security (Kerberos, Username) and our TIP transaction implementations under a BSD-style license before the end of this week. As far as we know, our security package has the first public WS-Security implementation with Kerberos support..."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/126</id>
+    <id>https://csells.github.io/sb6/126</id>
     <title>URL Rewriting with ASP.NET</title>
     <updated>2002-07-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="http://www.codeproject.com/aspnet/URLRewriter.asp">Here&lt;/a>. "As more and more websites are being rewritten with ASP.NET, the old sites which had been indexed by google and linked from other sites are lost, inevitably culminating in the dreaded 404 error. I will show how legacy ASP sites can be upgraded to ASP.NET, while maintaining links from search engines."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/123</id>
+    <id>https://csells.github.io/sb6/123</id>
     <title>Final Web Services DevCon East Speakers</title>
     <updated>2002-07-03T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -90,7 +92,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="/public/conference/">Here&lt;/a>. The final line-up of Web Services DevCon East speakers for October 10-11 in Bedford, Mass has been posted. The quality of the talks was so high that we had to forgo one of Don's proposals to get in all the good stuff. If you can only go to one web services conference this year, this is the one that'll pack it in nice and tight!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/125</id>
+    <id>https://csells.github.io/sb6/125</id>
     <title>Object-Oriented Development in a Relational World</title>
     <updated>2002-07-03T07:00:00.000Z</updated>
     <published>2002-07-03T07:00:00.000Z</published>
@@ -99,7 +101,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="/125">Here&lt;/a>. Chris Tavares and I apply DeKlarit (from www.deklarit.com), a tool integrated into VS.NET for defining data structures for use from object-oriented .NET code and from relational SQL, to a real web site. Bottom line: thumbs up. For more, read on!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/124</id>
+    <id>https://csells.github.io/sb6/124</id>
     <title>Library for reading CLI files</title>
     <updated>2002-07-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -109,7 +111,7 @@ I think the Java Language Conversion Assistant is a better tool. Don't u? :)</co
 &lt;a href="http://dotnet.di.unipi.it/MultipleContentView.aspx?code=103">Here&lt;/a>. "This library has been implemented to provide access to the raw format of CLI files. The library is still under development, so you can find some problem in its use. The library has been developed using CLI standard documentation. Because fast access to files is a goal I use memory mapping in order to have fast access to the file."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/122</id>
+    <id>https://csells.github.io/sb6/122</id>
     <title>Free Trial Version of Syncfusion's Essential Suite</title>
     <updated>2002-07-02T07:00:00.000Z</updated>
     <published>2002-07-02T07:00:00.000Z</published>
@@ -126,7 +128,7 @@ formatting: table, row, column, cell and basestyles. It supports virtual databin
 "* Essential Edit - a syntax highlighting Edit control that is designed to be extensible and easy to use. Features include Undo / Redo, easy configuration and more."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/120</id>
+    <id>https://csells.github.io/sb6/120</id>
     <title>GACUtil Add-In</title>
     <updated>2002-07-01T07:00:00.000Z</updated>
     <published>2002-07-01T07:00:00.000Z</published>
@@ -135,7 +137,7 @@ formatting: table, row, column, cell and basestyles. It supports virtual databin
 &lt;a href="http://devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson: I needed a simple way to invoke GACUtil as a custom build step. Utility makefiles were clunky, NAnt was too extensive (but cool) and the BuildRules sample wasn't quite extensive enough. So I built my own. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/119</id>
+    <id>https://csells.github.io/sb6/119</id>
     <title>Updated .NET CollectionGen</title>
     <updated>2002-07-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -151,7 +153,7 @@ formatting: table, row, column, cell and basestyles. It supports virtual databin
 "Also, Jon Flanders put together a collection gen project item wizard that adds a new XML file with the Custom Tool property pre-set. I'm having a little trouble packaging it for distribution, but if anyone wants to hack on it, send me an email."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/121</id>
+    <id>https://csells.github.io/sb6/121</id>
     <title>IBM rolls out first Internet-based utility service</title>
     <updated>2002-07-01T07:00:00.000Z</updated>
     <published>2002-07-01T07:00:00.000Z</published>
@@ -162,7 +164,7 @@ formatting: table, row, column, cell and basestyles. It supports virtual databin
 This is how things *should* be.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/118</id>
+    <id>https://csells.github.io/sb6/118</id>
     <title>Add #Region Macro Updated (again)</title>
     <updated>2002-07-01T07:00:00.000Z</updated>
     <published>2002-07-01T07:00:00.000Z</published>
@@ -171,7 +173,7 @@ This is how things *should* be.</content>
 &lt;a href="http://devhawk.net/macros.htm">Here&lt;/a>. From Harry Pierson: The Add #Region macro has been updated so that one macro can be used with either C# or Visual Basic .NET. It also adds undo support (thanks to John St. Clair).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/117</id>
+    <id>https://csells.github.io/sb6/117</id>
     <title>Safe, Simple Multithreading in Windows Forms</title>
     <updated>2002-06-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -181,7 +183,7 @@ This is how things *should* be.</content>
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms06112002.asp">Here&lt;/a>. Chris Sells: "It all started innocently enough. I found myself needing to calculate the area of a circle for the first time in .NET. This called, of course, for an accurate representation of pi. System.Math.PI is handy, but since it only provides 20 digits of precision, I was worried about the accuracy of my calculation (I really needed 21 digits to be absolutely comfortable). So, like any programmer worth their salt, I forgot about the problem I was actually trying to solve and I wrote myself a program to calculate pi to any number of digits that I felt like."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/116</id>
+    <id>https://csells.github.io/sb6/116</id>
     <title>SML.NET: Functional programming on the .NET CLR</title>
     <updated>2002-06-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

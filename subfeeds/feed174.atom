@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed174.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed174.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed173.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed175.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed174.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed173.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed175.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed174.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12435</id>
+    <id>https://csells.github.io/sb6/12435</id>
     <title>Moniker Wizard</title>
     <updated>2001-08-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -45,7 +47,7 @@
             the Basic Monikers&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12620</id>
+    <id>https://csells.github.io/sb6/12620</id>
     <title>Some MORE signs that you may be taking COM too seriously...</title>
     <updated>2001-08-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -79,7 +81,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
 &lt;br>Private Email&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12436</id>
+    <id>https://csells.github.io/sb6/12436</id>
     <title>Tim's COM+ Utilities</title>
     <updated>2001-08-04T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -100,7 +102,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12606</id>
+    <id>https://csells.github.io/sb6/12606</id>
     <title>My Favorite Books</title>
     <updated>2001-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -294,7 +296,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
                 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12607</id>
+    <id>https://csells.github.io/sb6/12607</id>
     <title>My Favorite Software</title>
     <updated>2001-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -488,7 +490,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
                 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12605</id>
+    <id>https://csells.github.io/sb6/12605</id>
     <title>Hanging Out My Shingle</title>
     <updated>2001-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -517,7 +519,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
                 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12608</id>
+    <id>https://csells.github.io/sb6/12608</id>
     <title>My Favorite Web Sites</title>
     <updated>2001-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -600,7 +602,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
                 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12437</id>
+    <id>https://csells.github.io/sb6/12437</id>
     <title>Command Line Parsing</title>
     <updated>2001-08-03T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -632,7 +634,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
         Thanks, Keith!&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12438</id>
+    <id>https://csells.github.io/sb6/12438</id>
     <title>Expando Objects</title>
     <updated>2001-08-02T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -652,7 +654,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12439</id>
+    <id>https://csells.github.io/sb6/12439</id>
     <title>Windows Template Library</title>
     <updated>2001-08-01T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -722,7 +724,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12440</id>
+    <id>https://csells.github.io/sb6/12440</id>
     <title>VARIANT_BOOL Wrapper</title>
     <updated>2001-07-31T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -741,7 +743,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12441</id>
+    <id>https://csells.github.io/sb6/12441</id>
     <title>ATL CRT Numbers</title>
     <updated>2001-07-30T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -863,7 +865,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12442</id>
+    <id>https://csells.github.io/sb6/12442</id>
     <title>VBLite</title>
     <updated>2001-07-29T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -882,7 +884,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12443</id>
+    <id>https://csells.github.io/sb6/12443</id>
     <title>Attila</title>
     <updated>2001-07-28T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -901,7 +903,7 @@ written for &lt;a href="http://www.idevresource.com/humour.asp">IDevResource&lt;
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12444</id>
+    <id>https://csells.github.io/sb6/12444</id>
     <title>Simple Object II ATL ObjectWizard Extension</title>
     <updated>2001-07-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

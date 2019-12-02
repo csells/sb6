@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed28.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed28.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed27.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed29.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed28.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed27.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed29.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed28.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2017</id>
+    <id>https://csells.github.io/sb6/2017</id>
     <title>MS Live Labs PhotoSynth: building the photo web</title>
     <updated>2006-07-29T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -47,7 +49,7 @@
 &lt;P>Worth checking out.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2016</id>
+    <id>https://csells.github.io/sb6/2016</id>
     <title>Phones are just little PCs and should be treated as such</title>
     <updated>2006-07-28T07:00:00.000Z</updated>
     <published>2006-07-28T07:00:00.000Z</published>
@@ -64,7 +66,7 @@
 &lt;P>With the flexibility of phones these days, they're just like pocket-sized PCs and there's a lot more innovation going on with them then with my PC right now. I used to get excited about my new laptop; now I get excited about my new phone. However, this situation about who you're supposed to buy phones from and get support from is completely messed up and needs to change.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12377</id>
+    <id>https://csells.github.io/sb6/12377</id>
     <title>Ed Helms on Microsoft Recruiting</title>
     <updated>2006-07-25T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -77,7 +79,7 @@ Microsoft's college recruiting practices&lt;/a> was recorded long ago (back with
 the XBox was new), but it has recently surfaced again, so I thought I'd share. Enjoy.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2014</id>
+    <id>https://csells.github.io/sb6/2014</id>
     <title>Portland Code Camp: Wow!</title>
     <updated>2006-07-23T07:00:00.000Z</updated>
     <published>2006-07-23T07:00:00.000Z</published>
@@ -88,7 +90,7 @@ the XBox was new), but it has recently surfaced again, so I thought I'd share. E
 &lt;P>In addition to the free sessions, there was free food, free entertainment, free wireless and free air conditioning. I miss the single-track benefits that you get with &lt;a href="/public/conference/">the DevCons&lt;/A>, but other than that, the Portland Code Camp is now in the very short list of conferences I won't be missing in the future. Thanks to &lt;A href="http://www.jasonmauer.com/">Jason&lt;/A>, &lt;A href="http://richhubbins.theclaussens.com">Rich&lt;/A>, &lt;A href="http://ferncrk.com">Stuart&lt;/A> and the rest of the organizers. Highly recommended!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2015</id>
+    <id>https://csells.github.io/sb6/2015</id>
     <title>An Embarrassment of WPF Riches</title>
     <updated>2006-07-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -105,7 +107,7 @@ the XBox was new), but it has recently surfaced again, so I thought I'd share. E
 &lt;P>User and GDI had Petzold. Win32 had Rector. MFC had Prosise. COM had Box. Indigo's got no big names I've yet seen, but Avalon gets Anderson, Petzold, Nathan *and* Griffiths?!? It's going to be a bloodbath in the market, but the readers are going to benefit. Why couldn't I have picked a lightweight topic, like, oh, I don't know, ASP.NET 2.0? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2013</id>
+    <id>https://csells.github.io/sb6/2013</id>
     <title>DVD Wars. Huh. What is it good for?</title>
     <updated>2006-07-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -115,7 +117,7 @@ the XBox was new), but it has recently surfaced again, so I thought I'd share. E
 Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen "&lt;A href="http://www.businessweek.com/technology/content/oct2005/tc20051020_154892.htm">DVD Wars&lt;/A>." When I moved from VHS to DVD, I got much higher quality output and random access to content. Given that DVDs are already letterbox, what do I get moving to an HD DVD format? Is the quality that much better? Are there other features I get that I&amp;#8217;m going to really want? The only feature I wish I had was the ability to easily burn the main content of my DVDs to my computer for random access like I get w/ music today. Will the next-gen formats support that?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/atlbook</id>
+    <id>https://csells.github.io/sb6/atlbook</id>
     <title>ATL Internals: Working with ATL 8, 2e</title>
     <updated>2006-07-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/writing/atlbook/at2ecover.jpg"/>
@@ -164,7 +166,7 @@ Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen "&lt;A href=
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2012</id>
+    <id>https://csells.github.io/sb6/2012</id>
     <title>I'm on MySpace now</title>
     <updated>2006-07-14T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -174,7 +176,7 @@ Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen "&lt;A href=
 &lt;A href="http://myspace.com/csells">I'm on MySpace&lt;/A>. Now what?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2011</id>
+    <id>https://csells.github.io/sb6/2011</id>
     <title>Functional Language Summary</title>
     <updated>2006-07-11T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -202,7 +204,7 @@ Here&amp;#8217;s the thing I don&amp;#8217;t get about the next-gen "&lt;A href=
 &lt;P>FP sounds great! Why do we mess around w/ anything else?!?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12461</id>
+    <id>https://csells.github.io/sb6/12461</id>
     <title>Struggling with NUnit (2.2)</title>
     <updated>2006-07-06T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/nunit-filenotfound.jpg"/>
@@ -219,7 +221,7 @@ a System.IO.FileNotFoundException when you don't have nunit.core.dll (the Except
 shows but doesn't say that you better &lt;b>make your test methods public&lt;/b>. Since NUnit uses Reflection, it doesn't need the classes or the methods to be public, but I guess they decided that was an interesting knob to let the developer turn. I'd have preferred to let the default permissions work (internal) to save myself typing, but that's just a nit.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2010</id>
+    <id>https://csells.github.io/sb6/2010</id>
     <title>This blog entry cost me $113.70</title>
     <updated>2006-07-06T07:00:00.000Z</updated>
     <published>2006-07-06T07:00:00.000Z</published>
@@ -232,7 +234,7 @@ shows but doesn't say that you better &lt;b>make your test methods public&lt;/b>
 &lt;P>I sure wish there'd been some way of knowing this before the first bill arrived, of course, but it's nice to know my Qtek is actually &lt;EM>saving&lt;/EM> me money (at least, that's what I'll tell the wife : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2009</id>
+    <id>https://csells.github.io/sb6/2009</id>
     <title>Struggling with NUnit (2.2)</title>
     <updated>2006-07-06T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -242,7 +244,7 @@ shows but doesn't say that you better &lt;b>make your test methods public&lt;/b>
 The one where I get &lt;a href="/12461">System.IO.FileNotFoundException in NUnit&lt;/A> in a bunch of different ways and suggest some possible solutions.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2007</id>
+    <id>https://csells.github.io/sb6/2007</id>
     <title>A Shared Source Site: CodePlex</title>
     <updated>2006-07-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -253,7 +255,7 @@ The one where I get &lt;a href="/12461">System.IO.FileNotFoundException in NUnit
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2008</id>
+    <id>https://csells.github.io/sb6/2008</id>
     <title>Superman Returns: Boring</title>
     <updated>2006-07-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -263,7 +265,7 @@ The one where I get &lt;a href="/12461">System.IO.FileNotFoundException in NUnit
 &lt;A href="http://www.imdb.com/title/tt0348150/">Superman Returns&lt;/A> has some cool scenes&amp;nbsp;and Kevin Spacey does a great Lex Luthor, but overall there were far too many soulful looks between Superman and Lois Lane for my taste. It's a matinee at best.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2006</id>
+    <id>https://csells.github.io/sb6/2006</id>
     <title>When to ship a book is hard to know these days...</title>
     <updated>2006-06-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

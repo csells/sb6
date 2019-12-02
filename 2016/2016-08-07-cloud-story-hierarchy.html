@@ -26,7 +26,7 @@
   foo/bar.txt
   quux/
 </code></pre>
-<p>However, if you surf to the <a href="https://console.cloud.google.com/storage/browser">Storage Browser</a> to see the project with these three objects, you'll see something that looks like a normal file/folder browser:</p><img src="http://127.0.0.1:8080/public/post-images/gcs-bhelper-1.png" />
+<p>However, if you surf to the <a href="https://console.cloud.google.com/storage/browser">Storage Browser</a> to see the project with these three objects, you'll see something that looks like a normal file/folder browser:</p><img src="https://csells.github.io/sb6/public/post-images/gcs-bhelper-1.png" />
 <h2>Implicit and Explicit Folders</h2>
 <p>The Storage Browser has interpreted one of the objects as a file and two of them as folders, one implicit and one explicit. The implicit object folder comes from the slash in "foo/bar.txt"; the slash is used as a delimiter that means "folder" as far as the Storage Browser is concerned.</p>
 <p>The explicit folder comes from an object with a name that ends in a slash. You can create one by pressing the Create Folder button in the Storage Explorer or with the following lines of code:</p>

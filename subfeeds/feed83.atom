@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed83.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed83.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed82.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed84.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed83.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed82.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed84.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed83.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1247</id>
+    <id>https://csells.github.io/sb6/1247</id>
     <title>Ian on Service API Evolution</title>
     <updated>2004-03-31T08:00:00.000Z</updated>
     <published>2004-03-31T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 Ian's piece says to evolve an SOA endpoint that you're best off creating and running a new service along side the old one. He takes 2267 words to say what I said in 20, but &lt;A href="http://www.interact-sw.co.uk/iangblog/2004/03/31/serviceevolution">it's still a joy to wind your way down Ian's road&lt;/A>. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1248</id>
+    <id>https://csells.github.io/sb6/1248</id>
     <title>*This* Is Why We Released LH to Developers Early</title>
     <updated>2004-03-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -54,7 +56,7 @@ Ian's piece says to evolve an SOA endpoint that you're best off creating and run
 &lt;P>As a result, Longhorn gets better because it's able to accept early, critical feedback. Perfect.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1244</id>
+    <id>https://csells.github.io/sb6/1244</id>
     <title>More on IE in XPSP2</title>
     <updated>2004-03-30T08:00:00.000Z</updated>
     <published>2004-03-30T08:00:00.000Z</published>
@@ -69,7 +71,7 @@ Ian's piece says to evolve an SOA endpoint that you're best off creating and run
 &lt;P>Also, I've got XPSP2 RC1 on one of my machines that was plagued with pop-ups and web crap of all kinds. Now, all of that is gone and I've got a lot more info about things that sites were doing that no longer works, but I didn't want them doing that stuff anyway.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1246</id>
+    <id>https://csells.github.io/sb6/1246</id>
     <title>Avalon: From All Code to No Code And In Between</title>
     <updated>2004-03-30T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -82,7 +84,7 @@ Ian's piece says to evolve an SOA endpoint that you're best off creating and run
 &lt;P>My own preferred model is to do just as much as I can in XAML, because I find declarative style coding more flexible, but to put into code what makes sense, e.g. most event handling. My line in the sand is this: if I would have to embed code in the XAML, I go to real code, otherwise, I use XAML.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1243</id>
+    <id>https://csells.github.io/sb6/1243</id>
     <title>Buy My Comic Book Collection</title>
     <updated>2004-03-30T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -94,7 +96,7 @@ Ian's piece says to evolve an SOA endpoint that you're best off creating and run
 &lt;P>So, in summary, &lt;A href="http://search.stores.ebay.com/search/search.dll?query=Your%20bidadoo%20Auctions%20(reference%20id:%20VfRSsreoe5ti3v6iQkeT1L20Qlw%20)&amp;amp;srchdesc=y&amp;amp;sid=32623954&amp;amp;store=BidadooAuctions&amp;amp;colorid=0&amp;amp;fp=0&amp;amp;st=2">buy my comics&lt;/A> and &lt;A href="http://www.bidadoo.com/">check out Bidadoo&lt;/A> (if for no other reason than their fun name -- I'm a sucker for double meanings : ).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1245</id>
+    <id>https://csells.github.io/sb6/1245</id>
     <title>Visual Studio 6 SP6</title>
     <updated>2004-03-30T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -104,7 +106,7 @@ Ian's piece says to evolve an SOA endpoint that you're best off creating and run
 I used to live and die with Visual Studio Service Packs and the DevDiv Sustaining Engineering team has just released &lt;A href="http://msdn.microsoft.com/vstudio/downloads/updates/sp/vs6/sp6/default.aspx">another SP for you Visual C++ 6 and Visual Basic 6 programmers&lt;/A>. Millions of folks still use these products and it warms my heart that we're 2.5 generations past this, but still releasing SPs. I don't anticipate any more of them, though, so I recommend using this SP for your current projects and moving to Visual Studio .NET 2003 or Visual Studio 2005 on the next one, depending on the timing.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1241</id>
+    <id>https://csells.github.io/sb6/1241</id>
     <title>Is Microsoft Bollixing Up XAML?</title>
     <updated>2004-03-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -120,7 +122,7 @@ I used to live and die with Visual Studio Service Packs and the DevDiv Sustainin
 &lt;P>I only wish that he would post his thoughts of how XAML &lt;EM>should&lt;/EM> look.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1242</id>
+    <id>https://csells.github.io/sb6/1242</id>
     <title>Rory Hosts .NET Rock While Chris Adds Color</title>
     <updated>2004-03-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -130,7 +132,7 @@ I used to live and die with Visual Studio Service Packs and the DevDiv Sustainin
 The tables are well and truly turned from when &lt;A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=6feadfd0-6ba6-4c7f-a51a-e1cb32f8af7d&amp;amp;DisplayLang=en">I interviewed Carl with Rory acting as color man&lt;/A> to where &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/29/101241.aspx">Rory is hosting and I'm just there to fill a seat&lt;/A>. The guest is Tony Bain, who is new to me, and the topic is SQL Server apps, which, while I'm familiar with the technology, hasn't been part of my production quality app work since embedded SQL was the rage (and I miss it!). Should be interesting at the very most. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1240</id>
+    <id>https://csells.github.io/sb6/1240</id>
     <title>HTTP.SYS, IIS, Indigo, and Windows XP SP2 oh my!</title>
     <updated>2004-03-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -140,7 +142,7 @@ The tables are well and truly turned from when &lt;A href="http://www.microsoft.
 Don Box expands on &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-03-29T05:40:47Z">his explanation of HTTP.SYS, IIS and&amp;nbsp;XPSP2&lt;/A>, including providing a .NET Whidbey sample that uses HTTP.SYS along side of IIS6 running on XPSP2.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1239</id>
+    <id>https://csells.github.io/sb6/1239</id>
     <title>Fun Meeting with a Longhorn UX Guy Last Week</title>
     <updated>2004-03-28T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -157,7 +159,7 @@ Don Box expands on &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?k
 &lt;P>Whoa.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1237</id>
+    <id>https://csells.github.io/sb6/1237</id>
     <title>Do Not Install VS2005 on Longhorn!</title>
     <updated>2004-03-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -167,7 +169,7 @@ Don Box expands on &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?k
 While it's true that &lt;A href="http://msdn.microsoft.com/subscriptions/downloads/default.asp">a new preview version of Visual Studio 2005 is available&lt;/A> for MSDN Subscribers, &lt;STRONG>&lt;EM>&lt;FONT color=#ff0000>DO NOT INSTALL THIS BUILD OF VS2005 ON LONGHORN&lt;/FONT>&lt;/EM>&lt;/STRONG>. It won't work.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1238</id>
+    <id>https://csells.github.io/sb6/1238</id>
     <title>Time-Shifting Radio?</title>
     <updated>2004-03-26T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -177,7 +179,7 @@ While it's true that &lt;A href="http://msdn.microsoft.com/subscriptions/downloa
 I was reading &lt;A href="http://www.panopticoncentral.net/PermaLink.aspx/4bc19137-0150-46f6-90e7-cd3808ff6fe2">Paul Vick&lt;/A>, who agrees with &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/03/25/95783.aspx">Carl Franklin&lt;/A> that the "This American Life" weekly NPR radio program rocks (I'm paraphrasing : ). In addition, I really like Garrison Keillor, "Whad'Ya Know?" and&amp;nbsp;a bunch of the financial programs on AM radio. However, unlike &lt;A href="http://www.digitalnetworksna.com/replaytv/default.asp">my time-shifting TV appliance&lt;/A>, I don't have any good way to time-shift radio (the AM stuff is rife with commercials, so &lt;EM>really&lt;/EM> needs a fast-forward feature). Anyone got something for me? Ideally, I'd be able to dump programs to an MP3 player for convenient playback.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12502</id>
+    <id>https://csells.github.io/sb6/12502</id>
     <title>Checking Spec. Compliance at Build Time</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/tdd6.jpg"/>
@@ -266,7 +268,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1228</id>
+    <id>https://csells.github.io/sb6/1228</id>
     <title>Adam Kinney on Avalon Property Triggers</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -276,7 +278,7 @@ Discuss&lt;/a>&lt;/p>
 Adam has &lt;A href="http://www.longhornblogs.com/akinney/archive/2004/03/25/2849.aspx">a nice, concise sample of property triggers in Avalon&lt;/A>, which are a XAML way to change the properties of an object based on an action, e.g. implementing rollover. He also shows a small example of using property triggers with animations to build pleasing transitions.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1230</id>
+    <id>https://csells.github.io/sb6/1230</id>
     <title>XAML is Not Your Father's HTML</title>
     <updated>2004-03-25T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

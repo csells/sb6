@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed13.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed13.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed12.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed14.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed13.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed12.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed14.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed13.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2235</id>
+    <id>https://csells.github.io/sb6/2235</id>
     <title>I'm speaking at VSone in Munich, Feb 11-12</title>
     <updated>2009-01-12T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -43,7 +45,7 @@
 &lt;P>I'm even going for an extra few days to see the sights -- hopefully it won't be too cold. I'm from the Midwest and all, but when it's cold there, we stay home. I want to go out! Any suggestions for what I should oughta see?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2234</id>
+    <id>https://csells.github.io/sb6/2234</id>
     <title>Oslo Tool: SQL schema -> MSchema</title>
     <updated>2009-01-09T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -53,7 +55,7 @@
 Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/">designing and implementing an airline reservation&lt;/A> in the open air. In the process, he ported his models to M, but not by writing them by hand, but by writing &lt;A href="http://blog.huagati.com/res/index.php/2008/11/15/data-model-basics-part-11-the-huagatires-data-model-converted-to-m/">a tool to convert existing SQL schema to M&lt;/A>. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2233</id>
+    <id>https://csells.github.io/sb6/2233</id>
     <title>Dealing with the Visual Studio 2010 expiration in the WCF and WF 4.0, “Oslo”, &amp; “Dublin” PDC08 Virtual Machine</title>
     <updated>2009-01-08T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -98,7 +100,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN lang=EN style="mso-ansi-language: EN">&lt;FONT face=Calibri>If you&amp;#8217;ve converted this &lt;/FONT>&lt;A href="http://blogs.msdn.com/granth/archive/2008/11/03/converting-vs2010-ctp-to-hyper-v.aspx">&lt;FONT face=Calibri color=#0000ff>VPC image to HyperV&lt;/FONT>&lt;/A>&lt;FONT face=Calibri> following Grant&amp;#8217;s instructions, be sure to read Cameron&amp;#8217;s update to learn of a &lt;/FONT>&lt;A href="http://blogs.msdn.com/camerons/archive/2008/12/06/vsts-2010-ctp-hyper-v-and-january-1st-2009.aspx">&lt;FONT face=Calibri color=#0000ff>similar workaround for HyperV&lt;/FONT>&lt;/A>&lt;FONT face=Calibri>.&lt;/FONT>&lt;/SPAN>&lt;SPAN style="COLOR: #1f497d">&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2232</id>
+    <id>https://csells.github.io/sb6/2232</id>
     <title>Call For Speakers: DSL DevCon</title>
     <updated>2009-01-07T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -114,7 +116,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 &lt;P>&lt;A href="mailto:csells@microsoft.com?subject=DSL DevCon Abstract Submission">Submit your DSL-related talk idea!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2231</id>
+    <id>https://csells.github.io/sb6/2231</id>
     <title>The First "Oslo" Training Course!</title>
     <updated>2009-01-06T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -127,7 +129,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2230</id>
+    <id>https://csells.github.io/sb6/2230</id>
     <title>What is all the fuss about how you can write DSLs in Lisp?</title>
     <updated>2009-01-05T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -145,7 +147,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 &lt;P>IMO, that's not a DSL -- that's just a set of function calls in an existing language.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2229</id>
+    <id>https://csells.github.io/sb6/2229</id>
     <title>Eat Less and Exercise: Before and After</title>
     <updated>2009-01-04T08:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/before.jpg"/>
@@ -171,7 +173,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 &lt;P>I love that most of these tips are just like &lt;A href="http://www.hanselman.com/blog/SouthAfrica2008NewsFlashTurnsOutEatingLessAndMovingMoreCausesWeightLoss.aspx">Scott's newsflash&lt;/A> -- gives me some validation. Do you have tips to contribute? Tell me about them.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2227</id>
+    <id>https://csells.github.io/sb6/2227</id>
     <title>Spirited Discusson of Oslo on stackoverflow.com</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -181,7 +183,7 @@ Kristofer Andersson is &lt;A href="http://blog.huagati.com/res/index.php/about/"
 Joel Spolsky and friends have started a developer question/answer board and they've started to get &lt;A href="http://stackoverflow.com/search?q=oslo">some Oslo traffic&lt;/A>. Jump on in; the water's fine.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2222</id>
+    <id>https://csells.github.io/sb6/2222</id>
     <title>Erik Stepp provides the question for Oslo's "42"</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -191,7 +193,7 @@ Joel Spolsky and friends have started a developer question/answer board and they
 I'm just catching up a little after one set of holidays and before another one on Wednesday and I noticed &lt;A href="http://erikwynne.blogspot.com/2008/11/oslo-42.html">Erik Stepp's blog post entitled "Oslo == 42"&lt;/A> in my inbox. In his post, he provides a lovely discussion of what Oslo is and why we built it, giving us a concrete example from his own development life. He got it pretty much dead on. &lt;A href="http://erikwynne.blogspot.com/2008/11/oslo-42.html">Check it out.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2225</id>
+    <id>https://csells.github.io/sb6/2225</id>
     <title>Creating a Logo / Turtle Graphics Textual DSL using Oslo MGrammar</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -204,7 +206,7 @@ I'm just catching up a little after one set of holidays and before another one o
 &lt;P>Thanks, Jason. We try!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2226</id>
+    <id>https://csells.github.io/sb6/2226</id>
     <title>Jon Flanders Builds XLANG in MGrammar</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -214,7 +216,7 @@ I'm just catching up a little after one set of holidays and before another one o
 &lt;P>It's cool to see &lt;A href="http://www.masteringbiztalk.com/blogs/jon/PermaLink,guid,46aca103-ab50-48e1-addd-979b6f70ab5c.aspx">an MGrammar for a real-world language (XLANG)&lt;/A>. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2223</id>
+    <id>https://csells.github.io/sb6/2223</id>
     <title>Jeffrey Juday Exploring the Oslo Repository</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -227,7 +229,7 @@ I'm just catching up a little after one set of holidays and before another one o
 &lt;P>Check it out!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2228</id>
+    <id>https://csells.github.io/sb6/2228</id>
     <title>Martin Fowler: DslExceptionalism</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -241,7 +243,7 @@ I'm just catching up a little after one set of holidays and before another one o
 &lt;P>When you're ready, &lt;A href="http://msdn.com/oslo/">Oslo lets you build DSLs&lt;/A> to be as simple or as complex as you like.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2224</id>
+    <id>https://csells.github.io/sb6/2224</id>
     <title>Shawn Wildermuth on Oslo</title>
     <updated>2008-12-30T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -257,7 +259,7 @@ I'm just catching up a little after one set of holidays and before another one o
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2220</id>
+    <id>https://csells.github.io/sb6/2220</id>
     <title>If you liked Zork, you'll love Spork!</title>
     <updated>2008-12-22T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>

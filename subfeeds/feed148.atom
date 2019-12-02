@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed148.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed148.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed147.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed149.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed148.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed147.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed149.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed148.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/356</id>
+    <id>https://csells.github.io/sb6/356</id>
     <title>Current Project Command Prompt for VS.NET</title>
     <updated>2002-12-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://searchvb.techtarget.com/vsnetATEAnswers/0,293820,sid8_gci862641_tax292095,00.html">Here&lt;/a>. Another answer from the VS.NET Info Center Q&amp;A Forum describing how to start a command prompt and the file explorer in the directory of the current project.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/353</id>
+    <id>https://csells.github.io/sb6/353</id>
     <title>ADO.NET -- Offline and On Tap</title>
     <updated>2002-12-12T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://cedar.intel.com/cgi-bin/ids.dll/content/content.jsp?cntKey=Generic%20Editorial::net_bottleneck&amp;cntType=IDS_EDITORIAL&amp;catCode=BZW">Here&lt;/a>. "In the .NET* Framework, rich clients can bring database servers to their knees, just like Web-based applications. But with the disconnected nature of ADO.NET, your rich clients can manipulate and analyze database data without impacting the database server. Once you have the data in the rich client, you can do high-performance analysis of the data—including sorting, filtering, and querying—without expensive server calls. In this article we will show you how to use DataSet, DataView, and XmlDataDocument to make your rich clients work with database data in a disconnected way."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/351</id>
+    <id>https://csells.github.io/sb6/351</id>
     <title>Team Leader</title>
     <updated>2002-12-11T08:00:00.000Z</updated>
     <published>2002-12-11T08:00:00.000Z</published>
@@ -61,7 +63,7 @@
 From Assaf Levi: </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12568</id>
+    <id>https://csells.github.io/sb6/12568</id>
     <title>Of Eggs and Omelets</title>
     <updated>2002-12-10T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -136,7 +138,7 @@ From Assaf Levi: </content>
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/350</id>
+    <id>https://csells.github.io/sb6/350</id>
     <title>Of Eggs and Omelets</title>
     <updated>2002-12-10T08:00:00.000Z</updated>
     <published>2002-12-10T08:00:00.000Z</published>
@@ -145,7 +147,7 @@ From Assaf Levi: </content>
 &lt;a href="/12568">Here&lt;/a>. In which Chris describes his most recent personal journey on the path to true enlightenment. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/347</id>
+    <id>https://csells.github.io/sb6/347</id>
     <title>Info.NET, similar to Dashboard on MSN 8</title>
     <updated>2002-12-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -155,7 +157,7 @@ From Assaf Levi: </content>
 &lt;a href="http://www.codeproject.com/useritems/infodotnet.asp">Here&lt;/a>. From Ryan Dawson: I had talked earlier in the week to Chris about an application I was developing, and I said I would post it as a news item when it was finsihed (I should say just started, I am not close to being finished).  If you are interested in advancing this program, please contact me -rd933@msn.com.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/346</id>
+    <id>https://csells.github.io/sb6/346</id>
     <title>.NET Passport Manager Source Licensing Program</title>
     <updated>2002-12-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ From Assaf Levi: </content>
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpport/html/passptma.asp">Here&lt;/a>. From Spencer Harbar: The .NET Passport Manager Source Licensing Program enables developers and other interested individuals to access and use Passport Manager Source code for both commercial and noncommercial purposes, including the creation and distribution of derivatives of the licensed source code for non-Windows applications. Licensees are free to use the source code also to develop, debug, and support their own commercial software for integration with .NET Passport. Passport Manager Source code is available for installation with any version of .NET Passport.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/343</id>
+    <id>https://csells.github.io/sb6/343</id>
     <title>Web Services Enhancements 1.0 for Microsoft .NET</title>
     <updated>2002-12-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -175,7 +177,7 @@ From Assaf Levi: </content>
 &lt;a href="http://msdn.microsoft.com/webservices/building/wse/">Here&lt;/a>. From John Bristowe: "Web Services Enhancements 1.0 for Microsoft .NET is the released and supported version of the Web Services Development Kit Technology Preview (WSDK)."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/342</id>
+    <id>https://csells.github.io/sb6/342</id>
     <title>Web Services Enhancements for .NET</title>
     <updated>2002-12-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -187,7 +189,7 @@ From Assaf Levi: </content>
 In their own wonderful way, Microsoft has changed the name yet again to the set of classes that they've put together to do heavy-duty web services stuff. It was GXA, then WSDK and now it is, finally and officially, the Web Services Enhancements (WSE). If you liked it with the old names, you'll love it with the new name. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/345</id>
+    <id>https://csells.github.io/sb6/345</id>
     <title>Mono Runs ASP.NET</title>
     <updated>2002-12-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -199,7 +201,7 @@ In their own wonderful way, Microsoft has changed the name yet again to the set 
 "Many new features as well as plenty of bug fixes. Many new System.Data providers and a more mature System.Web (ASP.NET) which can now be hosted in any web server. A simple test web server to host asp.net has been released as well."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/344</id>
+    <id>https://csells.github.io/sb6/344</id>
     <title>Visual Studio Tools for Office</title>
     <updated>2002-12-09T08:00:00.000Z</updated>
     <published>2002-12-09T08:00:00.000Z</published>
@@ -210,7 +212,7 @@ In their own wonderful way, Microsoft has changed the name yet again to the set 
 I once heard that most VB programmers are actually office programmers, so keeping them happy was *way* more important than keeping the average VB programmer happy, let alone a lowly C programmer. So, until .NET is ubiquitous and there's a seamless porting tool, looks like VBA and VSA will co-exist in Office instead of just having VSA replace VBA in a single version. This is goodness, imo.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/341</id>
+    <id>https://csells.github.io/sb6/341</id>
     <title>More PetShop 2.0 Fun</title>
     <updated>2002-12-08T08:00:00.000Z</updated>
     <published>2002-12-08T08:00:00.000Z</published>
@@ -219,7 +221,7 @@ I once heard that most VB programmers are actually office programmers, so keepin
 &lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. "Carl and Mark discuss the PetShop 2.0 application which Vertigo developed as an answer to Sun's PetShop J2EE benchmark application. The .NET version proves to be at least 2 times as fast as the J2EE version."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/340</id>
+    <id>https://csells.github.io/sb6/340</id>
     <title>WinForms Control Inspector -- Spy++ for .NET</title>
     <updated>2002-12-07T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -231,7 +233,7 @@ I once heard that most VB programmers are actually office programmers, so keepin
 This looks *very* cool and was inspired by DevelopMentor's Guerrilla .NET course. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/338</id>
+    <id>https://csells.github.io/sb6/338</id>
     <title>Browse Rotor source code online</title>
     <updated>2002-12-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -245,7 +247,7 @@ This is an online browsable resource for digging into the source for a lot of th
 [JasonW or SamG -- it's hard to know]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/337</id>
+    <id>https://csells.github.io/sb6/337</id>
     <title>.NET Rocks Interviews Chris Sells</title>
     <updated>2002-11-29T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

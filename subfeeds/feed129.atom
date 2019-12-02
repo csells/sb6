@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed129.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed129.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed128.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed130.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed129.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed128.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed130.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed129.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/611</id>
+    <id>https://csells.github.io/sb6/611</id>
     <title>I share a birthday with the Marquis de Sade</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <published>2003-06-12T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.wikipedia.org/wiki/June_2">Here&lt;/a>. Oh sure, Pope Pius X, Johnny Weissmuller, Marvin Hamlisch and Dana Carvey were born that day, too, but definately Mr. de Sade is the coolest on the list.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/615</id>
+    <id>https://csells.github.io/sb6/615</id>
     <title>Windows Forms Programming in C# on Amazon</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 &lt;a href="http://www.amazon.com/exec/obidos/ASIN/0321116208/chrissells">Here&lt;/a>. I don't know how long it's but up, but the C# version of my WinForms book is up on Amazon. If you were a reviewer, please post a review. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/613</id>
+    <id>https://csells.github.io/sb6/613</id>
     <title>My Matrix Persona is Neo</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <published>2003-06-12T07:00:00.000Z</published>
@@ -62,7 +64,7 @@
 I'm guessing that Don's Morpheus, Sam's the Oracle, Sara's Trinity and Tim's the Architect. Bets?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/616</id>
+    <id>https://csells.github.io/sb6/616</id>
     <title>Exposing RSS Comments</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
     <published>2003-06-12T07:00:00.000Z</published>
@@ -71,7 +73,7 @@ I'm guessing that Don's Morpheus, Sam's the Oracle, Sara's Trinity and Tim's the
 &lt;a href="/12548">Here&lt;/a>. The one where I step into the breach and propose yet another RSS extension.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12548</id>
+    <id>https://csells.github.io/sb6/12548</id>
     <title>Exposing RSS 
 Comments</title>
     <updated>2003-06-12T07:00:00.000Z</updated>
@@ -112,7 +114,7 @@ Comments?&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/610</id>
+    <id>https://csells.github.io/sb6/610</id>
     <title>PowerToys for Visual Studio .NET 2003</title>
     <updated>2003-06-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -122,7 +124,7 @@ Comments?&lt;/a>&lt;/p>
 &lt;a href="http://www.gotdotnet.com/team/ide/">Here&lt;/a>. From Andrew Webb: </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/609</id>
+    <id>https://csells.github.io/sb6/609</id>
     <title>.NET Rocks Interview -- Chris Sells (Again!)</title>
     <updated>2003-06-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -133,7 +135,7 @@ Comments?&lt;/a>&lt;/p>
 &lt;a href="http://www.franklins.net/dotnetrocks.asp">Here&lt;/a>. "Chris talks with Carl and Mark about Longhorn, Working at Microsoft, his book with Don Box, his new Windows Forms book, dealing with Printer Margins, passing command-line arguments to auto-deployed applications, linking assemblies, the new Matrix movie, what's new in Ghengis, and answers the age old question 'to GAC or not to GAC?'"</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/608</id>
+    <id>https://csells.github.io/sb6/608</id>
     <title>Only 1 Month Left 'til Applied XML Dev. Conference</title>
     <updated>2003-06-10T07:00:00.000Z</updated>
     <published>2003-06-10T07:00:00.000Z</published>
@@ -142,7 +144,7 @@ Comments?&lt;/a>&lt;/p>
 &lt;a href="/conference">Here&lt;/a>. There's only one month left 'til Dave, Sam, Don, Steve, Chris, Tim and a whole bunch of other guys into XML on an unhealthly level gather for the Applied XML Developer's Conference. Don't miss it! Click the link for details.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/607</id>
+    <id>https://csells.github.io/sb6/607</id>
     <title>BinaryComboBox .NET released!</title>
     <updated>2003-06-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -152,7 +154,7 @@ Comments?&lt;/a>&lt;/p>
 &lt;a href="http://www.binarymission.co.uk/binarycombobox.aspx">Here&lt;/a>. From : A handy ComboBox control for developers!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/606</id>
+    <id>https://csells.github.io/sb6/606</id>
     <title>Chris Sells mentioned on Coast to Coast AM</title>
     <updated>2003-06-07T07:00:00.000Z</updated>
     <published>2003-06-07T07:00:00.000Z</published>
@@ -164,7 +166,7 @@ From Guy Incognito: As I was falling asleep, I heard Chris Sell's name mentioned
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/605</id>
+    <id>https://csells.github.io/sb6/605</id>
     <title>Yet another C# feature creeps into Java</title>
     <updated>2003-06-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -174,7 +176,7 @@ From Guy Incognito: As I was falling asleep, I heard Chris Sell's name mentioned
 &lt;a href="http://madbean.com/blog/22/">Here&lt;/a>. From Keith Wedinger: Java SDK 1.5 (code named Tiger) is going to support variable length argument lists.  In C#, this is accomplished via the params keyword.  In Java, they are going to use an ellipsis token.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/604</id>
+    <id>https://csells.github.io/sb6/604</id>
     <title>Agile .NET Development mailing list</title>
     <updated>2003-06-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -186,7 +188,7 @@ From Guy Incognito: As I was falling asleep, I heard Chris Sell's name mentioned
 Example topics: Unit Testing, Refactoring and Continuous Integration.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12549</id>
+    <id>https://csells.github.io/sb6/12549</id>
     <title>Ref-Counting 
 + Rotor Status</title>
     <updated>2003-06-05T07:00:00.000Z</updated>
@@ -224,7 +226,7 @@ we've been able to get finalizers working. Wahoo!&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/603</id>
+    <id>https://csells.github.io/sb6/603</id>
     <title>I've got spurs...</title>
     <updated>2003-06-05T07:00:00.000Z</updated>
     <published>2003-06-05T07:00:00.000Z</published>
@@ -237,7 +239,7 @@ Because I'm away from home, my pockets are filled with my wallet, cell phone, ke
 Then I realize that I'm humming. While this isn't unusual (I'm generally a happy fellow), after a few seconds, I realize the tune and bust out laughing. Follow the link for the tune...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/602</id>
+    <id>https://csells.github.io/sb6/602</id>
     <title>Ref-Counting + Rotor Status</title>
     <updated>2003-06-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

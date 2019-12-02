@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed89.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed89.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed88.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed90.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed89.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed88.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed90.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed89.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1161</id>
+    <id>https://csells.github.io/sb6/1161</id>
     <title>Starting from Scratch: The Visual Basic.NET Coach</title>
     <updated>2004-03-01T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 Sometimes I get aspiring programmers stumbling onto my web site and asking me how to get started having no programming background. I can't really tell them to do what I did, i.e. spend 4 years programming Applesoft Basic, so instead &lt;A href="http://www.amazon.com/exec/obidos/tg/detail/-/0321113500/chrissells">I recommend "The Visual Basic .NET Coach,"&lt;/A> which is supposed to introduce .NET programming from the ground up, assuming no previous programming experience. Does anyone have any experience with this book or other similiar titles?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1160</id>
+    <id>https://csells.github.io/sb6/1160</id>
     <title>Suggestions for WinForms Programming 2/e</title>
     <updated>2004-02-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -54,7 +56,7 @@ Sometimes I get aspiring programmers stumbling onto my web site and asking me ho
 &lt;P>The goal of the 2/e edition of the book is to cover the features of WinForms Whidbey as well as related .NET features that are important to WinForms programmers. Also, we'd like to continue to encapsulate WinForms community best practices. What did I miss in either of these categories that you'd like to see in the 2/e?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1159</id>
+    <id>https://csells.github.io/sb6/1159</id>
     <title>Introducing the New Avalon Graphics Model</title>
     <updated>2004-02-27T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -64,7 +66,7 @@ Sometimes I get aspiring programmers stumbling onto my web site and asking me ho
 Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/longhorn/?pull=/library/en-us/dnlong/html/avalongraphics.asp">the new drawing model in Avalon&lt;/A> and how it differs from the drawing model that's we've known and loved since 16-bit Windows. It also includes such tidbits as a reference for the currently under-documented Path.Data attribute. Highly recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1157</id>
+    <id>https://csells.github.io/sb6/1157</id>
     <title>The .NET Show's Got a Blog</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -74,7 +76,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;P>Since it's inception, I've been a big fan of the .NET Show and I've seen most of the episodes. Now, the host, Robert Hess, has got himself &lt;A href="http://blogs.msdn.com/theshow">a .NET Show-related blog&lt;/A>. &lt;A href="http://blogs.msdn.com/theshow/Rss.aspx">Subscribed&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1154</id>
+    <id>https://csells.github.io/sb6/1154</id>
     <title>Same-Sex Marriages *Should* Be Allowed</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -87,7 +89,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;P>BTW, you can save yourself the trouble of responding if you're going to say anything other than "+1", as I won't be responding to any kind of negative comments on this issue. There is literally nothing you can say to change my mind, so don't even try.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1156</id>
+    <id>https://csells.github.io/sb6/1156</id>
     <title>The Selling Point of Indigo</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -98,7 +100,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;P>"The selling point of the Indigo Service model is that it is simple and easy to use.&amp;nbsp; The benefits for developers is that they get all the benefits of enterprise-quality features such as transactions, reliable messaging and security without having to write any code.&amp;nbsp; Letting Microsoft do the plumbing allows developers more time to write code that focuses on solving complex and interesting business problems."&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1153</id>
+    <id>https://csells.github.io/sb6/1153</id>
     <title>A Redundant Chris Sells</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -109,7 +111,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;P>I would if &lt;A HREF="">Chris J. Sells in Beaverton, OR&lt;/A> or &lt;A href="http://www.chrissells.com">Chris D. Sells in Dallas, TX&lt;/A> is the redundant one...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1158</id>
+    <id>https://csells.github.io/sb6/1158</id>
     <title>Ohhhh.... MapPoint Location Server...</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <published>2004-02-26T08:00:00.000Z</published>
@@ -118,7 +120,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;a href="http://blogs.msdn.com/cthota/archive/2004/02/22/78004.aspx">Here&lt;/a>. Oh man! I *need* a SmartPhone. Imagine "Find Nearest Starbucks." Dude!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1155</id>
+    <id>https://csells.github.io/sb6/1155</id>
     <title>Timeshifting Rocks</title>
     <updated>2004-02-26T08:00:00.000Z</updated>
     <published>2004-02-26T08:00:00.000Z</published>
@@ -127,7 +129,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;a href="http://slashdot.org/article.pl?sid=04/02/26/1420209">Here&lt;/a>. &lt;P>My ReplayTV has made me such a bigot that I can't even watch normal TV w/o turning up my nose in disgust anymore. Also, I love download into MS lectures and playing them back at 1.5 speed while I'm on my treadmill; exercising my mind and my body at the same time. All media should be timeshifted. *All* *media*.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1150</id>
+    <id>https://csells.github.io/sb6/1150</id>
     <title>Time for some Longhorn DevCenter Feedback</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -137,7 +139,7 @@ Ian Griffiths has a very nice piece about &lt;A href="http://msdn.microsoft.com/
 &lt;P>It's been about 5 months since &lt;A href="http://msdn.microsoft.com/longhorn">the Longhorn Developer Center&lt;/A> was launched and I'm curious what you guys think of it. Do you like it? What about it don't you like? How could it support your current Longhorn development goals better? What can I do for the budding Longhorn developers that we're not doing? Don't be shy; call it like you see it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12504</id>
+    <id>https://csells.github.io/sb6/12504</id>
     <title>Of Mixed Career Minds</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -194,7 +196,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1149</id>
+    <id>https://csells.github.io/sb6/1149</id>
     <title>Benjamin Summarizes WS Alphabet Soup</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -204,7 +206,7 @@ Discuss&lt;/a>&lt;/p>
 Benjamin Mitchell does such &lt;A href="http://benjaminm.net/PermaLink.aspx?guid=26730e61-14fe-400e-a923-0527ad4caa12">a good job summarizing&lt;/A> &lt;A href="http://www.infoworld.com/article/04/02/20/08OPstrategic_1.html">Jon Udell's WS Alphabet Soup article&lt;/A> that I felt no need to read the actual article. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1148</id>
+    <id>https://csells.github.io/sb6/1148</id>
     <title>Of Mixed Career Minds</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -214,7 +216,7 @@ Benjamin Mitchell does such &lt;A href="http://benjaminm.net/PermaLink.aspx?guid
 &lt;a href="/12504">Here&lt;/a>. The one where Microsoft's up-coming Mid-Year Discussion and a late night IM chat with &lt;A href="http://www.aisto.com/roeder/">Lutz Roeder&lt;/A> &lt;a href="/12504">makes me introspective&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1151</id>
+    <id>https://csells.github.io/sb6/1151</id>
     <title>MSBuild Preview Quickstart Tutorials</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -224,7 +226,7 @@ Benjamin Mitchell does such &lt;A href="http://benjaminm.net/PermaLink.aspx?guid
 Alex Kipman, PM on the MSBuild team, was kind enough to provide &lt;A href="http://download.microsoft.com/download/d/4/0/d401e5cd-04c7-4b72-b644-a00ae3fd5681/msbuildqs.msi">several tutorials on MSBuild&lt;/A>, each of which includes sample projects and documentation. If you're looking to get up to speed on MSBuild, the nextgen .NET build engine, there's no better way. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1147</id>
+    <id>https://csells.github.io/sb6/1147</id>
     <title>O'Reilly Dedicates More Energy to Windows</title>
     <updated>2004-02-24T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

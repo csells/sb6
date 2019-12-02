@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed116.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed116.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed115.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed117.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed116.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed115.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed117.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed116.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/780</id>
+    <id>https://csells.github.io/sb6/780</id>
     <title>Communication Is All</title>
     <updated>2003-09-01T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -42,7 +44,7 @@
 &lt;a href="/12526">Here&lt;/a>. The one where I realize that my sister-in-law is smarter than me (shh... don't tell...).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/777</id>
+    <id>https://csells.github.io/sb6/777</id>
     <title>Windows Forms Programming in C# on Shelves</title>
     <updated>2003-08-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -53,7 +55,7 @@
 &lt;a href="/public/writing/wfbook/">Here&lt;/a>. My WinForms book for C# programmers should be on the shelves today. I've set up the site where you can download the source and report problems. The VB.NET version should be out at the PDC. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/778</id>
+    <id>https://csells.github.io/sb6/778</id>
     <title>re: The real goals of marketing?</title>
     <updated>2003-08-29T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -67,10 +69,10 @@ This last thing is what happened on my "The real goals of marketing?" piece [2].
 John Porcaro was a rare one that actually put his feelings on the subject up for the public and sums up most of the feedback I got. Plus, he's a Group Manager @ MS's Home and Entertainment division, so hopefully he's so impressed with my posts that he'll want to send me an MCE PC. I can’t be bought, John, but I can be rented. : )
 
 [1] http://dotnetguy.techieswithcats.com/archives/001071.shtml
-[2] http://127.0.0.1:8080/spout/#The_real_goals_of_marketing</content>
+[2] https://csells.github.io/sb6/spout/#The_real_goals_of_marketing</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/776</id>
+    <id>https://csells.github.io/sb6/776</id>
     <title>The Man Behind the Motion</title>
     <updated>2003-08-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -80,7 +82,7 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://www.xbox.com/xboxtv/Default.htm?t=4070&amp;v=74298&amp;bw=hi&amp;ltn=f">Here&lt;/a>. What This Is Spinal Tap does for rock 'n' roll. The Man Behind the Motion does for "mo-cap".</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/772</id>
+    <id>https://csells.github.io/sb6/772</id>
     <title>Another Link In the Chain</title>
     <updated>2003-08-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -90,7 +92,7 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/3177479.stm">Here&lt;/a>. The BBC is planning to open up "the best television library in the world," giving folks *free* access to radio and TV programs over the web. This is another step started by record albulms giving folks the ability to consume a/v content where and when they want. Next up is episodes of Friends, Gilmore Girls and The West Wing when and in the order I want.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/775</id>
+    <id>https://csells.github.io/sb6/775</id>
     <title>Novel Approach to CodeGen</title>
     <updated>2003-08-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -100,7 +102,7 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://www.inmetrix.com/">Here&lt;/a>. This code generator keeps the template right there with the generated source code. Pretty cool!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/774</id>
+    <id>https://csells.github.io/sb6/774</id>
     <title>PDC03 Conference Tracks and Breakout Sessions</title>
     <updated>2003-08-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -110,7 +112,7 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://msdn.microsoft.com/events/pdc/tracks.aspx">Here&lt;/a>. Don's glad that the PDC conference tracks and breakout sessions have been posted so that he doesn't have to be the first to say "indigo" in public. I'm similarly happy about no longer worrying about whether I'll inadvertently say "avalon" where I'm not supposed to. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/773</id>
+    <id>https://csells.github.io/sb6/773</id>
     <title>Perl 6 Essentials. Chapter 1: Project Overview</title>
     <updated>2003-08-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -120,23 +122,23 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://www.webreference.com/programming/perl/essentials/chap1/1/index.html">Here&lt;/a>. ORA has posted the first chapter to their new book about Perl 6, which describes how and why the Perl community hit the reset button on Perl.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/771</id>
+    <id>https://csells.github.io/sb6/771</id>
     <title>RSS Bandit Implements wfw:commentRss</title>
     <updated>2003-08-25T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
     <published>2003-08-25T07:00:00.000Z</published>
-    <summary>Here. Dare released a new version of RSS Bandit that, among other things, implements my RSS extension that exposes comments for an RSS entry via an RSS feed [1]. Dare's implementation is not only *exactly* what I had in mind when I proposed the extension (thanks, Dare!) but I think this also address's Shawn's request from the other day [2]. [1] http://127.0.0.1:8080/spout/#exposingRssComments [2] http://weblogs.asp.net/shawnmor/posts/24960.aspx
+    <summary>Here. Dare released a new version of RSS Bandit that, among other things, implements my RSS extension that exposes comments for an RSS entry via an RSS feed [1]. Dare's implementation is not only *exactly* what I had in mind when I proposed the extension (thanks, Dare!) but I think this also address's Shawn's request from the other day [2]. [1] https://csells.github.io/sb6/spout/#exposingRssComments [2] http://weblogs.asp.net/shawnmor/posts/24960.aspx
 </summary>
     <content type="html">&lt;h1>RSS Bandit Implements wfw:commentRss&lt;/h1>
 &lt;a href="http://www.kuro5hin.org/story/2003/8/23/154240/533">Here&lt;/a>. Dare released a new version of RSS Bandit that, among other things, implements my RSS extension that exposes comments for an RSS entry via an RSS feed [1]. Dare's implementation is not only *exactly* what I had in mind when I proposed the extension (thanks, Dare!) but I think this also address's Shawn's request from the other day [2].
 
-[1] http://127.0.0.1:8080/spout/#exposingRssComments
+[1] https://csells.github.io/sb6/spout/#exposingRssComments
 
 [2] http://weblogs.asp.net/shawnmor/posts/24960.aspx
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/770</id>
+    <id>https://csells.github.io/sb6/770</id>
     <title>In defense of continued innovation at MS</title>
     <updated>2003-08-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -146,7 +148,7 @@ John Porcaro was a rare one that actually put his feelings on the subject up for
 &lt;a href="http://groups.yahoo.com/group/win_tech_off_topic/message/21608">Here&lt;/a>. After watching several people complain about the lack of innovation at MS, Franci couldn't take it anymore and weighed in with his dissenting opinion. Thanks, Franci!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/767</id>
+    <id>https://csells.github.io/sb6/767</id>
     <title>Managed Version of Microsoft's Solitaire</title>
     <updated>2003-08-22T07:00:00.000Z</updated>
     <published>2003-08-22T07:00:00.000Z</published>
@@ -170,7 +172,7 @@ Got some time? Instead of firing up the existing sol.exe, help us finish our .NE
 [1] http://msdn.com/pdc</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/766</id>
+    <id>https://csells.github.io/sb6/766</id>
     <title>The Coolest Web Site I've Ever Seen</title>
     <updated>2003-08-22T07:00:00.000Z</updated>
     <published>2003-08-22T07:00:00.000Z</published>
@@ -179,7 +181,7 @@ Got some time? Instead of firing up the existing sol.exe, help us finish our .NE
 &lt;a href="http://www.cbcradio3.com">Here&lt;/a>. I love the mix of media on this site. It's what the web should be.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/769</id>
+    <id>https://csells.github.io/sb6/769</id>
     <title>A clickable button</title>
     <updated>2003-08-22T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -189,7 +191,7 @@ Got some time? Instead of firing up the existing sol.exe, help us finish our .NE
 &lt;a href="http://www.codeproject.com/scrapbook/clickablebutton.asp">Here&lt;/a>. As much as I love the site, I've only made two contributions to CodeProject.com. Reading the comments about one (".NET Delegates: A C# Bedtime Story") made me nostalgic for the other...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/768</id>
+    <id>https://csells.github.io/sb6/768</id>
     <title>Keeping the Faith</title>
     <updated>2003-08-22T07:00:00.000Z</updated>
     <published>2003-08-22T07:00:00.000Z</published>
@@ -198,7 +200,7 @@ Got some time? Instead of firing up the existing sol.exe, help us finish our .NE
 &lt;a href="http://www.codeproject.com/csharp/delegate_bedtime.asp?msg=589765#xx589765xx">Here&lt;/a>. For some reason, there's been a lot of interest in my ".NET Delegates: A C# Bedtime Story" on CodeProject.com lately, in spite of it being almost two years old. My favorite comment compares me to a "hard-drinking" Pope (which is especially ironic, since I'm an adamant ex-Catholic : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/765</id>
+    <id>https://csells.github.io/sb6/765</id>
     <title>The .NET Show: Managed Code</title>
     <updated>2003-08-21T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

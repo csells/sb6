@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed14.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed14.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed13.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed15.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed14.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed13.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed15.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed14.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2221</id>
+    <id>https://csells.github.io/sb6/2221</id>
     <title>Parsing relative and absolute dates with MGrammar</title>
     <updated>2008-12-22T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -42,7 +44,7 @@
 &lt;A href="http://www.infoq.com/articles/natural-language-date-dsl-oslo">Dilip Krishnan has built a lovely little date parser&lt;/A> that supports absolute dates like "6/2/1969" (just like DateTime.Parse already supports today) and relative dates like "today" or "next Monday" or "5 days from today". I find myself using relative date expressions like these all the time in Outlook and I've love to have them in every app I use that does dates. With Dilip's parser and &lt;A href="http://msdn.com/oslo">the Oslo SDK&lt;/A>, you can add it to your app.&amp;nbsp;Good work, Dilip!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2219</id>
+    <id>https://csells.github.io/sb6/2219</id>
     <title>Lang.NET + DSL DevCon = Joy</title>
     <updated>2008-12-18T08:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -59,7 +61,7 @@
 &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt">&lt;SPAN style="COLOR: #1f497d">&lt;FONT face=Calibri>Post your comments on this blog entry. Vote early, vote often!&lt;/FONT>&lt;/SPAN>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12639</id>
+    <id>https://csells.github.io/sb6/12639</id>
     <title>The Poker Brat</title>
     <updated>2008-12-16T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -83,7 +85,7 @@ like that. : )&lt;/p>
 pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2218</id>
+    <id>https://csells.github.io/sb6/2218</id>
     <title>Notation, Notation, Notation!</title>
     <updated>2008-12-10T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -93,7 +95,7 @@ pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
 &lt;A href="http://www.voelter.de/">Markus V&amp;#246;lter&lt;/A> has posted &lt;A href="http://www.voelter.de/data/articles/DSLBestPractices-Website.pdf">some interesting model-driven design guidelines&lt;/A>, my favorite of which is "notation, notation, notation!" Since Of course, since &lt;A href="http://msdn.microsoft.com/library/dd129869.aspx">Oslo provides MGrammar to let you build the notation of your choice&lt;/A>, I'm hardly unbiased. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2217</id>
+    <id>https://csells.github.io/sb6/2217</id>
     <title>.NET Rocks! Oslo is Love</title>
     <updated>2008-12-09T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -105,7 +107,7 @@ pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
 &lt;P>Check out &lt;A href="http://www.dotnetrocks.com/default.aspx?showNum=401">show #401 of .NET Rocks&lt;/A> for the how and the why. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2216</id>
+    <id>https://csells.github.io/sb6/2216</id>
     <title>Mr. Epl on the brain</title>
     <updated>2008-11-16T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -122,7 +124,7 @@ pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
 &lt;P>Did I mention I'm doing the voices, too?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2215</id>
+    <id>https://csells.github.io/sb6/2215</id>
     <title>SpankyJ is an Oslo Star!</title>
     <updated>2008-11-15T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -141,7 +143,7 @@ pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
 &lt;P>Anyone interested in Oslo should absolutely subscribe to &lt;A href="http://blogs.msdn.com/joshwil/">Spanky's blog&lt;/A>. I know I have.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2214</id>
+    <id>https://csells.github.io/sb6/2214</id>
     <title>Syntax Coloring for Your Custom Mg Language with Intellipad</title>
     <updated>2008-11-13T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -151,7 +153,7 @@ pokerlistings.com&lt;/a>&lt;br>Tue 12/16/2008 8:59 AM&lt;/em>&lt;/p></content>
 Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Coloring-for-Your-Custom-Mg-Language-with-Intellipad">how to hook up custom syntax highlighting in Intellipad for your MGrammar language&lt;/A>. Very cool!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2212</id>
+    <id>https://csells.github.io/sb6/2212</id>
     <title>Rocky on Oslo</title>
     <updated>2008-11-12T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -166,7 +168,7 @@ Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Colori
 &lt;P>Rocky on, Rocky!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2213</id>
+    <id>https://csells.github.io/sb6/2213</id>
     <title>tvrss.net + uTorrent + FiOS + WHS + 360 = DVR Bliss</title>
     <updated>2008-11-12T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -184,13 +186,13 @@ Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Colori
 &lt;LI>The XVID codec is available, along with a ton of other useful codecs, from &lt;A href="http://www.free-codecs.com">free-codecs.com&lt;/A> (I'm partial to the &lt;A href="http://www.free-codecs.com/download/K_Lite_Codec_Pack.htm">K-Lite Codec Pack&lt;/A> myself), which means that any videos that I download in XVID format can be played back on any PC in my house. Those PCs running Vista Ultimate that have a &lt;A href="http://www.newegg.com/Product/Product.aspx?Item=N82E16880100851">Media Center remote control&lt;/A> on them can surf to videos on the network and pick them with an experience just like that of my XBOX 360.&lt;/LI>
 &lt;LI>It's my understanding that the XBOX 360 menuing system will be updated this month to support Netflix streaming, so for the minimum subscription fee (1 DVD at a time, $8/month), I'll be able to get live, streaming movies directly from my XBOX 360 and all my PCs for the movies I don't yet own.&lt;/LI>&lt;/UL>
 &lt;P>All of this means is that if I were to schedule episodes of say, &lt;A href="http://tvrss.net/search/?show_name=Burn+Notice&amp;amp;show_name_exact=true">Burn Notice&lt;/A>, to be recorded by uTorrent and dropped into the Videos\TV\Burn Notice folder of my WHS box, I'd be able to access those and play them back on my XBOX 360 even more simply then I could access video from my MCE box, because I don't have to start up the Media Center software first -- access to shared folders is built right into the XBOX 360 menuing system. And I could have all of this in HD (no CableCard required) without commercials and without regard for how many tuners I have. This is all free and, if I don't want to watch live TV (the Superbowl was the last time I did), then I don't even need to spend $55/month on cable.&lt;/P>
-&lt;P>Plus, when combined with my photos, music and &lt;A href="vhttp://127.0.0.1:8080/news/showTopic.aspx?ixTopic=2187">ripped DVDs&lt;/A>, all of which are also stored on my WHS box, and streaming movies I don't yet own, I could access all of my digital media from my XBOX 360 (attached to my 46" LCD panel) and from all of my PCs simply and quickly.&lt;/P>
+&lt;P>Plus, when combined with my photos, music and &lt;A href="vhttps://csells.github.io/sb6/news/showTopic.aspx?ixTopic=2187">ripped DVDs&lt;/A>, all of which are also stored on my WHS box, and streaming movies I don't yet own, I could access all of my digital media from my XBOX 360 (attached to my 46" LCD panel) and from all of my PCs simply and quickly.&lt;/P>
 &lt;P>Of course, I would never record my favorite TV programs like this, because it's very much a copyright violation and therefore highly illegal.&lt;/P>
 &lt;P>But if I did, wow, it would rock...&lt;/P>
 &lt;P>Why do I need cable again?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2211</id>
+    <id>https://csells.github.io/sb6/2211</id>
     <title>Designing a language is hard; implementing it shouldn't be</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -202,7 +204,7 @@ Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Colori
 &lt;P>Does M making designing a language easier? No. It's still hard to design the syntax of a language. Does the M family of languages and the associated tools make it possible for more developers to add DSLs to their domains, letting them concentrate on the essence their language and reducing the &lt;A href="http://www.imdb.com/title/tt0090305/">Weird Science&lt;/A>-like ceremony to bring it to life? We hope so. &lt;A href="http://social.msdn.microsoft.com/Forums/en-US/oslo/threads/">You'll have to let us know.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2204</id>
+    <id>https://csells.github.io/sb6/2204</id>
     <title>MisBahaving with M</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -213,7 +215,7 @@ Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Colori
 &lt;P>It is amazing to me how many of these little DSLs have popped in M just since the PDC. Keep 'em coming!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2210</id>
+    <id>https://csells.github.io/sb6/2210</id>
     <title>More Oslo Reactions: What “Oslo” is and is not</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -223,7 +225,7 @@ Justin Bailey shows &lt;A href="http://blog.codeslower.com/2008/11/Syntax-Colori
 Lars Corneliussen (not the wonderful Lars that did a cameo at &lt;A href="http://mschnlnine.vo.llnwd.net/d1/pdc08/WMV-HQ/TL28.wmv">the Repository &amp;amp; Schemas PDC talk&lt;/A> about 8 minutes in) did &lt;A href="http://startbigthinksmall.wordpress.com/2008/11/07/post-pdc-again-what-is-oslo-m-mgrammar-quadrant-repository-textual-dsls-dsl-tools-uml-modeling-november-2008/">a nice overview of Oslo&lt;/A>. It's amazing to me how well the vision and details of the platform came through at the PDC. General-purpose modeling is a new thing for mainstream developers, but at least the developers that we've heard from so far seem to be open to the idea.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2209</id>
+    <id>https://csells.github.io/sb6/2209</id>
     <title>Ted Neward Explores M</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -234,7 +236,7 @@ Lars Corneliussen (not the wonderful Lars that did a cameo at &lt;A href="http:/
 &lt;P>I've been heads down for 3.5 years working on Oslo, so seeing other peoples' opinions from inside of Microsoft is very enlightening. &lt;A href="http://blogs.tedneward.com/CommentView.aspx?guid=d2274e34-b9e5-4771-a877-505b58b8aa28">Ted Neward has an Oslo opinion&lt;/A> that I enjoyed reading, even if it wasn't all positive. Thanks, Ted.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2203</id>
+    <id>https://csells.github.io/sb6/2203</id>
     <title>MSchema and Decorator Tables</title>
     <updated>2008-11-11T08:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>

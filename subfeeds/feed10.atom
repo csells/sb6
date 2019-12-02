@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed10.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed10.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed9.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed11.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed10.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed9.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed11.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed10.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2279</id>
+    <id>https://csells.github.io/sb6/2279</id>
     <title>Questions from Pinky on "Oslo"</title>
     <updated>2009-05-28T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -46,7 +48,7 @@
 &lt;P>The "Oslo" team is just at the beginning of our last real milestone before the PDC in November, so the answers to these questions help us to decide how to spend our time. I know that it seems like Microsoft has the ability to &lt;A href="http://en.wikipedia.org/wiki/Infinite_monkey_theorem">crank out the great works of Shakespeare&lt;/A>, but we're limited by time and resources, too, so if you have an opinion on these questions, &lt;A href="http://tinyfinger.blogspot.com/">drop by Pinky's place&lt;/A> and let him know what you think. Or, if you've got other &lt;A href="https://connect.microsoft.com/oslo">suggestions about how to improve "Oslo", drop them into our suggestion box&lt;/A>!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2278</id>
+    <id>https://csells.github.io/sb6/2278</id>
     <title>"'Oslo', the May CTP and You" at the PDX Code Camp</title>
     <updated>2009-05-27T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -59,7 +61,7 @@
 &lt;P>Come one, come all! Bring a friend and get a free GUID!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2276</id>
+    <id>https://csells.github.io/sb6/2276</id>
     <title>Flinging My 60-year-old Mother High Into The Air</title>
     <updated>2009-05-26T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -73,7 +75,7 @@
 &lt;P>Enjoy. We did. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2277</id>
+    <id>https://csells.github.io/sb6/2277</id>
     <title>Oslo May 2009 CTP Available Now</title>
     <updated>2009-05-26T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -85,7 +87,7 @@
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2275</id>
+    <id>https://csells.github.io/sb6/2275</id>
     <title>"Olso": Hot or Not?</title>
     <updated>2009-05-12T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -100,7 +102,7 @@
 &lt;P>Luckily for my pride and my continued employment, Oslo was rated 98% hot. That made &lt;A href="http://www.microsofttranslator.com/BV.aspx?ref=Internal&amp;amp;a=http%3A%2F%2Fwww.computable.nl%2Fartikel%2Fict_topics%2Fsoa%2F2935303%2F2204519%2Fms-oslo-applicaties-beschrijven-in-modellen.html">the magazine interviewing&lt;/A> the next day much less embarrassing I&amp;#8217;ll tell you!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2274</id>
+    <id>https://csells.github.io/sb6/2274</id>
     <title>James Clark Getting Involved in M</title>
     <updated>2009-05-07T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>
@@ -110,7 +112,7 @@
 &lt;A href="http://www.jclark.com/">James Clark&lt;/A>, the father of the world's fastest XML parser (&lt;A href="http://www.jclark.com/bio.htm">according to his bio&lt;/A>) is helping us with M on the &lt;A href="http://msdn.microsoft.com/en-us/oslo/msc.aspx">M Specification Community&lt;/A>. &lt;A href="http://blog.jclark.com/2009/03/getting-involved-with-m.html">He had some initial thoughts&lt;/A> that I thought were interesting. I'm sooo glad he's keeping us honest!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2273</id>
+    <id>https://csells.github.io/sb6/2273</id>
     <title>Dutch "Computable" Interviews Chris Sells on Oslo</title>
     <updated>2009-05-05T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -122,7 +124,7 @@
 &lt;P>But they chose the strangest picture...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2272</id>
+    <id>https://csells.github.io/sb6/2272</id>
     <title>Joel Spolsky talks about Wasabi: His FogBugz DSL</title>
     <updated>2009-05-03T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -132,7 +134,7 @@
 In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.com/default.aspx?showID=176">Visiting Fog Creek Software and Joel Spolsky&lt;/A>, Joel talks about &lt;A href="http://www.joelonsoftware.com/items/2006/09/01b.html">Wasabi, FogCreek's VBScript compiler&lt;/A>, and he talks about it really being a subset of VBScript used specifically for bringing &lt;A href="http://fogbugz.com">FogBugz&lt;/A> to Unix and the CLR. In fact, it's a VBScript compiler built specifically to compile a single application, doing things like making the 5% of ADO.NET they use cross-platform. And just in case the point isn't completely obvious, Joel and Scott draw the conclusion for us: Wasabi is the domain-specific language just for FogBugz. Just another DSL in nature.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12643</id>
+    <id>https://csells.github.io/sb6/12643</id>
     <title>DSL Developer's Conference</title>
     <updated>2009-04-18T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/conference/Small%20Box%20-%20DSL%20DevCon%20-%20Fill%20your%20head.jpg"/>
@@ -219,7 +221,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 			&lt;a href="mailto:csells@microsoft.com?subject=I've got a comment or suggestion about the Web Services DevCon">csells@microsoft.com&lt;/a> with any comments or suggestions.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2269</id>
+    <id>https://csells.github.io/sb6/2269</id>
     <title>Twitter takes a bite out of blogs</title>
     <updated>2009-04-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -232,7 +234,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 &lt;P>The worm has turned.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2270</id>
+    <id>https://csells.github.io/sb6/2270</id>
     <title>Win7 killed a feature I love in Vista!</title>
     <updated>2009-04-17T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -248,7 +250,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 &lt;P>Does anyone know of I 3rd party program I can run that will work exactly like the Vista Start menu under Windows 7? Please?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2271</id>
+    <id>https://csells.github.io/sb6/2271</id>
     <title>CodeCast: Oslo and M with Paul Vick</title>
     <updated>2009-04-17T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -258,7 +260,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 &lt;a href="http://www.developerfusion.com/media/12265/oslo-and-m-with-paul-vick/">Here&lt;/a>. Our own &lt;A href="http://www.panopticoncentral.net/">Paul Vick&lt;/A> is on CodeCast: The Late Night Show for .NET Developers, with your hosts Ken Levy, Gary Short, and Markus Egger. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2268</id>
+    <id>https://csells.github.io/sb6/2268</id>
     <title>Three "Oslo" Talks at VSLive in June!</title>
     <updated>2009-04-11T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -272,7 +274,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 &lt;P>I know I loved &lt;A href="http://live.visitmix.com/">MIX in Vegas last month&lt;/A> and I'm jealous I don't get to go back in June. &lt;A href="http://www.imdb.com/title/tt0089504/">Put some money down on 22 for me!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2267</id>
+    <id>https://csells.github.io/sb6/2267</id>
     <title>Real-World Credit Card Validation Rules w/ "Oslo"</title>
     <updated>2009-04-01T07:00:00.000Z</updated>
     <category term="oslofeaturedcontent" label="Oslo"/>
@@ -282,7 +284,7 @@ In Scott Hanselman's April 2009 podcast, &lt;A href="http://www.hanselminutes.co
 This is &lt;A href="http://www.hexadecimal.se/2009/03/17/ARealWorldApplicationOfMGrammarOslo.aspx">a wonderful article&lt;/A> on the use of an "M" grammar to parse a set of rules specific to credit card validation and then parse those rules at run-time to drive a framework for doing the validation itself. The article does a marvelous job of motivating the use of a custom DSL for construction and validation by non-engineers and then lays out the entire grammar and C# loader code. Recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2266</id>
+    <id>https://csells.github.io/sb6/2266</id>
     <title>Run your house with Oslo!</title>
     <updated>2009-04-01T07:00:00.000Z</updated>
     <category term="oslo" label="Oslo"/>

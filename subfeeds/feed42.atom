@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed42.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed42.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed41.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed43.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed42.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed41.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed43.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed42.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1819</id>
+    <id>https://csells.github.io/sb6/1819</id>
     <title>Taking a break from writing on Saturday to see FF</title>
     <updated>2005-07-05T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -43,7 +45,7 @@
 &lt;P>I don't have much hope that this movie will be any good, but the Brothers Sells and I can't not go. Feel free to join us! Rich has picked &lt;A href="http://nerddinner.com/blogs/portland/archive/2005/07/05/3855.aspx">the 12:25pm showing on Saturday, July 9th, at the new Century 16 Cedar Hill Crossing theater&lt;/A> that I love, just to make sure there would be no way I could say "no." Plus, I'll be deep in the throes of finalizing the Avalon book chapters that day (along with every other day this week -- what a way to burn vacation days), so any excuse to avoid the writing will be good. Come one, come all!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1815</id>
+    <id>https://csells.github.io/sb6/1815</id>
     <title>Portland Code Camp, July 23-24, Reed College</title>
     <updated>2005-06-28T07:00:00.000Z</updated>
     <published>2005-06-28T07:00:00.000Z</published>
@@ -55,7 +57,7 @@
 &lt;P>Code Camp is looking for speakers and attendees. &lt;A href="http://www.pacwest.ms/codecamp/pdx/1/">Come one, come all!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1816</id>
+    <id>https://csells.github.io/sb6/1816</id>
     <title>Avalon and ASP.NET, Together At Last</title>
     <updated>2005-06-28T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -75,7 +77,7 @@
 &lt;P>&lt;EM>"Cool!"&lt;/EM>&lt;/P>&lt;/BLOCKQUOTE></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1813</id>
+    <id>https://csells.github.io/sb6/1813</id>
     <title>New Monad Build Available</title>
     <updated>2005-06-27T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -85,7 +87,7 @@
 You have to stand on one foot, wait for 48 hours and wave a dead chicken over your monitor, but assuming you have the foot and the dead chicken, it don't cost nothin' to &lt;A href="http://www.proudlyserving.com/archives/2005/06/new_monad_build.html">download the latest beta of Monad&lt;/A>. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1814</id>
+    <id>https://csells.github.io/sb6/1814</id>
     <title>The scientists never survive this kind of thing...</title>
     <updated>2005-06-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -96,7 +98,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>*by "nobody" I mean "nobody" I read, of course -- I sure it was all the news amongst the "dear diary" set : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1812</id>
+    <id>https://csells.github.io/sb6/1812</id>
     <title>My Worst Job</title>
     <updated>2005-06-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -108,7 +110,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>I quit after two weeks because the amount of money I got for labor of that kind was nowhere near the degree of pain and suffering I endured, especially when I could just hang out at home for the summer. My friend, however, didn't get that choice. Poor bastard...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1811</id>
+    <id>https://csells.github.io/sb6/1811</id>
     <title>On the road to the PDC via Twin Peaks</title>
     <updated>2005-06-21T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -118,7 +120,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>&lt;A href="http://channel9.msdn.com/ShowPost.aspx?PostID=79591">The channel 9 guy starts on the road to the PDC.&lt;/A> Random fun (1 of 3).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1810</id>
+    <id>https://csells.github.io/sb6/1810</id>
     <title>Theoretical Computer Science</title>
     <updated>2005-06-20T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -131,7 +133,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>Fun. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1809</id>
+    <id>https://csells.github.io/sb6/1809</id>
     <title>My Weekend</title>
     <updated>2005-06-20T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -155,7 +157,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;LI>Monday, 1:33pm, composed this silly entry and working happily at my day job where reviewer feedback is not currently a part of my life&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1808</id>
+    <id>https://csells.github.io/sb6/1808</id>
     <title>The logicial conclusion of spam</title>
     <updated>2005-06-16T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -166,7 +168,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>&lt;IMG src="http://www.ibiblio.org/Dave/Dr-Fun/df200506/df20050616.jpg">&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1807</id>
+    <id>https://csells.github.io/sb6/1807</id>
     <title>The End of an Era</title>
     <updated>2005-06-14T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -181,7 +183,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>XXOO,&lt;BR>Chris&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1806</id>
+    <id>https://csells.github.io/sb6/1806</id>
     <title>Me and the Star Wars Gang</title>
     <updated>2005-06-13T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -192,7 +194,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>I was at Episode IV in 1977 when I was 8 years old, so this has been quite the journey. You'd think I'd be bored, but I've actually been following threads on the web lately like the "3 more episodes" rumors and &lt;A href="http://stuffo.howstuffworks.com/sith.htm">The Sith Explained&lt;/A> on howstuffworks.com.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1805</id>
+    <id>https://csells.github.io/sb6/1805</id>
     <title>Love Reviewers; Hate Reviews</title>
     <updated>2005-06-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -210,7 +212,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 &lt;P>Anyway, if you encounter me in the next month and I'm grumpty, it's 'cuz I'm spending my weekends dealing with reviews. I might be crabby and violent, but at least I'm slow and easy to see coming. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1804</id>
+    <id>https://csells.github.io/sb6/1804</id>
     <title>Ajax.NET</title>
     <updated>2005-06-11T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -220,7 +222,7 @@ You have to stand on one foot, wait for 48 hours and wave a dead chicken over yo
 If I were doing &lt;A href="http://en.wikipedia.org/wiki/AJAX">AJAX&lt;/A> work in ASP.NET, &lt;A href="http://ajax.schwarz-interactive.de/csharpsample/default.aspx">Ajax.NET&lt;/A> is the kind of thing I'd want to use.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1803</id>
+    <id>https://csells.github.io/sb6/1803</id>
     <title>Never Give Up, Never Surrender</title>
     <updated>2005-06-09T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

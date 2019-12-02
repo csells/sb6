@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed98.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed98.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed97.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed99.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed98.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed97.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed99.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed98.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1034</id>
+    <id>https://csells.github.io/sb6/1034</id>
     <title>MSDN TV: Introducing ClickOnce</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut in the next version of the .NET Framework, codename "Whidbey." &lt;A href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040108ClickOnceJC/manifest.xml">Hear Jamie Cool from the Windows Forms team introduce the technology&lt;/A> he first built in &lt;A href="http://www.windowsforms.net/articles/appupdater.aspx">prototype form as the AppUpdater Component&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1035</id>
+    <id>https://csells.github.io/sb6/1035</id>
     <title>Pentium Run at Over 5GHz</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <published>2004-01-09T08:00:00.000Z</published>
@@ -52,7 +54,7 @@ ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut
 &lt;P>BTW, I'm sure I overhyped this so you won't enjoy it like I did, but that's OK; I'm posting this with a smile. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1033</id>
+    <id>https://csells.github.io/sb6/1033</id>
     <title>My First .NET Tool Gets An Update</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -63,7 +65,7 @@ ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut
 &lt;P>What makes this kind of unusual is that I built this tool almost 2.5 years ago. In fact, it was the first .NET tool I posted on my site. Before that, it was all C++ and COM, although almost none of that has gone up since. It was kind of fun digging into that code again. I spent a bunch of time rearranging it to map more closely to my current .NET coding style not because it added any more functionality but because I couldn't stand not to. This developer thing is just a sickness, isn't it? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1032</id>
+    <id>https://csells.github.io/sb6/1032</id>
     <title>Surprised by Microsoft's Openness</title>
     <updated>2004-01-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -73,7 +75,7 @@ ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut
 &lt;a href="/12509">Here&lt;/a>. The one where even I'm surprised at how open Microsoft is willing to be.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1028</id>
+    <id>https://csells.github.io/sb6/1028</id>
     <title>Stereolize Pumps Up Presentations</title>
     <updated>2004-01-07T08:00:00.000Z</updated>
     <published>2004-01-07T08:00:00.000Z</published>
@@ -82,7 +84,7 @@ ClickOnce is the install-on-demand technology for Longhorn, but makes it's debut
 Not only does &lt;a href="/12514">Longhorn intimidate me&lt;/A> by removing my safe, comfortable barriers to building difficult applications, &lt;A href="http://www.stereolize.com">Stereolize&lt;/A> &lt;A href="http://www.stereolize.com/Clients/Ventuz/Movies/VentuzTrailer_complete.wmv">does the same for presentations&lt;/A>, but seems to require a music composer as well as a graphic designer. Yikes!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1029</id>
+    <id>https://csells.github.io/sb6/1029</id>
     <title>Vector Graphics &amp; Declarative Animation w/ Avalon</title>
     <updated>2004-01-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -92,7 +94,7 @@ Not only does &lt;a href="/12514">Longhorn intimidate me&lt;/A> by removing my s
 Don "XML" shows how to &lt;A href="http://www.donxml.com/VectorGraphicsAndDeclarativeAnimationWithAvalon.htm">use graphic primitives and animation declaratively in Avalon&lt;/A>, building an analog clock in the process. Cool!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1027</id>
+    <id>https://csells.github.io/sb6/1027</id>
     <title>Breaking the Mental Logjam</title>
     <updated>2004-01-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -103,7 +105,7 @@ Don "XML" shows how to &lt;A href="http://www.donxml.com/VectorGraphicsAndDeclar
 &lt;P>The first such "concept video" is centered around commercial real estate (available at &lt;A href="http://download.microsoft.com/download/f/d/9/fd9418b1-9440-40ce-8844-845d6fbfaf62/CommercialRealEstate-320x240.wmv">320x240&lt;/A> and &lt;A href="http://download.microsoft.com/download/6/a/a/6aa5bc74-59a4-4673-82e7-4ae2d54e1471/CommercialRealEstate-640x480.wmv">640x480&lt;/A>) and Carter's got more planned in other industries, including manufacturing, telecom, financial services and more. The goal is to help break the mental logjam around how we build Windows and web applications today to get folks thinking about the possibilities that Longhorn provides. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1026</id>
+    <id>https://csells.github.io/sb6/1026</id>
     <title>Don Box on .NET Rocks!</title>
     <updated>2004-01-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -113,7 +115,7 @@ Don "XML" shows how to &lt;A href="http://www.donxml.com/VectorGraphicsAndDeclar
 &lt;a href="http://www.franklins.net/dotnetrocks/">Here&lt;/a>. I haven't heard this yet, but I just know it'll be fun. Once you get Don started talking, it's hard for me to stop and interesting things almost always pop out. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1025</id>
+    <id>https://csells.github.io/sb6/1025</id>
     <title>On Genghis, WinForms and Moving Towards Avalon</title>
     <updated>2004-01-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -123,7 +125,7 @@ Don "XML" shows how to &lt;A href="http://www.donxml.com/VectorGraphicsAndDeclar
 &lt;a href="/12510">Here&lt;/a>. Inspired by &lt;A href="/1016">my pending interview of Don Box&lt;/FONT>&lt;/A>, Paolo Severini sent along an interview for me on Genghis, WinForms and how to move towards Avalon (although not in that order). The questions were so good, I thought I'd share them. Thanks, Paola!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12510</id>
+    <id>https://csells.github.io/sb6/12510</id>
     <title>On Genghis, WinForms and How to Move Towards Avalon</title>
     <updated>2004-01-03T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -297,7 +299,7 @@ a wonderful new year!&lt;br>--Paolo Severini&lt;/i>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1024</id>
+    <id>https://csells.github.io/sb6/1024</id>
     <title>WinFS: Stamping out the Roach Motel</title>
     <updated>2004-01-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -307,7 +309,7 @@ a wonderful new year!&lt;br>--Paolo Severini&lt;/i>&lt;/p>
 &lt;P>For those of you unfamiliar with Don's reference, a "roach motel" lets roaches in, but never lets them out. That's exactly what most apps do today, i.e. take data in from users or import routines, but never let it out again. &lt;A href="http://www.gotdotnet.com/team/dbox/default.aspx?key=2004-01-03T08:24:34Z">As Don states&lt;/A>, one of the chief benefits of WinFS is that data that apps store in it &lt;EM>will &lt;/EM>be available to other apps, thereby letting the roaches out of the hotel. Where Don's analogy breaks down is that in the case of application data, letting the roaches back out of the hotel is actually a &lt;EM>good &lt;/EM>thing. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1023</id>
+    <id>https://csells.github.io/sb6/1023</id>
     <title>ImCli Classes Updated for MSNP8</title>
     <updated>2004-01-02T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -317,7 +319,7 @@ a wonderful new year!&lt;br>--Paolo Severini&lt;/i>&lt;/p>
 &lt;a href="/12426">Here&lt;/a>. &lt;P>Plenty of folks have asked for updates to &lt;a href="/12426">my IM client classes&lt;/A> to support the new MSNP8 protocol, but only Robert M. Wagner Jr. made the changes and sent them to me. Thanks, Robert!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1021</id>
+    <id>https://csells.github.io/sb6/1021</id>
     <title>testing</title>
     <updated>2004-01-01T08:00:00.000Z</updated>
     <published>2004-01-01T08:00:00.000Z</published>
@@ -326,7 +328,7 @@ a wonderful new year!&lt;br>--Paolo Severini&lt;/i>&lt;/p>
 this &lt;A HREF="/tools">is a test&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1022</id>
+    <id>https://csells.github.io/sb6/1022</id>
     <title>testing</title>
     <updated>2004-01-01T08:00:00.000Z</updated>
     <published>2004-01-01T08:00:00.000Z</published>
@@ -335,7 +337,7 @@ this &lt;A HREF="/tools">is a test&lt;/A></content>
 this &lt;A HREF="/tools">is a test&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1020</id>
+    <id>https://csells.github.io/sb6/1020</id>
     <title>Web's inventor gets a knighthood</title>
     <updated>2003-12-31T08:00:00.000Z</updated>
     <published>2003-12-31T08:00:00.000Z</published>

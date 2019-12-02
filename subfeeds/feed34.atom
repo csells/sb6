@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed34.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed34.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed33.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed35.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed34.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed33.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed35.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed34.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1926</id>
+    <id>https://csells.github.io/sb6/1926</id>
     <title>George Carlin's Incomplete List of Impolite Words</title>
     <updated>2005-12-29T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -43,7 +45,7 @@
 &lt;P>I can't believe that after all these years, I still find &lt;A href="http://www.geocities.com/RainForest/Vines/1521/carlin_audio.html">George Carlin's Incomplete List of Impolite Words&lt;/A> amusing. It makes&amp;nbsp;&lt;A href="http://www.robrob8.com/song_parody/dl_songs2/petnamesforgenatalia.mp3">Tom Green's Pet Names for Genitalia&lt;/A>&amp;nbsp;seem like a poem you'd write on a mother's day card. For your grandmother. On a dialysis machine.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1928</id>
+    <id>https://csells.github.io/sb6/1928</id>
     <title>Dirty Publishing Secret: Indexes Suck</title>
     <updated>2005-12-29T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -56,7 +58,7 @@
 &lt;P>Anyway, that's why most indexes suck. Sorry. I think you should read my books cover-to-cover, memorizing as you go, eliminating the need for an index anyway. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1925</id>
+    <id>https://csells.github.io/sb6/1925</id>
     <title>PM Skill #2: Building Consensus</title>
     <updated>2005-12-28T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -71,7 +73,7 @@
 &lt;P>Ideally, if you have a pre-mess mess (my name for the collection of pre-mess-meeting meetings), you can show up at the mess meeting to merely tweak and ratify, but this is a rare thing indeed. If I were you, I'd be prepared for the mess and use pre-mess discussions as a way to inform how you lead the discussion.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1924</id>
+    <id>https://csells.github.io/sb6/1924</id>
     <title>PM Skill #1: Communicate, Communicate, Communicate</title>
     <updated>2005-12-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -101,7 +103,7 @@
 &lt;P>Often it's the case that team members won't read all (or even most) of your status emails. Don't let that stop you from sending them! At the very least, it helps you keep your head around what's going on and what needs doing. Also, it's comforting for team members and management to know that status is available even if they don't read the emails, because it lets them know that someone is watching the details. Plus, when someone asks a question that's answered in the status, I tend to reply with the status email as an attachment, letting them know that someone's all over things.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1923</id>
+    <id>https://csells.github.io/sb6/1923</id>
     <title>PM Skill #0: Know Your Job</title>
     <updated>2005-12-22T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -119,7 +121,7 @@
 &lt;P>I've got more opinions about other vital PM Skills, which I'll post as the spirit moves me, but hopefully at the rate of about 1/day 'til I'm dumped the entire contents of my brain, making room for other things. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1922</id>
+    <id>https://csells.github.io/sb6/1922</id>
     <title>New Workspace Link for RegexDesigner</title>
     <updated>2005-12-20T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -132,7 +134,7 @@
 &lt;P>Anyway, due to popular demand, I've updated &lt;A href="http://www.gotdotnet.com/Workspaces/Workspace.aspx?id=01e0dfb7-0182-45cd-94f7-2ed2df2504a9">the GotDotNet workspaces link to the RegexDesigner&lt;/A> and other tools. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1921</id>
+    <id>https://csells.github.io/sb6/1921</id>
     <title>MSDN Mag: Top Ten UI Breakthroughs In WPF</title>
     <updated>2005-12-20T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -142,7 +144,7 @@
 &lt;P>It goes without saying that MSDN Magazine doesn't let the authors pick the titles (who can forget Don's &lt;A href="http://www.microsoft.com/msj/0697/atl.aspx">The Active Template Library Makes Building Compact COM Objects a Joy&lt;/A>? : ), but what Ian and I had in mind here was &lt;A href="http://msdn.microsoft.com/msdnmag/issues/06/01/WindowsPresentationFoundation/default.aspx">10 things that would surprise you when learning WPF&lt;/A> and getting them in your face right up front. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1920</id>
+    <id>https://csells.github.io/sb6/1920</id>
     <title>How come nobody says "impeach?"</title>
     <updated>2005-12-18T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -154,7 +156,7 @@
 &lt;P>Bush sics the NSA on us w/o due process, starts a war so he can look tough for his dad and continues to dismiss global warming as a myth. Why aren't we impeaching his ass?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1919</id>
+    <id>https://csells.github.io/sb6/1919</id>
     <title>Windows Forms 2.0 Book Samples Posted</title>
     <updated>2005-12-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -165,7 +167,7 @@
 &lt;P>Mike did some last minute clean-up and checked in the files, so I've uploaded &lt;A HREF="/public/writing/wfbook/cs_2e_src2005.zip">the code sample for the Windows Forms 2.0 book&lt;/A>. Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1918</id>
+    <id>https://csells.github.io/sb6/1918</id>
     <title>Windows Forms Programming 2005 in C# Submitted!</title>
     <updated>2005-12-16T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -179,7 +181,7 @@
 &lt;P>Wahoo (2)!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1916</id>
+    <id>https://csells.github.io/sb6/1916</id>
     <title>Windows Template Library (WTL) 7.5</title>
     <updated>2005-12-09T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -190,7 +192,7 @@
 &lt;P>[&lt;A href="http://www.adoguy.com">via Shawn Wildermuth&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1915</id>
+    <id>https://csells.github.io/sb6/1915</id>
     <title>Updated WPF book code samples for Nov CTP</title>
     <updated>2005-12-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -200,7 +202,7 @@
 &lt;a href="/wpfbook">Here&lt;/a>. I've uploaded the samples for &lt;A href="/wpfbook">"Programming Windows Presentation Foundation"&lt;/A> ported to the November 2005 CTP. The change notes doc is coming directly (so far, it's a pretty darn short doc).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1914</id>
+    <id>https://csells.github.io/sb6/1914</id>
     <title>Wasting the Prince of Darkness</title>
     <updated>2005-11-26T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -211,7 +213,7 @@
 &lt;P>&lt;A href="/12378">This one&lt;/A>, though, is definitely worth posting. Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12378</id>
+    <id>https://csells.github.io/sb6/12378</id>
     <title>Wasting the Prince of Darkness</title>
     <updated>2005-11-23T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -257,7 +259,7 @@
 &lt;p>Well, here you go, weird-prince-of-darkness-wasting-lady...&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1913</id>
+    <id>https://csells.github.io/sb6/1913</id>
     <title>A C# 2.0 anon delegate "gotcha"</title>
     <updated>2005-11-23T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

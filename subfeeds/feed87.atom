@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed87.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed87.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed86.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed88.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed87.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed86.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed88.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed87.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1195</id>
+    <id>https://csells.github.io/sb6/1195</id>
     <title>WinForms Programming in C# 3rd Printing Ships</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -43,7 +45,7 @@
 &lt;a href="/public/writing/wfbook">Here&lt;/a>. &lt;P>I find it unbelievable that after umpteen books, I finally seem to have blended quality with quantity as the C# version of &lt;A HREF="/public/writing/wfbook">my WinForms book&lt;/A> enters it's 3rd printing after only 8 months in publication. Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1187</id>
+    <id>https://csells.github.io/sb6/1187</id>
     <title>Interactive XAML Editor Preview from Mobiform</title>
     <updated>2004-03-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -54,7 +56,7 @@
 &lt;P>Now there's something other than the 101-Key Text Wizard to use when designing XAML for Longhorn. Mind you, what Mobiform has put together isn't Illustrator or even Paint Brush yet, but it's an amazing start.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1188</id>
+    <id>https://csells.github.io/sb6/1188</id>
     <title>Study: We're Eating Ourselves to Death</title>
     <updated>2004-03-09T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -64,7 +66,7 @@
 &lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=514&amp;e=4&amp;u=/ap/20040309/ap_on_he_me/fit_obesity_2">Here&lt;/a>. Ouch. I resemble &lt;A href="http://story.news.yahoo.com/news?tmpl=story&amp;amp;cid=514&amp;amp;e=4&amp;amp;u=/ap/20040309/ap_on_he_me/fit_obesity_2">that remark&lt;/A>...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1189</id>
+    <id>https://csells.github.io/sb6/1189</id>
     <title>Genghis v0.5 Released</title>
     <updated>2004-03-09T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -88,7 +90,7 @@
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1190</id>
+    <id>https://csells.github.io/sb6/1190</id>
     <title>C# Corner on the WinFS Data Model</title>
     <updated>2004-03-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -98,7 +100,7 @@
 Jesus Rodriguez provides &lt;A href="http://www.c-sharpcorner.com/Longhorn/WinFS/WinFSDataModel.asp">an overview of the WinFS data model&lt;/A>, including using it for searching and notifications.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1184</id>
+    <id>https://csells.github.io/sb6/1184</id>
     <title>Putting the Fun Back In Programming</title>
     <updated>2004-03-08T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -108,7 +110,7 @@ Jesus Rodriguez provides &lt;A href="http://www.c-sharpcorner.com/Longhorn/WinFS
 I know that I'm no longer untainted because I work in the big house, but &lt;A href="http://www.milbertus.com/archives/2004/03/003100.php">I just don't get this&lt;/A>. Do developers really want to build the same thing over and over, project to project, app to app or do they want to spend their time building cool, new stuff? Is .NET or Whidbey or Longhorn any different from continuing the foundation that we've built before? Does anyone really miss building their own file system or declarative content flow or toolbar? Will anyone miss building their own animation, object serialization or secure communications&amp;nbsp;framework? I mean, building these infrastructure pieces is fun, but &lt;EM>&lt;STRONG>&lt;FONT color=#ff0000>even more fun is pulling these pieces together to build something that's never been built before&lt;/FONT>&lt;/STRONG>&lt;/EM>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1186</id>
+    <id>https://csells.github.io/sb6/1186</id>
     <title>Ian on Graphical Composition in Avalon</title>
     <updated>2004-03-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -120,7 +122,7 @@ I know that I'm no longer untainted because I work in the big house, but &lt;A h
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1185</id>
+    <id>https://csells.github.io/sb6/1185</id>
     <title>Using Windows Forms Markup (WFML)</title>
     <updated>2004-03-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -131,7 +133,7 @@ I know that I'm no longer untainted because I work in the big house, but &lt;A h
 &lt;P>[&lt;A href="http://www.simplegeek.com">via Chris Anderson&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1183</id>
+    <id>https://csells.github.io/sb6/1183</id>
     <title>WinFS Scenario #3: Easing the Development Process</title>
     <updated>2004-03-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -141,7 +143,7 @@ I know that I'm no longer untainted because I work in the big house, but &lt;A h
 Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Personally, &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/03/07/85766.aspx">this is one of my favorite&lt;/A>, simply because it talks about the massive developer benefits of having an object-based stored built into the OS.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1177</id>
+    <id>https://csells.github.io/sb6/1177</id>
     <title>Looking for WinFS Bloggers</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -151,7 +153,7 @@ Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Pe
 &lt;A href="/1168">My call for Indigo bloggers&lt;/A> was very successful (although most recommendations came via email), providing several interesting Indigo web blog possibilities. On the WinFS side, I only know about Mike Deem, and he seems to have gone into hybernation. Does anyone have anyone else that they'd like to &lt;A href="mailto:csells@microsoft.com?subject=Recommended WinFS Blogger">recommend as a WinFS blogger&lt;/A>? Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1182</id>
+    <id>https://csells.github.io/sb6/1182</id>
     <title>European Longhorn Tour</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -161,7 +163,7 @@ Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Pe
 &lt;A href="http://codezone.info/en/tours.aspx">The slides from the European tour showing off Longhorn are available on codezone.info&lt;/A>. The usual topics are covered, i.e. &lt;A href="http://codezone.info/en/downloads/avalon.ppt">Avalon&lt;/A>, &lt;A href="http://codezone.info/en/downloads/indigo.ppt">Indigo&lt;/A>, &lt;A href="http://codezone.info/en/downloads/winfs.ppt">WinFS&lt;/A>, as well as &lt;A href="http://codezone.info/en/downloads/whidbey.ppt">an overview of Whidbey&lt;/A> and &lt;A href="http://codezone.info/en/downloads/keynote.ppt">a keynote from David Chappell on the foundations of creativity&lt;/A>. I wish the vocals were up, too, but the slides are informative all by themselves.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1175</id>
+    <id>https://csells.github.io/sb6/1175</id>
     <title>Sample: Longhorn ImageStack</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -171,7 +173,7 @@ Jeremy Mazner has posted another in his series of compelling WinFS scenarios. Pe
 Jason Nadal has posted &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/03/06/85288.aspx">a sample application for viewing a stack of images in Longhorn&lt;/A> (&lt;A href="http://www.restlessdelusions.com/projects/archive/imageboxa.zip">with code&lt;/A>).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1176</id>
+    <id>https://csells.github.io/sb6/1176</id>
     <title>Longhorn Animations and Timelines</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -181,7 +183,7 @@ Jason Nadal has posted &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/03
 One of the features that Jason built into his ImageStack application was &lt;A href="http://weblogs.asp.net/jnadal/archive/2004/03/06/85042.aspx">animated zooming using timelines, which he describes in some detail here&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1180</id>
+    <id>https://csells.github.io/sb6/1180</id>
     <title>Rich Turner on Preparing Today for Indigo Tomorrow</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -198,7 +200,7 @@ One of the features that Jason built into his ImageStack application was &lt;A h
 &lt;P>Thanks for pointing me at Rich, folks. &lt;A href="http://weblogs.asp.net/richturner666/">I'm enjoying his Indigo blog a great deal!&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1178</id>
+    <id>https://csells.github.io/sb6/1178</id>
     <title>I Agree: This *Is* Brilliant</title>
     <updated>2004-03-07T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>

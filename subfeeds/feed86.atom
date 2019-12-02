@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed86.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed86.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed85.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed87.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed86.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed85.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed87.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed86.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1205</id>
+    <id>https://csells.github.io/sb6/1205</id>
     <title>Radio Silence</title>
     <updated>2004-03-14T08:00:00.000Z</updated>
     <published>2004-03-14T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 The one where the Sells brothers, the wife and I tackle 4 California theme parks in 4 days and Chris leaves his laptop behind.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1204</id>
+    <id>https://csells.github.io/sb6/1204</id>
     <title>Chat with the VC++ Team about Longhorn on Monday</title>
     <updated>2004-03-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@ The one where the Sells brothers, the wife and I tackle 4 California theme parks
 &lt;a href="http://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-US&amp;EventID=1032245114">Here&lt;/a>. If you're a C++ programmer and have questions or concerns about where C++ is going in Longhorn, you need to &lt;A href="http://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-US&amp;amp;EventID=1032245114">be at this chat on Monday, 3/15&amp;nbsp;from 11a - 12:30p PST&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1200</id>
+    <id>https://csells.github.io/sb6/1200</id>
     <title>What is WOW64 and How Does It Relate to .NET?</title>
     <updated>2004-03-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -66,7 +68,7 @@ The one where the Sells brothers, the wife and I tackle 4 California theme parks
 &lt;LI>If you have a 32bit managed app which has dependencies on 32bit unmanaged code then you&amp;#8217;ll need to either find a 64bit version of the unmanaged code or tag your managed app as x86 at compile time to make sure that you don&amp;#8217;t float up to a native 64bit process. This will result in you having to live with your process running under the WOW64.&lt;/LI>&lt;/UL></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1203</id>
+    <id>https://csells.github.io/sb6/1203</id>
     <title>Thumbs Up for Longhorn Security Lockdown</title>
     <updated>2004-03-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -76,7 +78,7 @@ The one where the Sells brothers, the wife and I tackle 4 California theme parks
 I'm just happy to see &lt;A href="http://internetnews.com/ent-news/article.php/3325631">security + Windows = good&lt;/A> for a change. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1202</id>
+    <id>https://csells.github.io/sb6/1202</id>
     <title>We're Rebuilding MSDN and We Need You!</title>
     <updated>2004-03-12T08:00:00.000Z</updated>
     <published>2004-03-12T08:00:00.000Z</published>
@@ -86,7 +88,7 @@ I'm just happy to see &lt;A href="http://internetnews.com/ent-news/article.php/3
 &lt;P>[via &lt;A href="http://blogs.msdn.com/lauraj/archive/2004/03/12/88709.aspx">Laura&lt;/A>, &lt;A href="http://weblogs.asp.net/ksharkey/archive/2004/03/12/88788.aspx">Kent&lt;/A> and &lt;A href="http://weblogs.asp.net/duncanma/archive/2004/03/12/88822.aspx">Duncan&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1201</id>
+    <id>https://csells.github.io/sb6/1201</id>
     <title>Indigo Lingo: Digging Into Channel Types</title>
     <updated>2004-03-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -96,7 +98,7 @@ I'm just happy to see &lt;A href="http://internetnews.com/ent-news/article.php/3
 Yasser Shohoud digs into Indigo even further, &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnlingo/html/indigolingo_03102004.asp">this month using "channels" to build different kinds of message exchange patterns into your applications&lt;/A>, including one-way, duplex (incoming and outgoing messages on different ports) and request/reply, as well as adding reliability.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1199</id>
+    <id>https://csells.github.io/sb6/1199</id>
     <title>Avoid the GAC (and Check My Reasoning)</title>
     <updated>2004-03-11T08:00:00.000Z</updated>
     <published>2004-03-11T08:00:00.000Z</published>
@@ -106,7 +108,7 @@ Yasser Shohoud digs into Indigo even further, &lt;A href="http://msdn.microsoft.
 &lt;P>This post feels very much like &lt;A href="http://discuss.microsoft.com/SCRIPTS/WA-MSD.EXE?A2=ind9709A&amp;amp;L=DCOM&amp;amp;P=R8788&amp;amp;I=-3">"Why do we still need duals?"&lt;/A> so if you've got a reason for using the GAC that I didn't list, by all means, let me know!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12503</id>
+    <id>https://csells.github.io/sb6/12503</id>
     <title>Avoid the GAC</title>
     <updated>2004-03-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -182,7 +184,7 @@ Discuss (did I miss any reasons to use the GAC?)&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1197</id>
+    <id>https://csells.github.io/sb6/1197</id>
     <title>Paul Thurrott's Longhorn Activity Center</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -192,7 +194,7 @@ Discuss (did I miss any reasons to use the GAC?)&lt;/a>&lt;/p>
 &lt;P>Paul Thurrott is more of a user guy then a developer guy, but you have to be a user before you can be a developer, and his stuff is often interesting. Now he's created a spot on his site to gather &lt;A href="http://www.winsupersite.com/longhorn/">his Longhorn content&lt;/A>. My only question: where's the dang RSS feed?!?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1192</id>
+    <id>https://csells.github.io/sb6/1192</id>
     <title>The VS7 Debugger doesn’t work. What can I do?</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -203,7 +205,7 @@ Discuss (did I miss any reasons to use the GAC?)&lt;/a>&lt;/p>
 &lt;P>[&lt;A href="http://weblogs.asp.net/duncanma/">via Duncan Mackenzie&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1194</id>
+    <id>https://csells.github.io/sb6/1194</id>
     <title>Ryan Dawson on RTC in Longhorn</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -213,7 +215,7 @@ Discuss (did I miss any reasons to use the GAC?)&lt;/a>&lt;/p>
 This time, &lt;A href="http://www.longhornblogs.com/rdawson/articles/BrowseTogether.aspx">Ryan digs into the RTC stack in Longhorn to build an IM app to enable synchronized browsing and chatting&lt;/A>. Includes source code and a meaty write-up, including Ryan's complaints about the current RTC stack.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1196</id>
+    <id>https://csells.github.io/sb6/1196</id>
     <title>Avalon vs. Quartz Extreme</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -224,7 +226,7 @@ This time, &lt;A href="http://www.longhornblogs.com/rdawson/articles/BrowseToget
 &lt;P>You go, Ian! : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1198</id>
+    <id>https://csells.github.io/sb6/1198</id>
     <title>Interview: Longhorn User Experience Gurus, part 2</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -237,7 +239,7 @@ This time, &lt;A href="http://www.longhornblogs.com/rdawson/articles/BrowseToget
 &lt;P>That's exactly how I felt coming to MS. We have a PR problem, but we definately do not have a care-about-the-customer problem.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1193</id>
+    <id>https://csells.github.io/sb6/1193</id>
     <title>Benjamin Summarizes Service Boundary Guidance</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -247,7 +249,7 @@ This time, &lt;A href="http://www.longhornblogs.com/rdawson/articles/BrowseToget
 I'm really getting to like &lt;A href="http://benjaminm.net/default.aspx">Benjamin's&amp;nbsp;Mitchell's blog&lt;/A> as a Reader's Digest of various issues that he's following. This time, he &lt;A href="http://pdcbloggers.net/Web_Services/1686.item">summarizes advise from across three MS architects providing guidance on where to draw boundaries between services&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1191</id>
+    <id>https://csells.github.io/sb6/1191</id>
     <title>Portland Nerd Dinner in My Neck of the Woods</title>
     <updated>2004-03-10T08:00:00.000Z</updated>
     <published>2004-03-10T08:00:00.000Z</published>

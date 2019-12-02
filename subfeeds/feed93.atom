@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed93.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed93.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed92.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed94.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed93.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed92.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed94.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed93.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1102</id>
+    <id>https://csells.github.io/sb6/1102</id>
     <title>Longhorn Foghorn: A Journey of a Thousand Miles</title>
     <updated>2004-02-10T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;P>&lt;EM>"A journey of a thousand miles starts with a single step."&lt;BR>Unknown (to me : )&lt;/EM>&lt;/P>  &lt;P>In &lt;A href="http://msdn.microsoft.com/longhorn/default.aspx?pull=/library/en-us/dnfoghorn/html/foghorn02112004.asp">this installment of the Longhorn Foghorn&lt;/a>, I start my Longhorn implementation of the venerable Windows Solitaire. There is no interesting code yet, but I have explored some of the same decisions any developer will face when starting their first Longhorn application from scratch. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1101</id>
+    <id>https://csells.github.io/sb6/1101</id>
     <title>Custom Avalon Spell-Checked TextBox Control</title>
     <updated>2004-02-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 Ryan's at it again, this time with &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/02/09/2451.aspx">a custom Avalon control that adds spell-checking to the built in TextBox control&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1100</id>
+    <id>https://csells.github.io/sb6/1100</id>
     <title>Hook into Windows Error Reporting</title>
     <updated>2004-02-08T08:00:00.000Z</updated>
     <published>2004-02-08T08:00:00.000Z</published>
@@ -61,7 +63,7 @@ Ryan's at it again, this time with &lt;A href="http://www.longhornblogs.com/rdaw
 You know that dialog that comes up when an app crashes and asks you if you'd like to send the error report to MS? You probably know that MS uses this information extensively to track down issues with their own software. You probably don't know that as an ISV, &lt;A href="https://winqual.microsoft.com/help/wer_help/dev.aspx">you can sign up to retrieve this data for your own apps&lt;/A>, provide custom error messages and/or resolutions to your customers that report these errors and even write code to put customized information into these errors. And, to the best of my knowledge, it don't cost nuthin'.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1099</id>
+    <id>https://csells.github.io/sb6/1099</id>
     <title>Scoble Interviews on MS's Longhorn Search Plans</title>
     <updated>2004-02-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -71,7 +73,7 @@ You know that dialog that comes up when an app crashes and asks you if you'd lik
 &lt;a href="http://www.searchengineguide.com/beal/2004/0204_ab1.html">Here&lt;/a>. Robert Scoble, Longhorn Evangelist at Microsoft, is interviewed on Microsoft' search engine plans, including those provided in Longhorn by WinFS. Take this with a grain of salt like all advance info on Longhorn, but interesting nonetheless.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1098</id>
+    <id>https://csells.github.io/sb6/1098</id>
     <title>Carl Franklin interviewed by ChrisS and RoryB</title>
     <updated>2004-02-08T08:00:00.000Z</updated>
     <published>2004-02-08T08:00:00.000Z</published>
@@ -80,7 +82,7 @@ You know that dialog that comes up when an app crashes and asks you if you'd lik
 &lt;P>A month or so back, Carl and I were hanging out and it occured to me that while Carl had been interviewing famous folks all over the place on his .NET Rocks Show, he hadn't been interviewed himself. So, Rory and I turned the tables on him. What results in &lt;A href="http://www.franklins.net/fnetdotnetrocks/dotnetrocks.aspx?showid=50">Carl rambling on in pure bliss for almost two hours&lt;/A>. Enjoy. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1095</id>
+    <id>https://csells.github.io/sb6/1095</id>
     <title>MS Allegiance Code Released to Fans</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <published>2004-02-06T08:00:00.000Z</published>
@@ -89,7 +91,7 @@ You know that dialog that comes up when an app crashes and asks you if you'd lik
 Apparently, even though Allegiance wasn't a commercial success for Microsoft, the fan base is very loyal. So loyal, in fact, that MS Research has posted &lt;A href="http://research.microsoft.com/research/allegiance/">the Allegiance source code&lt;/A> to the community. I've never played Allegiance (or heard of it, for that matter), but the trailers on &lt;A href="http://www.microsoft.com/games/allegiance/home.htm">the Allegiance home page&lt;/A> made it sound pretty cool. Even cooler is that MS couldn't keep working on the game, but didn't want to leave their fans in the lurch, so the released the source. Is this a thousand points of light or what!?! : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1093</id>
+    <id>https://csells.github.io/sb6/1093</id>
     <title>The Longhorn Team is Listening</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -101,7 +103,7 @@ Apparently, even though Allegiance wasn't a commercial success for Microsoft, th
 &lt;P>If you care enough about Longhorn to be running it at this stage, you really should take these guys up on their offers and use &lt;A href="http://msdn.microsoft.com/longhorn/community/newsgroups/">the newsgroups&lt;/A>. And if you're afraid that you're not getting your feedback seen, &lt;A href="mailto:csells@microsoft.com?subject=Longhorn Feedback">drop me a line&lt;/A>. I can't guanartee that your feedback will be incorporated, but I can make sure the right folks see it.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1096</id>
+    <id>https://csells.github.io/sb6/1096</id>
     <title>Mitch Walker on Avalon Skinning</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -111,7 +113,7 @@ Apparently, even though Allegiance wasn't a commercial success for Microsoft, th
 &lt;a href="http://blogs.msdn.com/mitchw/articles/68541.aspx">Here&lt;/a>. Mitch Walker, the Terrarium guy at MS, posts some tantalizing screen shots from the Longhorn version of Terrarium under development and uses them to discuss the three steps to building skinning support into your Avalon apps. Thanks, Mitch, and when are we going to get Terrarium.Longhorn? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12388</id>
+    <id>https://csells.github.io/sb6/12388</id>
     <title>Interviewing for MS Interns</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -137,7 +139,7 @@ posted some questions he asked at UPenn's Wharton School of Business&lt;/a>:&lt;
 read his post&lt;/a> for them.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1092</id>
+    <id>https://csells.github.io/sb6/1092</id>
     <title>Design Considerations on XAML Syntax</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -147,7 +149,7 @@ read his post&lt;/a> for them.&lt;/p></content>
 &lt;A class=headermaintitle id=Header1_HeaderTitle href="http://www.longhornblogs.com/rrelyea/">Rob Relyea&lt;/A>, a Lead PM on the Avalon team, talks about the chief design motivation for XAML, describes the current compound property syntax and then asks if developers would like it to change. Personally, I &lt;EM>really&lt;/EM> like the current compound property syntax, especially given the choices, but Rob doesn't care what &lt;EM>I &lt;/EM>think, he cares what &lt;EM>you &lt;/EM>think. &lt;A href="http://www.longhornblogs.com/rrelyea/archive/2004/02/06/2374.aspx">Go tell him.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1097</id>
+    <id>https://csells.github.io/sb6/1097</id>
     <title>IanG on Rubber Band Selection Outlines in Avalon</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -158,7 +160,7 @@ read his post&lt;/a> for them.&lt;/p></content>
 &lt;P>The key trick in Ian's implementation is putting a hidden &amp;lt;Rectangle&amp;gt; element into your XAML document so that when it's time to do the rubber hand outline, you can show it, move it and resize it based on where the mouse is, hiding the Rectangle again when the mouse button is released. This lets Avalon take care of the drawing, making this technique a thing of beauty.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1094</id>
+    <id>https://csells.github.io/sb6/1094</id>
     <title>Longhorn Concept Video: Health Care</title>
     <updated>2004-02-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -168,7 +170,7 @@ read his post&lt;/a> for them.&lt;/p></content>
 &lt;a href="http://msdn.microsoft.com/Longhorn/productinfo/conceptvid/default.aspx">Here&lt;/a>. In this concept video, Carter Maslan, Longhorn evangelist, shows off secure, peer-to-peer networking using pub/sub in Indigo, Longhorn's identity management, organizing data using WinFS metadata relationships, using DRM to keep patient data confidential&amp;nbsp;and some more ClickOnce s/w installation. The&amp;nbsp;application itself shows off&amp;nbsp;a specialist working remotely on a set of real x-rays showing a real case of a person incorrectly sent home having inhaled something he shouldn't and who could have really used a specialist on demand.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1090</id>
+    <id>https://csells.github.io/sb6/1090</id>
     <title>Sample: WinFS for CRM</title>
     <updated>2004-02-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -178,7 +180,7 @@ read his post&lt;/a> for them.&lt;/p></content>
 &lt;P>Last time, Ryan Dawson posted &lt;A href="http://www.longhornblogs.com/rdawson/archive/2004/01/27/2262.aspx">a fun Avalon sample showing system information using graphics and animation&lt;/A>. Today he's back &lt;A href="http://www.longhornblogs.com/rdawson/articles/WinFSCRM.aspx">exploring the use of WinFS to build a tiny CRM app&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1089</id>
+    <id>https://csells.github.io/sb6/1089</id>
     <title>Amazing Application of Data Visualization</title>
     <updated>2004-02-05T08:00:00.000Z</updated>
     <published>2004-02-05T08:00:00.000Z</published>
@@ -189,7 +191,7 @@ read his post&lt;/a> for them.&lt;/p></content>
 &lt;P>Jeez, I sound like &lt;A href="http://www.tonyrobbins.com/">Tony Robbins&lt;/A>...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1088</id>
+    <id>https://csells.github.io/sb6/1088</id>
     <title>Severe Beating Shown, CBS Shocked/FCC Investigates</title>
     <updated>2004-02-05T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

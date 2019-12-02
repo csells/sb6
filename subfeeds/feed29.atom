@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed29.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed29.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed28.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed30.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed29.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed28.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed30.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed29.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/2005</id>
+    <id>https://csells.github.io/sb6/2005</id>
     <title>Oh La La -- Qtek 8500!</title>
     <updated>2006-06-24T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="http://europe.htc.com/images/press/Qtek8500_3QTR_OPEN_010606LO.jpg"/>
@@ -60,7 +62,7 @@
 &lt;P>It's true that I've listed more things I don't like than that I do, but most of the stuff I don't like is nuisance and the stuff I do like is very, very cool. I don't know about battery life yet or what I'm going to think over time, but right now, I really like this phone. &lt;A href="http://www.mobileplanet.com/product.asp?code=133791">Recommended.&lt;/A>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2003</id>
+    <id>https://csells.github.io/sb6/2003</id>
     <title>My Qtek 8500 should be in my hands tomorrow!</title>
     <updated>2006-06-22T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -72,7 +74,7 @@
 &lt;P>Stay tuned for a review.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2004</id>
+    <id>https://csells.github.io/sb6/2004</id>
     <title>Free Portland Code Camp, 7/22-23</title>
     <updated>2006-06-22T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -83,7 +85,7 @@
 &lt;P>And if you're coming from out of town and need a place to crash, I've got a spare room. Come one, come all! Tell a friend! &lt;A href="http://pdx.techevents.info/codecamp/2/register.aspx">Register today!&lt;/A> It's free!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2002</id>
+    <id>https://csells.github.io/sb6/2002</id>
     <title>PM Skill #9: Team Off-site</title>
     <updated>2006-06-16T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -102,7 +104,7 @@
 &lt;P>Of course, just as no DevCon is perfect, neither was the DesignCon, but if you're looking for a way to get your team pointed in the same direction, I find the DesCon format a good one.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2001</id>
+    <id>https://csells.github.io/sb6/2001</id>
     <title>Would anyone be interested in another DevCon?</title>
     <updated>2006-06-13T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -113,7 +115,7 @@
 &lt;P>If I organized such an event, would anyone come?&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1999</id>
+    <id>https://csells.github.io/sb6/1999</id>
     <title>WinFX + .NET 2.0 Renamed .NET 3.0</title>
     <updated>2006-06-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -123,7 +125,7 @@
 The WinFX name is no more. Instead, &lt;A href="http://blogs.msdn.com/somasegar/archive/2006/06/09/624300.aspx">WinFX (.NET 2.0 + W*F)is .NET 3.0&lt;/A>. &amp;lt;whew&amp;gt;</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2000</id>
+    <id>https://csells.github.io/sb6/2000</id>
     <title>"man" for MSDN</title>
     <updated>2006-06-12T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -133,7 +135,7 @@ The WinFX name is no more. Instead, &lt;A href="http://blogs.msdn.com/somasegar/
 If you like man, &lt;A href="http://pluralsight.com/blogs/craig/archive/2006/06/12/27288.aspx">you'll love MSDN man&lt;/A>. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1997</id>
+    <id>https://csells.github.io/sb6/1997</id>
     <title>Advanced MSDN Search</title>
     <updated>2006-06-09T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -143,7 +145,7 @@ If you like man, &lt;A href="http://pluralsight.com/blogs/craig/archive/2006/06/
 MSDN has a new search UI which includes And, Or, Exclude, Group, Exact Phrase and Preference in the query and then narrowing by source or category in the results, e.g. MSDN or MFC Reference. The ability to exclude CE in the search results is worth the price of admission. &lt;A href="http://blogs.msdn.com/msdnsearchblog/archive/2006/06/06/619312.aspx">Check it out!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1998</id>
+    <id>https://csells.github.io/sb6/1998</id>
     <title>Annotate the MSDN Wiki</title>
     <updated>2006-06-09T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -153,7 +155,7 @@ MSDN has a new search UI which includes And, Or, Exclude, Group, Exact Phrase an
 For a long time, my favorite place to put up code snippets that I could get back to later has been &lt;A href="http://www.pinvoke.net/">pinvoke.net&lt;/A> (like &lt;A href="http://www.pinvoke.net/default.aspx/kernel32/GetTempFileName.html">GetTempFileName&lt;/A>). However, that was only good for managed/native interop, whereas &lt;A href="http://msdnwiki.microsoft.com/en-us/mtpswiki/default.aspx">the MSDN Wiki&lt;/A> is for anything in the docs. I don't know what their commitment is to keeping content over time or between versions, but I've got my fingers crossed. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1995</id>
+    <id>https://csells.github.io/sb6/1995</id>
     <title>Web Application Project: "The type 'foo' exists in both 'some dll' and 'another dll'"</title>
     <updated>2006-06-05T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -180,7 +182,7 @@ For a long time, my favorite place to put up code snippets that I could get back
 &lt;p>&lt;i>Update: Microsoft has updated the Knowledge Base with &lt;a href="http://support.microsoft.com/kb/919284">this issue&lt;/a>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1994</id>
+    <id>https://csells.github.io/sb6/1994</id>
     <title>I wish I had time for this</title>
     <updated>2006-05-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -190,7 +192,7 @@ For a long time, my favorite place to put up code snippets that I could get back
 Alternate Reality Gaming sounds like &lt;A href="http://www.perplexcity.com/">fun&lt;/A>, but I just don't know where people find the time...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/wfbook</id>
+    <id>https://csells.github.io/sb6/wfbook</id>
     <title>Windows Forms 2.0 Programming</title>
     <updated>2006-05-26T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/writing/wfbook/2eCover.jpg"/>
@@ -299,7 +301,7 @@ Alternate Reality Gaming sounds like &lt;A href="http://www.perplexcity.com/">fu
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1993</id>
+    <id>https://csells.github.io/sb6/1993</id>
     <title>WinFX Beta 2</title>
     <updated>2006-05-25T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -316,7 +318,7 @@ Alternate Reality Gaming sounds like &lt;A href="http://www.perplexcity.com/">fu
 &lt;P>Enjoy.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1992</id>
+    <id>https://csells.github.io/sb6/1992</id>
     <title>T-Mobile Smartphone Fun Facts</title>
     <updated>2006-05-24T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -332,7 +334,7 @@ Alternate Reality Gaming sounds like &lt;A href="http://www.perplexcity.com/">fu
 &lt;P>So far, I'm loving T-Mobile, not just 'cuz of the rates and the features, but also because they seem to understand that some folks aren't going to want to be stuck with the phones that they sell and they actually help you make them work. T-Mobile's not the biggest network, but apparently that makes 'em try harder. Recommended.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1991</id>
+    <id>https://csells.github.io/sb6/1991</id>
     <title>Don't want to skew Amazon reviews</title>
     <updated>2006-05-23T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

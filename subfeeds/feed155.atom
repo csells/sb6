@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed155.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed155.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed154.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed156.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed155.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed154.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed156.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed155.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12358</id>
+    <id>https://csells.github.io/sb6/12358</id>
     <title>"Spend A Day With .NET" Winning Entries</title>
     <updated>2002-09-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/daywithdotnet/Stoyan%20screen%20shot.JPG"/>
@@ -151,7 +153,7 @@ free software package:&lt;/p>
 &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/247</id>
+    <id>https://csells.github.io/sb6/247</id>
     <title>QuickCode for .NET</title>
     <updated>2002-09-13T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -165,7 +167,7 @@ prop int test&lt;Alt+Q>
 would expand to an entire property implementation. It works for C# and VB.NET and appears to be very flexible.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/248</id>
+    <id>https://csells.github.io/sb6/248</id>
     <title>TechEd2002 Sessions / MS Videos</title>
     <updated>2002-09-13T07:00:00.000Z</updated>
     <published>2002-09-13T07:00:00.000Z</published>
@@ -174,7 +176,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 &lt;a href="http://www.only4gurus.com/">Here&lt;/a>. From Jesse Ezell: If you are looking for a place to brush up on your .NET skills and missed TechEd this year, you can see the TechEd 2002 sessions (like 200+ sessions with slides, video, and audio) from here, as well as check out some great Balmer videos like the infamous "developers! developers! developers!" chant. Definately a top notch resource.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/249</id>
+    <id>https://csells.github.io/sb6/249</id>
     <title>Never Send An Email In Anger</title>
     <updated>2002-09-13T07:00:00.000Z</updated>
     <published>2002-09-13T07:00:00.000Z</published>
@@ -183,7 +185,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 &lt;a href="/12574">Here&lt;/a>. My proposal for an Outlook Add-In that notices and warns you when this is about to happen...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12574</id>
+    <id>https://csells.github.io/sb6/12574</id>
     <title>Never Send An Email In Anger</title>
     <updated>2002-09-13T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/spout/career.jpg"/>
@@ -219,7 +221,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/242</id>
+    <id>https://csells.github.io/sb6/242</id>
     <title>Multithreaded .NET Web Service Clients</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -231,7 +233,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 "Unresponsive programs are extremely frustrating to use. Applications that sometimes freeze for a moment are a source of much irritation, especially if they don't provide any feedback on what they are doing, or how long it is likely to be before they start responding again. This behaviour can be particularly common among applications that use remote facilities such as Web services. This article describes how to maintain responsiveness in .NET Windows Forms rich client applications, even when invoking potentially long-running Web services, by using multiple threads."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/246</id>
+    <id>https://csells.github.io/sb6/246</id>
     <title>DevelopMentor Developer Resources</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <published>2002-09-12T07:00:00.000Z</published>
@@ -240,7 +242,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 &lt;a href="http://www.develop.com/devresources/">Here&lt;/a>. The list of tools and samples from recognized experts across technologies has grown to monstrous proportions at the new DevelopMentor Developer Resources page. Highly recommended.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/240</id>
+    <id>https://csells.github.io/sb6/240</id>
     <title>Intel Rich Client Series</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <published>2002-09-12T07:00:00.000Z</published>
@@ -249,7 +251,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 &lt;a href="/public/writing/#intel">Here&lt;/a>. I'd like to announce a new series of articles specially requested by Intel on the topic of making the most of the client tier. Topics include high-performance graphics, data and XML querying and filtering on the client-side, smart client deployment and more. Two articles are up now with more to come through the end of the year. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/245</id>
+    <id>https://csells.github.io/sb6/245</id>
     <title>KDE To Support .NET</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -261,7 +263,7 @@ would expand to an entire property implementation. It works for C# and VB.NET an
 The reason that this is interesting for Windows developers is that with both of the major Linux desktops, i.e. Gnome and KDE, supporting .NET, it's possible that a simple .NET application or component could actually work across Windows, Gnome and KDE. Now .NET becomes the OS. Shades of Java, which failed in this space I know, but still interesting...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/243</id>
+    <id>https://csells.github.io/sb6/243</id>
     <title>foreach is Your Friend: Part 2</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -271,7 +273,7 @@ The reason that this is interesting for Windows developers is that with both of 
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1031079762371/">Here&lt;/a>. Just when you'd thought you're learned everything there was to know about foreach in part 1, I've got more in part 2! This part (the final : ) discusses implementing support for foreach in your own custom types as well as how to patch holes in the framework where they forgot to add foreach support. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/244</id>
+    <id>https://csells.github.io/sb6/244</id>
     <title>Less Than 40 Seats Left at the Web Services DevCon</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -281,7 +283,7 @@ The reason that this is interesting for Windows developers is that with both of 
 &lt;a href="/conference">Here&lt;/a>. Register now for the Web Services DevCon, October 10-11 in greater Boston, featuring Don Box, Tim Ewald and keynote speaker Sam Ruby. In addition to amazing talks by Microsoft’s Web Services Program Manager, Keith Ballinger, and IBM Distinguished Engineer, Noah Mendelsohn, as well as wizened practitioners from HP, Macromedia and the W3C, all attendees receive exclusive SellsBrothers t-shirts available nowhere else. Register now!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/241</id>
+    <id>https://csells.github.io/sb6/241</id>
     <title>Rich Client Database Interactions with ADO.NET</title>
     <updated>2002-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -293,19 +295,19 @@ The reason that this is interesting for Windows developers is that with both of 
 "In the .NET Framework, rich clients can bring database servers to their knees, just like Web-based applications. But with the disconnected nature of ADO.NET, your rich clients can manipulate and analyze database data without impacting the database server. Once you have the data in the rich client, you can do high-performance analysis of the data—including sorting, filtering, and querying—without expensive server calls. In this article we will show you how to use DataSet, DataView, and XmlDataDocument to make your rich clients work with database data in a disconnected way."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/238</id>
+    <id>https://csells.github.io/sb6/238</id>
     <title>Dev. Tool Wins Free Pass to Web Services DevCon</title>
     <updated>2002-09-11T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
     <published>2002-09-11T07:00:00.000Z</published>
-    <summary>Here. Stoyan Damov, the Grand Prize winner in the "Spend A Day With.NET" Coding Contest, won a free trip to the Web Services DevCon [1], Oct. 10-11 in greater Boston. His Microsoft Knowledge Base Viewer application provides "what's new" functionality for KB articles in the technology areas of your choice, along with caching and plain-text/HTML viewing. And he built it in a single day with.NET! [1] http://127.0.0.1:8080/conference</summary>
+    <summary>Here. Stoyan Damov, the Grand Prize winner in the "Spend A Day With.NET" Coding Contest, won a free trip to the Web Services DevCon [1], Oct. 10-11 in greater Boston. His Microsoft Knowledge Base Viewer application provides "what's new" functionality for KB articles in the technology areas of your choice, along with caching and plain-text/HTML viewing. And he built it in a single day with.NET! [1] https://csells.github.io/sb6/conference</summary>
     <content type="html">&lt;h1>Dev. Tool Wins Free Pass to Web Services DevCon&lt;/h1>
 &lt;a href="/public/fun/DayWithDotNet">Here&lt;/a>. Stoyan Damov, the Grand Prize winner in the "Spend A Day With .NET" Coding Contest, won a free trip to the Web Services DevCon [1], Oct. 10-11 in greater Boston. His Microsoft Knowledge Base Viewer application provides "what's new" functionality for KB articles in the technology areas of your choice, along with caching and plain-text/HTML viewing. And he built it in a single day with .NET!
 
-[1] http://127.0.0.1:8080/conference</content>
+[1] https://csells.github.io/sb6/conference</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/239</id>
+    <id>https://csells.github.io/sb6/239</id>
     <title>Comfort, One Year Later</title>
     <updated>2002-09-11T07:00:00.000Z</updated>
     <published>2002-09-11T07:00:00.000Z</published>
@@ -314,7 +316,7 @@ The reason that this is interesting for Windows developers is that with both of 
 &lt;a href="/12601">Here&lt;/a>. A year ago, thousands of people lost their lives at the World Trade Center and at the Pentagon. I'm working from home, so I can't put on my headlights, but I've been doing a lot of thinking about that day today and my "virtual" headlights are most definitely on. I'm sure today is very difficult for the survivors and I'd like to extend whatever comfort I can. May God bless you all.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/237</id>
+    <id>https://csells.github.io/sb6/237</id>
     <title>Happy Breakpoints for Testing</title>
     <updated>2002-09-11T07:00:00.000Z</updated>
     <published>2002-09-11T07:00:00.000Z</published>

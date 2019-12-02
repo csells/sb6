@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed150.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed150.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed149.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed151.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed150.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed149.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed151.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed150.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/320</id>
+    <id>https://csells.github.io/sb6/320</id>
     <title>Runtime code generation in JVM and CLR</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.dina.kvl.dk/~sestoft/rtcg/index.html">Here&lt;/a>. From Hun Boon Teo: "The Java Virtual Machine (JVM) and the Common Language Runtime (CLR) are bytecode-based abstract stack machines. Since modern implementations include highly optimizing just-in-time (JIT) compilers, these machines are excellent targets for runtime code generation: the generation of new program code just prior to its execution." </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/321</id>
+    <id>https://csells.github.io/sb6/321</id>
     <title>VBTV Episode 2: DO NOT WATCH THIS SHOW!</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://msdn.microsoft.com/vbtv/default.asp">Here&lt;/a>. Actually, I think you probably should watch it. I find VBTV very amusing. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/322</id>
+    <id>https://csells.github.io/sb6/322</id>
     <title>Increasing Permissions for WinForms Smart Clients</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -62,7 +64,7 @@
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms11122002.asp">Here&lt;/a>. "Chris Sells discusses permissions in .NET and how you can adapt the object model to protect smart clients while allowing well-known assemblies or sites to have additional permissions to provide users with additional services."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/324</id>
+    <id>https://csells.github.io/sb6/324</id>
     <title>WinForms Data Validation</title>
     <updated>2002-11-14T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -72,7 +74,7 @@
 &lt;a href="/public/writing/winformsDataValidation.htm">Here&lt;/a>. A little essay on the WinForms Validating event.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/317</id>
+    <id>https://csells.github.io/sb6/317</id>
     <title>New C# features: whitepaper now available</title>
     <updated>2002-11-13T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -82,7 +84,7 @@
 &lt;a href="http://www.gotdotnet.com/team/csharp/learn/Future/default.aspx">Here&lt;/a>. From Andrew Webb: The whitepaper (a Word file) is now available.  And the Demo Files link, previously dead, now works.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/316</id>
+    <id>https://csells.github.io/sb6/316</id>
     <title>The Everett Visual C++.NET features</title>
     <updated>2002-11-11T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -99,7 +101,7 @@
 He's got the details. Check it out.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12570</id>
+    <id>https://csells.github.io/sb6/12570</id>
     <title>Hierarchy Doesn't Scale</title>
     <updated>2002-11-11T08:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -157,7 +159,7 @@ He's got the details. Check it out.</content>
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/315</id>
+    <id>https://csells.github.io/sb6/315</id>
     <title>Microsoft PowerToys for Tablet PCs</title>
     <updated>2002-11-09T08:00:00.000Z</updated>
     <published>2002-11-09T08:00:00.000Z</published>
@@ -166,7 +168,7 @@ He's got the details. Check it out.</content>
 &lt;a href="http://www.microsoft.com/windowsxp/tabletpc/downloads/powertoys.asp?FinishURL=%2Fdownloads%2Frelease%2Easp%3FReleaseID%3D45058%26area%3Dsearch%26ordinal%3D17%26redirect%3Dno">Here&lt;/a>. Just fun stuff like Pool and Tic Tac Toe, but it makes me pine for a TablePC all the more...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/314</id>
+    <id>https://csells.github.io/sb6/314</id>
     <title>New C# Language Features (someday)</title>
     <updated>2002-11-09T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -186,7 +188,7 @@ He's got the details. Check it out.</content>
 All of these features sound really cool (not just generics), but unfortunately the presentation included no mention of when they'd actually ship...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/313</id>
+    <id>https://csells.github.io/sb6/313</id>
     <title>Pragmatic ADO.NET in stock!</title>
     <updated>2002-11-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -196,7 +198,7 @@ All of these features sound really cool (not just generics), but unfortunately t
 &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201745682/chrissells">Here&lt;/a>. Shawn Wildermuth's new book, Pragmatic ADO.NET: Data Access for the Internet World, is awailable now. Shawn's a long-time friend of mine and I wrote the forward to the book, so I'm hardly unbiased, but it rocks! Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/312</id>
+    <id>https://csells.github.io/sb6/312</id>
     <title>Visual C++ and C# Updates In Everette</title>
     <updated>2002-11-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -206,7 +208,7 @@ All of these features sound really cool (not just generics), but unfortunately t
 &lt;a href="http://zdnet.com.com/2100-1104-965046.html">Here&lt;/a>. From Jesse Ezell: That release of Visual C# will include four new features: support for "generics," which is a form of a C++ template that can help C# developers build software more quickly; support for "iterators," which help developers create new code; anonymous methods, which ease development of what’s known as "event-driven" code; and support for "partial types," which make it easier to use C# for building large projects.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/311</id>
+    <id>https://csells.github.io/sb6/311</id>
     <title>Regular Expressions in .NET</title>
     <updated>2002-11-07T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -216,7 +218,7 @@ All of these features sound really cool (not just generics), but unfortunately t
 &lt;a href="http://www.windevnet.com/documents/s=7547/win0212d/0212d.htm?temp=dEMIvJcUWy">Here&lt;/a>. Michael Weinhardt and Chris Sells plumb the depths of .NET's regular expression engine.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/309</id>
+    <id>https://csells.github.io/sb6/309</id>
     <title>Beta 2 of the Microsoft .NET Speech SDK</title>
     <updated>2002-11-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -228,7 +230,7 @@ Software Development Kit (SDK).</summary>
 Software Development Kit (SDK).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/310</id>
+    <id>https://csells.github.io/sb6/310</id>
     <title>Essential .NET, by Don Box, in stock!</title>
     <updated>2002-11-06T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -238,7 +240,7 @@ Software Development Kit (SDK).</content>
 &lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0201734117/qid=1036603928/chrissells">Here&lt;/a>. According to the AW web site, Essential .NET, by Don Box, with Chris Sells, is in stock and ships within 24 hours, and Amazon seems to agree. Enjoy!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/308</id>
+    <id>https://csells.github.io/sb6/308</id>
     <title>Rotor 1.0 Released</title>
     <updated>2002-11-05T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

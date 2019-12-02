@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed160.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed160.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed159.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed161.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed160.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed159.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed161.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed160.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/176</id>
+    <id>https://csells.github.io/sb6/176</id>
     <title>Programming tool makes bugs sing</title>
     <updated>2002-08-08T07:00:00.000Z</updated>
     <published>2002-08-08T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.trnmag.com/Stories/2002/080702/Programming_tool_makes_bugs_sing_080702.html">Here&lt;/a>. I always said it's better to make bugs loud than quiet, but I had no idea...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/174</id>
+    <id>https://csells.github.io/sb6/174</id>
     <title>Delphi for .NET compiler preview</title>
     <updated>2002-08-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 &lt;a href="http://bdn.borland.com/article/0,1410,28972,00.html">Here&lt;/a>. From jt: A first look at the Delphi for .NET compiler features and Delphi's new language syntax</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/175</id>
+    <id>https://csells.github.io/sb6/175</id>
     <title>.Net name ties Microsoft in knots</title>
     <updated>2002-08-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -63,7 +65,7 @@
 &lt;sigh> You'd have thought they would have learned their lesson from COM, OLE and ActiveX before this. I guess the slack caused by the Internet boom has taught even Microsoft bad habits.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/173</id>
+    <id>https://csells.github.io/sb6/173</id>
     <title>.NET Framework Service Pack 2</title>
     <updated>2002-08-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -73,7 +75,7 @@
 &lt;a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;Q321884">Here&lt;/a>. "This article provides information about the bugs that are fixed in Microsoft .NET Framework Service Pack 2 (SP2)."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/172</id>
+    <id>https://csells.github.io/sb6/172</id>
     <title>Win a Free Pass to the Web Services DevCon</title>
     <updated>2002-08-06T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -83,7 +85,7 @@
 &lt;a href="/public/fun/daywithdotnet">Here&lt;/a>. Spend a Day With .NET coding something cool, send it to submission@sellsbrothers.com and the winner wins a free pass to the Web Services DevCon! Other prizes include a year subscription to MSDN Universal, a signed box copy of VS.NET and a half-day consulting. Follow the link for details.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/171</id>
+    <id>https://csells.github.io/sb6/171</id>
     <title>Tim Ewald's Spoutlet</title>
     <updated>2002-08-05T07:00:00.000Z</updated>
     <published>2002-08-05T07:00:00.000Z</published>
@@ -92,7 +94,7 @@
 &lt;a href="http://www.gotdotnet.com/team/tewald/spoutlet.aspx">Here&lt;/a>. My friend, the author of Transactional COM+ and the editor of the XML/Web Services section on MSDN online, has an RSS feed.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/170</id>
+    <id>https://csells.github.io/sb6/170</id>
     <title>WinForms Over the Web</title>
     <updated>2002-08-05T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -106,7 +108,7 @@ zero-setup deployment of WinForms applications over the web, including versionin
 which I highly recommend (although I'm hardly unbiased : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/169</id>
+    <id>https://csells.github.io/sb6/169</id>
     <title>.NET Compact Framework Discussion List is Online</title>
     <updated>2002-08-04T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -117,7 +119,7 @@ which I highly recommend (although I'm hardly unbiased : ).</content>
 If you have a questions about the .NET Compact Framework, information that you would like to share or you just want to see what other people are doing with the .NET Compact Framework, this is the list for you. </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12579</id>
+    <id>https://csells.github.io/sb6/12579</id>
     <title>Industry Burn-Out</title>
     <updated>2002-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -148,7 +150,7 @@ If you have a questions about the .NET Compact Framework, information that you w
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/168</id>
+    <id>https://csells.github.io/sb6/168</id>
     <title>Industry Burn-Out</title>
     <updated>2002-08-03T07:00:00.000Z</updated>
     <published>2002-08-03T07:00:00.000Z</published>
@@ -157,7 +159,7 @@ If you have a questions about the .NET Compact Framework, information that you w
 &lt;a href="/12579">Here&lt;/a>. I got to feeling melancholy today about the low moral in the industry. Pay no attention. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/167</id>
+    <id>https://csells.github.io/sb6/167</id>
     <title>Mike Lehman's BugTracker.net Released</title>
     <updated>2002-08-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -167,7 +169,7 @@ If you have a questions about the .NET Compact Framework, information that you w
 &lt;a href="http://www.mikelehman.com/bugtracker/bugtracker.html">Here&lt;/a>. From Michael Lehman: "Mike Lehman's BugTracker.net" is an open-source Windows Forms, XML, ADO.net bug tracking application written in C#.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/165</id>
+    <id>https://csells.github.io/sb6/165</id>
     <title>Generating Code at Run Time With Reflection.Emit</title>
     <updated>2002-08-01T07:00:00.000Z</updated>
     <published>2002-08-01T07:00:00.000Z</published>
@@ -178,7 +180,7 @@ If you have a questions about the .NET Compact Framework, information that you w
 "Java programmers have long enjoyed the benefits of reflection and full-fidelity type information, and .NET (finally) delivers that bit of nirvana to the Windows platform. But the classes in the Reflection.Emit namespace raise the bar even further, allowing us to generate new types and emit new code, dynamically."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/162</id>
+    <id>https://csells.github.io/sb6/162</id>
     <title>.NET FxCop Updated to Version 1.072</title>
     <updated>2002-07-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -200,7 +202,7 @@ If you have a questions about the .NET Compact Framework, information that you w
 [Maciek Sarnowicz via Off Topic]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/164</id>
+    <id>https://csells.github.io/sb6/164</id>
     <title>Samples Chapters from the Web Services Implementation Guide</title>
     <updated>2002-07-31T07:00:00.000Z</updated>
     <published>2002-07-31T07:00:00.000Z</published>
@@ -211,7 +213,7 @@ If you have a questions about the .NET Compact Framework, information that you w
 Architag Press, a division of Architag International Corporation, announces the publication of Web Services Implementation Guide, Volume 1: Getting Started, by Brian E. Travis and Mae Ozkan.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/161</id>
+    <id>https://csells.github.io/sb6/161</id>
     <title>Mastering Visual Studio .NET sample chapters</title>
     <updated>2002-07-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

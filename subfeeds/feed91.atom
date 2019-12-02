@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed91.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed91.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed90.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed92.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed91.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed90.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed92.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed91.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1131</id>
+    <id>https://csells.github.io/sb6/1131</id>
     <title>Ben Charts A Road to Indigo</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 If you haven't gotten the Indigo bug yet, &lt;A href="http://benjaminm.net/PermaLink.aspx?guid=27c7ec47-a47e-492e-b8a0-f8191c115bd5">Benjamin Mitchell lays out a nice, easily digestible Indigo intro&lt;/A> on what all the fuss is about. I especially like the picture showing all communications roads leading to Indigo while maintaining the advantages of multiple styles of programming. Looking forward to reading more, Mr. Mitchell.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1130</id>
+    <id>https://csells.github.io/sb6/1130</id>
     <title>Longhorn Sample: RSS Aggregator</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@ If you haven't gotten the Indigo bug yet, &lt;A href="http://benjaminm.net/Perma
 Adam Kinney is at it again, this time with &lt;A href="http://www.longhornblogs.com/akinney/archive/2004/02/19/2550.aspx">a sample RSS Aggregator&lt;/A> that uses Avalon's adaptive flow layout and some WinFS. Things are starting to get interesting...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1136</id>
+    <id>https://csells.github.io/sb6/1136</id>
     <title>Registration Open for WinHEC</title>
     <updated>2004-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -62,7 +64,7 @@ Adam Kinney is at it again, this time with &lt;A href="http://www.longhornblogs.
 If you need a look at Longhorn, but you couldn't make the PDC (or you're just dying for *another* look at Longhorn), &lt;A href="http://www.microsoft.com/whdc/winhec/default.mspx">WinHEC in May is the place to be&lt;/A>. Of course, it's also the place to be if you're a PC h/w vendor, but then, you guys already know that. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1129</id>
+    <id>https://csells.github.io/sb6/1129</id>
     <title>Cheap Stan Lippman Knock Off</title>
     <updated>2004-02-18T08:00:00.000Z</updated>
     <published>2004-02-18T08:00:00.000Z</published>
@@ -73,7 +75,7 @@ If you need a look at Longhorn, but you couldn't make the PDC (or you're just dy
 &lt;P>When I write, I'm always striving to motivate, point out analogies, point out the alternatives and the associated problems and lead the reader to an appreciation of what was chosen (although I never could have stated it as clearly as Stan did w/o even trying). Apparently, I've been a Stan Lippman wannabe for years. Who knew? : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1128</id>
+    <id>https://csells.github.io/sb6/1128</id>
     <title>Karsten Answers Some Indigo Questions</title>
     <updated>2004-02-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -83,7 +85,7 @@ If you need a look at Longhorn, but you couldn't make the PDC (or you're just dy
 Karsten *Januszewski* has &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/02/13/72776.aspx">some answers to questions about Indigo&lt;/A> as related to ASMX, .NET Remoting, RPC and firewalls.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1126</id>
+    <id>https://csells.github.io/sb6/1126</id>
     <title>WinFS Senario #1: Adding Music to Movies</title>
     <updated>2004-02-17T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -93,7 +95,7 @@ Karsten *Januszewski* has &lt;A href="http://blogs.msdn.com/karstenj/archive/200
 On his quest to find &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/16/74595.aspx">"non-bad WinFS scenarios"&lt;/A> (ironically, because &lt;A href="http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=7434dcc2-22ae-426f-ae5c-37c2fc6ec87b">he was called out by another Microsoft employee&lt;/A> -- I love it when we fight in public : ), Jeremy Mazner, Longhorn Technical Evangelist, starts with his real life use of Windows Movie Maker and trying to find music to use as a soundtrack. &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/17/75232.aspx">Let Jeremy know what you think.&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1125</id>
+    <id>https://csells.github.io/sb6/1125</id>
     <title>Top 8 Clues That You Might Be A Geek</title>
     <updated>2004-02-17T08:00:00.000Z</updated>
     <published>2004-02-17T08:00:00.000Z</published>
@@ -104,7 +106,7 @@ On his quest to find &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/1
 &lt;P>: )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1123</id>
+    <id>https://csells.github.io/sb6/1123</id>
     <title>The Facts About The Windows Source Code Posting</title>
     <updated>2004-02-17T08:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -114,7 +116,7 @@ On his quest to find &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/1
 &lt;A href="http://www.microsoft.com/presspass/press/2004/Feb04/02-12windowssource.asp">MS's official word&lt;/A> on what happened with the illegal source code posting and what we're doing about it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1124</id>
+    <id>https://csells.github.io/sb6/1124</id>
     <title>Another Comic from Rory</title>
     <updated>2004-02-17T08:00:00.000Z</updated>
     <published>2004-02-17T08:00:00.000Z</published>
@@ -123,7 +125,7 @@ On his quest to find &lt;A href="http://blogs.msdn.com/jmazner/archive/2004/02/1
 I have to say that my favorite posts from Rory are his terribly drawn comics. &lt;A href="http://neopoleon.com/blog/posts/3597.aspx">This is made me laugh out loud&lt;/A> (wait for the punchline : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1127</id>
+    <id>https://csells.github.io/sb6/1127</id>
     <title>Competition is Good</title>
     <updated>2004-02-17T08:00:00.000Z</updated>
     <published>2004-02-17T08:00:00.000Z</published>
@@ -132,7 +134,7 @@ I have to say that my favorite posts from Rory are his terribly drawn comics. &l
 &lt;a href="http://www.nytimes.com/2004/02/18/technology/18chip.html?ex=1392440400&amp;en=59b3f2d82bbc0431&amp;ei=5007">Here&lt;/a>. Intel decides to follow along after AMD's success in adding 64-bit support to the x86 instruction set that Intel invented. Without AMD, we'd all be paying way more for chips, plus we'd all be buying Itaniums whether we wanted them or not. Thanks AMD. Thanks capitalism.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1119</id>
+    <id>https://csells.github.io/sb6/1119</id>
     <title>Physics Prof. Doesn't Even Pretend to Be Normal</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <published>2004-02-16T08:00:00.000Z</published>
@@ -146,7 +148,7 @@ I have to say that my favorite posts from Rory are his terribly drawn comics. &l
 &lt;P>On the other hand, geeks of the #2 sort are the ones that keep a Star Trek convention going every weekend of the year somewhere on the planet, fill comic book conventions and, apparently, &lt;A href="http://scienceblog.com/community/article2312.html">teach physics based on why Krypton just *had* to explode&lt;/A>. You gotta respect someone that's willing to embrace their true inner self to the point of risking their ability to even practice contributing to the genepool...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1122</id>
+    <id>https://csells.github.io/sb6/1122</id>
     <title>Basic Principles of Code Access Security</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -156,7 +158,7 @@ I have to say that my favorite posts from Rory are his terribly drawn comics. &l
 If you don't already know the basics of .NET's Code Access Security model, &lt;A href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20040212securityml/manifest.xml">you shouldn't wait any longer&lt;/A>. Not only is CAS key to No-Touch Deployment today, but it's key to ClickOnce deployment in Whidbey, which will also be a huge part of the Longhorn deployment story tomorrow (or maybe the day after tomorrow : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1118</id>
+    <id>https://csells.github.io/sb6/1118</id>
     <title>Whidbey Beta Schedule</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -167,7 +169,7 @@ If you don't already know the basics of .NET's Code Access Security model, &lt;A
 &lt;P>[via &lt;A href="http://weblogs.asp.net/ksharkey/">Kent Sharkey&lt;/A>]&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1120</id>
+    <id>https://csells.github.io/sb6/1120</id>
     <title>Is Autonomic Computing Real?</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <published>2004-02-16T08:00:00.000Z</published>
@@ -176,7 +178,7 @@ If you don't already know the basics of .NET's Code Access Security model, &lt;A
 Of course, I love the idea: software that fixes its own problems. However, it sounds like something from science fiction requiring machines with human-like intelligense monitoring and fixing themselves. Has anyone used &lt;A href="http://www-306.ibm.com/autonomic/index.shtml">IBM's autonomic computing toolkit&lt;/A>? Does it work?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1117</id>
+    <id>https://csells.github.io/sb6/1117</id>
     <title>How Anon Delegates Are Implemented in Whidbey</title>
     <updated>2004-02-16T08:00:00.000Z</updated>
     <published>2004-02-16T08:00:00.000Z</published>

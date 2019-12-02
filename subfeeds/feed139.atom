@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed139.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed139.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed138.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed140.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed139.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed138.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed140.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed139.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/483</id>
+    <id>https://csells.github.io/sb6/483</id>
     <title>Ecatenate Launches dbLockdown 1.0</title>
     <updated>2003-04-03T08:00:00.000Z</updated>
     <published>2003-04-03T08:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://www.ecatenate.com/dblockdown_product_info.html">Here&lt;/a>. From Simon Train: Ecatenate dbLockdown 1.0 is a database tool to protect SQL Server and MSDE databases. The tool encrypts stored procedures, triggers, user defined functions and views, stopping anyone from viewing or editing them. Database scripts encrypted are automatically archived and can be restored at any time. dbLockdown uses SQL Server's native encryption and therefore does not compromise the functionality of database scripts. The tool is ideal for administrators and developers who need to lockdown production databases or databases shipped with products.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/482</id>
+    <id>https://csells.github.io/sb6/482</id>
     <title>ISO Certification of C# and the CLI</title>
     <updated>2003-04-03T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -53,7 +55,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/481</id>
+    <id>https://csells.github.io/sb6/481</id>
     <title>MSDN RSS!</title>
     <updated>2003-04-02T08:00:00.000Z</updated>
     <published>2003-04-02T08:00:00.000Z</published>
@@ -62,7 +64,7 @@
 &lt;a href="http://www.gotdotnet.com/team/tewald/default.aspx?key=2003-04-01T06:03:44Z">Here&lt;/a>. From Sergey Simakov: MSDN now have official RSS (from Tim Ewald)</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/480</id>
+    <id>https://csells.github.io/sb6/480</id>
     <title>Upgrading Windows 2000 Domains to Windows Server 2</title>
     <updated>2003-04-01T08:00:00.000Z</updated>
     <published>2003-04-01T08:00:00.000Z</published>
@@ -72,7 +74,7 @@
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/479</id>
+    <id>https://csells.github.io/sb6/479</id>
     <title>Great .net resources article</title>
     <updated>2003-03-31T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -94,7 +96,7 @@ http://pages.istar.ca/~neutron/ViewResources/
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/478</id>
+    <id>https://csells.github.io/sb6/478</id>
     <title>Windows Server 2003 Available to MSDN Subscribers</title>
     <updated>2003-03-29T08:00:00.000Z</updated>
     <published>2003-03-29T08:00:00.000Z</published>
@@ -103,7 +105,7 @@ http://pages.istar.ca/~neutron/ViewResources/
 From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers to download.  It was posted by Microsoft on March 26th.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/477</id>
+    <id>https://csells.github.io/sb6/477</id>
     <title>Windows XP Media Center Edition Available</title>
     <updated>2003-03-28T08:00:00.000Z</updated>
     <published>2003-03-28T08:00:00.000Z</published>
@@ -112,7 +114,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://msdn.microsoft.com/subscriptions/resources/subdwnld.asp">Here&lt;/a>. For MSDN Universal subscribers, Windows XP Media Center Edition is available for download! This is huge for me because I've had a PC attached to my stereo/TV for years, but no apps to run it with. *Finally* MS decided to let folks get MCE w/o buying a whole new PC. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/476</id>
+    <id>https://csells.github.io/sb6/476</id>
     <title>C# Futures</title>
     <updated>2003-03-27T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -124,7 +126,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/475</id>
+    <id>https://csells.github.io/sb6/475</id>
     <title>IE Tools for Validating XML &amp; Viewing XSLT Output</title>
     <updated>2003-03-20T08:00:00.000Z</updated>
     <published>2003-03-20T08:00:00.000Z</published>
@@ -135,7 +137,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/474</id>
+    <id>https://csells.github.io/sb6/474</id>
     <title>Let Scriptomatic Write WMI Script For You</title>
     <updated>2003-03-18T08:00:00.000Z</updated>
     <published>2003-03-18T08:00:00.000Z</published>
@@ -144,7 +146,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://www.microsoft.com/technet/treeview/default.asp?url=/technet/scriptcenter/wmimatic.asp">Here&lt;/a>. I learned more about what WMI (Windows Management Instrumentation) is and what it's for in 5 minutes running the Scriptomatic tool than anything I'd seen or read before. Plus, it's a great little ad hoc admin tool. Very cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/472</id>
+    <id>https://csells.github.io/sb6/472</id>
     <title>Design-Time WinForms Component Integration, part 1</title>
     <updated>2003-03-18T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -154,7 +156,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/04/Design-TimeControls/default.aspx">Here&lt;/a>. Part 1 of 2 of Michael and my treatment of integrating WinForms components and controls into VS.NET.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/471</id>
+    <id>https://csells.github.io/sb6/471</id>
     <title>Exchange Disk I/O</title>
     <updated>2003-03-18T08:00:00.000Z</updated>
     <published>2003-03-18T08:00:00.000Z</published>
@@ -163,7 +165,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://www.only4gurus.com/v2/download.asp?ID=776">Here&lt;/a>. From Michael Box: Since its release in 1996, Microsoft Exchange has depended upon the I/O subsystem for its high performance and availability. While the storage industry progresses significantly with innovative solutions, there are key concepts you must understand if you want a successful and durable Exchange server deployment. Windows .NET, performance, backup techniques, and technology reviews such as Storage Area Networks and Network Attached Storage, are the main aspects of this session. With more than six years of experience in this field, the presenters put these aspects into the perspective of Exchange 2000's own requirements and dependencies. This is essential for IT administrators and decision makers to make the right choices and investments for their Exchange rollout!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/470</id>
+    <id>https://csells.github.io/sb6/470</id>
     <title>Wrox hit the rocks as Glasshaus cracks</title>
     <updated>2003-03-17T08:00:00.000Z</updated>
     <published>2003-03-17T08:00:00.000Z</published>
@@ -172,7 +174,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://www.theregister.co.uk/content/4/29790.html">Here&lt;/a>. The red-covered books are not long for this world.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/468</id>
+    <id>https://csells.github.io/sb6/468</id>
     <title>NEW C# LANGUAGE FEATURES</title>
     <updated>2003-03-15T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -182,7 +184,7 @@ From Keith Wedinger: Windows Server 2003 is now available for MSDN Subscribers t
 &lt;a href="http://www.gotdotnet.com/team/csharp/learn/Future/default.aspx">Here&lt;/a>. At OOPSLA late last year, the C# team made a splash by announcing some of the features they'll be adding to the compiler in the next next version of C# (not Everett). This link has that presentation as well as a very nice white paper discussing the new features in detail.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/469</id>
+    <id>https://csells.github.io/sb6/469</id>
     <title>Comments on the "Agile Dev Process"</title>
     <updated>2003-03-15T08:00:00.000Z</updated>
     <published>2003-03-15T08:00:00.000Z</published>

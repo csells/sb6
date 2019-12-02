@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed133.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed133.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed132.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed134.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed133.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed132.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed134.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed133.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/561</id>
+    <id>https://csells.github.io/sb6/561</id>
     <title>Longhorn to arrive in 2005</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://news.com.com/2100-1016-1000281.html?tag=nl">Here&lt;/a>. "The weight of the company is behind Longhorn," Poole said. "This is a huge bet for the company. It will really change the landscape of what people see."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/566</id>
+    <id>https://csells.github.io/sb6/566</id>
     <title>Love Movies; Hate Theaters; Windows, Take Me Away!</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -56,7 +58,7 @@ Shouldn't a platform with such a strong media and digital rights management stor
 DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along these lines; I just think it'd be cool.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/563</id>
+    <id>https://csells.github.io/sb6/563</id>
     <title>WinHEC Athens PC Demo</title>
     <updated>2003-05-08T07:00:00.000Z</updated>
     <published>2003-05-08T07:00:00.000Z</published>
@@ -67,7 +69,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 [activewin.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/558</id>
+    <id>https://csells.github.io/sb6/558</id>
     <title>Wiley Acquires Wrox</title>
     <updated>2003-05-07T07:00:00.000Z</updated>
     <published>2003-05-07T07:00:00.000Z</published>
@@ -76,7 +78,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.wrox.com/">Here&lt;/a>. 'nuf said.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/559</id>
+    <id>https://csells.github.io/sb6/559</id>
     <title>Genghis v0.4</title>
     <updated>2003-05-07T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -103,7 +105,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/557</id>
+    <id>https://csells.github.io/sb6/557</id>
     <title>Win Server 2003 vs. Linux File Server Benchmarks</title>
     <updated>2003-05-07T07:00:00.000Z</updated>
     <published>2003-05-07T07:00:00.000Z</published>
@@ -112,7 +114,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.veritest.com/clients/reports/microsoft/ms_netbench.pdf">Here&lt;/a>. The one where Windows Server 2003 kicks Linux's butt on serving files.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/556</id>
+    <id>https://csells.github.io/sb6/556</id>
     <title>.Net develops advantages over Java</title>
     <updated>2003-05-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -122,7 +124,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://zdnet.com.com/2100-1107_2-1000027.html">Here&lt;/a>. From Keith Wedinger: Java development has a number of advantages over traditional environments which output machine language. .Net has the advantage of hindsight, however, and has improved on Java in a number of areas.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/555</id>
+    <id>https://csells.github.io/sb6/555</id>
     <title>Non-Windows Applied XML DevCon Talks Needed</title>
     <updated>2003-05-06T07:00:00.000Z</updated>
     <category term="conference" label="Conference"/>
@@ -132,7 +134,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="/conference">Here&lt;/a>. I've been buried in Applied XML DevCon talk proposals, but I'd really love it if some more non-Windows talks would make it my way. Tomorrow's the deadline. Tell your friends!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/554</id>
+    <id>https://csells.github.io/sb6/554</id>
     <title>Bill Gates WinHEC 2003 Keynote</title>
     <updated>2003-05-06T07:00:00.000Z</updated>
     <published>2003-05-06T07:00:00.000Z</published>
@@ -141,7 +143,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.microsoft.com/billgates/speeches/2003/05-06winhec.asp">Here&lt;/a>. "With the next round of Windows, which we call Longhorn, this idea of the completely new presentation system and the standard user interface guideline requiring that rich graphics capability will take a leap forward and fully exploit the extra graphics capabilities. In fact, the way the experience will work is that people with even today's hardware will want to move up to the advanced graphics capabilities."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/549</id>
+    <id>https://csells.github.io/sb6/549</id>
     <title>The Hundred-Year Language</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>
@@ -150,7 +152,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.paulgraham.com/hundred.html">Here&lt;/a>. Paul gets a bit wordy, but I really like the idea that most of the concepts we use in our programming languages are optimizations. How much simpler would programming be if we could do away with things like the artificial distinction between arrays and strings?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/551</id>
+    <id>https://csells.github.io/sb6/551</id>
     <title>Saying Goodbye on 5/3/2046</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>
@@ -159,7 +161,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.choosetosave.org/tools/lifeexp.htm">Here&lt;/a>. Statistically, I'll be dead just before my 78th birthday, which means that my oldest son's birthday (two days after I die) is not going to be a happy one (unless I've turned even more evil than I already am : ). Sorry, John...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/553</id>
+    <id>https://csells.github.io/sb6/553</id>
     <title>Dr. GUI Has a Blog</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>
@@ -168,7 +170,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://blogs.gotdotnet.com/DrGUI/blogxbrowsing.asmx/GetRss?">Here&lt;/a>. You know that blogs are main stream when Dr. GUI's got one. Welcome!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/552</id>
+    <id>https://csells.github.io/sb6/552</id>
     <title>MSN Launches World's First ‘Internet Loo’</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>
@@ -177,7 +179,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.microsoft.com/uk/press/content/presscentre/releases/2003/05/PR03050.asp">Here&lt;/a>. *Somebody* has too much time on their hands...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/550</id>
+    <id>https://csells.github.io/sb6/550</id>
     <title>CodeSmith Takes Over For CollectionGen</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>
@@ -186,7 +188,7 @@ DISCLAIMER: I'm not pre-announcing anything. I don't know of any plans along the
 &lt;a href="http://www.ericjsmith.net/codesmith/">Here&lt;/a>. As of today, the functionality of CollectionGen has been sucked into Eric Smith's CodeSmith. I asked Eric to take on these features because CodeSmith does all of what CollectionGen does and more. All new feature requests/bug reports should go his way. Of course, feel free to continue to use CollectionGen as a model for VS.NET Custom Tools.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/548</id>
+    <id>https://csells.github.io/sb6/548</id>
     <title>Migrating</title>
     <updated>2003-05-05T07:00:00.000Z</updated>
     <published>2003-05-05T07:00:00.000Z</published>

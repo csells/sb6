@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed114.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed114.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed113.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed115.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed114.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed113.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed115.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed114.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/802</id>
+    <id>https://csells.github.io/sb6/802</id>
     <title>Scott's Ultimate Developer &amp; Power User Tools List</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;a href="http://radio.weblogs.com/0106747/stories/2003/09/09/scottHanselmansUltimateDeveloperAndPowerUsersToolsList.html">Here&lt;/a>. "Everyone collects utilities, and most folks have a list of a few that they feel are indispensable.  Here's mine.  Each has a distinct purpose, and I probably touch each at least a few times a week.  For me, util means utilitarian and it means don't clutter my tray.  If it saves me time, and seamlessly integrates with my life, it's the bomb."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/806</id>
+    <id>https://csells.github.io/sb6/806</id>
     <title>Let us pause on 9/11...</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
@@ -50,7 +52,7 @@
 &lt;a href="/12524">Here&lt;/a>. George Bullock, a colleague at MS who's birthday happens to fall on 9/11, has had the "coolness" taken out of the day for him and sent around a mail that I share part of.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/808</id>
+    <id>https://csells.github.io/sb6/808</id>
     <title>How Rich Are You?</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
@@ -59,7 +61,7 @@
 &lt;a href="http://www.globalrichlist.com/">Here&lt;/a>. Rounding, I'm in the top 0% of the richest people in the world. Then how come I still work for a living?!?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/804</id>
+    <id>https://csells.github.io/sb6/804</id>
     <title>Test Dynamics</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
@@ -74,7 +76,7 @@ He goes on to wonder whether, because managed code has fewer bugs, we'll be able
 Is the next growth industry in the IT industry testers? Is the next DevelopMentor an out-sourced QA company?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/807</id>
+    <id>https://csells.github.io/sb6/807</id>
     <title>Implementing Drag and Drop in ... WinForms!</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -84,7 +86,7 @@ Is the next growth industry in the IT industry testers? Is the next DevelopMento
 &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vbtchImpDragDrop.asp">Here&lt;/a>. Steve Hoag gives a nice overview of various kinds of Windows Forms drag-n-drop, including text, pictures, files and between lists. The code is in VB.NET, but we're all one big happy family!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/803</id>
+    <id>https://csells.github.io/sb6/803</id>
     <title>Why Do You Code?</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
@@ -95,7 +97,7 @@ Is the next growth industry in the IT industry testers? Is the next DevelopMento
 I think I started coding because I was such an anti-social geek that I needed something over which my actions had some reasonable, predictable outcome. Plus, I have that kind of a mind well-suited to programming. I continue to code as a way to a) learn how MS's latest technologies work and b) make my computer do what I want it to do. How about you?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/801</id>
+    <id>https://csells.github.io/sb6/801</id>
     <title>MSDN TV: Hard Core Messaging with WSE 2.0, Pt. 1</title>
     <updated>2003-09-10T07:00:00.000Z</updated>
     <published>2003-09-10T07:00:00.000Z</published>
@@ -104,7 +106,7 @@ I think I started coding because I was such an anti-social geek that I needed so
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030909WebServicesKB/manifest.xml">Here&lt;/a>. Keith Ballinger taped live from the Applied XML Developer's Conference. Keith, as ever, a pleasure to watch.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/800</id>
+    <id>https://csells.github.io/sb6/800</id>
     <title>OLE 2 Guru Finds God at Microsoft</title>
     <updated>2003-09-08T07:00:00.000Z</updated>
     <published>2003-09-08T07:00:00.000Z</published>
@@ -115,7 +117,7 @@ I think I started coding because I was such an anti-social geek that I needed so
 [gotdotnet.com/team/dbox]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/795</id>
+    <id>https://csells.github.io/sb6/795</id>
     <title>PDC/post-PDC Longhorn Online Plans?</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -125,7 +127,7 @@ I think I started coding because I was such an anti-social geek that I needed so
 &lt;a href="mailto:csells@microsoft.com">Here&lt;/a>. Does anyone have any PDC or post-PDC plans for books, articles, conference talks, user groups, web sites, blogs, etc. on the topic of Longhorn? If so, please email me (csells@microsoft.com) so that I can compose a list for the MSDN Longhorn Developer's Center web site. Thanks!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/799</id>
+    <id>https://csells.github.io/sb6/799</id>
     <title>Other ENTJs</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <published>2003-09-06T07:00:00.000Z</published>
@@ -136,7 +138,7 @@ I think I started coding because I was such an anti-social geek that I needed so
 This is so true: "ENTJs are often 'larger than life' in describing their projects or proposals... In combination with the natural propensity for filibuster, our hero can make it very difficult for the customer to decline... Experience teaches many ENTJs that restraint may often be the better part of valor, lest one find oneself victorious but alone."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/796</id>
+    <id>https://csells.github.io/sb6/796</id>
     <title>Another ENTJ comes out of the closet</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <published>2003-09-06T07:00:00.000Z</published>
@@ -145,7 +147,7 @@ This is so true: "ENTJs are often 'larger than life' in describing their project
 &lt;a href="http://www.simplegeek.com/permalink.aspx/903263e7-cca1-4cf8-bcfb-08047899a50e">Here&lt;/a>. ChrisAn, one of my very smart friends at Microsoft, discovers he's the same Myers-Briggs type that I am. I'll bet that one is pretty common at Microsoft, actually. Maybe we could just skip the annoying interview process from now on... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/797</id>
+    <id>https://csells.github.io/sb6/797</id>
     <title>Are You Missing Out on Code Generation?</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -155,7 +157,7 @@ This is so true: "ENTJs are often 'larger than life' in describing their project
 &lt;a href="http://www.devx.com/java/editorial/15511">Here&lt;/a>. Oh, sure, I built an entire codegen product a number of years ago. Would it have hurt folks to get excited about it then?!? : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/794</id>
+    <id>https://csells.github.io/sb6/794</id>
     <title>I want to go to Burning Man</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <published>2003-09-06T07:00:00.000Z</published>
@@ -164,7 +166,7 @@ This is so true: "ENTJs are often 'larger than life' in describing their project
 &lt;a href="http://www.burningman.com">Here&lt;/a>. Oh, sure. I'd read about Burning Man in Wired like all geeks, but until John sent around an amazing email describing what he did this year and Josephine regailed me with her stories, I had no idea. It sounds life changing and I do like that! Anyone gone before? How do you prepare?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/798</id>
+    <id>https://csells.github.io/sb6/798</id>
     <title>Bloomberg University: Required Reading</title>
     <updated>2003-09-06T07:00:00.000Z</updated>
     <category term="money" label="Money"/>
@@ -179,10 +181,10 @@ Given the supreme importance of money in our society, I think everyone should kn
 
 Towards that end, I really love Bloomberg University’s no-frills financial tutorials, including one on the basics of a 401(k) and another on the basics of investing. They provide just the tip of the iceberg and I could recommend a lot of other reading, but this is a good place to start for folks that want to actually keep the money they make.
 
-[1] http://127.0.0.1:8080/money</content>
+[1] https://csells.github.io/sb6/money</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/792</id>
+    <id>https://csells.github.io/sb6/792</id>
     <title>Microsoft Wants You!</title>
     <updated>2003-09-05T07:00:00.000Z</updated>
     <published>2003-09-05T07:00:00.000Z</published>

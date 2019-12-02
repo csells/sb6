@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed162.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed162.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed161.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed163.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed162.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed161.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed163.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed162.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/144</id>
+    <id>https://csells.github.io/sb6/144</id>
     <title>.NET Compact Framework Reference Site</title>
     <updated>2002-07-19T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.dotnetcf.com">Here&lt;/a>. "The .NET CF Resource Site is a joint venture between Developmentor and JW Hedgehog, Inc. We've been working fevereshly to bring things online. We are very proud of our Compact Framework Reference Page, which is the most complete reference of .NET CF supported classes and methods we know of."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/143</id>
+    <id>https://csells.github.io/sb6/143</id>
     <title>nogoop ActiveX/COM Inspector</title>
     <updated>2002-07-18T07:00:00.000Z</updated>
     <published>2002-07-18T07:00:00.000Z</published>
@@ -67,7 +69,7 @@ Framework runtime (CLR).
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/141</id>
+    <id>https://csells.github.io/sb6/141</id>
     <title>Microsoft improving .Net Framework</title>
     <updated>2002-07-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -79,7 +81,7 @@ Framework runtime (CLR).
 [DOTNET-CLR]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/140</id>
+    <id>https://csells.github.io/sb6/140</id>
     <title>Microsoft Maps Out Next .Net Framework</title>
     <updated>2002-07-16T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -91,7 +93,7 @@ Framework runtime (CLR).
 [DOTNET-WINFORMS]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/142</id>
+    <id>https://csells.github.io/sb6/142</id>
     <title>DirectSkin Draws Raves From Developers</title>
     <updated>2002-07-16T07:00:00.000Z</updated>
     <published>2002-07-16T07:00:00.000Z</published>
@@ -102,7 +104,7 @@ Framework runtime (CLR).
 Several developers have praised DirectSkin, the development tool from Stardock that lets developers skin their applications GUI.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/139</id>
+    <id>https://csells.github.io/sb6/139</id>
     <title>New XML Web Services Developer Center</title>
     <updated>2002-07-13T07:00:00.000Z</updated>
     <published>2002-07-13T07:00:00.000Z</published>
@@ -111,7 +113,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 &lt;a href="http://msdn.microsoft.com/webservices/">Here&lt;/a>. My friend Tim Ewald reorganizes the Web Services portion of the MSDN web site and my friends Don Box and Martin Gudgin contribute new material. Highly recommended (both the articles *and* the friends : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/136</id>
+    <id>https://csells.github.io/sb6/136</id>
     <title>Happy Birthday, Mono!</title>
     <updated>2002-07-12T07:00:00.000Z</updated>
     <published>2002-07-12T07:00:00.000Z</published>
@@ -133,7 +135,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 [www.go-mono.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/137</id>
+    <id>https://csells.github.io/sb6/137</id>
     <title>blogChalking</title>
     <updated>2002-07-12T07:00:00.000Z</updated>
     <published>2002-07-12T07:00:00.000Z</published>
@@ -144,7 +146,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 [www.razorsoft.net/weblog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/134</id>
+    <id>https://csells.github.io/sb6/134</id>
     <title>Microsoft Delivers Updated SOAP Toolkit</title>
     <updated>2002-07-12T07:00:00.000Z</updated>
     <published>2002-07-12T07:00:00.000Z</published>
@@ -155,7 +157,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 [www.activewin.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/138</id>
+    <id>https://csells.github.io/sb6/138</id>
     <title>Enterprise VSIP Licenses For Free</title>
     <updated>2002-07-12T07:00:00.000Z</updated>
     <published>2002-07-12T07:00:00.000Z</published>
@@ -166,7 +168,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 [www.razorsoft.net/weblog]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/135</id>
+    <id>https://csells.github.io/sb6/135</id>
     <title>Microsoft Readying 'Avalon' Framework for Longhorn</title>
     <updated>2002-07-12T07:00:00.000Z</updated>
     <published>2002-07-12T07:00:00.000Z</published>
@@ -177,7 +179,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 [www.activewin.com]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12360</id>
+    <id>https://csells.github.io/sb6/12360</id>
     <title>The Last Advertising Frontier</title>
     <updated>2002-07-11T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/fun/craig_dm.JPG"/>
@@ -188,7 +190,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 &lt;p>&lt;img border="0" src="/public/fun/craig_dm.JPG" width="478" height="424">&lt;/p>&lt;p>My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each &amp;quot;hit,&amp;quot; Craig started spending a lot of time in bars and other seedy areas around town.&lt;/p>&lt;p>&lt;i>Craig Andera &lt;a href="mailto:[candera@ALUM.MIT.EDU">[candera@ALUM.MIT.EDU&lt;/a>]&lt;br>Thu &lt;span class="created">7/11/2002 7:53 AM&lt;/span>&lt;br>internal mailing list&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/133</id>
+    <id>https://csells.github.io/sb6/133</id>
     <title>The Last Advertising Frontier</title>
     <updated>2002-07-11T07:00:00.000Z</updated>
     <published>2002-07-11T07:00:00.000Z</published>
@@ -197,7 +199,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 &lt;a href="/12360">Here&lt;/a>. My friend and fellow DevelopMentor instructor, Craig Andera, is not only enormously dedicated, but is very interested in pushing the envelope on post-dot-bomb advertising space. When he heard that he could make money on each "hit," Craig started spending a lot of time in bars and other seedy areas around town.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/132</id>
+    <id>https://csells.github.io/sb6/132</id>
     <title>Don Box's RSS Feed</title>
     <updated>2002-07-10T07:00:00.000Z</updated>
     <published>2002-07-10T07:00:00.000Z</published>
@@ -206,7 +208,7 @@ Several developers have praised DirectSkin, the development tool from Stardock t
 &lt;a href="http://www.gotdotnet.com/team/dbox/rss.aspx">Here&lt;/a>. 'nuf said</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/130</id>
+    <id>https://csells.github.io/sb6/130</id>
     <title>Dynamic Forms for .NET</title>
     <updated>2002-07-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

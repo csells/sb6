@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed26.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed26.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed25.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed27.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed26.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed25.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed27.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed26.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12335</id>
+    <id>https://csells.github.io/sb6/12335</id>
     <title>&lt;h1>Null Pointers Don't Have To Be &lt;i>Dull &lt;/i>Pointers&lt;/h1></title>
     <updated>2006-10-01T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/fun/ft061001.gif"/>
@@ -48,7 +50,7 @@ today's paper&lt;br>
 Sun &lt;span class="created">10/01/2006 3:01pm&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2044</id>
+    <id>https://csells.github.io/sb6/2044</id>
     <title>Horning in on Hanselminutes</title>
     <updated>2006-09-27T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -58,7 +60,7 @@ Sun &lt;span class="created">10/01/2006 3:01pm&lt;/span>&lt;/i>&lt;/p></content>
 It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I was finally able to horn in on an episode of Hanselminutes&lt;/A>. Thanks for having me, Scott!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2043</id>
+    <id>https://csells.github.io/sb6/2043</id>
     <title>Amazon Unbox -- what about my TV?</title>
     <updated>2006-09-08T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -68,7 +70,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>I don't want to download movies via &lt;A href="http://www.vongo.com/">Vongo&lt;/A> or &lt;A href="http://www.amazon.com/unbox">Amazon Unbox&lt;/A> to my PC; I want to download them to my TV and smart phone! &lt;A href="http://youtube.com">YouTube&lt;/A> works because the videos are short, so watching them on my PV happens right now or not at all. Any movie or TV show service that doesn't let me play the result on my media center or take it with me on my phone, I just don't care. Does anyone want to watch 30+ minutes of video sitting at their desk or staring at their lap? I don't get it...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2042</id>
+    <id>https://csells.github.io/sb6/2042</id>
     <title>.NET 3.0 RC1 Download</title>
     <updated>2006-09-07T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -86,7 +88,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>Enjoy!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2041</id>
+    <id>https://csells.github.io/sb6/2041</id>
     <title>Congrats To Mr. Petzold on this WPF Review</title>
     <updated>2006-09-05T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -100,7 +102,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>Congrats, Charles.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2040</id>
+    <id>https://csells.github.io/sb6/2040</id>
     <title>$366 PC scores 2.9 on the Vista-o-meter</title>
     <updated>2006-08-31T07:00:00.000Z</updated>
     <published>2006-08-31T07:00:00.000Z</published>
@@ -110,7 +112,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>I'm running Vista Ultimate, and while I can't tell what's "ultimate" about it, it feels about time to make Vista the OS on my main computer. Certainly my sons like it on their computer, which is the real test.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2037</id>
+    <id>https://csells.github.io/sb6/2037</id>
     <title>If it can be installed, Scott's installed it</title>
     <updated>2006-08-30T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -143,7 +145,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>Notice how just his list of &lt;EM>categories &lt;/EM>is longer than most people's &lt;EM>lists&lt;/EM>? Scott's a gem. Guaranteed you'll find something that makes your life better.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2039</id>
+    <id>https://csells.github.io/sb6/2039</id>
     <title>USB MP3 Player + SD Card = Gadget-o-licious</title>
     <updated>2006-08-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -157,7 +159,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>The sound quality ain't that great, but don't criticize the dog for being off key...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2038</id>
+    <id>https://csells.github.io/sb6/2038</id>
     <title>Develop Games For Your Xbox 360</title>
     <updated>2006-08-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -170,7 +172,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 &lt;P>&lt;SPAN>Has any other console vendor every let an individual develop games?&lt;/SPAN>&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2036</id>
+    <id>https://csells.github.io/sb6/2036</id>
     <title>100,000 downloaders get pre-RC1 Vista</title>
     <updated>2006-08-29T07:00:00.000Z</updated>
     <published>2006-08-29T07:00:00.000Z</published>
@@ -179,7 +181,7 @@ It took a while, but &lt;A href="http://www.hanselman.com/blog/default.aspx">I w
 If you're interested in the "same build (5536) released last week to Technical Beta and TAP customers" (according to &lt;A href="http://groups.yahoo.com/group/win_tech_off_topic/message/49093">Shawn Van Ness&lt;/A>), you and 99,999 of your closest friends can &lt;A href="http://download.windowsvista.com/preview/prerc1/en/download.html">download the pre-RC1 of Vista&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2035</id>
+    <id>https://csells.github.io/sb6/2035</id>
     <title>Wikipedia has an open enrollment day...</title>
     <updated>2006-08-28T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -189,7 +191,7 @@ If you're interested in the "same build (5536) released last week to Technical B
 Right there next to &lt;A href="http://en.wikipedia.org/wiki/Don_Box">Don Box&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Jeffrey_Richter">Jeffrey Richter&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Robert_Scoble">Robert Scoble&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Charles_Petzold">Charles Petzold&lt;/A>, &lt;A href="http://en.wikipedia.org/wiki/Keith_Brown">Keith Brown&lt;/A>&amp;nbsp;is &lt;A href="http://en.wikipedia.org/wiki/Chris_Sells">the Chris Sells Wikipedia page&lt;/A>. There aren't any pictures (not &lt;A HREF="/public/services/dotnetWonder.jpg">this one&lt;/A> or &lt;A HREF="/public/services/vikingme.JPG">this one&lt;/A> or even &lt;A HREF="/public/fun/centerfold/">this one&lt;/A>), the&amp;nbsp;&lt;A HREF="/">blog&lt;/A>,&amp;nbsp;&lt;A HREF="/writing">articles&lt;/A> and &lt;A HREF="/tools">tools&lt;/A> aren't listed and nobody's mentioned &lt;A href="/tagged/interview">the interview questions&lt;/A>, but it's there. I'd like to thank the academy...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2034</id>
+    <id>https://csells.github.io/sb6/2034</id>
     <title>Fun Presentation</title>
     <updated>2006-08-27T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -199,7 +201,7 @@ Right there next to &lt;A href="http://en.wikipedia.org/wiki/Don_Box">Don Box&lt
 In massive writing avoidance mode, I found my way to Seth Godin (who I don't know from Adam) doing &lt;A href="http://video.google.com/videoplay?docid=-4101280286098310645&amp;amp;hl=en">a great presentation on stuff that's broken&lt;/A> at Gel 2006 (I conference I've never heard of) as a way to promote &lt;A href="http://www.thisisbroken.com/">his site&lt;/A>. I found the presentation itself at &lt;A href="http://www.presentationzen.com/">Presentation Zen&lt;/A>, when I read about in Guy Kawasi's essay on &lt;A href="http://blog.guykawasaki.com/2005/12/the_102030_rule.html">The 10/20/30 Rule of PowerPoint&lt;/A>, which I found on the sidebar of &lt;A href="http://blog.guykawasaki.com/2006/08/startup_success.html">the Startup Success 2006&lt;/A>, which I got to from &lt;A href="http://www.churchillclub.org/">the Churchill Club web site&lt;/A>.&lt;EM>&amp;nbsp;&lt;/EM>I can't for the life of me remember how I got to the Churchill Club web site, but it killed a lot of time (did I mention I was in writing&amp;nbsp;avoidance mode?).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2033</id>
+    <id>https://csells.github.io/sb6/2033</id>
     <title>Windows Live WiFi Beta</title>
     <updated>2006-08-25T07:00:00.000Z</updated>
     <published>2006-08-25T07:00:00.000Z</published>
@@ -208,7 +210,7 @@ In massive writing avoidance mode, I found my way to Seth Godin (who I don't kno
 &lt;A href="http://nowires.spaces.live.com/blog/cns!EDD6EACF144AB1A0!106.entry">The Windows Live team has posted their WiFi beta&lt;/A> and they'd love it if you checked it out. I already love &lt;A href="http://hotspot.live.com/web/SearchView.aspx">the HotSpot Locator&lt;/A> (there are lots of free hot spots in my neighborhood I didn't know about!) and are working on a security blanket for unprotected hot spots as well as a bunch of other WiFi related stuff. &lt;A href="http://nowires.spaces.live.com/blog/cns!EDD6EACF144AB1A0!106.entry">Check it out!&lt;/A></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2032</id>
+    <id>https://csells.github.io/sb6/2032</id>
     <title>I listen to one podcast: HanselMinutes</title>
     <updated>2006-08-23T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -220,7 +222,7 @@ In massive writing avoidance mode, I found my way to Seth Godin (who I don't kno
 &lt;P>In fact, I'm so enamored of his show, I've been trying to horn my way onto an episode (and not just 'cuz &lt;A href="http://www.hanselminutes.com/default.aspx?showID=34">he had very nice things to say about me recently&lt;/A> [19:53&amp;nbsp;- 21:12]). I'm keeping my fingers crossed, but either way, if you only listen to one podcaster this year, it should be &lt;A href="http://www.hanselminutes.com/">Scott&lt;/A>.&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/2030</id>
+    <id>https://csells.github.io/sb6/2030</id>
     <title>The Internet Is a Meritocracy</title>
     <updated>2006-08-18T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

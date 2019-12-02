@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed69.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed69.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed68.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed70.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed69.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed68.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed70.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed69.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/1440</id>
+    <id>https://csells.github.io/sb6/1440</id>
     <title>Carnegie Mellon's Open Learning Initiative</title>
     <updated>2004-07-10T07:00:00.000Z</updated>
     <published>2004-07-10T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;A href="http://www.cmu.edu/oli/">Carnegie Mellon's Open Learning Initiative&lt;/A> is a set of 5 online courses, including Causal Reasoning (I read that 3 times before I realized this wasn't "Casual Reasoning" which I think would be very popular), Chemistry, Economics, Logic and Statistics. Unlike &lt;A href="http://ocw.mit.edu/index.html">the MIT OpenCourseWare&lt;/A>, apparently these courses are much more interactive and community enabled. Since the MIT courses really suffer from the lack of even a per-course mailing list, I think these features are important. Plus, I love the idea of hosting the courseware in a smart client...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1438</id>
+    <id>https://csells.github.io/sb6/1438</id>
     <title>Feedster Longhorn Buzz Feed</title>
     <updated>2004-07-09T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 Suddenly, after having been worthless/dormant since its inception, &lt;A href="http://now.feedster.com/longhorn">the Feedster Windows Longhorn Buzz Feed&lt;/A> has begun spouting useful information. &lt;A href="http://feedster.com/feedpapercache/longhorn/rss.xml">Subscribed&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1437</id>
+    <id>https://csells.github.io/sb6/1437</id>
     <title>Matt Pietrek, My Hero, Starts A Blog</title>
     <updated>2004-07-09T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -64,7 +66,7 @@ Suddenly, after having been worthless/dormant since its inception, &lt;A href="h
 &lt;P>&lt;A href="http://www.wheaty.net/photos.htm">We've become closer since then&lt;/A> and now &lt;A href="http://weblogs.asp.net/matt_pietrek/Rss.aspx">Matt's got a blog&lt;/A>. Wahoo!&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1436</id>
+    <id>https://csells.github.io/sb6/1436</id>
     <title>Richard Turner Answers Common Indigo Questions</title>
     <updated>2004-07-08T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -80,7 +82,7 @@ Suddenly, after having been worthless/dormant since its inception, &lt;A href="h
 &lt;P>I've just realized that Richard has turned into &lt;A href="http://weblogs.asp.net/richturner666/">my most favorite Indigo blogger&lt;/A>. He straddles the fence nicely between what is available today and what's going to be available tomorrow. Thanks, Richard. We need you. : )&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12385</id>
+    <id>https://csells.github.io/sb6/12385</id>
     <title>What do job interviews really tell us?</title>
     <updated>2004-07-06T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -98,7 +100,7 @@ to either reinforce our initial reaction or forgive as an aberration is
 particularly telling.&lt;/span>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12386</id>
+    <id>https://csells.github.io/sb6/12386</id>
     <title>"Interviews are practically worthless for screening candidates."</title>
     <updated>2004-07-06T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -121,7 +123,7 @@ his thoughts on interviewing&lt;/a>, include:&lt;/p>
 &lt;p>Fun. : )&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1435</id>
+    <id>https://csells.github.io/sb6/1435</id>
     <title>Raymond Chen on The Shell's Fake OLE Story</title>
     <updated>2004-07-05T07:00:00.000Z</updated>
     <published>2004-07-05T07:00:00.000Z</published>
@@ -131,7 +133,7 @@ his thoughts on interviewing&lt;/a>, include:&lt;/p>
 &lt;P>P.S. I really did used to walk to school in &lt;A href="http://www.duluth.com/">3 feet of snow up hill, both ways&lt;/A>. I didn't like that at all...&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1434</id>
+    <id>https://csells.github.io/sb6/1434</id>
     <title>Ashvil DCosta on How Longhorn Transforms Apps</title>
     <updated>2004-07-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -141,7 +143,7 @@ his thoughts on interviewing&lt;/a>, include:&lt;/p>
 &lt;A href="http://ashvil.net/">Ashvil DCosta&lt;/A>, a software professional in Bangalore writing a book on outsourcing software product development, posts his ideas about &lt;A href="http://www.codeproject.com/useritems/winfslonghorn.asp">how Longhorn, particularly WinFS, will change the way we think about and develop applications&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1433</id>
+    <id>https://csells.github.io/sb6/1433</id>
     <title>Jason Nadal on the Longhorn Speech API</title>
     <updated>2004-07-03T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -152,7 +154,7 @@ his thoughts on interviewing&lt;/a>, include:&lt;/p>
 &lt;p>[&lt;a href="http://blogs.sun.com/roller/page/plamere/20040703#longhorn_speech_api">via Paul Lamere]&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1432</id>
+    <id>https://csells.github.io/sb6/1432</id>
     <title>Rob Chandler On Longhorn User Assistance Direction</title>
     <updated>2004-07-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -162,7 +164,7 @@ his thoughts on interviewing&lt;/a>, include:&lt;/p>
 Rob Chandler, a Microsoft Help MVP, has posted &lt;A href="http://www.codeproject.com/dotnet/LHChangesUA1.asp">a look at where he sees User Assistance heading in Longhorn&lt;/A>, both in the UI and in the new help system. I see Longhorn as an opportunity to crank user experience up a notch in every way and user assistance is an important part of that.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1431</id>
+    <id>https://csells.github.io/sb6/1431</id>
     <title>All About MSH:The Microsoft Shell (Codename Monad)</title>
     <updated>2004-06-30T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -176,7 +178,7 @@ Rob Chandler, a Microsoft Help MVP, has posted &lt;A href="http://www.codeprojec
 &lt;P>If you're a command-line person, &lt;A href="http://blogs.msdn.com/karstenj/archive/2004/06/25/166334.aspx">I recommend getting on the Monad beta&lt;/A>, taking it for a spin and letting those guys if there's anything you don't like (for example, I miss the "start" command, but I think I'll go build it...).&lt;/P></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1430</id>
+    <id>https://csells.github.io/sb6/1430</id>
     <title>"If I Could Thunk Once A Day, I'd Be Happy"</title>
     <updated>2004-06-30T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -186,7 +188,7 @@ Rob Chandler, a Microsoft Help MVP, has posted &lt;A href="http://www.codeprojec
 Carl Franklin posts a fun segment from Michael Feldman's Whad'ya Know? radio program where &lt;A href="http://weblogs.asp.net/cfranklin/archive/2004/06/30/170245.aspx">32-bit to 16-bit thunking is discussed&lt;/A>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1429</id>
+    <id>https://csells.github.io/sb6/1429</id>
     <title>#1 Windows Forms Book</title>
     <updated>2004-06-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -197,7 +199,7 @@ Carl Franklin posts a fun segment from Michael Feldman's Whad'ya Know? radio pro
 &lt;a href="/12487">Here&lt;/a>. The one where &lt;a href="/12487">I toot my own horn much less subtly than usual&lt;/A> (and I'm not known for subtlety : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12487</id>
+    <id>https://csells.github.io/sb6/12487</id>
     <title>#1 Windows Forms Book</title>
     <updated>2004-06-30T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -225,7 +227,7 @@ Discuss&lt;/a>&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/1428</id>
+    <id>https://csells.github.io/sb6/1428</id>
     <title>Lots of Fun Visual Studio 2005 Beta 1 Stuff</title>
     <updated>2004-06-29T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

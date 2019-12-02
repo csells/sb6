@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed140.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed140.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed139.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed141.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed140.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed139.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed141.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed140.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/467</id>
+    <id>https://csells.github.io/sb6/467</id>
     <title>Serialization Basics, Part 3 of 3</title>
     <updated>2003-03-12T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1046801931106/">Here&lt;/a>. My 3rd installment of the basics of serialization, this time covering how to customize the serialization process.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/466</id>
+    <id>https://csells.github.io/sb6/466</id>
     <title>nprof - Open-source .NET profiler</title>
     <updated>2003-03-08T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -58,7 +60,7 @@ Download it at http://nprof.sourceforge.net
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/465</id>
+    <id>https://csells.github.io/sb6/465</id>
     <title>What's New in WinForms 1.1</title>
     <updated>2003-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -68,7 +70,7 @@ Download it at http://nprof.sourceforge.net
 &lt;a href="http://msdn.microsoft.com/msdnmag/issues/03/03/WindowsForms/default.aspx">Here&lt;/a>. This article presents the new features in WinForms, including new namespace features, new IDE features and how to develop apps that support multiple versions of the .NET Framework itself.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/464</id>
+    <id>https://csells.github.io/sb6/464</id>
     <title>Serialization Basics, Part 2 of 3</title>
     <updated>2003-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -78,7 +80,7 @@ Download it at http://nprof.sourceforge.net
 &lt;a href="http://www.windevnet.com/documents/s=7481/win1045093344162/">Here&lt;/a>. Continuing the discussion of serialization in .NET using formatters for custom types.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/463</id>
+    <id>https://csells.github.io/sb6/463</id>
     <title>Serialization Basics, Part 1 of 3</title>
     <updated>2003-03-07T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -90,7 +92,7 @@ Download it at http://nprof.sourceforge.net
 This part covers the basics of text and binary serialization for simple types.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12349</id>
+    <id>https://csells.github.io/sb6/12349</id>
     <title>Grandpa's Scalloped Corn</title>
     <updated>2003-03-04T08:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -140,7 +142,7 @@ Submitted for O'Reilly's &amp;quot;Gastronomy for Geeks&amp;quot;&lt;br>
 Tue &lt;span class="created">3/4/2003 8:44 AM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/462</id>
+    <id>https://csells.github.io/sb6/462</id>
     <title>Microsoft is #1 (in the UK)</title>
     <updated>2003-03-04T08:00:00.000Z</updated>
     <published>2003-03-04T08:00:00.000Z</published>
@@ -149,7 +151,7 @@ Tue &lt;span class="created">3/4/2003 8:44 AM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;a href="http://news.zdnet.co.uk/story/0,,t269-s2131319,00.html">Here&lt;/a>. From Jed Farr: An annual survey by The Sunday Times tracked the UK's best companies to work for, with 10 tech companies in the top 100 -- including the top spot which was taken by Microsoft.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/461</id>
+    <id>https://csells.github.io/sb6/461</id>
     <title>Loving NewsGator</title>
     <updated>2003-03-03T08:00:00.000Z</updated>
     <published>2003-03-03T08:00:00.000Z</published>
@@ -158,7 +160,7 @@ Tue &lt;span class="created">3/4/2003 8:44 AM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;a href="http://www.newsgator.com/">Here&lt;/a>. Once I got some help from the friendly tech support, I'm finding that having my RSS feeds right inside of Outlook is very nice and. I miss the toast from FeedReader, but overall I'm enjoying NewsGator.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/460</id>
+    <id>https://csells.github.io/sb6/460</id>
     <title>SSW LookOut! for Outlook</title>
     <updated>2003-03-03T08:00:00.000Z</updated>
     <published>2003-03-03T08:00:00.000Z</published>
@@ -167,7 +169,7 @@ Tue &lt;span class="created">3/4/2003 8:44 AM&lt;/span>&lt;/i>&lt;/p></content>
 &lt;a href="http://www.ssw.com.au/ssw/LookOut/default.aspx">Here&lt;/a>. Check out this Outlook Add-In that checks your emails for angry words (and attachments and Reply All and a bunch of other stuff) before you send it.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/458</id>
+    <id>https://csells.github.io/sb6/458</id>
     <title>Windows Server 2003 Datacenter Benchmarks</title>
     <updated>2003-02-26T08:00:00.000Z</updated>
     <published>2003-02-26T08:00:00.000Z</published>
@@ -180,7 +182,7 @@ The machine running WinServer 2003 was a 32-way NEC Intel Itanium2 box, while th
 The big news is that with WinServer 2003 Datacenter, MS jumps past the IBM/Oracle best of 427,760 tpmC and $17.75 price/performance.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/457</id>
+    <id>https://csells.github.io/sb6/457</id>
     <title>Advice to Microsoft regarding commodity software</title>
     <updated>2003-02-24T08:00:00.000Z</updated>
     <published>2003-02-24T08:00:00.000Z</published>
@@ -193,7 +195,7 @@ David Stutz, ex-VB architect and ex-Rotor architect has some parting advise as h
 [jepstone.net]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/456</id>
+    <id>https://csells.github.io/sb6/456</id>
     <title>How to Interview a Programmer</title>
     <updated>2003-02-24T08:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -203,7 +205,7 @@ David Stutz, ex-VB architect and ex-Rotor architect has some parting advise as h
 &lt;a href="http://www.artima.com/wbc/interprog.html">Here&lt;/a>. In attending a summit on code quality recently, we each shared the techniques we use in screening/hiring a programmer. This story provides a summary.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/455</id>
+    <id>https://csells.github.io/sb6/455</id>
     <title>The Last Configuration Handler I'll Ever Need</title>
     <updated>2003-02-22T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -215,19 +217,19 @@ David Stutz, ex-VB architect and ex-Rotor architect has some parting advise as h
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/454</id>
+    <id>https://csells.github.io/sb6/454</id>
     <title>.Net Patent Bid Prompts Concern</title>
     <updated>2003-02-21T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
     <published>2003-02-21T08:00:00.000Z</published>
-    <summary>Here. Here's how my full quote [1] was cut down for publication. That'll teach me to be thorough. : ) [1] http://127.0.0.1:8080/spout/#mspatents</summary>
+    <summary>Here. Here's how my full quote [1] was cut down for publication. That'll teach me to be thorough. : ) [1] https://csells.github.io/sb6/spout/#mspatents</summary>
     <content type="html">&lt;h1>.Net Patent Bid Prompts Concern&lt;/h1>
 &lt;a href="http://www.eweek.com/article2/0,3959,894844,00.asp">Here&lt;/a>. Here's how my full quote [1] was cut down for publication. That'll teach me to be thorough. : )
 
-[1] http://127.0.0.1:8080/spout/#mspatents</content>
+[1] https://csells.github.io/sb6/spout/#mspatents</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/453</id>
+    <id>https://csells.github.io/sb6/453</id>
     <title>Understanding ThreadAbortException</title>
     <updated>2003-02-19T08:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

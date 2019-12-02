@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed175.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed175.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed174.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed176.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed175.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed174.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed176.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed175.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12445</id>
+    <id>https://csells.github.io/sb6/12445</id>
     <title>CComVector: A SAFEARRAY Wrapper</title>
     <updated>2001-07-26T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -51,7 +53,7 @@
         I've made &lt;a href="/public/tools/CComSafeArray.zip">available here&lt;/a>.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12446</id>
+    <id>https://csells.github.io/sb6/12446</id>
     <title>CComDate</title>
     <updated>2001-07-25T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -70,7 +72,7 @@
     &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12447</id>
+    <id>https://csells.github.io/sb6/12447</id>
     <title>Exposing Multiple IDispatch Interfaces</title>
     <updated>2001-07-24T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -82,7 +84,7 @@
     this extensive treatment of that very topic&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12448</id>
+    <id>https://csells.github.io/sb6/12448</id>
     <title>MDI Applications in ATL</title>
     <updated>2001-07-23T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -97,7 +99,7 @@
         example of their use.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12449</id>
+    <id>https://csells.github.io/sb6/12449</id>
     <title>Fixing the External Dispatch in ATL + IE5</title>
     <updated>2001-07-22T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -118,7 +120,7 @@
         of the problem and my solution to it.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12450</id>
+    <id>https://csells.github.io/sb6/12450</id>
     <title>TraceHook</title>
     <updated>2001-07-21T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -191,7 +193,7 @@
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12451</id>
+    <id>https://csells.github.io/sb6/12451</id>
     <title>CAspPtr</title>
     <updated>2001-07-20T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -219,7 +221,7 @@
     &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12452</id>
+    <id>https://csells.github.io/sb6/12452</id>
     <title>Smart IEnumVARIANT</title>
     <updated>2001-07-19T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -254,7 +256,7 @@ MsgBox "Counted " &amp;amp; c
             is available here.&lt;/a>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12654</id>
+    <id>https://csells.github.io/sb6/12654</id>
     <title>SmartEnumVARIANT</title>
     <updated>2001-07-19T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -404,7 +406,7 @@ END_COM_MAP()
         Comments to &lt;a href="mailto:csells@sellsbrothers.com?subject=Smart Enumeration">csells@sellsbrothers.com&lt;/a></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12453</id>
+    <id>https://csells.github.io/sb6/12453</id>
     <title>Implementing Marshal-by-Value using ATL</title>
     <updated>2001-07-18T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -466,7 +468,7 @@ public:
 };&lt;/pre></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12454</id>
+    <id>https://csells.github.io/sb6/12454</id>
     <title>Implementing dispatch-based interfaces in ATL</title>
     <updated>2001-07-17T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -488,7 +490,7 @@ public:
 		well as VC6.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12455</id>
+    <id>https://csells.github.io/sb6/12455</id>
     <title>MeowMoniker</title>
     <updated>2001-07-16T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -507,7 +509,7 @@ public:
     &lt;/ul></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12621</id>
+    <id>https://csells.github.io/sb6/12621</id>
     <title>Can I still be evil?</title>
     <updated>2001-07-15T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/gif" href="/public/fun/EvilGenius.gif"/>
@@ -522,7 +524,7 @@ align="center">&lt;img border="1" src="/public/fun/EvilGenius.gif" width="593"
 height="378"> &lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12456</id>
+    <id>https://csells.github.io/sb6/12456</id>
     <title>Basic Monikers</title>
     <updated>2001-07-15T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -545,7 +547,7 @@ dm.hostmk.1:frodo:!dm.newmk.1:00024500-0000-0000-C000-000000000046:
 dm.hostmk.1:frodo:!clsid:00024500-0000-0000-C000-000000000046:&lt;/pre></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12457</id>
+    <id>https://csells.github.io/sb6/12457</id>
     <title>regsvr.reg</title>
     <updated>2001-07-14T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>

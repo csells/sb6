@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed168.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed168.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed167.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed169.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed168.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed167.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed169.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed168.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/57</id>
+    <id>https://csells.github.io/sb6/57</id>
     <title>Making Fun of Star Wars Line Sitters</title>
     <updated>2002-05-28T07:00:00.000Z</updated>
     <published>2002-05-28T07:00:00.000Z</published>
@@ -41,7 +43,7 @@
 &lt;p>&lt;a href="http://www.babybuy.bigstep.com/generic12.html">Conan makes fun of folks&lt;/a> waiting in line for Star Wars: Attack of the Clones. Very funny.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/56</id>
+    <id>https://csells.github.io/sb6/56</id>
     <title>noMadMap: Compact .NET + MapPoint .NET</title>
     <updated>2002-05-28T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -51,7 +53,7 @@
 &lt;p>&lt;a href="http://www.brains-n-brawn.com/noMadMap/">One man's journey&lt;/a> to hook up two beta technologies and the hilarity that ensues.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/55</id>
+    <id>https://csells.github.io/sb6/55</id>
     <title>MonoLOGO: An implementation of LOGO for .NET</title>
     <updated>2002-05-27T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -61,7 +63,7 @@
 &lt;p>"&lt;a href="http://monologo.sourceforge.net/">MonoLOGO&lt;/a> provides access to all .NET constructs from within LOGO. Its goal to be 99% compliant with Berkeley LOGO (there are a few internal UCBLogo directives that won't make sense to support). Eventually I hope to extend the LOGO syntax to support most if not all of .NET's constructs."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12585</id>
+    <id>https://csells.github.io/sb6/12585</id>
     <title>The Truth Is Not Enough</title>
     <updated>2002-05-26T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -86,7 +88,7 @@
         </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/53</id>
+    <id>https://csells.github.io/sb6/53</id>
     <title>Demeanor for .NET, Enterprise Edition</title>
     <updated>2002-05-26T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -96,7 +98,7 @@
 &lt;p>"&lt;a href="http://www.wiseowl.com/products/DemeanorEnterprise.aspx">Demeanor for .NET Enterprise Edition&lt;/a> provides the most sophisticated obfuscation and optimization available for your .NET applications. Demeanor for .NET performs three categories of obfuscation - symbol obfuscation, metadata obfuscation and control flow obfuscation. All forms of obfuscation are lossy. In other words, the process throws away information making it unavailable for a decompiler."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12671</id>
+    <id>https://csells.github.io/sb6/12671</id>
     <title>Adding Custom VB.NET Project Item Template Wizards to VS.NET</title>
     <updated>2002-05-23T07:00:00.000Z</updated>
     <link rel="enclosure" type="image/jpg" href="/public/writing/addnewitemdialog.jpg"/>
@@ -217,7 +219,7 @@ Param=&amp;quot;PROJECT_TYPE = VBPROJ&amp;quot;&lt;/pre>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/52</id>
+    <id>https://csells.github.io/sb6/52</id>
     <title>Software Engineer</title>
     <updated>2002-05-22T07:00:00.000Z</updated>
     <published>2002-05-22T07:00:00.000Z</published>
@@ -232,7 +234,7 @@ But ... what can I convict my 'not well documented' boss?
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12361</id>
+    <id>https://csells.github.io/sb6/12361</id>
     <title>Mamas Don't Let Your Babies Grow Up To Be Computer Boy</title>
     <updated>2002-05-22T07:00:00.000Z</updated>
     <category term="fun" label="Fun"/>
@@ -242,7 +244,7 @@ But ... what can I convict my 'not well documented' boss?
 &lt;p>&lt;i>sttto &amp;quot;Mamas Don't Let Your Babies Grow Up To Be Cowboys&amp;quot; by Willie Nelson&lt;/i>&lt;/p>&lt;p>Chorus:&lt;br>Mama don't let your babies grow up to be computer boys&lt;br>Don't let them keyboard and drink at Starbucks&lt;br>Make 'em be doctors and lawyers and such&lt;br>Mamas don't let your babies grow up to be computer boys&lt;br>They'll always stay home and they're always alone&lt;br>Hackin' is all that they'll love&lt;br>&lt;br>Computer boys ain't easy to love and they're harder to hold&lt;br>And they'd rather give you some code than diamonds or gold&lt;br>Star Trek communicators and pocket protectors&lt;br>And each night begins a new day&lt;br>And if you don't understand him and he don't ignore you&lt;br>He'll be addicted to porn&lt;br>&lt;br>Chorus&lt;br>&lt;br>A computer boy loves shiny new gadgets and four-donut mornings&lt;br>High-speed connections and trackballs and NeverWinter Nights&lt;br>Them that don't know him won't like him and them that do &lt;br>Sometimes won't know how to take him&lt;br>He's not wrong he's just different and his brain won't let him&lt;br>Do things to make you think he's right&lt;br>&lt;br>Chorus&lt;/p>&lt;p>&lt;i>Chris Sells &lt;a href="mailto:[csells@sellsbrothers.com">[csells@sellsbrothers.com&lt;/a>]&lt;br>&lt;a href="mailto:win_tech_off_topic@yahoogroups.com">win_tech_off_topic@yahoogroups.com&lt;/a>&lt;br>Wed &lt;span class="created">5/22/2002 10:55 AM&lt;/span>&lt;/i>&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/51</id>
+    <id>https://csells.github.io/sb6/51</id>
     <title>Windows Forms message board</title>
     <updated>2002-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -252,7 +254,7 @@ But ... what can I convict my 'not well documented' boss?
 &lt;p>GotDotNet has &lt;a href="http://www.gotdotnet.com/community/messageboard/MessageBoard.aspx?id=203">a message board just for WinForms programmers&lt;/a>.&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/49</id>
+    <id>https://csells.github.io/sb6/49</id>
     <title>Wonders of WinForm: State Sanity &amp; Smart Clients</title>
     <updated>2002-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -262,7 +264,7 @@ But ... what can I convict my 'not well documented' boss?
 &lt;p>"I'd like to welcome you to &lt;a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnforms/html/winforms05202002.asp">the inaugural article of my new MSDN Online column&lt;/a>. From the title of this column, you can probably tell two things right off. It's about Windows Forms, and it's a technology I like quite a bit. Of course, as with any technology, Windows Forms has its good points and its 'opportunities for improvement.' In this column, I'll explore the various ins and outs of Microsoft .NET as it relates to building stand-alone applications, as well as the client side of client-server and n-tier applications."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/50</id>
+    <id>https://csells.github.io/sb6/50</id>
     <title>.NET Component Inspector</title>
     <updated>2002-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -272,7 +274,7 @@ But ... what can I convict my 'not well documented' boss?
 &lt;p>"Have you ever wished you could explore the behavior of a component or some code without having to write any code? To watch events occur on any object and examine the history of events? To quickly try something and see how it affects the component? To look at the visual behavior of a component as you adjust not only its properties, but execute its methods? If so &lt;a href="http://www.nogoop.com/products.html">the nogoop .NET Component Inspector&lt;/a> is the tool you have been seeking."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/48</id>
+    <id>https://csells.github.io/sb6/48</id>
     <title>Adding Ref-Counting to Rotor</title>
     <updated>2002-05-21T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -282,7 +284,7 @@ But ... what can I convict my 'not well documented' boss?
 I've just been awarded a grant from Microsoft Research in Cambridge for &lt;a href="/public/tools/RotorRefCounting.doc">"Studying the Performance and Memory Usage Effects of Adding Reference Counting to Rotor."&lt;/a> Now we'll see whether they were right to leave ref-counting out of the CLR or not. Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/47</id>
+    <id>https://csells.github.io/sb6/47</id>
     <title>Reflections on "A New Kind of Science"</title>
     <updated>2002-05-20T07:00:00.000Z</updated>
     <published>2002-05-20T07:00:00.000Z</published>
@@ -291,7 +293,7 @@ I've just been awarded a grant from Microsoft Research in Cambridge for &lt;a hr
 "In his remarkable new book, Stephen Wolfram asserts that cellular automata operations underlie much of the real world. He even asserts that the entire Universe itself is a big cellular-automaton computer. But &lt;a href="http://www.kurzweilai.net/meme/frame.html?main=/articles/art0464.html?">Ray Kurzweil challenges the ability of these ideas&lt;/a> to fully explain the complexities of life, intelligence, and physical phenomena."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/46</id>
+    <id>https://csells.github.io/sb6/46</id>
     <title>.Net Data Provider for PostgreSQL Announced</title>
     <updated>2002-05-20T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -305,7 +307,7 @@ I've just been awarded a grant from Microsoft Research in Cambridge for &lt;a hr
 &lt;p>"Any help, suggestion, recommendation is welcome."&lt;/p></content>
   </entry>
   <entry>
-    <id>http://localhost:8080/45</id>
+    <id>https://csells.github.io/sb6/45</id>
     <title>JasonW on Rotor (very cool!)</title>
     <updated>2002-05-18T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>

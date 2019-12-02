@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed120.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed120.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed119.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed121.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed120.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed119.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed121.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed120.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/12532</id>
+    <id>https://csells.github.io/sb6/12532</id>
     <title>No huggy, no kissy, until I get an RSS feed</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -63,7 +65,7 @@ require an RSS feed before I'm willing to wed myself to a blog&lt;/a>.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12531</id>
+    <id>https://csells.github.io/sb6/12531</id>
     <title>Positive Affirmation</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -115,7 +117,7 @@ morning feeling lead to positive affirmation of a different kind.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/724</id>
+    <id>https://csells.github.io/sb6/724</id>
     <title>"Sudden Wealth Syndrome"</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <published>2003-08-03T07:00:00.000Z</published>
@@ -124,7 +126,7 @@ morning feeling lead to positive affirmation of a different kind.&lt;/p>
 &lt;a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=1804&amp;ncid=1804&amp;e=2&amp;u=/washpost/20030803/tc_washpost/a15231_2003aug2">Here&lt;/a>. That's a disease *I* want!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/726</id>
+    <id>https://csells.github.io/sb6/726</id>
     <title>No huggy, no kissy, until I get an RSS feed</title>
     <updated>2003-08-03T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -134,7 +136,7 @@ morning feeling lead to positive affirmation of a different kind.&lt;/p>
 &lt;a href="/12532">Here&lt;/a>. The one where I stoop to using a country song to make my point.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/723</id>
+    <id>https://csells.github.io/sb6/723</id>
     <title>More Free, Cool WinForms Controls</title>
     <updated>2003-08-01T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -144,7 +146,7 @@ morning feeling lead to positive affirmation of a different kind.&lt;/p>
 &lt;a href="http://www.divil.co.uk/net/controls/">Here&lt;/a>. Includes a document manager, docking windows, menus and toolbars, outlook bar and wizards. Looks cool and they're free. Enjoy.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/722</id>
+    <id>https://csells.github.io/sb6/722</id>
     <title>Why click the Start button to shutdown?</title>
     <updated>2003-08-01T07:00:00.000Z</updated>
     <published>2003-08-01T07:00:00.000Z</published>
@@ -153,7 +155,7 @@ morning feeling lead to positive affirmation of a different kind.&lt;/p>
 &lt;a href="http://blogs.gotdotnet.com/raymondc/permalink.aspx/ace9d0d2-a56a-4ee3-a466-d54261a4a4c9">Here&lt;/a>. Raymond Chen from the MS shell team aswers the age-old question.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/721</id>
+    <id>https://csells.github.io/sb6/721</id>
     <title>Magic: The User Interface Library for .NET</title>
     <updated>2003-07-31T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -167,7 +169,7 @@ BTW, there is some overlap in the UI department with Genghis [1], but Genghis ha
 [1] http://www.genghisgroup.com</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/720</id>
+    <id>https://csells.github.io/sb6/720</id>
     <title>Real Legend: Interview with Brian Kernighan</title>
     <updated>2003-07-30T07:00:00.000Z</updated>
     <published>2003-07-30T07:00:00.000Z</published>
@@ -176,7 +178,7 @@ BTW, there is some overlap in the UI department with Genghis [1], but Genghis ha
 &lt;a href="http://www.linuxjournal.com/article.php?sid=7035">Here&lt;/a>. Brian Kernighan is the K in K&amp;R C and in AWK. He's a real legend and seems, from his interview, to be an all around pleasant fellow. I would've like to have worked with him.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/715</id>
+    <id>https://csells.github.io/sb6/715</id>
     <title>*Free* (as in beer) Access to VSIP!</title>
     <updated>2003-07-29T07:00:00.000Z</updated>
     <category term="tools" label="Tools"/>
@@ -188,7 +190,7 @@ BTW, there is some overlap in the UI department with Genghis [1], but Genghis ha
 Everything you always wanted to do to integrate seamlessly into VS.NET used to cost money. As of todays, it's free! Wahoo!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/716</id>
+    <id>https://csells.github.io/sb6/716</id>
     <title>My First .NET Show</title>
     <updated>2003-07-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -198,7 +200,7 @@ Everything you always wanted to do to integrate seamlessly into VS.NET used to c
 &lt;a href="/12533">Here&lt;/a>. The one where I have my first shoot on the .NET Show.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/718</id>
+    <id>https://csells.github.io/sb6/718</id>
     <title>Microsoft Developer Tools Roadmap 2003-2005</title>
     <updated>2003-07-29T07:00:00.000Z</updated>
     <published>2003-07-29T07:00:00.000Z</published>
@@ -207,7 +209,7 @@ Everything you always wanted to do to integrate seamlessly into VS.NET used to c
 &lt;a href="http://msdn.microsoft.com/vstudio/productinfo/roadmap.aspx">Here&lt;/a>. Plans for Visual Studio tools for Office in 2003, VS "Whidbey" in 2004 and VW "Orcas" in 2005.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/719</id>
+    <id>https://csells.github.io/sb6/719</id>
     <title>The Original .NET Redneck</title>
     <updated>2003-07-29T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -217,7 +219,7 @@ Everything you always wanted to do to integrate seamlessly into VS.NET used to c
 &lt;a href="/12346">Here&lt;/a>. Shawn Morrissey captures Eric Sink in a rare photo op.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/717</id>
+    <id>https://csells.github.io/sb6/717</id>
     <title>A Look into the Future of Visual Studio</title>
     <updated>2003-07-29T07:00:00.000Z</updated>
     <published>2003-07-29T07:00:00.000Z</published>
@@ -226,7 +228,7 @@ Everything you always wanted to do to integrate seamlessly into VS.NET used to c
 &lt;a href="http://www.atnewyork.com/news/article.php/2241651">Here&lt;/a>. I want it!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/713</id>
+    <id>https://csells.github.io/sb6/713</id>
     <title>Microsoft Plays Hiring Hardball</title>
     <updated>2003-07-28T07:00:00.000Z</updated>
     <category term="interview" label="Interviewing"/>
@@ -238,7 +240,7 @@ Everything you always wanted to do to integrate seamlessly into VS.NET used to c
 While I agree that finally coming to work for Microsoft is like a baseball fan getting to play for the Yankees, I'm not sure where Darryl got his "top dollar" information. Maybe I should talk to the other guys about their deals... : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12533</id>
+    <id>https://csells.github.io/sb6/12533</id>
     <title>My First .NET Show</title>
     <updated>2003-07-28T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>

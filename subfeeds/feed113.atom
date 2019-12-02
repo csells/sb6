@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:8080/subfeeds/feed113.atom</id>
+  <id>https://csells.github.io/sb6/subfeeds/feed113.atom</id>
   <title>Marquee de Sells</title>
   <updated>2019-08-04T07:00:00.000Z</updated>
-  <link rel="first" href="http://localhost:8080/feed.atom"/>
-  <link rel="last" href="http://localhost:8080/subfeeds/feed178.atom"/>
-  <link rel="previous" href="http://localhost:8080/subfeeds/feed112.atom"/>
-  <link rel="next" href="http://localhost:8080/subfeeds/feed114.atom"/>
-  <link rel="self" href="http://localhost:8080/subfeeds/feed113.atom"/>
+  <link rel="first" href="https://csells.github.io/sb6/feed.atom"/>
+  <link rel="last" href="https://csells.github.io/sb6/subfeeds/feed178.atom"/>
+  <link rel="previous" href="https://csells.github.io/sb6/subfeeds/feed112.atom"/>
+  <link rel="next" href="https://csells.github.io/sb6/subfeeds/feed114.atom"/>
+  <link rel="self" href="https://csells.github.io/sb6/subfeeds/feed113.atom"/>
   <author>
     <name>Chris Sells</name>
-    <uri>http://localhost:8080/</uri>
+    <uri>https://csells.github.io/sb6/</uri>
     <email>csells@sellsbrothers.com</email>
   </author>
   <category term=".net" label=".NET"/>
@@ -30,9 +30,11 @@
   <category term="tools" label="Tools"/>
   <category term="win8" label="Windows 8"/>
   <category term="writing" label="Writing"/>
+  <icon>https://csells.github.io/sb6//public/favicon.ico</icon>
+  <logo>https://csells.github.io/sb6//public/images/vikingme128x128.jpg</logo>
   <subtitle>Chris's insight outlet</subtitle>
   <entry>
-    <id>http://localhost:8080/819</id>
+    <id>https://csells.github.io/sb6/819</id>
     <title>Be Interviewed by Sys-Con Radio @ the PDC</title>
     <updated>2003-09-15T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -42,7 +44,7 @@
 &lt;a href="http://www.sys-con.com/dotnet/radio2003/schedule.cfm">Here&lt;/a>. Got something to say about Longhorn or .NET at the PDC in October? Sign up to be interviewed with the likes of Ken Getz, Jonathan Zuck, Scott Hanselman and Ingo Rammer.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/818</id>
+    <id>https://csells.github.io/sb6/818</id>
     <title>Longhorn Rocks!</title>
     <updated>2003-09-15T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -52,7 +54,7 @@
 &lt;a href="http://msdn.microsoft.com/events/pdc/">Here&lt;/a>. Just testing...</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/817</id>
+    <id>https://csells.github.io/sb6/817</id>
     <title>That's just freaky!</title>
     <updated>2003-09-14T07:00:00.000Z</updated>
     <published>2003-09-14T07:00:00.000Z</published>
@@ -63,7 +65,7 @@
 [blogs.gotdotnet.com/EricGu]</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/816</id>
+    <id>https://csells.github.io/sb6/816</id>
     <title>FoxTrot pays homage to Tim Ewald's new blog</title>
     <updated>2003-09-14T07:00:00.000Z</updated>
     <published>2003-09-14T07:00:00.000Z</published>
@@ -72,7 +74,7 @@
 &lt;a href="http://www.ucomics.com/foxtrot/2003/09/14/">Here&lt;/a>. I mean, what *else* could Bill Amend *possibly* be referring to?!?</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12522</id>
+    <id>https://csells.github.io/sb6/12522</id>
     <title>Google is Scary Smart, or Just Scary...</title>
     <updated>2003-09-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -94,7 +96,7 @@ damn scary...&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/815</id>
+    <id>https://csells.github.io/sb6/815</id>
     <title>Google is Scary Smart, or Just Scary...</title>
     <updated>2003-09-13T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -104,7 +106,7 @@ damn scary...&lt;/p>
 &lt;a href="/12522">Here&lt;/a>. The one where Google is enormously useful and enormously scary at the same time.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/812</id>
+    <id>https://csells.github.io/sb6/812</id>
     <title>Hard Core Messaging with WSE 2.0, Pt. 2</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <published>2003-09-12T07:00:00.000Z</published>
@@ -113,7 +115,7 @@ damn scary...&lt;/p>
 &lt;a href="http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20030912WebServicesKB/manifest.xml">Here&lt;/a>. Keith Ballinger from the Applied XML Developer's Conference, part 2.</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/810</id>
+    <id>https://csells.github.io/sb6/810</id>
     <title>Respect for Marketing</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -123,7 +125,7 @@ damn scary...&lt;/p>
 &lt;a href="/12523">Here&lt;/a>. The one where I take a look at all of the things that the typical marketing guys has to balance and thank goodness I just get to think about developers. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/811</id>
+    <id>https://csells.github.io/sb6/811</id>
     <title>PDC2003 Blogging Site</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -133,7 +135,7 @@ damn scary...&lt;/p>
 &lt;a href="http://www.pdcbloggers.net">Here&lt;/a>. Speaking at the PDC? Going to the PDC? Missing out on the PDC? Check out the PDC Bloggers site, which should keep you neck deep in news (but if you're not there, you're still missing a massive love fest... : ).</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/809</id>
+    <id>https://csells.github.io/sb6/809</id>
     <title>Why is the taskbar at the bottom of the screen?</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <published>2003-09-12T07:00:00.000Z</published>
@@ -144,7 +146,7 @@ damn scary...&lt;/p>
 For those few that still do, I've long since memorized the key sequence: Alt, Space, M, which flips a window into "Move Mode" and lets me use the arrows to move it down. I can understand why MS didn't want to teach everyone that and instead just put the taskbar at the bottom. : )</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/814</id>
+    <id>https://csells.github.io/sb6/814</id>
     <title>Where do you want to go today, fritter?</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <category term=".net" label=".NET"/>
@@ -154,7 +156,7 @@ For those few that still do, I've long since memorized the key sequence: Alt, Sp
 &lt;a href="http://www.gotdotnet.com/team/redvsblue">Here&lt;/a>. Hilarious PDC03 Red vs. Blue video!</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12523</id>
+    <id>https://csells.github.io/sb6/12523</id>
     <title>Respect for Marketing</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -176,7 +178,7 @@ unabashed respect.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/813</id>
+    <id>https://csells.github.io/sb6/813</id>
     <title>"Move over Petzold, Sells is here."</title>
     <updated>2003-09-12T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -197,7 +199,7 @@ And, of course, the quote that makes my life complete:
 "Move over Petzold, Sells is here."</content>
   </entry>
   <entry>
-    <id>http://localhost:8080/12524</id>
+    <id>https://csells.github.io/sb6/12524</id>
     <title>Let us pause on 9/11...</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <category term="spout" label="The Spout"/>
@@ -233,7 +235,7 @@ right to the pursuit of happiness out of our lives.&lt;/p>
 </content>
   </entry>
   <entry>
-    <id>http://localhost:8080/805</id>
+    <id>https://csells.github.io/sb6/805</id>
     <title>Redmond man slams spammers for $250,000</title>
     <updated>2003-09-11T07:00:00.000Z</updated>
     <published>2003-09-11T07:00:00.000Z</published>
